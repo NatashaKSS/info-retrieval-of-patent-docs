@@ -7,6 +7,9 @@ import getopt
 from os import listdir
 import pickle
 
+# Standard API for XML Parsing
+from xml.dom import minidom
+
 # Import NLTK modules needed
 import nltk
 from nltk.tokenize import word_tokenize
@@ -23,13 +26,6 @@ from nltk.stem import PorterStemmer
 # recorded in the dictionary as auxiliary storage so that it can be used in 
 # search.py for normalization of the doc vectors.
 #======================================================================#
-
-"""
-TODO:
-
-No need to be sorted anymore.
-Not docIDs ints but just Strings
-"""
 
 term_docID_map = {}
 docLength_map = {}
@@ -50,9 +46,15 @@ def construct_inverted_index() :
     for file_name in list_of_files:
         # Checks for trailing slash in case
         if dir_of_docs.endswith("/"):
-            file_text = open(dir_of_docs + file_name, "r").read();
+            file_dir = dir_of_docs + file_name
+            file_text = open(file_dir, "r").read();
         else:
-            file_text = open(dir_of_docs + "/" + file_name, "r").read();
+            file_dir = dir_of_docs + "/" + file_name
+            file_text = open(file_dir, "r").read();
+        
+        # XML parsing of docs
+        print file_dir
+        XML_doc = minidom.parse(file_dir);
         
         if file_name.endswith(".xml"):
             file_name = file_name[:-4]; # Remove ".xml" in file name
