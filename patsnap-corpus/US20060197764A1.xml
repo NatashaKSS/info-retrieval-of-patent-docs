@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20060197764A1
+	</str>
+	<str name="Application Number">
+		US11071097
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Document animation system
+	</str>
+	<str name="Abstract">
+		An animating system converts a text-based document into a sequence of animating pictures for helping a user to understand better and faster. First, the system provides interfaces for a user to build various object models, specify default rules for these object models, and construct the references for meanings and actions. Second, the system will analyze the document, extract desired information, identify various objects, and organize information. Then the system will create objects from corresponding object models and provide interfaces to modify default values and default rules and define specific values and specific rules. Further, the system will identify the meanings of words and phrases. Furthermore, the system will identify, interpolate, synchronize, and dispatch events. Finally, the system provides interface for the user to track events and particular objects.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-03-02
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2006-09-07
+	</str>
+	<str name="Publication Year">
+		2006
+	</str>
+	<str name="Publication(Year/Month)">
+		2006-09
+	</str>
+	<str name="All IPC">
+		G06T15/70
+	</str>
+	<str name="IPC Primary">
+		G06T15/70
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T15
+	</str>
+	<str name="All UPC">
+		345/473
+	</str>
+	<str name="UPC Primary">
+		345/473
+	</str>
+	<str name="UPC Class">
+		345
+	</str>
+	<str name="Family Members">
+		US20060197764A1 | US7412389
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		7109705
+	</str>
+	<str name="Priority Date">
+		2005-03-02
+	</str>
+	<str name="Inventor(s)">
+		YANG GEORGE
+	</str>
+	<str name="1st Inventor">
+		YANG GEORGE
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Owings Mills,MD,US
+	</str>
+	<str name="Inventor(s) Address">
+		Owings Mills,MD,US
+	</str>
+	<str name="Agent/Attorney">
+		GEORGE L. YANG
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

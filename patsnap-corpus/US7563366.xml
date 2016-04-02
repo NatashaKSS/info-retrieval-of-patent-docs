@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7563366
+	</str>
+	<str name="Application Number">
+		US12/146120
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System for removing BOD and suspended solids through an activated sludge process and a ballasted flocculation process
+	</str>
+	<str name="Abstract">
+		A method and system for treating water or wastewater to remove both soluble BOD and suspended solids. The method entails directing first and second water or wastewater streams to a treatment system including an activated sludge system and a ballasted flocculation system. The first water or wastewater stream is directed to the activated sludge system which includes at least one reactor and a clarifier. The second water or wastewater stream is directed to a ballasted flocculation system. Mixed liquor or activated sludge is directed from the activated sludge system to a mixing chamber that is located upstream from the ballasted flocculation system. The water or wastewater of the second stream is mixed with the mixed liquor or activated sludge in the mixing chamber. The mixed liquor from the mixing chamber is directed to and through the ballasted flocculation system. In the end, the soluble BOD in the second water or wastewater stream is reduced and suspended solids in the water or wastewater are also reduced.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-06-25
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-06
+	</str>
+	<str name="Publication Date">
+		2009-07-21
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-07
+	</str>
+	<str name="All IPC">
+		C02F3/00 | B01D24/28
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/189 | 210/195.3 | 210/196 | 210/253 | 210/265
+	</str>
+	<str name="UPC Primary">
+		210/189
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		WO200807098298A3 | US20070163955A1 | JP2009523598A | US7407582 | AU2007217383A1 | WO2007098298A2 | EP1973853A2 | CA2636028A1 | US20080257810A1 | US7563366 | CN101370738A
+	</str>
+	<str name="Family Member Count">
+		11
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5976375 | US6277285 | US6783679 | US7153431 | FR2719235
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		14612008 | 33154006
+	</str>
+	<str name="Priority Date">
+		2008-06-25 | 2006-01-13
+	</str>
+	<str name="Assignee(s)">
+		OTU SA S.A.
+	</str>
+	<str name="1st Assignee">
+		OTU SA S.A.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Saint-Maurice Cedex, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Saint-Maurice Cedex, FR
+	</str>
+	<str name="Inventor(s)">
+		SUN, JYH-WEI
+	</str>
+	<str name="1st Inventor">
+		SUN, JYH-WEI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Plano, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Plano, TX
+	</str>
+	<str name="Agent/Attorney">
+		COATS &amp; BENNETT, P.L.L.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7572390
+	</str>
+	<str name="Application Number">
+		US11226100
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Composition and method for reducing chemical oxygen demand in water
+	</str>
+	<str name="Abstract">
+		A method and composition for reducing chemical oxygen demand is presented. The composition includes a persulfate donor, a transition metal catalyst in contact with the persulfate donor, and a cationic electrolyte. When the composition is contacted by water, the transition metal catalyst reacts with persulfate and reduces the persulfate concentration in the water. The composition allows the use of persulfate, which is known to cause irritation to users of aquatic facilities (e.g., pools, spas) that come in contact with it. As the persulfate concentration is reduced rapidly in the water by the catalyzed reaction, the persulfate-containing product may be applied while the aquatic facilities are being used. A free halogen donor may be incorporated into the composition. The composition may be in the form of powder, granules (coated or uncoated), or agglomerate. The cationic electrolyte facilitates the removal of the catalyst from the water.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-09-14
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2009-08-11
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-08
+	</str>
+	<str name="All IPC">
+		C01B15/08 | C02F1/76 | C02F1/72 | C02F1/68 | C01B11/00
+	</str>
+	<str name="IPC Primary">
+		C01B15/08
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C01
+	</str>
+	<str name="IPC Subclass">
+		C01B
+	</str>
+	<str name="IPC Group">
+		C01B15
+	</str>
+	<str name="All UPC">
+		252/187.23 | 252/187.1 | 252/186.27 | 252/187.24 | 252/187.27 | 252/186.35 | 252/186.33 | 252/187.28 | 252/186.34 | 252/186.32 | 252/186.36 | 252/186.21
+	</str>
+	<str name="UPC Primary">
+		252/187.23
+	</str>
+	<str name="UPC Class">
+		252
+	</str>
+	<str name="Family Members">
+		US20060293177A1 | US20060293178A1 | US20090072193A1 | US7476333 | US7572384 | US7572390 | US20060293179A1
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7695631 | US7794607 | US7922933 | US7976725 | US7927508 | US7927509
+	</str>
+	<str name="Cited By Count">
+		6
+	</str>
+	<str name="Cites">
+		US5139762 | US6139769 | US5599781 | US20060078584 | US5607656 | US20050035066 | US3532634 | US4492618 | US20050261138 | US20050155936 | US6409926 | US20060013751 | US20050167635 | US20060013750 | US6221826 | US6863830 | US5525121 | US7465410
+	</str>
+	<str name="Cites Count">
+		18
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		22610005 | 15867605
+	</str>
+	<str name="Priority Date">
+		2005-09-14 | 2005-06-22
+	</str>
+	<str name="Assignee(s)">
+		TRUOX, INC.
+	</str>
+	<str name="1st Assignee">
+		TRUOX, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		McClellan, CA
+	</str>
+	<str name="Assignee(s) Address">
+		McClellan, CA
+	</str>
+	<str name="Inventor(s)">
+		MARTIN, ROY, W.
+	</str>
+	<str name="1st Inventor">
+		MARTIN, ROY, W.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Downers, Grove, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Downers, Grove, IL
+	</str>
+	<str name="Primary Examiner">
+		ANTHONY, JOSEPH D
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

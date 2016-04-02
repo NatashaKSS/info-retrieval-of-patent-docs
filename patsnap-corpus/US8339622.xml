@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8339622
+	</str>
+	<str name="Application Number">
+		US12/200502
+	</str>
+	<str name="Title">
+		Image processing apparatus and integrated document generating method
+	</str>
+	<str name="Abstract">
+		An image processing apparatus includes a vectorizing unit configured to convert bitmap image data into vectorized data; an integrated document generating unit configured to generate an integrated document which includes the vectorized data and metadata; an accompanying information extraction unit configured to extract one or more of accompanying information relating to the bitmap image data from the bitmap image data; a selection unit configured to select accompanying information meeting conditions which have been defined beforehand out of one or more of accompanying information extracted by the accompanying information extraction unit; and a registration unit configured to register the accompanying information selected by the selection unit as the metadata of the integrated document.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-08-28
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-08
+	</str>
+	<str name="Publication Date">
+		2012-12-25
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-12
+	</str>
+	<str name="All IPC">
+		G06F15/00 | G06F17/00
+	</str>
+	<str name="IPC Primary">
+		G06F15/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="All UPC">
+		358/1.13 | 235/375
+	</str>
+	<str name="UPC Primary">
+		358/1.13
+	</str>
+	<str name="UPC Class">
+		358
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20060007481 | JP1989106263 | JP2005208872 | JP2006023942
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2007-224093
+	</str>
+	<str name="Priority Date">
+		2007-08-30
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		SATO, YUKIMASA
+	</str>
+	<str name="1st Inventor">
+		SATO, YUKIMASA
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Agent/Attorney">
+		CANON U.S.A., INC. IP DIVISION
+	</str>
+	<str name="Primary Examiner">
+		DEHKORDY, SAEID EBRAHIMI
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

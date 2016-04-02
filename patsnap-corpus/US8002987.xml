@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8002987
+	</str>
+	<str name="Application Number">
+		US12092663
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Stationary phase and column using cucurbituril bonded silica gel, and separation method of taxol using the column
+	</str>
+	<str name="Abstract">
+		Provided are a stationary phase and a column using a cucurbituril-bound silica gel, and a method of separating taxane using the column. The taxane separation method includes: preparing a column for taxane separation, the column being packed with a stationary phase including a cucurbituril-bound silica gel in which a cucurbituril represented by Formula 1 or 2 is covalently bound to a modified silica gel represented by Formula 3; dissolving a taxane powder in a solvent to prepare a taxane-containing solution; applying the taxane-containing solution to the column; supplying a mobile-phase solvent to the column to obtain a taxane extract from the column; and purifying taxane from the taxane extract. Therefore, highly purified taxane can be separated from a low-purity crude taxane extract.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-03-24
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-03
+	</str>
+	<str name="Publication Date">
+		2011-08-23
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/198.2 | 549/510 | 210/635 | 210/656 | 210/502.1
+	</str>
+	<str name="UPC Primary">
+		210/198.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Supplementary European Search Report dated Jan. 20, 2010. cited by other . | Youngkook Kim, Hyunuk Kim, Young Ho Ko, Narayanan Selvapalam, Mikhail V. Rekharsky, Yoshihisa Inoue, and Kimoon Kim, Complexation of Aliphatic Ammonium Ions with a Water-Soluble Cucurbit[6] uril Derivative in Pure Water: Isothermal Calorimetric, NMR, and X-ray Crystallographic Study, 2009, pp. 6143-6151, Chem. Eur. J. cited by other. | Mikhail V. Rekharsky, Tadashi Mori, Cheng Yang, Young Ho Ko, N. Selvapalam, Hyunuk Kim, David Sobransingh, Angel E. Kaifer, Simin Liu, Lyle Isaacs, Wei Chen, Sarvin Moghaddam, Michael K. Gilson, Kimoon Kim, and Yoshihisa Inoue, A Synthetic host-guest system achieves avidin-biotin affinity by overcoming enthalpy-entropy compensation, Dec. 26, 2007, pp. 20737-20742, vol. 104, No. 52, The National Academy of Sciences of the USA. cited by other . | Kimoon Kim, Narayanan Selvapalam, Young Ho Ko, Kyeng Min Park, Dongwoo Kim, and Jeeyeon Kim, Functionalized cucurbiturils and their applications, Nov. 7, 2006, pp. 267-279, 36, Chemical Society Reviews, The Royal Society of Chemistry 2007. cited by other . | Jae Wook Lee, S. Samal, N. Selvapalam, Hee-Joon Kim, and Kimoon Kim, Cucurbituril Homologues and Derivatives: New Opportunities in Supramolecular Chemistry, Feb. 12, 2003, pp. 621-630, vol. 36, No. 8, 2003, Accounts of Chemical Research, Pohang, Republic of Korea. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cites">
+		US6878832 | US5480639 | US20040063977 | US5279949 | US5478736 | US20060074254 | US6639069 | US5969165 | WO2005087777 | WO2004083176 | WO2004072151
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Assignee(s)">
+		POSTECH ACADEMY-INDUSTRY FOUNDATION
+	</str>
+	<str name="1st Assignee">
+		POSTECH ACADEMY-INDUSTRY FOUNDATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kyungsangbuk-do, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Kyungsangbuk-do, KR
+	</str>
+	<str name="Inventor(s)">
+		KIM, KIMOON | PARK, KYENG-MIN | KO, YOUNG-HO | SELVAPALAM, NARAYANAN | NAGARAJAN, ERUMAIPATTY, R
+	</str>
+	<str name="1st Inventor">
+		KIM, KIMOON
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Pohang, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Pohang, KR | Pohang, KR | Pohang, KR | Pohang, KR | Pohang, KR
+	</str>
+	<str name="Agent/Attorney">
+		PERMAN &amp; GREEN, LLP
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

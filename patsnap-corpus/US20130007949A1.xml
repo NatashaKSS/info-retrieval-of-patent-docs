@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20130007949A1
+	</str>
+	<str name="Application Number">
+		US13/544688
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		WIRELESS ENERGY TRANSFER FOR PERSON WORN PERIPHERALS
+	</str>
+	<str name="Abstract">
+		Described is a system for wireless energy transfer for person worn peripherals. The system makes use of a technique referred to as strongly-coupled magnetic resonance to transfer energy across a distance without wires and enables efficient transfer of energy over distances of 10 to 18 cm or more. The system comprises a resonant power source, which could be embedded in a person's equipment vest or backpack receiving power from a central battery pack or micro fuel cell, and a resonant power capture unit which could be integrated with the helmet or hand held weapon, electronic device, and the like that may be carried or handled by a person.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2012-07-09
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-07
+	</str>
+	<str name="Publication Date">
+		2013-01-10
+	</str>
+	<str name="Publication Year">
+		2013
+	</str>
+	<str name="Publication(Year/Month)">
+		2013-01
+	</str>
+	<str name="All IPC">
+		A42B3/04 | H02J17/00 | A41D1/04
+	</str>
+	<str name="IPC Primary">
+		A42B3/04
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A42
+	</str>
+	<str name="IPC Subclass">
+		A42B
+	</str>
+	<str name="IPC Group">
+		A42B3
+	</str>
+	<str name="All UPC">
+		2/410 | 2/102 | 307/104
+	</str>
+	<str name="UPC Primary">
+		2/410
+	</str>
+	<str name="UPC Class">
+		2
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		WITRICITY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		WITRICITY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Watertown, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Watertown, MA
+	</str>
+	<str name="Inventor(s)">
+		KURS, ANDRE, B. | KESLER, MORRIS, P. | HALL, KATHERINE, L. | VERGHESE, SIMON
+	</str>
+	<str name="1st Inventor">
+		KURS, ANDRE, B.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Chestnut, Hill, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Chestnut, Hill, MA | Bedford, MA | Westford, MA | Arlington, MA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

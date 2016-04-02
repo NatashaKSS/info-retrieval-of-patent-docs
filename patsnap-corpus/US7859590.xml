@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7859590
+	</str>
+	<str name="Application Number">
+		US11374493
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Electronic device having device side terminal portion for contact with battery
+	</str>
+	<str name="Abstract">
+		An electronic device includes, in an interior of a flat housing, a battery compartment, and a device side terminal portion that contacts a side terminal portion of a battery stored in the battery compartment portion. The device side terminal portion includes a plurality of terminals that contact terminals of the side terminal portion of the battery, and a terminal holder that holds the plurality of terminals and that is attached to a printed circuit board. The terminal holder includes a printed circuit board overlap portion that supports the printed circuit board in overlapping relationship with a side portion of the terminal holder. The plurality of terminals are connected to the printed circuit board through the printed circuit board overlap portion. The device side terminal portion also includes one or more ground terminals.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-03-13
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-03
+	</str>
+	<str name="Publication Date">
+		2010-12-28
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-12
+	</str>
+	<str name="All IPC">
+		H01M2/10 | H04N5/225
+	</str>
+	<str name="IPC Primary">
+		H01M2/10
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M2
+	</str>
+	<str name="All UPC">
+		348/372 | 348/373 | 429/187 | 361/235
+	</str>
+	<str name="UPC Primary">
+		348/372
+	</str>
+	<str name="UPC Class">
+		348
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5865643 | US6652302 | US6515450 | US5470255 | US20050158621 | US20030155889 | US6302727 | JP2003036915 | JP2002110121
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2005071603
+	</str>
+	<str name="Priority Date">
+		2005-03-14
+	</str>
+	<str name="Assignee(s)">
+		SONY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SONY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		JP
+	</str>
+	<str name="Assignee(s) Address">
+		JP
+	</str>
+	<str name="Inventor(s)">
+		YANAGIDA, KENJI | TOMOMORI, SACHIO | WATANABE, TOMONORI | OKUCHI, TETSUYA
+	</str>
+	<str name="1st Inventor">
+		YANAGIDA, KENJI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Aichi, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Aichi, JP | Kanagawa, JP | Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		LERNER, DAVID, LITTENBERG, KRUMHOLZ &amp; MENTLIK, LLP
+	</str>
+	<str name="Primary Examiner">
+		HO, TUAN
+	</str>
+	<str name="Assistant Examiner">
+		LAM, HUNG H
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

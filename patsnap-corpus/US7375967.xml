@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7375967
+	</str>
+	<str name="Application Number">
+		US11285073
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Portable electronic device and heat-dissipation method and battery charger thereof
+	</str>
+	<str name="Abstract">
+		A heat-dissipation method comprises providing a heat-transfer module and a heat-dissipation module, wherein the heat-transfer module is disposed in a portable electronic device, and the heat-dissipation module is disposed in a battery charger. The heat-dissipation module then contacts the heat-transfer module to remove heat from the electronic device via conduction. Finally, the heat-dissipation module dissipates heat via conduction or convection.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-11-23
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2008-05-20
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		H01L23/36 | H05K7/20
+	</str>
+	<str name="IPC Primary">
+		H01L23/36
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01L
+	</str>
+	<str name="IPC Group">
+		H01L23
+	</str>
+	<str name="All UPC">
+		361/689 | 320/104 | 361/707 | 361/687 | 165/185 | 165/80.3 | 320/109 | 361/710 | 320/107 | 165/104.33
+	</str>
+	<str name="UPC Primary">
+		361/689
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		TW265775B | US20060232929A1 | US7375967
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20020181201 | US6034874 | US6313987 | US6084769 | US6601179 | US6181553 | US6172871 | US6711014 | US6362959 | US6219233 | US6459575 | US6837058 | US5898569 | US6343010 | US7081686 | US5946191 | US7116554 | US6275945 | CN1237056 | JP2005039019 | CN1195264 | JP1994150978
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Priority Country">
+		TW
+	</str>
+	<str name="Priority Number">
+		94111985A
+	</str>
+	<str name="Priority Date">
+		2005-04-15
+	</str>
+	<str name="Assignee(s)">
+		HIGH TECH COMPUTER, CORP.
+	</str>
+	<str name="1st Assignee">
+		HIGH TECH COMPUTER, CORP.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Taoyuan, TW
+	</str>
+	<str name="Assignee(s) Address">
+		Taoyuan, TW
+	</str>
+	<str name="Inventor(s)">
+		HUANG, YI-CHANG | LIN, YAO-CHUNG
+	</str>
+	<str name="1st Inventor">
+		HUANG, YI-CHANG
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Taipei, County, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Taipei, County, TW | Taipei, County, TW
+	</str>
+	<str name="Agent/Attorney">
+		BIRCH, STEWART, KOLASCH &amp; BIRCH, LLP
+	</str>
+	<str name="Primary Examiner">
+		DATSKOVSKIY, MICHAEL V
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7553394
+	</str>
+	<str name="Application Number">
+		US10/533460
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for removing potassium from ash produced in a kraft pulping process recovery boiler using a Na-type cation exchange organic resin
+	</str>
+	<str name="Abstract">
+		In the process for producing kraft pulp, performing a potassium ion removal step of flowing an aqueous solution containing ashes recovered from a combustion exhaust gas generated in a black solution combustion step by a dust collector through a packed bed filled with a sodium-type cation exchange organic resin to adsorb and remove potassium ions contained in the aqueous solution; and a regeneration step of treating the cation exchange organic resin used in the potassium ion removal step with a solution consisting essentially of aqueous sodium hydroxide to regenerate the cation exchange resin, where a fraction recovered from the potassium ion removal step which is rich in sodium sulfate and sodium carbonate is recycled to the black solution concentrating step, and a sodium hydroxide effluent recovered from the regeneration step is recycled to a bleaching step and used in a bleaching process.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-09-11
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-09
+	</str>
+	<str name="Publication Date">
+		2009-06-30
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		D21C3/26
+	</str>
+	<str name="IPC Primary">
+		D21C3/26
+	</str>
+	<str name="IPC Section">
+		D
+	</str>
+	<str name="IPC Class">
+		D21
+	</str>
+	<str name="IPC Subclass">
+		D21C
+	</str>
+	<str name="IPC Group">
+		D21C3
+	</str>
+	<str name="All UPC">
+		162/17 | 162/29 | 162/30.1 | 162/31 | 162/35 | 162/37 | 210/660 | 210/670
+	</str>
+	<str name="UPC Primary">
+		162/17
+	</str>
+	<str name="UPC Class">
+		162
+	</str>
+	<str name="Family Members">
+		CN1288298C | EP1566480A4 | JP2004156154A | WO2004042140A1 | JP3811674B2 | US7553394 | CN1694987A | US20060219375A1 | EP1566480A1 | EP1566480B1 | BR0315901A | CA2504303A1 | CA2504303C | AU2003268636A1 | AU2003268636A8
+	</str>
+	<str name="Family Member Count">
+		15
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		English Machine translation of JP 2002-138382 Kono et al. cited by examiner | Smook, Handbook for Pulp and Paper Technologists, 1992, Angus Wilde Publications, 2nd Edition, p. 74-77, 148-150,163-164, 174-175. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5616280 | US5628874 | US5922171 | US5980717 | JP1977140702 | JP1993171586 | JP2002138382 | JP2002146691
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2002-320651
+	</str>
+	<str name="Priority Date">
+		2002-11-05
+	</str>
+	<str name="Assignee(s)">
+		NIPPON RENSUI CO. (TOKYO, JP) HOKUETSU PAPER MILLS, LTD.
+	</str>
+	<str name="1st Assignee">
+		NIPPON RENSUI CO. (TOKYO, JP) HOKUETSU PAPER MILLS, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Niigata-ken, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Niigata-ken, JP
+	</str>
+	<str name="Inventor(s)">
+		FURUSHO, SABURO | KAWANO, NORIO | WAKAMOTO, SHIGERU
+	</str>
+	<str name="1st Inventor">
+		FURUSHO, SABURO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Toshima-ku, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Toshima-ku, JP | Yokohama, JP | Niigata, JP
+	</str>
+	<str name="Agent/Attorney">
+		NIXON &amp; VANDERHYE P.C.
+	</str>
+	<str name="Primary Examiner">
+		HUG, ERIC
+	</str>
+	<str name="Assistant Examiner">
+		CALANDRA, ANTHONY J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

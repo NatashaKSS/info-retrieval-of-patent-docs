@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7947170
+	</str>
+	<str name="Application Number">
+		US11845625
+	</str>
+	<str name="Title">
+		Apparatus for treatment of chemical mechanical polishing fluid
+	</str>
+	<str name="Abstract">
+		Embodiments of the invention generally provide a method and an apparatus for treating waste effluents from substrate polishing processes, such as from an electrochemical mechanical polishing (ECMP) process. In one embodiment, a method for treating a waste effluent mixture generated during a substrate process is provided which includes flowing a waste effluent comprising chelated metal complexes from a substrate process system, combining an oxidizing agent and the waste effluent to produce free chelators, flowing the waste effluent through an organoclay media and an activated carbon media to remove the free chelators, and flowing the waste effluent through an anion exchange resin to remove metal ions and produce a waste water.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-08-27
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2011-05-24
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-05
+	</str>
+	<str name="All IPC">
+		B01D36/02
+	</str>
+	<str name="IPC Primary">
+		B01D36/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D36
+	</str>
+	<str name="All UPC">
+		210/196 | 210/269 | 210/202 | 210/85 | 210/195.1 | 210/205 | 210/502.1
+	</str>
+	<str name="UPC Primary">
+		210/196
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		PCT International Search Report and Written Opinion dated Jan. 25, 2008 for International Application No. PCT/US2007/76890. (APPM/010814 PCT). cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US8304344
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US7601264 | US7542132 | US6346195 | US20010039077 | US20020104803 | US6238571 | US20050076581 | US7651384 | US5244570 | US7048857 | US4740488 | US5922206 | US5604264 | US20060021943 | US6106728 | US5827362
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Assignee(s)">
+		APPLIED MATERIALS, INC.
+	</str>
+	<str name="1st Assignee">
+		APPLIED MATERIALS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Santa Clara, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Santa Clara, CA
+	</str>
+	<str name="Inventor(s)">
+		GOLDEN, JOSH, H. | PORSHVEV, PETER, I. | WOOLSTON, MICHAEL, R. | KISSANE, CORMAC
+	</str>
+	<str name="1st Inventor">
+		GOLDEN, JOSH, H.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Santa, Cruz, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Santa, Cruz, CA | San, Jose, CA | San, Jose, CA | San, Mateo, CA
+	</str>
+	<str name="Agent/Attorney">
+		PATTERSON &amp; SHERIDAN, LLP
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

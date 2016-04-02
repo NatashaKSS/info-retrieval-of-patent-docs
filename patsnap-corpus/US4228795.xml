@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US4228795
+	</str>
+	<str name="Application Number">
+		US05775494
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Apparatus for producing finely divided liquid spray
+	</str>
+	<str name="Abstract">
+		Apparatus for producing finely divided liquid particles which includes two chambers having means for conveying liquid from one chamber to the other and back again to the first chamber in response to a means for producing a pressure differential between the chambers. A hollow apertured plenum chamber having a smooth outer surface is positioned so that the liquid impinges on its exterior surface as it traverses its flow path. Gas is supplied under pressure to the interior of the plenum and ruptures the thin film of liquid at the aperture to produce the finely divided liquid particles.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1977-03-08
+	</str>
+	<str name="Application Year">
+		1977
+	</str>
+	<str name="Application(Year/Month)">
+		1977-03
+	</str>
+	<str name="Publication Date">
+		1980-10-21
+	</str>
+	<str name="Publication Year">
+		1980
+	</str>
+	<str name="Publication(Year/Month)">
+		1980-10
+	</str>
+	<str name="All IPC">
+		B05B11/04 | B05B11/06
+	</str>
+	<str name="IPC Primary">
+		B05B11/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05B
+	</str>
+	<str name="IPC Group">
+		B05B11
+	</str>
+	<str name="All UPC">
+		239/338 | 128/200.22 | 239/346
+	</str>
+	<str name="UPC Primary">
+		239/338
+	</str>
+	<str name="UPC Class">
+		239
+	</str>
+	<str name="Family Members">
+		MX144961A | CH626809A5 | NL7802280A | GB1601727A | NL184149B | JP1014595C | SE443521B | FR2382945B1 | ZA7801164A | AU3337978A | SE7802509A | DE2808499C2 | DE2808499A1 | SE443521C | JP1978112512A | PT67680B | ES467631A1 | JP55003018B | US4228795 | AU520735B2 | IT1111423B | BE864627A1 | NL184149C | FR2382945A1 | IT7867409D0 | CA1117391A1 | PT67680A
+	</str>
+	<str name="Family Member Count">
+		27
+	</str>
+	<str name="Family Members Cited By Count">
+		18
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		FR2852261A1 | CN1777480A | CN100450634C | US4940051 | US6932082 | WO2009067549A1 | WO2009058776A1 | WO2000015282A1 | WO2004080605A1 | AU2004218942B2 | US4904606 | US7992803 | US6426336 | WO1985002345A1 | EP1201152A2
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US3664337 | US0643014 | US3506589 | US1263079 | US1839193 | US3709433 | US3421699 | US3809080 | US2274669 | US2330297 | US3864326
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		77549477
+	</str>
+	<str name="Priority Date">
+		1977-03-08
+	</str>
+	<str name="Inventor(s)">
+		BABINGTON, ROBERT, S.
+	</str>
+	<str name="1st Inventor">
+		BABINGTON, ROBERT, S.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		1113, Ingleside, Ave., McLean, VA, 22101
+	</str>
+	<str name="Inventor(s) Address">
+		1113, Ingleside, Ave., McLean, VA, 22101
+	</str>
+	<str name="Agent/Attorney">
+		POLLOCK, VANDE SANDE &amp; PRIDDY
+	</str>
+	<str name="Primary Examiner">
+		SAIFER, ROBERT W.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

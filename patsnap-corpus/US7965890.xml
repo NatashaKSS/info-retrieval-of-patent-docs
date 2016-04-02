@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7965890
+	</str>
+	<str name="Application Number">
+		US11650013
+	</str>
+	<str name="Title">
+		Target recognition system and method
+	</str>
+	<str name="Abstract">
+		A target recognition system and method. The inventive method includes the steps of first receiving an image of a scene within which a target may be included and second using constrained image segmentation as a basis for target recognition. In the specific embodiment, the segmentation is variable and derived from target geometry models. The constrained image segmentation is adapted to use target geometry models to derive alternative image segmentation hypotheses. The hypotheses are verified using a novel hierarchical adaptive region model matcher. In the best mode, the hierarchical adaptive region model matcher is fully hierarchical and includes the steps of receiving an image and a hypothesis with respect to a target in the image. In the illustrative embodiment, the hypothesis contains the type, location, and/or orientation of a hypothesized target in the image. The hypothesis is received by a model tree generator. A target model library provides a plurality of computer generated target models. The model tree generator retrieves a model from the library based on a hypothesized target type and renders a model tree therefrom that represents the appearance of a hypothesized target at a hypothesized location and orientation. In the illustrative embodiment, the verification model further includes a search manager adapted to receive a model tree from the model tree generator. A feature extractor is included along with a segmentation evaluator. The segmentation evaluator is coupled to receive image features from the feature extractor. The segmentation evaluator is adapted to output a segmentation score to the search manager with respect to a specified set of segmentation labels based on a supplied set of image features for an active node.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-05
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2011-06-21
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+	<str name="All IPC">
+		G06K9/64 | G06K9/34
+	</str>
+	<str name="IPC Primary">
+		G06K9/64
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/173 | 382/217
+	</str>
+	<str name="UPC Primary">
+		382/173
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Olson, C.F. and Huttenlocher, D.P. Automatic Target Recognition by Matching Oriented Edge Pixels;IEEE Transactions on Miage Processing,IEEE Service Center, Piscataway,vol. 6, No. 1, Jan. 1997 (pp. 103-113,XP000642455 NJ,US. cited by other. | &quot;A Knowledge-Based Approach to the Detection, Tracking and Classification of Target Formations in Infrared Image Sequences.&quot; Published by J..F. Bronskill, J. S. A Hepburn, W. K Au in the IEEE Computer Society Conference Proceedings on Computer Visionand Pattern Recognition, 4-8, pp. 153-158 (Jun. 1989). cited by other . | Han. &quot;Model-Based Object Recognition Using the Hausdorff Distance with Explicit Pairing.&quot; Proceedings, International Conference on Image Processing, vol. 4, Oct. 24, 1999, pp. 83-87. cited by examiner . | Weese. &quot;Shape Constrained Deformable Models for 3D Medical Image Segmentation.&quot; Proceedings of the 17th International Conference on Information Processing in Medical Imaging, vol. 2082, 2001, pp. 380-387. cited by examiner . | M. Shapiro, M. Blaschko, &quot;Stability of Hausdorff-Based Distance Measures&quot;, Proceedings of IASTED Visualization, Imaging, and Image Processing, 2004. cited by other . | William J. Rucklidge, &quot;Locating Objects Using the Hausdorff Distance&quot;, iccv, p. 457, Fifth International Conference on Computer Vision (ICCV'95), 1995. cited by other . | Sun-Gu Sun; Dong-Min Kwak; Won Bum Jang; Do-Jong Kim, &quot;Small Target Detection Using Center-Surround Difference with Locally Adaptive Threshold.&quot;, Proceedings of the 4th International Symposium on Image and Signal Processing and Analysis, pp. 402-407 (Sep. 15-17, 2005). cited by other . | S. Z. Der and R. Chellappa, &quot;Probe-Based Automatic Target Recognition in Infrared Imagery&quot;, IEEE Transactions on Image Processing 6(1) :92-102, (1997). cited by other . | &quot;Recognizing Vehicles in Infrared Images Using IMAP Parallel Vision Board&quot;, published by M. Kagesawa, S. Ueno, K. Ikeuchi, and H. Kashiwagi, in IEEE Transactions on Intelligent Transportation Systems 2(1):10-17, (2001). cited by other .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cites">
+		US20060193493 | US6173066 | US5999653 | US6956569 | US7542624 | US5926568 | US20050123197 | US6263088 | WO2003025843 | WO1999023444
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Assignee(s)">
+		RAYTHEON COMPANY
+	</str>
+	<str name="1st Assignee">
+		RAYTHEON COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Waltham, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Waltham, MA
+	</str>
+	<str name="Inventor(s)">
+		MARCUS, ERAN | WYCKOFF, NATHANIEL
+	</str>
+	<str name="1st Inventor">
+		MARCUS, ERAN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Culver, City, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Culver, City, CA | Los, Angeles, CA
+	</str>
+	<str name="Agent/Attorney">
+		CHRISTIE, PARKER &amp; HALE, LLP
+	</str>
+	<str name="Primary Examiner">
+		CHANG, JON
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

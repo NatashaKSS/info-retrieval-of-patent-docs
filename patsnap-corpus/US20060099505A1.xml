@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20060099505A1
+	</str>
+	<str name="Application Number">
+		US10531248
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Anode and battery, and manufacturing methods thereof
+	</str>
+	<str name="Abstract">
+		An anode and a battery capable of realizing a high capacity and improving charge and discharge cycle characteristics, and manufacturing methods thereof are provided. An anode active material layer (12) contains a particulate anode active material (12A) including a simple substance or a compound of an element capable of forming an alloy with Li, a particulate binder (12B) including a copolymer of vinylidene fluoride or polyvinylidene fluoride, and a conductive agent (12C). The anode active material layer (12) is formed by using a dispersion medium having a swelling degree of 10% or less to the binder (12B), specifically pure water or the like. The particulate binder (12B) functions as a cushion to absorb expansion and shrinkage of the anode active material (12A) due to charge and discharge, and lowering of electron conductivity caused by generation of cracks or separation is prevented. Further, since the anode active material (12A) is not covered with the binder (12B), electrode reaction is well performed.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-10-06
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-10
+	</str>
+	<str name="Publication Date">
+		2006-05-11
+	</str>
+	<str name="Publication Year">
+		2006
+	</str>
+	<str name="Publication(Year/Month)">
+		2006-05
+	</str>
+	<str name="All IPC">
+		H01M4/62
+	</str>
+	<str name="IPC Primary">
+		H01M4/62
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M4
+	</str>
+	<str name="All UPC">
+		252/182.1 | 429/217 | 29/623.5
+	</str>
+	<str name="UPC Primary">
+		252/182.1
+	</str>
+	<str name="UPC Class">
+		252
+	</str>
+	<str name="Family Members">
+		TW246214B | KR1020050084830A | JP2004146253A | WO2004038835A1 | JP4135074B2 | CN1706054A | US20060099505A1 | CN100403584C | AU2003272929A1
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2002311269
+	</str>
+	<str name="Priority Date">
+		2002-10-25
+	</str>
+	<str name="Inventor(s)">
+		FUJINO TAKEMASA | NISHINO TAKATOMO | TAKEUCHI YOSHIAKI
+	</str>
+	<str name="1st Inventor">
+		FUJINO TAKEMASA
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Gunma,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Gunma,JP | Fukushima,JP | Fukushima,JP
+	</str>
+	<str name="Agent/Attorney">
+		BELL, BOYD &amp; LLOYD, LLC
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

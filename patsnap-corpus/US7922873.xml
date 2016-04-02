@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7922873
+	</str>
+	<str name="Application Number">
+		US11581285
+	</str>
+	<str name="Title">
+		Method and apparatus for desalinating water combined with power generation
+	</str>
+	<str name="Abstract">
+		A method and apparatus for desalinating water combined with power generation, wherein a desalination system is used for desalinating coastal seawater and is operationally related to a power generation system, wherein such dual purpose cogeneration facility captures the heat vapor exhausted or a steam turbine generator's condenser is replaced by the desalination plant's heat exchanger enabling such captured heat energy to reduce the energy requirements of the desalination plant, and wherein brine solution being utilized by the desalination plant is circulated from and to the substrata sea water table via supply and return wells.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-10-16
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-10
+	</str>
+	<str name="Publication Date">
+		2011-04-12
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-04
+	</str>
+	<str name="All IPC">
+		B01D3/02 | B01D1/00 | C02F1/06 | E21B43/40 | B01D3/06
+	</str>
+	<str name="IPC Primary">
+		B01D3/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D3
+	</str>
+	<str name="All UPC">
+		202/172 | 166/368 | 159/DIG.8 | 202/155 | 60/641.5 | 210/774 | 159/2.3 | 166/54.1
+	</str>
+	<str name="UPC Primary">
+		202/172
+	</str>
+	<str name="UPC Class">
+		202
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US3274769 | US4363703 | US20020148222 | US3438202 | US3423293 | US7037430 | US4211613 | US5925223 | US6919000 | US3446712 | US3402753 | US4091623 | US3489652 | US3844899 | US4078976 | US3911683 | US3640850 | US3467587 | US3607668 | US6932168 | US5622605 | US4617800 | US3632505 | US3451220 | US3893299 | US4186058 | US4043130 | US4882009
+	</str>
+	<str name="Cites Count">
+		28
+	</str>
+	<str name="Inventor(s)">
+		ST., GERMAIN, GIRARD, CHARLES | BARNETT, RICHARD, N.
+	</str>
+	<str name="1st Inventor">
+		ST., GERMAIN, GIRARD, CHARLES
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Dallas, GA
+	</str>
+	<str name="Inventor(s) Address">
+		Dallas, GA | Moshem, TN
+	</str>
+	<str name="Agent/Attorney">
+		INNOVATIVE IP, PLC SOVINSKI, ESQ., SANDRA M.
+	</str>
+	<str name="Primary Examiner">
+		MANOHARAN, VIRGINIA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

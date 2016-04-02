@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7674381
+	</str>
+	<str name="Application Number">
+		US11250576
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for preparing L-iditol
+	</str>
+	<str name="Abstract">
+		Method for preparing highly pure L-iditol, consisting in subjecting a mixture of L-iditol and of L-sorbose to a chromatographic treatment, in such a way as to obtain at least two fractions, one of which is highly enriched in L-iditol and the other of which is highly enriched in L-sorbose.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-10-17
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-10
+	</str>
+	<str name="Publication Date">
+		2010-03-09
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		127/46.3 | 435/72 | 210/659 | 127/46.1 | 127/46.2 | 210/635 | 536/127 | 210/656
+	</str>
+	<str name="UPC Primary">
+		127/46.3
+	</str>
+	<str name="UPC Class">
+		127
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		J.F. Ruddlesden et al. &quot;Diastereoselective Control in Ketose Hydrogenation with Supported Copper and Nickel Catalysts&quot;, Faraday Discussions of the Chemical Society, 1981, vol. 72, pp. 397-411. cited by other . | M. Ogawa et al., &quot;Microbial Production of Optically Pure L-iditol by yeast strains&quot;, Applied and Environmental Microbiology, vol. 46, n.sup.o 4, Oct. 1983, pp. 912-916, XP008047444, American Society for Microbiology, Washington, DC, USA. cited by other . | Wright et al., &quot;Catalytic Isomerization of the Hexitols D-Glucitol, D-Mannitol, L-Iditol, and Galactitol&quot;, Journal of Organic Chemistry, vol. 26 May 1961, pp. 1588-1596. cited by other. | V Vongsuvanlert et al. &quot;L-Iditol production from L-sorbose by a methanol yeast, Candida boidinii No. 2201&quot;, Journal of Fermentation Technology, vol. 66, n.sup.o 5, 1988, pp. 517-523, XP002331358, Tokyo, JP. cited by other . | Y. Khouvine &quot;Reduction de l'alpha-d-glucoheptulose par le nickel de Raney&quot;, Comptes-Rendus Hebdomadaires des Seances de l'Academie des Sciences, vol. 204, 1937, pp. 983-984, XP002331485, Gauthier-Villars, Montreuil, FR. cited by other . | E.I. Fulmer et al., &quot;The Effect of the Concentration of Sorbitol upon the Production of Sorbose by the Action of Acetobacter suboxydans&quot;, Journal of the American Chemical Society, vol. 58, n.sup.o 6, Jun. 1936, pp. 1012-1013, XP002331486, American Chemical Society, Washington, DC, USA. cited by other . | M. G. Bertrand entitled Sur la Synthese et la nature chimique de la Sorbierite, Bull. Soc. Chim. (3) 33, 1905, p. 264-267. cited by other .
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4422881 | US3268605 | US4096036 | US2985589 | US20040143024 | US3291726
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0410973
+	</str>
+	<str name="Priority Date">
+		2004-10-15
+	</str>
+	<str name="Assignee(s)">
+		ROQUETTE FRERES
+	</str>
+	<str name="1st Assignee">
+		ROQUETTE FRERES
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Lestrem, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Lestrem, FR
+	</str>
+	<str name="Inventor(s)">
+		FUERTES, PATRICK
+	</str>
+	<str name="1st Inventor">
+		FUERTES, PATRICK
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Lomme, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Lomme, FR
+	</str>
+	<str name="Agent/Attorney">
+		YOUNG &amp; THOMPSON
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

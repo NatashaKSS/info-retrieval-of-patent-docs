@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7931807
+	</str>
+	<str name="Application Number">
+		US12575734
+	</str>
+	<str name="Title">
+		Method for removing contaminants from ground water
+	</str>
+	<str name="Abstract">
+		Apparatus and methods for water treatment are described, particularly for the simultaneous removal of nitrate, perchlorate, and other organic contaminates from contaminated water using a membrane biofilm reactor (MBfR).
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-10-08
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-10
+	</str>
+	<str name="Publication Date">
+		2011-04-26
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/621 | 210/620 | 210/622 | 210/627
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Nerenberg, R., &quot;Membrane Biofilm Reactors for Water and Wastewater Treatment&quot;, 2005 Borchardt Conference: A seminar on Advances in water and Wastewater Treatment, Conference Proceedings, Feb. 25, 2005 pp. 1-20. cited by other . | Nerenberg, R., &quot;Perchlorate removal from drinking water with a hydrogen-based, hollow-fiber membrane biofilm reactor&quot;, Ph.D. Dissertation at Northwestern University (2003). cited by other . | Xu, J. et al. &quot;Microbial Degradation of Perchlorate: Principles and Applications&quot;, Environmental Engineering Science, 20:405-22 (2003). cited by other . | Lee, K.C. and Rittmann, B.E., &quot;Applying a novel autohydrogenotrophic hollow-fiber membrane biofilm reactor for denitrification of drinking water&quot;, Water Research, 36:2040-52 (2002). cited by other . | Lazarova, V.Z. et al., &quot;Biofilm Performance of a Fluidized Bed Biofilm fro Drinking Water Denitrification&quot;, Water Science Technology, 26(3-4):555-66 (1992). cited by other . | Chung, J. et al., &quot;Simultaneous bio-reduction of nitrate, perchlorate, selenate, chromate, arsenate, and dibromochloropropane using a hydrogen-based membrane biofilm reactor&quot;, Biodegradation, 18(2):199-209 (2006). cited by other . | Kurt, M. et al., &quot;Biological Denitrification of Drinking Water Using Autotrophic Organisms with H.sub.2 in a Fluidized-Bed Biofilm Reactor&quot;, 29:493-501 (1987). cited by other . | Chung, J. et al., &quot;Bio-reduction of N-nitrosodimethylamine (NDMA) using a hydrogen-based membrane biofilm reactor&quot;, Chemosphere, 70(3):516-520 (2008). cited by other . | Green, M. et al., &quot;Kinetics of a Fluidized-Bed Reactor for Ground-Water Denitrification&quot;, Applied Microbiology and Biotechnology, 43:188-93 (1995). cited by other . | City and County of San Francisco, Department of Public Health, Environmental Health, n-Nitrosodimethylamine (NDMA) White Paper, pp. 1-7 (Updated May 20, 2004). cited by other . | Rittmann, B. E., The Handbook of Environmental Chemistry, &quot;Fundamentals and Application of Biofilm Processes in Drinking-Water Treatment&quot;, Editor J. Hrubek. 5B:61-74 (1995). cited by other . | Mitch et al., &quot;N-Nitrosodimethylamine (NDMA) as a Drinking Water Contaminant: A Review&quot;, Environmental Engineering Science, 20(5):389-404 (2003). cited by other . | Rittman, B.E. et al., &quot;Hydrogen-Based Hollow-Fiber Membrane Biofilm Reactor (MBfR) for Removing Oxidized Contaminants&quot;, Water Science and Technology: Water Supply, 4:127-133 (2004). cited by other . | Klopffer, M.H. and Flaconneche, B., &quot;Transport Properties of Gases in Polymers: Bibliographic Review&quot;, Oil &amp; Gas Science and Technology--Rev. IFP, 56(3):223-244 (2001). cited by other . | Grant &amp; Hackh's Chemical Dictionary, 5th ed., McGraw-Hill, 1987, p. 497. cited by examiner . | Ergas, S.J. and Ruess, A.F., &quot;Hydrogenotrophic Dentrification of Drinking Water Using a Hollow Fibre Membrane Bioreactor&quot;, Journal of Water Supply Research and Technology-AQUA 50(3):161-71 (2001). cited by other . | Urbain, V. et al., &quot;Membrane Bioreactor: A New Treatment Tool&quot;, Journal AWWA, 88:75-86 (1996). cited by other . | Environmental Protection Agency, EPA, Perchlorate Treatment Technology Update, Federal Facilities Forum Issue Paper, 82 pages, (May 2005). cited by other . | Achenbach, L.A. et al., The Biochemistry and Genetics of Perchlorate Reduction, Chapter 12, 13 pages (2005). cited by other . | Xu, J. et al. Chlorate and Nitrate Reduction Pathways are Separately Induced in the Perchlorate-Respiring Bacterium Deschlorosoma sp. KJ and the Chorate-Respiring bacterium Pseudomonas sp. PDA, Water Research, 38:673-680 (2004). cited by other. | Soares, M.I.M. and Abeliovich, A., &quot;Wheat Straw as Substrate for Water Denitrification&quot;, Water Research, 32(12):3790-94 (1998). cited by other . | Dries, D. et al., &quot;Nitrate Removal From Drinking Water by Means of Hydrogenotrophic Denitrifiers in a Polyurethane Carrier Reactor&quot;, Water Supply, 6(3):181-92 1988. cited by other . | Coates, J.D. and Achenbach, L.A. The Microbiology of Perchlorate Reduction and Its Bioremediative Application, Chapter 11, 15 pages (2001). cited by other . | Lee, K.C. and Rittmann, B.E., &quot;A Novel Hollow-Fibre Membrane Biofilm Reactor for Autohydrogenotrophic Denitrification of Drinking Water&quot;, Water Science and Technology, 41(4-5):219-26 (2000). cited by other . | Gunnison, D. et al., &quot;Attenuation mechanisms of N-nitrosodimethylamine at an operating intercept and treat groundwater remediation system&quot;, Journal of Hazardous Materials, 73(2):179-197 (2000). cited by other . | Banaszak, J.E. et al., &quot;Subsurface interactions of actinide species and microorganisms: implications on bioremediaiton of actinide-organic mixtures&quot;, Journal of Radioanalytical and Nuclear Chemistry, 241(2):385-435 (1999). cited by other . | Liessens, J. et al., &quot;Removing Nitrate with a Methylotrophic Fluidized Bed: Technology and Operating Performance&quot;, Journal AWWA, 85:144-54 (1993). cited by other . | Loach, P.A. and Fasman, G.D. (Eds.) Handbook of Biochemistry and Molecular Biology (3rd ed.), Physical and Chemical Data, vol. I, pp. 123-130, CRC Press (1976). cited by other . | Adham, S. et al., Membrane BioFilm Reactor Process for Nitrate and Perchlorate Removal in AWWA Research Foundation Report (2004). cited by other . | Nozawa-Inoue et al., &quot;Reduction of Perchlorate and Nitarte by Microbial Communities in Vadose Soil&quot;, Applied and Environmental Microbiology, 71(7):3928-3934 (2005). cited by other . | Nerenberg, R. et al., &quot;Perchlorate Reduction in a Hydrogen-Based Membrane-Biofilm Reactor&quot;, Journal AWWA, 94:103-14 (2002). cited by other .
+	</str>
+	<str name="Other References Count">
+		31
+	</str>
+	<str name="Cited By">
+		US8173020
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US7491331 | US4746435 | US20050218064 | US20060292684 | US7618537 | US6077429
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Assignee(s)">
+		APPLIED PROCESS TECHNOLOGY, INC.
+	</str>
+	<str name="1st Assignee">
+		APPLIED PROCESS TECHNOLOGY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pleasant Hill, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Pleasant Hill, CA
+	</str>
+	<str name="Inventor(s)">
+		BOWMAN, REID
+	</str>
+	<str name="1st Inventor">
+		BOWMAN, REID
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Ojai, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Ojai, CA
+	</str>
+	<str name="Agent/Attorney">
+		GORTHEY, LEEANN MOHR, JUDY M. KING &amp; SPALDING LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7158657
+	</str>
+	<str name="Application Number">
+		US10153641
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Face image recording system
+	</str>
+	<str name="Abstract">
+		In a face image recording apparatus, a camera photographs the face of a person a plurality of number of times, a processor extracts at least one high-quality image from the plurality of images photographed by the camera, and this high-quality image extracted by the processor is recorded in a memory.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-05-24
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-05
+	</str>
+	<str name="Publication Date">
+		2007-01-02
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-01
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118 | 382/203
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP2003099763A | EP1260941A3 | EP1953677A3 | JP4177598B2 | US20020176610A1 | US7158657 | EP1260941A2 | EP1953677A2
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		13
+	</str>
+	<str name="Other References">
+		Fukui et al., &quot;Facial Feature Point Extraction Method Based on Combination of Shape Extraction Pattern Matching,&quot; Journal of IEICE D-II, vol. J-80-D-II, No. 8, Aug. 1997, pp. 2170-2177. cited by other . | &quot;Open Source Computer Vision Library&quot; 2000, INTEL Corporation, USA, XP002376488; Chapter 2; p. 1--Chapter 2 p. 23. cited by other . | European Search Report dated Jul. 3, 2006 for Appln. No. 02011552.3-2218. cited by other . | U.S. Appl. No. 10/226,329, filed Aug. 23, 2002, Sukegawa et al. cited by other . | U.S. Appl. No. 10/205,359, filed Jul. 26, 2002, Dobashi. cited by other . | Gong et al; Dynamic Vision: From Images to Face recognition: 2000; Imperial College Press, London, XP002380777. cited by other. | Yamaguchi et al., &quot;Face Recognition System Using Temporal Image Sequence,&quot; Technical Report of IEICE PROM97-50, Jun. 1997, pp. 17-24. cited by other . | Konew W. et al.; &quot;Zn-Face: A System for Access Control Using Automated Face Recognition&quot;; International Workshop on Automati Face-and Gesture-recognition: Jun. 26, 1995; pp. 18-23; XP 000675537. cited by oth- er .
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cited By">
+		US7694137 | US8208028 | US7738677 | US7599526 | US7650057 | US8358814
+	</str>
+	<str name="Cited By Count">
+		6
+	</str>
+	<str name="Cites">
+		US20030185423 | US6111517 | US6885760 | US5012522 | US20030039380 | US6690414 | US20020071033 | US6882741 | US20010031072 | US6181806 | US6411209 | US4975969 | US20020191817 | US20030206645 | US5864630 | JP1995312711 | JP1999191856 | JP1998134188 | JP1999167632 | JP1999316836 | JP1999175718
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2001157192 | 2002138757
+	</str>
+	<str name="Priority Date">
+		2001-05-25 | 2002-05-14
+	</str>
+	<str name="Assignee(s)">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="1st Assignee">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		OKAZAKI, AKIO | SATO, TOSHIO
+	</str>
+	<str name="1st Inventor">
+		OKAZAKI, AKIO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Yokohama, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Yokohama, JP | Yokohama, JP
+	</str>
+	<str name="Agent/Attorney">
+		PILLSBURY WINTHROP SHAW PITTMAN, LLP
+	</str>
+	<str name="Primary Examiner">
+		WU, JINGGE
+	</str>
+	<str name="Assistant Examiner">
+		CARTER, AARON
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

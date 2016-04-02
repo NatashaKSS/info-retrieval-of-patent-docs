@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5929601
+	</str>
+	<str name="Application Number">
+		US08995713
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Battery management apparatus for portable electronic devices
+	</str>
+	<str name="Abstract">
+		A battery management system preferably has a base station utilized in connection with a portable electronic device for providing electrical therapy to the body of a patient in response to the occurrence of a treatable condition. The portable device can have a rechargeable battery, memory, data processor for determining available operating time for the portable device prior to recharging, and a display panel, or alarm, to inform the patient of such available operating time. The portable device data processor contains an analog to digital converter which is used to obtain and record data regarding the patient, the battery, and the portable device operational status. The base station can have a receptacle to receive the portable device, including a port for transferring data between the memory of the portable device and the base station, a power supply associated with the port for supplying charging current to the battery, a computer for exchanging information with the portable device memory, and a battery maintenance portion. The maintenance portion can perform tests on the battery to evaluate the condition thereof. The base station can further include a display and alarms to inform the patient regarding the condition of both the battery and the portable device. The portable device can also include a converter-defibrillator and a second battery maintenance portion which can operate independently of the base station. Tests can be performed, during operation of the portable device, to evaluate the condition of the battery while the portable device is separated from the base station.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1997-12-22
+	</str>
+	<str name="Application Year">
+		1997
+	</str>
+	<str name="Application(Year/Month)">
+		1997-12
+	</str>
+	<str name="Publication Date">
+		1999-07-27
+	</str>
+	<str name="Publication Year">
+		1999
+	</str>
+	<str name="Publication(Year/Month)">
+		1999-07
+	</str>
+	<str name="All IPC">
+		H01M10/46 | A61N1/39 | H02J7/00 | G01R31/36
+	</str>
+	<str name="IPC Primary">
+		H01M10/46
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="All UPC">
+		320/113
+	</str>
+	<str name="UPC Primary">
+		320/113
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Members">
+		EP0923961B1 | DE69820015D1 | US6169387 | EP0923961A1 | DE69820015T2 | US5929601 | CA2240996A1
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US4080558 | US4432375 | US5411537 | US5483165 | US5225763 | US4919144 | US5606242 | US5470343 | US4296755 | US4473078 | US5625291 | US5306956 | US5619117
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		99571397
+	</str>
+	<str name="Priority Date">
+		1997-12-22
+	</str>
+	<str name="Assignee(s)">
+		LIFECOR, INC.
+	</str>
+	<str name="1st Assignee">
+		LIFECOR, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Inventor(s)">
+		KAIB, THOMAS, E. | DONNELLY, EDWARD, J. | CONNORS, NORMAN, J.
+	</str>
+	<str name="1st Inventor">
+		KAIB, THOMAS, E.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		North, Huntingdon, PA
+	</str>
+	<str name="Inventor(s) Address">
+		North, Huntingdon, PA | Allison, Park, PA | Monroeville, PA
+	</str>
+	<str name="Agent/Attorney">
+		BUCHANAN INGERSOLL, P.C.
+	</str>
+	<str name="Primary Examiner">
+		TSO, EDWARD H.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

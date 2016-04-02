@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7879236
+	</str>
+	<str name="Application Number">
+		US12248643
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Micro gas attendant system
+	</str>
+	<str name="Abstract">
+		A lagoon of effluent is established, comprising a set of sub-portions at different levels in the lagoon associated with a corresponding set of concentrations of dissolved oxygen, each sub-portion of the lagoon having a different concentration of dissolved oxygen. An incubator comprising a set of sub-portions associated with said set of concentrations of dissolved oxygen is established, each sub-portion of the incubator having a different concentration of dissolved oxygen. A volume of effluent from each sub-portion of the lagoon is transmitted to a corresponding sub-portion of an incubator having a substantially similar concentration of dissolved oxygen as said sub-portion of the lagoon. A first remediated volume of effluent is generated in said corresponding sub-portion of the incubator responsive to proliferating a first microorganism which uses a first compound in said volume of effluent as substrate for growth, the first microorganism enabling a first chemical reaction which alters the first compound.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-10-09
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-10
+	</str>
+	<str name="Publication Date">
+		2011-02-01
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		C02F3/34 | C02F3/30 | C02F11/02
+	</str>
+	<str name="IPC Primary">
+		C02F3/34
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/630 | 210/903 | 210/602 | 210/603 | 210/612 | 210/906
+	</str>
+	<str name="UPC Primary">
+		210/630
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Todd, J. et al., &quot;Ecological Design Applied,&quot; Ecological Engineering, 2003, pp. 421-440, vol. 20. cited by other. | PCT International Search Report and Written Opinion, PCT Application No. PCT/US2009/058330, Apr. 27, 2010, 9 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8157993
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US7452465 | US6039874 | US7005068 | US6032931 | US5736047 | US4997568 | US6436288 | US20040134853 | US20070251880 | DE3716637 | KR00703890
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Assignee(s)">
+		VERDURE TECHNOLOGIES, INC.
+	</str>
+	<str name="1st Assignee">
+		VERDURE TECHNOLOGIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pocatello, ID
+	</str>
+	<str name="Assignee(s) Address">
+		Pocatello, ID
+	</str>
+	<str name="Inventor(s)">
+		TERRY, MARK
+	</str>
+	<str name="1st Inventor">
+		TERRY, MARK
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Pocatello, ID
+	</str>
+	<str name="Inventor(s) Address">
+		Pocatello, ID
+	</str>
+	<str name="Agent/Attorney">
+		FENWICK &amp; WEST LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

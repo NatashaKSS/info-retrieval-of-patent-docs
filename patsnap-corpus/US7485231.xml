@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7485231
+	</str>
+	<str name="Application Number">
+		US10927741
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Activated sludge process using downflow sludge blanket filtration
+	</str>
+	<str name="Abstract">
+		The present invention relates to an activated sludge process and apparatus for effectively removing organic matters, nutrient salts, particulates, etc. dissolved in sewage/waste water by operating activated sludge process of a high biomass concentration combined with a down-flow solid-liquid separation process utilizing a float-concentrated sludge blanket layer. The present invention provides a process for biologically treating sewage/waste water using activated sludge, comprising the steps of (a) floating a sludge by having micro bubbles rise to form a float-concentrated sludge blanket layer and (b) down-flowing mixed liquor, including activated sludge and solids, into the sludge blanket layer, thereby resulting in a solid-liquid separation and an apparatus for operating the process.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-08-27
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2009-02-03
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/608 | 210/748 | 210/620
+	</str>
+	<str name="UPC Primary">
+		210/608
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20050061739A1 | KR100419888B1 | US7485231 | WO2005028380A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Stephenson, T., Judd, S., Jefferson, B. and Brindle, K., Membrane Bioreactors for Wastewater Treatment, 2000, pp. 65-79, IWA publishing, London. cited by other. | Metcalf &amp; Eddy, Inc., Wastewater Engineering Treatment, Disposal, Reuse, 3rd Ed., 1991, pp. 587-589, McGraw-Hill, New York. cited by other . | Metcalf &amp; Eddy, Inc., Wastewater Engineering Treatment, Disposal, Reuse, 3rd Ed., 1991, pp. 545-551, McGraw-Hill, New York. cited by other . | Grady, L.C.P. &amp; Daigger, G.T., Biological Wastewater Treatment, 2nd Ed., 1999, pp. 193-193, Marcel Dekker, Inc., New York. cited by other . | Reynolds, T. D. and Richard, P. A., Unit Operations and Processes in Environmental Engineering, 2nd Ed., 1996, pp. 427-432, PWS Publishing Co., Boston. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By">
+		US7914677
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US3552571 | US4460470 | US5800717 | JP2002219485 | JP1983070884 | KR20020044193 | KR19950029198 | KR19990000593 | JP1992132674
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020030066150
+	</str>
+	<str name="Priority Date">
+		2003-09-24
+	</str>
+	<str name="Assignee(s)">
+		GS ENGINEERING &amp; CONSTRUCTION CORP. (SEOUL, KR), SBF INC.
+	</str>
+	<str name="1st Assignee">
+		GS ENGINEERING &amp; CONSTRUCTION CORP. (SEOUL, KR), SBF INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Gyeonggi-do, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Gyeonggi-do, KR
+	</str>
+	<str name="Inventor(s)">
+		YEOM, IK, TAI | KIM, HYUNG, SOO | CHOI, YOUNG, GYUN | PARK, YONG, HYO
+	</str>
+	<str name="1st Inventor">
+		YEOM, IK, TAI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Gyeonggi-do, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Gyeonggi-do, KR | Seoul, KR | Seoul, KR | Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		DORSEY &amp; WHITNEY LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

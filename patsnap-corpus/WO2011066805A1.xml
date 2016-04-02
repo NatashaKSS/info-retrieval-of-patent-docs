@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2011066805A1
+	</str>
+
+	<str name="Application Number">
+		PCT/CN2010/079417
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		WASHING MACHINE FOR AUTO-ADDED WASHING AGENT BY NEGATIVE PRESSURE AND CONTROLLING METHOD THEREOF
+	</str>
+
+	<str name="Abstract">
+		A washing machine for auto-added washing agent by negative pressure and the controlling method thereof are disclosed. The washing machine comprises a water intake, a washing agent container and a washing tub. Two water supplying lines, i.e. a main water supplying line and a rinsing water line are provided between the water intake and the washing tub. A dosing container which is communicated with the washing agent container is provided between the rinsing water line and the washing tub. A venturi tube is provided in the main water supplying line. Due to venturi effect, the main water supplying stream becomes narrower and the water supplying velocity is accelerated, so that a relative vacuum area which is communicated with the dosing container is formed in rear side of the venturi tube outlet, and a negative pressure is generated in the dosing container, and then the washing agent in its container which is communicated with the dosing container is sucked into the dosing container. A burden for manually adding washing agent is eased the lack or excess of washing agent is avoided. At the same time, by replacing other configurations for adding washing agent, the full automation of washing course can be realized and the washing efficiency is improved.
+	</str>
+
+	<str name="Document Types">
+		WO
+	</str>
+
+	<str name="Application Date">
+		2010-12-03
+	</str>
+
+	<str name="Application Year">
+		2010
+	</str>
+
+	<str name="Application(Year/Month)">
+		2010-12
+	</str>
+
+	<str name="Publication Date">
+		2011-06-09
+	</str>
+
+	<str name="Publication Year">
+		2011
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+
+	<str name="All IPC">
+		D06F39/02
+	</str>
+
+	<str name="IPC Primary">
+		D06F39/02
+	</str>
+
+	<str name="IPC Section">
+		D
+	</str>
+
+	<str name="IPC Class">
+		D06
+	</str>
+
+	<str name="IPC Subclass">
+		D06F
+	</str>
+
+	<str name="IPC Group">
+		D06F39
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		CN | CN
+	</str>
+
+	<str name="Priority Number">
+		200910250314.6 | 200910265894.6
+	</str>
+
+	<str name="Priority Date">
+		2009-12-03 | 2009-12-29
+	</str>
+
+	<str name="Assignee(s)">
+		&#28023;&#23572;&#38598;&#22242;&#20844;&#21496; | &#38738;&#23707;&#28023;&#23572;&#27927;&#34915;&#26426;&#26377;&#38480;&#20844;&#21496; | &#21525;&#20329;&#24072; | &#35768;&#21319; | &#26472;&#26519; | &#26446;&#25991;&#20255; | &#26472;&#26093;&#20809; | &#39640;&#31179;&#33521;
+	</str>
+
+	<str name="1st Assignee">
+		&#28023;&#23572;&#38598;&#22242;&#20844;&#21496;
+	</str>
+
+	<str name="Number of Assignees">
+		8
+	</str>
+
+	<str name="1st Assignee Address">
+		&#20013;&#22269;&#23665;&#19996;&#30465;&#38738;&#23707;&#24066;&#23810;&#23665;&#21306;&#39640;&#31185;&#25216;&#24037;&#19994;&#22253;&#28023;&#23572;&#36335;1&#21495;, Shandong 266101 266101 CN
+	</str>
+
+	<str name="Assignee(s) Address">
+		&#28023;&#23572;&#38598;&#22242;&#20844;&#21496; | &#38738;&#23707;&#28023;&#23572;&#27927;&#34915;&#26426;&#26377;&#38480;&#20844;&#21496; | &#21525;&#20329;&#24072; | &#35768;&#21319; | &#26472;&#26519; | &#26446;&#25991;&#20255; | &#26472;&#26093;&#20809; | &#39640;&#31179;&#33521;
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

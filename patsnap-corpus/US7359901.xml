@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7359901
+	</str>
+	<str name="Application Number">
+		US11169359
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Compressed document matching
+	</str>
+	<str name="Abstract">
+		An apparatus and method for determining if a query document matches one or more of a plurality of documents in a database. In a coarse matching stage, a compressed file or other query document is scanned to produce a bit profile. Global statistics such as line spacing and text height are calculated from the bit profile and used to narrow the field of documents to be searched in an image database. The bit profile is cross-correlated with bit profiles of documents in the search space to identify candidates for a detailed matching stage. If multiple candidates are generated in the coarse matching stage, a set of endpoint features is extracted from the query document for detailed matching in the detailed matching stage. Endpoint features contain sufficient information for various levels of processing, including page skew and orientation estimation. In addition, endpoint features are stable, symmetric and easily computable from commonly used compressed files including, but not limited to, CCITT Group 4 compressed files. Endpoint features extracted in the detailed matching stage are used to correctly identify a matching document in a high percentage of cases.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-06-28
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-06
+	</str>
+	<str name="Publication Date">
+		2008-04-15
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		345/427 | 382/181 | 707/6
+	</str>
+	<str name="UPC Primary">
+		345/427
+	</str>
+	<str name="UPC Class">
+		345
+	</str>
+	<str name="Family Members">
+		US20050256857A1 | US7359901
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Chen, Francine R., et al., Detecting and Locating Partially Specified Keywords in Scanned Images using Hidden Markov Models, Proceedings of IDCAR, Xerox Palo Alto Research Center, Palo Alto, California, U.S.A., 1993, pp. 133-138. cited by other . | Doermann, David, The Retrieval of Document Images: A Brief Survey, Proceedings of the 4th IDCAR, University of Maryland, College Park, Maryland, U.S.A., IEEE 1997, pp. 945-949. cited by other . | Marshall et al., &quot;Text Retrieval--Windows File Indexers&quot;, InfoWorld v15n21, pp. 123-140, May 24, 1993, ISSN: 0199-6649. cited by examiner . | Doermann, David, et al., The Detection of Duplicates in Document Image Databases, IEEE, Technical Report CS-TR-3739, University of Maryland, College Park, Maryland, U.S.A., 1997, pp. 314-318. cited by other . | Hull, Jonathan, J., Document Matching on CCITT Group 4 Compressed Images, SPIE Conference on Document Recognition IV, SPIE vol. 3027, Ricoh California Research Center, Menlo Park, California, U.S.A. 1997, pp. 82-87. cited by other . | Spitz, A. Lawrence, Using Character Shape Codes For Word Spotting in Document Images, Shape, Structure and Pattern Recognition, Nahariya, Israel, Oct. 4-6, 1994, World Scientific, Singapore, New Jersey, London, Hong Kong, pp. 382-389. cited by other . | Chalana, Vikram, et al., Duplicate Document Detection in DocBrowse, SPIE Conference on Document Recognition V, Mathsoft Data Analysis Products Division, Seattle, Washington, U.S.A., 1998, 10 pages. cited by other . | Hull, Jonathan J., Document Image Similarity and Equivalence Detection, International Journal on Document Analysis and Recognition, vol. 1, No. 1, Ricoh California Research Center, Menlo Park, California, U.S.A., 1998, 17 pages. cited by other . | Chen, Francine, R., et al., Spotting phrases in lines of imaged text, SPIE Conference On Document Recognition, SPIE vol. 2422, Xerox Palo Alto Research Center, Palo Alto, California, U.S.A., 1995, pp. 256-269. cited by other . | Smeaton, A.F, et al., Using Character Shape Coding for Information Retrieval, Proceedings of the 4th IDCAR, IEEE, 1997, pp. 974-978. cited by other . | Hull, Jonathan, J., Document Image Matching and Retrieval With Multiple Distortion-Invariant Descriptors, International Association for Pattern Recognition Workshop on Document Analysis Systems, World Scientific, Singapore, New Jersey, London, Hong Kong, 1995, pp. 379-396. cited by other. | Spitz, A. Lawrence, Skew Determination in CCITT Group 4 Compressed Document Images, Proceedings of the Symposium on Document Analysis and Information Retrieval, Xerox Palo Alto Research Center, Palo Alto, California, U.S.A., 1992, pp. 11-25. cited by other . | Phillips, Ihsin, T. et al, , CD-ROM Document Database Standard, Proceedings of the 2nd IDCAR, IEEE, 1993, pp. 478-483. cited by other . | Faloutsos, C., et al., Efficient and Effective Querying by Image Content, Journal of Intelligent Information Systems, vol. 3, Kluwer Academic Publishers, Boston, Manufactured in The Netherlands, 1994, pp. 231-262. cited by other . | Hunter, Roy, et al., International Digital Facsimile Coding Standards, Proceedings of the IEEE, vol. 68, No. 7, Jul. 1980, pp. 854-867. cited by other . | CCITT Compression, downloaded from http://www.advent.co.uk/ccitt.html, Advent Imaging, 1998, 3 pages. cited by other . | Doermann, David, et al., Detection of duplicates in document image databases, Image and Vision Computing, V 16 n 12-13, University of Maryland, College Park, Maryland, U.S.A., Aug. 24, 1998, Abstract, 1 page. cited by other .
+	</str>
+	<str name="Other References Count">
+		17
+	</str>
+	<str name="Cites">
+		US5995978 | US5893095 | US5915250 | US5768420 | US5375176 | US6363381 | US6026411 | US5933823 | US6104834 | US5636294 | US5278920 | US5867597 | US6249604 | US5930783 | US5689585 | US5892808 | US5940825 | US5940824 | US6086706 | US5761655 | US4292622 | US4809081 | US6006226 | US5465353 | US4985863 | US5809498 | US6268935 | US5579471 | US5987456 | US5751286 | US5806061 | US5870754 | US5351310 | EP0581971 | JP1994168277
+	</str>
+	<str name="Cites Count">
+		35
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		16935905 | 5816902 | 18604198
+	</str>
+	<str name="Priority Date">
+		2005-06-28 | 2002-01-25 | 1998-11-03
+	</str>
+	<str name="Assignee(s)">
+		RICOH CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		RICOH CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		LEE, DAR-SHYANG | HULL, JONNATHAN
+	</str>
+	<str name="1st Inventor">
+		LEE, DAR-SHYANG
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Fremont, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Fremont, CA | San, Carlos, CA
+	</str>
+	<str name="Agent/Attorney">
+		BLAKELY, SOKOLOFF, TAYLOR &amp; ZAFMAN LLP
+	</str>
+	<str name="Primary Examiner">
+		CHEUNG, MARY D.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

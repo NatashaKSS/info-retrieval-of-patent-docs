@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7718070
+	</str>
+	<str name="Application Number">
+		US11774113
+	</str>
+	<str name="Title">
+		Method of obtaining an organic salt or acid from an aqueous sugar stream
+	</str>
+	<str name="Abstract">
+		A process for obtaining one or more than one salt of an organic acid(s), or organic acid(s), from an aqueous sugar stream comprising one or more than one mineral acid and the organic acid(s) is provided. The process comprises introducing the aqueous sugar stream to a separation system comprising one or more beds of anion exchange resin and obtaining a stream therefrom comprising the sugar. The one or more beds of anion exchange resin are then regenerated in one or more stages to produce at least one product stream comprising the organic acid, a salt of the organic acid, or a combination thereof, and a separate outlet stream comprising the mineral acid, a salt of the mineral acid, or a combination thereof. The product stream is then recovered. The separation may be conducted with two separation units, or using a single anion exchange unit.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-07-06
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-07
+	</str>
+	<str name="Publication Date">
+		2010-05-18
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		C13J1/02 | B01J49/00 | C13D3/16 | C02F1/42 | B01D15/00 | B01D15/04 | C13J1/06
+	</str>
+	<str name="IPC Primary">
+		C13J1/02
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C13
+	</str>
+	<str name="IPC Subclass">
+		C13J
+	</str>
+	<str name="IPC Group">
+		C13J1
+	</str>
+	<str name="All UPC">
+		127/51 | 127/50 | 127/46.3 | 210/670 | 210/674 | 210/661 | 210/673 | 210/660 | 210/638 | 127/46.2
+	</str>
+	<str name="UPC Primary">
+		127/51
+	</str>
+	<str name="UPC Class">
+		127
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Anderson, et al., &quot;Sulfate-Bisulfate Equilibrium on Anion Exchange Resins&quot;, Industrial and Engineering Chemistry, vol. 47, No. 8 (1955) 1620-23. cited by other . | Wooley et al. A Nine-Zone Simulating Moving Bed for the Recovery of Gulcose and Xylose from Biomass Hydrolyzate. Ind. Eng. Chem. Res. 1998, 37, p. 3699-3709. cited by examiner . | Wooley, et al., &quot;A Nine-Zone Simulating Moving Bed for the Recovery of Glucose and Xylose from Biomass Hydrolyzate&quot;, Ind. Eng. Chem. Res., vol. 37 (1998), 3699-709. cited by other . | Wooley, et al., &quot;Lignocellulosic Biomass to Ethanol Process Design and Economics Utilizing . . . &quot;, NREL (National Renewable Energy Laboratory), (1999) 16-17. cited by other . | Barrier, et al., &quot;Integrated Fuel Alcohol Production Systems for Agriculture Feedstockss, Phase III&quot;, Quarterly Technical Report for the period Apr.-Jun. 1985. cited by other. | Barrier, et al., &quot;Acid hydrolisis with corn stover at TVA's experimental Plant&quot; (1985). cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6419828 | US20040231661 | US6451123 | US5175357 | US4102705 | US20050244934 | US5789210 | US4461648 | US4851573 | US4968353 | US5434255 | US4237110 | US4818409 | WO2003095627 | JP1989127049 | CA2479248 | EP0106466 | WO2006007691
+	</str>
+	<str name="Cites Count">
+		18
+	</str>
+	<str name="Assignee(s)">
+		IOGEN ENERGY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		IOGEN ENERGY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ontario, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Ontario, CA
+	</str>
+	<str name="Inventor(s)">
+		MAHNON, DAPHNE
+	</str>
+	<str name="1st Inventor">
+		MAHNON, DAPHNE
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Ottawa, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Ottawa, CA
+	</str>
+	<str name="Agent/Attorney">
+		FITZPATRICK, CELLA, HARPER &amp; SCINTO
+	</str>
+	<str name="Primary Examiner">
+		GROUP, KARL E
+	</str>
+	<str name="Assistant Examiner">
+		WIESE, NOAH S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

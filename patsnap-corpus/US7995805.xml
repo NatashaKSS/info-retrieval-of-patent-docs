@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7995805
+	</str>
+	<str name="Application Number">
+		US11847317
+	</str>
+	<str name="Title">
+		Image matching apparatus, image matching method, computer program and computer-readable storage medium
+	</str>
+	<str name="Abstract">
+		An image matching apparatus comprising, a detector adapted to detects, from an input image containing an object to be matched, a region where the object exists, an estimation unit adapted to estimates a parameter regarding a displaying characteristic based on an image of the region, a correction unit adapted to corrects the displaying characteristic of the input image based on the parameter, and a matching unit adapted to matches the corrected input image containing the object to be matched with an image containing a matching object.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-08-29
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2011-08-09
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/62 | G06K9/40
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/209 | 382/118 | 382/274
+	</str>
+	<str name="UPC Primary">
+		382/209
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Matsugu et al., &quot;Convolutional Spiking Neural Network Model for Robust Face Detection&quot;, International Conference on Neural Information Processing (ICONIP02), 2002. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US6356659 | US7274819 | US7778467 | US20060074653 | US5164992 | US6753856 | US7679778 | US7039233 | US20050276481 | US20060228005 | US7130453 | US20050248812 | US20070242856 | US20060204053 | US20060115157 | US5995639 | US7054850 | US20050102376 | US20040201782 | US6817721 | JP2000030065 | JP2004145576
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2006234360
+	</str>
+	<str name="Priority Date">
+		2006-08-30
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		SUZUKI, TAKASHI | MATSUGU, MASAKAZU
+	</str>
+	<str name="1st Inventor">
+		SUZUKI, TAKASHI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP | Yokohama, JP
+	</str>
+	<str name="Agent/Attorney">
+		FITZPATRICK, CELLA, HARPER &amp; SCINTO
+	</str>
+	<str name="Primary Examiner">
+		MARIAM, DANIEL G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

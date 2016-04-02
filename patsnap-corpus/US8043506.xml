@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8043506
+	</str>
+	<str name="Application Number">
+		US12159986
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process and reactor for anaerobic waste water purification
+	</str>
+	<str name="Abstract">
+		The invention is directed to a process for the anaerobic purification of waste water using a sludge bed system, which process comprises feeding waste water, and optionally recycle water, to the lower part of an upflow reactor, containing mainly granular biomass thus producing biogas in the treatment passing the resulting gas/liquid/solid mixture upward and separating the gas and solid from the liquid in a three phase separator and thereby generating an anaerobic effluent that is withdrawn from the top of the separator, the improvement comprising separating the solids from the liquid in a separator, wherein, above the separation of the gas from the liquid phase, tilted plates, tubes or other tilted internals are installed in the three phase separator body to increase the effective settling surface, to an upflow reactor suitable for this process as well as to a three phase separator.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-05
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2011-10-25
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F3/28
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/539 | 210/532.1 | 210/603 | 210/617 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/539
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report for PCT/NL2007/000003, mailed on May 2, 2007, 2 pages. cited by other . | International Preliminary Report on Patentability for PCT/NL2007/000003, issued on Jul. 8, 2008, 5 pages. cited by other . | Written Opinion of the International Searching Authority for PCT/NL2007/000003, issued on Jul. 8, 2008, 4 pages. cited by other.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5616241 | US20030150786 | US5733454 | JP1998511893 | JP1995308686 | WO1996032177 | EP0808805 | JP1993123691 | EP0311216 | JP1990253898 | JP1997220592 | JP1992341396 | JP1992341395 | JP1999207384 | JP1985235696 | JP1986111200 | JP2003326294 | JP1997248593 | JP2007144401 | WO2005095288 | DE102004021022 | EP1408008 | JP1989218695
+	</str>
+	<str name="Cites Count">
+		23
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		06075014
+	</str>
+	<str name="Priority Date">
+		2006-01-05
+	</str>
+	<str name="Assignee(s)">
+		BIOTHANE SYSTEMS INTERNATIONAL B.V.
+	</str>
+	<str name="1st Assignee">
+		BIOTHANE SYSTEMS INTERNATIONAL B.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Delft, NL
+	</str>
+	<str name="Assignee(s) Address">
+		Delft, NL
+	</str>
+	<str name="Inventor(s)">
+		FRANKIN, ROBERTUS, JOHANNES | OTTEN, MICHAEL, JOHANNES
+	</str>
+	<str name="1st Inventor">
+		FRANKIN, ROBERTUS, JOHANNES
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Cilandak, Jakarta, ID
+	</str>
+	<str name="Inventor(s) Address">
+		Cilandak, Jakarta, ID | Pondok, Indah, Jakarta, ID
+	</str>
+	<str name="Agent/Attorney">
+		MORRISON &amp; FOERSTER LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8021553
+	</str>
+	<str name="Application Number">
+		US12338990
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Systems and methods for forward osmosis fluid purification using cloud point extraction
+	</str>
+	<str name="Abstract">
+		A process for purification of fluids, for example, desalination of seawater or brackish water, using organic solutes in a concentrated water solution for use in a forward osmosis process, to extract fresh water out of salt water through the forward osmosis membrane, and subsequently separating the organic solutes out of the diluted forward osmosis permeate by cloud point extraction, thereby regenerating a concentrated organic solution for recycling to the forward osmosis process, and fresh water for potable water use.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-12-18
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-12
+	</str>
+	<str name="Publication Date">
+		2011-09-20
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		C02F1/44
+	</str>
+	<str name="IPC Primary">
+		C02F1/44
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/177 | 210/636 | 210/634
+	</str>
+	<str name="UPC Primary">
+		210/177
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Petrotos, K. B. et al. &quot;study of the direct osmotic concentration of tomato juice in tubular membrane--module configuration. I. The effect of certain basic process parameters on the process performance,&quot; Journal of Membrane Science 150 (1998) 99-110. cited by examiner . | Adham, S. et al. &quot;Dewatering Reverse Osmosis Concentrate from Water Reuse Applications using Forward Osmosis,&quot; WateReuse Foundation, Alexandria, VA, 2007, p. 13. cited by examiner . | Cath, T.Y. et al., &quot;Forward Osmosis: Principles, Applications, and Recent Developments,&quot; Journal of Membrane Science, 2006, pp. 70-87, vol. 281. cited by other. | McCutcheon et al. &quot;A novel ammonia-carbon dioxide forward (direct) osmosis desalination process,&quot; Desalination 2005, 174, 1-11. cited by examiner . | International Search Report for PCT/US 09/68590, dated Feb. 19, 2010. cited by other . | Saeki, S. et al. &quot;Upper and lower critical solution temperatures in poly(ethylene glycol) solutions,&quot; Polyer 1976, 17, 685-689. cited by examiner . | Joergensen, M. K. &quot;Investigation of Polypropylene Glycol 425 as Possible Draw Solution for Forward Osmosis,&quot; Masters Thesis, Aalborg University, Denmark, Jun. 2009. cited by examiner . | Written Opinion of the International Searching Authority for PCT/ US09/68590, dated Feb. 19, 2010. cited by other .
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cites">
+		US3721621 | US20060144789 | US20070246426 | US5679254 | US6391205
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Assignee(s)">
+		NRGTEK, INC.
+	</str>
+	<str name="1st Assignee">
+		NRGTEK, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Orange, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Orange, CA
+	</str>
+	<str name="Inventor(s)">
+		IYER, SUBRAMANIAN
+	</str>
+	<str name="1st Inventor">
+		IYER, SUBRAMANIAN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Yorba, Linda, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Yorba, Linda, CA
+	</str>
+	<str name="Agent/Attorney">
+		KNOBBE, MARTENS, OLSON &amp; BEAR LLP
+	</str>
+	<str name="Primary Examiner">
+		GAKH, YELENA
+	</str>
+	<str name="Assistant Examiner">
+		ADAMS, MICHELLE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

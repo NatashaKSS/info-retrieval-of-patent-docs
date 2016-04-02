@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7892437
+	</str>
+	<str name="Application Number">
+		US12058505
+	</str>
+	<str name="Title">
+		Method of water management in the aggregate industry
+	</str>
+	<str name="Abstract">
+		A method of managing water is provided, in which the water is discharged from an aggregate plant, and therefore contains a large number of fines. The water is first passed through a mesh screen to remove large particles and then collected in a sump. From the sump the water is pumped to a centrifugal cyclone, where some of the fines are separated from the water. Flocculent is then applied to the water, before the water is collected in a pond.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-03-28
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-03
+	</str>
+	<str name="Publication Date">
+		2011-02-22
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		C02F1/52
+	</str>
+	<str name="IPC Primary">
+		C02F1/52
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/787 | 210/747 | 210/727 | 210/726 | 210/710
+	</str>
+	<str name="UPC Primary">
+		210/787
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5833863 | US7635434 | US6582610 | US5843315 | US7153436 | US3483983 | US20050145548 | JP2000073332
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Assignee(s)">
+		ALLARD CONTRACTORS LTD.
+	</str>
+	<str name="1st Assignee">
+		ALLARD CONTRACTORS LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Port Coquitlam, British Columbia, unknown
+	</str>
+	<str name="Assignee(s) Address">
+		Port Coquitlam, British Columbia, unknown
+	</str>
+	<str name="Inventor(s)">
+		ALLARD, BARRY | ALLARD, JAMES
+	</str>
+	<str name="1st Inventor">
+		ALLARD, BARRY
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Port, Coquitlam, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Port, Coquitlam, CA | Port, Coquitlam, CA
+	</str>
+	<str name="Agent/Attorney">
+		FASKEN MARTINEAU DUMOULIN LLP
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

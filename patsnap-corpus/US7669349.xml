@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7669349
+	</str>
+	<str name="Application Number">
+		US11072020
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Method separating volatile components from feed material
+	</str>
+	<str name="Abstract">
+		The present invention provides methods and apparatus for the separation of volatile components from a feed material.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-03-04
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2010-03-02
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		F26B11/00
+	</str>
+	<str name="IPC Primary">
+		F26B11/00
+	</str>
+	<str name="IPC Section">
+		F
+	</str>
+	<str name="IPC Class">
+		F26
+	</str>
+	<str name="IPC Subclass">
+		F26B
+	</str>
+	<str name="IPC Group">
+		F26B11
+	</str>
+	<str name="All UPC">
+		432/13 | 34/413 | 432/69 | 210/770 | 34/381
+	</str>
+	<str name="UPC Primary">
+		432/13
+	</str>
+	<str name="UPC Class">
+		432
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;U-MAX.RTM. Dryer,&quot; datasheet [online]. Processall, Incorporated, Cincinnati, OH; published May 29, 2003 [retrieved on Aug. 30, 2005]. Retrieved from the Internet:&lt;URL:http://www.processall.com&gt;; 6 pgs. total. cited by other. | &quot;Rotary Cylindrical Vacuum Dryers,&quot; datasheet [online]. Paul O. Abbe--Talk to the Experts; Copyright 2004 Division of Aaron Engineered Process Equipment, Bensenville, IL. Retrieved on Mar. 2, 2005. Retrieved from the Internet:http://www.pauloabbe.com/productLines/vacuumDryersSystems/horizo- n talrotary/index.html, 2 pgs. cited by other . | &quot;DVT series polyphase processors,&quot; datasheet [online]. Littleford Day, Inc., Florence, KY; Copyright 1995 [retrieved on Aug. 30, 2005]. Retrieved from the Internet:&lt;URL:http://littleford.com&gt;; 5 pgs. total. cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5913677 | US4699721 | US3595742 | US7175696 | US3681851 | US5944034 | US4782625 | US4463691 | US5788481 | US6862877 | US6013834 | US5640010 | US5611476 | US4167909 | US5392793 | US5376354 | US5103578 | US4481135 | US20090018668 | US4311103 | US4738206 | US5423992 | US5269906 | US5927969 | US1731474 | US3511599 | US4295972 | US20070251433 | US4402274 | US4823712 | US4765257 | US3687646 | US4420901 | US7389639 | US5225048 | US5087375 | US1866203 | US20080201980 | US4901654 | US6299774 | US4440867 | US5100314 | US4465556 | US5626249 | US4451231 | US5114497 | US4606760 | US4583470 | US6358375 | US20080029460 | US3591449 | US3025143 | US4566204 | US4675129 | US4864942 | US5415681 | US6941879 | US5891249 | US5377708 | US5879566 | US4280415 | US4988289 | US5300137 | US4314877 | US5059404 | US4017421 | US5224432 | US5370067 | US7008459 | US20040188340 | US4177575 | US3990273 | US4676177 | US4810190 | US6148599 | US6636811 | US5795484 | US5501161 | US6863004 | US3946495 | US5615626 | US3692287 | US4606830 | US4376373 | US6165251 | US5505143 | US4403948 | US5490907 | US3047473 | US4203863 | US4133273 | US3831377 | US4820469 | US4441880 | US6143136 | US6368849 | US2086561 | US3729298 | US20090062581 | US4656020 | US20080210538 | US4361100 | US5121699 | US5333558 | US2365983 | US5279637 | US20060163160 | US5117771 | US5096415 | US5829918 | US4301750 | US5869810 | US20020079266 | US4715811 | US5585532 | US3841851 | US5843284 | US5579705 | US3400465 | US4204835 | US5230167 | US2226532 | US5127343 | US4698136 | US4902446 | US4312763 | US5365864 | US4702798 | US3607062 | US5123364 | US6783743 | US4140478 | US6869539 | US4331088 | US5628969 | US5557873 | US5972301 | US5453562 | US6213029 | US5619936 | US5228803 | US1571877 | US4230053 | US20080017552 | US4419185 | US3940237 | US7128153 | US4098200 | US2735787 | US5678236 | US5955135 | US2081421 | US6604558 | US5191155 | US5191154 | US6569332 | US7481878 | US6213030 | US5549057 | US5176087 | US20070256985 | US5199354 | US4951417 | US4829911 | US5411889 | US6112675 | US4787323 | US20030201225 | US4606283 | US4466361 | US1890662 | US7217343 | US5578102 | US4055390 | US5428906 | US4543190 | US5746987 | US5152233 | US4585463 | US4469720 | US4171265 | US2429980 | US4133865 | US4140066 | US4977839 | US4507127 | US4662990 | US20080213146 | US20040182294 | US4957710 | US5458739 | US4501205 | US5662050 | US6692642 | US5253597 | US5514286 | US20020113017 | US5290334 | US7179379 | US6398921 | US6932853 | US4208251 | US5810471 | US1778515 | US3249075 | US6131571 | US1988541 | EP0575180 | WO1997014517 | EP0324566 | EP0155022
+	</str>
+	<str name="Cites Count">
+		211
+	</str>
+	<str name="Assignee(s)">
+		TD*X ASSOCIATES LP
+	</str>
+	<str name="1st Assignee">
+		TD*X ASSOCIATES LP
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Dallas, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Dallas, TX
+	</str>
+	<str name="Inventor(s)">
+		PALMER, CARL, R. | MCELWEE, MICHAEL, J. | MEYERS, GREGG, S.
+	</str>
+	<str name="1st Inventor">
+		PALMER, CARL, R.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Cary, NC
+	</str>
+	<str name="Inventor(s) Address">
+		Cary, NC | Lake, Villa, IL | Naples, FL
+	</str>
+	<str name="Agent/Attorney">
+		MUETING RAASCH &amp; GEBHARDT, P.A.
+	</str>
+	<str name="Primary Examiner">
+		GRAVINI, STEPHEN M.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

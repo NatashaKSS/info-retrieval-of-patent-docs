@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20030225763A1
+	</str>
+	<str name="Application Number">
+		US10413441
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Self-improving system and method for classifying pages on the world wide web
+	</str>
+	<str name="Abstract">
+		A self-improving system and method for classifying a plurality of digital documents such as web pages into one or more categories. Textual features and contextual features are extracted from a digital document and submitted to a committee machine. The committee machine assigns a rating to the digital document as a function of the extracted features and provides the location such as a URL for the digital document and its rating to an output data store. The output data store stores a list of locations for the plurality of digital documents. The output data store further segregates the locations of the digital document into categories based on the content of each document as indicated by the assigned rating.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-04-14
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-04
+	</str>
+	<str name="Publication Date">
+		2003-12-04
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-12
+	</str>
+	<str name="All IPC">
+		G06F7/00
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		707/7
+	</str>
+	<str name="UPC Primary">
+		707/7
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Members">
+		US20030225763A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8176055 | US8271498
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		41344103 | 37277202
+	</str>
+	<str name="Priority Date">
+		2003-04-14 | 2002-04-15
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		FARZIN G. GUILAK | DANIEL P. LULICH | PAUL STEPHEN REHFUSS
+	</str>
+	<str name="1st Inventor">
+		FARZIN G. GUILAK
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Beaverton,OR,US
+	</str>
+	<str name="Inventor(s) Address">
+		Beaverton,OR,US | Portland,OR,US | Seattle,WA,US
+	</str>
+	<str name="Agent/Attorney">
+		SENNIGER POWERS LEAVITT &amp; ROEDEL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

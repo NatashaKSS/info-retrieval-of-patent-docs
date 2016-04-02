@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7842186
+	</str>
+	<str name="Application Number">
+		US12296552
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of removing phosphorus and/or nitrogen
+	</str>
+	<str name="Abstract">
+		The present invention provides a method of treating wastewater containing phosphorus and/or nitrogen for removing phosphorus and/or nitrogen from the wastewater, including following steps of: (a) introducing wastewater containing phosphorus and/or nitrogen into a an anaerobic reactor, treating the introduced wastewater with anaerobic microorganisms, to produce biogas from organic matters in the wastewater, and then discharging the treated wastewater saturated with carbon dioxide under carbon dioxide partial pressure of 0.2 to 0.5 atm; and (b) injecting the treated wastewater of step (a) into a carbon dioxide stripping apparatus wherein the wastewater is free-fallen to expose the wastewater to ambient condition with carbon dioxide partial pressure of less than 0.001 atm so that carbon dioxide stripping takes place and increase in pH occurs without addition of alkaline substance, and then providing proper pH of 8.4 to 9.6 to form struvite.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-03-07
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-03
+	</str>
+	<str name="Publication Date">
+		2010-11-30
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		C02F11/04 | C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F11/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F11
+	</str>
+	<str name="All UPC">
+		210/631 | 210/903 | 210/603 | 210/617 | 210/906 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report and Written Opinion dated Apr. 21, 2008. PCT/KR2008/001309. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US8263034
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5798043 | US7135116 | US7087170 | US6838569 | US7435349 | US7182872 | KR20060125981 | DE3307796 | KR020000042499
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		KR | KR
+	</str>
+	<str name="Priority Number">
+		1020070022701 | 1020070135309
+	</str>
+	<str name="Priority Date">
+		2007-03-08 | 2007-12-21
+	</str>
+	<str name="Assignee(s)">
+		ENTECHS CO.
+	</str>
+	<str name="1st Assignee">
+		ENTECHS CO.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Seoul, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s)">
+		CHUNG, IN | SUNG, CHI-DON
+	</str>
+	<str name="1st Inventor">
+		CHUNG, IN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul, KR | Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		GIFFORD, KRASS, SPRINKLE, ANDERSON &amp; CITKOWSKI, P.C.
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

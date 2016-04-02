@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP0290994A3
+	</str>
+	<str name="Application Number">
+		EP1988107428
+	</str>
+	<str name="Kind Code">
+		A3
+	</str>
+	<str name="Title">
+		Process and device for coating solid objects with droplets of liquid, dissolved, emulsified or liquefied substances
+	</str>
+	<str name="Abstract">
+		A process for wetting solid materials, in which case fine gas bubbles (4) are introduced into a liquid bath (1), burst at the surface of the liquid (5) and at the same time scatter droplets (6) upwards which impact against an object located in the scatter range and wet it.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1988-05-09
+	</str>
+	<str name="Application Year">
+		1988
+	</str>
+	<str name="Application(Year/Month)">
+		1988-05
+	</str>
+	<str name="Publication Date">
+		1989-10-18
+	</str>
+	<str name="Publication Year">
+		1989
+	</str>
+	<str name="Publication(Year/Month)">
+		1989-10
+	</str>
+	<str name="All IPC">
+		B05D1/02 | B05D1/04 | B05B17/04 | D21H5/00
+	</str>
+	<str name="IPC Primary">
+		B05D1/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05D
+	</str>
+	<str name="IPC Group">
+		B05D1
+	</str>
+	<str name="Family Members">
+		EP0290994A2 | EP0290994A3 | DE3715776C1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		3715776
+	</str>
+	<str name="Priority Date">
+		1987-05-12
+	</str>
+	<str name="Assignee(s)">
+		GRUBER, BRUNO
+	</str>
+	<str name="1st Assignee">
+		GRUBER, BRUNO
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		GRUBER, BRUNO
+	</str>
+	<str name="1st Inventor">
+		GRUBER, BRUNO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

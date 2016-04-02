@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7410065
+	</str>
+	<str name="Application Number">
+		US11789513
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Membrane for the separation of material mixtures and method for production thereof
+	</str>
+	<str name="Abstract">
+		The invention relates to a membrane for the separation of material mixtures by the principle of vapor permeation or pervaporation, in particular for the dewatering of organic solvents, comprising at least one support layer and at least one material-selective separation layer located thereon, and a method for production of such a membrane. The material-selective separating layer is made from polyvinyl alcohol, containing at least one metallic element and/or a derivative thereof. The method includes the addition of polyvinyl alcohol to a solvent, adding an organometallic compound to the solvent/polyvinyl alcohol mixture, and then applying the solvent/polyvinyl alcohol/organometallic compound mixture to the support layer as the material-selective separating layer.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-04-25
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-04
+	</str>
+	<str name="Publication Date">
+		2008-08-12
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		B29C65/00 | B01D15/00 | B01D39/00 | B01D29/00
+	</str>
+	<str name="IPC Primary">
+		B29C65/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B29
+	</str>
+	<str name="IPC Subclass">
+		B29C
+	</str>
+	<str name="IPC Group">
+		B29C65
+	</str>
+	<str name="All UPC">
+		210/640 | 264/41 | 210/490 | 210/500.42 | 210/502.1
+	</str>
+	<str name="UPC Primary">
+		210/640
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		DE102004053402B3 | US20070193946A1 | US7410065 | WO2006048068A1 | EP1807175A1 | CN100509120C | CN101035605A
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5004861 | US3951621 | US6440309 | US6062866 | US5127925 | US6451260 | US5141649 | US4915834 | US5059327 | US4200714 | US7138006 | US4941976 | DE3220570 | DE4004153
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		DE | EP
+	</str>
+	<str name="Priority Number">
+		102004053402 | 2005009609
+	</str>
+	<str name="Priority Date">
+		2004-11-05 | 2005-09-07
+	</str>
+	<str name="Assignee(s)">
+		GKSS-FORSCHUNGSZENTRUM GEESTHACHT GMBH
+	</str>
+	<str name="1st Assignee">
+		GKSS-FORSCHUNGSZENTRUM GEESTHACHT GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Geesthacht, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Geesthacht, DE
+	</str>
+	<str name="Inventor(s)">
+		EBERT, KATRIN | RUFFMANN, BASTIAN | KOLL, JOACHIM | WENZLAFF, AXEL
+	</str>
+	<str name="1st Inventor">
+		EBERT, KATRIN
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Luneburg, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Luneburg, DE | Geesthacht, DE | Hamburg, DE | Escheburg, DE
+	</str>
+	<str name="Agent/Attorney">
+		MICHAUD-DUFFY GROUP LLP
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

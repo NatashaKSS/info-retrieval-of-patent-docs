@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20020091740A1
+	</str>
+	<str name="Application Number">
+		US09755293
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Electronic publishing method and system
+	</str>
+	<str name="Abstract">
+		A method of electronically publishing. Information is received. The information is transformed into an MVR document. The MVR document is stored on a document server. The MVR document is sent to a recipient.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-01-05
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-01
+	</str>
+	<str name="Publication Date">
+		2002-07-11
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-07
+	</str>
+	<str name="All IPC">
+		G06F15/00
+	</str>
+	<str name="IPC Primary">
+		G06F15/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="All UPC">
+		715/530 | 707/530
+	</str>
+	<str name="UPC Primary">
+		715/530
+	</str>
+	<str name="UPC Class">
+		715
+	</str>
+	<str name="Family Members">
+		US20020091740A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		75529301
+	</str>
+	<str name="Priority Date">
+		2001-01-05
+	</str>
+	<str name="Inventor(s)">
+		CURTIS SCHANTZ
+	</str>
+	<str name="1st Inventor">
+		CURTIS SCHANTZ
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kelowna,CA
+	</str>
+	<str name="Inventor(s) Address">
+		Kelowna,CA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

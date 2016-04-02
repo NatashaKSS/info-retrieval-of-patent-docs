@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20050198570A1
+	</str>
+	<str name="Application Number">
+		US11040424
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Apparatus and method for browsing videos
+	</str>
+	<str name="Abstract">
+		A system and method summarizes multimedia stored in a compressed multimedia file partitioned into a sequence of segments, where the content of the multimedia is, for example, video signals, audio signals, text, and binary data. An associated metadata file includes index information and an importance level for each segment. The importance information is continuous over as closed interval. An importance level threshold is selected in the closed interval, and only segments of the multimedia having a particular importance level greater than the importance level threshold are reproduced. The importance level can also be determined for fixed-length windows of multiple segments, or a sliding window. Furthermore, the importance level can be weighted by a factor, such as the audio volume.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-01-21
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-01
+	</str>
+	<str name="Publication Date">
+		2005-09-08
+	</str>
+	<str name="Publication Year">
+		2005
+	</str>
+	<str name="Publication(Year/Month)">
+		2005-09
+	</str>
+	<str name="All IPC">
+		G06F15/00
+	</str>
+	<str name="IPC Primary">
+		G06F15/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="All UPC">
+		715/515
+	</str>
+	<str name="UPC Primary">
+		715/515
+	</str>
+	<str name="UPC Class">
+		715
+	</str>
+	<str name="Family Members">
+		KR1020060113761A | EP1708101A1 | JP2007006509A | EP1708101A4 | JP4081120B2 | JP2006345554A | WO2005069172A1 | TW259719B | JP4000171B2 | US20050198570A1 | JP2007282268A
+	</str>
+	<str name="Family Member Count">
+		11
+	</str>
+	<str name="Family Members Cited By Count">
+		10
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		TWI332791B | US8176424 | US8271553 | US8271554 | US8275814
+	</str>
+	<str name="Cited By Count">
+		5
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		4042405 | 75713804 | 77910504
+	</str>
+	<str name="Priority Date">
+		2005-01-21 | 2004-01-14 | 2004-02-13
+	</str>
+	<str name="Inventor(s)">
+		OTSUKA ISAO | DIVAKARAN AJAY | OGAWA MASAHARU | NAKANE KAZUHIKO
+	</str>
+	<str name="1st Inventor">
+		OTSUKA ISAO
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Nagaokakyo-city,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Nagaokakyo-city,JP | Burlington,MA,US | Neyagawa-city,JP | Kobe,JP
+	</str>
+	<str name="cited by within 3 years">
+		5
+	</str>
+	<str name="cited by within 5 years">
+		5
+	</str>
+</doc>
+

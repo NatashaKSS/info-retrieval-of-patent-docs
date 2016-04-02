@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5223780
+	</str>
+	<str name="Application Number">
+		US07912979
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Mobile telephone battery power supply unit with power detection and discharge circuit
+	</str>
+	<str name="Abstract">
+		A mobile telephone battery power supply unit consisted of a housing covered with a slide cover to hold an electronic circuit assembly and battery case on the inside. The electronic circuit assembly includes a charging circuit controlled to recharge the rechargeable battery of a mobile telephone, a power detection circuit controlled to detect the current power level of the rechargeable battery of the mobile telephone, and a discharge circuit controlled to discharge the residual voltage out of the rechargeable battery of the mobile telephone before each recharging operation so as to eliminate possible &quot;memory effect&quot;, which prohibits the rechargeable battery from being fully charged to the saturation state. The battery case receives alkaline batteries, which keep providing a constant voltage to the mobile telephone for normal operation as the rechargeable battery of the mobile telephone fails.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1992-07-14
+	</str>
+	<str name="Application Year">
+		1992
+	</str>
+	<str name="Application(Year/Month)">
+		1992-07
+	</str>
+	<str name="Publication Date">
+		1993-06-29
+	</str>
+	<str name="Publication Year">
+		1993
+	</str>
+	<str name="Publication(Year/Month)">
+		1993-06
+	</str>
+	<str name="All IPC">
+		H07M2/00 | H01M10/46 | H02J7/00 | H04Q7/04
+	</str>
+	<str name="IPC Primary">
+		H07M2/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H07
+	</str>
+	<str name="IPC Subclass">
+		H07M
+	</str>
+	<str name="IPC Group">
+		H07M2
+	</str>
+	<str name="All UPC">
+		455/573 | 320/112 | 320/131 | 455/572 | 320/DIG16 | 455/575.8 | 320/DIG21
+	</str>
+	<str name="UPC Primary">
+		455/573
+	</str>
+	<str name="UPC Class">
+		455
+	</str>
+	<str name="Family Members">
+		US5223780
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		14
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		EP0868755A1 | US5459388 | US5592066 | US5939860 | US5608545 | US6526293 | US6771939 | USD543957 | US5633574 | US6073027 | US5600231 | US5733674 | US6359418 | US5479084
+	</str>
+	<str name="Cited By Count">
+		14
+	</str>
+	<str name="Cites">
+		US4709202 | US4803416 | US4698579
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		91297992
+	</str>
+	<str name="Priority Date">
+		1992-07-14
+	</str>
+	<str name="Inventor(s)">
+		HU, STEPHEN
+	</str>
+	<str name="1st Inventor">
+		HU, STEPHEN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		5F, No., 3, Alley, 19, Lane, 85, Sec., 3, Ta, Kuan, Rd., Pan, Chiao, Taipei, TW
+	</str>
+	<str name="Inventor(s) Address">
+		5F, No., 3, Alley, 19, Lane, 85, Sec., 3, Ta, Kuan, Rd., Pan, Chiao, Taipei, TW
+	</str>
+	<str name="Agent/Attorney">
+		JACOBSON, PRICE, HOLMAN &amp; STERN
+	</str>
+	<str name="Primary Examiner">
+		HICKEY, R. J.
+	</str>
+	<str name="cited by within 3 years">
+		6
+	</str>
+	<str name="cited by within 5 years">
+		10
+	</str>
+</doc>
+

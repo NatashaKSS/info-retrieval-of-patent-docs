@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7771911
+	</str>
+	<str name="Application Number">
+		US10536047
+	</str>
+	<str name="Title">
+		Process for producing photoresist composition, filter, coater and photoresist composition
+	</str>
+	<str name="Abstract">
+		A technique to acquire a photoresist composition which can reduce occurrence of defects of a resist pattern after development is provided. Further, a technique to obtain a photoresist composition having excellent storage stability characteristics as a resist solution (storage stability); and a technique to obtain a photoresist composition which reduces the change of sensitivity and resist pattern size after treatment almost completely are provided. A photoresist composition containing a resin component (A), an acid-generating component (B) for generating an acid under exposure, and an organic solvent (C) is passed through a first filter 2a equipped with a first membrane having zeta potential of more than -20 mV but no more than 15 mV in distilled water of pH 7.0.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-12-18
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-12
+	</str>
+	<str name="Publication Date">
+		2010-08-10
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-08
+	</str>
+	<str name="All IPC">
+		C02F1/44 | G03C1/00
+	</str>
+	<str name="IPC Primary">
+		C02F1/44
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/653 | 210/652 | 210/651 | 210/650 | 430/270.1
+	</str>
+	<str name="UPC Primary">
+		210/653
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Office Action and Search Report issued on Jun. 17, 2008, on the counterpart Taiwanese Patent Application No. 093102020. cited by other . | Pall Corporation, &quot;Microlithography Filtration: Enables Shrinking Device Geometries&quot;, 2008, pp. 1-8. cited by examiner . | Office Action issued on corresponding Japanese Patent Application No. 2004-031285, dated Mar. 10, 2009. cited by other . | Office Action issued on counterpart Japanese Patent Application No. 2003-416583, dated Apr. 21, 2009. cited by other . | Gotlinsky et al., &quot;The Effect of Sub-0.1MUM Filtration on 248nm Photoresist Performance,&quot; Solid State Technology, Pennwell Corporation, Tulsa, OK, US; vol. 43, No. 7, Jul. 1, 2000; pp. 202-204, 206. cited by other . | Pall Corporation, &quot;PhotoKleen EZD-2 Filter Assembly&quot;, 2001, pp. 1-2. cited by examiner . | www.pall.com/datasheet.sub.--MicroE.sub.--2752.asp, &quot;Ultipleat P-Nylon Filter (microlithography)&quot;, Mar. 2001. cited by examiner . | Supplementary European Search Report for European Patent Application No. 03780900.1, dated Apr. 7, 2009, and the transmission letter establishing receipt on May 11, 2009. cited by other . | Ikenouchi et al: &quot;Photoresist Filtering System Using Two Step Filtering,&quot; IP.COM Journal, IP.COM Inc., West Henrietta, NY, US, Sep. 1, 1991. cited by other . | Office Action issued on corresponding European Patent Application No. 04706302.9, dated Feb. 10, 2010. cited by other.
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cites">
+		US20020060184 | US5215662 | US20010010890 | US20020124798 | US6103122 | US20040106062 | US20030031950 | US4707266 | US20020136980 | US6015493 | US6596458 | US4340479 | US6787283 | US5350714 | US20030170559 | US6830867 | US5019723 | US4748474 | US20060191854 | US20010026901 | US20020187421 | JP2001125269 | WO2000020053 | JP2001022072 | JP2002526172 | JP032817H06 | JP289614H06 | JP2002062667 | JP2002296779 | JP2001350266 | JP2003330202 | JP2002201232 | JP2001170539 | WO2004069959 | WO2004067688 | JP2002099076 | JP1988006502A | EP1193556 | JP2001056556 | EP0251187
+	</str>
+	<str name="Cites Count">
+		40
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2002368931 | 2003416583
+	</str>
+	<str name="Priority Date">
+		2002-12-19 | 2003-12-15
+	</str>
+	<str name="Assignee(s)">
+		TOKYO OHKA KOGYO CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		TOKYO OHKA KOGYO CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		HADA, HIDEO | IWAI, TAKESHI | SHIMAZAKI, MASAAKI | MUROI, MASAAKI | ATSUCHI, KOTA | TOMIDA, HIROAKI | OZAKI, HIROKAZU
+	</str>
+	<str name="1st Inventor">
+		HADA, HIDEO
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP | Kawasaki, JP | Kawasaki, JP | Kawasaki, JP | Kawasaki, JP | Kawasaki, JP | Kawasaki, JP
+	</str>
+	<str name="Agent/Attorney">
+		KNOBBE, MARTENS, OLSON &amp; BEAR, LLP
+	</str>
+	<str name="Primary Examiner">
+		KELLY, CYNTHIA H
+	</str>
+	<str name="Assistant Examiner">
+		JOHNSON, CONNIE P
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

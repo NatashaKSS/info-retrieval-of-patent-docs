@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7678275
+	</str>
+	<str name="Application Number">
+		US10549721
+	</str>
+	<str name="Title">
+		Method and equipment for liquid-liquid extraction
+	</str>
+	<str name="Abstract">
+		The invention relates to a method for reversing the dispersion formed in the mixing section of liquid-liquid extraction and kept condensed in the separation section and the separated solutions form the rear end of the separation section to flow back towards the feed end of the separation section. The invention also refers to the extraction equipment for implementing the reversed flow.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-03-15
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-03
+	</str>
+	<str name="Publication Date">
+		2010-03-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		B01D11/00
+	</str>
+	<str name="IPC Primary">
+		B01D11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		423/8 | 423/658.5 | 210/802 | 210/522 | 210/805 | 422/258 | 423/139 | 210/634 | 423/24 | 423/109 | 210/801
+	</str>
+	<str name="UPC Primary">
+		423/8
+	</str>
+	<str name="UPC Class">
+		423
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6083400 | US5558780 | US3997445 | US3607104 | US7465402 | US4721571 | US7517461 | US7390420 | US6132615 | US4292277 | US6176608 | US5662871
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		FI
+	</str>
+	<str name="Priority Number">
+		20030410
+	</str>
+	<str name="Priority Date">
+		2003-03-19
+	</str>
+	<str name="Assignee(s)">
+		OUTOTEC OYJ
+	</str>
+	<str name="1st Assignee">
+		OUTOTEC OYJ
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Espoo, FI
+	</str>
+	<str name="Assignee(s) Address">
+		Espoo, FI
+	</str>
+	<str name="Inventor(s)">
+		NYMAN, BROR | EKMAN, EERO | HULTHOLM, STIG-ERIK | PEKKALA, PERTTI | LYYRA, JUHANI | LILJA, LAUNO | KUUSISTO, RAIMO
+	</str>
+	<str name="1st Inventor">
+		NYMAN, BROR
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Ulvila, FI
+	</str>
+	<str name="Inventor(s) Address">
+		Ulvila, FI | Pori, FI | Pori, FI | Espoo, FI | Espoo, FI | Pori, FI | Espoo, FI
+	</str>
+	<str name="Agent/Attorney">
+		BUCHANAN INGERSOLL &amp; ROONEY PC
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

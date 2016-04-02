@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8203844
+	</str>
+	<str name="Application Number">
+		US12/723689
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Electronic device with back-up power supply
+	</str>
+	<str name="Abstract">
+		The disclosure provides an electronic device having back-up power during battery replacement. The electronic device includes a body, a printed circuit board (PCB) mounted in the body, and an electrode assembly connected to the PCB. The body defines an accommodating space. The electrode assembly may rotate relative to the body and further comprises at least two groups of contacts aligned in different rotation orientations. The accommodating space is configured to accommodate a first battery. A first group of the at least two groups of contacts is engaged with the first battery, the at least two groups of contacts are connected in parallel to the PCB, when the first battery is being replaced by a second battery, the first group of contacts is kept engaged with the first battery, and a second group of the at least two groups of contacts is engaged with the second battery.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-03-15
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-03
+	</str>
+	<str name="Publication Date">
+		2012-06-19
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-06
+	</str>
+	<str name="All IPC">
+		H05K5/00
+	</str>
+	<str name="IPC Primary">
+		H05K5/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K5
+	</str>
+	<str name="All UPC">
+		361/755 | 361/715 | 361/728
+	</str>
+	<str name="UPC Primary">
+		361/755
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5583744 | US6002583 | US6191941 | US6385041 | US6768637 | US7433182 | US7751860 | US20120008263A1
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		CN
+	</str>
+	<str name="Priority Number">
+		200910311408
+	</str>
+	<str name="Priority Date">
+		2009-12-14
+	</str>
+	<str name="Assignee(s)">
+		HONG FU JIN PRECISION INDUSTRY (SHENZHEN) CO., LTD. (SHENZHEN, GUANGDONG PROVINCE, CN), HON HAI PRECISION INDUSTRY CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		HONG FU JIN PRECISION INDUSTRY (SHENZHEN) CO., LTD. (SHENZHEN, GUANGDONG PROVINCE, CN), HON HAI PRECISION INDUSTRY CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tu-Cheng, New Taipei, TW
+	</str>
+	<str name="Assignee(s) Address">
+		Tu-Cheng, New Taipei, TW
+	</str>
+	<str name="Inventor(s)">
+		SIP, KIM-YEUNG | YANG, SONG-LING
+	</str>
+	<str name="1st Inventor">
+		SIP, KIM-YEUNG
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Shenzhen, CN
+	</str>
+	<str name="Inventor(s) Address">
+		Shenzhen, CN | Shenzhen, CN
+	</str>
+	<str name="Agent/Attorney">
+		ALTIS LAW GROUP, INC.
+	</str>
+	<str name="Primary Examiner">
+		BUI, HUNG S, DEPT. 2835
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

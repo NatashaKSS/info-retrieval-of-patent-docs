@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8080150
+	</str>
+	<str name="Application Number">
+		US11/014203
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Electrolytic cell
+	</str>
+	<str name="Abstract">
+		The present invention relates to a process of treating contaminated water containing microorganisms comprising feeding a contaminated water stream at a volumetric flow of about 1 to about 1000 m.sup.3/h through an electrolyser zone, said water stream having a conductivity from about 0.0001 to about 100 S/m, electrolysing said water stream in said electrolyser zone defined by at least one electrode pair enabling treatment of microorganisms, said at least one electrode pair comprising an anode and a cathode without separator means, said water stream being guided substantially perpendicularly through said at least one anode and cathode while imposing a voltage across said anode and cathode and supplying a direct current to said anode and cathode, withdrawing from the electrolyser zone a treated water stream. The invention also relates to an electrolytic cell in which said process can be performed, and to the use of the electrolytic cell.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-12-17
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-12
+	</str>
+	<str name="Publication Date">
+		2011-12-20
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		C02F1/46
+	</str>
+	<str name="IPC Primary">
+		C02F1/46
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		204/275.1 | 205/758 | 205/701 | 204/284 | 205/742
+	</str>
+	<str name="UPC Primary">
+		204/275.1
+	</str>
+	<str name="UPC Class">
+		204
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report of PCT/SE2004/001871, completed Apr. 22, 2005. cited by other . | European Search Report of EP 03445146, completed May 13, 2004. cited by other. | Zhong Li et al, &quot;Degradation of Organic Pollutants by the Advanced Oxidation Processes&quot;, Chinese J. of Chem, Eng., 7(2) 110-115 (1999). cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20020158018 | US5770037 | US5419824 | US6814840 | US20030226766 | US6709567 | US20020185382 | US3933606 | US6328875 | EP1340841 | WO2003003556 | WO2002026635
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Assignee(s)">
+		RWO GMBH
+	</str>
+	<str name="1st Assignee">
+		RWO GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Bremen, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Bremen, DE
+	</str>
+	<str name="Inventor(s)">
+		NYMAN, LARS | HERLITZ, FREDRIK | ECHARDT, JONAS | SHIMAMUNE, TAKAYUKI | HAKANSSON, HELGA
+	</str>
+	<str name="1st Inventor">
+		NYMAN, LARS
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Fransta, SE
+	</str>
+	<str name="Inventor(s) Address">
+		Fransta, SE | Sundsvall, SE | Halmstad, SE | Machida, JP | Sundsvall, SE
+	</str>
+	<str name="Agent/Attorney">
+		SERBIN, DAVID J. WRB-IP LLC
+	</str>
+	<str name="Primary Examiner">
+		PHASGE, ARUN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

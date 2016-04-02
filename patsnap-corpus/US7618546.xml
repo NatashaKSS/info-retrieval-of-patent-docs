@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7618546
+	</str>
+	<str name="Application Number">
+		US11669424
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Iron catalysis in oxidation by ozone
+	</str>
+	<str name="Abstract">
+		A means and method for improving ozone oxidation through the addition of an iron(II) catalyst is described.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-01-31
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2009-11-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		C02F1/72
+	</str>
+	<str name="IPC Primary">
+		C02F1/72
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/758 | 210/748 | 210/760
+	</str>
+	<str name="UPC Primary">
+		210/758
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7618546
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Pestovsky, Oleg et al. &quot;Aqueous Ferryl(IV) Ion: Kinetics of Oxygen Atom Transfer To Substrates and Oxo Exchange with Solvent Water&quot; Inorg Chem. 2006, 45, 814-820. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20040217326 | US6576144 | US20050199557 | US4008286
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		66942407 | 76379806
+	</str>
+	<str name="Priority Date">
+		2007-01-31 | 2006-01-31
+	</str>
+	<str name="Assignee(s)">
+		IOWA STATE UNIVERSITY RESEARCH FOUNDATION, INC.
+	</str>
+	<str name="1st Assignee">
+		IOWA STATE UNIVERSITY RESEARCH FOUNDATION, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ames, IA
+	</str>
+	<str name="Assignee(s) Address">
+		Ames, IA
+	</str>
+	<str name="Inventor(s)">
+		BAKAC, ANDREJA | PESTOVSKY, OLEG
+	</str>
+	<str name="1st Inventor">
+		BAKAC, ANDREJA
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Ames, IA
+	</str>
+	<str name="Inventor(s) Address">
+		Ames, IA | Ames, IA
+	</str>
+	<str name="Agent/Attorney">
+		MCKEE, VOORHEES &amp; SEASE, P.L.C.
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

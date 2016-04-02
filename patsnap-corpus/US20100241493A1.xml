@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100241493A1
+	</str>
+	<str name="Application Number">
+		US12793694
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		COMPUTERIZED VOTING SYSTEM
+	</str>
+	<str name="Abstract">
+		Any business, individuals, groups of people, or government that is Officially facilitating the voting process use sources of computer data and other data to create lists of every eligible Voter. The List of Eligible Voters contains the name and physical mailing address for each Voter. The Official host then arranges for printing of mailing envelopes containing specially designed ballots to the Voters. Each MASTER Ballot has two parts--a PRIMARY Ballot and at least one RECEIPT Ballot. For each MASTER Ballot, both the PRIMARY Ballot and RECEIPT Ballot(s) share an identical, unique group of symbols as a correlating identifier. The identifier (RSID) is randomly generated to be unique and rare, so as to make any ballot difficult to counterfeit. To maintain privacy, before voting, Voters exchange ballots any number of times within a voting region. Ballot validation prior to exchange is performed in person, by telephone, fax or Internet. Completed PRIMARY Ballots are mailed or otherwise delivered via Internet, Telephone, Fax or Email to Official host on or before the due date for verification, recording, tallying and publication. By referring to any RECEIPT Ballot having the same the unique RSID as the PRIMARY Ballot, any Voter can use a telephone or a computer connected to the Internet to enquire, verify or report errors as to processing of their PRIMARY Ballot, or published tallies of ballot votes or other information published. After voting is completed, Officials publish a list of all the Ballot Voting RSID's, so that anyone can verify any Ballot, Voter selections Ballots, the tally for each Ballot, etcetera. The Voting System may optionally be supported by physical ballots (paper, plastic, etc.) for immutable secondary verification of electronic votes; thus providing a transparent, verifiable audit trail to assure completeness, accuracy and validity of the Voting Session.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-06-04
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-06
+	</str>
+	<str name="Publication Date">
+		2010-09-23
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-09
+	</str>
+	<str name="All IPC">
+		G06Q90/00 | G06Q10/00 | H04L9/30 | G06F21/22 | G06K7/00
+	</str>
+	<str name="IPC Primary">
+		G06Q90/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06Q
+	</str>
+	<str name="IPC Group">
+		G06Q90
+	</str>
+	<str name="All UPC">
+		705/12 | 705/500 | 726/4 | 235/380 | 380/28
+	</str>
+	<str name="UPC Primary">
+		705/12
+	</str>
+	<str name="UPC Class">
+		705
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		CA
+	</str>
+	<str name="Priority Number">
+		2,469,598
+	</str>
+	<str name="Priority Date">
+		2004-07-04
+	</str>
+	<str name="Inventor(s)">
+		ONISCHUK DANIEL WILLIAM
+	</str>
+	<str name="1st Inventor">
+		ONISCHUK DANIEL WILLIAM
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Edmonton,CA
+	</str>
+	<str name="Inventor(s) Address">
+		Edmonton,CA
+	</str>
+	<str name="Agent/Attorney">
+		DAN ONISCHUK
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

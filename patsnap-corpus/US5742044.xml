@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5742044
+	</str>
+	<str name="Application Number">
+		US08754347
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Light sensing array device and apparatus incorporating such
+	</str>
+	<str name="Abstract">
+		A light sensing array device including an array of photoelectric light sensing elements (10) individually addressable via sets of address conductors (12, 14) for use, for example, in image sensing or data input using a light pen, which is operable also in a power generating mode in which sensing elements in the array produce electrical power in the manner of a solar cell. To this end, the sets of address conductors are selectively connected via switching means (20, 21, 37, 38) to power output terminals (42, 43). The generated power may be used to supplement a power supply, e.g. using a battery pack, of the device or of electronic apparatus, such as a notebook computer, incorporating the device.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-11-22
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-11
+	</str>
+	<str name="Publication Date">
+		1998-04-21
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-04
+	</str>
+	<str name="All IPC">
+		H01J40/14
+	</str>
+	<str name="IPC Primary">
+		H01J40/14
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01J
+	</str>
+	<str name="IPC Group">
+		H01J40
+	</str>
+	<str name="All UPC">
+		250/214R | 250/208.1 | 257/E27.133 | 257/E27.125 | 348/308
+	</str>
+	<str name="UPC Primary">
+		250/214R
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		EP0807319A1 | US5742044 | JP1999500273A | WO1997020349A1 | GB9524483D0
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7253571 | US7936394 | US6828545 | US6774946 | WO2005022547A1
+	</str>
+	<str name="Cited By Count">
+		5
+	</str>
+	<str name="Cites">
+		US4644406 | US5371351 | EP0633542A2 | EP0608932A2
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		9524483.6
+	</str>
+	<str name="Priority Date">
+		1995-11-30
+	</str>
+	<str name="Assignee(s)">
+		U.S. PHILIPS CORPORATION
+	</str>
+	<str name="1st Assignee">
+		U.S. PHILIPS CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		New York, NY
+	</str>
+	<str name="Assignee(s) Address">
+		New York, NY
+	</str>
+	<str name="Inventor(s)">
+		BATTERSBY, STEPHEN, J.
+	</str>
+	<str name="1st Inventor">
+		BATTERSBY, STEPHEN, J.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Haywards, Heath, GB2
+	</str>
+	<str name="Inventor(s) Address">
+		Haywards, Heath, GB2
+	</str>
+	<str name="Agent/Attorney">
+		WIEGHAUS, BRIAN J., BARSCHALL, ANNE E.
+	</str>
+	<str name="Primary Examiner">
+		LE, QUE
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

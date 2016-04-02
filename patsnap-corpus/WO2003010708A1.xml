@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2003010708A1
+	</str>
+	<str name="Application Number">
+		PCT/US2001/044888
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		COLLABORATIVE DIAGNOSTIC SYSTEMS
+	</str>
+	<str name="Abstract">
+		The systems described herein include tools for computer-assisted evaluation of objective characteristics of pathologies. A diagnostic system arranged according to the teachings herein provides computer support for those tasks well suited to objective analysis, along with human decision making where substantial discretion is involved. Collaborative diagnosis may be provided through shared access to data and shared control over a diagnostic tool, such as a telemicroscope, and messaging service for clinicians who may be at remote locations. These aspects of the system, when working in cooperation with one another, may achieve improved diagnostic accuracy or early detection for pathologies such as lymphoma.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-11-30
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-11
+	</str>
+	<str name="Publication Date">
+		2003-02-06
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-02
+	</str>
+	<str name="All IPC">
+		G06F19/00 | G06K9/00 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F19/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F19
+	</str>
+	<str name="Family Members">
+		WO2003010708A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		GROSHONG B R: &quot;Estimating simple closed contours in images&quot; PROCEEDINGS OF THE ANNUAL SYMPOSIUM ON COMPUTER BASED MEDICAL SYSTEMS. DURHAM, JUNE 14 - 17, 1992, NEW YORK, IEEE.D, US, vol. SYMP. 5, 14 June 1992 (1992-06-14), pages 35-43, XP010028205 ISBN: 0-8186-2742-5 | CABRAL J E ET AL: &quot;MULTIMEDIA SYSTEMS FOR TELEMEDICINE AND THEIR COMMUNICATIONS REQUIREMENTS&quot; IEEE COMMUNICATIONS MAGAZINE, IEEE SERVICE CENTER. PISCATAWAY, N.J, US, vol. 34, no. 7, 1 July 1996 (1996-07-01), pages 20-27, XP000623739 ISSN: 0163-6804
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		WO1999030264A1 | US6148096 | US6226392 | WO1996007161A1 | US4513438 | WO1993014600A1
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		60/250,239
+	</str>
+	<str name="Priority Date">
+		2000-11-30
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF MEDICINE &amp; DENTISTRY OF NEW JERSEY | RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF MEDICINE &amp; DENTISTRY OF NEW JERSEY
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		60 Bergen Street, Newark, NJ 07107, US
+	</str>
+	<str name="Assignee(s) Address">
+		60 Bergen Street, Newark, NJ 07107, US | Old Queens, Somerset Street, New Brunswick, NJ 08903, US
+	</str>
+	<str name="Inventor(s)">
+		FORAN, DAVID, J. | MEER, PETER | COMANICIU, DORIN
+	</str>
+	<str name="1st Inventor">
+		FORAN, DAVID, J.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		114, Short, Hills, Avenue, Short, Hills, NJ, 07078, US
+	</str>
+	<str name="Inventor(s) Address">
+		114, Short, Hills, Avenue, Short, Hills, NJ, 07078, US | 16, Timothy, Lane, East, Brunswick, NJ, 08816, US | 126, Forest, Glen, Drive, Highland, Park, NJ, 08904, US
+	</str>
+	<str name="Agent/Attorney">
+		MAZZARESE, ROBERT, A., ET AL, ROPES &amp; GRAY, PATENT GROUP, ONE INTERNATIONAL PLACE, BOSTON, MA 02110, US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20110258195A1
+	</str>
+	<str name="Application Number">
+		US13007407
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Systems and methods for automatically reducing data search space and improving data extraction accuracy using known constraints in a layout of extracted data elements
+	</str>
+	<str name="Abstract">
+		A method of automatically narrowing data search space and improving accuracy of data extraction using known constraints in a layout of extracted data elements for classified documented is provided. The method includes: analyzing each document to classify it within a document category, each category having a corresponding set of expected layouts; analyzing each electronic document to automatically extract images and text features; automatically constructing a data structure including a layout of the extracted features and layout relationships amongst the extracted features, wherein each of the extracted features in the layout maintains a reference to neighboring features and wherein closely related features are merged to form a combined feature; automatically narrowing data search space by detecting and removing parts of the layout that are not associated with any data elements using the data structure; and automatically detecting data using the extracted feature layout and the layout relationships amongst the extracted features.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2011-01-14
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-01
+	</str>
+	<str name="Publication Date">
+		2011-10-20
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/E17.09 | 707/740
+	</str>
+	<str name="UPC Primary">
+		707/E17.09
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Inventor(s)">
+		WELLING GIRISH | SINGH VARTIKA | O'NEIL JANICE | NEOGI DEPANKAR | LADD STEVEN K.
+	</str>
+	<str name="1st Inventor">
+		WELLING GIRISH
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Nashua,NH,US
+	</str>
+	<str name="Inventor(s) Address">
+		Nashua,NH,US | Lawrence,MA,US | Nottingham,NH,US | Wilmington,MA,US | North Andover,MA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7361268
+	</str>
+	<str name="Application Number">
+		US10972285
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Waste treatment systems
+	</str>
+	<str name="Abstract">
+		Waste treatment systems and methods of using them to treat septage, domestic sludge or both are disclosed. Certain examples provided herein relate to waste treatment systems that include a plurality of stages, such as, for example, a plurality of ecosystems, configured to treat domestic sludge, septage or both.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-10-22
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-10
+	</str>
+	<str name="Publication Date">
+		2008-04-22
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/150 | 210/151 | 210/220
+	</str>
+	<str name="UPC Primary">
+		210/150
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		WO200706047225A3 | EP1812350A2 | CN101087733A | US20060086662A1 | US20080156725A1 | US7361268 | WO2006047225A2
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References">
+		Jun. 4, 1993 Well Record. cited by other. | Certificate of Analysis from Assaigai Analytical Laboratories, Inc. to Mike Ogden, dated Feb. 8, 2002. cited by other . | Hauck, R.D.,&quot;Treating Wastewater in Constructed Wetlands,&quot; Journal of Environmental Sciences, vol. 14, No. 1, pp. 27-33, 2002. cited by other . | Page 43 page printout from HazTECH News, dated May 30, 2002. cited by other . | Ground Water Discharge Permit Application, State of New Mexico Environment Department, pp. 1-12. cited by other . | State of New Mexico Environmental Improvement Division, NMEID Policy for the Use of Domestic Wastewater Effluent for Irrigation, Dec. 1985. cited by other . | Jul. 14, 1978 Well Record. cited by other . | Certified letter from Charles Lundstrom, State of New Mexico Environment Department, to Leslie Barclay, dated Jul. 30, 2004. cited by other . | Certified letter from Mary Heather Noble, State of New Mexico Environment Department, to Leslie Barclay, dated Apr. 16, 2002. cited by other . | Certified letter from Mary Heather Noble, State of New Mexico Environment Department, to Michael Ogden, dated Feb. 15, 2002. cited by other . | Certified letter from Marcy Leavitt, State of New Mexico Environment Department, to Leslie Barclay, dated Jul. 8, 2002. cited by other . | May 15, 1974 Well Record. cited by other . | Technical Support Package for &quot;Aquatic Plants Aid Sewage Filter,&quot; NASA Tech Briefs, Spring 1984, vol. 8, No. 3, MFS-25808, George C. Marshall Space Flight Center, Alabama, pp. i-6. cited by other . | Letter from Michael Ogden, Natural Systems International LLC, to Fred Kalesh and Mary Heather Noble, dated Mar. 12, 2002. cited by other . | Stott, R.F. et al., &quot;A Review: Sewage treatment with plants,&quot; Letters in Applied Microbiology 1991, 12, pp. 99-105. cited by other . | Certified letter from Jake Knutson, State of New Mexico Environment Department, to Leslie Barclay, dated Jul. 11, 2002. cited by other .
+	</str>
+	<str name="Other References Count">
+		16
+	</str>
+	<str name="Cited By">
+		US7540960 | US8252182 | US8021551
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US5863433 | US4415450 | US20020130076 | US5087353 | US4169050 | US4872985 | US6200469 | US6190553 | EP0442946
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		97228504
+	</str>
+	<str name="Priority Date">
+		2004-10-22
+	</str>
+	<str name="Assignee(s)">
+		EARTH WORKS INSTITUTE (SANTA FE, NM), OGDEN, MICHAEL (SANTA FE, NM), BARCLAY, LESLIE
+	</str>
+	<str name="1st Assignee">
+		EARTH WORKS INSTITUTE (SANTA FE, NM), OGDEN, MICHAEL (SANTA FE, NM), BARCLAY, LESLIE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		South Dartmouth, MA
+	</str>
+	<str name="Assignee(s) Address">
+		South Dartmouth, MA
+	</str>
+	<str name="Inventor(s)">
+		OGDEN, MICHAEL, H.
+	</str>
+	<str name="1st Inventor">
+		OGDEN, MICHAEL, H.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Santa, Fe, NM
+	</str>
+	<str name="Inventor(s) Address">
+		Santa, Fe, NM
+	</str>
+	<str name="Agent/Attorney">
+		LOWRIE LANDO &amp; ANASTASI, LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

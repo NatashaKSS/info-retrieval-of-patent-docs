@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5170942
+	</str>
+	<str name="Application Number">
+		US07753404
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Spray nozzle design
+	</str>
+	<str name="Abstract">
+		Novel cluster nozzle designs useful for the formation of atomized sprays of fine liquid droplets in a continuous gas phase are described. A plurality of individual gas-liquid mixing zones communicate with a common source of liquid and a common source of gas to form gas-liquid mixtures for spraying from individual orifices in the nozzle. An improved uniformity of spray pattern is attained, as well as the ability to effect a greater liquid output from the nozzle through the use of larger size or numbers of orifices, while retaining very uniform sprays, by effecting a degree of premixing of liquid and gas before passage to the individual gas-liquid mixing zones.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1991-08-30
+	</str>
+	<str name="Application Year">
+		1991
+	</str>
+	<str name="Application(Year/Month)">
+		1991-08
+	</str>
+	<str name="Publication Date">
+		1992-12-15
+	</str>
+	<str name="Publication Year">
+		1992
+	</str>
+	<str name="Publication(Year/Month)">
+		1992-12
+	</str>
+	<str name="All IPC">
+		B05B7/08
+	</str>
+	<str name="IPC Primary">
+		B05B7/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05B
+	</str>
+	<str name="IPC Group">
+		B05B7
+	</str>
+	<str name="All UPC">
+		239/434 | 239/431 | 239/427.3 | 239/427
+	</str>
+	<str name="UPC Primary">
+		239/434
+	</str>
+	<str name="UPC Class">
+		239
+	</str>
+	<str name="Family Members">
+		KR100232795B1 | EP0547107A1 | EP0547107B1 | ZA9106960A | AU656536B2 | DE69115047T2 | JP1993507653A | JP7087907B | WO1992004127A1 | CA2090865A1 | CA2090865C | DE69115047D1 | US5170942 | AU8501591A | GB9019188D0 | AT130783T | IE913081A1
+	</str>
+	<str name="Family Member Count">
+		17
+	</str>
+	<str name="Family Members Cited By Count">
+		14
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US5368230 | US7506823 | US8151885 | US8157189 | US8181891 | US6098897 | US6010329 | US6478239 | US6691928 | US6227846 | US5439509 | US5474235
+	</str>
+	<str name="Cited By Count">
+		12
+	</str>
+	<str name="Cites">
+		US4601428 | US2933259 | US5025989 | US4893752 | US4890793 | US4356970 | US4819878 | US3747860 | US3844485 | US4625916 | US4708293 | US4614490 | DE2627880 | GB188368
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		9019188
+	</str>
+	<str name="Priority Date">
+		1990-09-03
+	</str>
+	<str name="Assignee(s)">
+		TURBOTAK TECHNOLOGIES INC.
+	</str>
+	<str name="1st Assignee">
+		TURBOTAK TECHNOLOGIES INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Waterloo, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Waterloo, CA
+	</str>
+	<str name="Inventor(s)">
+		SPINK, DONALD, R. | JANES, GORDON, P.
+	</str>
+	<str name="1st Inventor">
+		SPINK, DONALD, R.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Waterloo, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Waterloo, CA | Waterloo, CA
+	</str>
+	<str name="Agent/Attorney">
+		SIM &amp; MCBURNEY
+	</str>
+	<str name="Primary Examiner">
+		KASHNIKOW, ANDRES
+	</str>
+	<str name="Assistant Examiner">
+		MORRIS, LESLEY D.
+	</str>
+	<str name="cited by within 3 years">
+		3
+	</str>
+	<str name="cited by within 5 years">
+		4
+	</str>
+</doc>
+

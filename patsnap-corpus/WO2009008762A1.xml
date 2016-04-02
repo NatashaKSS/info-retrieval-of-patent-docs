@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2009008762A1
+	</str>
+	<str name="Application Number">
+		PCT/RU2007/000383
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		AUTOMATIC ELECTRIC POWER CONVERTER-MULTIPURPOSE INTELLECTUAL RECHARGER FOR CHARGING BATTERIES AND FOR FEEDING PORTABLE RADIOELECTRONIC DEVICES
+	</str>
+	<str name="Abstract">
+		The invention relates to electrical engineering. The inventive automatic electric power converter-multipurpose intellectual recharger comprises a main unit connectable to an external DC or AC power supply and one or more control units. A device (4), the battery of which is to be charged, or a direct current consumer are connected, for charging or feeding, to the main unit (2) by means of a connector which provides the mechanical, electric power and information coupling of the main unit to said device or consumer. One or more control units (3) can be arranged either in the above-mentioned connectors or in the devices them selves, the batteries of which are to be recharged, or can be emulated by the software of said devices. When a device-consumer is connected to the main unit via the connector, a control signal, corresponding to the current and voltage values required for optimally charging the battery of said device, is transmitted from the control unit (3) to the main unit and, afterwards, the main unit forms the required current and voltage to be supplied to the connected device-consumer by means of electric power lines via the connector. The inventive converter can be used for charging and/or feeding any devices provided with batteries or direct current consumers.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-07-11
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-07
+	</str>
+	<str name="Publication Date">
+		2009-01-15
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		H01J7/02 | H01M10/46 | H04M1/73
+	</str>
+	<str name="IPC Primary">
+		H01J7/02
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01J
+	</str>
+	<str name="IPC Group">
+		H01J7
+	</str>
+	<str name="Family Members">
+		WO2009008762A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		RU2263384C2 | US6291965 | US2006273800A1
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		RU
+	</str>
+	<str name="Priority Number">
+		2007000383
+	</str>
+	<str name="Priority Date">
+		2007-07-11
+	</str>
+	<str name="Assignee(s)">
+		OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU &quot;VEGAVOLT&quot; | VOROBIEV, ANDREI LEONIDOVICH
+	</str>
+	<str name="1st Assignee">
+		OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU &quot;VEGAVOLT&quot;
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		Moscow, 121108, RU
+	</str>
+	<str name="Assignee(s) Address">
+		Moscow, 121108, RU | Moscow, 111558, RU
+	</str>
+	<str name="Agent/Attorney">
+		LAW FIRM &quot;GORODISSKY &amp; PARTNERS&quot; LIMITED, MOSCOW, 129090, RU
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

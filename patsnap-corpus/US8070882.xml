@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8070882
+	</str>
+	<str name="Application Number">
+		US12/326969
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for the wet-chemical treatment of a semiconductor wafer
+	</str>
+	<str name="Abstract">
+		A method for the wet-chemical treatment of a semiconductor wafer involves: a) rotating a semiconductor wafer; b) applying a cleaning liquid comprising gas bubbles having a diameter of 100 .mu.m or less to the rotating wafer such that a liquid film forms on the wafer; c) exposing the rotating semiconductor wafer to a gas atmosphere containing a reactive gas; and d) removing the liquid film from the wafer.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-12-03
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-12
+	</str>
+	<str name="Publication Date">
+		2011-12-06
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		B08B7/00
+	</str>
+	<str name="IPC Primary">
+		B08B7/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B7
+	</str>
+	<str name="All UPC">
+		134/1.3 | 134/4 | 134/1 | 134/2
+	</str>
+	<str name="UPC Primary">
+		134/1.3
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20040097055 | US20020050279 | US4871416 | US7021319 | US6517998 | US20060091110 | US5759971 | US20070084481 | US5560857 | US20040031503 | US20070068086 | US7037842 | US20040029388 | US20040226654 | US20050233922 | JP2006237095 | JP2002134401 | KR20010056346 | JP2006310456 | JP2005268308 | JP1993152203 | WO2001027986 | JP2006116365 | KR20020076563 | JP2003045842 | JP2002110624
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102007058503
+	</str>
+	<str name="Priority Date">
+		2007-12-05
+	</str>
+	<str name="Assignee(s)">
+		SILTRONIC AG
+	</str>
+	<str name="1st Assignee">
+		SILTRONIC AG
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Munich, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Munich, DE
+	</str>
+	<str name="Inventor(s)">
+		SCHWAB, GUENTER | ZAPILKO, CLEMENS | BUSCHHARDT, THOMAS | FEIJOO, DIEGO | HAIBARA, TERUO | MORI, YOSHIHIRO
+	</str>
+	<str name="1st Inventor">
+		SCHWAB, GUENTER
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Neuoetting, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Neuoetting, DE | Burghausen, DE | Burghausen, DE | Burghausen, DE | Hikari, Yamaguchi, JP | Hikari, Yamaguchi, JP
+	</str>
+	<str name="Agent/Attorney">
+		BROOKS KUSHMAN P.C.
+	</str>
+	<str name="Primary Examiner">
+		KORNAKOV, MICHAEL
+	</str>
+	<str name="Assistant Examiner">
+		WHATLEY, KATELYN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

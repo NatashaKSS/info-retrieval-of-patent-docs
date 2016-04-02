@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7501059
+	</str>
+	<str name="Application Number">
+		US10962908
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Biological fluid filtration method and apparatus
+	</str>
+	<str name="Abstract">
+		A biological fluid processing or fluid filtration system is provided having novel open and closed loop processing systems wherein the gases transferred into and out of the system during processing pass through a porous medium in upstream and/or downstream gas inlet or outlet housings or vents in a manner which precludes the fluid being processed or filtered from ever contacting the housings or vents. Each housing or vent is separated from the fluid by a column of gas in its respective transfer line. The upstream gas inlet housing or vent is in communication with the unfiltered biological fluid, and the downstream gas inlet housing or vent is in communication with the filtered biological fluid.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-10-12
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-10
+	</str>
+	<str name="Publication Date">
+		2009-03-10
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		B01D36/00
+	</str>
+	<str name="IPC Primary">
+		B01D36/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D36
+	</str>
+	<str name="All UPC">
+		210/257.2 | 210/257.1 | 210/254 | 210/252 | 210/188 | 210/472 | 210/436
+	</str>
+	<str name="UPC Primary">
+		210/257.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20050087486A1 | US7501059
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7943044 | US8057670
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US3892236 | US5690815 | US5545339 | US5601730 | US6171493 | US5126054 | US5670060 | US5364526 | US6427847 | US2817372 | US5302299 | US6802425 | US5451321 | US5776338
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		96290804 | 16466802 | 68899900 | 27220399 | 7884898 | 8348498
+	</str>
+	<str name="Priority Date">
+		2004-10-12 | 2002-06-07 | 2000-10-16 | 1999-03-19 | 1998-03-20 | 1998-04-29
+	</str>
+	<str name="Assignee(s)">
+		HEMERUS MEDICAL LLC
+	</str>
+	<str name="1st Assignee">
+		HEMERUS MEDICAL LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		St. Paul, MN
+	</str>
+	<str name="Assignee(s) Address">
+		St. Paul, MN
+	</str>
+	<str name="Inventor(s)">
+		ZIA, MAJID | KHAMIS, CHAOUKI, A.
+	</str>
+	<str name="1st Inventor">
+		ZIA, MAJID
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		White, Bear, Township, MN
+	</str>
+	<str name="Inventor(s) Address">
+		White, Bear, Township, MN | Minneapolis, MN
+	</str>
+	<str name="Agent/Attorney">
+		MARSHALL &amp; MELHORN LLC
+	</str>
+	<str name="Primary Examiner">
+		KIM, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

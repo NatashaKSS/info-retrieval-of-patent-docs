@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7627158
+	</str>
+	<str name="Application Number">
+		US10566136
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Automatic registration of intra-modality medical volume images using affine transformation
+	</str>
+	<str name="Abstract">
+		A current diagnostic image and an archived diagnostic image of a common region of patient are loaded into a first memory (14) and a second memory (18). The diagnostic images are converted into feature images (24), scaled (40), and normalized (42). An affine transform determining processor (50) generates an affine transform representative of the error between the current and archived images. A transform operator (90) operates on one of the diagnostic images in accordance with the affine transform to bring the two images into registration. A display processor (104) displays corresponding pairs of slices of the registered first and second images on a monitor (22). A stepping processor (102) causes the displayed slice pairs of the registered images to be stepped together in coordination.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-07-16
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-07
+	</str>
+	<str name="Publication Date">
+		2009-12-01
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/32
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/131 | 382/199 | 382/294
+	</str>
+	<str name="UPC Primary">
+		382/131
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20060204064A1 | US7627158
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		MRIcro Tutorial Online; 2000; www.phychology.nottingham.ac.uk Section: &quot;Yoking Images to Check Registration&quot;. cited by other . | Rusinkiewicz, S., et al.; Efficient Variants of the ICP Algorithm; 2001; Proc. 3D Digital Imaging And Modeling; pp. 145-152. cited by other . | Besl, P.J., et al.; A Method for Registration of 3-D Shapes; 1992; IEEE Trans. On Pattern Analysis and Machine Intelligence; 14(2)pp. 239-256. cited by other . | Camera, O., et al.; Elastic Thoacic Registration with Anatomical Multi-Resolution; 2002; WSPC-Instruction File; pp. 1-19. cited by other . | Fitzgibbon, A.W.; Robust Registration of 2D and 3D Point Sets; 2001; The British Machine Vision Conference. cited by other . | Fan, L., et al.; 3D Warping and Registration from Lung Images; 1999; SPIE Cof. Develop. in X-Ray Topography-Denver. cited by other . | Simon, D.A.; Fast and Accurate Shape-Based Registration; Dissertation; Carnegie Mellon University; 1996. cited by other . | Matsuda, T., et al.; Registration and Integration of Multiple Range Images for 3-D Model Construction; 1996; IEEE; pp. 879-883. cited by other. | Hong, H., et al.; Multilevel 3D Registration of Lung Surfaces in Computed Tomography Scans-Preliminary Experience; 2002; Int. Conf. On Diagnostic Imaging and Analysis; pp. 90-95. cited by other . | Betke, M., et al.; Automatic 3D Registration of Lung Surfaces in Computed Tomography Scans; 2001; Lecture Notes in Computer Science; vol. 2208; pp. 725-733. cited by other . | Maintz, J.B.A., et al.; A survey of medical image registration; 1998; Medical Image Analysis; 2(1)pp. 1-36. cited by other .
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cites">
+		US7206462 | US20020097901 | US7106891 | US20020049378 | US7274810 | US5800353 | EP1081647 | WO2002023477
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		US | IB | US
+	</str>
+	<str name="Priority Number">
+		49104503 | 2004002399 | 56613606
+	</str>
+	<str name="Priority Date">
+		2003-07-30 | 2004-07-16 | 2006-01-27
+	</str>
+	<str name="Assignee(s)">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="1st Assignee">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Eindhoven, NL
+	</str>
+	<str name="Assignee(s) Address">
+		Eindhoven, NL
+	</str>
+	<str name="Inventor(s)">
+		HAY, ORI
+	</str>
+	<str name="1st Inventor">
+		HAY, ORI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Haifa, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Haifa, IL
+	</str>
+	<str name="Primary Examiner">
+		CHANG, JON
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7435317
+	</str>
+	<str name="Application Number">
+		US10240431
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Desalination of ocean water
+	</str>
+	<str name="Abstract">
+		An improved distillation of water. involves distilling significant quantities of water at temperatures well below the boiling point. During distillation, a compound is taken from a liquid-phase to a gas-phase and then condensed to the liquid-phase again to get a pure liquid. The present invention uses water sprayed (105) and absorbed onto a solid surface such as micro-powder (104) made from wood as a starting material. Absorbing water onto such a surface results in rapid evaporation with a relatively low temperature gradient when the water and particles are agitated. The present invention could be characterized as solid-phase distillation.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-03-29
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-03
+	</str>
+	<str name="Publication Date">
+		2008-10-14
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		B01D3/10 | B01D3/42 | C02F1/04 | B01D3/38
+	</str>
+	<str name="IPC Primary">
+		B01D3/10
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D3
+	</str>
+	<str name="All UPC">
+		203/95 | 202/160 | 203/90 | 203/92 | 159/48.1 | 202/236 | 203/2 | 159/DIG.20 | 202/205 | 203/14 | 203/12 | 159/DIG.16 | 203/11 | 203/10
+	</str>
+	<str name="UPC Primary">
+		203/95
+	</str>
+	<str name="UPC Class">
+		203
+	</str>
+	<str name="Family Members">
+		US20040084156A1 | US20090032387A1 | US7435317
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8083902 | US8191307
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US2764533 | US5183540 | US3290231 | US5429247 | US2929106 | US20050255779 | US3946110 | US5624530
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2000096811
+	</str>
+	<str name="Priority Date">
+		2000-03-31
+	</str>
+	<str name="Assignee(s)">
+		BIOMASS CONVERSIONS, L.L.C.
+	</str>
+	<str name="1st Assignee">
+		BIOMASS CONVERSIONS, L.L.C.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Los Angeles, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Los Angeles, CA
+	</str>
+	<str name="Inventor(s)">
+		HATA, SEIJI
+	</str>
+	<str name="1st Inventor">
+		HATA, SEIJI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		VENABLE LLP KIRCHANSKI, STEFAN J.
+	</str>
+	<str name="Primary Examiner">
+		MANOHARAN, VIRGINIA
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

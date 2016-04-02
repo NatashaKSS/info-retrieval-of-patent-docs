@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8236240
+	</str>
+	<str name="Application Number">
+		US11/656570
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and system for conducting vapor phase decontamination of sealable entities and their contents
+	</str>
+	<str name="Abstract">
+		The invention provides a method and system for conducting a continuous operation, flowing vapor phase decontamination in either an open loop or a closed loop. Using the method, a multi-component liquid decontaminant is vaporized and delivered into, through and out of a sealable enclosure by means of a carrier gas that is flowing into, through and out of said sealable enclosure. After leaving the enclosure, the vapor is captured in a cold-water bath and decomposed. The invention humidifies the carrier gas by passing it through a temperature controlled water bath to warm, or to cool, the carrier gas as necessary in order to bring the carrier gas to the desired temperature and humidity before it is combined with the vaporized sterilant and allowed to flow into the sealable enclosure. The concentration of the vapor sterilant and the percent saturation of the vapor sterilant are simultaneously controlled by controlling the rate at which the carrier gas flows and the rate at which the liquid sterilant is vaporized. A chilled mirror or other type of dew point sensor can be used to ensure that near saturation conditions are maintained during decontamination.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-23
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2012-08-07
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-08
+	</str>
+	<str name="All IPC">
+		A61L9/00 | F22B27/00 | A61L2/00 | A62B7/08 | B05B1/24 | B05B1/08
+	</str>
+	<str name="IPC Primary">
+		A61L9/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61L
+	</str>
+	<str name="IPC Group">
+		A61L9
+	</str>
+	<str name="All UPC">
+		422/28 | 122/28 | 122/40 | 122/412 | 239/102.2 | 239/136 | 392/386 | 392/394 | 392/399 | 392/467 | 422/1 | 422/124 | 422/125 | 422/20 | 422/292 | 422/298 | 422/3 | 422/305 | 422/31 | 422/32 | 422/5 | 422/900
+	</str>
+	<str name="UPC Primary">
+		422/28
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3245461 | US3767362 | US4909436 | US5173258 | US5560222 | US5868999 | US5872359 | US20030086820 | US20040191112
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Inventor(s)">
+		CHILDERS, JAMES, ARTHUR | CHILDERS, ROBERT, WARREN
+	</str>
+	<str name="1st Inventor">
+		CHILDERS, JAMES, ARTHUR
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Trinity, FL
+	</str>
+	<str name="Inventor(s) Address">
+		Trinity, FL | Trinity, FL
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		CHORBAJI, MONZER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6703810
+	</str>
+	<str name="Application Number">
+		US10279899
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Digital controlled charge current regulator
+	</str>
+	<str name="Abstract">
+		A method for regulating the battery charge current with improved loop stability is achieved. Key element of this invention is a digital low pass filter within the feedback loop of the regulator, which is built by an up/down counter, a digital-to-analog-converter and a variable frequency oscillator. To achieve regulating loop stability in state-of-the-art analog designs, the dominant pole has to be selected at a sufficiently low frequency, which causes the regulator to be too slow for pulsed charge currents. The disclosed invention replaces the analog feedback circuit with a digital low pass filter arrangement. It achieves stability by being able to choose the low pass filter time constant longer than the supply-voltage-pulse-width with reduced circuit complexity and less electronic circuit resources. Furthermore, the timing characteristics can be varied during normal operation by modifying the oscillator frequency and by presetting the up/down counter to defined values. The circuit is capable of regulating a charge current from a pulsed power supply, such as a rectified sine wave power supply without capacitor and can provide a pulse-width-modulated charge current. The circuit makes sure that the maximum peak current of the battery isn't exceeded by sampling only when there is sufficient supply voltage.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-10-24
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-10
+	</str>
+	<str name="Publication Date">
+		2004-03-09
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-03
+	</str>
+	<str name="All IPC">
+		H01M1/40
+	</str>
+	<str name="IPC Primary">
+		H01M1/40
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M1
+	</str>
+	<str name="All UPC">
+		320/128
+	</str>
+	<str name="UPC Primary">
+		320/128
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Members">
+		EP1387479A1 | US20040021444A1 | US6703810
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6177787 | US3754182 | US4109194 | US3970919 | US5969515 | JP1987136120 | WO2001033310 | JP1984097218
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		02392014
+	</str>
+	<str name="Priority Date">
+		2002-08-02
+	</str>
+	<str name="Assignee(s)">
+		DIALOG SEMICONDUCTOR GMBH
+	</str>
+	<str name="1st Assignee">
+		DIALOG SEMICONDUCTOR GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kirchheim/Teck-Nabern
+	</str>
+	<str name="Assignee(s) Address">
+		Kirchheim/Teck-Nabern
+	</str>
+	<str name="Inventor(s)">
+		PESCHKE, CARLO
+	</str>
+	<str name="1st Inventor">
+		PESCHKE, CARLO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kirchheim/Teck, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Kirchheim/Teck, DE
+	</str>
+	<str name="Agent/Attorney">
+		SAILE, GEORGE O., ACKERMAN, STEPHEN B.
+	</str>
+	<str name="Primary Examiner">
+		TSO, EDWARD H.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

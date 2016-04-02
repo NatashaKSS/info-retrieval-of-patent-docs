@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8038938
+	</str>
+	<str name="Application Number">
+		US11669670
+	</str>
+	<str name="Title">
+		Photocatalytic reactor and process for treating wastewater
+	</str>
+	<str name="Abstract">
+		A photocatalytic reactor with a modular configuration, based on UV light sources and a catalyst, useful for purifying and disinfecting wastewater from confined aquaculture, using Advanced Oxidation Processes (AOP), wherein the catalyst is supported over glass sheets as fixed strips within the reactor, at an established distance from the UV light source, and wherein the wastewater is treated as &quot;batches&quot; being re-circulated and returned to the circuit. The wastewater is fed through the lower end of the reactor and submitted to a strong turbulence when passing through perforations or holes made on the supports forming the floors that separate the reaction chambers.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-31
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2011-10-18
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		B01J19/08
+	</str>
+	<str name="IPC Primary">
+		B01J19/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01J
+	</str>
+	<str name="IPC Group">
+		B01J19
+	</str>
+	<str name="All UPC">
+		422/28 | 422/24 | 210/760
+	</str>
+	<str name="UPC Primary">
+		422/28
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Yeber et al., Advanced Oxidation of a Pulp Mill Bleaching Wastewater, Chemosphere, vol. 39, No. 10, 1999, pp. 1679-1688. cited by other . | Pichat, P., Photocatalytic Degradation of Aromatic and Alicyclic Pollutants in Water: By-Products, Pathways and Mechanisms, Wat. Sci. Tech., 1997, vol. 35, No. 4, pp. 73-78 (6 pages). cited by other . | Shiraishi et al., Photolytic and Photocatalytic Treatment of an Aqueous Solution Containing Microbial Cells and Organic Compounds in an Annular-Flow Reactor, Chemical Engineering Science, vol. 54, 1999, pp. 1547-1552. cited by other . | Tang, et al., 2,4-Dichlorophenol Oxidation Kinetics by Fenton's Reagent, Environmental Technology, vol. 17, 1996, pp. 1371-1378. cited by other . | Preis, et al., Advanced Oxidation Processes Against Phenolic Compounds In Wastewater Treatment, Ozone Science &amp; Engineering, 1995, vol. 17, pp. 399-418 (11 pages). cited by other. | Beltran et al., Oxidation of Polynuclear Aromatic Hydrocarbons in Water. 3. UV Radiation Combined with Hydrogen Peroxide, Ind Eng Chem Res, vol. 35, 1996, pp. 883-890. cited by other . | Bauer, et al., The Photo-Fenton Oxidation--A Cheap and Efficient Wastewater Treatment Method, Res. Chem. Intermed., 1997, vol. 23, No. 4, pp. 341-354 (14 pages). cited by other . | Zhang et al., Photocatalytic Degradation of Organic Compounds in Aqueous Solution by a TIO2-Coated Rotating-Drum Reactor Using Solar Light, Solar Energy, vol. 70, No. 4, 2001, pp. 331-337. cited by other . | Mansilla et al., ZnO-Catalysed Photodegradation of Kraft Black Liquor, J Photochem Photobiol A: Chem, vol. 78, 1994, pp. 267-273. cited by other . | Beltran et al., Oxidation of Polynuclear Aromatic Hydrocarbons in Water. 4. Ozone Combined with Hydrogen Peroxide, Ind Eng Chem Res, vol. 35, 1996, pp. 891-898. cited by other . | Lee, et al., Selective Photocatalytic Oxidation of NH3 to N2 on Platinized TiO2 in Water, Environ Sci Technol, vol. 36, 1992, pp. 5462-5468. cited by other . | Prado, et al., Degradation Of 2,4-D By Ozone and Light, Ozone Science &amp; Engineering, 1994, vol. 16, pp. 235-245 (6 pages). cited by other . | Hapeman-Somich, et al., Aqueous Ozonation of Atrazine. Product Identification and Description of the Degradation Pathway, J. Agric. Food Chem., 1992, vol. 40, pp. 2294-2298 (5 pages). cited by other . | Patton, et al., Use of Ozone and Ozone/UV for the Degradation of Pesticides, AOTs-1, The First International Conference on Advanced Oxidation Technologies for Water and Air Remedy, Ontario, Canada, Jun. 25-30, 1994, 242-243 (3 pages). cited by other . | Mokrini et al., Oxidation of Aromatic Compounds with UV Radiation/Ozone/Hydrogen Peroxide, Water Science and Technology, vol. 35, No. 4 , 1997, (10 pages). cited by other . | Beltran et al., Oxidation of Polynuclear Aromatic Hydrocarbons in Water. 1. Ozonation, Ind Eng Chem Res, vol. 34, 1995, pp. 1596-1606. cited by other .
+	</str>
+	<str name="Other References Count">
+		16
+	</str>
+	<str name="Cites">
+		US6409928 | US6454937 | EP1686095
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION
+	</str>
+	<str name="1st Assignee">
+		UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Concepcion, CL
+	</str>
+	<str name="Assignee(s) Address">
+		Concepcion, CL
+	</str>
+	<str name="Inventor(s)">
+		CABELLO, PABLO, ARTURO, VENEGAS | ORTIZ, MARIA, CRISTINA, YEBER | DINAMARCA, ANA, LORENA, NARVAEZ | VENNEKOOL, CATTERINA, DEL, PILAR, SOBENES | SANHUEZA, CARLOS, MAURICIO, ORTIZ | MORALES, HECTOR, VALDES
+	</str>
+	<str name="1st Inventor">
+		CABELLO, PABLO, ARTURO, VENEGAS
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Concepcion, CL
+	</str>
+	<str name="Inventor(s) Address">
+		Concepcion, CL | Concepcion, CL | Concepcion, CL | Concepcion, CL | Concepcion, CL | Concepcion, CL
+	</str>
+	<str name="Agent/Attorney">
+		HASSE &amp; NESBITT LLC NESBITT, DANIEL F.
+	</str>
+	<str name="Primary Examiner">
+		MAYEKAR, KISHOR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

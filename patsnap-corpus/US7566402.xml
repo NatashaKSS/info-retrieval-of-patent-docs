@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7566402
+	</str>
+	<str name="Application Number">
+		US12/068185
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Semi-permeable membrane for use in osmosis, and method and plant for providing elevated pressure by osmosis to create power
+	</str>
+	<str name="Abstract">
+		The present invention concerns a semi-permeable membrane for use in osmosis consisting of one thin layer of a non-porous material (the diffusion skin), and one or more layers of a porous material (the porous layer), where the porous layer has a structure where porosity .phi., thickness of the porous layer (m), and tortuosity .tau., are related to one another as given by the expression: x.tau.=.phi.S wherein S is a structure parameter having a value equal to or less than 0.0015 meter. Further a method for providing elevated pressure by osmosis as well as a device for providing an elevated osmotic pressure and electric power is described.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-02-04
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-02
+	</str>
+	<str name="Publication Date">
+		2009-07-28
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-07
+	</str>
+	<str name="All IPC">
+		B01D61/08
+	</str>
+	<str name="IPC Primary">
+		B01D61/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/652 | 210/637 | 210/653 | 290/54
+	</str>
+	<str name="UPC Primary">
+		210/652
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1315554A1 | CA2418329A1 | AU8269801A | JP2004505764A | US7566402 | US7563370 | US20080169723A1 | US20080210634A1 | US20090250392A1 | WO2002013955A1 | NO314575B1 | NO20003977A | NO20003977D0
+	</str>
+	<str name="Family Member Count">
+		13
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		M Mulder, &quot;Basic Principles of Membrane Technology&quot;, pp. 224-225 and 303-305. cited by other | M. Courel et al., &quot;Modelling of water transport in osmotic distillation using asymmetric membrane&quot;, Journal of Membrane Science, vol. 173, pp. 107-122, 2000. cited by other | F. Laguna et al., &quot;Direct contact membrane distillation: modelling and concentration experimentations&quot;, Membrane Science, vol. 66, pp. 1-11, Feb. 14, 2000. cited by other | Disclosure of Abandoned Patil U.S. Appl. No. 09/342,779, filed Jun. 29, 1999. cited by other.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cites">
+		US3332894 | US3344214 | US3423491 | US3497072 | US3762136 | US3763055 | US3906250 | US4193267 | USR32144 | US4902417 | US4966708 | US5037555 | US5123481 | US6313545 | US6468430 | US6540915 | US6568282 | EP0591116 | EP0882493 | WO2000033948
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Priority Country">
+		NO
+	</str>
+	<str name="Priority Number">
+		20003977
+	</str>
+	<str name="Priority Date">
+		2000-08-04
+	</str>
+	<str name="Assignee(s)">
+		STATKRAFT DEVELOPMENT AS
+	</str>
+	<str name="1st Assignee">
+		STATKRAFT DEVELOPMENT AS
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Oslo, NO
+	</str>
+	<str name="Assignee(s) Address">
+		Oslo, NO
+	</str>
+	<str name="Inventor(s)">
+		THORSEN, THOR | HOLT, TORLEIF
+	</str>
+	<str name="1st Inventor">
+		THORSEN, THOR
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Trondheim, NO
+	</str>
+	<str name="Inventor(s) Address">
+		Trondheim, NO | Trondheim, NO
+	</str>
+	<str name="Agent/Attorney">
+		BIRCH, STEWART, KOLASCH &amp; BIRCH, LLP
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

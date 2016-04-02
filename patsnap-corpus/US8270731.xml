@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8270731
+	</str>
+	<str name="Application Number">
+		US12/543684
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image classification using range information
+	</str>
+	<str name="Abstract">
+		A method of identifying an image classification for an input digital image comprising receiving an input digital image for a captured scene; receiving a range map which represents range information associated with the input digital image, wherein the range information represents distances between the captured scene and a known reference location; identifying the image classification using both the range map and the input digital image; and storing the image classification in association with the input digital image in a processor-accessible memory system.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-08-19
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-08
+	</str>
+	<str name="Publication Date">
+		2012-09-18
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-09
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/224
+	</str>
+	<str name="UPC Primary">
+		382/224
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&amp;#x201c;Dominant Sets and Pairwise Clustering&amp;#x201d;, by Massimiliano Pavan et al., IEEE Transactions on Pattern Analysis &amp;#x26; Machine Intelligence, vol. 29, No. 1, Jan. 2007, pp. 167-172. | &amp;#x201c;Object Detection using a Max-Margin Hough Transform&amp;#x201d; by S. Maji et al., Prop. IEEE Conf. on Computer Vision and Pattern Recognition, 2009. | &amp;#x201c;Object-Specific Figure-Ground Segregation&amp;#x201d; by S. X. Yu, et al., Proc. IEE Conf. on Computer Vision and Pattern Recognition, 2003. | &amp;#x201c;Object Segmentation Using Graph Cuts Based Active Contours&amp;#x201d; by N. Xu et al., Proc. IEEE Conf. on Computer Vision and Pattern Recognition, 2003. | &amp;#x201c;What, where and who? Classifying events by scene and object recognition&amp;#x201d; by Li-Jia Li, Dept. of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, USA, 97-1-4244-1631-8/07/ 2007IEEE. | &amp;#x201c;Support-Vector Networks&amp;#x201d;, Corinna Cortes and Vladimir Vapnik, AT&amp;#x26;T Bell labs, Holmdel, NY 07733, USA, 1995 Kluwer Academic publishers, Boston, Manufactured in The Netherlands, Machine Learning, 20, 273-297 (1995). | A Decision-Theoretic Generalication of On-Line Learning and an Application to Boosting, Yoav Freund and Robert E. Schapire, AT&amp;#x26;T Labs, 180 Park Avenue, Florham Park, New Jersey 07932, Article No. SS 971504, Journal of computer and System Sciences 55, 119-139 (1977).
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cites">
+		US6252976 | US6873743 | US6915011 | US7230538 | US7421149 | US7421418 | US7526127 | US7903168 | US8126219 | US20020126893A1 | US20030007687A1 | US20030044063A1 | US20030044070A1 | US20030044178A1 | US20030223622A1 | US20070121094A1 | US20090225155A1 | US20120057745A9
+	</str>
+	<str name="Cites Count">
+		18
+	</str>
+	<str name="Assignee(s)">
+		EASTMAN KODAK COMPANY
+	</str>
+	<str name="1st Assignee">
+		EASTMAN KODAK COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rochester, NY, US
+	</str>
+	<str name="Assignee(s) Address">
+		Rochester, NY, US
+	</str>
+	<str name="Inventor(s)">
+		WANG, SEN | YU, JIE
+	</str>
+	<str name="1st Inventor">
+		WANG, SEN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Rchester, NY, US
+	</str>
+	<str name="Inventor(s) Address">
+		Rchester, NY, US | Rochester, NY, US
+	</str>
+	<str name="Agent/Attorney">
+		SPAULDING, KEVIN E.
+	</str>
+	<str name="Primary Examiner">
+		BALI, VIKKRAM, DEPT. 2624
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

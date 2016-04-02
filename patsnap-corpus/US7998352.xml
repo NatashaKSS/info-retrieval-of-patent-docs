@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7998352
+	</str>
+	<str name="Application Number">
+		US11/852695
+	</str>
+	<str name="Title">
+		Method and device for cleanup and deposit removal from internal hot water system surfaces
+	</str>
+	<str name="Abstract">
+		Disclosed is a method of inhibiting and/or removing deposits from internal surfaces in a hot water system. The method includes controlling a real-time oxidation-reduction potential in a hot water system to alter the dynamic between deposit constituents and the bulk water of the system to inhibit deposition or initiate deposit removal. The method is equally effective for a system undergoing a wet layup sequence or in an online operational system. The invention further includes a multi-component deposit inhibition and/or removal device, including a receiver, a processor, and a transmitter that work in unison to alter the system dynamics to inhibit or remove deposits.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-09-10
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2011-08-16
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		C02F1/00 | C02F1/70 | C02F1/72 | C23F11/00 | C23F15/00
+	</str>
+	<str name="IPC Primary">
+		C02F1/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/746 | 210/103 | 210/143 | 210/167.3 | 210/167.32 | 210/198.1 | 210/739 | 210/742 | 210/757 | 210/758 | 210/765 | 422/7
+	</str>
+	<str name="UPC Primary">
+		210/746
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;Model 396 ORP Sensor Instruction Manual&quot;, Mar. 2006, Rosemount Analytical, PN 51-396P/rev.H, pp. 1, 3 and 25. cited by examiner | Buecker B., &quot;Water Treatment: The Continuing Battle Against FAC,&quot; Power Engineering, Pennwell Publishing Co., Tulsa, OK, vol. 106, No. 9, Sep. 1, 2002. cited by other | Dedekind et al., &quot;Oxygenated Feedwater Treatment at the World's Largest Fossil Fired Power Plant--Beware the Pitfalls--&quot;, Power Plant Chemistry, vol. 3, No. 11, Nov. 2001. cited by other | Filer, &quot;Power Plant Chemistry Measurement Advancements: Oxidation Reduction Potential&quot;, Ultrapure Water, pp. 53-62, Nov. 1998. cited by other | Haag, J. et al., &quot;On-Line Measurement of Redox and Corrosion Potentials in Water for PWR Steam Generators&quot;, Kraftwerkstechnik, Kraftwerkstechnik GMbH., Essen, DE, vol. 70, No. 3, Mar. 1, 1990, pp. 236-241. cited by other | Margulova, T.Kh. et al., &quot;Conditions of dosing oxygen and hydrogen peroxide into the condensate of power units of supercritical parameters (Abstract)&quot;, Teploenergotika, 1977. cited by other | Niedrach, L. W., &quot;Electrodes for Potential Measurements in Aqueous Systems at High Temperatures and Pressures.&quot; Angewandte Chemie- International Edition in English, vol. 26, No. 3, Mar. 1987. cited by other | Uchino et al., &quot;Study on the Practical Application of a Method for Corrosion Potential Measurement in a Water Quality Monitoring System used During Combined Water Treatment,&quot; PowerPlant Chemistry, vol. 3, No. 9, pp. 511 to 517, 2001. cited by other.
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cites">
+		US4269717 | US4574071 | US4648043 | US4775005 | US4830757 | US5236845 | US5243297 | US5268092 | US5332494 | US5342510 | US5348664 | US5422014 | US5470484 | US5855791 | US6068012 | US6077445 | US6350376 | US6391256 | US6402984 | US6409926 | US6587753 | US6609070 | US6620315 | US6813532 | US7141175 | US20030004681 | US20060157420 | US20060169646 | US20060182651 | US20080179179 | JP2003254503
+	</str>
+	<str name="Cites Count">
+		31
+	</str>
+	<str name="Assignee(s)">
+		NALCO COMPANY
+	</str>
+	<str name="1st Assignee">
+		NALCO COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		HICKS, PETER, D. | GRATTAN, DAVID, A.
+	</str>
+	<str name="1st Inventor">
+		HICKS, PETER, D.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Aurora, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Aurora, IL | Bolingbrook, IL
+	</str>
+	<str name="Agent/Attorney">
+		YONTER, EDWARD O. MARTIN, MICHAEL B.
+	</str>
+	<str name="Primary Examiner">
+		SMITH, DUANE
+	</str>
+	<str name="Assistant Examiner">
+		DURAND, PAUL J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

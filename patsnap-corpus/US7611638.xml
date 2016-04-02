@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7611638
+	</str>
+	<str name="Application Number">
+		US11571318
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of purifying polluted water
+	</str>
+	<str name="Abstract">
+		In a first treatment step part of at least one difficulty biodegradable or non-biodegradable organic compound is oxidized in polluted water by bringing said polluted water into contact with an ozone containing gas. The effluent is subsequently diluted with an aqueous liquid before a second treatment with ozone is carried out. If the concentration of the organic compound is still not sufficiently low, the treated effluent is diluted again and subjected to a further treatment with ozone. It was found that a more effective ozone treatment was obtained by the dilution or dilutions and that in particular no pH control was needed, so that no formation of additional salts occurred.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-06-28
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-06
+	</str>
+	<str name="Publication Date">
+		2009-11-03
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		B01J19/12 | C02F1/68 | C02F1/78 | A61L2/00
+	</str>
+	<str name="IPC Primary">
+		B01J19/12
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01J
+	</str>
+	<str name="IPC Group">
+		B01J19
+	</str>
+	<str name="All UPC">
+		422/28 | 422/186.07 | 422/186.08 | 210/764 | 210/761 | 210/752 | 210/760
+	</str>
+	<str name="UPC Primary">
+		422/28
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Members">
+		EP1612190A1 | BRPI0512653A | CA2571367A1 | ES2300031T3 | US20080067136A1 | DE602005003959T2 | DE602005003959D1 | JP2008504111A | US7611638 | WO2006000591A1 | AT381518T | RU2007103126A | CN1976876A | MXPA06015246A
+	</str>
+	<str name="Family Member Count">
+		14
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Walter Den et al., &quot;Treatment of Organic Wastewater Discharged From Semiconductor Manufacturing Process by Ultraviolet/Hydrogen Peroxide and Biodegradation&quot;, IEEE Transactions on Semiconductor Manufacturing, vol. 15, No. 4, pp. 540-551 (Nov. 2002). cited by examiner . | Karel Stopka, &quot;Experiences During 25 Years of Ozonation For Different Industrial Applications&quot;, Proceedings of the Annual PAG Conference, pp. 230-231,1997, Presented at IOA/PAG Conference, Lake Tahoe, Nevada, Aug. 18,1997. cited by examiner . | Masten, S. J. et al; &quot;The Use of Ozonation to Degrate Organic Contaminants in Wastewaters Advances in Water Treatment Technologies&quot;, Environmental Science and Technology, American Chemical Society, Easton, PA US, vol. 28, No. 4, Apr. 1, 1994, pp. 180A-185A. cited by other . | Camel V. et al, &quot;The Use of Ozone and Associated Oxidation Processes in Drinking Water Treatment&quot;, Water Research, Elsevier Science Publishers, Amsterdam, NL, vol. 32, No. 11, Nov. 1, 1998, pp. 3208-3222. cited by other. | Patent Abstracts of Japan, vol. 0040, No. 98 (C-018), Jul. 15, 1980. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20030106855 | US20020148790 | JP1980059897 | WO2001074471
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		04447152
+	</str>
+	<str name="Priority Date">
+		2004-06-28
+	</str>
+	<str name="Assignee(s)">
+		RECTICEL
+	</str>
+	<str name="1st Assignee">
+		RECTICEL
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Brussels, BE
+	</str>
+	<str name="Assignee(s) Address">
+		Brussels, BE
+	</str>
+	<str name="Inventor(s)">
+		NEYT, ALAIN | WOUTERS, LUC
+	</str>
+	<str name="1st Inventor">
+		NEYT, ALAIN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Wetteren, BE
+	</str>
+	<str name="Inventor(s) Address">
+		Wetteren, BE | Schilde, BE
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		SMITH, DUANE
+	</str>
+	<str name="Assistant Examiner">
+		DURAND, PAUL J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7476322
+	</str>
+	<str name="Application Number">
+		US11705657
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process and energy-efficient biological treatment system with filtration membrane
+	</str>
+	<str name="Abstract">
+		A membrane filtration system comprising one or more submerged ultrafiltration or microfiltration membrane assemblies at ambient pressure, with mixed liquor is discharged underneath each membrane assembly. In a sequenced batch reactor system, a coarse bubble air diffuser for scouring each membrane assembly is supplied with air only during the backwash cycle of the filtration system and not during the filtration cycle. In a membrane bioreactor system, the biological treatment section is physically separated from the filtration section and fine bubble air diffusion is used in the biological treatment section.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-02-12
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-02
+	</str>
+	<str name="Publication Date">
+		2009-01-13
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/150 | 210/620 | 210/622 | 210/791 | 210/797 | 210/220 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20070138070A1 | US7476322
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References">
+		Aquamb Process; Aqua-Aerobic Systems, Inc.; Rockford, Illinois; 2 pp; as posted on http://www.aqua-aerobic.com/mpprocess.html. cited by other . | European Search Report with written opinion for EP Application No. 05 25 6249 dated Jan. 23, 2006. cited by other . | Kang I-J et al.; &quot;Characteristics of microfiltration membranes in a membrane coupled sequencing batch reactor system&quot;; Mar. 5, 2003; pp. 1192-1197; vol. 37, No. 5; Water Research; Elsevier, Amsterdam. cited by other . | AquaSBR.RTM. Sequencing Batch Reactor; Aqua-Aerobic Systems, Inc.; Rockford, Illionois; 6 pp; Bulletin #950C Jan. 2002. cited by other . | European Office Action for EP Application No. 05 25 6249.3-2104 dated Oct. 11, 2006. cited by other. | Aqua MSBR Modified Sequencing Batch Reactor; Aqua-Aerobic Systems, Inc.; Rockford, Illinois; 4 pp; Bulletin #M102 Feb. 2004. cited by other . | ZenoGem.RTM. Membrane Bioreactor Process Description; ZENON Environmental Inc.; 2 pp; as posted on http://zenonenv.com/markets/zenogem.sub.--process.sub.--mun.html. cited by other . | The technology: submerged membrane filtration; PURON AG, Aachen, Germany; 6 pp; as posted on http://www.puron.de/en.1200.sub.--e.sub.--druck.html. cited by other .
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cited By">
+		US7931808 | US7569148 | US8308939 | US7722769 | US7718057 | US8323498 | US7875176
+	</str>
+	<str name="Cited By Count">
+		7
+	</str>
+	<str name="Cites">
+		US6613222 | US4605500 | US5944997 | US20020117444 | US6682652 | US20030070986 | US20040035786 | US5248424 | US6126819 | US20030159988 | US6375848 | US5254253 | US4749494 | US3957648 | US4468327 | US5192456 | US3819056 | US6193890 | US6656356 | US4886601 | US5910250 | US6303035 | US6743362 | US6245239 | US20040035779 | US6524481 | US6110374 | US6555005 | US5639373 | US4715953 | US3536611 | US5494577 | US6156200 | US4414113 | US4647377 | US6361695 | US3472765 | US6319411 | GB1166243 | WO2003086987
+	</str>
+	<str name="Cites Count">
+		40
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		70565707 | 43931806 | 96540904
+	</str>
+	<str name="Priority Date">
+		2007-02-12 | 2006-05-23 | 2004-10-14
+	</str>
+	<str name="Assignee(s)">
+		ITT MANUFACTURING ENTERPRISES, INC.
+	</str>
+	<str name="1st Assignee">
+		ITT MANUFACTURING ENTERPRISES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Wilmington, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Wilmington, DE
+	</str>
+	<str name="Inventor(s)">
+		DIMITRIOU, MICHAEL, A. | KRALL, JOSEPH, G. | RICE, DAVID | YOGENDRAN, VELUPILLAI | BYRNE, ROGER, J. | GEORGE, KENNETH, P. | KOCH, III, JOHN, E.
+	</str>
+	<str name="1st Inventor">
+		DIMITRIOU, MICHAEL, A.
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Richmond, VA
+	</str>
+	<str name="Inventor(s) Address">
+		Richmond, VA | Grafton, WI | Port, Washington, WI | Warwickshire, GB | Mequon, WI | Grafton, WI | Wauwatosa, WI
+	</str>
+	<str name="Agent/Attorney">
+		RATNERPRESTIA
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		4
+	</str>
+	<str name="cited by within 5 years">
+		4
+	</str>
+</doc>
+

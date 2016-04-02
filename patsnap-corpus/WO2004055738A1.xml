@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2004055738A1
+	</str>
+	<str name="Application Number">
+		PCT/NO2003/000421
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		DEVICES FOR COMBINED ACCESS AND INPUT
+	</str>
+	<str name="Abstract">
+		A portable or embedded access device is provided for being coupled to, and for allowing only authorized users access to, an access-limited apparatus, device, network or system, e.g. a computer terminal, an internet bank or a corporate or government intranet. The access device comprises an integrated circuit (IC) (1) providing increased security by bridging the functionality of fingerprint input from a user and, upon positive authentication of the user&amp;apos;s fingerprint to provide secure communication with the said access-limited apparatus, device, network or system. A corresponding method of using the portable device the embedded device is disclosed for providing a bridge from biometrics input to a computer, into secure communication protocol responses to a non-biometrics network.An embedded access control and user input device or apparatus for being a built-in part of stand alone appliances with some form of access control, e.g. hotel safes, medicine cabinet or the like, and for providing increased security, is also provided. Further, a method of providing secured access control and user input in stand-alone appliances having an embedded access control or user input device according to the invention is also explained.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-12-17
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-12
+	</str>
+	<str name="Publication Date">
+		2004-07-01
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-07
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G07C9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="Family Members">
+		NO318168B1 | AU2003291779A1 | WO2004055738A1 | NO20026097D0
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		EP1168137A1 | US6484260 | EP0924656A2 | WO0201328A2 | EP1241553A1
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		NO
+	</str>
+	<str name="Priority Number">
+		20026097
+	</str>
+	<str name="Priority Date">
+		2002-12-18
+	</str>
+	<str name="Assignee(s)">
+		MATHIASSEN, SVEIN | MATHIASSEN, IVAR
+	</str>
+	<str name="1st Assignee">
+		MATHIASSEN, SVEIN
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		Homansbyveien 4, N-1389 Heggedal, NO
+	</str>
+	<str name="Assignee(s) Address">
+		Homansbyveien 4, N-1389 Heggedal, NO | Gaupeveien 21, N-8515 Narvik, NO
+	</str>
+	<str name="Agent/Attorney">
+		ABC-PATENT, SIVILING. ROLF CHR. B. LARSEN A.S, POSTBOKS 6150 ETTERSTAD, N-0602 OSLO, NO
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

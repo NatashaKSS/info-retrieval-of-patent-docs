@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7606022
+	</str>
+	<str name="Application Number">
+		US11228307
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Battery, battery mounting apparatus and electronic device
+	</str>
+	<str name="Abstract">
+		An electronic device having a main body and a battery mounting portion. A battery pack is detachably mounted to the battery mounting portion. A resilient member pushes the battery pack away from the battery mounting portion by a predetermined distance when separating the battery pack via a locking/releasing unit. The locking/releasing unit selectively locks and releases the battery pack being received in the battery mounting portion.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-09-19
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2009-10-20
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		H05K5/00 | H05K7/00 | H04M1/00
+	</str>
+	<str name="IPC Primary">
+		H05K5/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K5
+	</str>
+	<str name="All UPC">
+		361/679.01 | 455/575.4 | 455/575.1
+	</str>
+	<str name="UPC Primary">
+		361/679.01
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		KR1020060034353A | US20060082977A1 | US7606022
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20060176012 | US6490436 | US7346366 | US6371535 | US20040192418 | US5903132 | US7313410 | US7274554 | US6829495 | US20070048599 | US5621618 | US7197344 | US6975842 | KR20030020504 | KR20010054451 | JP1998243066 | JP1994069851
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020040082997
+	</str>
+	<str name="Priority Date">
+		2004-10-18
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-si, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-si, KR
+	</str>
+	<str name="Inventor(s)">
+		KIM, BYOENG-SU
+	</str>
+	<str name="1st Inventor">
+		KIM, BYOENG-SU
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Suwon-si, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Suwon-si, KR
+	</str>
+	<str name="Agent/Attorney">
+		ROYLANCE, ABRAMS, BERDO &amp; GOODMAN, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		GANDHI, JAYPRAKASH N
+	</str>
+	<str name="Assistant Examiner">
+		HAUGHTON, ANTHONY M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

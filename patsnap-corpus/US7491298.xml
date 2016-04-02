@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7491298
+	</str>
+	<str name="Application Number">
+		US10723563
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Plant for producing low deuterium water from sea water
+	</str>
+	<str name="Abstract">
+		A plant and process for efficient production of low deuterium water from seawater. The plant includes a solar still with a black pan for collecting solar heat, that vaporizes portions of the seawater and a porous sloped membrane positioned over the black pan to collect and condense the vapor and to direct the condensate via gravity to a condensate tank. The condensate water is separated into its atomic components, hydrogen and oxygen, in an electralizer; then the hydrogen and oxygen are combined in a reactor to produce heat and low deuterium water. In preferred embodiments the reactor is a fuel cell which in addition to the heat and water also produces electricity. At least a portion of the heat produced in the reactor is used in the solar still to assist in the vaporization of the seawater and to greatly increase the efficiency of the still.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-11-25
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-11
+	</str>
+	<str name="Publication Date">
+		2009-02-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		B01D7/00 | C25B1/04 | C02F1/44 | B01D3/02 | C02F1/14
+	</str>
+	<str name="IPC Primary">
+		B01D7/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D7
+	</str>
+	<str name="All UPC">
+		202/202 | 210/640 | 203/DIG.1 | 429/12 | 159/DIG.28 | 205/343 | 202/234 | 159/DIG.27 | 202/200 | 159/903 | 203/10 | 159/904
+	</str>
+	<str name="UPC Primary">
+		202/202
+	</str>
+	<str name="UPC Class">
+		202
+	</str>
+	<str name="Family Members">
+		US20050109604A1 | US7491298
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5005787 | US4714525 | US4478685
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		72356303
+	</str>
+	<str name="Priority Date">
+		2003-11-25
+	</str>
+	<str name="Inventor(s)">
+		ZLOTOPOLSKI, VLADIMIR, Z.
+	</str>
+	<str name="1st Inventor">
+		ZLOTOPOLSKI, VLADIMIR, Z.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		San, Diego, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Diego, CA
+	</str>
+	<str name="Agent/Attorney">
+		ROSS, JOHN R.
+	</str>
+	<str name="Primary Examiner">
+		MANOHARAN, VIRGINIA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

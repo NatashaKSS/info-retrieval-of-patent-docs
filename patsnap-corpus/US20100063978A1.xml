@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100063978A1
+	</str>
+	<str name="Application Number">
+		US12516614
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS AND METHOD FOR INSERTING/EXTRACTING NONBLIND WATERMARK USING FEATURES OF DIGITAL MEDIA DATA
+	</str>
+	<str name="Abstract">
+		An apparatus and method for inserting/extracting a nonblind watermark using features of digital media data are provided. The apparatus and method inserts a watermark adaptively using watermark-related information determined by analyzing the characteristics of digital media data, also extracts features of the digital media data, automatically searches original media data corresponding to the features, and simultaneously and efficiently extracts a watermark using watermark-related information. Therefore, When the watermark is extracted, the original media data can be searched automatically.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2007-07-23
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-07
+	</str>
+	<str name="Publication Date">
+		2010-03-11
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		H04L9/32 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		H04L9/32
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04L
+	</str>
+	<str name="IPC Group">
+		H04L9
+	</str>
+	<str name="All UPC">
+		707/769 | 713/176 | 707/803 | 707/E17.014
+	</str>
+	<str name="UPC Primary">
+		707/769
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR | KR
+	</str>
+	<str name="Priority Number">
+		1020060121083 | 1020070024095
+	</str>
+	<str name="Priority Date">
+		2006-12-02 | 2007-03-12
+	</str>
+	<str name="Inventor(s)">
+		LEE SANG KWANG | SUH YOUNG HO | OH WEON GEUN | KIM WON GYUM | YOO WONYOUNG | LEE SUNG HWAN | SEO YONG SEOK | JUNG HYE WON | LEE SEON HWA | YOON YOUNG SUK | LEE SEUNGJAE | SEO JIN SOO
+	</str>
+	<str name="1st Inventor">
+		LEE SANG KWANG
+	</str>
+	<str name="Number of Inventors">
+		12
+	</str>
+	<str name="1st Inventor Address">
+		Daejeon,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Daejeon,KR | Daejeon,KR | Daejeon,KR | Daejeon,KR | Daejeon,KR | Daejeon,KR | Daejeon,KR | Daejeon,KR | Daejeon,KR | Seoul,KR | Chungcheongnam-do,KR | Daejeon,KR
+	</str>
+	<str name="Agent/Attorney">
+		LADAS &amp; PARRY LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

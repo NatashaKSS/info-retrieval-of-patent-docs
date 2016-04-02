@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070087266A1
+	</str>
+	<str name="Application Number">
+		US11252925
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Modular battery system
+	</str>
+	<str name="Abstract">
+		Disclosed herein is a modular battery system having at least one set of battery modules, preferably monoblock modules connected in series. Each of the battery modules may be designed with a first endplate and a second endplate, wherein each battery module is set between the first and second endplates and at least one band member couples the endplates to each other, binding the battery module between the endplates. The endplates are secured between a pair of rails and the system is disposed in a system housing. A cooling manifold provides a system wherein coolant flows into and out of each battery module. The system housing preferably has a coolant inlet and a coolant outlet. The cooling manifold is in flow communication with the coolant inlet and the coolant outlet. A battery monitoring system, which may include a battery control module and at least one remote sensing module, preferably monitors and collects performance and status information, such as voltage and temperature, of the battery modules. An integrated control unit (ICU) may be disposed in the system housing. The ICU supports electronics, some of which are used to collect electrical energy produced by the battery modules and/or monitor the system.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-10-18
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-10
+	</str>
+	<str name="Publication Date">
+		2007-04-19
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-04
+	</str>
+	<str name="All IPC">
+		H01M1/50 | H01M1/04
+	</str>
+	<str name="IPC Primary">
+		H01M1/50
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M1
+	</str>
+	<str name="All UPC">
+		429/120 | 429/61 | 429/159
+	</str>
+	<str name="UPC Primary">
+		429/120
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		WO2007047317A3 | WO2007047317A2 | EP1952457A2 | CN101326657A | US20070087266A1
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		25292505
+	</str>
+	<str name="Priority Date">
+		2005-10-18
+	</str>
+	<str name="Inventor(s)">
+		BOURKE DEBBI | JOHNSON HANS | FREIMAN JONATHAN | MELICHAR ROBERT | KARDITSAS NICK
+	</str>
+	<str name="1st Inventor">
+		BOURKE DEBBI
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Rochester,MI,US
+	</str>
+	<str name="Inventor(s) Address">
+		Rochester,MI,US | Washington Township,MI,US | Royal Oak,MI,US | Troy,MI,US | Lake Orion,MI,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

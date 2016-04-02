@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6272245
+	</str>
+	<str name="Application Number">
+		US09012901
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Apparatus and method for pattern recognition
+	</str>
+	<str name="Abstract">
+		Features characterizing at least two significant portions or regions of the printed pattern on a model document are extracted from a scanned-in image of the model document. Statistical characteristics of each significant region are calculated from the extracted features and saved in a memory. In addition, geometrical relationships, e.g. distances and angles, between the regions are also saved in a memory. The geometrical relationships are represented by the coordinates of the regions in a predetermined coordinate system, e.g. the x-y coordinate system corresponding to the scan area on the platen of a scanner. When a new or trial document is scanned and examined through a search window, features are extracted from the search window blocks and compared to the statistical characteristics of the model document previously stored in memory. If there is a match, the coordinates of the search window having the matching features in the trial document are recorded in a candidate list. After the entire trial document has been processed, the geometric relationships between the window blocks on the candidate list are compared with the geometrical relationships of the matching significant region blocks of the model document and if the relationships correspond the trial document is considered a match.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-01-23
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-01
+	</str>
+	<str name="Publication Date">
+		2001-08-07
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-08
+	</str>
+	<str name="All IPC">
+		G06K9/68 | G06K9/00 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/68
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/195 | 382/218 | 382/135
+	</str>
+	<str name="UPC Primary">
+		382/195
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		EP0932115A3 | JP1999250265A | JP3052947B2 | DE69930560D1 | EP0932115B1 | US6272245 | DE69930560T2 | EP0932115A2
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		24
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US6798900 | US6772392 | US7791671 | US8081820 | US8170290 | US6674886 | US6901236 | US6968501 | US8229222 | US7929765 | US7787705 | US7388990 | US8270748 | US6968085 | US6963425
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US4386432 | US5647010 | US4823393 | US5751854 | US5481378 | US5483602 | US5604596 | US5793901 | US5533144 | US5845008 | US5440409 | US5621810 | US5226095 | US5216724 | US3898617 | US5592573 | US5379093 | US5781653 | US5515451 | JP1997259323 | JP1995143335 | JP1983132867 | JP1997259276 | JP1994268859
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		1290198
+	</str>
+	<str name="Priority Date">
+		1998-01-23
+	</str>
+	<str name="Assignee(s)">
+		SEIKO EPSON CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SEIKO EPSON CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		LIN, SHANG-HUNG
+	</str>
+	<str name="1st Inventor">
+		LIN, SHANG-HUNG
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		San, Jose, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Jose, CA
+	</str>
+	<str name="Primary Examiner">
+		AU, AMELIA M.
+	</str>
+	<str name="Assistant Examiner">
+		MILLER, MARTIN
+	</str>
+	<str name="cited by within 3 years">
+		6
+	</str>
+	<str name="cited by within 5 years">
+		19
+	</str>
+</doc>
+

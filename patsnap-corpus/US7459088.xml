@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7459088
+	</str>
+	<str name="Application Number">
+		US11225852
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water desalination process and apparatus
+	</str>
+	<str name="Abstract">
+		A process and system for purifying water is disclosed. For example, in one embodiment, the process may be used to remove a divalent salt, such as calcium sulfate, from a water source in order to prevent the divalent salt from precipitating during the process. The water source, for instance, may be fed to an ion separating device, such as an electrodialysis device. In the electrodialysis device, an ion exchange takes place between the divalent salt and another salt, such as a monovalent salt to produce two concentrated salt streams that contain salts having greater solubility in water than the divalent salt. In one embodiment, the two salt streams that are produced may then be combined to precipitate the divalent salt in a controlled manner. During the process, various other components contained within the water feed stream may also be removed from the stream and converted into useful products. In one particular embodiment, the process is configured to receive a byproduct stream from a reverse osmosis process.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-09-13
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2008-12-02
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-12
+	</str>
+	<str name="All IPC">
+		B01D61/42 | B01D61/44 | B01D61/02 | B01D61/46
+	</str>
+	<str name="IPC Primary">
+		B01D61/42
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		204/523 | 204/522 | 210/652 | 204/532 | 210/748 | 210/702
+	</str>
+	<str name="UPC Primary">
+		204/523
+	</str>
+	<str name="UPC Class">
+		204
+	</str>
+	<str name="Family Members">
+		US20060060532A1 | US7459088
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References">
+		English Abstract of JP2001259376 dated Aug. 25, 2001, European Patent Office. cited by other . | Article- Al-Sofi. &quot;Seawater Desalination- SWCC Experience and Vision.&quot; Desalination. vol. 135, 2001: 121-139. cited by other . | English Abstract of JP2001259644 dated Aug. 25, 2001, European Patent Office. cited by other . | Lacey et al. &quot;Industrial Processing with Membranes.&quot; Wiley-Interscience. Aug. 1972:83-106. cited by other . | Book published by Wiley-Interscience. Aug. 1972; pp. 83-106 by Robert E. Lacey et al. entitled Industrial Processing with Materials. cited by other. | Article- Wen et al. Modeling the Cross Flow Spirally Wound Electrodialysis (SpED) Process. Desalination. vol. 103, 1995:165-176. cited by other . | Article- Pontie et al. &quot;Seawater Nanofiltration: Fiction or Reality.&quot; Desalination. vol. 158, 2003:277-280. cited by other . | Search Report and Written Opinion for PCT/US05/32419, Aug. 15, 2006. cited by other . | Published report by Atsushi Tomita based on the lecture titled &quot;Salt &amp; Chlor-Alkali Plant in Kuwait by All-membrane Process&quot; given at the 33.sup.rd Electrodialysis Symposium held on Nov. 10, 1987. cited by other . | English Abstract of JP09276864 dated Oct. 28, 1997, European Patent Office. cited by other . | English Abstract of JP07047365 dated Feb. 21, 1995, European Patent Office. cited by other . | Article- Wen et al. &quot;Spirally Wound Electrodialysis (SpED) Modules.&quot; Desalination. vol. 101, 1995:79-91. cited by other . | Article- Tanka et al. &quot;Ion-exchange Membrane Electrodialystic Salt Production Using Brine Discharged from Reverse Osmosis Seawater Desalination Plant.&quot; Journal of Membrane Science. vol. 222, 2003:71-86. cited by other . | Product Specification sheet for Filmtec Membranes published May 2002. cited by other .
+	</str>
+	<str name="Other References Count">
+		14
+	</str>
+	<str name="Cited By">
+		US7744760 | US8182693 | US8038883 | US8038884 | US8277627 | US8337686 | US8114259
+	</str>
+	<str name="Cited By Count">
+		7
+	</str>
+	<str name="Cites">
+		US20040055955 | US4083781 | US6030535 | US4141825 | US6391205 | US5587083 | US4036749 | US6187201 | US5510394 | US20020166758 | US6712946 | US20010040093 | US5238574 | US5376250 | US5124012 | US5626904 | US6508936 | US3372101 | US20020005356 | US4999095 | US3933610 | US4808287 | US5064505 | US5284589 | US5385650 | US6814865 | US5458781 | US5928853 | GB759275
+	</str>
+	<str name="Cites Count">
+		29
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		22585205 | 60940404 | 65181905 | 66422305 | 68393605
+	</str>
+	<str name="Priority Date">
+		2005-09-13 | 2004-09-13 | 2005-02-10 | 2005-03-22 | 2005-05-23
+	</str>
+	<str name="Assignee(s)">
+		THE UNIVERSITY OF SOUTH CAROLINA
+	</str>
+	<str name="1st Assignee">
+		THE UNIVERSITY OF SOUTH CAROLINA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Columbia, SC
+	</str>
+	<str name="Assignee(s) Address">
+		Columbia, SC
+	</str>
+	<str name="Inventor(s)">
+		DAVIS, THOMAS, A.
+	</str>
+	<str name="1st Inventor">
+		DAVIS, THOMAS, A.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Columbia, SC
+	</str>
+	<str name="Inventor(s) Address">
+		Columbia, SC
+	</str>
+	<str name="Agent/Attorney">
+		DORITY &amp; MANNING, P.A.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

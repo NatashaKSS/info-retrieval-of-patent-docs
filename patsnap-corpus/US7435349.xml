@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7435349
+	</str>
+	<str name="Application Number">
+		US11374128
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System for treating wastewater containing organic compounds
+	</str>
+	<str name="Abstract">
+		A system for treating wastewater containing organic compounds is provided, comprising an anaerobic bioreactor, an aerobic bioreactor disposed rearwardly of the anaerobic bioreactor, and a membrane separation reactor disposed rearwardly of the aerobic bioreactor. The system is capable of removing organic pollutants in wastewater through biological treatment process and separating solid from the liquid ones by using a membrane. By employing the system for treating wastewater containing organic pollutants, organic pollutants can be effectively eliminated and the problem of scaling and fouling on the surface of the membrane prevented, thus achieving the objectives of lowering cost and improving efficiency.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-03-14
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-03
+	</str>
+	<str name="Publication Date">
+		2008-10-14
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/605 | 210/903 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		CA2470450A1 | DE102004019669A1 | US20050109694A1 | KR1020050049311A | JP2009050852A | US7087170 | US7435349 | JP2005152878A | JP4233479B2 | US20060243661A1
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		8
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		CN101767902B | US7842186
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US5389258 | US4832847 | US6863817 | US4845034 | US20040094475 | US4297216 | US6517723 | WO1988004282 | TW377340 | JP1999156391 | CN1199712 | TW293810 | EP00997442 | KR00374012 | KR19980005268 | JP1988214395
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Priority Country">
+		TW
+	</str>
+	<str name="Priority Number">
+		92132719A
+	</str>
+	<str name="Priority Date">
+		2003-11-21
+	</str>
+	<str name="Assignee(s)">
+		INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE
+	</str>
+	<str name="1st Assignee">
+		INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hsinchu, TW
+	</str>
+	<str name="Assignee(s) Address">
+		Hsinchu, TW
+	</str>
+	<str name="Inventor(s)">
+		YOU, HUEY-SONG | PERAGE, MING-JING | CHANG, SHENG-SHIN | CHEN, YIH-CHANG | PERNG, SHWU-HUEY
+	</str>
+	<str name="1st Inventor">
+		YOU, HUEY-SONG
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Yilan, County, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Yilan, County, TW | Hsinchu, TW | Miaoli, County, TW | Hsinchu, TW | Hsinchu, County, TW
+	</str>
+	<str name="Agent/Attorney">
+		BACON &amp; THOMAS PLLC
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

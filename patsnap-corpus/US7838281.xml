@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7838281
+	</str>
+	<str name="Application Number">
+		US11652836
+	</str>
+	<str name="Title">
+		Sulfide bath
+	</str>
+	<str name="Abstract">
+		An apparatus for establishing a sulfide bath includes a sulfide supply means for introducing sulfide into water for a water bath, a water chemistry monitoring means for monitoring at least a sulfide concentration of water from the water bath, an electronic controller connected with the sulfide supply means and the water chemistry monitoring means, wherein the electronic controller is configured to control the sulfide supply means to regulate the sulfide concentration in the water bath based on input from the water chemistry monitoring means. A variation of the apparatus is portable and can be used in connection with existing water baths. Another variation of the apparatus is for preserving biological materials.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-12
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2010-11-23
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		C12M1/38 | C12M1/36 | C12M3/00
+	</str>
+	<str name="IPC Primary">
+		C12M1/38
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12M
+	</str>
+	<str name="IPC Group">
+		C12M1
+	</str>
+	<str name="All UPC">
+		210/85 | 435/286.1 | 422/108
+	</str>
+	<str name="UPC Primary">
+		210/85
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Written Opinion and International Search Report for Serial No. PCT/US2008/000340 dated Apr. 29, 2008. cited by other. | David W. Kraus, et al., &quot;Sulfide Consumption by Mussel Gill Mitochondria is not Strictly Tied to Oxygen Reduction: Measurements Using a Novel Polargraphic Sulfide Sensor&quot; Jul. 26, 2004. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US6724873 | US5347665 | US6125481 | US6581220 | US5422014 | US4011072 | US6164632 | US5505847 | US5454918 | US5288311 | US6461498 | US6340431 | US6530964 | US2558912 | JP1994154280 | JP1988088095 | WO2006047086 | JP2006061332 | JP1989097459 | CN1236611 | JP1987171723 | JP1996001173 | JP1994039014 | JP1994154279
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Assignee(s)">
+		SOOTHING SULFUR SPAS, LLC
+	</str>
+	<str name="1st Assignee">
+		SOOTHING SULFUR SPAS, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Chaplin, CT
+	</str>
+	<str name="Assignee(s) Address">
+		Chaplin, CT
+	</str>
+	<str name="Inventor(s)">
+		KRAUS, DAVID, W. | BRISSON, JEROME, E.
+	</str>
+	<str name="1st Inventor">
+		KRAUS, DAVID, W.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Birmingham, AL
+	</str>
+	<str name="Inventor(s) Address">
+		Birmingham, AL | Chaplin, CT
+	</str>
+	<str name="Agent/Attorney">
+		MCCORMICK, PAULDING &amp; HUBER LLP
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D
+	</str>
+	<str name="Assistant Examiner">
+		DOE, SHANTA G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

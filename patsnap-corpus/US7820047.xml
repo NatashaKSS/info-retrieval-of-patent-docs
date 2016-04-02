@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7820047
+	</str>
+	<str name="Application Number">
+		US11576763
+	</str>
+	<str name="Title">
+		Integrated multi-zone wastewater treatment system and method
+	</str>
+	<str name="Abstract">
+		A wastewater treatment system has two separate but interlinked tanks containing four different zones, namely aerobic, microaerophilic, anoxic and anaerobic, for the biological treatment of the wastewater, as well as two clarification zones and a filtration unit for separation of solids from liquid. The first tank contains the aerobic, microaerophilic and anoxic zone as well as a clarification zone, while the second dank includes the anaerobic zone, a solid-liquid separation zone and a filtration unit. The aerobic zone is an airlift reactor that contains air diffusers at the bottom of the zone to introduce air into the zone. The air bubbles mix the liquid and its content of microorganisms, and provide oxygen for the aerobic biological processes that take place in this zone. Aeration also produces circulation of liquid between the aerobic zone and its adjacent microaerophilic and anoxic zones that are located at the sides and under the aerobic zone, respectively. The aerobic zone contains suspended microorganisms of heterotrophic and autotrophic groups that grow inside the circulating liquid, known as mixed liquor. Within the volume of the aerobic zone, loose carrier material or stationary objects are disposed to support the attachment of microbial biomass and the formation of microbial biofilm.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-10-03
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-10
+	</str>
+	<str name="Publication Date">
+		2010-10-26
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-10
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/630 | 210/621 | 210/620 | 210/623 | 210/617 | 210/220 | 210/906 | 210/629 | 210/616 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/630
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6054044 | US7008538 | US4948510 | US4999111 | US20060000769 | US20050040107 | US5480548 | US5518618
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		CA
+	</str>
+	<str name="Priority Number">
+		2481853
+	</str>
+	<str name="Priority Date">
+		2004-10-12
+	</str>
+	<str name="Assignee(s)">
+		BIOCAST SYSTEMS INC.
+	</str>
+	<str name="1st Assignee">
+		BIOCAST SYSTEMS INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Montreal, Quebec, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Montreal, Quebec, CA
+	</str>
+	<str name="Inventor(s)">
+		YERUSHALMI, LALEH | OGILVIE, MICHAEL, J.
+	</str>
+	<str name="1st Inventor">
+		YERUSHALMI, LALEH
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Montreal, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Montreal, CA | Hatley, CA
+	</str>
+	<str name="Agent/Attorney">
+		MARKS &amp; CLERK MITCHELL, RICHARD J.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

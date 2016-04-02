@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1220143A2
+	</str>
+	<str name="Application Number">
+		EP2001104502
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		Electronics device applying an image sensor
+	</str>
+	<str name="Abstract">
+		An electronic device capable of displaying and recording an input image includes an image sensor (101, 906, 1006, 1106, 1206, 1306). A position information detector processes the image imaged by the image sensor and calculates movement information of the image sensor itself or movement information of a subject imaged by the image sensor. The electronic device can input hand-written characters and graphics without adding afresh a mouse or a tablet.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-03-01
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-03
+	</str>
+	<str name="Publication Date">
+		2002-07-03
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-07
+	</str>
+	<str name="All IPC">
+		G06K11/08
+	</str>
+	<str name="IPC Primary">
+		G06K11/08
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K11
+	</str>
+	<str name="Family Members">
+		EP1220143A2 | EP1220143A3 | JP2002196877A | KR1020020052217A | CN1361466A | US20020080239A1 | NO20011052A | NO20011052D0
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		EP0622722A2 | WO1999035633A2 | EP0913790A1 | WO0021024A1
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2000391813
+	</str>
+	<str name="Priority Date">
+		2000-12-25
+	</str>
+	<str name="Assignee(s)">
+		HITACHI, LTD.
+	</str>
+	<str name="1st Assignee">
+		HITACHI, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		IKEDA, MITSUJI | INUZUKA, TATSUKI | KUZUNUKI, SOSHIRO | NAKASHIMA, KEISUKE | FUJII, KENJIRO
+	</str>
+	<str name="1st Inventor">
+		IKEDA, MITSUJI
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Hitachi, Ltd., Intell, Prop., Group
+	</str>
+	<str name="Inventor(s) Address">
+		Hitachi, Ltd., Intell, Prop., Group
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

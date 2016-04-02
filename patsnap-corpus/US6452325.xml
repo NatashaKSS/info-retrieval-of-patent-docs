@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6452325
+	</str>
+	<str name="Application Number">
+		US09644163
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Shatterproofing of fluorescent lamps
+	</str>
+	<str name="Abstract">
+		A compact and portable docking station for a radio mobile personal digital assistant (PDA) carries a magnetic card reader and provides an interface that supplies drive power to the magnetic card reader independently of the PDA battery and translates signal levels provided from the card reader so that they can reliably be read by the PDA. PDA battery power is conserved by initiating all interface actions from a software generated &quot;radio&quot; button appearing on the screen of the PDA.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-08-22
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-08
+	</str>
+	<str name="Publication Date">
+		2002-09-17
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-09
+	</str>
+	<str name="All IPC">
+		H01J61/30
+	</str>
+	<str name="IPC Primary">
+		H01J61/30
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01J
+	</str>
+	<str name="IPC Group">
+		H01J61
+	</str>
+	<str name="All UPC">
+		313/635 | 313/489 | 313/493
+	</str>
+	<str name="UPC Primary">
+		313/635
+	</str>
+	<str name="UPC Class">
+		313
+	</str>
+	<str name="Family Members">
+		US6452325
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		12
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7572479 | US7281834 | US7885409 | US7831255 | US7720506 | US8025233 | WO2004024345A1 | WO2006059921A1 | US7857222 | DE102006047049A1 | US8297508 | US8152586
+	</str>
+	<str name="Cited By Count">
+		12
+	</str>
+	<str name="Cites">
+		US5536998 | US4924368 | US4048537 | US5173637 | US3673401
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		64416300 | 62183500
+	</str>
+	<str name="Priority Date">
+		2000-08-22 | 2000-07-24
+	</str>
+	<str name="Assignee(s)">
+		THERMOPLASTIC PROCESSES, INC.
+	</str>
+	<str name="1st Assignee">
+		THERMOPLASTIC PROCESSES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Stirling, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Stirling, NJ
+	</str>
+	<str name="Inventor(s)">
+		DUPONT, PAUL, ROBERT
+	</str>
+	<str name="1st Inventor">
+		DUPONT, PAUL, ROBERT
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Andover, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		Andover, NJ
+	</str>
+	<str name="Agent/Attorney">
+		POPPER, HOWARD R.
+	</str>
+	<str name="Primary Examiner">
+		PATEL, ASHOK
+	</str>
+	<str name="cited by within 3 years">
+		4
+	</str>
+	<str name="cited by within 5 years">
+		8
+	</str>
+</doc>
+

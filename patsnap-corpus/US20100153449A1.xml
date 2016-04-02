@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100153449A1
+	</str>
+	<str name="Application Number">
+		US12635515
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS AND METHOD FOR RETRIEVING IMAGE
+	</str>
+	<str name="Abstract">
+		An image retrieval method includes reading from a first database a first image group mapped to an object as a retrieval target, and extracting an image feature quantity of a plurality of images of the first image group. A second image group mapped to an object as a search key is read from a second database and an image feature quantity of a plurality of images of the second image group is extracted. Similarity is determined between the first image group and the second image group, based on the image feature quantity of the plurality of images of the first image group and the image feature quantity of the plurality of images of the second image group. On an output device, as retrieval results, the plurality of images of the first image group are displayed in order of similarity of the object as the retrieval target based on determined similarity.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2009-12-10
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-12
+	</str>
+	<str name="Publication Date">
+		2010-06-17
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/780 | 707/E17.03
+	</str>
+	<str name="UPC Primary">
+		707/780
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2008319977
+	</str>
+	<str name="Priority Date">
+		2008-12-16
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki-shi,JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki-shi,JP
+	</str>
+	<str name="Inventor(s)">
+		BABA TAKAYUKI | ISHIHARA MASAKI | ENDO SUSUMU | SHIITANI SHUICHI | UEHARA YUSUKE | MASUMOTO DAIKI | NAGATA SHIGEMI
+	</str>
+	<str name="1st Inventor">
+		BABA TAKAYUKI
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki,JP | Kawasaki,JP | Kawasaki,JP | Kawasaki,JP | Minato,JP | Kawasaki,JP | Kawasaki,JP
+	</str>
+	<str name="Agent/Attorney">
+		WORKMAN NYDEGGER,1000 EAGLE GATE TOWER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

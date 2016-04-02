@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7608188
+	</str>
+	<str name="Application Number">
+		US11293407
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Vacuum enhanced direct contact membrane distillation
+	</str>
+	<str name="Abstract">
+		The present disclosure provides methods and systems for purifying an impaired liquid. In a particular example, the disclosure provides methods and systems for purifying water containing a solute. A feed stream of solute containing water is introduced in a flow chamber. A permeate stream of water at least substantially free of the solute is placed in the flow chamber. A hydrophobic membrane is placed between the feed stream and the permeate stream. A vacuum is applied to the permeate stream. A vapor pressure differential causes water to vaporize from the feed stream, pass through the hydrophobic membrane, and condense in the permeate stream.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-02
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2009-10-27
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		B01D61/00 | B01D61/36 | B01D63/00 | C02F1/04
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/257.2 | 210/640 | 210/321.6
+	</str>
+	<str name="UPC Primary">
+		210/257.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060144788A1 | US7608188
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References">
+		Cath, et al. &quot;Forward Osmosis: Principles, Applications, and Recent Developments,&quot; Journal of Membrane Science 281:70-87, (2006). cited by other . | &quot;Crossing Boundaries in Pursuit of Future Solutions,&quot; Sweden Today, p. 37, No. 2, 2006; file dated Aug. 7, 2006. cited by other . | Bradbury, &quot;Water Filters Rely on Nanotech,&quot; pp. 1-3 downloaded from http://www.wired.com/print/science/discoveries/news/2004/10/65287 on Jul. 3, 2007. cited by other . | XZero Company Brochure, file dated Jun. 5, 2006. cited by other . | Cath, et al., &quot;Membrane Contactor Processes for Wastewater Reclamation in Space Part I. Direct Osmotic Concentration as Pretreatment for Reverse Osmosis,&quot; Journal of Membrane Science 257:85-98, (2005). cited by other . | Goers; International Search Report from PCT/GB2004/003242; Oct. 18, 2004. cited by other . | Cath, et al., &quot;Experimental Study of Desalination Using Direct Contact Membrane Distillation: a New Approach to Flux Enhancement,&quot; Journal of Membrane Science 228:1-16, 2004. cited by other . | Park; Written Opinion and International Search Report from PCT/US2007/071141; Nov. 5, 2007. cited by other . | Liu and Martin, &quot;Applying Membrane Distillation in High-Purity Water Production for Semiconductor Industry,&quot; Royal Institute of Technology Presentation, KTH, Stockholm, Sep. 30, 2005. cited by other . | Schofield et al., &quot;Factors Affecting Flux in Membrane Distillation,&quot; Desalination 77:279-294 (1990). cited by other . | Tillberg, &quot;ZLD Systems--An Overview,&quot; presented at the Royal Institute of Technology, KTH, Stockholm, 2004; file dated Dec. 19, 2005. cited by other . | Liu, &quot;Polygeneration of Electricity, Heat, and Ultra Pure Water for Semiconductor Industry,&quot; file created Apr. 23, 2003. cited by other . | Pankratz, Water Desalination Report, vol. 43, No. 23, 4 pp., Jun. 18, 2007. cited by other . | Giorgini; International Search Report from PCT/GB2004/003450; Sep. 22, 2004. cited by other . | Mootz; International Search Report from PCT/GB2005/002307; Aug. 24, 2005. cited by other . | U.S. Appl. No. 11/295,807, filed Dec. 6, 2005, Cath et al. cited by other . | Schofield et al., &quot;Gas and Vapour Transport Through Microporous Membranes. II. Membrane Distillation,&quot; Journal of Membrane Science 53:173-185 (1990). cited by other. | Cath, et al., &quot;Membrane Contactor Processes for Wastewater Reclamation in Space II. Combined Direct Osmosis, Osmotic Distillation, and Membrane Distillation for Treatment of Metabolic Wastewater,&quot; Journal of Membrane Science 257:111-119, (2005). cited by other . | McCutcheon, et al., &quot;A novel ammonia-carbon dioxide forward (direct) osmosis desalination process,&quot; Desalination 174:1-11, (2005). cited by other . | Reports and Articles summary page, downloaded from http://www.xzero.se/en/reports.html; dated Aug. 14, 2006. cited by other .
+	</str>
+	<str name="Other References Count">
+		20
+	</str>
+	<str name="Cited By">
+		CN101797479B | US8029671
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US5098575 | US6645380 | US4875980 | US6391205 | US6849184 | US5464540 | US6299777 | WO2006120399 | WO2005017352 | WO2005012185 | WO2002060825 | WO2005120688
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		29340705 | 63333404
+	</str>
+	<str name="Priority Date">
+		2005-12-02 | 2004-12-03
+	</str>
+	<str name="Assignee(s)">
+		BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION
+	</str>
+	<str name="1st Assignee">
+		BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Reno, NV
+	</str>
+	<str name="Assignee(s) Address">
+		Reno, NV
+	</str>
+	<str name="Inventor(s)">
+		CATH, TZAHI, Y. | ADAMS, V., DEAN | CHILDRESS, AMY, E.
+	</str>
+	<str name="1st Inventor">
+		CATH, TZAHI, Y.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Reno, NV
+	</str>
+	<str name="Inventor(s) Address">
+		Reno, NV | Reno, NV | Reno, NV
+	</str>
+	<str name="Agent/Attorney">
+		HECK, RYAN A. UNR-DRI TECHNOLOGY TRANSFER OFFICE
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

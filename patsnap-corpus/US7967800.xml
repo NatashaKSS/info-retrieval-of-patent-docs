@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7967800
+	</str>
+	<str name="Application Number">
+		US10557862
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and methods for disinfecting a surface
+	</str>
+	<str name="Abstract">
+		An apparatus for disinfecting surfaces and in particular human and animal wounds, includes a contractor for accumulating concentrated ozonated water and systems to deliver ozonated water from the reservoir to a nozzle having one or more jets for delivering a spray of ozonated water on to the surface to be treated. The nozzle has an encircling shroud and systems are provided for withdrawing ozonated gas liberated at the nozzle from around the nozzle. A collection tray is provided which is located under the surface/wound to be treated to receive ozonated water flowing from the treatment region and where any residual ozone is broken down.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-05-24
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-05
+	</str>
+	<str name="Publication Date">
+		2011-06-28
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+	<str name="All IPC">
+		A61M35/00
+	</str>
+	<str name="IPC Primary">
+		A61M35/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61M
+	</str>
+	<str name="IPC Group">
+		A61M35
+	</str>
+	<str name="All UPC">
+		604/289 | 604/25 | 210/765 | 128/202.25 | 604/290 | 604/293 | 210/760
+	</str>
+	<str name="UPC Primary">
+		604/289
+	</str>
+	<str name="UPC Class">
+		604
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		P.G. Bowler et al., Wound Microbiology and Associated Approaches to Wound Management, Clinical Microbiology Review, vol. 14, No. 2, Apr. 2001, pp. 244-269. cited by other . | Chandan K. Sen et al., Oxidant-Induced Vascular Endothelial Growth Factor Expression in Human Keratinocytes and Cutaneous Wound Healing, The Journal of Biological Chemistry, vol. 277, No. 36, Sep. 6, 2002, pp. 33284-33290. cited by other . | Robert Greif, MD, Supplemental Perioperative Oxygen to Reduce the Incidence of Surgical-wound Infection, The New England Journal of Medicine, Vo. 342, No. 3, Dec. 6, 2005, pp. 161-167. cited by other . | Mater Misericordiae University Hospital Ltd., Facing the Challenge of Wound Management in the 21.sup.st Century, Freeman Auditorium, Oct. 10, 2002, 9 pages. cited by other. | D.J. Baker, Severe Trauma Infections, Anesthesia, vol. 53, (Suppl. 2), 1998, pp. 65-67. cited by other . | Thomas K. Hunt, MD, Wound Healings and Wound Infection, What Surgeons and Anesthesiologists Can Do, Wound Healing, vol. 77, No. 3, Jun. 1997, pp. 587-606. cited by other . | John U. Bascom, Pilonidal Care: Anaerobes as Invisible Villains, Letter to the Editor, 1997 Scandinavian University Press. cited by other . | George D. Winter, Formation of the Scab and the Rate of Epithelization of Superficial Wounds in the Skin of the Young Domestic Pig, Nature, vol. 193, No. 4812, Jan. 20, 1962, pp. 293-294. cited by other . | N.J. Trengove, Qualitative Bacteriology and Leg Ulcer Healing, Journal of Wound Care, vol. 5, No. 6, Jun. 1996, pp. 277-280. cited by other .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5098415 | US3739983 | US6073627 | US6142982 | US5636643 | US5664593 | US4422450 | US5834031 | US20020139755 | US6503403 | US5839155 | US6455017 | US4375812 | US5423902 | US5683576 | WO2001072432 | GB2125296 | FR2784388 | JP1994233805 | JP1991169341 | WO2001093793 | JP1994064904 | WO2000020343 | GB546646 | RU2175539 | RU2178699
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		0311958.3
+	</str>
+	<str name="Priority Date">
+		2003-05-23
+	</str>
+	<str name="Assignee(s)">
+		BIOQUELL UK LIMITED
+	</str>
+	<str name="1st Assignee">
+		BIOQUELL UK LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		GB
+	</str>
+	<str name="Assignee(s) Address">
+		GB
+	</str>
+	<str name="Inventor(s)">
+		CHEWINS, JOHN, GEORGE
+	</str>
+	<str name="1st Inventor">
+		CHEWINS, JOHN, GEORGE
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Andover, GB
+	</str>
+	<str name="Inventor(s) Address">
+		Andover, GB
+	</str>
+	<str name="Agent/Attorney">
+		WORKMAN NYDEGGER
+	</str>
+	<str name="Primary Examiner">
+		KIDWELL, MICHELE
+	</str>
+	<str name="Assistant Examiner">
+		TREYGER, ILYA Y
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7727496
+	</str>
+	<str name="Application Number">
+		US10168704
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Solvent extraction of impurity metals from a valuable metal sulphate solution
+	</str>
+	<str name="Abstract">
+		The present invention relates generally to a method of extracting cobalt and other impurity metals from a concentrated nickel sulphate solution by a solvent extraction process whereby a cationic solvent extractant is separately pre-equilibrated with a portion of a purified nickel sulphate solution in such a manner that it is loaded with nickel without precipitating insoluble nickel double salts. The nickel loaded extracted is then transferred to an impure cobalt nickel solution where the cobalt and certain other impurity metals exchange with nickel leaving a purified concentrated nickel sulphate solution suitable for hydrogen reduction or electrowinning. The cobalt loaded extractant is stripped with dilute sulphuric acid before being recycled while an aqueous cobalt stripped solution is further processed to recover cobalt.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2000-12-19
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-12
+	</str>
+	<str name="Publication Date">
+		2010-06-01
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		B01D11/00
+	</str>
+	<str name="IPC Primary">
+		B01D11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		210/634 | 423/139
+	</str>
+	<str name="UPC Primary">
+		210/634
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Nikolic, C., et al. , &quot;The Amax Port Nickel Refinery Process for Cobalt Purification and Recovery&quot;. Process and Fundam. (pp. 115-121). cited by other . | Ritcey, G.M. et al., Solvent Extraction: Principles and Applications to Process Metallurgy Part II. Elsevier Scientific (Amsterdam) pp. 284-287. cited by other . | Bautista, Renato G., 1993 &quot;The Solvent Extraction of Nickel, Cobalt and their Associated Metals&quot;. The Paul B. Queneau International Symposium. Extractive Metallurgy of Copper, Nickel and Cobalt. vol. 1, Fundamental Aspects (pp. 826-853). cited by other . | Ritcey, G.M. et al., 1975. &quot;Development of a Solvent Extraction Process for the Separation of Cobalt from Nickel&quot;, CIM Bulletin, Jan. 1975 (pp. 111-123). cited by other . | Hubicki, A., et al., 1999 Removal of Cobalt(II), Zinc(II) and Copper(II) from Nickel Sulfate Solutions by Solvent Extraction. Chem. Environ. Res. vol. 8 (3&amp;4) pp. 319-335. cited by other . | Shubinok, A.V., 1992 Conditioning of solutions of copper heap leaching copper from oxidized ores at the Kounradsky deposits. Tsvetn. Met. (Moscow) vol. 4, pp. 12-14. cited by other . | Sarma, Bhaskara P.V.R., et al. &quot;Processing of Nickel--and Cobalt--Containing Leach Liquors Obtained from Different Raw Materials&quot; 1987. Hydrometallurgy, vol. 19, pp. 83-93. cited by other . | Barnes, John E. et al. Australian patent specification AU 13178/76 &quot;Separation of Cobalt and Nickel&quot;. cited by other . | Statement of Grounds and Particulars, In the Matter of Australian Patent Application 200123288 (782112) in the name of WMC Resources Limited. cited by other.
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cites">
+		US3981968 | US6149885 | US3131998 | US5779997 | US6039790 | US4348367 | US4115512 | US3251646 | US2716588 | AU667539 | GB2324792 | GB2324790 | WO1998056482
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		AU
+	</str>
+	<str name="Priority Number">
+		PQ4893
+	</str>
+	<str name="Priority Date">
+		1999-12-24
+	</str>
+	<str name="Assignee(s)">
+		WMC RESOURCES LTD.
+	</str>
+	<str name="1st Assignee">
+		WMC RESOURCES LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Perth, Western Australia, AU
+	</str>
+	<str name="Assignee(s) Address">
+		Perth, Western Australia, AU
+	</str>
+	<str name="Inventor(s)">
+		O'CALLAGHAN, JOHN | CHAMBERLAIN, TONY
+	</str>
+	<str name="1st Inventor">
+		O'CALLAGHAN, JOHN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Kalamunda, AU
+	</str>
+	<str name="Inventor(s) Address">
+		Kalamunda, AU | Bicton, AU
+	</str>
+	<str name="Agent/Attorney">
+		MILES &amp; STOCKBRIDGE P.C. SCHAFFER, ESQ., DAVID R. MINTER, ESQ., MICHAEL A.
+	</str>
+	<str name="Primary Examiner">
+		SILVERMAN, STANLEY
+	</str>
+	<str name="Assistant Examiner">
+		WARTALOWICZ, PAUL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

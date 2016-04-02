@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US3734406
+	</str>
+	<str name="Application Number">
+		US05167695
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		METHOD AND APPARATUS FOR PRODUCING A FLAT FAN PAINT SPRAY PATTERN
+	</str>
+	<str name="Abstract">
+		A method and apparatus for spraying a coating material such as paint, in a flat fan pattern. In the gun a stream of paint under a relatively low pressure is caused to flow in an annular film. Streams of gas at a slightly higher pressure are directed against the paint film so that the gas is sheared into microbubbles which are entrained in the paint stream to form a froth. The froth flows through a chamber in which the bubbles disperse uniformly in the paint and is then discharged through a narrow slit nozzle effective to give it a fan shape. As the froth is released to atmospheric pressure, the microbubbles of air expand rapidly and rupture, causing the paint to disintegrate into finely atomized drops. The apparatus includes a cooperating orifice plate and collar which define a thin annular paint flow channel; and a plurality of air injection channels which intersect the paint flow channel. Air is introduced through these channels and is directed against the paint film. In the preferred gun, the nozzle includes a hemispherical endwise portion provided with an elongated discharge slot. A protuberance or ball is disposed within the nozzle and deflects the froth so that the froth passes through a relatively narrow passageway between the ball and nozzle. A modified gun includes a conventional airless flat fan orifice; and does not utilize an internal ball.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1971-07-30
+	</str>
+	<str name="Application Year">
+		1971
+	</str>
+	<str name="Application(Year/Month)">
+		1971-07
+	</str>
+	<str name="Publication Date">
+		1973-05-22
+	</str>
+	<str name="Publication Year">
+		1973
+	</str>
+	<str name="Publication(Year/Month)">
+		1973-05
+	</str>
+	<str name="All IPC">
+		A01N17/02 | B05B7/04
+	</str>
+	<str name="IPC Primary">
+		A01N17/02
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A01
+	</str>
+	<str name="IPC Subclass">
+		A01N
+	</str>
+	<str name="IPC Group">
+		A01N17
+	</str>
+	<str name="All UPC">
+		239/432 | 239/368 | 239/434 | 239/8 | 239/596
+	</str>
+	<str name="UPC Primary">
+		239/432
+	</str>
+	<str name="UPC Class">
+		239
+	</str>
+	<str name="Family Members">
+		AU464866B2 | FR2149158A5 | DE2236042C3 | AU4372772A | JP53022086B | BE786903A1 | NL7210336A | JP1973025035A | DE2236042A1 | DE2236042B2 | US3734406 | IT961728B | CA984234A1 | ES405203A1 | GB1404983A | SE394965B | SE394965C
+	</str>
+	<str name="Family Member Count">
+		17
+	</str>
+	<str name="Family Members Cited By Count">
+		18
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		EP1682231B1 | ES2070717A2 | US7028916 | US7568635 | US7992808 | US7926733 | USD562435 | WO2005049145A1 | GB2119288A | US4925101 | US7246759 | USD540431 | US7497387 | US6935577 | US6808122
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US2041482 | US1075947 | US2530206 | US2297497 | US2351372 | US1500178 | US2214035 | US3567116 | US2522928 | 1907GB | 1915FR
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		16769571
+	</str>
+	<str name="Priority Date">
+		1971-07-30
+	</str>
+	<str name="Inventor(s)">
+		RUNSTADLER, JR., W. | NORD, ERIC, T. | HASTINGS, DONALD, R. | ROSEN, SAMUEL, R. | SCARBROUGH, DON, R. | WILHELM, FREDERICK, R.
+	</str>
+	<str name="1st Inventor">
+		RUNSTADLER, JR., W.
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Peter, 4, Freeman, Road, Hanover, NH, 03755
+	</str>
+	<str name="Inventor(s) Address">
+		Peter, 4, Freeman, Road, Hanover, NH, 03755 | 23, Hawthorne, Drive, Oberlin, OH, 44074 | 42873, Wood, Hill, Drive, Elyria, OH, 44035 | 2001, East, Skyline, Drive, Lorain, OH, 44053 | 550, Randall, Road, Elyria, OH, 44035 | 6224, Ashwood, Drive, Avon, Lake, OH, 44012
+	</str>
+	<str name="Primary Examiner">
+		WARD, JR., ROBERT S.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

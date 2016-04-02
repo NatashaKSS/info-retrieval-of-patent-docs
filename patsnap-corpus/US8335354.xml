@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8335354
+	</str>
+	<str name="Application Number">
+		US12/559523
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus for registering face identification features, method for registering the same, program for registering the same, and recording medium
+	</str>
+	<str name="Abstract">
+		The apparatus for registering face identification features can eliminate time and effort for manually retrieving and preparing face images by being provided with a face image retrieving portion 11 for retrieving a face image of a person via a network using the person's name as a keyword, a face feature extracting portion 12 for extracting features, which greatly influence identification of a person, from the face images retrieved by the face image retrieving portion 11, and a celebrity name, face image and feature database 13 for registering the face images retrieved by the face image retrieving portion 11 and the face features extracted by the face feature extracting portion 12 in a state where they are associated with the person's names.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-09-15
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-09
+	</str>
+	<str name="Publication Date">
+		2012-12-18
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-12
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Combined Search and Examination Report under Sections 17 and 18(3) from related Great Britain Application No. GB0916197.7 (5 pages). cited by other | Viola, Paul and Jones, Michael; &quot;Robust&quot; Real-time Object Detection, Second International Workshop on Statistical and Computational Theories of Vision--Modeling, Learning, Computing, and Sampling; Vancouver, Canada, Jul. 13, 2001; pp. 1-25. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5907838 | US6035055 | US7403642 | US20060285824 | EP0944019 | EP1826706 | JP1994259534 | JP1997251534 | JP2001167110 | JP2002133423 | JP2002189724 | JP2005115481 | JP2007249588 | JP2008181346 | JP20088243906
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2008-236576
+	</str>
+	<str name="Priority Date">
+		2008-09-16
+	</str>
+	<str name="Assignee(s)">
+		KDDI CORPORATION
+	</str>
+	<str name="1st Assignee">
+		KDDI CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		MATSUO, KENJI | MATSUMOTO, KAZUNORI
+	</str>
+	<str name="1st Inventor">
+		MATSUO, KENJI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Fujimino, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Fujimino, JP | Fujimino, JP
+	</str>
+	<str name="Agent/Attorney">
+		WESTMAN, CHAMPLIN &amp; KELLY, P.A.
+	</str>
+	<str name="Primary Examiner">
+		LU, TOM Y
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

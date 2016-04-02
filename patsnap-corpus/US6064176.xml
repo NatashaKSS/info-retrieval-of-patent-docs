@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6064176
+	</str>
+	<str name="Application Number">
+		US09140168
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Electronic apparatus and flash device
+	</str>
+	<str name="Abstract">
+		An electronic apparatus capable of selectively using a plurality of kinds of batteries includes a battery discriminating circuit for making a discrimination of the kind of the battery used, and a current change-over circuit for changing over a supply current of the battery used, in accordance with a result of the discrimination made by the battery discriminating circuit.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-08-26
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-08
+	</str>
+	<str name="Publication Date">
+		2000-05-16
+	</str>
+	<str name="Publication Year">
+		2000
+	</str>
+	<str name="Publication(Year/Month)">
+		2000-05
+	</str>
+	<str name="All IPC">
+		H02J7/00 | G03B7/26
+	</str>
+	<str name="IPC Primary">
+		H02J7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02J
+	</str>
+	<str name="IPC Group">
+		H02J7
+	</str>
+	<str name="All UPC">
+		396/205 | 396/206 | 320/106
+	</str>
+	<str name="UPC Primary">
+		396/205
+	</str>
+	<str name="UPC Class">
+		396
+	</str>
+	<str name="Family Members">
+		JP3927659B2 | US6064176 | JP1999084462A
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5734254 | US5847539 | US5752102 | US5780992 | US4577145
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		9236143
+	</str>
+	<str name="Priority Date">
+		1997-09-01
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		ODAKA, YUKIO
+	</str>
+	<str name="1st Inventor">
+		ODAKA, YUKIO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Agent/Attorney">
+		ROBIN, BLECKER &amp; DALEY
+	</str>
+	<str name="Primary Examiner">
+		WONG, PETER S.
+	</str>
+	<str name="Assistant Examiner">
+		TOATLEY, JR., GREGORY J.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7494589
+	</str>
+	<str name="Application Number">
+		US10518106
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Industrial process for food liquids decontamination from chemical and/or biological contaminants
+	</str>
+	<str name="Abstract">
+		Procedure for the decontamination of a food liquid from one or more chemical and/or biological contaminants, based on the contact of said liquid with at least a biocompatible membrane, to which antibodies specific for said contaminants are covalently bound.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-06-10
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-06
+	</str>
+	<str name="Publication Date">
+		2009-02-24
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		B01D61/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		426/11 | 210/651 | 210/650 | 210/601 | 426/519 | 210/242.1 | 210/638 | 435/264 | 426/490 | 426/491 | 424/278.1 | 426/532
+	</str>
+	<str name="UPC Primary">
+		426/11
+	</str>
+	<str name="UPC Class">
+		426
+	</str>
+	<str name="Family Members">
+		AU2003246410A1 | EP1531679A2 | US20050220936A1 | JP2005528902A | WO2003103409A2 | WO2004103409A3 | US7494589 | CA2489078A1 | ITMI20021260A1
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Baudrimont, et al. &quot;Effect of Superoxide Dismutase and Catalase on the Nephrotoxicity Induced by Subchronical Adminstration of Ochratoxin in Rats&quot; Toxicology 89, 1994, pp. 101-111. cited by other . | Stahr, H.M., &quot;Atrazine in Tissue, Blood, and Urine: Gas-Liquid Chromatogrpahy&quot;, Analytical Methods in Toxicology, 1991, pp. 181-182., John Wiley and Sons, NY. cited by other . | Usleber, E. et al., &quot;Direct Enzyme Immunoassay in Microtitration Plate and Test Strip Format for the Detection of Saxitoxin in Shellfish&quot;, Letters in Applied Microbiology, 1991, 13, pp. 275-277. cited by other . | Demetriou, J.A., &quot;Progesterone&quot; in Meth., in Clin. Chem., 1987, p. 253, A.J. Pesce and L.A. Kaplan, Eds., C.V. Mosby Publisher, St. Louis, USA. cited by other . | Usleber, E. et al., &quot;Two Formats of Enzyme Immunoassay for the Detection of Saxitoxin and Other Paralytic Shellfish Poisoning Toxins,&quot; Food Additives and Contaminants, 1995, vol. 12, No. 3, pp. 405-413. cited by other. | Raynaud, M. et al. &quot;Croissance et Toxinogenese&quot;, Ann. Inst. Pasteur, 1955, 88, 24. cited by other . | XP-002223968 Abouized M M et al. &quot;Simultaneous Screening of Fumonisin B1, Aflatoxin B1, and Zearaleone by line Immunoblot: A Computer-Assisted Multianalyte Assay System&quot; Journal of the AOAC International, 1994, vol. 77 pp. 495-500. cited by other . | Stahr, H.M., &quot;Carbamates Gas-Liquid or Thin Layer Chromotopography&quot;, Analytical Methods in Toxicology, 1991, pp. 157-160, John Wiley and Sons, NY. cited by other . | De Saeger, S. et al. &quot;Dipstick Enzyme Immunoassay to Detect Fusarium T-2 Toxin in Wheat&quot; Applied and Enviornmental Microbiology, Jun. 1996, vol. 62, No. 6, pp. 1880-1884. cited by other . | Fuchs, S. and Sela, M., &quot;Immunoadsorbents&quot;, Immunochemistry, vol. 1., 1978, Chpt. 10, Ed. D.M. Weir, Blackwell Sci. Publ., Oxford. cited by other . | XP-002223990 Jung, R. et al. &quot;Strip Elisa for Detection of Staphylococcal Enterotoxins in Culture Supernatants and Foods.&quot; Food and Agricultual Immunology, 1193, vol. 5, pp. 107-144, undated. cited by other . | Johnstone, A., and Thorpe, R. &quot;Immunochemistry in Practice&quot;, 1982, 27-30, Blackwell Sci. Publ. Oxford. cited by other . | Lamplugh, S.M., &quot;Comparison of Three Methods for the Extraction of Aflatoxins From Human Serum in Combination With a High-Performance Liquid Chromatographic Assay&quot;, J. Chromatogr., 1983, 273, 442. cited by other . | Heide, K., and Schwick, H.G., &quot;Salt Fractionation of Immunoglobins, in Immunochemistry&quot;, vol. 1, 1978, Chpt. 7, Ed. D.M. Weir, Blackwell, Sci., Publ., Oxford. cited by other . | XP-002223970 Darquea, D. et al. &quot;Development and Characterization of a Bioselective Adsorption Matrix for Removal of Bacillus Cereus Spores rrom Buffer and Milk.&quot; Lebensmittel-Wissenschaft und Technologie, 1997, vol. 30, pp. 786-792. cited by other . | XP002223969 Losso J N et al. &quot;Removal of Bovine Serum Albumin from Cow's Milk Using Chicken Egg-yolk Antibodies Immobilized on Chitosan Gel.&quot; Food and Agricultual Immunology, 1998, vol. 10, pp. 47-56. cited by other . | Bizzini, et al. &quot;Immunochimie et Mecanisme D'action de la Toxine Tetanique&quot; Bulletin de L'institut Pasteur, 1974, 72, pp. 177-219. cited by other .
+	</str>
+	<str name="Other References Count">
+		17
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5868930 | US4347312 | US6576460 | US5998222 | US6139746 | US5573921 | US5038793 | US4693985 | US4357311 | WO1996027614 | EP0892271 | IT01313701 | JP1993249116 | EP0246643
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		IT
+	</str>
+	<str name="Priority Number">
+		MI2002A1260
+	</str>
+	<str name="Priority Date">
+		2002-06-10
+	</str>
+	<str name="Assignee(s)">
+		DOX-AL ITALIA S.P.A.
+	</str>
+	<str name="1st Assignee">
+		DOX-AL ITALIA S.P.A.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Correzana, IT
+	</str>
+	<str name="Assignee(s) Address">
+		Correzana, IT
+	</str>
+	<str name="Inventor(s)">
+		VOLPATO, IVO | BIZZINI, BERNARD | VENERONI, FLAVIO
+	</str>
+	<str name="1st Inventor">
+		VOLPATO, IVO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		S., Mariano, IT
+	</str>
+	<str name="Inventor(s) Address">
+		S., Mariano, IT | Albi, CH | Correzzana, IT
+	</str>
+	<str name="Agent/Attorney">
+		GIFFORD, KRASS, SPRINKLE, ANDERSON &amp; CITKOWSKI, P.C.
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

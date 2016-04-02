@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7513998
+	</str>
+	<str name="Application Number">
+		US11712795
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		&quot;In-situ&quot; ballast water treatment method
+	</str>
+	<str name="Abstract">
+		A method and system for ballast water treatment are provided. A vacuum is applied directly to an existing vent of a vessel's ballast water tank during the vessel's voyage. The applied vacuum is in a range of approximately -2 to -4 pounds per square inch. To further assure success, living organisms can be added into the ballast water tank to consume (i) oxygen dissolved in the ballast water, and (ii) food sources for selected organisms contained in the ballast water. No modifications to the vessel's ballast water tank are required as all system components are coupled to the existing vent.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-03-01
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2009-04-07
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/630 | 210/610 | 210/620 | 210/603 | 210/614
+	</str>
+	<str name="UPC Primary">
+		210/630
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20070261626A1 | AU2008223591A1 | US7513998 | WO2008108948A3 | WO2008108948A2 | EP2125635A2
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6722933
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		71279507 | 79876006
+	</str>
+	<str name="Priority Date">
+		2007-03-01 | 2006-05-09
+	</str>
+	<str name="Assignee(s)">
+		SEA KNIGHT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SEA KNIGHT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suffolk, VA
+	</str>
+	<str name="Assignee(s) Address">
+		Suffolk, VA
+	</str>
+	<str name="Inventor(s)">
+		THOMPSON, CLAUDE, R. | LECHLER, WILLIAM, M. | MARSHALL, NEIL, F.
+	</str>
+	<str name="1st Inventor">
+		THOMPSON, CLAUDE, R.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Virginia, Beach, VA
+	</str>
+	<str name="Inventor(s) Address">
+		Virginia, Beach, VA | Virginia, Beach, VA | Williamsburg, VA
+	</str>
+	<str name="Agent/Attorney">
+		VAN BERGEN, PETER J.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

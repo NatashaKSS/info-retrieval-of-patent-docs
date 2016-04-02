@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6327387
+	</str>
+	<str name="Application Number">
+		US08888794
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Apparatus and method for extracting management information from image
+	</str>
+	<str name="Abstract">
+		A management information extraction apparatus learns the structure of ruled lines of a document and the position of user-specified management information such as a title, etc. during a form learning process, and stores them in a layout dictionary. During the operation, the structure of the ruled lines extracted from an image of an input document is matched with that of the document in the layout dictionary. Then, position information in the layout dictionary is referred to, and the management information is extracted from the input document.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1997-07-07
+	</str>
+	<str name="Application Year">
+		1997
+	</str>
+	<str name="Application(Year/Month)">
+		1997-07
+	</str>
+	<str name="Publication Date">
+		2001-12-04
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-12
+	</str>
+	<str name="All IPC">
+		G06F15/00 | G06K9/34 | G06K9/46 | G06K9/20
+	</str>
+	<str name="IPC Primary">
+		G06F15/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="All UPC">
+		382/173 | 715/509 | 382/175 | 382/190 | 715/517 | 382/291 | 382/282 | 715/506 | 382/203 | 382/202 | 715/510 | 382/286
+	</str>
+	<str name="UPC Primary">
+		382/173
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		EP0851382A3 | EP0851382B1 | GB9714473D0 | DE69736019D1 | CN100422990C | CN1534539A | CN1534542A | US6327387 | EP0851382A2 | CN1271558C | CN1159673C | CN1188946A | DE69736019T2 | GB2320789A
+	</str>
+	<str name="Family Member Count">
+		14
+	</str>
+	<str name="Family Members Cited By Count">
+		23
+	</str>
+	<str name="Other References">
+		Pizano A., et al., &quot;A Business Form Recognition System&quot;, IEEE, 1991, pp. 626-632. | Casey R. G. et al., &quot;Intelligent Forms Processing&quot;, IBM Systems Journal, vol. 29, No. 3., pp. 435-450. | &quot;Model and Method of Understanding Layout for Processing of Printed Forms&quot;, IBM Technical Disclosure Bulletin, vol. 37, No. 1., pp. 277-279. | N. Funakubo, &quot;Pattern Recognition&quot;, pp. 62-67 (Dec. 1, 1991) and English translation.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		US6813381 | US6785420 | US7133152 | US8107727 | US8108764 | US8213717 | US7987250 | US7145680 | US8209481 | US8208737 | US6788829 | US6894804 | US7099507 | US7164492 | US7079688
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5235653 | US5191612 | US5835916 | US5179650 | US5960448 | US5956422 | US4808987 | US4933979 | US5815704 | US5812995 | US5848186 | US4933984 | US5119437 | US5101448 | US5774584 | US5708730 | US5140650 | US5926824 | US5075895 | US5448692 | US5293429 | EP0654746A2 | GB1487507 | DE4307577A1 | EP0616296A2 | WO1989011703A1 | WO1992005504 | WO1989011703 | JP1997050527 | JP1996223720 | JP1997507471 | WO1991004541 | EP0660249 | GB2219674
+	</str>
+	<str name="Cites Count">
+		34
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		8351346
+	</str>
+	<str name="Priority Date">
+		1996-12-27
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		NAOI, SATOSHI | KATSUYAMA, YUTAKA | TAKEBE, HIROAKI
+	</str>
+	<str name="1st Inventor">
+		NAOI, SATOSHI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP | Kawasaki, JP | Kawasaki, JP
+	</str>
+	<str name="Agent/Attorney">
+		STAAS &amp; HALSEY LLP
+	</str>
+	<str name="Primary Examiner">
+		BOUDREAU, LEO
+	</str>
+	<str name="Assistant Examiner">
+		MARIAM, DANIEL G.
+	</str>
+	<str name="cited by within 3 years">
+		5
+	</str>
+	<str name="cited by within 5 years">
+		5
+	</str>
+</doc>
+

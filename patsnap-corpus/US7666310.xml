@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7666310
+	</str>
+	<str name="Application Number">
+		US11355828
+	</str>
+	<str name="Title">
+		Method of drying organic liquid electrolytes
+	</str>
+	<str name="Abstract">
+		A method is described for removing water and other protic impurities from an organic liquid electrolyte, wherein the organic liquid electrolyte is brought into contact with one or more insoluble alkali metal hydride(s) and the insoluble reaction by-products formed thereby are separated off.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-02-16
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-02
+	</str>
+	<str name="Publication Date">
+		2010-02-23
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-02
+	</str>
+	<str name="All IPC">
+		B01D37/00 | B01D17/38 | B01D17/02
+	</str>
+	<str name="IPC Primary">
+		B01D37/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D37
+	</str>
+	<str name="All UPC">
+		429/324 | 429/189 | 210/702 | 210/689 | 210/716 | 210/668
+	</str>
+	<str name="UPC Primary">
+		429/324
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Patent Abstract of Japan Application No. 62280033; Publication No. 01122566 dated May 15, 1989, &quot;Purification of Nonaqueous Electrolyte&quot;, Mitsubishi Petrochem Co Ltd. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6573002 | US6251349 | US6195251 | US3864168 | US6551748 | US5496661 | US2562972 | JP1984046764 | DE19827631 | JP1999054378 | WO19999967843 | JP1984009874 | WO1999067843 | WO1999067844
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		10049097
+	</str>
+	<str name="Priority Date">
+		2000-09-27
+	</str>
+	<str name="Assignee(s)">
+		CHEMETALL GMBH
+	</str>
+	<str name="1st Assignee">
+		CHEMETALL GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Frankfurt am Main, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Frankfurt am Main, DE
+	</str>
+	<str name="Inventor(s)">
+		WIETELMANN, ULRICH | SCHADE, KLAUS | LISCHKA, UWE
+	</str>
+	<str name="1st Inventor">
+		WIETELMANN, ULRICH
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Friedrichsdorf, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Friedrichsdorf, DE | Wiesbaden, DE | Niedereschbach, DE
+	</str>
+	<str name="Agent/Attorney">
+		FUBRIGHT &amp; JAWORSKI L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

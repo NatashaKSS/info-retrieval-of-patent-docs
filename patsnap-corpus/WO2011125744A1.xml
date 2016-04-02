@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2011125744A1
+	</str>
+	<str name="Application Number">
+		PCT/JP2011/058022
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		CONTENT SEARCH DEVICE, METHOD, AND PROGRAM
+	</str>
+	<str name="Abstract">
+		The disclosed content search device, method, and program display search results for each of a plurality of images and make it easier to get an idea of the content of videos. A metadata extraction unit (22) extracts representative image information and other metadata from content supplied via a content input unit (21) and accumulates said metadata in a metadata database (24). An image feature-quantity extraction unit (23) extracts image feature quantities from the content and accumulates said image feature quantities in an image feature quantity database (25). The image feature-quantity extraction unit also extracts image feature quantities from a search image. A search unit (27) compares the image feature quantities for the search image with image feature quantities stored in the image feature quantity database (25) and identifies still images that are similar to the search image. An output unit (28) reads out content metadata, generates display data necessary for a timeline display, and also generates display data for displaying the search results on a timeline.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2011-03-30
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-03
+	</str>
+	<str name="Publication Date">
+		2011-10-13
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		H04N5/93 | H04N5/76 | H04N5/91 | H04N7/173 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		H04N5/93
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04N
+	</str>
+	<str name="IPC Group">
+		H04N5
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2010090610
+	</str>
+	<str name="Priority Date">
+		2010-04-09
+	</str>
+	<str name="Assignee(s)">
+		&#12477;&#12491;&#12540;&#26666;&#24335;&#20250;&#31038; | &#30000;&#20013;&#12288;&#21644;&#25919; | &#30000;&#20013;&#12288;&#20581;&#21496; | &#39640;&#27211;&#12288;&#32681;&#21338;
+	</str>
+	<str name="1st Assignee">
+		&#12477;&#12491;&#12540;&#26666;&#24335;&#20250;&#31038;
+	</str>
+	<str name="Number of Assignees">
+		4
+	</str>
+	<str name="1st Assignee Address">
+		&#12306;1080075 &#26481;&#20140;&#37117;&#28207;&#21306;&#28207;&#21335;&#65297;&#19969;&#30446;&#65303;&#30058;&#65297;&#21495; Tokyo &#12306;1080075 JP
+	</str>
+	<str name="Assignee(s) Address">
+		&#12477;&#12491;&#12540;&#26666;&#24335;&#20250;&#31038; | &#30000;&#20013;&#12288;&#21644;&#25919; | &#30000;&#20013;&#12288;&#20581;&#21496; | &#39640;&#27211;&#12288;&#32681;&#21338;
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

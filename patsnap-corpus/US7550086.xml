@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7550086
+	</str>
+	<str name="Application Number">
+		US11/829607
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Advanced treatment method of ethanolamine-wastewater based on physico-chemical and biological coupling process
+	</str>
+	<str name="Abstract">
+		Advanced treatment method and system of ethanolamine-containing wastewater are disclosed, which perform physicochemical and biological treatment processes. The method regenerates cation exchange resin that captures ethanolamine discharged from a nuclear power plant or a thermal power station, concentrates the ethanolamine-containing wastewater to reduce the volume of the wastewater, and then treats the highly concentrated ethanolamine-containing wastewater through biological decomposition and denitrification processes. The system for treating ethanolamine-containing wastewater performs the physicochemical process (ion-exchange and resin regenerations) where the waster is concentrated, and then applies the biological process to the small amount of wastewater highly concentrated. The physicochemical process is composed of exchanging ions and eluting/concentrating ethanolamine using sodium hydroxide. The wastewater of a few to tens of thousands ppm is transferred and undergoes a biological process where the ethanolamine is decomposed, converted into CO.sub.2 and N.sub.2 through the anoxic tank and two aerobic tanks, and then discharged in gas. Therefore, the wastewater is discharged, satisfying the biochemical oxygen demand value and the nitrogen content required by the environmental discharge standard.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-07-27
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-07
+	</str>
+	<str name="Publication Date">
+		2009-06-23
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/615 | 210/623 | 210/631 | 210/903
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		KR100722929B1 | US20080179241A1 | US7550086
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20070138091 | JP1997033586 | JP1998062597 | JP1999000693 | JP1999156392 | JP2003066544 | JP2004142192 | JP2004351419
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		20060071410
+	</str>
+	<str name="Priority Date">
+		2006-07-28
+	</str>
+	<str name="Inventor(s)">
+		RHEE, IN, HYOUNG | CHO, DAE, CHUL | PARK, BYUNG, GI | AHN, HYUN, KYOUNG | JUNG, HYUN, JUN | HYUN, JUN, TAEK | HUH, NAM, SOO | YOON, MI, HAE | HAN, HYUN, KAK
+	</str>
+	<str name="1st Inventor">
+		RHEE, IN, HYOUNG
+	</str>
+	<str name="Number of Inventors">
+		9
+	</str>
+	<str name="1st Inventor Address">
+		Cheonan-si, Chungcheongnam-do, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Cheonan-si, Chungcheongnam-do, KR | Cheonan-si, Chungcheongnam-do, KR | Seocho-gu, Seoul, KR | Gangseo-gu, Seoul, KR | Jangan-gu, Suwon-si, Gyeonggi-do, KR | Dongan-gu, Anyang-si, Gyeonggi-do, KR | Seo-myeon, Hongcheon-gun, Gangwon-do, KR | Ojeong-gu, Bucheon-si, Gyeonggi-do, KR | Cheonan-si, Chungcheongnam-do, KR
+	</str>
+	<str name="Agent/Attorney">
+		HUGHES, MICHAEL F. HUGHES LAW FIRM, PLLC
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

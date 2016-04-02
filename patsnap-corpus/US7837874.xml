@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7837874
+	</str>
+	<str name="Application Number">
+		US11979911
+	</str>
+	<str name="Title">
+		Treatment system for ships' ballast water
+	</str>
+	<str name="Abstract">
+		A water treatment system to be installed in a tanker or other cargo ship for destruction of aquatic organisms and microorganisms that may be contained in the water, usually seawater, being pumped into the ship's ballast tank or tanks. Included is a ballast pump having an intake conduit for drawing water from the sea, and a delivery conduit for delivering the water under pressure to the ballast tank. The delivery conduit has mounted therein a slitted or otherwise open-worked screen for mechanically killing the aquatic lifeforms contained in the water by shearing action. For chemical treatment, on the other hand, part of the water being delivered by the ballast pump is bypassed into an ozone impregnator thereby to be impregnated with ozone from an ozonizer. A bypass pump repressurizes the ozone-impregnated water for returning the same into the delivery conduit.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-11-09
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-11
+	</str>
+	<str name="Publication Date">
+		2010-11-23
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		C02F9/04 | C02F9/08 | C02F1/78
+	</str>
+	<str name="IPC Primary">
+		C02F9/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F9
+	</str>
+	<str name="All UPC">
+		210/258 | 210/242.1 | 210/931 | 210/259 | 210/209
+	</str>
+	<str name="UPC Primary">
+		210/258
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report, Aug. 4, 2006, for International Application No. PCT/JP2006/309510. cited by other. | &quot;Summary of Convention Requirements.&quot; International Convention for the Control and Management of Ships Ballast Water and Sediments. Feb. 13, 2004. Global Ballast Water Management Programme. Feb. 25, 2008 &lt; http://globallast.imo.org/mepc.htm&gt;. cited by other . | Machine translation of JP 2003-200156, 2003 (foreign language copy cited by applicant on IDS). cited by examiner .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US5059317 | US3565404 | US20030015481 | US6106731 | JP2004160437 | JP2003200156 | JP1988100995
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2005139152
+	</str>
+	<str name="Priority Date">
+		2005-05-11
+	</str>
+	<str name="Assignee(s)">
+		THE JAPAN ASSOCIATION OF MARINE SAFETY (TOKYO, JP), M.O. MARINE CONSULTING, LTD. (TOKYO, JP), SHINKO IND, LTD. (HIROSHIMA, JP), LABORATORY OF AQUATIC SCIENCE CONSULTANT CO., LTD. (TOKYO, JP), MITSUI ENGINEERING &amp; SHIPBUILDING CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		THE JAPAN ASSOCIATION OF MARINE SAFETY (TOKYO, JP), M.O. MARINE CONSULTING, LTD. (TOKYO, JP), SHINKO IND, LTD. (HIROSHIMA, JP), LABORATORY OF AQUATIC SCIENCE CONSULTANT CO., LTD. (TOKYO, JP), MITSUI ENGINEERING &amp; SHIPBUILDING CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		FUKUYO, YASUWO | KIKUCHI, TAKEAKI | WAKI, JUN | KINO, SEIJI | HIRAO, KAZUNOBU | YOSHIDA, KATSUMI | OHNISHI, IZUMI | SAITO, MASAHIRO
+	</str>
+	<str name="1st Inventor">
+		FUKUYO, YASUWO
+	</str>
+	<str name="Number of Inventors">
+		8
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP | Tokyo, JP | Saga, JP | Hiroshima, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		DUANE MORRIS LLP
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="Assistant Examiner">
+		STELLING, LUCAS
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

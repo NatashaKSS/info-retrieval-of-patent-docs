@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7479220
+	</str>
+	<str name="Application Number">
+		US11949852
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Plant for the removal of metals by biosorption from mining or industrial effluents
+	</str>
+	<str name="Abstract">
+		A method and a plant to remove metals by biosorption from mining or industrial effluents comprising: (a) subject the effluent to at least one first stage of pre-treatment, selecting among: precipitation by pH rising, solvent extraction or solvent extraction on emulsified membranes in order to reduce its load of metals to a concentration level that allows it to be treated by the next stage of biosorption, and (b) subject the liquid that has been previously in the stage of pre-treatment to a second stage of continuous metals removal by biosorption. To perform the continuous metals removal by biosorption is supplied a group of reactors, constituted for at least one, or at least two or at least three fixed bed bioreactors, which packing material has been colonized with a biofilm formed by a bacterial culture or a mixture of microorganisms with the capacity of binding metals by biosorption; pre-treated water is led to the group of bioreactors, the treated effluent comes from this last one and is led to the discharge of the plant.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-12-04
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-12
+	</str>
+	<str name="Publication Date">
+		2009-01-20
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/284 | 210/196 | 210/150 | 210/263 | 210/265 | 210/195.1 | 210/181 | 210/184 | 210/205 | 210/220
+	</str>
+	<str name="UPC Primary">
+		210/284
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7479220 | US20080142422A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Volesky, Detoxification of metal-bearing effluents: biosorption for the next century, Hydrometallurgy, vol. 59, Issues 2-3, pp. 203-216, dated Feb. 2001 (Abstract and Article Outline Only). cited by other . | Kratochvil et al., Multicomponent Biosorption In Fixed Beds, Wat. Res., vol. 34, No. 12, pp. 3186-3196, dated 2000. cited by other . | Castro et al., Biomasa de Rhizopul oligosporus como adsorbente de iones metalicos, Microbiologia SEM 8, pp. 94-105, dated 1992. cited by other . | Figueira, et al. Biosorption of Metals In Brown Seaweed Biomass, Wat. Res., vol. 34, No. 1, pp. 196-204, dated 2000. cited by other . | Kapoor et al., Fungal biosorption--an alternative treatment option for heavy metal bearing wastewaters: a review, Bioresource Technology, vol. 53, Issue 3, pp. 195-206, dated 1995 (Abstract Only). cited by other . | Kratochvil et al., Advances in the biosorption of heavy metals, Trends iotechnol., vol. 16, , pp. 291-300, dated 1998. cited by other . | Blais et al., State of the art of technologies for metal removal from industrial effluents. Rev. Des Sciences De L'Eau, vol. 12 (4): pp. 687-711, dated Dec. 4, 1999. cited by other . | White, et al., The role of microorganisms in biosprption of toxic metals and radionuclides, International Biodeterioration &amp; Biodegradation, vol. 35, Issues 1-3, pp. 17-40, dated 1995 (Abstract Only). cited by other. | Cotoras et al, Biosorption of metal ions by Azotobacter vinelandii, World Journal of Applied Microbiology and Biotechnology, vol. 8, pp. 319-323, dated 1992. cited by other . | Kratochvil, et al., Optimizing Cu Removal/Recovery In A biosorption Column, Wat. Res., vol. 31, No. 9, pp. 2327-2339, dated 1997. cited by other . | Volesky et al., Biosorption of Heavy Metals, Biotechnol. Prog., vol. 11, pp. 235-250, dated 1995. cited by other . | Cotoras et al., Sorption of Metal Ions By Whole Cells of Bacillus and Micrococcus, Environmental Technology, vol. 13, pp. 551-559, dated 1992. cited by other . | Eccles, Treatment of metal-contaminated wastes: why select a biological process? Trends Biotechnol., vol. 17, pp. 462-465, dated 1998. cited by other . | Tsezos et al., An Investigation of Engineering Parametes for the Use of Immobilized Biomass Particles in Biosorption, J. Chem. Tech., Biotechnol., vol. 48, pp. 29-39, dated 1990. cited by other . | Gilson et al., Calcium alginate bead manufacture: With and without immobilized yeast. Drop formation at a two-fluid nozzle, Journal of Chemical Technology &amp; Biotechnology, vol. 62, Issue 3, pp. 227-232, dated 1995 (Abstract Only). cited by other . | Bedell et al., Immobilization Of Nonviable, Biosorbent, Algae Biomass For The Recovery Of Metal Ions, pp. 314-325, dated 1990. cited by other . | Gadd et al., Microbial Treatment of Metal Pollution--A Working Biotechnology? Trends in Biotechnology., vol. 11, Issue 8, pp. 353-359, dated 1993, (Abstract Only). cited by other .
+	</str>
+	<str name="Other References Count">
+		17
+	</str>
+	<str name="Cited By">
+		US8347960
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6013511 | US5055402 | US5789204 | US4898827 | US5976847 | US5538645 | US6027543 | US4769223 | US5602071 | US5648313 | US5279745
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		CL | CL
+	</str>
+	<str name="Priority Number">
+		25812004 | 19452005
+	</str>
+	<str name="Priority Date">
+		2004-10-06 | 2005-08-02
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSIDAD DE CHILE (CL), BIOTECHNOLOGIES DEL AQUA LTDA.
+	</str>
+	<str name="1st Assignee">
+		UNIVERSIDAD DE CHILE (CL), BIOTECHNOLOGIES DEL AQUA LTDA.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		CL
+	</str>
+	<str name="Assignee(s) Address">
+		CL
+	</str>
+	<str name="Inventor(s)">
+		COTORAS, TADIC, DAVOR | VALENZUELA, LOZANO, FERNANDO | ZARZAR, MAZA, MIGUEL, ESTEBAN | VIEDMA, ELICER, PABLA, LETICIA
+	</str>
+	<str name="1st Inventor">
+		COTORAS, TADIC, DAVOR
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Santiago, CL
+	</str>
+	<str name="Inventor(s) Address">
+		Santiago, CL | Santiago, CL | Santiago, CL | Santiago, CL
+	</str>
+	<str name="Agent/Attorney">
+		BANNER &amp; WITCOFF, LTD.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

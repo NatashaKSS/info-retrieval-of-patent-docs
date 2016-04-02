@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7981298
+	</str>
+	<str name="Application Number">
+		US12001057
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for removal of contaminants from industrial streams
+	</str>
+	<str name="Abstract">
+		A method and system for removing from an aqueous system which is contaminated therewith: (1) mercury present as colloids, ions and/or organically bound compounds, and (2) hydrocarbons solubilized, dispersed, and/or emulsified in the said system. Pursuant to the invention the aqueous system to be treated (such as &quot;produced water&quot;) is passed successively through three filtration stages. The first filtration stage is provided with absorption media which effects reduction/removal of dispersed organically bound mercury species and of the dispersed and partially dissolved hydrocarbon phases, as well as of some colloidal mercury and other dissolved metallic species. The second filtration stage utilizes a salt modified reticulated granular filtration media for reduction/removal of slightly dissolved hydrocarbon phases, mercury in colloidal and ionic form and other dissolved metals. The third filtration stage is a polishing stage, which serves to further reduce by electroless or voltaic reduction residual elemental mercury and/or residual colloidal and ionic mercury. At this third stage metallic mercury is incorporated into a metallic matrix from which the mercury may preferably be recovered.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-12-07
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-12
+	</str>
+	<str name="Publication Date">
+		2011-07-19
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		C02F1/62 | C02F1/28
+	</str>
+	<str name="IPC Primary">
+		C02F1/62
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/748.01 | 210/688 | 210/694 | 210/692 | 210/668
+	</str>
+	<str name="UPC Primary">
+		210/748.01
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US7211707 | US7264721 | US20020027105 | US6861002 | US7041222 | US6958136 | US6117333 | US2107945 | US5292412 | US6180010 | US5080799 | US4154704 | US7264722
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Inventor(s)">
+		ALPER, HAL
+	</str>
+	<str name="1st Inventor">
+		ALPER, HAL
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Flowery, Branch, GA
+	</str>
+	<str name="Inventor(s) Address">
+		Flowery, Branch, GA
+	</str>
+	<str name="Agent/Attorney">
+		KLAUBER &amp; JACKSON LLC
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

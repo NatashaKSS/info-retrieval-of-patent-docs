@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7597808
+	</str>
+	<str name="Application Number">
+		US11484685
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for treating wastewater containing nitrogen-containing dyes
+	</str>
+	<str name="Abstract">
+		A wastewater treatment apparatus comprises a nitrogen-containing dye containing wastewater inlet connected to an obligatory anaerobic tank to bring wastewater containing a nitrogen-containing dye into contact with sulfate-reducing bacteria under obligatory anaerobic conditions, a nitrification tank to bring the wastewater into contact with nitrifying bacteria under aerobic conditions, and a denitrification tank to bring the wastewater into contact with the denitrifying bacteria under anaerobic conditions.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-07-12
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-07
+	</str>
+	<str name="Publication Date">
+		2009-10-06
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		C02F3/30 | C02F3/10
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/150 | 210/903 | 210/917 | 210/616
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1375437A1 | US20040055951A1 | US20060249450A1 | KR1020040000357A | US7597808 | CN1482080A | SG125919A1
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References">
+		C. O'Neill, et al., Applied Microbiology and Biotechnology, vol. 53, No. 2, XP-002258475, pp. 249-254, &quot;Azo-Dye Degradation in an Anaerobic-Aerobic Treatment System Operating on Simulated Textile Effluent&quot;, Feb. 2000. cited by other . | Jia Shengfu, et al. &quot;The Properties of Decolorization of Dyes by Sulfate-Reducing Bacteria&quot;, Institute of Microbiology, Chinese Academy of Science, Beijing, Sep. 22, 2008. cited by other . | R. Krull, et al., Water Science and Technology, vol. 38, Issues 4-5, Abstract of &quot;Combined Biological and Chemical Treatment of Highly Concentrated Residual Dyehouse Liquors&quot;, 1998. cited by other. | R. Krull, et al., Chemie Ingenieur Technik, vol. 72, No. 9, XP-002258473, pp. 1113-1114, &quot;Konzept Zur Technischen Umsetzung Einer Zweistufigen Anoxischen Und Aeroben Textilabwasserbehandlung&quot;, 2000. cited by other . | A. Stolz, Applied Microbiology and Biotechnology, vol. 56, No. 1-2, XP-002258474, pp. 69-80, &quot;Basic and Applied Aspects in the Microbial Degradation of Azo Dyes&quot;, Jul. 2001. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6054044 | US4626354 | US6461511 | US5578214 | US5919367 | US5393427 | US6007712 | US4384956 | EP0979803 | EP0426933 | EP0861808
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2002183246
+	</str>
+	<str name="Priority Date">
+		2002-06-24
+	</str>
+	<str name="Assignee(s)">
+		KURARAY CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		KURARAY CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kurashiki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kurashiki, JP
+	</str>
+	<str name="Inventor(s)">
+		SHIOTANI, TADAO | TAKAMI, YUKO | NAKAHARA, SEIICHI
+	</str>
+	<str name="1st Inventor">
+		SHIOTANI, TADAO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Osaka, JP | Osaka, JP | Osaka, JP
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEUSTADT, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		LAWRENCE, FRANK M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

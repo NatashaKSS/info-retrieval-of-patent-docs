@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7402247
+	</str>
+	<str name="Application Number">
+		US11300640
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System for wastewater treatment and digestion having aerobic and anaerobic treatment zones
+	</str>
+	<str name="Abstract">
+		The specification discloses a method for treating and digesting organic wastes in a wastewater stream. A first wastewater influent stream is mixed with an activated sludge biomass in an aerobic digestion zone, so that least a portion of the organic wastes in the first wastewater influent stream are digested by activated sludge biomass. The first wastewater influent stream is separated from the activated sludge biomass in a first separation zone to recover activated sludge biomass and to provide a wastewater effluent stream. The second wastewater influent stream is mixed with recovered activated sludge biomass from the aerobic digestion zone in a substantially anaerobic adsorption zone so that at least a portion of the organic wastes in the second wastewater influent stream are adsorbed by the activated sludge biomass. The second wastewater influent stream and the activated sludge biomass are then separated in a second separation zone to recover the activated sludge biomass and organic wastes adsorbed thereto from the anaerobic adsorption zone and to provide a substantially liquid wastewater stream which is recycled to the aerobic digestion zone. Finally, at least a portion of the activated sludge biomass and adsorbed organic wastes from the anaerobic adsorption zone are digested under substantially anaerobic conditions so as to recover a combustible gas stream. An apparatus for carrying out the method is also disclosed.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-14
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2008-07-22
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-07
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/607 | 210/603 | 210/623 | 210/622 | 210/612
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060196829A1 | US7402247
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References">
+		Thomas E. Schultz, Biological Wastewater Treatment, Chemical Engineering, Oct. 2005, pp. 44-50. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US7915749 | US8154138 | US8066845 | US8066844 | US7832714 | US8136797 | US8043479
+	</str>
+	<str name="Cited By Count">
+		7
+	</str>
+	<str name="Cites">
+		US6673243 | US3440166 | US6723242 | US4681685 | US5393427 | US3980556 | US6444124 | US4246099 | US4626354 | US20020192809 | US5228996 | US5514278 | US2196840 | US2786025 | US2359004 | US5514277 | US20040094475 | US6163932 | US6444125 | US4568462 | JP1989135596 | DE4036548 | JP1982136996 | WO2004006049
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		30064005 | 63574004
+	</str>
+	<str name="Priority Date">
+		2005-12-14 | 2004-12-14
+	</str>
+	<str name="Assignee(s)">
+		SHAW INTELLECTUAL PROPERTY HOLDINGS, INC.
+	</str>
+	<str name="1st Assignee">
+		SHAW INTELLECTUAL PROPERTY HOLDINGS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Baton Rouge, LA
+	</str>
+	<str name="Assignee(s) Address">
+		Baton Rouge, LA
+	</str>
+	<str name="Inventor(s)">
+		SUTTON, PAUL, MATTHEW
+	</str>
+	<str name="1st Inventor">
+		SUTTON, PAUL, MATTHEW
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Enfield, NH
+	</str>
+	<str name="Inventor(s) Address">
+		Enfield, NH
+	</str>
+	<str name="Agent/Attorney">
+		LUEDEKA, NEELY &amp; GRAHAM, P.C.
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		5
+	</str>
+	<str name="cited by within 5 years">
+		5
+	</str>
+</doc>
+

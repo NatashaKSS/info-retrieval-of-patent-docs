@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2010055701A1
+	</str>
+
+	<str name="Application Number">
+		PCT/JP2009/053228
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		MICROBUBBLE GENERATING MECHANISM
+	</str>
+
+	<str name="Abstract">
+		A microbubble generating mechanism is provided with a collision member (22) projecting from the inner surface of a flow passage wall (25), and also with a gap forming section (23) formed in a flow passage (FP) so as to be opposed to the front end, with respect to the direction of the projection, of the collision member (22). A bypassing flow passage (251) is formed between the outer peripheral surface of the collision member (22) and the inner surface of the flow passage wall (25). A restriction gap (21G) is formed between the collision member (22) and the gap forming section (23). The restriction gap (21G) restricts flow of water so that the water flows through the restriction gap (21G) at a lower flow rate and a higher flow speed than when flowing through the water bypassing flow passage (251). Owing to the construction above, the microbubble generating mechanism can generate a sufficient amount of bubbles without using a complex air-liquid mixing mechanism and can break up bubbles into finer microbubbles with greatly enhanced effect. As a result, the microbubble generating mechanism can generate a large amount of bubbles, which are in a micro bubble region or a micro-nano bubble region, at a level which has not been achieved by conventional products.
+	</str>
+
+	<str name="Document Types">
+		WO
+	</str>
+
+	<str name="Application Date">
+		2009-02-23
+	</str>
+
+	<str name="Application Year">
+		2009
+	</str>
+
+	<str name="Application(Year/Month)">
+		2009-02
+	</str>
+
+	<str name="Publication Date">
+		2010-05-20
+	</str>
+
+	<str name="Publication Year">
+		2010
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+
+	<str name="All IPC">
+		D06F39/08 | A01K63/04 | A01K61/00 | B01F3/04 | B01F5/02 | A47L15/42 | A61H23/00
+	</str>
+
+	<str name="IPC Primary">
+		D06F39/08
+	</str>
+
+	<str name="IPC Section">
+		D
+	</str>
+
+	<str name="IPC Class">
+		D06
+	</str>
+
+	<str name="IPC Subclass">
+		D06F
+	</str>
+
+	<str name="IPC Group">
+		D06F39
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		JP
+	</str>
+
+	<str name="Priority Number">
+		2008292241
+	</str>
+
+	<str name="Priority Date">
+		2008-11-14
+	</str>
+
+	<str name="Assignee(s)">
+		&#22338;&#26412; &#27888;&#23389; | &#26666;&#24335;&#20250;&#31038;&#12471;&#12496;&#12479; | &#26612;&#30000; &#33459;&#27193;
+	</str>
+
+	<str name="1st Assignee">
+		&#22338;&#26412; &#27888;&#23389;
+	</str>
+
+	<str name="Number of Assignees">
+		3
+	</str>
+
+	<str name="1st Assignee Address">
+		&#12306;4700155 &#24859;&#30693;&#30476;&#24859;&#30693;&#37089;&#26481;&#37111;&#30010;&#30333;&#40165;&#65300;&#65293;&#65303;&#65293;&#65297;&#25276;&#33609;&#22243;&#22320;&#65297;&#65296;&#65303;&#26847;&#65300;&#65296;&#65299; Aichi JP
+	</str>
+
+	<str name="Assignee(s) Address">
+		&#22338;&#26412; &#27888;&#23389; | &#26666;&#24335;&#20250;&#31038;&#12471;&#12496;&#12479; | &#26612;&#30000; &#33459;&#27193;
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

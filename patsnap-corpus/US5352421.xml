@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5352421
+	</str>
+	<str name="Application Number">
+		US07863720
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Method and apparatus for effecting gas-liquid contact
+	</str>
+	<str name="Abstract">
+		Components, usually but not exclusively gaseous components, are removed in a liquid medium from gas streams and chemically converted into an insoluble phase or physically removed. Specifically, hydrogen sulfide may be removed from gas streams by oxidation in aqueous chelated transition metal solution in a modified agitated flotation cell. The same principle may be employed with other procedures in which a gaseous phase is dispersed in a liquid phase to effect an interaction between components present in such phases. A gas-liquid contact apparatus, generally a combined chemical reactor and solid product separation device, comprising such modified agitated flotation cell also is described. In order to effect efficient mass transfer and rapid reaction, gas bubbles containing hydrogen sulfide and oxygen are formed by rotating an impeller at a blade tip velocity of at least about 350 in/sec. to achieve the required shear. To assist in the reaction, a surrounding shroud has a plurality of openings, generally of aspect ratio of approximately 1, of equal diameter and arranged in uniform pattern, such as to provide a gas flow therethrough less than about 0.02 lb/min/opening in the shroud. In general, the gas velocity index of gas through the openings in the shroud is at least about 18 per second per opening, preferably at least about 24 per second per opening. Each of the openings has an area corresponding to an equivalent diameter less than about one inch.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1992-04-03
+	</str>
+	<str name="Application Year">
+		1992
+	</str>
+	<str name="Application(Year/Month)">
+		1992-04
+	</str>
+	<str name="Publication Date">
+		1994-10-04
+	</str>
+	<str name="Publication Year">
+		1994
+	</str>
+	<str name="Publication(Year/Month)">
+		1994-10
+	</str>
+	<str name="All IPC">
+		C01B17/16 | C01B31/20 | C01B17/20 | B05B7/10
+	</str>
+	<str name="IPC Primary">
+		C01B17/16
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C01
+	</str>
+	<str name="IPC Subclass">
+		C01B
+	</str>
+	<str name="IPC Group">
+		C01B17
+	</str>
+	<str name="All UPC">
+		210/758 | 423/220 | 210/221.1 | 422/160 | 423/576.4 | 423/226 | 423/576.6 | 423/576.7 | 423/224 | 210/704 | 261/84
+	</str>
+	<str name="UPC Primary">
+		210/758
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US5352421 | US5366698
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		9
+	</str>
+	<str name="Other References">
+		Chapter entitled &quot;Outokumpu Flotation Machines&quot; by K. Fallenius, in Chapter 29 of Flotation, ed. M. C. Fuerstenau, no date. | AIMM, PE Inc. New York 1976; and Chapter entitled &quot;Flotation Machines and Equipment&quot; in Flotation Agents and Processes, Chemical Technology Review #172, M. M. Ranney, Editor, 1980. | &quot;Development of Self-Inducing Dispenser for Gas/Liquid and Liquid/Liquid Systems&quot; by Koen et al, Processing of the Second European Conference on Mixing, Mar. 30th-Apr. 1st, 1977.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By">
+		US7232476 | US6254771 | US8101070
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US4534952 | US4789469 | US2294827 | US4552747 | US4959183 | US4618427 | US3341450 | US3273865 | US4442083 | US3796628 | US2659691 | US4036942 | US4576708 | US3993563 | US3647069 | US4683062 | US3911093 | US4737272 | US3979282 | US4452766 | US3925230 | US4648973 | US4919914 | US4666611 | US3915391 | US2274658 | US4808385 | US4525338 | CA1212819
+	</str>
+	<str name="Cites Count">
+		29
+	</str>
+	<str name="Priority Country">
+		CA | GB
+	</str>
+	<str name="Priority Number">
+		2004652 | 9002462
+	</str>
+	<str name="Priority Date">
+		1989-12-05 | 1990-05-02
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF TORONTO INNOVATIONS FOUNDATION (TORONTO, CA), APOLLO ENVIRONMENTAL SYSTEMS CORP.
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF TORONTO INNOVATIONS FOUNDATION (TORONTO, CA), APOLLO ENVIRONMENTAL SYSTEMS CORP.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Willowdale, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Willowdale, CA
+	</str>
+	<str name="Inventor(s)">
+		SMITH, JAMES, W. | ELLENOR, DAVID, T., R. | HARBINSON, JOHN, N.
+	</str>
+	<str name="1st Inventor">
+		SMITH, JAMES, W.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Toronto, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Toronto, CA | Scarborough, CA | Aurora, CA
+	</str>
+	<str name="Agent/Attorney">
+		SIM &amp; MCBURNEY
+	</str>
+	<str name="Primary Examiner">
+		STRAUB, GARY P.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

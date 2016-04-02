@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090152348A1
+	</str>
+	<str name="Application Number">
+		US12/074263
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Systems and methods for merchandise automatic checkout
+	</str>
+	<str name="Abstract">
+		Systems and methods for automatically checking out items located on a moving conveyor belt for the purpose of increasing the efficiency of a checkout process and revenue at a point-of-sale. The system includes a conveyor subsystem for moving the items, a housing that enclosed a portion of the conveyor subsystem, a lighting subsystem that illuminates an area within the housing, visual sensors that can take images of the items including UPCs, and a checkout system that receives the images from the visual sensors and automatically identifies the items. The system may include a scale subsystem located under the conveyor subsystem to measure the weights of the items, where the weight of each item is used to check if the corresponding item is identified correctly. The system relies on matching visual features from images stored in a database to match against features extracted from images taken by the visual sensors.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-02-29
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-02
+	</str>
+	<str name="Publication Date">
+		2009-06-18
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		G06K15/00
+	</str>
+	<str name="IPC Primary">
+		G06K15/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K15
+	</str>
+	<str name="All UPC">
+		235/383
+	</str>
+	<str name="UPC Primary">
+		235/383
+	</str>
+	<str name="UPC Class">
+		235
+	</str>
+	<str name="Family Members">
+		US7337960 | US20090152348A1 | US20060261157A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		7426308 | 55451605 | 2005006079 | 2300404 | 54856504 | 62155104
+	</str>
+	<str name="Priority Date">
+		2008-02-29 | 2005-10-25 | 2005-02-28 | 2004-12-27 | 2004-02-27 | 2004-10-22
+	</str>
+	<str name="Inventor(s)">
+		OSTROWSKI JIM | MUNICH MARIO | WISEMAN JOHN
+	</str>
+	<str name="1st Inventor">
+		OSTROWSKI JIM
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		South Pasadena,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		South Pasadena,CA,US | Sierra Madre,CA,US | Los Angeles,CA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20060054191A1
+	</str>
+	<str name="Application Number">
+		US11226640
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Substrate processing apparatus and method of removing particles
+	</str>
+	<str name="Abstract">
+		A liquid within a processing tank is caused to overflow, and the overflowing liquid is circulated by a circulation system. In this process, bubbles are discharged into the liquid within the processing tank. Thus, particles within the processing tank are not only carried along by a flow of the liquid but also attach to the bubbles to be carried with the bubbles outwardly of the processing tank. A dip-type substrate processing apparatus removes the particles within the processing tank in a short time with efficiency.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-09-14
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2006-03-16
+	</str>
+	<str name="Publication Year">
+		2006
+	</str>
+	<str name="Publication(Year/Month)">
+		2006-03
+	</str>
+	<str name="All IPC">
+		B08B3/00
+	</str>
+	<str name="IPC Primary">
+		B08B3/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		134/34
+	</str>
+	<str name="UPC Primary">
+		134/34
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		US20060054191A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		CN101568667B | CN101578688A | CN101578688B | CN101568667A
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		JP2004268006 | JP2004283465 | JP2004331543
+	</str>
+	<str name="Priority Date">
+		2004-09-15 | 2004-09-29 | 2004-11-16
+	</str>
+	<str name="Assignee(s)">
+		DAINIPPON SCREEN MFG., CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		DAINIPPON SCREEN MFG., CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		HIGUCHI AYUMI | ARAI KENICHIRO
+	</str>
+	<str name="1st Inventor">
+		HIGUCHI AYUMI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Kyoto,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kyoto,JP | Kyoto,JP
+	</str>
+	<str name="Agent/Attorney">
+		OSTROLENK FABER GERB &amp; SOFFEN
+	</str>
+	<str name="cited by within 3 years">
+		4
+	</str>
+	<str name="cited by within 5 years">
+		4
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7361263
+	</str>
+	<str name="Application Number">
+		US10724881
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water treatment apparatus and method
+	</str>
+	<str name="Abstract">
+		A water treatment apparatus includes a storage unit storing water to be treated including a pharmaceutical drug, an apply unit applying the water to be treated to the storage unit, an addition unit adding into the water to be treated metal salt generating halide ions when dissolved in the water to be treated, and an energizing unit applying a current to a pair of electrodes immersed in the water to be treated in the storage unit. The pharmacological activity of the pharmaceutical drug is eliminated or reduced by decomposing or altering at least a portion of the chemical structure of the pharmaceutical drug included in the water to be treated through electrolysis.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-12-02
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-12
+	</str>
+	<str name="Publication Date">
+		2008-04-22
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		C02F1/461
+	</str>
+	<str name="IPC Primary">
+		C02F1/461
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		205/688 | 205/742 | 205/687
+	</str>
+	<str name="UPC Primary">
+		205/688
+	</str>
+	<str name="UPC Class">
+		205
+	</str>
+	<str name="Family Members">
+		JP2004181363A | EP1426336A3 | US20040154995A1 | US7361263 | EP1426336A2
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Isao Shibasaki, &quot;Supervision Techniques of Hazardous Microbes vol. 2&quot;, Fuji Techno System, May 2000, pp. 733-738 (Japanese language), pp. 1-6 (English translation). cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6375827 | US5798028 | US6126810 | US5858202 | US6475371 | EP1074515 | EP0849227 | JP1993302706 | JP2001062437 | JP1995313584
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2002351751
+	</str>
+	<str name="Priority Date">
+		2002-12-03
+	</str>
+	<str name="Assignee(s)">
+		SANYO ELECTRIC CO., LTD. (MORIGUCHI-SHI, JP), SCHOOL LEGAL CORPORATION, OSAKA MEDICAL COLLEGE
+	</str>
+	<str name="1st Assignee">
+		SANYO ELECTRIC CO., LTD. (MORIGUCHI-SHI, JP), SCHOOL LEGAL CORPORATION, OSAKA MEDICAL COLLEGE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Takatsuki-Shi, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Takatsuki-Shi, JP
+	</str>
+	<str name="Inventor(s)">
+		HIROSE, JUN | KONDO, FUMITAKE | HIRO, NAOKI | SANO, KOUICHI | NAKANO, TAKASHI | TAKENAKA, HIROSHI | ANDO, YOKO | KOBAYASHI, TOYOHIDE
+	</str>
+	<str name="1st Inventor">
+		HIROSE, JUN
+	</str>
+	<str name="Number of Inventors">
+		8
+	</str>
+	<str name="1st Inventor Address">
+		Hirakata, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Hirakata, JP | Otsu, JP | Osaka, JP | Osaka, JP | Takatsuki, JP | Takatsuki, JP | Takatsuki, JP | Takatsuki, JP
+	</str>
+	<str name="Agent/Attorney">
+		FOLEY &amp; LARDNER LLP
+	</str>
+	<str name="Primary Examiner">
+		PHASGE, ARUN S.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

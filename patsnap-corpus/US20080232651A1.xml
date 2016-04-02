@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080232651A1
+	</str>
+	<str name="Application Number">
+		US12052025
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS AND METHOD FOR DETECTING FACE REGION
+	</str>
+	<str name="Abstract">
+		A face region detecting apparatus includes a face detection and recognition unit for encoding a face image into a face feature code through an internal operation process and storing the face feature code in the form of a database, in which the face image is extracted in a face detection step of extracting a face image from an inputted image material; and a face detection server for transmitting the face feature code through a network, comparing the transmitted face feature code with face feature codes previously stored in a database to determine whether face features are matched, and transmitting a face recognition result to the face detection and recognition unit. Accordingly, a face image of a specific person is converted into a face feature code, whereby the face feature code can be applied to recognize and detect the specific person or to search for only the specific person from a DVR real-time input image or a recorded image screen. Furthermore, an infrared LED and an infrared iris are provided in receiving an external image of a person, thereby making it possible to stably obtain a face image without being affected by uneven brightness distribution or inconsistent external light source environments.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-03-20
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-03
+	</str>
+	<str name="Publication Date">
+		2008-09-25
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118 | 382/224
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP2008259190A | KR100795160B1 | US20080232651A1 | CN101271519A
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		CN101419670B
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Priority Country">
+		KR | KR
+	</str>
+	<str name="Priority Number">
+		1020070028037 | 1020070091033
+	</str>
+	<str name="Priority Date">
+		2007-03-22 | 2007-09-07
+	</str>
+	<str name="Assignee(s)">
+		ARTNIX INC.
+	</str>
+	<str name="1st Assignee">
+		ARTNIX INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Chungcheongnam-do,KR
+	</str>
+	<str name="Assignee(s) Address">
+		Chungcheongnam-do,KR
+	</str>
+	<str name="Inventor(s)">
+		WOO JUNG-SU
+	</str>
+	<str name="1st Inventor">
+		WOO JUNG-SU
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Gyeonggi-do,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Gyeonggi-do,KR
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

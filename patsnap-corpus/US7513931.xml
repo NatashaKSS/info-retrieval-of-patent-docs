@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7513931
+	</str>
+	<str name="Application Number">
+		US11871102
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for recovering platinum group metals, rhenium and gold
+	</str>
+	<str name="Abstract">
+		Processing for the extraction of metals consisting of platinum, palladium, iridium, rhodium, osmium, ruthenium, rhenium and gold (PGMRA) includes dissolution of the PGMRA metals from solid materials in an acidic aqueous solution, preferably with a halogen acid sparged with the corresponding halogen element. The acidic solution is then exposed to extraction material of non-cross-linked polyamine composite resin. The bound metal, following washing of the extraction material is eluted from the resin using stronger acidic processes than that provided in the wash of the resin. Conventional extraction by organic solvents or other known techniques is employed to recover the PGMRA metals. Rhodium is separated from the rest of the PGMRA metals either near the beginning or the end of the process. Rhodium is separated by creating hydroxides with the metals in the solution and then reacidifying the metals such that the rhodium remains as aquochlororhodate complexes. Using the binding process to the extraction material leaves only the aquochlororhodate complexes in solution to be recovered. All of the PGMRA metals may be recovered by conventional means such as organic solvents, reduction or precipitation.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-10-11
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2009-04-07
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		C22B11/00 | C22B11/06
+	</str>
+	<str name="IPC Primary">
+		C22B11/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C22
+	</str>
+	<str name="IPC Subclass">
+		C22B
+	</str>
+	<str name="IPC Group">
+		C22B11
+	</str>
+	<str name="All UPC">
+		210/681 | 75/723
+	</str>
+	<str name="UPC Primary">
+		210/681
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		CA2644083A1 | EP1922422A4 | WO200706113284A3 | US20090158891A1 | EP1922422A2 | US20080110296A1 | US7513931 | WO2006113284A2 | ZA200802446A
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Purity Systems Inc. document(s) made available at the International Precious Metals Institute annual meeting regarding Platinum Group Metals, Gold and Transition Metals during the second week of Jun. 2005. (5 pgs.). cited by other. | &quot;Anabolicminds Archive: Beginners Guide to Soxhlet Extractions.&quot; Submitted Apr. 2003. Downloaded May 21, 2008 from http://www.erowid.org/archive/rhodium/pdf/soxhlet4dummies.pdf. cited by examiner . | Metals Handbook, Desk Edition, Second Edition, J.R. Davis, ASM International, 1998, pp. 213-227. cited by other . | M.S. Alam et al., Hydrometallurgy 49 (1998), pp. 213-227, Cover &amp; pp. 720, 721. cited by other . | C. Anderson, E. Rosenberg, C. K. Hart, L. Ratz, Y. Cao &quot;Single Step Separation and Recovery of Palladium Using Nitrogen Species Catalyzed Pressure Leaching and Silica Polyamine Composites,&quot; Proceedings of the 5.sup.th International Symposium on Hydrometallurgy, 2003, vol. 1 Leaching and Purification, Ed. Courtney Young, TMS, Warendale, PA, p. 393 (12 pgs.). cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cites">
+		US20040118249 | US5238662 | US5120443 | US7163570 | US4623522 | US4980134
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		87110207 | 2006013708 | 67126005
+	</str>
+	<str name="Priority Date">
+		2007-10-11 | 2006-04-12 | 2005-04-13
+	</str>
+	<str name="Assignee(s)">
+		METALS RECOVERY TECHNOLOGY INC.
+	</str>
+	<str name="1st Assignee">
+		METALS RECOVERY TECHNOLOGY INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Anaheim, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Anaheim, CA
+	</str>
+	<str name="Inventor(s)">
+		THOMAS, JOSEPH, L.
+	</str>
+	<str name="1st Inventor">
+		THOMAS, JOSEPH, L.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Yorba, Linda, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Yorba, Linda, CA
+	</str>
+	<str name="Agent/Attorney">
+		CONNOLLY BOVE LODGE &amp; HUTZ LLP
+	</str>
+	<str name="Primary Examiner">
+		KING, ROY
+	</str>
+	<str name="Assistant Examiner">
+		MCGUTHRY-BANKS, TIMA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

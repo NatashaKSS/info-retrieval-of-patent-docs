@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6276379
+	</str>
+	<str name="Application Number">
+		US09321658
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Anti-microbubble deposition apparatus
+	</str>
+	<str name="Abstract">
+		The present invention prevents deposition on product wafers of microbubbles generated from chemical solution circulation systems for wet etching or wet cleaning, or pure water supply systems during manufacturing processes of semiconductors or liquid crystals. A separator is provided on the inner wall of a chemical solution bath for etching or cleaning wafers to cover a process solution nozzle. The separator comprises an upper microbubble discharge tube extending upright for discharging microbubbles and lower outlets for horizontally introducing a process solution into the process bath.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1999-05-28
+	</str>
+	<str name="Application Year">
+		1999
+	</str>
+	<str name="Application(Year/Month)">
+		1999-05
+	</str>
+	<str name="Publication Date">
+		2001-08-21
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-08
+	</str>
+	<str name="All IPC">
+		B08B3/04
+	</str>
+	<str name="IPC Primary">
+		B08B3/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		134/902 | 134/182
+	</str>
+	<str name="UPC Primary">
+		134/902
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		JP1999354478A | US6276379
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8153095 | WO2003052796A2 | US6500274
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US5503171 | US5482068 | JP1993136116
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		10150095
+	</str>
+	<str name="Priority Date">
+		1998-05-29
+	</str>
+	<str name="Assignee(s)">
+		LSI LOGIC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		LSI LOGIC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Milpitas, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Milpitas, CA
+	</str>
+	<str name="Inventor(s)">
+		SETO, HIDEAKI | YAMAMOTO, HARUHIKO | SATO, NOBUYOSHI | SAITO, KYOKO
+	</str>
+	<str name="1st Inventor">
+		SETO, HIDEAKI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Tsukuba, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tsukuba, JP | Tsukuba, JP | Tsukuba, JP | Tsukuba, JP
+	</str>
+	<str name="Agent/Attorney">
+		BEYER WEAVER &amp; THOMAS
+	</str>
+	<str name="Primary Examiner">
+		COE, PHILIP R.
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

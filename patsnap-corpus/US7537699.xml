@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7537699
+	</str>
+	<str name="Application Number">
+		US11/872551
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Methods for reducing biosolids odors
+	</str>
+	<str name="Abstract">
+		A method for reducing the odors of an anaerobically digested dewatered biosolids or other biosolids or sludge may include separating first anaerobically digested dewatered biosolids into first and second portions, storing second anaerobically digested dewatered biosolids, removing a portion of the second biosolids, and mixing the removed second biosolids portion with the first portion of the first biosolids. The method may be implemented in a system including a separation device, first, second and third transporters, a storage area, and a mixer. The separation device may separate the first biosolids into first and second portions. The first transporter may transport the first portion to the mixer. The second transporter may transport the second portion to the storage area. The storage area may store the second portion for a select time period. The third transporter may transport a portion of the stored first biosolids to the mixer for blending.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-10-15
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2009-05-26
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/609 | 210/916
+	</str>
+	<str name="UPC Primary">
+		210/609
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080290024A1 | US7537699
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Chen, et al., &quot;Mechanisms for the Production of Odorous Volatile Aromatic Compounds in Wastewater Biosolids,&quot; WEF/WEAU 18th Annual Residuals and Biosolids Conference and Exhibition, 2004, 14 pages, Water Environment Federation. cited by other | Chen, et al., &quot;Roles of methanogens on volatile organic sulfur compound production in anaerobically digested wastewater biosolids,&quot; Water Science &amp; Technology, 2005, pp. 67-72, vol. No. 1-2, IWA Publishing. cited by other | Hamel, et al., &quot;Part I of Field Research: Impact of Centrifuge Torque and Polymer Dose on Dewatering Performance from Anaerobically Digested Biosolids,&quot; Joint Residuals and Biosolids Management Conference, 2005, 10 pages, Water Environment Federation. cited by other | Higgins, et al., &quot;Effect of Chemical Addition on Production of Volatile Sulfur Compounds and Odor from Anaerobicallly Digested Biosolids,&quot; 2002, 14 pages, Water Environment Federation. cited by other | Higgins, et al., &quot;Mechanisms of Volatile Sulfur Compound and Odor Production in Digested Biosolids,&quot; WEF/AWWA/CWEA Joint Residuals and Biosolids Management Conference and Exhibition 2003, 12 pages, Baltimore, Maryland. cited by other | Higgins, et al., &quot;Part II of Field Research: Impact of Centrifuge Torque and Polymer Dose on Odor Production from Anaerobically Digested Biosolids,&quot; Joint Residuals and Biosolids Management Conference 2005, 16 pages, Water Environment Federation. cited by other | Murthy, et al., &quot;Influence of Solids Characteristics and Dewatering Process on Volatile Sulfur Compound Production from Anaerobically Digested Biosolids,&quot; WEF/AWWA/CWEA Joint Residuals and Biosolids Management Conference and Exhibition 2003, 16 pages, Water Environment Federation. cited by other | Todd Owen Williams, Method for Reducing Biosolids Odors, U.S. Appl. No. 12/327,526, filed on Dec. 3, 2008, (not yet published). cited by other.
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cited By">
+		US8119003
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US3227648 | US3959125 | US4108771 | US4246100 | USR31924 | US4541986 | US4781842 | US5137687 | US5141647 | US5279637 | US5417861 | US5435923 | US5723048 | US5876613 | US5984993 | US6281001 | US6387281 | US6908554 | US7083728 | US7285217 | US20040226891 | US20060070938 | US20070062882 | US20080073266 | WO2000026337
+	</str>
+	<str name="Cites Count">
+		25
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		87255107 | 93928907
+	</str>
+	<str name="Priority Date">
+		2007-10-15 | 2007-05-21
+	</str>
+	<str name="Assignee(s)">
+		CH2M HILL, INC.
+	</str>
+	<str name="1st Assignee">
+		CH2M HILL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Englewood, CO
+	</str>
+	<str name="Assignee(s) Address">
+		Englewood, CO
+	</str>
+	<str name="Inventor(s)">
+		WILLIAMS, TODD, OWEN
+	</str>
+	<str name="1st Inventor">
+		WILLIAMS, TODD, OWEN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Mechanicsville, VA
+	</str>
+	<str name="Inventor(s) Address">
+		Mechanicsville, VA
+	</str>
+	<str name="Agent/Attorney">
+		DORSEY &amp; WHITNEY LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

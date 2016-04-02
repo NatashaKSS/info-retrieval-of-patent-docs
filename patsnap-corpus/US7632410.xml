@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7632410
+	</str>
+	<str name="Application Number">
+		US10924764
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Universal water purification system
+	</str>
+	<str name="Abstract">
+		A method of producing safe drinking water from virtually any water source utilizing a water purification system is disclosed. The method includes a combination of water purification methods with a control system that evaluates water quality and functional processing parameters, such as pressure and flow. The control system determines what water processing methods to utilize and how most efficiently to operate them. The system is capable of treating highly contaminated water to the necessary degree to produce safe drinking water. Furthermore, the system regulates and cleans itself to maintain functionality despite receiving high concentrations of various contaminants from the feed water source.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-08-23
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2009-12-15
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		B01D61/12
+	</str>
+	<str name="IPC Primary">
+		B01D61/12
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/641 | 210/652 | 210/202 | 210/96.2 | 210/806 | 210/637 | 210/143 | 210/87 | 210/900 | 210/85 | 210/739 | 210/760 | 210/259 | 210/192
+	</str>
+	<str name="UPC Primary">
+		210/641
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20050139530A1 | US7632410
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		W. Dickinson Burrows and Jerry A. Valcik, Water Quality Information Paper No. IP-31-014 &quot;Water Purification by Reverse Osmosis,&quot; Water Supply Management Program, U.S. Army Center for Health Promotion and Preventive Medicine, Draft Feb. 11, 1999. cited by other . | Lozier et al., &quot;Evaluation of Bioglogic and Non-Biologic Methods for Assessing Virus Removal by and Integrity of High Pressure Membrane Systems,&quot; American Water Works Association Membrane Technology Conference, 2003. cited by other . | Burrows, et al., MCHB-TS-EWS (40), Medical Issues Information Paper No. 31-018, &quot;Biological Warfare Agents in Drinking Water: Guide for Field Personnal&quot;, Water Supply Management Program, U.S. Army Center for Health Promotion and Preventive Medicine, Oct. 1998, pp. 1-33. cited by other. | U.S. Appl. No. 12/168,886, filed Jul. 7, 2008, Heiss. cited by other . | Technical Bulletin &quot;Sanitary Control and Surveillance of Field Water Supplies,&quot; TB MED 577, NAVMED P-5010-9, Appendix D, AFOSH Standard 48-7, Departments of the Army, Navy and Air Force, Washington, D.C., Feb. 1999. cited by other . | W Dickinson Burrows and Sara E. Renner, MCHB-TS-EWS (40) Medical Issues Information Paper No. IP31-017, &quot;Biological Warfare Agents as Potable Water Threats,&quot; Water Supply Management Program, U.S. Army Center for Health Promotion and Preventive Medicine, Oct. 1998. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cites">
+		US6077435 | US6402954 | US6679988 | US20040007452 | US5611907 | US6663783 | US4169789 | US5788858 | US4872959 | US5589066 | US5741416 | US6398965 | US5972216 | US4772385 | US4361485 | US6866757 | US4680109 | US4702842 | US6328896 | US5547584 | US6651383 | US6613217 | US6936172 | US5494573 | US6074551 | US5496466 | US5385653 | US5266202 | US5897780 | US6797179 | US5725758 | US5244579 | US6673321 | US5422013 | US4391712 | US20050087484 | US6607668 | US6613201 | US6613202 | US6849178 | US20060060532 | US5236595 | US6746593 | US4349431 | US6689271 | US6217773 | US6488835 | US4273660 | US20050230312 | US4563272 | US20050121388 | US5059317 | US5587057 | US5256299 | US5647973 | US20080087603 | US6972077 | US6537456 | US6908546 | US6780292 | US5272091 | US6800206 | US6783687 | US6090294 | US5501798
+	</str>
+	<str name="Cites Count">
+		65
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		92476404 | 49724403
+	</str>
+	<str name="Priority Date">
+		2004-08-23 | 2003-08-21
+	</str>
+	<str name="Inventor(s)">
+		HEISS, CHRISTOPHER
+	</str>
+	<str name="1st Inventor">
+		HEISS, CHRISTOPHER
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Colorado, Springs, CO
+	</str>
+	<str name="Inventor(s) Address">
+		Colorado, Springs, CO
+	</str>
+	<str name="Agent/Attorney">
+		SHERIDAN ROSS P.C.
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

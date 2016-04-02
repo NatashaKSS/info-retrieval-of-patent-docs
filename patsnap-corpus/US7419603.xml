@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7419603
+	</str>
+	<str name="Application Number">
+		US11763190
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water treatment method
+	</str>
+	<str name="Abstract">
+		The present invention provides a physical water treatment (PWT) method and apparatus to treat liquid coolants. Electrodes (22, 24) are provided in a coolant stream (21), and an alternating voltage is applied across the electrodes (22, 24) to produce an electric field through the coolant. The alternating voltage creates an oscillating electric field in the coolant that promotes the collision of dissolved mineral ions. The ions collide to form seed particles that precipitate out of solution. Bulk precipitation of seed particles decreases the availability of ions in solution which can crystallize on heat transfer surfaces. The seed particles adhere to additional ions that separate out of solution and form larger particles that may be removed from the coolant stream (21) using a variety of treatment measures. In addition to precipitating mineral ions, the electric field may be applied to destroy bacteria, algae and microorganisms that accumulate in the coolant stream (21).
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-06-14
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-06
+	</str>
+	<str name="Publication Date">
+		2008-09-02
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		C02F1/48
+	</str>
+	<str name="IPC Primary">
+		C02F1/48
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/787 | 210/737 | 210/738 | 210/748 | 210/764 | 210/714 | 205/751 | 210/712
+	</str>
+	<str name="UPC Primary">
+		210/787
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20070227980A1 | US7244360 | US7419603 | US20040238453A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		10
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7875103
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US7052600 | US6733654 | US5549812 | US6203710 | US5423962 | US5882530 | US5611907 | US4865748 | US3843507 | US4861489 | US7244360 | US3936376 | US4235698 | US5326446 | US4963268 | US5725778
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Priority Country">
+		US | US | US | US
+	</str>
+	<str name="Priority Number">
+		76319007 | 49309404 | 0233955 | 34785301
+	</str>
+	<str name="Priority Date">
+		2007-06-14 | 2004-04-20 | 2002-10-23 | 2001-10-23
+	</str>
+	<str name="Assignee(s)">
+		DREXEL UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		DREXEL UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Philadelphia, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Philadelphia, PA
+	</str>
+	<str name="Inventor(s)">
+		CHO, YOUNG, I.
+	</str>
+	<str name="1st Inventor">
+		CHO, YOUNG, I.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Marlton, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		Marlton, NJ
+	</str>
+	<str name="Agent/Attorney">
+		KNOBLE, YOSHIDA &amp; DUNLEAVY LLC
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

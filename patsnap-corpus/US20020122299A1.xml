@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20020122299A1
+	</str>
+	<str name="Application Number">
+		US09993089
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Medical work station heat dissipating chassis
+	</str>
+	<str name="Abstract">
+		A medical workstation chassis including a first compartment and a second compartment. The first compartment is formed as a monolithic aluminum casting which includes pedestals which mate to heat generating electronic components such as integrated circuits mounted within the first compartment. A plastic thermal barrier is sandwiched between the first compartment and the second compartment to attenuate heat transfer from the chassis to the components, such as a disk drive and battery, housed within the second compartment. A series of heat sink fins are formed along the lateral perimeter of the aluminum casting and are interconnected to the pedestals by a series of large cross section ribs which are also formed as part of the aluminum casting.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-11-06
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-11
+	</str>
+	<str name="Publication Date">
+		2002-09-05
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-09
+	</str>
+	<str name="All IPC">
+		H05K7/20
+	</str>
+	<str name="IPC Primary">
+		H05K7/20
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/704
+	</str>
+	<str name="UPC Primary">
+		361/704
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US20020122299A1 | WO2002039798A8 | WO2002039798A2 | WO2002039798A3 | WO2003039798A9
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		99308901 | 24810200
+	</str>
+	<str name="Priority Date">
+		2001-11-06 | 2000-11-13
+	</str>
+	<str name="Inventor(s)">
+		CLIFFORD KELLY | SCOTT NEWELL
+	</str>
+	<str name="1st Inventor">
+		CLIFFORD KELLY
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Windham,NH,US
+	</str>
+	<str name="Inventor(s) Address">
+		Windham,NH,US | Ipswich,MA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7578968
+	</str>
+	<str name="Application Number">
+		US10138664
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Microbiological control in oil or gas field operations
+	</str>
+	<str name="Abstract">
+		Processes for effecting biocidal activity in subterranean oil and gas wells being drilled, completed, worked over or produced are described. In general the process comprises blending with aqueous well fluid a biocidally-effective amount of a sulfamate stabilized, bromine-based biocide. Compositions comprised of aqueous well fluid blended with such aqueous biocides are also described.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-05-03
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-05
+	</str>
+	<str name="Publication Date">
+		2009-08-25
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-08
+	</str>
+	<str name="All IPC">
+		A01N59/20 | E21B21/06 | E21B43/26 | C09K3/00 | E21B28/00 | B01J19/00 | E21B43/247 | E21B43/16 | C11D3/00 | C02F5/10 | C11D17/00 | C09K13/02
+	</str>
+	<str name="IPC Primary">
+		A01N59/20
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A01
+	</str>
+	<str name="IPC Subclass">
+		A01N
+	</str>
+	<str name="IPC Group">
+		A01N59
+	</str>
+	<str name="All UPC">
+		166/269 | 424/688 | 422/37 | 422/28 | 166/75.12 | 166/177.5 | 166/283 | 510/207 | 510/225 | 166/281 | 510/272 | 166/272.2 | 252/79.5 | 166/308.1 | 166/308.2 | 422/41 | 510/435 | 166/311 | 252/182.16 | 166/310 | 424/723 | 510/339 | 424/633 | 422/1 | 510/252 | 166/271 | 510/212 | 510/233
+	</str>
+	<str name="UPC Primary">
+		166/269
+	</str>
+	<str name="UPC Class">
+		166
+	</str>
+	<str name="Family Members">
+		US7578968
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References">
+		Kim, Yong H., &quot;Evaluation of Redox Potential and Chlorine Residual as a Measure of Water Disinfection&quot;, IWC-93-22, Engineers Society of Western Pennsylvania, Pittsburgh PA, 1993, pp. 108-113. cited by other . | Mitchell, R.W., &quot;The Forties Field Sea-Water Injection System&quot;, Journal of Petroleum Technology, Jun. 1978, pp. 877-884. cited by other. | McCune, Conwell C., &quot;Seawater Injection Experience--An Overview&quot;, Journal of Petroleum Technology, Oct. 1982, pp. 2265-2270. cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By">
+		US8048435 | US8211835 | US8211296 | US8226832
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		US5683654 | US20030188870 | US4951921 | US6192985 | US3326294 | US5202047 | US6342467 | US5389384 | US6015782 | US4935153 | US4465598 | US5054552 | US4340756 | US5104545 | US5527547 | US5464636 | US4701247 | US4822513 | US4507212 | US5047164 | US4995987 | US6270722 | US5759964 | US4653584 | US4620595 | US6156229 | US6007726 | US3767586 | US5795487 | US5942126 | US6287473 | US20050147696 | US5016714 | US6447722 | US3170883 | US6110387 | US5827433 | US3558503 | US6652889 | US6037318 | US6162371 | US4638865 | US6123870 | US6306441 | US6322822 | US5080809 | US6068861 | US6229909 | US5141652 | US5443849 | US5753180 | US6299909 | US4507508 | US6267897 | US4540052 | WO2000034186 | WO2002079105 | WO1999006320 | WO1999032596 | WO1999055627 | WO1990015780
+	</str>
+	<str name="Cites Count">
+		61
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		13866402
+	</str>
+	<str name="Priority Date">
+		2002-05-03
+	</str>
+	<str name="Assignee(s)">
+		ALBEMARLE CORPORATION
+	</str>
+	<str name="1st Assignee">
+		ALBEMARLE CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Richmond, VA
+	</str>
+	<str name="Assignee(s) Address">
+		Richmond, VA
+	</str>
+	<str name="Inventor(s)">
+		NALEPA, CHRISTOPHER, J. | CARPENTER, JOEL, F.
+	</str>
+	<str name="1st Inventor">
+		NALEPA, CHRISTOPHER, J.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Baton, Rouge, LA
+	</str>
+	<str name="Inventor(s) Address">
+		Baton, Rouge, LA | Baton, Rouge, LA
+	</str>
+	<str name="Agent/Attorney">
+		HOEFLING, MARCY M.
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		CHORBAJI, MONZER R
+	</str>
+	<str name="cited by within 3 years">
+		3
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

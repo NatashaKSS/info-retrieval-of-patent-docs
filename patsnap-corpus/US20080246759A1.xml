@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080246759A1
+	</str>
+	<str name="Application Number">
+		US11/816978
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Automatic Scene Modeling for the 3D Camera and 3D Video
+	</str>
+	<str name="Abstract">
+		Single-camera image processing methods are disclosed for 3D navigation within ordinary moving video. Along with color and brightness, XYZ coordinates can be defined for every pixel. The resulting geometric models can be used to obtain measurements from digital images, as an alternative to on-site surveying and equipment such as laser range-finders. Motion parallax is used to separate foreground objects from the background. This provides a convenient method for placing video elements within different backgrounds, for product placement, and for merging video elements with computer-aided design (CAD) models and point clouds from other sources. If home users can save video fly-throughs or specific 3D elements from video, this method provides an opportunity for proactive, branded media sharing. When this image processing is used with a videoconferencing camera, the user's movements can automatically control the viewpoint, creating 3D hologram effects on ordinary televisions and computer screens.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-02-23
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-02
+	</str>
+	<str name="Publication Date">
+		2008-10-09
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		G06T17/00 | G06T17/20 | G06T15/00 | G06T7/20 | G06T5/00 | A63F13/00 | H04N13/02 | H04N5/262
+	</str>
+	<str name="IPC Primary">
+		G06T17/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T17
+	</str>
+	<str name="All UPC">
+		345/420 | 345/158 | 345/419 | 348/14.01 | 348/E7.083 | 382/106 | 382/154 | 348/E07.083
+	</str>
+	<str name="UPC Primary">
+		345/420
+	</str>
+	<str name="UPC Class">
+		345
+	</str>
+	<str name="Family Members">
+		KR1020070119018A | WO2006089417A1 | AU2006217569A1 | US20080246759A1 | CA2599483A1 | EP1851727A1 | CN101208723A | EP1851727A4
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US | CA
+	</str>
+	<str name="Priority Number">
+		65551405 | 81697806 | 2006000265
+	</str>
+	<str name="Priority Date">
+		2005-02-23 | 2006-02-23 | 2006-02-23
+	</str>
+	<str name="Inventor(s)">
+		SUMMERS CRAIG
+	</str>
+	<str name="1st Inventor">
+		SUMMERS CRAIG
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Glen Haven,CA
+	</str>
+	<str name="Inventor(s) Address">
+		Glen Haven,CA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

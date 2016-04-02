@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6077359
+	</str>
+	<str name="Application Number">
+		US09011190
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Procedure and device for the chemical and electrolytic treatment of printed circuit boards and conductor films
+	</str>
+	<str name="Abstract">
+		A method of treatment of printed circuit boards or conductor films with a chemical, electrolytic, or rinsing treatment liquid, and to a device for carrying out the method, where the printed circuit boards or conductor films are transported in a horizontal direction by transport means, In order to accelerate these processes, the surfaces of the printed circuit boards or conductor films must be exposed to a macroflow in order to apply active treatment liquid. Furthermore, the micromaterial exchange into the diffusion layer must be reinforced. This exchange is brought about by the use of hydrodynamically acting cavitation generators, which form cavitation bubbles in the liquid jets. The treatment liquid is set into an eddy current movement in the generators because the treatment liquid is applied at high pressure in a circuit through the nozzles generating the cavitation bubbles, and is conveyed to the surface in a large quantity. The use of the method is particularly effective in processing fine conductor printed circuit boards with fine bores and blind holes.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-05-18
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-05
+	</str>
+	<str name="Publication Date">
+		2000-06-20
+	</str>
+	<str name="Publication Year">
+		2000
+	</str>
+	<str name="Publication(Year/Month)">
+		2000-06
+	</str>
+	<str name="All IPC">
+		B08B3/02 | B08B1/02 | B08B3/04 | C23G3/02
+	</str>
+	<str name="IPC Primary">
+		B08B3/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		134/902 | 134/34 | 134/122R | 134/32 | 134/131 | 134/26 | 134/2
+	</str>
+	<str name="UPC Primary">
+		134/902
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		EP0838134A1 | EP0838134B1 | ES2133976T3 | WO1997002724A1 | JP1999508644A | US6077359 | DE19524523A1 | CA2225829A1 | AT180622T
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US6908515 | US6799588
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US4789405 | GB1475307 | JP1992341590 | DE2433653 | EP0212253 | JP1992341588 | DE3813518 | JP1992341589
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		19524523
+	</str>
+	<str name="Priority Date">
+		1995-07-05
+	</str>
+	<str name="Assignee(s)">
+		ATOTECH DEUTSCHLAND GMBH
+	</str>
+	<str name="1st Assignee">
+		ATOTECH DEUTSCHLAND GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Berlin, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Berlin, DE
+	</str>
+	<str name="Inventor(s)">
+		BARON, DAVID, T. | SCHNEIDER, REINHARD
+	</str>
+	<str name="1st Inventor">
+		BARON, DAVID, T.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		State, College, PA
+	</str>
+	<str name="Inventor(s) Address">
+		State, College, PA | Cadolzburg, DE
+	</str>
+	<str name="Agent/Attorney">
+		PAUL &amp; PAUL
+	</str>
+	<str name="Primary Examiner">
+		EL-ARINI, ZEINAB
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

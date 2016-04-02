@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090097221A1
+	</str>
+	<str name="Application Number">
+		US11907254
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Enhanced cigarette lighter adapter
+	</str>
+	<str name="Abstract">
+		A cigarette lighter adapter (CLA) is disclosed comprising a body and a barrel portion extending therefrom, said barrel portion including a first and second contacts respectively connectable within a vehicle cigarette lighter to be powered therefrom, said CLA being additionally provided with at least one primary electronic circuit within the body thereof, connected directly or indirectly to said contacts, and an output to which a power signal is capable of being delivered. The CLA is characterized in that it includes an antenna component in electrical communication with said primary electronic circuit, the latter delivering at least one of the antenna signal, a electronically processed version thereof, or data derived from the electronic processing thereof, to said output in conjunction with said power signal, the source of which is derived from said contacts or from an alternative power source provided within the body of said CLA, such as an on-board rechargeable battery, said power signal source further providing power to said primary electronic circuit to enable operation thereof. Further features include the provision of one or more secondary electronic circuits within the CLA to provide power management, regulation, control, switching, and/or battery re-charging functions, and the segregation of the primary and secondary electric circuits so as to ensure effective heat dissipation. Most preferably, the CLA is provided with vents adjacent which at least one of the secondary electronic circuits is provided.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-10-10
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2009-04-16
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		H05K5/02 | H02J7/00 | H05K7/02
+	</str>
+	<str name="IPC Primary">
+		H05K5/02
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K5
+	</str>
+	<str name="All UPC">
+		320/103 | 361/807
+	</str>
+	<str name="UPC Primary">
+		320/103
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Members">
+		US20090097221A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		90725407
+	</str>
+	<str name="Priority Date">
+		2007-10-10
+	</str>
+	<str name="Inventor(s)">
+		SAYED ASHLEY | GROENHUIZEN LUCIEN
+	</str>
+	<str name="1st Inventor">
+		SAYED ASHLEY
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		London,GB
+	</str>
+	<str name="Inventor(s) Address">
+		London,GB | Almere,NL
+	</str>
+	<str name="Agent/Attorney">
+		TOMTOM INTERNATIONAL B.V.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

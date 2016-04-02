@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO1997028909A1
+	</str>
+	<str name="Application Number">
+		PCT/US1996/020722
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		CERAMIC MOLD FINISHING
+	</str>
+	<str name="Abstract">
+		A technique for removing loose powder from the interior surfaces of ceramic molds made using layer manufacturing processes, such as three-dimensional printing processes. The interior of a mold is filled with water which is boiled and the particles are entrained in the flow caused by the boiling liquid. In another technique, the mold is immersed in water charged with CO2 and the pressure rapidly dropped to cause the CO2 to come out of solution as bubbles which eject the particles. Alternatively, fine particles are introduced into the mold and the mold is agitated to dislodge the particles and the powder so that they can be poured out of the mold. Such technique tends also to remove the surface finish of the mold. Any of the particles which remain can be dissolved in a liquid and removed in the liquid from the mold. Further, the surface finish of the mold can be improved by casting a slip of fine particles onto the surface to form a generally level, and preferably non-conformal, coating on the surfaces.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-12-20
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-12
+	</str>
+	<str name="Publication Date">
+		1997-08-14
+	</str>
+	<str name="Publication Year">
+		1997
+	</str>
+	<str name="Publication(Year/Month)">
+		1997-08
+	</str>
+	<str name="All IPC">
+		B08B5/04 | B08B3/10 | B08B9/00
+	</str>
+	<str name="IPC Primary">
+		B08B5/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B5
+	</str>
+	<str name="Family Members">
+		WO1997028909A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3479679 | US5071487 | US4931104 | US5268036 | US5332023
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		8/600,215
+	</str>
+	<str name="Priority Date">
+		1996-02-12
+	</str>
+	<str name="Assignee(s)">
+		MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+	</str>
+	<str name="1st Assignee">
+		MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		SACHS, EMANUEL, M.
+	</str>
+	<str name="1st Inventor">
+		SACHS, EMANUEL, M.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7927493
+	</str>
+	<str name="Application Number">
+		US12119175
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Low phosphorus water treatment methods
+	</str>
+	<str name="Abstract">
+		A water or wastewater treatment system to reduce phosphorus or other pollutant concentrations in water or wastewater may include an optional primary treatment stage in fluid communication with a biological secondary treatment stage. The secondary treatment stage may, in turn, be fluidly connected with a tertiary treatment stage, which may include a chemical treatment portion for reducing phosphorus or other pollutants to desired levels. The precipitated phosphorus and other solids or sludge produced from the chemical treatment portion may be recycled upstream for reuse in the primary, secondary, and/or tertiary treatment stages. Such recycle may reduce the amount of added chemicals required in the tertiary treatment stage to phosphorus or other pollutants to desired amounts.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-05-12
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-05
+	</str>
+	<str name="Publication Date">
+		2011-04-19
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/198.1 | 210/207 | 210/723 | 210/906 | 210/209
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Crawford et al., &quot;Membrane Bioreactors--A Designer's Perspective,&quot; Proceedings of the 29.sup.th WEAO Conference and Technical Symposium, Hamilton, Ontario, 2000. cited by other . | Lebeau et al., &quot;Application of Immersed Membrane Microfiltration for NOM Removal,&quot; Paper presented at AWWA Annual Conference &amp; Exhibition, Dallas, Texas, Jun. 21-25, 1998. cited by other. | Kayser et al., &quot;Operational Results of the Wolfsburg Wastewater Treatment Plant,&quot; Wat. Sci. Tech., vol. 25, No. 4-5, pp. 203-209, (1992). cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By">
+		US8105490
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4416779 | US4721569 | US4209396 | US5354471 | US6572771 | US4999111 | US6077430 | US6733662 | US5643453 | US5380438 | US5043072 | US3763038 | USR32429 | US5853589 | US5853588 | US6863818 | US6706185 | US4566986 | US4207397 | US4081365 | US6893567 | US6946073 | US5601719 | US3764524 | US3994802 | US4183809 | US5022993 | US4237002 | US5098567 | US6174442 | US6217768 | US6322701 | US5128040 | US6517723 | US6338799 | US5364534 | US6808629 | US5890454 | US5182021 | US5593592 | US5603833 | US4867883 | US4780208 | US5514278 | US4167479 | US4042493 | US5160043 | US4008161 | US5472472 | US5733456 | US6027649 | US4724085 | US4160724 | US6312599 | US6447687 | US4029575 | US5651891 | US6485645 | US4021347 | US6406629 | US6406628 | US5759401 | US6113788 | US5855793 | US5480548 | CA2314383 | JP1992215892 | JP1999262795 | JP1985038095
+	</str>
+	<str name="Cites Count">
+		69
+	</str>
+	<str name="Assignee(s)">
+		CH2M HILL, INC.
+	</str>
+	<str name="1st Assignee">
+		CH2M HILL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Englewood, CO
+	</str>
+	<str name="Assignee(s) Address">
+		Englewood, CO
+	</str>
+	<str name="Inventor(s)">
+		DAIGGER, GLEN, T.
+	</str>
+	<str name="1st Inventor">
+		DAIGGER, GLEN, T.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Parker, CO
+	</str>
+	<str name="Inventor(s) Address">
+		Parker, CO
+	</str>
+	<str name="Agent/Attorney">
+		DORSEY &amp; WHITNEY LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

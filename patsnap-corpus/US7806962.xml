@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7806962
+	</str>
+	<str name="Application Number">
+		US12193897
+	</str>
+	<str name="Title">
+		Cross-linkable and cross-linked mixed matrix membranes and methods of making the same
+	</str>
+	<str name="Abstract">
+		The present invention is for novel high performance cross-linkable and cross-linked mixed matrix membranes and the use of such membranes for separations such as for CO.sub.2/CH.sub.4, H.sub.2/CH.sub.4 and propylene/propane separations. More specifically, the invention involves the preparation of cross-linkable and cross-linked mixed matrix membranes (MMMs). The cross-linkable MMMs were prepared by incorporating microporous molecular sieves or soluble high surface area microporous polymers (PIMs) as dispersed microporous fillers into a continuous cross-linkable polymer matrix. The cross-linked MMMs were prepared by UV-cross-linking the cross-linkable MMMs containing cross-linkable polymer matrix such as BP-55 polyimide. Pure gas permeation test results demonstrated that both types of MMMs exhibited higher performance for CO.sub.2/CH.sub.4 and H.sub.2/CH.sub.4 separations than those of the corresponding cross-linkable and cross-linked pure polymer matrices.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-08-19
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-08
+	</str>
+	<str name="Publication Date">
+		2010-10-05
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-10
+	</str>
+	<str name="All IPC">
+		B01D53/22
+	</str>
+	<str name="IPC Primary">
+		B01D53/22
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D53
+	</str>
+	<str name="All UPC">
+		96/14 | 210/640 | 96/10 | 96/12 | 96/11 | 95/54 | 95/55 | 95/45 | 55/DIG.5 | 95/51 | 95/50 | 96/8 | 96/4
+	</str>
+	<str name="UPC Primary">
+		96/14
+	</str>
+	<str name="UPC Class">
+		96
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		McKeown et al., Chem. Commun., 2780 (2002). cited by other . | McKeown et al., Chem. Commun., 2782 (2002). cited by other . | Budd et al., J. Mater. Chem., 13: 2721 (2003). cited by other . | Budd et al., Chem. Commun., 230 (2004). cited by other . | McKeown et al., Chem. Eur. J., 11:2610 (2005). cited by other. | Budd et al., Adv. Mater., 16:456 (2004). cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4880442 | US20030089227 | US20050230305 | US6503295 | US5104532 | US20040107830 | US6740143 | US7109140 | US20020062737 | US3567632 | US5507856 | US4705540 | US6818133 | US5538536 | US6585802 | US6726744 | US7138006 | US20050043167 | US7166146 | US5431864 | US4740219 | US6508860 | US4728345 | US6248682 | US20020053284 | US6048388 | US6626980 | US6946015 | US6500233 | US4717393 | US6663805 | US5127925 | US5085676 | US20030140789 | US4968430 | US7025804 | US5447559 | US4230463 | US6755900 | US20060117949 | US5288304 | US20040147796 | US20050139066 | US20030220188 | US20050268782 | US6997971 | US4925459 | US6562110 | US20070022877 | US6863983 | US6579343 | US6932859 | US20060107830 | US6605140 | WO2007007051 | EP11188477
+	</str>
+	<str name="Cites Count">
+		56
+	</str>
+	<str name="Assignee(s)">
+		UOP LLC
+	</str>
+	<str name="1st Assignee">
+		UOP LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Des Plaines, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Des Plaines, IL
+	</str>
+	<str name="Inventor(s)">
+		LIU, CHUNQING | CHIOU, JEFFREY, J. | WILSON, STEPHEN, T.
+	</str>
+	<str name="1st Inventor">
+		LIU, CHUNQING
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Schaumburg, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Schaumburg, IL | Irvine, CA | Libertyville, IL
+	</str>
+	<str name="Agent/Attorney">
+		GOLDBERG, MARK
+	</str>
+	<str name="Primary Examiner">
+		GREENE, JASON M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

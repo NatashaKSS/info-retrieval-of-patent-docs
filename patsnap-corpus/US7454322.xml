@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7454322
+	</str>
+	<str name="Application Number">
+		US10491688
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for modeling hydrocarbon degradation in an oil deposit
+	</str>
+	<str name="Abstract">
+		Method of modeling the biodegradation of hydrocarbons trapped in an oil reservoir or trap through the action of the bacterial population in an underlying aquifer.From data relative to the reservoir studied, concerning the form and the height of the reservoir, the physical characteristics of the porous medium, the thickness of the transition zone between the hydrocarbons and the water, the composition of the hydrocarbons, of the flow of electron acceptors entering the reservoir and data relative to the bacterial population in the aquifer, modeling is performed by discretizing the reservoir by means of a grid wherein the height of each grid cell is the thickness of the transition zone, and the variation, over the height of the reservoir, of the proportion in heavy fractions of hydrocarbons under the effect of the biodegradation is determined by iterative adjustment in each grid cell of the bacterial population to the amount of hydrocarbons available, the pore space available, the amount of electron acceptors present in the reservoir and the degradation capacities of said population.Applications: determination of the composition of oils in a reservoir and notably of the location of the heaviest fractions.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-10-03
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-10
+	</str>
+	<str name="Publication Date">
+		2008-11-18
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		A62D3/00 | C02F3/34 | G06G7/58 | A62D3/02 | B09C1/10 | B09B3/00 | G06G7/48 | G06G7/50 | C09K8/68 | C02F3/00
+	</str>
+	<str name="IPC Primary">
+		A62D3/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A62
+	</str>
+	<str name="IPC Subclass">
+		A62D
+	</str>
+	<str name="IPC Group">
+		A62D3
+	</str>
+	<str name="All UPC">
+		507/201 | 435/281 | 435/262.5 | 703/12 | 703/10 | 703/9 | 703/11 | 435/264 | 507/200 | 435/262
+	</str>
+	<str name="UPC Primary">
+		507/201
+	</str>
+	<str name="UPC Class">
+		507
+	</str>
+	<str name="Family Members">
+		ES2268116T3 | EP1436412B1 | EP1436412A2 | FR2830646B1 | US20050015228A1 | JP2005504977A | US7454322 | WO2003031644A2 | WO2003031644A3 | CA2462079A1 | FR2830646A1
+	</str>
+	<str name="Family Member Count">
+		11
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		G. Lu et al. Natural Attenuation of BTEX Compounds: Model Development and Field-Scale Application vol. 37. No. 5-Ground Water Sep.-Oct. 1999 pp. 707-717. cited by other . | Eganhouse et al. &quot;Processes Affecting the Fate of Monoaromatic Hydrocarbons in an Aquifer Contaminated by Crude Oil&quot;, Environmental Science &amp; Technology, 1996, vol. 30, No. 11, pp. 3304-3312. cited by examiner . | K. Pecher, et al Reductive Dehalogenation of Chlorinated Hydrocarbons during Anaerobic Stabilization of Municiple Wastes, pp. 271-279, 1999. cited by other. | Schaerlaekens et al. &quot;Numerical simulation of transport and sequential biodegration of chlorinated aliphatic hydrocarbons using CHAIN.sub.--2D&quot;, Hydrological Processes, 1999, vol. 13, pp. 2847-2859. cited by examiner . | Delin et al. &quot;Ground Water Contamination by Crude Oil near Bemidji, Minnesota&quot;, Sep. 1998, USGS, 4 pages. cited by examiner . | Carpentier, Bernard. &quot;New Concepts for Biodegration Evaluation in Oil fields, a Combined Geological and Numberical Approach&quot;, Mar. 10-13, 2002. AAPG Annual Meeting, 1 page. cited by examiner . | Essaid et al. &quot;BIOMOC, A Multispecies Solute-Transport Model with Biodegration&quot; 1997, U.S. Geological Survey, Water-Resources Investigations Report 97-4022. 77 pages. cited by examiner . | Larter et al. &quot;Biodegration rates assessed geologically in a heavy oil field, implecations for the deep slow (Largo) biosphere Phenix Goldschimdt&quot; Heavy Oilfield Biosphere, 2000, pp. 1-4. cited by examiner . | I. Cozzarelli, et al &quot;Geochemical heterogeneity of a gasoline-contaminated aquifer&quot;, pp. 261-284, 1995. cited by other . | Lu et al. &quot;Natural Attenuation of BTEX Compounds: Model Development and Field-Scale Application&quot; vol. 37, No. 5, Ground Water Sep.-Oct. 1999 pp. 707-717. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cited By">
+		US7922893
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US20060020438 | US6766817 | US6151566
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0112892
+	</str>
+	<str name="Priority Date">
+		2001-10-05
+	</str>
+	<str name="Assignee(s)">
+		INSTITUT FRANCAIS DU PETROLE
+	</str>
+	<str name="1st Assignee">
+		INSTITUT FRANCAIS DU PETROLE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rueil Malmaison Cedex, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Rueil Malmaison Cedex, FR
+	</str>
+	<str name="Inventor(s)">
+		CARPENTIER, BERNARD | MARTIN, LUDOVIC
+	</str>
+	<str name="1st Inventor">
+		CARPENTIER, BERNARD
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Labbeville, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Labbeville, FR | Bobigny, FR
+	</str>
+	<str name="Agent/Attorney">
+		ANTONELLI, TERRY, STOUT &amp; KRAUS, LLP.
+	</str>
+	<str name="Primary Examiner">
+		SHAH, KAMINI
+	</str>
+	<str name="Assistant Examiner">
+		LO, SUZANNE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

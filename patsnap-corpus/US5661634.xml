@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5661634
+	</str>
+	<str name="Application Number">
+		US08333559
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Information processing system using portable terminal unit and data communication adapter therefor
+	</str>
+	<str name="Abstract">
+		In an information processing system having a portable terminal unit, such as a hand-held computer, driven by a rechargeable battery and a data communication adaptor for enabling communication between the portable terminal unit and a host computer of the system, the terminal unit and the data communication adaptor are designed to minimize the size thereof in the following five ways. First, a memory card holding mechanism for connecting the memory card of the portable terminal unit is provided between a swinging back lid and a recess of the back casing. Second, a normal interface and a high-speed interface are both provided in the portable terminal unit and the the data communication adaptor respectively. Third, an auxiliary connector for an optimal device to extend a function of the portable terminal unit is provided in the opening of the casing of the portable terminal unit movable in three dimensions mounted on a printed circuit board. Fourth, a moisture resistant seal made of rubber or resin is molded integrally onto one of the joining edges of an upper casing and a lower casing. Fifth, an electric power source portion of the data communication adaptor is used not only for charging the battery of the portable terminal unit but also supplying a power adequate for enabling a data transmission operation thereof.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1994-10-31
+	</str>
+	<str name="Application Year">
+		1994
+	</str>
+	<str name="Application(Year/Month)">
+		1994-10
+	</str>
+	<str name="Publication Date">
+		1997-08-26
+	</str>
+	<str name="Publication Year">
+		1997
+	</str>
+	<str name="Publication(Year/Month)">
+		1997-08
+	</str>
+	<str name="All IPC">
+		H05K7/16 | G06F1/16
+	</str>
+	<str name="IPC Primary">
+		H05K7/16
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/737 | 361/726 | 361/684 | 439/73
+	</str>
+	<str name="UPC Primary">
+		361/737
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		DE69432766T2 | DE69432767T2 | US5661634 | DE69432768T2 | DE69432723T2
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5355357 | US4870604 | US5220520 | JP1987267814 | JP1987185293 | JP1987044891 | JP1989211875 | JP1994161601 | JP1993047436
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		5279846 | 5304834 | 5304835 | 5304836 | 5304837
+	</str>
+	<str name="Priority Date">
+		1993-11-09 | 1993-11-09 | 1993-11-09 | 1993-11-09 | 1993-11-09
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		OBATA, TAKAO | KUMAGAI, MITSUAKI | IURA, AKIHIKO | MURATA, AKIO | YAMAMOTO, SHINJI | SATO, MAKOTO | OKAWADO, AKIRA | TSURUMARU, SHINICHIRO | MIYATA, MAKI | KOBAYASHI, TOSHIYUKI | AKASAWA, NOBUAKI | OKANO, MASAHIKO | MIYANAGA, TAKAO
+	</str>
+	<str name="1st Inventor">
+		OBATA, TAKAO
+	</str>
+	<str name="Number of Inventors">
+		13
+	</str>
+	<str name="1st Inventor Address">
+		Inagi, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Inagi, JP | Inagi, JP | Kawasaki, JP | Kawasaki, JP | Kawasaki, JP | Inagi, JP | Inagi, JP | Kawasaki, JP | Yokohama, JP | Inagi, JP | Inagi, JP | Inagi, JP | Inagi, JP
+	</str>
+	<str name="Agent/Attorney">
+		NIKAIDO, MARMELSTEIN, MURRAY &amp; ORAM LLP
+	</str>
+	<str name="Primary Examiner">
+		PICARD, LEO P.
+	</str>
+	<str name="Assistant Examiner">
+		FEILD, LYNN D.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

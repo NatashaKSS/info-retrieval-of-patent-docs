@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7563375
+	</str>
+	<str name="Application Number">
+		US11/748234
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Direct osmosis cleaning
+	</str>
+	<str name="Abstract">
+		A method of cleaning a fouled RO membrane in a module for RO separation, the membrane having feed side and permeate side, the foulant accumulating at the feed side. The cleaning method comprises: feeding concentrated saline solution to the feed side of the RO membrane under the high gauge pressure of the normal RO separation process; feeding dilute saline solution to the permeate side of the RO membrane under higher pressure than the permeate pressure of the normal RO process, so that a net driving differential .DELTA.PN is directed to the feed side, whereby the solvent is being sucked from the permeate side to the feed side, penetrates into the interface between the membrane and the accumulated foulant, and separates the foulant from the membrane surface; and withdrawing the concentrated saline solution together with the separated foulant and the penetrated solvent from the feed side of the RO membrane.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-05-14
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-05
+	</str>
+	<str name="Publication Date">
+		2009-07-21
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-07
+	</str>
+	<str name="All IPC">
+		B01D65/02
+	</str>
+	<str name="IPC Primary">
+		B01D65/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D65
+	</str>
+	<str name="All UPC">
+		210/636 | 210/321.69 | 210/650 | 210/652 | 210/791 | 210/797
+	</str>
+	<str name="UPC Primary">
+		210/636
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		IL157581D0 | ES2288388A1 | ES2288388B1 | AU2003283788A1 | WO2004062774A3 | IL157581A | AU2003283788B2 | US7563375 | US20040134521A1 | WO2004062774A2 | US20070246425A1
+	</str>
+	<str name="Family Member Count">
+		11
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3853756 | US4141825 | US4961851 | US5207916 | US5354466 | US5403479 | US6001254 | US6755970 | EP0595689 | EP0768112 | FR2811315 | JP2000079328
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		IL | IL
+	</str>
+	<str name="Priority Number">
+		153870 | 157581
+	</str>
+	<str name="Priority Date">
+		2003-01-09 | 2003-08-26
+	</str>
+	<str name="Assignee(s)">
+		I.D.E. TECHNOLOGIES LTD.
+	</str>
+	<str name="1st Assignee">
+		I.D.E. TECHNOLOGIES LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kadima, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Kadima, IL
+	</str>
+	<str name="Inventor(s)">
+		LIBERMAN, BORIS
+	</str>
+	<str name="1st Inventor">
+		LIBERMAN, BORIS
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tel, Aviv, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Tel, Aviv, IL
+	</str>
+	<str name="Agent/Attorney">
+		BIRCH, STEWART, KOLASCH &amp; BIRCH LLP
+	</str>
+	<str name="Primary Examiner">
+		KIM, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7655145
+	</str>
+	<str name="Application Number">
+		US11543275
+	</str>
+	<str name="Title">
+		Contaminated water treatment
+	</str>
+	<str name="Abstract">
+		Method and system for processing of a liquid (&quot;contaminant liquid&quot;) containing water and containing urine and/or other contaminants in a two step process. Urine, or a contaminated liquid similar to and/or containing urine and thus having a relatively high salt and urea content is passed through an activated carbon filter to provide a resulting liquid, to remove most of the organic molecules. The resulting liquid is passed through a semipermeable membrane from a membrane first side to a membrane second side, where a fortified drink having a lower water concentration (higher osmotic potential) than the resulting liquid is positioned. Osmotic pressure differential causes the water, but not most of the remaining inorganic (salts) contaminant(s) to pass through the membrane to the fortified drink. Optionally, the resulting liquid is allowed to precipitate additional organic molecules before passage through the membrane.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-09-28
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-09
+	</str>
+	<str name="Publication Date">
+		2010-02-02
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-02
+	</str>
+	<str name="All IPC">
+		B01D61/00 | C02F1/44 | B01D15/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/652 | 210/649 | 210/724 | 210/694
+	</str>
+	<str name="UPC Primary">
+		210/652
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Exploration Systems Architechture Study (ESAS), NASA-TM-2005-214062, Nov. 2005, 234. cited by other . | Beaudry, et al., Direct Osmotic Concentration of Waste Water, Final report, Osmotek, Inc. NASA contract No. NAS2-14069, 1999. cited by other . | Horan, et al., Application of Granular Activated Carbon-Biological Fluidized Bed for the Treatment of Landfill Leachat . . . , Wat. Sci. Tech., 1997, 369-375, 36-No. 2-3, IWAQ. cited by other . | Kliss, Water Regeneration Technologies for Human Space . . . , Proceedings of Conference on Innovative Technologies in the Water Sector, May 15-17, 2006, Rotterdam, Netherlands. cited by other. | Cath, et al., New Concepts and Performance of the Direct Osmotic . . . , Proceedings of 36th International Conference on Environmental Systems, Jul. 17-20, 2006, Norfolk, VA, USA. cited by other . | Gormly, et al., Direct Osmotic Concentration: A Primary Water . . . , Proceedings of the 33rd International Conference on Environmental Systems, Jul. 2003, Vancouver BC, Canada. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5281430 | US20050155939 | US6436282 | US20070181497 | US20040004037 | US6656361 | US6849184
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Assignee(s)">
+		UNITED STATES GOVERNMENT AS REPRESENTED BY THE ADMINISTRATOR OF THE NATIONAL AERONAUTICS &amp; SPACE ADMINISTRATION (NASA)
+	</str>
+	<str name="1st Assignee">
+		UNITED STATES GOVERNMENT AS REPRESENTED BY THE ADMINISTRATOR OF THE NATIONAL AERONAUTICS &amp; SPACE ADMINISTRATION (NASA)
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Washington, DC); N/A
+	</str>
+	<str name="Assignee(s) Address">
+		Washington, DC); N/A
+	</str>
+	<str name="Inventor(s)">
+		GORMLY, SHERWIN, J. | FLYNN, MICHAEL, T.
+	</str>
+	<str name="1st Inventor">
+		GORMLY, SHERWIN, J.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Carson, City, NV
+	</str>
+	<str name="Inventor(s) Address">
+		Carson, City, NV | Corte, Madera, CA
+	</str>
+	<str name="Agent/Attorney">
+		SCHIPPER, JOHN F. PADILLA, ROBERT M.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

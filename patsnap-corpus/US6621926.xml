@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6621926
+	</str>
+	<str name="Application Number">
+		US09498039
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Image retrieval system and method using image histogram
+	</str>
+	<str name="Abstract">
+		An image retrieval system and method using an image histogram for determining central points and dispersion values as well as quantity information of color about respective histogram bins, thereby using these as mapping information for image retrieval. The image retrieval method using an image histogram includes the following steps. A first step of computing an image histogram bin when an image is inputted, and accumulating values of x, y, x.sup.2, y.sup.2 to compute central points and dispersion values. A second step of normalizing the respective central points and dispersion values through dividing these by size of whole image, and storing these. A third step of generating a value of model to be retrieved by drawing a feature vector when a query image is inputted, and computing the difference between the generated value of model and central points and dispersion values of an image histogram, count, and number of corresponding bins within the data stored in the second step. A fourth step of specifying a similarity value of an image using the values computed in the third step.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-02-04
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-02
+	</str>
+	<str name="Publication Date">
+		2003-09-16
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-09
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/168 | 382/305
+	</str>
+	<str name="UPC Primary">
+		382/168
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		KR1020010055492A | US6621926
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		8
+	</str>
+	<str name="Other References">
+		W. Niblack et al., &quot;The QBIC Project: Querying Images by Content Using Color, Texture, and Shape&quot;, IBM Research Division, SPIE, vol. 1908, pp. 173-187, 1993. | John R. Smith et al., &quot;Tools and Techniques for Color Image Retrieval&quot;, IS&amp;T/SPIE Proceedings, vol. 2670, Storage &amp; Retrieval for Image and Video Databases IV, pp. 1-12, Feb. 1, 1996. | Zhang et al. &quot;Comparison and Improvement of Color-Based Image Retrieval Techniques&quot;. SPIE V. 3312, p. 371-382, 1997.* | James Ze Wang et al., &quot;Wavelet-Based Image Indexing Techniques with Partial Sketch Retrieval Capability&quot;, Proceeding on the Fourth Forum on Research and Technology Advances in Digital Libraries, pp. 1-12, May 1997. | Rickman et al. &quot;Content-Based Image Retrieval Using Colour Tuple Histograms&quot;. SPIE V. 2670, p. 2-7, 1996.* | Smith et al. &quot;Single Color Extraction and Image Query&quot;. Proc. of International Conference on Image Processing, V. 3, p. 528-531, 1995.*
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By">
+		US8340474 | US7191103 | US8013866 | US7747066 | US7454058 | US7502780 | US7376263 | US6999636
+	</str>
+	<str name="Cited By Count">
+		8
+	</str>
+	<str name="Cites">
+		US6163622 | KR0053072
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		199956707
+	</str>
+	<str name="Priority Date">
+		1999-12-10
+	</str>
+	<str name="Assignee(s)">
+		ELECTRONICS &amp; TELECOMMUNICATIONS RESEARCH INSTITUTE
+	</str>
+	<str name="1st Assignee">
+		ELECTRONICS &amp; TELECOMMUNICATIONS RESEARCH INSTITUTE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Taejon, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Taejon, KR
+	</str>
+	<str name="Inventor(s)">
+		YOON, HO, SUB | SOH, JUNG | MIN, BYUNG, WOO | YANG, YOUNG, KYU
+	</str>
+	<str name="1st Inventor">
+		YOON, HO, SUB
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Taejon, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Taejon, KR | Taejon, KR | Taejon, KR | Taejon, KR
+	</str>
+	<str name="Agent/Attorney">
+		SEED IP LAW GROUP PLLC
+	</str>
+	<str name="Primary Examiner">
+		AU, AMELIA M.
+	</str>
+	<str name="Assistant Examiner">
+		LAROSE, COLIN
+	</str>
+	<str name="cited by within 3 years">
+		3
+	</str>
+	<str name="cited by within 5 years">
+		4
+	</str>
+</doc>
+

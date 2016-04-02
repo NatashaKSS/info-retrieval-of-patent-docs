@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7615155
+	</str>
+	<str name="Application Number">
+		US12185692
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Methods for removal of non-digestible matter from an upflow anaerobic digester
+	</str>
+	<str name="Abstract">
+		Methods for steady state operation of an upflow anaerobic digester using organic matter that contains a portion of solid, non-digestible matter include (1) providing an upflow anaerobic digester, (2) providing a bacterial culture in the upflow anaerobic digester for the breakdown of organic matter, (3) introducing an influent into the upflow anaerobic digester, wherein the influent comprises a biodegradable component, a liquid component, and an amount of solid non-digestible matter, (4) operating the upflow anaerobic digester in a steady-state, (5) accumulating the solid, non-digestible matter in the upflow anaerobic digester, (6) and removing a portion of the accumulated solid, non-digestible matter from the upflow anaerobic digester through the bottom of the upflow anaerobic digester while maintaining steady-state operation of the upflow anaerobic digester. Steady-state operation of the upflow anaerobic digester is maintained by selecting a percentage of the total volume of the liquid and material that are flushed from the digester for a given period of time so as to preserve the steady-state of the bacterial culture.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-08-04
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-08
+	</str>
+	<str name="Publication Date">
+		2009-11-10
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		C02F11/04 | C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F11/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F11
+	</str>
+	<str name="All UPC">
+		210/603 | 210/616
+	</str>
+	<str name="UPC Primary">
+		210/603
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7615155
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4302329 | US2889929 | US4350588 | US7452467 | US6063273 | US4208279 | US7290669 | US6911149 | US6592751
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		18569208
+	</str>
+	<str name="Priority Date">
+		2008-08-04
+	</str>
+	<str name="Assignee(s)">
+		UTAH STATE UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		UTAH STATE UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Logan, UT
+	</str>
+	<str name="Assignee(s) Address">
+		Logan, UT
+	</str>
+	<str name="Inventor(s)">
+		HANSEN, CONLY, L. | HANSEN, CARL, S. | WATTS, EDWARD, D. | PACK, KEVIN, D. | DUSTIN, JACOB, SHAUN
+	</str>
+	<str name="1st Inventor">
+		HANSEN, CONLY, L.
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		North, Logan, UT
+	</str>
+	<str name="Inventor(s) Address">
+		North, Logan, UT | Garland, UT | North, Logan, UT | North, Logan, UT | Logan, UT
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

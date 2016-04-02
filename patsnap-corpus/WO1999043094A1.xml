@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO1999043094A1
+	</str>
+	<str name="Application Number">
+		PCT/US1999/003503
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		EXTERNAL BATTERY ASSEMBLY FOR PORTABLE PHONE
+	</str>
+	<str name="Abstract">
+		An external battery unit (12) is releasably attachable to a portable phone unit (10) by means of a hook (24) and latch (40) assembly. The portable phone casing (14) has a plurality of contacts (32) on an outer face for electrical contact with battery contacts (22) on a lower face of the external battery housing when the units are secured together. One or more hooks (24) project from the lower face of the housing to engage in corresponding depressions (34) on the outer face of the phone unit, and a spring loaded latch member (40) spaced from the hooks is in snap engagement with a corresponding latch indent (50) on the phone unit. The latching force is directed normal to the outer face of the phone unit. An internal battery continues to provide power to the phone unit where a depleted external battery is swapped out for a fresh external battery.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		1999-02-18
+	</str>
+	<str name="Application Year">
+		1999
+	</str>
+	<str name="Application(Year/Month)">
+		1999-02
+	</str>
+	<str name="Publication Date">
+		1999-08-26
+	</str>
+	<str name="Publication Year">
+		1999
+	</str>
+	<str name="Publication(Year/Month)">
+		1999-08
+	</str>
+	<str name="All IPC">
+		H04M1/72 | H04B1/38
+	</str>
+	<str name="IPC Primary">
+		H04M1/72
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04M
+	</str>
+	<str name="IPC Group">
+		H04M1
+	</str>
+	<str name="Family Members">
+		WO1999043094A1 | AU3299799A | ZA9901318A
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		GB2421126A | GB2403071B | GB2403071A | WO2001022696A1
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		WO1992022146A1 | US5317247 | US5308716 | EP0688082A1
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		09/027,353
+	</str>
+	<str name="Priority Date">
+		1998-02-20
+	</str>
+	<str name="Assignee(s)">
+		QUALCOMM INCORPORATED
+	</str>
+	<str name="1st Assignee">
+		QUALCOMM INCORPORATED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		CHOW, MARLAND
+	</str>
+	<str name="1st Inventor">
+		CHOW, MARLAND
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

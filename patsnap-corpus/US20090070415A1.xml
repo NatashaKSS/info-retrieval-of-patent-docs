@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090070415A1
+	</str>
+	<str name="Application Number">
+		US12210511
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		ARCHITECTURE FOR MIXED MEDIA REALITY RETRIEVAL OF LOCATIONS AND REGISTRATION OF IMAGES
+	</str>
+	<str name="Abstract">
+		A MMR system for publishing comprises a plurality of mobile devices, an MMR gateway, an MMR matching unit and an MMR publisher. The mobile devices send retrieval requests including image queries and other contextual information. The MMR gateway processes the retrieval request from the mobile devices and then generates an image query that is passed on to the MMR matching unit. The MMR matching unit receives an image query from the MMR gateway and sends it to one or more of the recognition units to identify a result including a document, the page and the location on the page. The MMR matching unit includes an image registration unit that receives new content from the MMR publisher and updates the index table of the MMR matching unit. A method for automatically registering images and other data with the MMR matching unit, a method for dynamic load balancing and a method for image-feature-based queue ordering are also included.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-09-15
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-09
+	</str>
+	<str name="Publication Date">
+		2009-03-12
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		G06F7/06 | G06F15/16 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F7/06
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		709/203 | 707/E17.014 | 707/3
+	</str>
+	<str name="UPC Primary">
+		709/203
+	</str>
+	<str name="UPC Class">
+		709
+	</str>
+	<str name="Family Members">
+		US20090070415A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		21051108 | 46101706 | 46127906 | 46128606 | 46129406 | 46130006 | 46112606 | 46114306 | 46126806 | 46127206 | 46106406 | 46107506 | 46109006 | 46103706 | 46108506 | 46109106 | 46109506 | 46641406 | 46114706 | 46116406 | 46102406 | 46103206 | 46104906 | 46110906 | 82753007 | 6019408 | 5958308 | 6019808 | 6020008 | 6020608 | 12127508 | 77651007 | 77652007 | 77653007 | 77714207 | 62446607
+	</str>
+	<str name="Priority Date">
+		2008-09-15 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-08-22 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2006-07-31 | 2007-07-11 | 2008-03-31 | 2008-03-31 | 2008-03-31 | 2008-03-31 | 2008-03-31 | 2008-05-15 | 2007-07-11 | 2007-07-11 | 2007-07-11 | 2007-07-12 | 2007-01-18
+	</str>
+	<str name="Inventor(s)">
+		KISHI HIDENOBU | TAKAHASHI SADAO | FURUKAWA TAKAHIRO | EROL BERNA | HULL JONATHAN J. | MORALEDA JORGE | GRAHAM JAMEY
+	</str>
+	<str name="1st Inventor">
+		KISHI HIDENOBU
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Cupertino,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Cupertino,CA,US | Kanagawa,JP | Kanagawa,JP | San Jose,CA,US | San Carlos,CA,US | Menlo Park,CA,US | San Jose,CA,US
+	</str>
+	<str name="Agent/Attorney">
+		RICOH/FENWICK
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

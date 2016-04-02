@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7959011
+	</str>
+	<str name="Application Number">
+		US10575268
+	</str>
+	<str name="Title">
+		Ceramic flexible membrane providing improved adhesion to the support fleece
+	</str>
+	<str name="Abstract">
+		The present invention relates to flexible ceramic membranes which, depending on embodiment, are useful as separators for batteries, especially lithium batteries, and also a process for their production. Ceramic or hybridic membranes have the disadvantage that, whatever the level of flexibility already achieved, they tend to crumble off the ceramic coating on bending. This is prevented by the present membranes, which comprise, on and in a polymeric nonwoven, a solidified ceramic coating which is constructed from two fractions of metal oxide particles of different size and which adheres to the polymeric nonwoven through a network constructed by two different adhesion promoters.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-08-19
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2011-06-14
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+	<str name="All IPC">
+		B01D61/00 | B29C44/04 | B01D39/14 | B01D39/00 | B01D29/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		55/523 | 429/144 | 264/42 | 427/276 | 210/500.25 | 427/372.2 | 210/490 | 429/129 | 264/45.1 | 428/432 | 55/524
+	</str>
+	<str name="UPC Primary">
+		55/523
+	</str>
+	<str name="UPC Class">
+		55
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		U.S. Appl. No. 10/588,952, filed Aug. 10, 2006, Nun, et al. cited by other . | U.S. Appl. No. 11/917,914, filed Dec. 18, 2007, Holzapfel, et al. cited by other . | U.S. Appl. No. 10/575,734, filed Apr. 13, 2006, Hoerpel, et al. cited by other . | U.S. Appl. No. 10/575,759, filed Apr. 13, 2006, Hennige, et al. cited by other . | Washburn, Edward W., &quot;Note on a Method of Determining the Distribution of Pore Sizes in a Porous Material&quot;, Physics, vol. 7, pp. 115-116, 1921. cited by other . | Meffert, A. et al., &quot;Schnellmethode zur Bestimmung der Oberflaechengrosse feinteiliger Stoffe&quot;, pp. 187-193, 1967. (with English Translation). cited by other . | U.S. Appl. No. 11/578,664, filed Oct. 18, 2006, Hoerpel, et al. cited by other . | US. Appl. No. 10/519,097, filed Dec. 27, 2004, Hennige et al. cited by other . | U.S. Appl. No. 10/575,274, Apr. 11, 2006, Hennige, et al. cited by other . | U.S. Appl. No. 11/572,548, filed Jan. 23, 2007, Nun, et al. cited by other . | U.S. Appl. No. 12/063,626, filed Feb. 12, 2008, Hying, et al. cited by other . | U.S. Appl. No. 12/388,671, Feb. 19, 2009, Hennige, et al. cited by other. | Knittel, D. et al., &quot;Untersuchungen Zur Permanenten Oleophobausruestung--Reaktive fluorierte Verbindungen&quot;, Textilveredlung, pp. 362-363, 1998. cited by other .
+	</str>
+	<str name="Other References Count">
+		13
+	</str>
+	<str name="Cited By">
+		US8142920
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US20060222815 | US7504468 | US6830816 | US6299668 | US20060128239 | US20080274394 | US20060049376 | US20050031942 | US20060024569 | US20080190841 | US6299778 | US20080032197 | US5605628 | US20040262169 | US20050221165 | US6309545 | US20050084761 | US7183370 | US6626987 | US20050221192 | US7575832 | US7083828 | US6620320 | US20050255769 | US20040154106 | US6383386 | US20060046138 | US20080245735 | US20060156475 | US20020039648 | US20040028913 | US20050103457 | US6340379 | US20060141223 | US7525788 | US20050070193 | US20050087491 | US6841075 | US20040038105 | US20060078791 | US7538827 | US20020023419 | WO1999062624 | WO2003073534 | WO1999015262 | CA2477062 | DE10208277
+	</str>
+	<str name="Cites Count">
+		47
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		10347569
+	</str>
+	<str name="Priority Date">
+		2003-10-14
+	</str>
+	<str name="Assignee(s)">
+		EVONIK DEGUSSA GMBH
+	</str>
+	<str name="1st Assignee">
+		EVONIK DEGUSSA GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Essen, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Essen, DE
+	</str>
+	<str name="Inventor(s)">
+		HENNIGE, VOLKER | HYING, CHRISTIAN | HOERPEL, GERHARD
+	</str>
+	<str name="1st Inventor">
+		HENNIGE, VOLKER
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Duelmen, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Duelmen, DE | Rhede, DE | Nottuln, DE
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEUSTADT, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

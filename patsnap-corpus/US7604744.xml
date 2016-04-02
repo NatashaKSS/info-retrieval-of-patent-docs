@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7604744
+	</str>
+	<str name="Application Number">
+		US12134778
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System and method for processing organic waste material
+	</str>
+	<str name="Abstract">
+		A method is provided for maintaining a biomass disposed on a substrate in a bioreactor tank. The bioreactor tank has an inlet and an outlet in fluid communication with a waste treatment system whereby an influent fluid may be selectively introduced through the inlet into the bioreactor tank for removal of waste material therefrom. This produces an effluent fluid which can be returned through the outlet to the waste treatment system. The method comprises processing a quantity of influent fluid through the bioreactor tank to produce a quantity of effluent fluid and removing the effluent fluid from the bioreactor tank through the outlet. The method further comprises isolating the bioreactor tank from the waste treatment system and establishing a set of dry cycle conditions in the bioreactor tank. The dry cycle conditions are selected to effect endogenous growth within at least a portion of the biomass whereby an average age of the at least a portion of the biomass may be tailored. The method also comprises restoring the bioreactor tank connection to the waste treatment system.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-06-06
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-06
+	</str>
+	<str name="Publication Date">
+		2009-10-20
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/609 | 210/252
+	</str>
+	<str name="UPC Primary">
+		210/609
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		CA2632606A1 | WO200807076187A3 | US7604744 | US20080257809A1 | EP1954806A2 | CN101405388A | US20060096916A1 | US7387733 | WO2007076187A2 | MX2008007188A
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3997437 | US6383389 | US6830690 | US20020096472 | US5582732 | US5352357
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		13477808 | 29477705 | 73551603
+	</str>
+	<str name="Priority Date">
+		2008-06-06 | 2005-12-06 | 2003-12-11
+	</str>
+	<str name="Assignee(s)">
+		BASWOOD, INC.
+	</str>
+	<str name="1st Assignee">
+		BASWOOD, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Atlanta, GA
+	</str>
+	<str name="Assignee(s) Address">
+		Atlanta, GA
+	</str>
+	<str name="Inventor(s)">
+		BASKIS, PAUL, THOMAS | ATKINSON, KEITH | CAMANSE, WINDELL | NEUSTEDTER, GLEN | MULLINIX, F., DAVID
+	</str>
+	<str name="1st Inventor">
+		BASKIS, PAUL, THOMAS
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Rantoul, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Rantoul, IL | Norcross, GA | Lexington, KY | Lake, St., Louis, MO | Rantoul, IL
+	</str>
+	<str name="Agent/Attorney">
+		HUNTON &amp; WILLIAMS LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

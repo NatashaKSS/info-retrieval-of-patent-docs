@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7544296
+	</str>
+	<str name="Application Number">
+		US10/748962
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for separation of milk, colostrum, and whey
+	</str>
+	<str name="Abstract">
+		Apparatus and method for separation of milk and milk products, e.g., involving sequential separation of milk, clostrum, and whey components by cross-flow filtration. The apparatus and method in a preferred aspect employ cross-flow filtration, chromatography and fermentation to separate and fully utilize the components of milk, clostrum, and whey to generate numerous individual components, minimize waste, lower adverse environmental issues and provide enhanced economic benefits to dairy producers. A wide variety of consumer and nutraceutical products can be produced from the fractions and/or sub-fractions of milk products obtained from such separation. The invention further contemplates a methodology for selecting optimum membrane, device, and operating conditions to achieve a desired separation.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-12-29
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-12
+	</str>
+	<str name="Publication Date">
+		2009-06-09
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		A61M1/16 | A23C9/154 | A23J1/09
+	</str>
+	<str name="IPC Primary">
+		A61M1/16
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61M
+	</str>
+	<str name="IPC Group">
+		A61M1
+	</str>
+	<str name="All UPC">
+		210/257.2 | 210/195.2 | 210/641 | 210/651 | 426/490 | 426/580
+	</str>
+	<str name="UPC Primary">
+		210/257.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7544296 | EP1424906A4 | US20030059512A1 | US20040139864A1 | US20040142068A1 | US20040142086A1 | CA2457763A1 | EP1424906A1 | WO2003022063A1 | US6852352 | US6827960 | US20050053707A1 | US6875459 | AU2002333525B2 | NZ531523A
+	</str>
+	<str name="Family Member Count">
+		15
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Mulder, M. (1991) Basic Principles of Membrane Technology, Kluwer Academic Pub. Dordrecht, The Netherlands, 1991, pp. 318-325, 328-329 and 334-335. cited by other | Glover, F.A., Ultrafiltration and reverse osmosis for the dairy industry, Reading, England 1985, pp. 16-17, 28-29, 46-47 and 60-61. cited by other | Maubois J. and Oliverier G., Milk Protein Fractionation, New Applications of Membrane Processes, International Dairy Federation special Issue No. 9201, 1991 pp. 15-22. cited by other | Sarney, D.B., A Novel Approach to the Recovery of Biologically Active Oligosaccharide from Milk using a Combination of Enzymatic Treatment and Nanofiltration, Biotechnology and Bioengineering, V. 69 (4), Aug. 20, 2000, pp. 461-467. cited by other | Huffman LM and Harper WJ, Maximizing the Value of Milk Through Separation Technologies, Symposium: Marketing Dairy Value through Technology, Journal of Dairy Science, V 82, pp. 2238-2244 1999. cited by other | Maynard, F., Preparation de lactoferrine et d' alpha lactalbumine humaines par utilization de techniques a membranes Le Lait (1989) V. 69, pp. 59-69. cited by other | Novak, A. Milk Protein Concentrate, New Applications of Membrane Processes, International Dairy Federation special Issue No. 9201, 1991 pp. 51-66. cited by other | Jelen, P., Pressured driven membrane Processes: Principles and Definitions, New Applications of Membrane Processes, International Dairy Federation special Issue No. 9201, 1991 pp. 7-14. cited by other | Mistry, VV and Hassan HN, High Protein Lactose Free Milk Powders, Production and Composition, ADSA Annual Meeting, JDS vol. 73, Suppl 1D 134 , p. 113 (1990). cited by other | Maubois JL, Applications of membrane techniques in the Dairy Industry-Proposals for a new IDF group of Experts, Bulletin of IDF No. 244, pp. 26-29, 1989. cited by other | Jensen et al. Functionality and application of dairy ingredients in dairy products, Food Technology V 41 p. 66, 1989. cited by other | Hurwitz, MF and Brantley, JD, Shear separation: A promising method of protein fractionation, Lait vol. 80, pp. 121-127, 2000. cited by other.
+	</str>
+	<str name="Other References Count">
+		12
+	</str>
+	<str name="Cites">
+		US4042576 | US4876100 | US4897465 | US4970989 | US5118516 | US5356651 | US5401523 | US5679780 | US6139746 | US6288222 | US6326044 | US6426109 | US6596172 | US6652900 | US6737096 | US6824809 | US6827960 | US6852352 | US6875459 | US6946075 | US7214319 | EP0604684 | NZ226344 | NZ241741 | NZ240725
+	</str>
+	<str name="Cites Count">
+		25
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		74896203 | 95009601
+	</str>
+	<str name="Priority Date">
+		2003-12-29 | 2001-09-10
+	</str>
+	<str name="Assignee(s)">
+		NCSRT, INC.
+	</str>
+	<str name="1st Assignee">
+		NCSRT, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Apex, NC
+	</str>
+	<str name="Assignee(s) Address">
+		Apex, NC
+	</str>
+	<str name="Inventor(s)">
+		KOPF, HENRY, B. | KOPF, III, HENRY
+	</str>
+	<str name="1st Inventor">
+		KOPF, HENRY, B.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Cary, NC
+	</str>
+	<str name="Inventor(s) Address">
+		Cary, NC | Cary, NC
+	</str>
+	<str name="Agent/Attorney">
+		FUIERER, MARIANNE MOORE &amp; VAN ALLEN PLLC
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7445927
+	</str>
+	<str name="Application Number">
+		US10943653
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Bioreactor system for biological degradation of oily sludge
+	</str>
+	<str name="Abstract">
+		A 10,000 gallon sequencing batch reactor tank for the on-site bio-degradation of oily sludge. Bacteria already present in and adapted to oily sludge degrade the hydrocarbons found in oily sludge within two weeks from 20,000 ppm to less than 100 ppm. A degradation cycle requires 5 days. After five days a recirculation pump and aeration system are turned off and solids are allowed to settle to the bottom of the tank. An ultrafiltration unit connected to the tank requires approximately 16 hours to process the contents of the reactor tank.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-09-03
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-09
+	</str>
+	<str name="Publication Date">
+		2008-11-04
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		A62D3/00 | C02F3/34 | C05D9/02 | C12M1/00 | C12M3/00
+	</str>
+	<str name="IPC Primary">
+		A62D3/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A62
+	</str>
+	<str name="IPC Subclass">
+		A62D
+	</str>
+	<str name="IPC Group">
+		A62D3
+	</str>
+	<str name="All UPC">
+		435/290.1 | 435/286.5 | 435/266 | 71/31 | 435/298.1 | 435/290.4 | 435/262.5 | 435/289.1 | 435/297.2 | 71/64.08 | 435/262 | 71/11
+	</str>
+	<str name="UPC Primary">
+		435/290.1
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		US20060051856A1 | US7439054 | US7445927 | US20080264856A1 | US7537926
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8236554 | US7537926
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US6464875 | US20020079266 | US5635394 | US4723968 | GB2320492
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		94365304
+	</str>
+	<str name="Priority Date">
+		2004-09-03
+	</str>
+	<str name="Assignee(s)">
+		THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRETARY OF THE NAVY
+	</str>
+	<str name="1st Assignee">
+		THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRETARY OF THE NAVY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Washington, DC
+	</str>
+	<str name="Assignee(s) Address">
+		Washington, DC
+	</str>
+	<str name="Inventor(s)">
+		MAGA, GERARDO, F. | GOETZ, FREDERICK, E.
+	</str>
+	<str name="1st Inventor">
+		MAGA, GERARDO, F.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Thosand, Oaks, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Thosand, Oaks, CA | Oxnard, CA
+	</str>
+	<str name="Agent/Attorney">
+		KALMBAUGH, DAVID S.
+	</str>
+	<str name="Primary Examiner">
+		BEISNER, WILLIAM H
+	</str>
+	<str name="Assistant Examiner">
+		BOWERS, NATHAN A
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

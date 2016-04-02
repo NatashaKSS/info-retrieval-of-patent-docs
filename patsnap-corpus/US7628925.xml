@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7628925
+	</str>
+	<str name="Application Number">
+		US10563470
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of dewatering sludge and the sludge thus dewatered
+	</str>
+	<str name="Abstract">
+		The invention concerns a method for dehydrating sludge, comprising adding a basic agent to sludge having a pH not more than 8, adding to the sludge at least one organic flocculating constituent, by adding said basic agent, increasing the sludge pH to a value not more than a pH at which occurs degradation of said at least one organic constituent, flocculating the sludge and separating in the flocculated sludge dehydrated sludge from a liquid phase, said basic agent being a magnesian limestone compound of formula xCaCO.sub.3,(1-x)[yMg(OH).sub.2+(1-Y) MgO], wherein 0,45:=x=0,75, and 0=y=, the treated sludge having, until after said separation, said value less than a pH at which occurs degradation of said at least one organic constituent.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-07-08
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-07
+	</str>
+	<str name="Publication Date">
+		2009-12-08
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		C02F11/14
+	</str>
+	<str name="IPC Primary">
+		C02F11/14
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F11
+	</str>
+	<str name="All UPC">
+		210/769 | 210/727 | 210/725 | 210/710
+	</str>
+	<str name="UPC Primary">
+		210/769
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1651577A1 | US20060144799A1 | US7628925 | WO2005014495A1 | CN100420644C | CN1823017A | RU2006103989A | BRPI0412514A | BE1015602A3 | RU2326057C2
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		PCT/EP2004/051422 International Search Report, dated Nov. 8, 2004. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US8147703
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5217624 | US4675114 | US4028238 | US5705073 | US3527702 | DE3643205 | JP1984046198 | GB2134508 | JP1990063600 | EP0408545
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		BE
+	</str>
+	<str name="Priority Number">
+		2003/0401
+	</str>
+	<str name="Priority Date">
+		2003-07-11
+	</str>
+	<str name="Assignee(s)">
+		S.A LHOIST RECHERCHE ET DEVELOPPEMENT
+	</str>
+	<str name="1st Assignee">
+		S.A LHOIST RECHERCHE ET DEVELOPPEMENT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Limelette, BE
+	</str>
+	<str name="Assignee(s) Address">
+		Limelette, BE
+	</str>
+	<str name="Inventor(s)">
+		REMY, MARC | JUDENNE, ERIC | ROHMANN, MATTHIAS
+	</str>
+	<str name="1st Inventor">
+		REMY, MARC
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Nil-Saint-Martin, BE
+	</str>
+	<str name="Inventor(s) Address">
+		Nil-Saint-Martin, BE | Paris, FR | Bad, Sachsa, DE
+	</str>
+	<str name="Agent/Attorney">
+		GUNTER, JR., CHARLES D.
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

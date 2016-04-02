@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7554098
+	</str>
+	<str name="Application Number">
+		US11/737885
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Medical isotope generator systems
+	</str>
+	<str name="Abstract">
+		Medical isotope generator systems are disclosed according to some aspects. In one aspect, a .sup.90Y generator system comprises a generator column, a concentration column, and a flow control system, through which the generator column and the concentration column are in fluid communication. The flow control system provides a plurality of flow configurations for delivering a milking solution to the generator column, the concentration column, or both, and for delivering an eluent solution to the concentration column in either a forward or a reverse flow direction. The generator column can comprise a .sup.90Sr stock adsorbed on a sorbent. The milking solution preferentially elutes .sup.90Y from the generator column. The concentration column comprises a sorbent that captures .sup.90Y from the milking solution without altering the milking solution. The eluent solution elutes .sup.90Y from the concentration column.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-04-20
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-04
+	</str>
+	<str name="Publication Date">
+		2009-06-30
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		C22B59/00 | B01D15/18
+	</str>
+	<str name="IPC Primary">
+		C22B59/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C22
+	</str>
+	<str name="IPC Subclass">
+		C22B
+	</str>
+	<str name="IPC Group">
+		C22B59
+	</str>
+	<str name="All UPC">
+		250/432PD | 210/682 | 423/155 | 423/2 | 423/21.1 | 423/3 | 424/1.11
+	</str>
+	<str name="UPC Primary">
+		250/432PD
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		AU2008242254A1 | WO2008130881A1 | US20080258076A1 | US7554098 | EP2140461A1 | CA2683285A1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Knapp, et al., Anticancer Research, 1997, p. 1783-1796, vol. 17. cited by other | Knapp, Cancer Biotherapy and Radiopharmaceuticals, 1998, p. 337-349, vol. 13. cited by other | Kit Carlson, Atomic Balm: Finding Hope in Isotopes, ORNL Review, 1996, vol. 29(3). cited by other.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5368736 | US5494647 | US6157036 | US6770195 | US6908598 | US6972414 | US7101484 | US20040164025 | US20050167609
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		73788507
+	</str>
+	<str name="Priority Date">
+		2007-04-20
+	</str>
+	<str name="Assignee(s)">
+		BATTELLE MEMORIAL INSTITUTE
+	</str>
+	<str name="1st Assignee">
+		BATTELLE MEMORIAL INSTITUTE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Richland, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Richland, WA
+	</str>
+	<str name="Inventor(s)">
+		O'HARA, MATTHEW, J. | RAPKO, BRIAN, M. | EDWARDS, MATTHEW, K. | WESTER, DENNIS, W.
+	</str>
+	<str name="1st Inventor">
+		O'HARA, MATTHEW, J.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Richland, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Richland, WA | Pasco, WA | Kennewick, WA | Richland, WA
+	</str>
+	<str name="Agent/Attorney">
+		TUAN, ALLAN C.
+	</str>
+	<str name="Primary Examiner">
+		BERMAN, JACK I
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

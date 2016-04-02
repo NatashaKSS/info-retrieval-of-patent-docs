@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8341145
+	</str>
+	<str name="Application Number">
+		US12/973881
+	</str>
+	<str name="Title">
+		Face recognition using social data
+	</str>
+	<str name="Abstract">
+		Faces may be indexed and identified using visual and social criteria. In one example, the visual features of a face are quantified, and the quantification of the features is represented in a vector. Aspects of the vector are then represented in the form of text strings. Social context surrounding the face is also represented in the form of text strings. The text strings--both the visual-based strings and/or the social-based strings--are associated with the face, and are stored in an index. The association of these strings with the face then may make the face text-searchable on both its visual and social features. Searches on these visual and/or social features may be used to help to assist in identifying new images of faces, or to propose tags for users to apply to photos.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-12-20
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-12
+	</str>
+	<str name="Publication Date">
+		2012-12-25
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-12
+	</str>
+	<str name="All IPC">
+		G06F7/00 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		707/722 | 382/115 | 382/190
+	</str>
+	<str name="UPC Primary">
+		707/722
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Purdy, Kevin, &quot;Google Images Offers Search by Size and Face Recognition&quot;, Retrieved at &lt;&lt;http://www.lifehacker.com.au/2009/08/google-images-offers-search-- by-size-and-face-recognition/&gt;&gt;, Aug. 4, 2009, pp. 1-4. cited by other | Casperson, Matthew, &quot;Face.com Opens Free Facial Recognition API&quot;, Retrieved at &lt;&lt;http://blog.programmableweb.com/2010/05/04/face-com-opens-free-fa- cial-recognition-api/&gt;&gt;,May 4, 2010, pp. 1-6. cited by other | &quot;Windows Live Search Images now Includes Facial Recognition Filters&quot;, Retrieved at http://www.online-tech-tips.com/industry-news/windows-live-search-images-- now-includes-facial-recognition-filters/&gt;&gt;, Jul. 30, 2007, pp. 1-6. cited by other | &quot;Picollator Hybrid Search Engine&quot;, Retrieved at &lt;&lt;http://www.recogmission.com/products/picollator&gt;&gt;, retrieval date: Sep. 14, 2010, 1 page. cited by other | Avinash, &quot;Search Similar Faces on the Web using Face Recognition&quot;, Retrieved at &lt;&lt;http://www.avinashtech.com/internet/search-similar-faces-web-face- /&gt;&gt;, Retrieved Date: Sep. 14, 2010, copyright date 2008-2010, pp. 1-5. cited by other | Gionis, et al., &quot;Similarity Search in High Dimensions via Hashing&quot;, Proceedings of the 25th VLDB Conference, 1999, retrieved at &lt;&lt;http://www.cs.princeton.edu/courses/archive/spr06/cos592/bib/LSH-- VLDB-gionis99.pdf&gt;&gt;, pp. 518-529, Edinburgh, Scotland. cited by other.
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cites">
+		US7783085 | US20050105803 | US20060158307 | US20060251338 | US20060253491 | US20070172099 | US20070172155 | US20080270425 | US20090175509 | US20090196493 | US20100036875 | US20100082677 | US20100287053 | US20100325218 | US20110085710 | US20110182482 | US20110243449
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond, WA
+	</str>
+	<str name="Inventor(s)">
+		DODSON, BRADLEY | NICHOLS, DAVID | WEBSTER, CHUNG | SCARIA, JOEL
+	</str>
+	<str name="1st Inventor">
+		DODSON, BRADLEY
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Seattle, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Seattle, WA | Redmond, WA | Seattle, WA | Union, NJ
+	</str>
+	<str name="Primary Examiner">
+		LEE, WILSON
+	</str>
+	<str name="Assistant Examiner">
+		LE, JESSICA N
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

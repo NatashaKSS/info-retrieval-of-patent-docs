@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7648634
+	</str>
+	<str name="Application Number">
+		US12168247
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for wastewater treatment
+	</str>
+	<str name="Abstract">
+		A system and method for treating wastewater includes a treatment container for receiving and treating wastewater and a mixing/aeration system disposed in the treatment container. Wastewater is pumped under pressure from the treatment container through a solids/liquid separation system, preferably comprising multiple parallel membrane bioreactors, to separate the solids and liquids in the wastewater. Liquid retentate from the solids/liquid separation system is cycled back to the treatment container via the mixing/aeration system. The closed-loop system and method for solids/liquid separation and aeration/mixing provides for reduced equipment requirements and energy usage during operation.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-07-07
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-07
+	</str>
+	<str name="Publication Date">
+		2010-01-19
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/620
+	</str>
+	<str name="UPC Primary">
+		210/620
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7648634 | US20090014387A1 | US7396453
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References">
+		Cox, Ronald, Contamination Control, Filtering Out Confusion: Select the right liquid filter media for the right process, Food Quality, Jun. 23, 2009, www.foodquality.com. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US8293098
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US20030066799 | US3784457 | US5250182 | US6994782 | US6464875 | US4959237 | US20070275438 | US4999209 | US7135116 | US6835560 | US20070119763 | US6488854 | US20070244719 | US5919367 | US5254253 | US6663777 | US20060194299 | US20060000782 | US20040025715 | US5032265 | US5126049 | US7279100 | US5525228 | US5746919 | US6514411 | US7037704 | US20070243592 | US20070249029 | US6338799 | US5360546 | US4501664 | US4415452 | US20080035036 | US20050051495 | US7005072 | US20050153410 | US6391207 | US5798043 | US20070254089 | US7396453 | US20040159608 | US5019135 | US5503750 | US7182872 | US5374356 | US6423236 | US20080003654 | US6187196 | US20070141691 | US7267774 | US20050023220 | US20070199894 | US5773526 | US1617014 | US5399267 | US6676836 | US4988525 | US5670047 | US20060006055 | US6485645 | US6368849 | US6406629 | US20050141966 | US6355456 | US20050252858 | US5177008 | WO2002020415 | WO2007008630
+	</str>
+	<str name="Cites Count">
+		68
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		16824708 | 40605106 | 67275505
+	</str>
+	<str name="Priority Date">
+		2008-07-07 | 2006-04-18 | 2005-04-19
+	</str>
+	<str name="Assignee(s)">
+		PROCORP ENTERPRISES, LLC
+	</str>
+	<str name="1st Assignee">
+		PROCORP ENTERPRISES, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Milwaukee, WI
+	</str>
+	<str name="Assignee(s) Address">
+		Milwaukee, WI
+	</str>
+	<str name="Inventor(s)">
+		PROBST, THOMAS, H.
+	</str>
+	<str name="1st Inventor">
+		PROBST, THOMAS, H.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Waukesha, WI
+	</str>
+	<str name="Inventor(s) Address">
+		Waukesha, WI
+	</str>
+	<str name="Agent/Attorney">
+		MICHAEL BEST &amp; FRIEDRICH LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

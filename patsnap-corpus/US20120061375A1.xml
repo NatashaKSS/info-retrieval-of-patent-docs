@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120061375A1
+	</str>
+	<str name="Application Number">
+		US12/949859
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		SYSTEM FOR SUPPLEMENTATION OF APPLIANCE STANDBY MODE WITH INTERNAL POWER SOURCE
+	</str>
+	<str name="Abstract">
+		A system is provided for supplementing the power usage of an appliance with an internal power source, such as e.g., a battery, in order to limit the overall power consumption of the appliance while in standby mode. The system can allow for replenishing the internal power source when the appliance is not in standby mode or even when in standby mode if such will not exceed the external power source consumption limit. In the event the internal power source is not available or is reaching depletion, the system can provide for disabling electronic features of the appliance in order to maintain the external power source consumption below the desired limit.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-11-19
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-11
+	</str>
+	<str name="Publication Date">
+		2012-03-15
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-03
+	</str>
+	<str name="All IPC">
+		A21B1/22 | H02J7/00
+	</str>
+	<str name="IPC Primary">
+		A21B1/22
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A21
+	</str>
+	<str name="IPC Subclass">
+		A21B
+	</str>
+	<str name="IPC Group">
+		A21B1
+	</str>
+	<str name="All UPC">
+		219/391 | 307/66
+	</str>
+	<str name="UPC Primary">
+		219/391
+	</str>
+	<str name="UPC Class">
+		219
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		GENERAL ELECTRIC COMPANY
+	</str>
+	<str name="1st Assignee">
+		GENERAL ELECTRIC COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Schenectady,NY,US
+	</str>
+	<str name="Assignee(s) Address">
+		Schenectady,NY,US
+	</str>
+	<str name="Inventor(s)">
+		CADIMA PAUL BRYAN | PORTARO LAWRENCE MICHAEL
+	</str>
+	<str name="1st Inventor">
+		CADIMA PAUL BRYAN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Prospect,KY,US
+	</str>
+	<str name="Inventor(s) Address">
+		Prospect,KY,US | Louisville,KY,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

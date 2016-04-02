@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7490725
+	</str>
+	<str name="Application Number">
+		US10682727
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Reverse osmosis membrane and process
+	</str>
+	<str name="Abstract">
+		A reverse osmosis membrane, and methods for making and using the membrane. The membrane has a continuous, defect-free, non-porous, hydrophilic coating that reduces the susceptibility to fouling.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-10-09
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-10
+	</str>
+	<str name="Publication Date">
+		2009-02-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		B01D53/22 | B01D39/14 | B05D1/34 | B01D29/00 | B01D39/00
+	</str>
+	<str name="IPC Primary">
+		B01D53/22
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D53
+	</str>
+	<str name="All UPC">
+		210/500.27 | 95/49 | 210/500.38 | 96/11 | 210/490 | 427/296 | 95/45
+	</str>
+	<str name="UPC Primary">
+		210/500.27
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20050077243A1 | US7490725
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		S Nunes et al., &quot;Dense Hydrophilic Composite Membranes for Ultrafiltration,&quot; J. Membrane Science, 1995, p. 51-56, vol. 106, Elsevier Pub., Amsterdam. cited by other . | R. Peterson, &quot;Composite Reverse Osmosis and Nanofiltration Membranes,&quot; J. Membrane Science, 1993, p. 81, 89-132, vol. 83, Elsevier Pub., Amsterdam. cited by other. | K. Ebert et al., &quot;Solvent-Resistant Nanofiltration Membranes in Edible Oil Processing,&quot; Membrane Technology, 1999, p. 5-8, vol. 107. cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US5989426 | US5698105 | US5147553 | US20030121844 | US4872984 | US5374300 | US6413425 | US6177011 | US5118424 | US4963165 | US6026968 | US6913694 | US5082471 | US5205843 | US3980456 | US4305824 | US5296144 | US4214020 | US5152901 | US7018539 | US5075011 | US5044166 | US4927540 | US3133137 | US6368382 | US4277344 | US4948507 | US3133132 | DE4237604
+	</str>
+	<str name="Cites Count">
+		29
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		68272703
+	</str>
+	<str name="Priority Date">
+		2003-10-09
+	</str>
+	<str name="Assignee(s)">
+		MEMBRANE TECHNOLOGY &amp; RESEARCH
+	</str>
+	<str name="1st Assignee">
+		MEMBRANE TECHNOLOGY &amp; RESEARCH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Menlo Park, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Menlo Park, CA
+	</str>
+	<str name="Inventor(s)">
+		PINNAU, INGO | LY, JENNIFER, H. | BAKER, RICHARD, W.
+	</str>
+	<str name="1st Inventor">
+		PINNAU, INGO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Palo, Alto, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Palo, Alto, CA | San, Jose, CA | Palo, Alto, CA
+	</str>
+	<str name="Agent/Attorney">
+		FARRANT, J.
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6400563
+	</str>
+	<str name="Application Number">
+		US09654711
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Multi-drive portable computer having a plurality of heat sink members therein
+	</str>
+	<str name="Abstract">
+		A notebook computer base housing has operatively disposed therein a CD ROM drive, a hard disk drive and a floppy disk drive, an AC/DC electrical power converter, a modem, a PCMCIA card bay structure and a battery. This internal provision of three drive units in addition to the other equipment within the base housing is facilitated from a space standpoint by the vertical stacking of the hard disk drive atop the CD ROM drive within the base housing. To dissipate the operating heat from these components within the base housing, a heat spreader plate is interposed between the CD ROM drive and the overlying hard disk drive, and the high heat-generating components--namely, the modem, the AC/DC converter, the PCMCIA card bay structure, and the computer processor--are closely grouped together, with the AC/DC converter in thermal communication with a second heat spreader plate. The processor is disposed above the other high heat-generating components on a horizontally oriented main system circuit board with the circuit board having top and bottom side heat sink members thermally communicated with the processor. An axial fan disposed in the base housing creates an upper flow of cooling air that passes over the upper heat sink member, and a lower flow of-cooling air that passes over the lower heat sink member and the heat-generating components grouped below the processor.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-09-01
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-09
+	</str>
+	<str name="Publication Date">
+		2002-06-04
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-06
+	</str>
+	<str name="All IPC">
+		H05K7/20 | G06F1/16
+	</str>
+	<str name="IPC Primary">
+		H05K7/20
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/707 | 369/75.2 | 361/695 | 361/683 | 165/125 | 369/82 | 165/122
+	</str>
+	<str name="UPC Primary">
+		361/707
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US6134104 | US6377456 | US6400563
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5649750 | US5568360 | US6072696 | US5229900 | US5598320 | US5715139 | US5729431 | US5475563 | US5689400 | US5581443 | US5694294 | US5646820 | US6043977 | US5132947 | USR34369
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		65471100 | 99943897
+	</str>
+	<str name="Priority Date">
+		2000-09-01 | 1997-12-29
+	</str>
+	<str name="Assignee(s)">
+		COMPAQ COMPUTER CORPORATION
+	</str>
+	<str name="1st Assignee">
+		COMPAQ COMPUTER CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Houston, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s)">
+		MOHI, PASHA, S. | FELCMAN, CHRIS, F. | CONDRA, NEIL, L. | MORA, GREGORY, J. | WOLFF, STACY, L. | CHU, CHI-TSONG
+	</str>
+	<str name="1st Inventor">
+		MOHI, PASHA, S.
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Houston, TX | Spring, TX | The, Woodlands, TX | Tomball, TX | Houston, TX | Taipei, TW
+	</str>
+	<str name="Primary Examiner">
+		SCHUBERG, DARREN
+	</str>
+	<str name="Assistant Examiner">
+		LEA-EDMONDS, LISA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

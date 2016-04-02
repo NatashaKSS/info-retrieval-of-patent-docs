@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8200010
+	</str>
+	<str name="Application Number">
+		US11/858368
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Image segmentation by clustering web images
+	</str>
+	<str name="Abstract">
+		An image segmentation system selects candidate images from an image collection. Image analysis on individual images proceeds by first detecting salient features on each image. Patches are centered on points of interest located on the salient features of the image. Each patch is gridded into blocks. The block feature vectors are merged to generate a patch feature vector. A fingerprint for each image is obtained by merging patch feature vectors across the image. Images with similar fingerprints are identified and geometric matching is performed to further select images with similar objects. Common regions are tabulated and merged into single regions to segment out coherent objects.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-09-20
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2012-06-12
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-06
+	</str>
+	<str name="All IPC">
+		G06K9/34
+	</str>
+	<str name="IPC Primary">
+		G06K9/34
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/173 | 382/164
+	</str>
+	<str name="UPC Primary">
+		382/173
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Su et al. (&amp;#x201c;Face recognition by feature orientation and feature geometry matching&amp;#x201d;, IEEE Proc. 13th ICPR, vol. 3, Aug. 25-29, 1996, pp. 401-405). | Lowe (&amp;#x201c;Distinctive image features from scale-invariant keypoints&amp;#x201d;, (accepted for publication in the International Journal of Computer Vision, 2004), 2004, pp. 1-23. | Dalal, N. et al., &amp;#x201c;Histograms of Oriented Gradients for Human Detection,&amp;#x201d; Proceedings of the 2005 IEEE Computer Society Conference Computer Vision and Pattern Recognition, (CVPR'05) Jun. 20-25, 2005, IEEE, [online], Retrieved from the Internet: &amp;#x3c;URL: http://www.vis.uky.edu/&amp;#x2dc;dnister/Teaching/CS684Fall2005/HOG.pdf&amp;#x3e;. | Dementhon, D. et al., &amp;#x201c;Image Distance using Hidden Markov Models,&amp;#x201d; 15&lt;sup&gt;th &lt;/sup&gt;International conference Pattern Recognition (ICPR'00), 2000,vol. 2, p. 1347, Barcelona, Spain. [online], Retrieved from the Internet&amp;#x3c;URL:http://citeseer.ist.psu.edu/cache/papers/cs/22592/http:zSzzSzwww.cfar.umd.eduzSz&amp;#x2dc;danielzS zdaniel&lt;sub&gt;&amp;#x2014;&lt;/sub&gt;papersfordownloadzSz1169&lt;sub&gt;&amp;#x2014;&lt;/sub&gt;dementhon.pdf/dementhon00image.pdf&amp;#x3e;. | Ke, Y. et al., &amp;#x201c;PCA-SIFT: A More Distinctive Representation for Local Image Descriptors,&amp;#x201d; Proceedings of Computer Vision and Pattern Recognition, 2004, [online], Retrieved from the Internet:: &amp;#x3c;URL:http://www.cs.cmu.edu/&amp;#x2dc;rahuls/pub/cvpr2004-keypoint-rahuls.pdf &amp;#x3e;. | Liu, T. et al., &amp;#x201c;An Investigation of Practical Approximate Nearest Neighbor Algorithms.&amp;#x201d; [online], Retrieved from the Internet: Proc. Neural Info Processing Systems 2004 &amp;#x3c;URL: http://www.cs.cmu.edu/&amp;#x2dc;tingliu/my&lt;sub&gt;&amp;#x2014;&lt;/sub&gt;papers/nips04.pdf&amp;#x3e;. | Liu, Z. et al., &amp;#x201c;Face Detection and Tracking in Video Using Dynamic Programming,&amp;#x201d; ICIP-2000, Vancouver, Canada. [online], Retrieved from the Internet&amp;#x3c;URL:http://citeseer.ist.psu.edu/liu00face.html&amp;#x3e;. | Lowe, D., &amp;#x201c;Distinctive Image Features from Scale-Invariant Keypoints,&amp;#x201d; International Journal of Computer Vision, 2004, pp. 91-110, vol. 60, No. 2 [online], Retrieved from the Internet &amp;#x3c;URL: http://www.cs.ubc.ca/&amp;#x2dc;lowe/papers/ijcv04.pdf&amp;#x3e;. | Mikolajczyk, K. et al., &amp;#x201c;A Performance Evaluation of Local Descriptors,&amp;#x201d; IEEE Transactions on Pattern Analysis and Machine Intelligence, Oct. 2005, vol. 27, No. 10, pp. 1615-1630 [online], Retrieved from the Internet &amp;#x3c;URL: http://doi.ieeecomputersociety.org/10.1109/TPAMI.2005.188&amp;#x3e;. | Mortensen, E. et al, &amp;#x201c;A SIFT Descriptor with Global Context,&amp;#x201d; 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05), vol. 1, pp. 184-190, [online], Retrieved from the Internet&amp;#x3c;URL: http://doi.ieeecomputersociety.org/10.1109/CVPR.2005.45&amp;#x3e;. | Nister, D. et al., &amp;#x201c;Scalable Recognition with a Vocabulary Tree,&amp;#x201d; 2006 Proceedings of IEEE Computer Society Conference on Computer Vision and Pattern Recognition&amp;#x2014;vol. 2 (CVPR'06), Jun. 2006, pp. 2161-2168, [online], Retrieved from the Internet &amp;#x3c;URL:http://doi.ieeecomputersociety.org/10.1109/CVPR.2006.264&amp;#x3e;. | Stauffer, C. et al., &amp;#x201c;Adaptive Background Mixture Models for Real-Time Tracking,&amp;#x201d; IEEE Computer Society Conference on Computer Vision and Pattern Recognition, Jun. 1999, pp. 246-252. [online], Retrieved from the Internet: &amp;#x3c;URL:http://www.cs.rit.edu/&amp;#x2dc;rsg/Tracking%20StaufferGrimson.pdf&amp;#x3e;.
+	</str>
+	<str name="Other References Count">
+		12
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6601759 | US6744922 | US6766037 | US6956573 | US7095786 | US7116807 | US7827191 | US20010038713A1 | US20020059584A1 | US20030206710A1 | US20040103095A1 | US20040267458A1 | US20050191731A1 | US20050232485A1 | US20060221072A1 | US20060249581A1 | US20060269136A1 | US20060271398A1 | US20060285755A1 | US20070239603A1 | US20080027841A1 | US20090169168A1
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Assignee(s)">
+		GOOGLE INC.
+	</str>
+	<str name="1st Assignee">
+		GOOGLE INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Mountain View, CA, US
+	</str>
+	<str name="Assignee(s) Address">
+		Mountain View, CA, US
+	</str>
+	<str name="Inventor(s)">
+		JING, YUSHI | BALUJA, SHUMEET
+	</str>
+	<str name="1st Inventor">
+		JING, YUSHI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Mountain, View, CA, US
+	</str>
+	<str name="Inventor(s) Address">
+		Mountain, View, CA, US | Santa, Clara, CA, US
+	</str>
+	<str name="Agent/Attorney">
+		FENWICK &amp;#X26, WEST LLP
+	</str>
+	<str name="Primary Examiner">
+		HUNG, YUBIN, DEPT. 2624
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7622042
+	</str>
+	<str name="Application Number">
+		US12289164
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water treatment apparatus and method
+	</str>
+	<str name="Abstract">
+		It is an object of the invention to provide an effective technique for detecting the quality of water with high accuracy. A representative water treatment apparatus includes an aerobic treatment region that treats water aerobically, a downstream region in which the water aerobically treated in the aerobic treatment region flows, a water quality sensor that is submerged in the downstream region and detects the water quality and a sensor washing arrangement that washes the water quality sensor by supplying the water of the downstream region to the water quality sensor at a flow rate higher than water flowing around the water quality sensor. As a result, sludge generated due to aerobic treatment can be prevented from being deposited on the water quality sensor and/or deposited sludge can be removed, so that the accuracy of water quality detection of the water quality sensor can be enhanced.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-10-22
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-10
+	</str>
+	<str name="Publication Date">
+		2009-11-24
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/150 | 134/104.1 | 210/764 | 210/220
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20090057211A1 | JP2007130583A | US20070114175A1 | US7455775 | US7622042
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6217410 | US6006612 | US7300630 | US4517849 | US4307741 | JP1991052696
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2005326645
+	</str>
+	<str name="Priority Date">
+		2005-11-10
+	</str>
+	<str name="Assignee(s)">
+		FUJI CLEAN CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		FUJI CLEAN CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Nagoya-shi, Aichi, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Nagoya-shi, Aichi, JP
+	</str>
+	<str name="Inventor(s)">
+		SUZUKI, EIICHI | DOI, YUKIO | KUROKAWA, HAYATO | TABATA, YOSUKE | IWAMA, TOSHIYUKI
+	</str>
+	<str name="1st Inventor">
+		SUZUKI, EIICHI
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Aichi, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Aichi, JP | Aichi, JP | Aichi, JP | Aichi, JP | Aichi, JP
+	</str>
+	<str name="Agent/Attorney">
+		DENNISON, SCHULTZ &amp; MACDONALD
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

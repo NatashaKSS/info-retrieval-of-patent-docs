@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090204606A1
+	</str>
+	<str name="Application Number">
+		US12365701
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		FILE MANAGEMENT SYSTEM, FILE MANAGEMENT METHOD, AND STORAGE MEDIUM
+	</str>
+	<str name="Abstract">
+		A file management apparatus which makes it possible to cache a file registered in a file server from an initial stage of registration thereof. When a file is newly registered in the file server, the file server extracts the feature elements of the file, and searches for an registered file having a high degree of similarity to the file being registered in response to the current registration request. The search is performed based on the feature elements and an access log. Then, the file server searches for a domain from which access has been made to the file a not smaller number of times than a predetermined number of times, and copies and registers the newly registered file also in a cache server of the domain.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2009-02-04
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-02
+	</str>
+	<str name="Publication Date">
+		2009-08-13
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-08
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/10 | 707/E17.032 | 707/5 | 707/E17.01 | 707/E17.014 | 707/3
+	</str>
+	<str name="UPC Primary">
+		707/10
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Members">
+		JP2009187376A | US20090204606A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2008027802
+	</str>
+	<str name="Priority Date">
+		2008-02-07
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo,JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s)">
+		OSADA TOMOAKI
+	</str>
+	<str name="1st Inventor">
+		OSADA TOMOAKI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Yokohama-shi,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Yokohama-shi,JP
+	</str>
+	<str name="Agent/Attorney">
+		FITZPATRICK CELLA HARPER &amp; SCINTO
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

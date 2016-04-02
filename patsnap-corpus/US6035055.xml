@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6035055
+	</str>
+	<str name="Application Number">
+		US08963234
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Digital image management system in a distributed data access network system
+	</str>
+	<str name="Abstract">
+		A digital image management system is described that includes a content analyzer that analyzes an image to extract content data from the image. The content data of an image include face feature data. The digital image management system also includes an image database that is coupled to the content analyzer to store pixel data of each of a number of images and the content data of each of the images. A search engine is also provided in the digital image management system. The search engine is coupled to the image database and the content analyzer to compare the content data of the images with that of an input image such that any image similar to the input image can be identified from the image database without retrieving the pixel data of the image from the image database. A method of extracting feature data of a face in an image is also described.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1997-11-03
+	</str>
+	<str name="Application Year">
+		1997
+	</str>
+	<str name="Application(Year/Month)">
+		1997-11
+	</str>
+	<str name="Publication Date">
+		2000-03-07
+	</str>
+	<str name="Publication Year">
+		2000
+	</str>
+	<str name="Publication(Year/Month)">
+		2000-03
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118 | 382/190 | 382/157
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US6035055
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Rowley et al., &quot;Human Face Dectection in Visual Scenes&quot;, 1995, Carnegie Mellon Computer Science Technical Report CMU-CS-95-158R. | &quot;QBIC (TM)--IBM's Query By Image Content&quot;, 1995, pp. 1-2, QBIC Home Page. | The Computer Science and Engineering Hand Book, by Allen B. Tucker, Jr., pp. 1193-1199, 1997.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US5719951 | US5850470 | US5450504 | US5164992 | US5710833 | US5438357 | US5852669 | US5815252 | US5546475
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		96323497
+	</str>
+	<str name="Priority Date">
+		1997-11-03
+	</str>
+	<str name="Assignee(s)">
+		HEWLETT-PACKARD COMPANY
+	</str>
+	<str name="1st Assignee">
+		HEWLETT-PACKARD COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Palo Alto, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Palo Alto, CA
+	</str>
+	<str name="Inventor(s)">
+		WANG, JOHN, Y., A. | ZHANG, HONGJIANG
+	</str>
+	<str name="1st Inventor">
+		WANG, JOHN, Y., A.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Mountain, View, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Mountain, View, CA | Mountain, View, CA
+	</str>
+	<str name="Agent/Attorney">
+		LI, THOMAS X.
+	</str>
+	<str name="Primary Examiner">
+		AU, AMELIA
+	</str>
+	<str name="Assistant Examiner">
+		BALI, VIKKRAM
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

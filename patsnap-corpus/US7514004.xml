@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7514004
+	</str>
+	<str name="Application Number">
+		US12113354
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		In-tank recirculating arsenic treatment system
+	</str>
+	<str name="Abstract">
+		A low-cost, water treatment system and method for reducing arsenic contamination in small community water storage tanks. Arsenic is removed by using a submersible pump, sitting at the bottom of the tank, which continuously recirculates (at a low flow rate) arsenic-contaminated water through an attached and enclosed filter bed containing arsenic-sorbing media. The pump and treatment column can be either placed inside the tank (In-Tank) by manually-lowering through an access hole, or attached to the outside of the tank (Out-of-Tank), for easy replacement of the sorption media.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-05-01
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-05
+	</str>
+	<str name="Publication Date">
+		2009-04-07
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		C02F1/42
+	</str>
+	<str name="IPC Primary">
+		C02F1/42
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/196 | 210/263 | 210/688
+	</str>
+	<str name="UPC Primary">
+		210/196
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7514004
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		CN102249455B
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4734201 | US7303666 | US7309425 | US4917806 | US4332685 | US20020036172 | US5281333 | US20030010720 | US20050000915 | US20070246429 | US4280912 | US20020141827 | US2723761 | US4806236
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		11335408
+	</str>
+	<str name="Priority Date">
+		2008-05-01
+	</str>
+	<str name="Assignee(s)">
+		SANDIA CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SANDIA CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Albuquerque, NM
+	</str>
+	<str name="Assignee(s) Address">
+		Albuquerque, NM
+	</str>
+	<str name="Inventor(s)">
+		BRADY, PATRICK, V. | DWYER, BRIAN, P. | KRUMHANSL, JAMES, L. | CHWIRKA, JOSEPH, D.
+	</str>
+	<str name="1st Inventor">
+		BRADY, PATRICK, V.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Albuquerque, NM
+	</str>
+	<str name="Inventor(s) Address">
+		Albuquerque, NM | Albuquerque, NM | Albuquerque, NM | Tijeras, NM
+	</str>
+	<str name="Agent/Attorney">
+		WATSON, ROBERT D.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

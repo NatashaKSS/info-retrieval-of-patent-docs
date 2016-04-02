@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7919304
+	</str>
+	<str name="Application Number">
+		US10475842
+	</str>
+	<str name="Title">
+		Process and apparatus for the biofiltration of volatile organic compounds
+	</str>
+	<str name="Abstract">
+		A process and system are disclosed for the biofiltration of volatile organic compounds. The process involved recirculating contaminated effluent gas through a biofilter (1), the biofilter (1) having an inlet (20), outlet (15) and micro-organism laden filter media bed (3). The filter media bed additionally having moisture retaining properties. This process has been effective in removing high levels of VOCs from effluent gas streams and also in removing VOCs from an effluent gas stream where the VOC levels and/or volumes of effluent gas vary over time.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2001-05-03
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-05
+	</str>
+	<str name="Publication Date">
+		2011-04-05
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-04
+	</str>
+	<str name="All IPC">
+		A62D3/00 | C02F3/34 | A62D3/02 | A61L9/01
+	</str>
+	<str name="IPC Primary">
+		A62D3/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A62
+	</str>
+	<str name="IPC Subclass">
+		A62D
+	</str>
+	<str name="IPC Group">
+		A62D3
+	</str>
+	<str name="All UPC">
+		435/266 | 435/299.1 | 435/262.5 | 607/90 | 435/264 | 607/94 | 435/262 | 55/522 | 607/88 | 435/298.1 | 55/512 | 96/290 | 55/529 | 55/524
+	</str>
+	<str name="UPC Primary">
+		435/266
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Ottengraf et al, Bioprocess Engineering 1, 1986, pp. 61-69, Biological elimination of volatile xenobiotic compounds in . . . . cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6737020 | US4421534 | US20030181962 | US5861303 | US20030213734 | US6019810 | US20090222069 | US4781732 | US6524848 | US20030047521 | US6106592 | EP0402704 | GB2300824
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Assignee(s)">
+		BORD NA MONA
+	</str>
+	<str name="1st Assignee">
+		BORD NA MONA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Dublin, IE
+	</str>
+	<str name="Assignee(s) Address">
+		Dublin, IE
+	</str>
+	<str name="Inventor(s)">
+		EGAN, IMELDA | PHILLIPS, IAN
+	</str>
+	<str name="1st Inventor">
+		EGAN, IMELDA
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Newbridge, IE
+	</str>
+	<str name="Inventor(s) Address">
+		Newbridge, IE | Dublin, IE
+	</str>
+	<str name="Agent/Attorney">
+		JACOBSON HOLMAN PLLC
+	</str>
+	<str name="Primary Examiner">
+		BOWERS, NATHAN A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

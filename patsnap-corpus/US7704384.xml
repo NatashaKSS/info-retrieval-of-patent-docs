@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7704384
+	</str>
+	<str name="Application Number">
+		US11265239
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Self dislodging filter element
+	</str>
+	<str name="Abstract">
+		A self dislodging filter element, primarily for automotive applications, has a filter screen attached to an annular magnet. The filter element is installed in a port or conduit through which fluid flows and is held in place with magnetic attraction. If the filter screen becomes too clogged, pressure from the fluid impinging on the clogged screen overcomes the magnetic attraction and the filter slides down the conduit to be deposited in a repository and out of the fluid flow path.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-11-02
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2010-04-27
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		B01D29/37 | B01D35/14 | B01D35/28
+	</str>
+	<str name="IPC Primary">
+		B01D29/37
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D29
+	</str>
+	<str name="All UPC">
+		210/497.01 | 210/448 | 210/449 | 210/483 | 210/455 | 210/131 | 210/130
+	</str>
+	<str name="UPC Primary">
+		210/497.01
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6423215 | US4961849 | US6176093 | JP1990203908
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Assignee(s)">
+		AIR SEPT, INC.
+	</str>
+	<str name="1st Assignee">
+		AIR SEPT, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Marietta, GA
+	</str>
+	<str name="Assignee(s) Address">
+		Marietta, GA
+	</str>
+	<str name="Inventor(s)">
+		STEIN, MYRON
+	</str>
+	<str name="1st Inventor">
+		STEIN, MYRON
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Laguna, Niguel, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Laguna, Niguel, CA
+	</str>
+	<str name="Agent/Attorney">
+		WOMBLE CARLYLE SANDRIDGE &amp; RICE PLLC
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="Assistant Examiner">
+		KURTZ, BENJAMIN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

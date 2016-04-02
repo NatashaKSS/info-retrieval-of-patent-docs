@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080273766A1
+	</str>
+	<str name="Application Number">
+		US12/115250
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		FACE RECOGNITION SYSTEM AND METHOD BASED ON ADAPTIVE LEARNING
+	</str>
+	<str name="Abstract">
+		A face recognition system based on adaptive learning includes a specific person detection and tracking unit for detecting and tracking a specific person from a moving image. A facial feature extraction unit extracts a plurality of facial feature vectors from the detected and tracked specific person. A face recognition unit searches for a given registration model by comparing the extracted facial feature vectors with facial feature vectors of the registration models previously stored in a user registration model database. A learning target selection unit selects a facial feature vector to be added to a record of the given registration model from among the extracted facial feature vectors. A registration model learning unit adds and updates the selected facial feature vector to the record of the given registration model.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-05-05
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-05
+	</str>
+	<str name="Publication Date">
+		2008-11-06
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		KR1020080097798A | KR100886557B1 | US20080273766A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		43108/2007
+	</str>
+	<str name="Priority Date">
+		2007-05-03
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD. | ELECTRONICS &amp; TELECOMMUNICATIONS RESEARCH INSTITUTE
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-si,KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-si,KR | Yuseong-gu,KR
+	</str>
+	<str name="Inventor(s)">
+		KIM HYUN-SOO | YOON JE-HAN | SHIM HYUN-SIK | PARK YOUNG-HEE | KIM DO-HYUNG | YUN WOO-HAN
+	</str>
+	<str name="1st Inventor">
+		KIM HYUN-SOO
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Yongin-si,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Yongin-si,KR | Seongnam-si,KR | Yongin-si,KR | Seoul,KR | Yuseong-gu,KR | Yuseong-gu,KR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

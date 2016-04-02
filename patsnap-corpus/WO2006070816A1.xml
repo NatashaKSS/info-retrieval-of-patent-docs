@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2006070816A1
+	</str>
+
+	<str name="Application Number">
+		PCT/JP2005/023930
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		SURFACTANT FOR FINE-BUBBLE FORMATION
+	</str>
+
+	<str name="Abstract">
+		A surfactant with which fine bubbles are easily obtained and which has the high effect of stably maintaining the fine bubbles for long. The surfactant for fine-bubble formation is characterized in that it comprises a (poly)oxyalkylene adduct (A) of a compound (a) containing one or more active hydrogen atoms, the adduct (A) being represented by the following general formula (1), and that a 0.02 wt.% aqueous solution of the adduct (A) has a frothing power of 50 mm or less as measured at 20&#176;C in the Ross-Miles test. Z-[(AO)n-H]p (1) (In the formula, Z is a residue formed by removing the active hydrogen atom(s) from an active-hydrogen-atom-containing compound (a) having a valence of p; A is C1-8 alkylene; n is an integer of 1-400; and p is an integer of 1-100.)
+	</str>
+
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+
+	<str name="Application Date">
+		2005-12-27
+	</str>
+
+	<str name="Application Year">
+		2005
+	</str>
+
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+
+	<str name="Publication Date">
+		2006-07-06
+	</str>
+
+	<str name="Publication Year">
+		2006
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2006-07
+	</str>
+
+	<str name="All IPC">
+		C11D1/722
+	</str>
+
+	<str name="IPC Primary">
+		C11D1/722
+	</str>
+
+	<str name="IPC Section">
+		C
+	</str>
+
+	<str name="IPC Class">
+		C11
+	</str>
+
+	<str name="IPC Subclass">
+		C11D
+	</str>
+
+	<str name="IPC Group">
+		C11D1
+	</str>
+
+	<str name="Family Members">
+		KR1020070094808A | US20090233828A1 | WO2006070816A1 | JP2006206896A | CN101072858A | US20090011972A1
+	</str>
+
+	<str name="Family Member Count">
+		6
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Cites">
+		JP9501164A | JP8502979A | JP2004532915A | JP2004059886A | JP2293078A | JP2005118462A
+	</str>
+
+	<str name="Cites Count">
+		6
+	</str>
+
+	<str name="Priority Country">
+		JP
+	</str>
+
+	<str name="Priority Number">
+		2004381526
+	</str>
+
+	<str name="Priority Date">
+		2004-12-28
+	</str>
+
+	<str name="Assignee(s)">
+		SANYO CHEMICAL INDUSTRIES LTD. | MITSUBISHI ELECTRIC CORPORATION | SUZUKI, KAZUMITSU | MATSUOKA, MASAHIRO | UEYAMA, SATOSHI | MIYAMOTO, MAKOTO
+	</str>
+
+	<str name="1st Assignee">
+		SANYO CHEMICAL INDUSTRIES LTD.
+	</str>
+
+	<str name="Number of Assignees">
+		6
+	</str>
+
+	<str name="1st Assignee Address">
+		11-1, Ikkyonomotocho, Higashiyama-ku, Kyoto-shi, Kyoto, 6050995, 6050995, JP
+	</str>
+
+	<str name="Assignee(s) Address">
+		11-1, Ikkyonomotocho, Higashiyama-ku, Kyoto-shi, Kyoto, 6050995, 6050995, JP | 7-3, Marunouchi 2-chome, Chiyoda-ku, Tokyo, 1008310, 1008310, JP | SANYO CHEMICAL INDUSTRIES LTD., 11-1, Ikkyonomotocho, Higashiyama-ku, Kyoto-shi, Kyoto, 6050995, 6050995, JP | SANYO CHEMICAL INDUSTRIES LTD., 11-1, Ikkyonomotocho, Higashiyama-ku, Kyoto-shi, Kyoto, 6050995, 6050995, JP | MITSUBISHI ELECTRIC CORPORATION, 7-3, Marunouchi 2-chome, Chiyoda-ku, Tokyo, 1008310, 1008310, JP | MITSUBISHI ELECTRIC CORPORATION, 7-3, Marunouchi 2-chome, Chiyoda-ku, Tokyo, 1008310, 1008310, JP
+	</str>
+
+	<str name="Agent/Attorney">
+		YASUTOMI, YASUO
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

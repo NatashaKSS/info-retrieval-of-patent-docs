@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7531085
+	</str>
+	<str name="Application Number">
+		US11/917504
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Device for purifying anaerobic biological wastewater
+	</str>
+	<str name="Abstract">
+		The invention relates to a device for purifying anaerobic biological wastewater, which wastewater is fed in through a feed pipe (4) and the purified wastewater and built-up gas are removed respectively by a discharge pipe (24) and a gas outlet pipe (18), said device comprising a main chamber (1), wherein wastewater, which is to be clarified, is fed to a lower area and at least one lifting pipe (9), which is used to remove the built-up gas and the purified wastewater, which contains sludge particles, emerges from an area which is higher than said lower area, said lifting pipe joining a return tank (2) in order to separate gas and purified wastewater, which contains sludge particles, and the outlet (11) thereof m the return tank (2) being higher than the inlet (10) thereof in the main chamber (1). The return tank (2) is connected to an auxiliary chamber (3), wherein purified wastewater, which contains sludge particles and which was lifted to the return tank (2) via the at least one lifting pipe (9), flows out from the return tank (2) to the auxiliary chamber (3). The purified wastewater flows off to the discharge pipe (24) from an upper region of the auxiliary chamber (3) and the auxiliary chamber (3) is connected in a lower region via a valve, preferably a non-return valve (15), or a pump to a lower region of the main chamber (1).
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-05-13
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-05
+	</str>
+	<str name="Publication Date">
+		2009-05-12
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/136 | 210/188 | 210/195.3 | 210/196 | 210/197
+	</str>
+	<str name="UPC Primary">
+		210/136
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080203003A1 | WO200706133467A3 | WO2006133467A2 | RU2008101658A | AT502184B1 | AT502184A4 | EP1890974A2 | US7531085 | CA2612154A1
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4302329 | DE3111888 | DE8211869 | DE3330696 | DE19815616 | EP0539430 | EP1251103 | EP0170332 | WO2001002309
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		AT
+	</str>
+	<str name="Priority Number">
+		A1013/2005
+	</str>
+	<str name="Priority Date">
+		2005-06-16
+	</str>
+	<str name="Inventor(s)">
+		MOOSBRUGGER, RICHARD
+	</str>
+	<str name="1st Inventor">
+		MOOSBRUGGER, RICHARD
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		A-6874, Bizau, AT
+	</str>
+	<str name="Inventor(s) Address">
+		A-6874, Bizau, AT
+	</str>
+	<str name="Agent/Attorney">
+		BARLEY SNYDER LLC
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

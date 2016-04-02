@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7482169
+	</str>
+	<str name="Application Number">
+		US10620155
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Low dead volume extraction column device
+	</str>
+	<str name="Abstract">
+		The invention provides extraction columns for the purification of an analyte (e.g., a biological macromolecule, such as a peptide, protein or nucleic acid) from a sample solution, as well as methods for making and using such columns. The invention is characterized by the use of low dead volume columns, which is achieved in part by the use of low pore volume frits (e.g., membrane screens) to contain a bed of extraction media in the column. Low dead volume facilitates the elution of the captured analyte into a very small volume of desorption solution, allowing for the preparation of low volume samples containing relatively high concentrations of analyte.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-07-14
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-07
+	</str>
+	<str name="Publication Date">
+		2009-01-27
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		G01N1/18 | B01L11/00 | B01D15/08 | B01L3/02 | C02F1/28
+	</str>
+	<str name="IPC Primary">
+		G01N1/18
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N1
+	</str>
+	<str name="All UPC">
+		422/100 | 422/101 | 210/198.2 | 436/178 | 210/656
+	</str>
+	<str name="UPC Primary">
+		422/100
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Members">
+		US20040072375A1 | US20090081084A1 | US7482169
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8148168 | US7722820
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US6416716 | US5437979 | US4131544 | US4308204 | US6482362 | US20030178370 | US6770246 | US20020110495 | US6274371 | US5368729 | US5833927 | US5863428 | US5219529 | US6045757 | US6200474 | US5595653 | US5547833 | US6139733 | US5443734 | US5171537 | US4708800 | US4302534 | US5512168 | US5849249 | US20040253687 | US6566145 | US6527951 | US20030007897 | US6048457 | US6117394 | US5556598 | US20020009809 | US5187990 | WO1998037949 | EP1095703 | WO1988009201 | WO2001007162 | EP1139087
+	</str>
+	<str name="Cites Count">
+		38
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		62015503 | 39659502 | 46560603
+	</str>
+	<str name="Priority Date">
+		2003-07-14 | 2002-07-15 | 2003-04-25
+	</str>
+	<str name="Assignee(s)">
+		PHYNEXUS, INC.
+	</str>
+	<str name="1st Assignee">
+		PHYNEXUS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Jose, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Jose, CA
+	</str>
+	<str name="Inventor(s)">
+		GJERDE, DOUGLAS, T. | HANNA, CHRISTOPHER, T.
+	</str>
+	<str name="1st Inventor">
+		GJERDE, DOUGLAS, T.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Saratoga, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Saratoga, CA | San, Francisco, CA
+	</str>
+	<str name="Agent/Attorney">
+		HOLMAN, CHRISTOPHER M. KALMAN, SUE S.
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		RAMILLANO, LORE
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

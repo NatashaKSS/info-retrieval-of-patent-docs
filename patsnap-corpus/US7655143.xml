@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7655143
+	</str>
+	<str name="Application Number">
+		US11832057
+	</str>
+	<str name="Title">
+		Carbon dioxide stimulation of nitrification in activated sludge reactors
+	</str>
+	<str name="Abstract">
+		A method of stimulating nitrification at low SRT by elevating pCO.sub.2 during aeration is disclosed. The improvement on solids settling performance when elevated pCO.sub.2 was supplied after 2 hours within the React cycle is consistent with the previous results that identified inorganic carbon as a potential remedy to poor settling and bulking sludge problems in activated sludge systems. Elevated pCO.sub.2 increases the concentration of carbon dioxide and lowers the pH, which improve nitrification. The specific growth rate of nitrifying bacteria is sensitive to pCO.sub.2, pH, and dissolved oxygen (DO). The DO is a function of the aeration rate. Elevating the pCO.sub.2 and lowering the aeration rate provides conditions for nitrification rates that are comparable to conventional systems. However, the lower aeration rate yields significant energy cost savings.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-08-01
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2010-02-02
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-02
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/620
+	</str>
+	<str name="UPC Primary">
+		210/620
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Noutsopoulos, C., Mamais, D., and Andreadakis, A. D. (2002). &quot;The effect of reactor configuration and operational mode on Microthrix parvicella bulking and foaming in nutrient removal activated sludge systems.&quot; Water Sci Technol, 46(1-2), 61-4. cited by other . | Byong-Hee, J., Yasunori, T., and Hajime, U. (2000). &quot;Stimulating Accumulation of Nitrifying Bacteria in Porous Carrier by Addition of Inorganic Carbon in a Continuous-Flow Fluidized Bed Wastewater Treatment Reactor.&quot; J. Biosci Bioeng, 89(4), 334-39. cited by other . | Wett, B., and Rauch, W. (2003). &quot;The role of inorganic carbon limitation in biological nitrogen removal of extremely ammonia concentrated wastewater.&quot; Water Res, 37(5), 1100-10. cited by other . | Nielsen, P. H., De Muro, M. A., and Nielsen, J. L. (2000). &quot;Studies on the in situ physiology of Thiothrix spp. present in activated sludge.&quot; Environ Microbiol, 2(4), 389-98. cited by other . | Denecke, &quot;Effect of carbon dioxide on nitrification rates,&quot; Bioprocess Biosyst Eng,. Jan. 2003;25(4):249-53. Epub Nov. 26, 2002), http://www.ncbi.nlm.nih.gov/pubmed/14505004. cited by examiner . | Melcer, H., P.L. Dold, R.M. Jones, C.M. Byue, I. Takacs, H.D. Stensel, A.W. Wilsoon, P. Sun, and S. Bury &quot;Methods for Wastewater Characterization in Activated Sludge Modeling.&quot; Water Environment Research Foundation (2003), Report # 99-WWF-3. cited by other . | Wett, B., Eladawy, A., and Becker, W. (2003). &quot;Carbonate addition--an effective remedy against poor activated sludge settling properties and alkalinity conditions in small wastewater treatment plants.&quot; Water Sci Technol, 48 (11-12), 411-7. cited by other . | Denecke, M., and Liebig, T. (2003). &quot;Effect of carbon dioxide on nitrification rates.&quot; Bioprocess Biosyst Eng, 25(4), 249-53. cited by other . | Kinsbursky, R. S., and Saltzman, S. (1990). &quot;CO2-Nitrification Relationships in Closed Soil Incubation Vessels.&quot; Soil Biol Biochem, 22(4), 571-572. cited by other . | Odintsova, E. V., Wood, A. P., and Kelly, D. P. (1993). &quot;Chemolithoautotrophic growth of Thiothrix ramosa.&quot; Arch Microbiol, 160, 152-7. cited by other . | Mobarry, B. K., Wagner, M., Urbain, V., Rittmann, B. E., and Stahl, D. A. (1996). &quot;Phylogenetic probes for analyzing abundance and spatial organization of nitrifying bacteria.&quot; Appl Environ Microbiol, 62(6), 2156-62. cited by other . | Wagner, M., Rath, G., Koops, H. R, Flood, J., and Amann, R. (1996). &quot;In situ analysis of nitrifying bacteria in sewage treatment plants.&quot; Water Science and Technology, 34(1-2), 237-244. cited by other. | Gordon, L., and Paskins, A. (1982). &quot;Influence of High Partial Pressure of Carbon Dioxide and/or Oxygen on Nitrification.&quot; J. Chem Tech, 32, 213-23. cited by other . | Van Loosdrecht, M. C. M., Brandse, F. A., and De Vries, A. C. (1998). &quot;Upgrading of Wastewater Treatment Processes for Integrated Nutrient Removal--The BCFS.RTM. Process.&quot; Wat Sci Tech., 37(9), 209-217. cited by other . | Green, M., Ruskol, Y., Shaviv, A., and Tarre, S. (2002). &quot;The effect of CO2 concentration on a nitrifying chalk reactor.&quot; Water Res, 36(8), 2147-51. cited by other . | Jetten, M. S., Cirpus, I., Kartal, B., Van Niftrik, L., Van De Pas-Schoonen, K. T., Sliekers, O., Haaijer, S., Van Der Star, W., Schmid, M., Van De Vossenberg, J., Schmidt, I., Harhangi, H., Van Loosdrecht, M., Gijs Kuenen, J., Op Den Camp, H., and Strous, M. (2005). &quot;1994-2004: 10 years of research on the anaerobic oxidation of ammonium.&quot; Biochem Soc Trans, 33(Pt 1), 119-23. cited by other . | Dagley, S., and Hinshelwood, C. N. (1938). &quot;Physicochemical Aspects of bacterial Growth. Part II. Quantitative dependence of the Growth Rate of Bact. Lactis aerogenes on the Carbon Dioxide Content of the Gas Atmosphere.&quot; J. Chem. Soc. cited by other . | Jirka, A. M., and Carter, M. J. (1975). &quot;Micro semi-automated analysis of surface and wastewaters for chemical oxygen demand.&quot; Anal Chem, 47(8), 1397-1402. cited by other . | Pitt, P., and Jenkins, D. (1990). &quot;Causes and control of Nocardia in activated sludge.&quot; Res. J. Water Polln. Control. Fedn., 37(2), 151-62. cited by other . | Metcalf &amp; Eddy, I. (2003). Wastewater Engineering: Treatment and Reuse., McGraw-Hill, New York, NY. cited by other . | Davoli, D., Madoni, P., Guglielmi, L., Pergetti, M., and Barilli, S. (2002). &quot;Testing the effect of selectors in the control of bulking and foaming in full scale activated-sludge plants.&quot; Water Sci Technol, 46(1-2), 495-8. cited by other . | Sakairi, M. A., Yasuda, K., and Matsumura, M. (1996). &quot;Nitrogen removal in seawater using nitrifying and denitrifying bacteria immobilized in porous cellulose carrier.&quot; Water Science and Technology, 34(7-8), 267-274. cited by other .
+	</str>
+	<str name="Other References Count">
+		22
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5656059 | US6241897 | US5514264 | US6893567 | US5019266 | US20080006587 | US6159371 | US6569334 | US7014763 | US4818407 | US6372137 | US20080164196 | US5849192
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF SOUTH FLORIDA
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF SOUTH FLORIDA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tampa, FL
+	</str>
+	<str name="Assignee(s) Address">
+		Tampa, FL
+	</str>
+	<str name="Inventor(s)">
+		STROOT, PETER, G. | POSSO-BLANDON, LINA | MORRIS, RAYMOND, A.
+	</str>
+	<str name="1st Inventor">
+		STROOT, PETER, G.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Lutz, FL
+	</str>
+	<str name="Inventor(s) Address">
+		Lutz, FL | Orlando, FL | Lakeland, FL
+	</str>
+	<str name="Agent/Attorney">
+		TONER, THOMAS E. SMITH &amp; HOPEN, P.A.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

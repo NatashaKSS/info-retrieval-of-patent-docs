@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6424746
+	</str>
+	<str name="Application Number">
+		US09179418
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		FIGURE CLASSIFYING METHOD, FIGURE CLASSIFYING SYSTEM, FEATURE EXTRACTING METHOD FOR FIGURE CLASSIFICATION, METHOD FOR PRODUCING TABLE FOR FIGURE CLASSIFICATION, INFORMATION RECORDING MEDIUM, METHOD FOR EVALUATING DEGREE OF SIMILARITY OR DEGREE OF DIFFERENCE BETWEEN FIGURES, FIGURE NORMALIZING METHOD, AND METHOD FOR DETERMINING CORRESPONDENCE BETWEEN FIGURES
+	</str>
+	<str name="Abstract">
+		A figure is input, and structural features of the input figure are extracted. Structural features of deformed figures are produced, in accordance with a specific transformation rule, from the extracted structural features. The input figure is classified based on the structural features thus extracted and thus produced.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-10-27
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-10
+	</str>
+	<str name="Publication Date">
+		2002-07-23
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-07
+	</str>
+	<str name="All IPC">
+		G06K9/62 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/62
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/195 | 382/224 | 382/203
+	</str>
+	<str name="UPC Primary">
+		382/195
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP3815704B2 | US6424746 | JP1999203461A
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		H. Nishida, &quot;Curve Description based on Directional Features and Quasi-Convexity/Concavity&quot;, Pattern Recognition, vol.28, No. 7, pp. 1045-1051, Jul. 1995. | H. Bunke, et al., &quot;Applications of Approximate String Matching to 2D Shape Recognition&quot;, Pattern Recognition, vol.26, No. 12, pp. 1797-1812, Dec. 1993. | A. Del Bimbo, et al.,&quot;Image Indexing Using Shape-Based Visual Features&quot;, Proceedings of 13th International Conference on Pattern Recognition, Vienna, Austria, Aug. 1996, vol.C, pp. 351-355. | N. Ueda, et al., &quot;Learning Visual Models from Shape Contours Using Multiscale Convex/Concave Structure Matching&quot;, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol.15, No. 4, pp. 337-352, Apr. 1993. | F. Mokhtarian, &quot;Silhouette-Based Isolated Object Recognition through Curvature Scale Space&quot;, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol.17, No. 5, pp. 539-544, May 1995. | F. Stein, et al., &quot;Structural Indexing: Efficient 2-D Object Recognition&quot;, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol.14, No. 12, pp. 1198-1204, 1992. | Henry S. Baird, &quot;Feature Identification for Hybrid Structural/Statistical Pattern Classification&quot;, Computer Vision, Graphics, and Image Processing, vol.42, pp. 318-333, 1988. | Mokhtarian et al, &quot;A Theory of Multiscale, Curvature-Based Shape Representation for Planar Curves&quot;; IEEE Paper ISSN: 0162-8828vol. 14, No. 8, pp. 789-805, Aug. 1992.*
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cites">
+		US5497432 | US4747153 | US5606629 | US5144679 | US5317649
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		9295237 | 9310152 | 10188408
+	</str>
+	<str name="Priority Date">
+		1997-10-28 | 1997-11-12 | 1998-07-03
+	</str>
+	<str name="Assignee(s)">
+		RICOH COMPANY, LTD.
+	</str>
+	<str name="1st Assignee">
+		RICOH COMPANY, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		NISHIDA, HIROBUMI
+	</str>
+	<str name="1st Inventor">
+		NISHIDA, HIROBUMI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa, JP
+	</str>
+	<str name="Agent/Attorney">
+		DICKSTEIN SHAPIRO MORIN &amp; OSHINSKY LLP
+	</str>
+	<str name="Primary Examiner">
+		AU, AMELIA M.
+	</str>
+	<str name="Assistant Examiner">
+		DASTOURI, MEHRDAD
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

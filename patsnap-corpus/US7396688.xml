@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7396688
+	</str>
+	<str name="Application Number">
+		US11011666
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Mass spectrometric analysis of biopolymers
+	</str>
+	<str name="Abstract">
+		The present invention makes use of unique tags of a specific biopolymer that can be exploited for determining the concentration the biopolymer in crude solutions. In preferred embodiments the biopolymer is either a protein or a polynucleotide. Particularly, the invention provides a method for the determination and quantitation of biomolecules in crude mixtures by way of a separation technique in combination with mass spectroscopy. In one general embodiment, a target biomolecule is selected for analysis and an analog thereof is generated. Peak area integration of the peptide pairs provides a direct measure for the amount of target protein in the crude solution.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-12-14
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-12
+	</str>
+	<str name="Publication Date">
+		2008-07-08
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-07
+	</str>
+	<str name="All IPC">
+		G01N24/00
+	</str>
+	<str name="IPC Primary">
+		G01N24/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N24
+	</str>
+	<str name="All UPC">
+		435/7.92 | 436/175 | 436/173 | 435/6 | 210/656
+	</str>
+	<str name="UPC Primary">
+		435/7.92
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		US20020123055A1 | US20050244848A1 | US7396688
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Kunst, et al., &quot;The complete genome sequence of the Gram-positive bacterium Bacilus subtilis,&quot;Nature, 390:249-256 (1997). cited by other . | Gygi et al., Quantitative analysis of complex protein mixtures using isotope-coded affinity tags, Nature Biotechnology vol. 17, Oct. 1999, pp. 994-999. cited by examiner . | Chen et al., &quot;Isotope Edited Product Ion Assignment by Alpha-N Labeling of Peptides with [.sup.2H.sub.3(50%)]2,4-Dinitrofluorobenzene,&quot; Journal of the American Society for Mass Spectrometry, Elsevier Science Inc., New York, NY, vol. 10, No. 5, pp. 448-452 (1999). cited by other . | EP Communication, EPO Form 2001 for EP Application No. 01 964 178.6-2402 mailed Dec. 9, 2005. cited by other . | Corthals et al., &quot;Identification of Proteins by Mass Spectrometry,&quot; ed. Rabilloud, T. Springer, New York, pp. 197-231 (1999). cited by other . | Allen, G., &quot;Seqencing of Proteins and Peptides,&quot; 2.sup.nd ed. Elsevier, Amsterdam (1989). cited by other . | Stocklin, et al., &quot;A Stale Isotope Dilution Assay for the In Vivo Determination of Insulin Levels in Humans by Mass Spectrometry,&quot; Diabetes, 46:44-50 (1997). cited by other. | Karlin et al., &quot;Application and Statistics for Multiple High-Scoring Segments in Molecular Sequence,&quot; Proc. Natl. Acad. Sci. USA, 90:5873-5877 (1993). cited by other . | Hancock WS, ed. &quot;New Methods in Peptide Mapping for the Characterization of Proteins&quot;, CRC Press, Boca Raton (1996). cited by other . | International Search Report for PCT/US01/25884 mailed Oct. 21, 2002. cited by other . | Dalluge et al., Quantitative measurement of dihydrouridine in RNA using isotope dilution liquid chromatography-mass spectrometry (LC/MS), Nuclic Acids Research, 1996, vol. 24, No. 16, pp. 3242-3245. cited by examiner . | International Preliminary Examination Report for PCT/US01/25884 mailed Aug. 29, 2003. cited by other . | Kahn et al., &quot;EMBL Data Library&quot;, Methods in Enzymology, 183:23-31 (1990). cited by other . | George et al., &quot;PIR-International Protein Sequence Database&quot;, Methods in Enzymology, 266:41-59 (1996). cited by other . | Lahm, et al., &quot;Mass spectrometry: A tool for the identification of proteins separated by gels,&quot; Electrophoresis, 21:2105-2114 (2000). cited by other . | Hale &amp; Marham, The Harper Collins Dictionary of Biology, Harper Perennial, NY (1991). cited by other . | Matsudaira, P., ed. &quot;A Practical Guide to Protein and Peptide Purification for Microsequencing,&quot; 2.sup.nd ed., Academic Press, San Diego (1993). cited by other . | Janson et al., &quot;Protein Purification,&quot; 2nd ed., Wiley-Liss, New York (1998). cited by other . | Goddette et al., &quot;The Crystal Structure of the Bacillus lentus Alkaline Protease, Subtilisin BL, at 1 .4 A Resolution&quot;, J. Mol. Biol., 228:580-595 (1992). cited by other . | Pace, et al., &quot;How to measure and predict the molar absorption coefficient of a protein,&quot; Protein Science 4:2411-2423 (1995). cited by other . | Altschul et al., &quot;Basic Local Alignment Search Tool,&quot; J. Mol. Biol., 215: 403-410. (1990). cited by other . | Kellner et al., &quot;Microcharacterization of Proteins&quot;, 2nd ed., Wiley-VCH, Weinheim (1999). cited by other . | Singleton et al., Dictionary of Microbiology and Molecular Biology, 2D ED., John Wiley and Sons, New York (1994). cited by other . | Oda et al., &quot;Accurate Quantitation of Protein Expression and Site-Specific Phosphorylation,&quot; Proc. Natl. Acad. Sci. USA, vol. 96, pp. 6591-6596 (1999). cited by other . | Christianson et al., &quot;Peptide Mapping of Subtillisins as a Practical tool for Locating Protein Sequence Errors during Extensive Protein Engineering Projects,&quot; Anal. Bloch. 223:119-129 (1994). cited by other . | Bairoch el et al., &quot;The SWISS-PROT protein sequence database and its supplement TrEMBL in 2000,&quot; Nucl. Acids Res., 28:45-48 (2000). cited by other . | Scopes R., &quot;Protein Purification,&quot; 3.sup.rd ed. Springer-Verlag, New York (1994). cited by other . | Goeddel et al., &quot;Synthesis of Human Fibroblast Interferon by E. coli.,&quot; Nucl. Acids Res., 8:4057-4074 (1980). cited by other . | Burks et al., &quot;GeneBank: Current Status and Future Directions,&quot; Methods in Enzymology, 183: 3-22 (1990). cited by other . | Gygi et al., &quot;Quantitative analysis of complex protein mixtures using isotope-coded affinity tags,&quot; Nature Biotech. 17:994-999 (1999). cited by other . | Hsia et al., &quot;Active-Site Titration of Serine Proteases Using a Fluoride Ion Selective Electrode and Sulfonyl Fluoride Inhibitors,&quot; Analytical Biochem., 242:221-227 (1996). cited by other . | Karlin et al., &quot;Methods for assessing the statistical significance of molecular sequence features by using general scoring schemes,&quot; Proc. Natl. Acad. Sci. USA, 87:2264-2268 (1990). cited by other . | Guermant et al., &quot;Under Proper Control, Oxidation of Proteins with Known Chemical Structure Provides an Accurate and Absolute Method for the Determination of Their Molar Concentration&quot;, Anal. Biochem., 277:46-57 (2000). cited by other . | Chowdhury et al., &quot;Examination of Recombinant Truncated Mature Human Fibroblast Collagenase by Mass Spectrometry: Identification of Difference with the Published Sequence and Determination of Stable Isotope Incorporation,&quot; Rapid Commun. in Mass Spectom., 9: 563-569 (1995). cited by other . | Abstract, p. 449, right-hand column. (Listed--copy not provided). cited by other . | Deutscher MP ed., &quot;Guide to Protein Purification,&quot; Academic Press, New York (1990). cited by other .
+	</str>
+	<str name="Other References Count">
+		36
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6974704 | US20020076739 | US6391649 | US5639726 | WO1997037953 | WO2000020357
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		1166604 | 93236901 | 22819800
+	</str>
+	<str name="Priority Date">
+		2004-12-14 | 2001-08-17 | 2000-08-25
+	</str>
+	<str name="Assignee(s)">
+		GENENCOR INTERNATIONAL, INC.
+	</str>
+	<str name="1st Assignee">
+		GENENCOR INTERNATIONAL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Palo Alto, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Palo Alto, CA
+	</str>
+	<str name="Inventor(s)">
+		ESTELL, DAVID, A. | GANSHAW, GRANT, C. | PAECH, CHRISTIAN | PAECH, SIGRID
+	</str>
+	<str name="1st Inventor">
+		ESTELL, DAVID, A.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		San, Mateo, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Mateo, CA | Tracy, CA | Daly, City, CA | Daly, City, CA
+	</str>
+	<str name="Agent/Attorney">
+		DANISCO A/S, GENENCOR DIVISION
+	</str>
+	<str name="Primary Examiner">
+		LE, LONG V.
+	</str>
+	<str name="Assistant Examiner">
+		COUNTS, GARY W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

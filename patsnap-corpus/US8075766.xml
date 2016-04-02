@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8075766
+	</str>
+	<str name="Application Number">
+		US12/466609
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Liquid filtration system
+	</str>
+	<str name="Abstract">
+		A water treatment method is provided for helping to partially or completely remove sodium and methane gas from water. In the method, water is combined with a reactant that is formulated to combine with the sodium in the water and form a compound. The water and compound are then passed through a bed of media for helping to separate the compound from the water. The method also includes aerating the water to release gases contained therein by breaking the water into microdroplets by passing it through a screen. Additionally, the method may include a step wherein the water is passed through an acidic resin for facilitating a cation exchange where additional sodium is removed. A water treatment apparatus for performing the method is also provided.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-05-15
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-05
+	</str>
+	<str name="Publication Date">
+		2011-12-13
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		B01D24/16 | B01D19/00 | B01D36/00
+	</str>
+	<str name="IPC Primary">
+		B01D24/16
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D24
+	</str>
+	<str name="All UPC">
+		210/266 | 210/202 | 96/206 | 210/289 | 210/218 | 210/188 | 96/187 | 96/219 | 210/241 | 210/205
+	</str>
+	<str name="UPC Primary">
+		210/266
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Multi-Stage Filter Package Plants for Small Drinking Water Applications, Jul. 2009, MS Filter Systems Inc. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5788843 | US4447330 | US20090204419 | US20050173314 | US3203894 | US4518403 | US5997737 | US7273555 | US20050115906 | US5547586 | US3649532 | US4969996 | US5069796 | US2445669 | US20050098499 | US20050109705 | DE3810441 | CA1331346 | JP2002332842
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Assignee(s)">
+		CST INDUSTRIES, INC. (KANSAS CITY, KS), BLUE FUTURE FILTERS, INC.
+	</str>
+	<str name="1st Assignee">
+		CST INDUSTRIES, INC. (KANSAS CITY, KS), BLUE FUTURE FILTERS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Bellingham, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Bellingham, WA
+	</str>
+	<str name="Inventor(s)">
+		STELLEMA, TERRY | BLACKBURN, HUMPHREY | PARRIS, BRIAN | SILVEY, MATTHEW, D.
+	</str>
+	<str name="1st Inventor">
+		STELLEMA, TERRY
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Holt, MO
+	</str>
+	<str name="Inventor(s) Address">
+		Holt, MO | Custer, WA | Mission, KS | Flower, Mound, TX
+	</str>
+	<str name="Agent/Attorney">
+		HUSCH BLACKWELL LLP
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

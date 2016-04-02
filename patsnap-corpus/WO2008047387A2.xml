@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2008047387A2
+	</str>
+	<str name="Application Number">
+		PCT/IN2007/000486
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		A SYSTEM FOR LAND RECORD INFORMATION MANAGEMENT
+	</str>
+	<str name="Abstract">
+		This invention discloses a system and method to maintain accurate information about land and retrieve and analyze the same. Multiple users have access to a centralized data store, which aggregates data, which was formerly recorded on media such as paper. The data is computerized from a variety of formats and languages and stored for use. The data has two main attributes, one spatial and the other non-spatial. The spatial component of the data is usually obtained by satellite imagery, amongst several other sources. The non-spatial component of the data is provided in turn by the teams for which the system is being developed and matters of public record. The present invention discloses a web-centric, client-server based information system and methods therein for fast, secure access to data for purposes of land management and similar applications involving data with spatial and non-spatial components.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-10-17
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2008-04-24
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		G06Q10/00 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06Q10/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06Q
+	</str>
+	<str name="IPC Group">
+		G06Q10
+	</str>
+	<str name="Family Members">
+		WO200908047387A3 | WO200908047386A3 | WO2008047386A2 | WO2008047387A2
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US2004133347A1 | KR20060003143A | JP2000047574A
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		IN
+	</str>
+	<str name="Priority Number">
+		1913/CHE/2006
+	</str>
+	<str name="Priority Date">
+		2006-10-17
+	</str>
+	<str name="Assignee(s)">
+		SPECK SYSTEM LIMITED | VEERA VENKATA REDDY
+	</str>
+	<str name="1st Assignee">
+		SPECK SYSTEM LIMITED
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		Andhra Pradesh, IN
+	</str>
+	<str name="Assignee(s) Address">
+		Andhra Pradesh, IN | Karapureddy, Andhra Pradesh, IN
+	</str>
+	<str name="Agent/Attorney">
+		VAIDYANATHAN, ANURADHA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

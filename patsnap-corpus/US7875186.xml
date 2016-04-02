@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7875186
+	</str>
+	<str name="Application Number">
+		US11287579
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for regenerating and protonating a weak-base anion exchange resin
+	</str>
+	<str name="Abstract">
+		The invention consists of a water treatment process using selective and regenerable weak base anion exchange resins to remove any number of complex anions, especially oxyanions including perchlorate, nitrate, chlorate, arsenate, selenate, and chromate, from aqueous solutions. The treatment process is comprised of three key processes including 1) pretreatment to lower pH, 2) ion exchange, and 3) post treatment to adjust pH and alkalinity. The invention also includes processes for regenerating weak base anion resins and treatment of the residuals generated. This invention employs pressurized treatment, carbon dioxide management, and reuse of regenerating solution to minimize pumping and treatment costs.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-11-23
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2011-01-25
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-01
+	</str>
+	<str name="All IPC">
+		B01J49/00
+	</str>
+	<str name="IPC Primary">
+		B01J49/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01J
+	</str>
+	<str name="IPC Group">
+		B01J49
+	</str>
+	<str name="All UPC">
+		210/683 | 210/677
+	</str>
+	<str name="UPC Primary">
+		210/683
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US3417016 | US6077432 | US6878286 | US20050269269 | US4172185 | US6905111 | US3531401 | US5098579 | US2404367 | US6066257 | US4036751 | US6448299 | US6908560 | GB2060430
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Assignee(s)">
+		APPLIED RESEARCH ASSOCIATES, INC. (ALBUQUERQUE, NM), BROTECH CORPORATION
+	</str>
+	<str name="1st Assignee">
+		APPLIED RESEARCH ASSOCIATES, INC. (ALBUQUERQUE, NM), BROTECH CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Bala Cynwyd, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Bala Cynwyd, PA
+	</str>
+	<str name="Inventor(s)">
+		COPPOLA, EDWARD | BAXLEY, JOHN | DAVIS, ANDREA | BOODOO, FRANCIS | FRIES, WILLIAM | DALE, JAMES
+	</str>
+	<str name="1st Inventor">
+		COPPOLA, EDWARD
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Panama, City, FL
+	</str>
+	<str name="Inventor(s) Address">
+		Panama, City, FL | Lynn, Haven, FL | Panama, City, FL | King, of, Prussia, PA | Warminster, PA | Cardiff, GB
+	</str>
+	<str name="Agent/Attorney">
+		DINSMORE &amp; SHOHL LLP HUSSELL, MONIKA J.
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

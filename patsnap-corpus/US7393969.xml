@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7393969
+	</str>
+	<str name="Application Number">
+		US11574144
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Particular calixarenes method for production and use thereof
+	</str>
+	<str name="Abstract">
+		The present invention relates to calix[4]arenes which effectively bind alkali metal ions (Na.sup.+, K.sup.+) and transport them over phase boundaries, their preparation and use.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-08-16
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-08
+	</str>
+	<str name="Publication Date">
+		2008-07-01
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-07
+	</str>
+	<str name="All IPC">
+		B01D15/00 | C07C69/76
+	</str>
+	<str name="IPC Primary">
+		B01D15/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/662 | 210/660 | 560/57
+	</str>
+	<str name="UPC Primary">
+		210/662
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		DE102004040923A1 | US20070232826A1 | AU2005276650A1 | JP2008510749A | CN101044110A | US7393969 | EP1786757A1 | WO2006021342A1 | CA2577864A1
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Arnaud-Neu, F. et al.; &quot;Selective alkali-metal cation complexation by chemically modified calixarenes. Part 4. Effect of substituent variation on the Na+/K+ selectivity in the ester series and X-ray crystal structure of the trifluoroethyl ester&quot;; J. Chem. Soc. Perkin Trans. 2, vol. 7 (1992) pp. 1119-1125 XP009060397. cited by other . | Diamond, D. et al.; &quot;Characteristics of sodium-selective electrodes based on a triethylester monoacid derivative of p-tert-Butylcalix`4`arene&quot;; Analytical Proceedings, vol. 32, No. 4 (1995) pp. 137-140 XP009060386. cited by other . | Ludwig, R. et al; &quot;New macrocyclic extractants for the processing of inorganic waste&quot;; Nukleonik, vol. 32, No. 2 (1998) pp. 161-173 XP009060384. cited by other . | Galan-Mascaros et al; &quot;A novel chainlike heteropolyanion fromed by keggin units: synthesis and structure of (ET) 8n[PMnW11O39]n . 2nH2O**&quot;; Angew. Chem. Int. Ed. Engl. 34, No. 13, 1995, pp. 1460-1462. cited by other . | Inokuchi, F. et al.; &quot;Selektive Erkennung Von Alkalimetall-Kationen durch pi-basische, molekulare Hohlraume und einfacher massenspektrometrischer Nachweis von Kation-Aren-Komplexen&quot;; Angew. Chem., vol. 107, No. 12 (1995) pp. 1459-1462 XP009060511. cited by other. | Grady, T. et al; &quot;Determination of the enatiomeric composition of chiral amines based on the quenching of the fluorescence of a chiral calixarene&quot;; Anal. Chem. vol. 68, No. 21 (1996) pp. 3775-3782 XP002364286. cited by other . | Chawla, H.M. et al.; &quot;Synthesis of 25,26,27-Tris(ethoxycarbonylmethoxy)-28-(4-methyl-7-coumarinyloxycarbonyl- methoxy)calix-4-arene&quot;; Indian Journal of Chemistry, vol. 32B (1993) pp. 1162-1164 XP009060385. cited by other . | Barrett, G. et al; &quot;Selective monohydrolysis of bridged and unbridged calix`4`arene esters and its inhibition by alkali ion. Evidence for hydronium ion complexation&quot;; J. Chem. Soc. Perkin Trans. 2, vol. 9 (1992) pp. 1595-1601 XP009060359. cited by other . | Groenen L.C. et al.: &quot;Syn-1,2-Dialkylated calix`4`arenes: General intermediates in the NaH/DMF tetraalkylation of calix`4`arenes&quot; Tetrahedron Letters, vol. 32, No. 23 (1991) pp. 2675-2678 XP002364287. cited by other . | Iwamoto, K. et al.; &quot;Conformations and structures of tetra-O-alky-p-tert-butylcalix`4`arenes. How is the conformation of calix`4`arenes immobilized?&quot; J. Org. Chem., vol. 56 (1991) pp. 4955-4962 XP002364289. cited by other . | Iwamoto, K. et al.: &quot;Remarkable metal template effects on selective synthesis of p-t-butylcalix`4`arene conformers&quot;; Tetrahedron Letters, vol. 31, No. 49 (1990) pp. 7169-7172 XP002364288. cited by other .
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cites">
+		US6576192 | US5132345 | US4556700 | EP0490631 | EP0237265
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102004040923
+	</str>
+	<str name="Priority Date">
+		2004-08-24
+	</str>
+	<str name="Assignee(s)">
+		BAYER TECHNOLOGY SERVICES GMBH
+	</str>
+	<str name="1st Assignee">
+		BAYER TECHNOLOGY SERVICES GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Leverkusen, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Leverkusen, DE
+	</str>
+	<str name="Inventor(s)">
+		TRAVING, MICHAEL | GUTKNECHT, WILFRIED | BACKER, WERNER | KUMMER, WOLFGANG | LUDWIG, RAINER
+	</str>
+	<str name="1st Inventor">
+		TRAVING, MICHAEL
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Burscheid, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Burscheid, DE | Goslar, DE | Wipperfurth, DE | Goslar, DE | Berlin, DE
+	</str>
+	<str name="Agent/Attorney">
+		NORRIS MCLAUGHLIN &amp; MARCUS PA
+	</str>
+	<str name="Primary Examiner">
+		ZUCKER, PAUL A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7754157
+	</str>
+	<str name="Application Number">
+		US10610796
+	</str>
+	<str name="Title">
+		Humidifier
+	</str>
+	<str name="Abstract">
+		The present invention provides a humidifier capable of removing microorganisms without using electric power. The humidifier includes a reservoir; a humidification system including a humidification filter arranged such that at least part thereof is immersed in water and a blowing means for discharging air through the humidification filter; and a microorganism remover including a first electrode and a second electrode having different electric potentials and opposing to each other to have a space therebetween and a short circuit part for causing a short circuit between the first and second electrodes. The first electrode is higher than the second electrode in electric potential and at least the first and second electrodes are arranged in contact with water in the reservoir.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-07-01
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-07
+	</str>
+	<str name="Publication Date">
+		2010-07-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-07
+	</str>
+	<str name="All IPC">
+		A62B7/08 | B01D25/00 | C10J1/10
+	</str>
+	<str name="IPC Primary">
+		A62B7/08
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A62
+	</str>
+	<str name="IPC Subclass">
+		A62B
+	</str>
+	<str name="IPC Group">
+		A62B7
+	</str>
+	<str name="All UPC">
+		261/107 | 261/104 | 422/121 | 210/296 | 210/295
+	</str>
+	<str name="UPC Primary">
+		261/107
+	</str>
+	<str name="UPC Class">
+		261
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		English Translation of Japanese Publication No. JP 11028326 A; Suga, Y, &quot;Electrically opeated purifier for indoor air has pair of endless loop filters suspended between motor driven rollers which pass through electrolytic water in tank provided with electrodes&quot; Feb. 2, 1999. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US7967900
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4839014 | US6033806 | US7040101 | US20020197520 | US5028906 | US6972080 | US6720576 | US5783117 | US4049531 | JP2002122339 | JP1999028326 | WO2000077163 | JP1992335934 | JP2001079067 | JP2002012239 | JP1999204148
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2002198402 | 2002199715
+	</str>
+	<str name="Priority Date">
+		2002-07-08 | 2002-07-09
+	</str>
+	<str name="Assignee(s)">
+		PANASONIC CORPORATION (OSAKA, JP), PANASONIC ECOLOGY SYSTEMS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		PANASONIC CORPORATION (OSAKA, JP), PANASONIC ECOLOGY SYSTEMS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Aichi, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Aichi, JP
+	</str>
+	<str name="Inventor(s)">
+		TOMIOKA, TOSHIKAZU | NAKAJIMA, TAKAHIRO | INAGAKI, JUN | NAKANISHI, YOSHIHITO | YOSHIDA, TETSUYA
+	</str>
+	<str name="1st Inventor">
+		TOMIOKA, TOSHIKAZU
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Ibaraki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Ibaraki, JP | Kasugai, JP | Kasugai, JP | Higashiosaka, JP | Osaka, JP
+	</str>
+	<str name="Agent/Attorney">
+		PANITCH SCHWARZE BELISARIO &amp; NADEL LLP
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		JOYNER, KEVIN C
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

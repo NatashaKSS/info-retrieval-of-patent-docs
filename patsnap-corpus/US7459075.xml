@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7459075
+	</str>
+	<str name="Application Number">
+		US11173103
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process control oxidation
+	</str>
+	<str name="Abstract">
+		The present disclosure provides for a system and method that intensely oxidizes water as it navigates through a system and accurately, controllably neutralizes the oxidation by-products before the water exits the system.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-06-30
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-06
+	</str>
+	<str name="Publication Date">
+		2008-12-02
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-12
+	</str>
+	<str name="All IPC">
+		C02F1/78
+	</str>
+	<str name="IPC Primary">
+		C02F1/78
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/199 | 210/167.21 | 210/170.09 | 210/167.11 | 210/150 | 210/170.1 | 210/242.1 | 210/170.11 | 210/170.02
+	</str>
+	<str name="UPC Primary">
+		210/199
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1778592A2 | WO200706017063B1 | WO2006017063A3 | US20080296233A1 | US20060006122A1 | US20060254987A1 | US7459075 | US7514008 | WO2006017063A2
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Trevor V. Suslow, P.h.D., Using Oxidation Reduction Potential (ORP) for Water Disinfection Monitoring, Control and Documentation, research document, Oct. 2000, 4 pages, Dept. of Vegetable Crops University of California, http://www.vric.ucdavis.edu &amp; tvsulow@ucdavis.edu. cited by other . | Mikroelektronika, introduction to PLC controllers, web-page, Sep. 9, 2004, 4 pages, Chapter 1, mikroElektronika, http://www.mikroelektronika.co.vu/english/product/books/PI.Chook/chapter1- /chapter1.htm. cited by other . | Robert W. Lowry &amp; David Dickman, The ABC's of ORP--Clearing up some of the mystery of Oxidation-Reduction Potential, web-page, 5 pages, Sep. 9, 2004, http://www.rhtubs.com/ORP.htm. cited by other. | Axel Daneels, Wayne Salter, IT/CO, What is SCADA?, web-page, Sep. 9, 2004, CERN-CNL-2000-003 vol. xxxv, issue No. 3, 11 pages, http://www.ref.web.cern.ch/ref/CERN/CNL/2000/003/scada/. cited by other . | Science Engineering, PID controller, web-page, Sep. 9, 2004, Science Engineering, http://www.fact-index.com/p/pi/pid.sub.--controller.html. cited by other . | Mikroelektronika, introduction to PLC controllers, web-page, Sep. 9, 2004, 6 pages, Chapter 2, mikroElektronika, http://www.mikroelektronika.co.vu/english/product/books/PI.Chook/chapter2- /chapter2.htm. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cites">
+		US5348664 | US20040112838 | US6235206 | US6284144 | US6556930 | US6706171 | US6620315 | US6623647 | US6419831 | US5043080 | US6464885 | US5851407 | US6474264 | US6814877 | US6432312 | US6811705 | US5273664
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		17310305 | 58633704
+	</str>
+	<str name="Priority Date">
+		2005-06-30 | 2004-07-07
+	</str>
+	<str name="Assignee(s)">
+		DISNEY ENTERPRISES, INC.
+	</str>
+	<str name="1st Assignee">
+		DISNEY ENTERPRISES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Burbank, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Burbank, CA
+	</str>
+	<str name="Inventor(s)">
+		BURNS, IVEY | CHARANDA, THORAM | NICODEMO, THOMAS, J. | DAVIS, RICHARD | CROWDER, JANELL
+	</str>
+	<str name="1st Inventor">
+		BURNS, IVEY
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Kissimmee, FL
+	</str>
+	<str name="Inventor(s) Address">
+		Kissimmee, FL | Mount, Dora, FL | Clermont, FL | St., Cloud, FL | Celebration, FL
+	</str>
+	<str name="Agent/Attorney">
+		GREENBERG TRAURIG, LLP
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

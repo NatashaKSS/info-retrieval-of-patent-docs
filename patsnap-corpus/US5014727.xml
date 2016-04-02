@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5014727
+	</str>
+	<str name="Application Number">
+		US07452746
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Bubbler device for washing semiconductor materials
+	</str>
+	<str name="Abstract">
+		A bubbler device is disclosed, which comprises of a suitable number of bubbling portions and is located on the bottom in a rinse vessel for washing semiconductor materials set in a carrier. The respective bubbling portions have a filter consisted of a fine mesh which enables passage of gas but hinders penetration of liquid, to thereby generate bubbles through the filter so as to promote the washing of semiconductor materials without penetration of the liquid. The filter is releasably mounted on the upper side of the bubbling portion.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1989-12-21
+	</str>
+	<str name="Application Year">
+		1989
+	</str>
+	<str name="Application(Year/Month)">
+		1989-12
+	</str>
+	<str name="Publication Date">
+		1991-05-14
+	</str>
+	<str name="Publication Year">
+		1991
+	</str>
+	<str name="Publication(Year/Month)">
+		1991-05
+	</str>
+	<str name="All IPC">
+		B08B3/08
+	</str>
+	<str name="IPC Primary">
+		B08B3/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		134/902 | 134/184 | 261/122.1 | 134/102.2
+	</str>
+	<str name="UPC Primary">
+		134/902
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		GB2228424B | GB9001127D0 | GB2228424A | JP6044098Y2 | DE3942351A1 | US5014727 | JP2113332U
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		17
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US5419353 | US5526833 | US5292373 | DE4316096C1 | US5845663 | US6217667 | US5697391 | US6532976 | US6632288 | US6637443 | US6715507 | US7125438 | GB2346093A | US6911097 | US8118939
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US4288394 | US2541838 | US3396950
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		121644U
+	</str>
+	<str name="Priority Date">
+		1989-02-27
+	</str>
+	<str name="Inventor(s)">
+		AIGO, SEIICHIRO
+	</str>
+	<str name="1st Inventor">
+		AIGO, SEIICHIRO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		3-15-13, Negishi, Daito-ku, Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		3-15-13, Negishi, Daito-ku, Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		WEGNER &amp; BRETSCHNEIDER
+	</str>
+	<str name="Primary Examiner">
+		COE, PHILIP R.
+	</str>
+	<str name="cited by within 3 years">
+		6
+	</str>
+	<str name="cited by within 5 years">
+		9
+	</str>
+</doc>
+

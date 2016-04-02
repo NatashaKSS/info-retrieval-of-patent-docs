@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2222222A2
+	</str>
+	<str name="Application Number">
+		EP20080847124
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		PERSONAL HEALTH MODULES SUPPORTED BY PORTABLE COMMUNICATION DEVICE
+	</str>
+	<str name="Abstract">
+		A wireless device having a remote station portion, such as a cellular telephone, PDA, laptop computer, handheld computer, or the like and a removably connectable medical device portion, such as a blood glucose monitor or the like, is provided. The medical device portion is separated from the remote station portion by an isolation circuit and electromagnetic shielding to inhibit the electronics and radio frequency transmission of the remote station portion interfering with the medical device. Moreover, a control processor in the remote station portion has a battery management module to disable functions as the charge in the power source falls to provide sufficient power for operation of the medical device.
+	</str>
+	<str name="Document Types">
+		EP | EPA
+	</str>
+	<str name="Application Date">
+		2008-11-06
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-11
+	</str>
+	<str name="Publication Date">
+		2010-09-01
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-09
+	</str>
+	<str name="All IPC">
+		A61B5/00 | H04B1/38
+	</str>
+	<str name="IPC Primary">
+		A61B5/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61B
+	</str>
+	<str name="IPC Group">
+		A61B5
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		WO | US
+	</str>
+	<str name="Priority Number">
+		2008US82665 | 20070935644
+	</str>
+	<str name="Priority Date">
+		2008-11-06 | 2007-11-06
+	</str>
+	<str name="Assignee(s)">
+		QUALCOMM INCORPORATED
+	</str>
+	<str name="1st Assignee">
+		QUALCOMM INCORPORATED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		HOEFEL, GUILHERME, LUIZ, KARNA | CHEN, LIRE | STEENSTRA, JACK | TAYLOR, KIRK | ZHANG, YANG
+	</str>
+	<str name="1st Inventor">
+		HOEFEL, GUILHERME, LUIZ, KARNA
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

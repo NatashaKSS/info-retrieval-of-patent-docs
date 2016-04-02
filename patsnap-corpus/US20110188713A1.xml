@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20110188713A1
+	</str>
+	<str name="Application Number">
+		US13/054338
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		FACIAL IMAGE RECOGNITION AND RETRIEVAL
+	</str>
+	<str name="Abstract">
+		A method or system providing face verification, including obtaining a set of features from a selected image and determining if there are any faces in the selected image. If faces are determined a dominance factor is assigned to at least one face and verification of an identity of the at least one face in the selected image is attempted and a confidence score returned. In attempting to verify the identity of the at least one face any identity information is extracted from metadata associated with the selected image. Also disclosed is a method of facial image retrieval, including defining a query image set from one or more selected facial images, determining a dissimilarity measurement between at least one query feature and at least one target feature. This enables identification of one or more identified facial images from the target facial image set based on the dissimilarity measurement.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2009-07-15
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-07
+	</str>
+	<str name="Publication Date">
+		2011-08-04
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		AU | AU
+	</str>
+	<str name="Priority Number">
+		2008903639 | 2009900639
+	</str>
+	<str name="Priority Date">
+		2008-07-16 | 2009-02-13
+	</str>
+	<str name="Assignee(s)">
+		IMPREZZEO PTY LTD
+	</str>
+	<str name="1st Assignee">
+		IMPREZZEO PTY LTD
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		North Sydney NSW,AU
+	</str>
+	<str name="Assignee(s) Address">
+		North Sydney NSW,AU
+	</str>
+	<str name="Inventor(s)">
+		CHIN PETER KOON WOOI | CAMPBELL TREVOR GERALD | SHAN TING
+	</str>
+	<str name="1st Inventor">
+		CHIN PETER KOON WOOI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		North Sydney,AU
+	</str>
+	<str name="Inventor(s) Address">
+		North Sydney,AU | North Sydney,AU | North Sydney,AU
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090279780A1
+	</str>
+	<str name="Application Number">
+		US12426916
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		IMAGE PROCESSING APPARATUS, METHOD OF CONTROLLING THE SAME, AND PROGRAM
+	</str>
+	<str name="Abstract">
+		Input image data is converted into vector data. The type of the input image data is determined. If it is determined that the input image data is of a first data type, information usable for a search is extracted from the input image data in processing of converting the input image data into the vector data, and information usable for a search is further extracted from the vector data later in the idle time of the image processing apparatus. If it is determined that the input image data is of a second data type, information usable for a search is extracted by performing region segmentation of the input image data. The extracted information is held in association with the vector data as additional information.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2009-04-20
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-04
+	</str>
+	<str name="Publication Date">
+		2009-11-12
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		G06K9/34 | G06F17/30 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/34
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/173 | 382/195 | 707/E17.014 | 707/3 | 382/276
+	</str>
+	<str name="UPC Primary">
+		382/173
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP2009271729A | CN101577778A | US20090279780A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2008121646
+	</str>
+	<str name="Priority Date">
+		2008-05-07
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo,JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s)">
+		MATSUI KENTA
+	</str>
+	<str name="1st Inventor">
+		MATSUI KENTA
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Inagi-shi,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Inagi-shi,JP
+	</str>
+	<str name="Agent/Attorney">
+		FITZPATRICK CELLA HARPER &amp; SCINTO
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

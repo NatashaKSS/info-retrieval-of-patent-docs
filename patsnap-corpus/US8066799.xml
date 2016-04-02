@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8066799
+	</str>
+	<str name="Application Number">
+		US12/007467
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of making a crosslinked fiber membrane from a high molecular weight, monoesterified polyimide polymer
+	</str>
+	<str name="Abstract">
+		The present disclosure relates to a high molecular weight, monoesterified polyimide polymer. Such high molecular weight, monoesterified polyimide polymers are useful in forming crosslinked polymer membranes for the separation of fluid mixtures. According to its broadest aspect, the method of making a crosslinked membrane comprises the following steps: (a) preparing a polyimide polymer comprising carboxylic acid functional groups from a reaction solution comprising monomers and at least one solvent; (b) treating the polyimide polymer with a diol at esterification conditions in the presence of dehydrating conditions to form a monoesterified polyimide polymer; and (c) subjecting the monoesterified fiber to transesterification conditions to form a crosslinked fiber membrane, wherein the dehydrating conditions at least partially remove water produced during step (b). The crosslinked membranes can be used to separate at least one component from a feed stream including more than one component.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-01-10
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-01
+	</str>
+	<str name="Publication Date">
+		2011-11-29
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		C08G73/10 | B01D71/64 | B01D71/40 | B01D53/22
+	</str>
+	<str name="IPC Primary">
+		C08G73/10
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C08
+	</str>
+	<str name="IPC Subclass">
+		C08G
+	</str>
+	<str name="IPC Group">
+		C08G73
+	</str>
+	<str name="All UPC">
+		96/14 | 96/13 | 210/640 | 210/506 | 96/10 | 96/11 | 525/423 | 525/422 | 95/54 | 525/420 | 95/47 | 95/45 | 210/500.27 | 524/599 | 524/538 | 95/51 | 96/8 | 96/9 | 96/4
+	</str>
+	<str name="UPC Primary">
+		96/14
+	</str>
+	<str name="UPC Class">
+		96
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Wallace, D., Crosslinked Hollow Fiber Membranes for Natural Gas Purification and their Manufacture from Novel Polymers, Ph.D. Dissertation, University of Texas, Aug. 2004. cited by other . | U.S. Appl. No. 12/007,466, filed Jan. 10, 2008, &quot;Method of Making a High Molecular Weight, Monoesterified Polyimide Polymer&quot;. cited by other . | Wind, et al., &quot;Solid-State Covalent Cross-Linking of Polyimide Membranes for Carbon Dioxide Plasticization Reduction&quot;, Macromolecules 36:1882-1888 (2003). cited by other . | Staudt-Bickel, C. and Koros, W.J., &quot;Improvement of CO2/CH4 separation characteristics of polyimides by chemical crosslinking&quot; Jr. Membrane Sci. vol. 155:145-154 (1999). cited by other. | Wallace, et al., &quot;Efficient development of effective hollow fiber membranes for gas separations from novel polymers&quot;, Journal of Membrane Science 278:92-104 (2006). cited by other . | Ekiner O.M. and Vassilatos, G., &quot;Polyaramide Hollow Fibers for Hydrogen/Methane Separation--Spinning and Properties&quot;, Journal of Membrane Science 53:259-273 (1990). cited by other . | Prasad et al., &quot;Evolution of membranes in commercial air separation&quot;, J. Membrane Sci 94:225-248 (1994). cited by other . | Koros, W.J. and Fleming, G.K., &quot;Membrane-based gas separation&quot;, Journal of Membrane Science 83:1-80 (1993). cited by other . | International Search Report from PCT/US2009/000029 mailed Mar. 6, 2009. cited by other . | Wallace, D; &quot;Crosslinked Hollow Fiber Membranes for Natural Gas Purification and their Manufacture from Novel Polymers&quot;; Ph.D Disseration; University of Texas, Aug. 2004. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6897921 | US4654415 | US4808686 | US5085676 | US20050268783 | US5104532 | US7101619 | US20070117960 | US7247191 | US6184333 | US6755900 | US5288304 | US4728345 | US6932859 | US7115681 | US20030221559 | US6527987
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Assignee(s)">
+		CHEVRON U.S.A. INC. (SAN RAMON, CA), GEORGIA TECH RESEARCH CORPORATION
+	</str>
+	<str name="1st Assignee">
+		CHEVRON U.S.A. INC. (SAN RAMON, CA), GEORGIA TECH RESEARCH CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Atlanta, GA
+	</str>
+	<str name="Assignee(s) Address">
+		Atlanta, GA
+	</str>
+	<str name="Inventor(s)">
+		MILLER, STEPHEN, J. | OMOLE, IMONA, C. | KRONOS, WILLIAM, J.
+	</str>
+	<str name="1st Inventor">
+		MILLER, STEPHEN, J.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		San, Francisco, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Francisco, CA | Atlanta, GA | Atlanta, GA
+	</str>
+	<str name="Agent/Attorney">
+		MERCHANT &amp; GOULD
+	</str>
+	<str name="Primary Examiner">
+		GREENE, JASON M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

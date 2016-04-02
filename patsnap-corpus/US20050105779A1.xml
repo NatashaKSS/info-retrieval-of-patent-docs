@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20050105779A1
+	</str>
+	<str name="Application Number">
+		US10500562
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Face meta-data creation
+	</str>
+	<str name="Abstract">
+		A face meta-data creating technique in which the description length is short and which is used to extract the face feature for face recognition immune to the local error. An area cut-out section (121) cuts out a local area of a face image. Frequency feature extracting means (122) extracts the frequency spectrum of the local area. Vector projection means (123) projects the obtained frequency feature onto a partial space to extract the face feature of the local area. Aface meta-data unit (12) extracts the face features from local areas cut out in different positions, thus creating face features as face meta-data.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-01-10
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-01
+	</str>
+	<str name="Publication Date">
+		2005-05-19
+	</str>
+	<str name="Publication Year">
+		2005
+	</str>
+	<str name="Publication(Year/Month)">
+		2005-05
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118 | 382/190
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		EP1492049A1 | US20050105779A1 | JP2003296735A | JP3873793B2 | EP1492049A4 | WO2003083774A1 | CN1613090A
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		200296003
+	</str>
+	<str name="Priority Date">
+		2002-03-29
+	</str>
+	<str name="Inventor(s)">
+		KAMEI TOSHIO
+	</str>
+	<str name="1st Inventor">
+		KAMEI TOSHIO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

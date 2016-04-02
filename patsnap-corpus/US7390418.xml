@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7390418
+	</str>
+	<str name="Application Number">
+		US10953967
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of reducing chemical oxygen contaminants in water
+	</str>
+	<str name="Abstract">
+		A method of cleaning water systems and an oxidizer (e.g., a potassium monopersulfate composition) that is used for the method are presented. When potassium monopersulfate is used as the oxidizer, it preferably has a low concentration (&lt;0.5 wt. %) of potassium oxodisulfate byproduct that causes irritation. The low potassium oxodisulfate concentration allows the composition to be used more liberally than conventional potassium monopersulfate. To control the release rate of the oxidizer, the oxidizer is formed into a tablet and placed in an enclosure. The enclosure has pores such that water enters the enclosure at a controlled rate and dissolves the oxidizer. The oxidizer solution that is generated in the enclosure enters the water system through the pores. Optionally, the composition may also include a layer of coating material either under or over the enclosure that further controls the rate of oxidizer dissolution.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-09-28
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-09
+	</str>
+	<str name="Publication Date">
+		2008-06-24
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All IPC">
+		C02F1/72
+	</str>
+	<str name="IPC Primary">
+		C02F1/72
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/758 | 210/167.1
+	</str>
+	<str name="UPC Primary">
+		210/758
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20050284821A1 | US7390418
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7695631 | US7988891 | US7794607 | US8262778
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		US4350666 | US3647523
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		95396704 | 87816704
+	</str>
+	<str name="Priority Date">
+		2004-09-28 | 2004-06-28
+	</str>
+	<str name="Assignee(s)">
+		TRUOX, INC.
+	</str>
+	<str name="1st Assignee">
+		TRUOX, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		McClellan, CA
+	</str>
+	<str name="Assignee(s) Address">
+		McClellan, CA
+	</str>
+	<str name="Inventor(s)">
+		MARTIN, PERRY, L. | MARTIN, ROY, W.
+	</str>
+	<str name="1st Inventor">
+		MARTIN, PERRY, L.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Yuba, City, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Yuba, City, CA | Downers, Grove, IL
+	</str>
+	<str name="Primary Examiner">
+		HOPKINS, ROBERT
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5652496
+	</str>
+	<str name="Application Number">
+		US08606015
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Electrical device having a discriminating, rechargeable battery system
+	</str>
+	<str name="Abstract">
+		In accordance with the present invention, a portable electrical device with a discriminating, rechargeable battery system is provided. The rechargeable battery system includes a load circuit connected to a discharge contact adapted to electrically couple to an electrical terminal on a battery to receive power therefrom whereby either a first battery having a predetermined feature or a second battery lacking the predetermined feature may be coupled thereto. The system further includes a charger circuit connected to a charging contact adapted to electrically couple to the same electrical terminal on the battery to provide a charging current to the battery from an outside power source. An inhibitor is associated with the charger circuit and is adapted to cooperate with the predetermined feature to only allow the coupling of the charging contact with the electrical terminal of the first battery thereby preventing the coupling of the charging contact with the electrical terminal of the second battery. As such, only a battery having the predetermined feature may receive the charging current.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-02-12
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-02
+	</str>
+	<str name="Publication Date">
+		1997-07-29
+	</str>
+	<str name="Publication Year">
+		1997
+	</str>
+	<str name="Publication(Year/Month)">
+		1997-07
+	</str>
+	<str name="All IPC">
+		H02J7/00
+	</str>
+	<str name="IPC Primary">
+		H02J7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02J
+	</str>
+	<str name="IPC Group">
+		H02J7
+	</str>
+	<str name="All UPC">
+		429/178 | 429/7 | 320/128 | 320/107 | 320/106
+	</str>
+	<str name="UPC Primary">
+		429/178
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		US5652496
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5443924 | US5038093 | US4645996 | US4816735 | US5108847 | US5057761 | US4577144 | US4147838 | US4628243 | US4489268 | US4602202
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		60601596
+	</str>
+	<str name="Priority Date">
+		1996-02-12
+	</str>
+	<str name="Assignee(s)">
+		RAYOVAC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		RAYOVAC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Madison, WI
+	</str>
+	<str name="Assignee(s) Address">
+		Madison, WI
+	</str>
+	<str name="Inventor(s)">
+		PILARZYK, JAMES, G. | SENGUPTA, UPAL | RUTH, STEVEN, R.
+	</str>
+	<str name="1st Inventor">
+		PILARZYK, JAMES, G.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Madison, WI
+	</str>
+	<str name="Inventor(s) Address">
+		Madison, WI | Oregon, WI | Madison, WI
+	</str>
+	<str name="Agent/Attorney">
+		VEDDER, PRICE, KAUFMAN &amp; KAMMHOLZ
+	</str>
+	<str name="Primary Examiner">
+		WONG, PETER S.
+	</str>
+	<str name="Assistant Examiner">
+		SHIN, K.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

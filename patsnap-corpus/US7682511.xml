@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7682511
+	</str>
+	<str name="Application Number">
+		US12114751
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for the filtration of biological solutions
+	</str>
+	<str name="Abstract">
+		A system, method and device are disclosed for bio-processing a feed stream and providing a constant output by operating a continuous single-pass tangential-flow process. The single-pass process provides high conversion concentration while operating at relatively low feed flow rates, and the process can also be used to provide constant output diafiltration.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-05-03
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-05
+	</str>
+	<str name="Publication Date">
+		2010-03-23
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		B01D61/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/321.72 | 210/321.65 | 210/321.74 | 210/650 | 210/637 | 210/321.76
+	</str>
+	<str name="UPC Primary">
+		210/321.72
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Ho, W. S. Winston et al., Membrane handbook, 1992, pp. 321-322, Van Nostrand Reinhold,New York, NY, U.S.A. cited by other . | Publication: &quot;The transversal flow microfiltration module. Theory, design, realization and experiments&quot;, F N M Knops, H Futselaar and I G Racz, Journal of Membrane Science 73 (1992) pp. 153-161, downloaded from the Internet Mar. 23, 2009. cited by examiner . | Search Report and Written Opinion of the USPTO as ISA mailed Jan. 10, 2008 (U.S. Appl. No. 11/615,028). cited by other. | Flow Configuration, Jan. 23, 2001, pp. 1-8, Hydranautics Inc. cited by other . | Zeman, Leos J. et al., Microfiltration and ultrafiltration : principles and applications, 1996, pp. 359-361, Marcel Dekker, Inc. New York, NY, U.S.A. cited by other . | Cheryan, Ultrafiltration and Microfiltration Handbook,1998, pp. 316-317, Techmonic Publising company, inc., Lancaster, PA, U.S.A. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cites">
+		US6077435 | US6077436 | US4668399 | US4643902 | US4855058 | US4839037 | US5641332 | US20050035044 | US6916420 | US4222874 | US7048855 | US5597486 | US4789482 | US4540492 | US6764653 | US5922210 | US5654025 | USR32089 | US5628909 | US4716044 | US4200533 | US4430218 | US5108601 | US3933646 | US6387270 | US5674395 | US6692702 | US4343705 | US6368505 | US4902417 | US20050077229 | US4212742 | US3965012 | US6893563 | US4729829 | US4235723 | US6929743 | US4639316 | US4879098 | US6506300 | US6126833 | US6342157 | US5647990 | US6926833 | US20040188351 | US6110699 | US5490937 | US6607669 | US4751003 | US4605503 | US3984319 | US20020108907 | US5985151 | US6536605 | US6716356 | US6068775 | US4973404 | US6592763 | US5961834 | US6197191 | US5685990 | US4761230 | US20060121555 | US4619639 | US4312755 | US5256294 | US20030178367 | US6350382 | US6312591 | US4765906 | US4952751 | US20030178368 | US5256297 | USR30632 | US5248418 | US4755297 | US6555006 | US6296770 | US6221249 | US6054051 | US5660728 | US6932907 | US6692968 | US6702941 | US4369112 | US4105547 | US6357601 | US6406623
+	</str>
+	<str name="Cites Count">
+		88
+	</str>
+	<str name="Assignee(s)">
+		SPF INNOVATIONS, LLC
+	</str>
+	<str name="1st Assignee">
+		SPF INNOVATIONS, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Watertown, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Watertown, MA
+	</str>
+	<str name="Inventor(s)">
+		DE, LOS, REYES, GASTON | MIR, LEON
+	</str>
+	<str name="1st Inventor">
+		DE, LOS, REYES, GASTON
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Somerville, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Somerville, MA | Newton, MA
+	</str>
+	<str name="Agent/Attorney">
+		GAIMAN, BARRY
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

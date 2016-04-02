@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7374656
+	</str>
+	<str name="Application Number">
+		US10520708
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Combined electrochemical system for scale treatment and eradicating Legionella pneumophila bacteria in water supply systems
+	</str>
+	<str name="Abstract">
+		A combined electrochemical system for scale treatment and eradicating bacteria in water supply systems having: (a) a first electro-chemical cell including: (i) a first metallic tank for receiving a water supply and forming a cathode of the first electro-chemical cell, and (ii) a first anode, disposed within the first tank; (b) a second electro-chemical cell including: (i) a second metallic tank for receiving an effluent from the first tank and forming a cathode of the second electro-chemical cell, and (ii) a second anode, disposed within the second tank; and (c) a DC electrical supply source operatively connected to the first and the second cells, wherein the first electro-chemical cell is operative for trapping bacteria in a colloid-like structure, and the second electro-chemical cell is operative for producing a pH above 12 near the walls of the second tank, so as to form a bacteria-containing precipitate on the walls of the second tank, thereby removing the bacteria from the water supply.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-08-10
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-08
+	</str>
+	<str name="Publication Date">
+		2008-05-20
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		C25F7/00 | C02F1/463
+	</str>
+	<str name="IPC Primary">
+		C25F7/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C25
+	</str>
+	<str name="IPC Subclass">
+		C25F
+	</str>
+	<str name="IPC Group">
+		C25F7
+	</str>
+	<str name="All UPC">
+		204/275.1 | 204/272 | 205/760 | 205/742
+	</str>
+	<str name="UPC Primary">
+		204/275.1
+	</str>
+	<str name="UPC Class">
+		204
+	</str>
+	<str name="Family Members">
+		AU2003249562A1 | EP1572592A2 | EP1572592A4 | US20050230268A1 | US7374656 | WO2004014806A3 | WO2004014806A2 | IL151181D0
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US2530524 | US6346197 | US6800207 | US20040251213
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		IL
+	</str>
+	<str name="Priority Number">
+		151181
+	</str>
+	<str name="Priority Date">
+		2002-08-11
+	</str>
+	<str name="Inventor(s)">
+		ELGRESSY, GABBY
+	</str>
+	<str name="1st Inventor">
+		ELGRESSY, GABBY
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Netanya, 42379, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Netanya, 42379, IL
+	</str>
+	<str name="Agent/Attorney">
+		FRIEDMAN LTD, MARK M.
+	</str>
+	<str name="Primary Examiner">
+		PHASGE, ARUN S.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

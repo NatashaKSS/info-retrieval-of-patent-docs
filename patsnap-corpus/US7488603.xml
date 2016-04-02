@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7488603
+	</str>
+	<str name="Application Number">
+		US10920960
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and device for extracting an analyte
+	</str>
+	<str name="Abstract">
+		The invention provides extraction columns for the purification of an analyte (e.g., a biological macromolecule, such as a peptide, protein or nucleic acid) from a sample solution, as well as methods for making and using such columns. The columns typically include a bed of extraction media positioned in the column between two frits. In some embodiments, the extraction columns employ modified pipette tips as column bodies. In some embodiments, the invention provides methods characterized by the elution of analyte in a small volume of liquid.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-08-17
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2009-02-10
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		G01N1/18 | B01L11/00 | B01D15/08 | G01N33/72
+	</str>
+	<str name="IPC Primary">
+		G01N1/18
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N1
+	</str>
+	<str name="All UPC">
+		422/101 | 210/198.2 | 436/177 | 436/66
+	</str>
+	<str name="UPC Primary">
+		422/101
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Members">
+		US20050016921A1 | US20050019941A1 | US20050045543A1 | US7488603
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5981736 | US20030133846 | US6416716 | US5437979 | US4131544 | US7008542 | US6482362 | US20030178370 | US6770246 | US20020110495 | US6274371 | US5368729 | US5833927 | US7151167 | US5863428 | US6045757 | US6200474 | US5595653 | US6139733 | US5443734 | US5171537 | US5512168 | US5356792 | US7122640 | US5849249 | US6527951 | US6566145 | US20030007897 | US6048457 | US6117394 | US5556598 | US20020009809 | US5187990 | WO1998009201 | WO1998037949 | EP1095703 | WO2002025883 | WO2001007162 | EP1139087
+	</str>
+	<str name="Cites Count">
+		39
+	</str>
+	<str name="Priority Country">
+		US | US | US | US
+	</str>
+	<str name="Priority Number">
+		92096004 | 89638204 | 62015503 | 57030204
+	</str>
+	<str name="Priority Date">
+		2004-08-17 | 2004-07-20 | 2003-07-14 | 2004-05-12
+	</str>
+	<str name="Assignee(s)">
+		PHYNEXUS, INC.
+	</str>
+	<str name="1st Assignee">
+		PHYNEXUS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Jose, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Jose, CA
+	</str>
+	<str name="Inventor(s)">
+		GJERDE, DOUGLAS, T. | HANNA, CHRISTOPHER, P.
+	</str>
+	<str name="1st Inventor">
+		GJERDE, DOUGLAS, T.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Saratoga, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Saratoga, CA | San, Francisco, CA
+	</str>
+	<str name="Agent/Attorney">
+		KALMAN, SUE S. HOLMER, CHRISTOPHER M.
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		RAMILLANO, LORE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

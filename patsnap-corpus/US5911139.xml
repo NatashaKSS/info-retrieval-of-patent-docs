@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5911139
+	</str>
+	<str name="Application Number">
+		US08828360
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Visual image database search engine which allows for different schema
+	</str>
+	<str name="Abstract">
+		A system and method for content-based search and retrieval of visual objects. A base visual information retrieval (VIR) engine utilizes a set of universal primitives to operate on the visual objects. An extensible VIR engine allows custom, modular primitives to be defined and registered. A custom primitive addresses domain specific problems and can utilize any image understanding technique. Object attributes can be extracted over the entire image or over only a portion of the object. A schema is defined as a specific collection of primitives. A specific schema implies a specific set of visual features to be processed and a corresponding feature vector to be used for content-based similarity scoring. A primitive registration interface registers custom primitives and facilitates storing of an analysis function and a comparison function to a schema table. A heterogeneous comparison allows objects analyzed by different schemas to be compared if at least one primitive is in common between the schemas. A threshold-based comparison is utilized to improve performance of the VIR engine. A distance between two feature vectors is computed in any of the comparison processes so as to generate a similarity score.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1997-03-28
+	</str>
+	<str name="Application Year">
+		1997
+	</str>
+	<str name="Application(Year/Month)">
+		1997-03
+	</str>
+	<str name="Publication Date">
+		1999-06-08
+	</str>
+	<str name="Publication Year">
+		1999
+	</str>
+	<str name="Publication(Year/Month)">
+		1999-06
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/102 | 707/3 | 707/104.1
+	</str>
+	<str name="UPC Primary">
+		707/102
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Members">
+		US5911139
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References">
+		Hands on Information: Visualizer Ultimedia Query for OS/2 brochure, IBM, 1994. | Database Architecture for Content Image Retrieval, T. Kato, SPIE vol. 1662 Image Storage and Retrieval Systems, 1992, pp. 112-123. | Mohan et al., &quot;A Visual Query for Graphical Interaction With Schema-Intensive Databases&quot;, pp. 848-858, vol. 5, No. 5, Oct. 1993. | Ultimedia Manager: Professional Edition for OS/2 &amp; DB2/2 brochure, IBM. | IBM Unleashes QBIC Image-Content Search, The Seybold Report on Desktop Publishing, Sep. 12, 1994, pp. 34-35. | A Cognitive Approach to Visual Interaction, T. Kato, et al., International Conference on Multimedia Information Systems '91. 1991, pp. 109-120. | Using Depictive Queries to Search Pictorial Databases, S. Charles, et al., INTERACT '90 Proceedings of the IFIP TC 13 In: Human-Computer Interaction. 1990. pp. 493-498. | Gong et al., &quot;An Image Database System with Content Capturing and Fast Image Indexing Abilities&quot;, IEEE, pp. 121-130, 1994.
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cited By">
+		EP1654620A2 | FR2861870A1 | US8341136 | US8341137 | US6381510 | US7003518 | US6711568 | US6501852 | US6418430 | US6421691 | US6609134 | US7016553 | US7693855 | US7693899 | US7664734
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5579471 | US4716404 | US5751286 | US5148522 | US5652851 | US5652881
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		82836097 | 1489396
+	</str>
+	<str name="Priority Date">
+		1997-03-28 | 1996-03-29
+	</str>
+	<str name="Assignee(s)">
+		VIRAGE, INC.
+	</str>
+	<str name="1st Assignee">
+		VIRAGE, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Mateo, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Mateo, CA
+	</str>
+	<str name="Inventor(s)">
+		JAIN, RAMESH | HOROWITZ, BRADLEY | FULLER, CHARLES, E. | GUPTA, AMARNATH | BACH, JEFFREY, R. | SHU, CHIAO-FE
+	</str>
+	<str name="1st Inventor">
+		JAIN, RAMESH
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		San, Diego, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Diego, CA | San, Mateo, CA | San, Mateo, CA | Redwood, City, CA | San, Mateo, CA | San, Mateo, CA
+	</str>
+	<str name="Agent/Attorney">
+		KNOBBE, MARTENS, OLSON &amp; BEAR, LLP
+	</str>
+	<str name="Primary Examiner">
+		KULIK, PAUL V.
+	</str>
+	<str name="Assistant Examiner">
+		HOMERE, JEAN R.
+	</str>
+	<str name="cited by within 3 years">
+		43
+	</str>
+	<str name="cited by within 5 years">
+		89
+	</str>
+</doc>
+

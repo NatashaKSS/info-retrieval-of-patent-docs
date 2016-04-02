@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5608816
+	</str>
+	<str name="Application Number">
+		US08305968
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Apparatus for inspecting a wiring pattern according to a micro-inspection and a macro-inspection performed in parallel
+	</str>
+	<str name="Abstract">
+		Pieces of feature information in a bi-level image such as a width, a branching point and an ending point of a wiring pattern are detected in a design rule checking section according to a micro inspection to find out pieces of feature information departing from a design rule. Also, feature codes in the bi-level image such as a corner of the wiring pattern are detected in a specific shape detecting section according to a macro inspection. The feature information are compared with pieces of referential feature information pertaining to a non-defective wiring pattern in a first comparing and judging section to judge whether the wiring pattern indicated by the feature information is defective or non-defective. The feature codes are compared with referential feature codes pertaining to a non-defective wiring pattern in a second comparing and judging section to judge whether the wiring pattern indicated by the feature codes is defective or non-defective. Therefore, defective types and portions of the wiring pattern can be detected by performing the macro inspection and the micro inspection in parallel without dividing the wiring pattern into processed regions.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1994-09-15
+	</str>
+	<str name="Application Year">
+		1994
+	</str>
+	<str name="Application(Year/Month)">
+		1994-09
+	</str>
+	<str name="Publication Date">
+		1997-03-04
+	</str>
+	<str name="Publication Year">
+		1997
+	</str>
+	<str name="Publication(Year/Month)">
+		1997-03
+	</str>
+	<str name="All IPC">
+		G06K9/03 | H04N7/18
+	</str>
+	<str name="IPC Primary">
+		G06K9/03
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/150 | 382/257 | 382/147 | 348/126 | 382/149
+	</str>
+	<str name="UPC Primary">
+		382/150
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US5608816
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;An Algorism Of Pattern Recognition And Learning&quot;, published by Bunichisougosyuppan, pp. 91-108, 1990. | &quot;Further Consideration On Line Thinning Schemes&quot;, H. Tamura, Technical Report, Institute of Electronic Information and Communication Engineers of Japan, PRL75-66, 1975. | &quot;Digital Image Processing&quot;, Kindaikagaku Co, Ltd., 1992, A. Rosefeld et al. | &quot;A Visual Inspecting Technique Of Electronic Circuit Boards&quot;, O plus E, No. 132, Y, Nakagawa et al., No. 132, pp. 138-152, Nov. 1990. | &quot;On The Encoding Of Arbitrary Geometric Configurations&quot;, IRE Trans. Electron. Comput. EC-10, pp. 260-268, 1961.
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cites">
+		US5214712 | US5185812 | US5272763 | US5185811 | US5347591 | US4630306 | US4642813 | JP1987140009 | JP1994203141 | JP1985061604 | JP1993060535 | JP1986015343 | JP1991252545 | JP1989180404 | JP1992120448 | JP1987263404
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		5328500
+	</str>
+	<str name="Priority Date">
+		1993-12-24
+	</str>
+	<str name="Assignee(s)">
+		MATSUSHITA ELECTRIC INDUSTRIAL CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		MATSUSHITA ELECTRIC INDUSTRIAL CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Osaka, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s)">
+		KAWAHARA, TOYOKI | YAMAMOTO, ATSUHARU | MARUYAMA, YUJI | KAWAKAMI, HIDEHIKO | KAWAMURA, HIDEAKI
+	</str>
+	<str name="1st Inventor">
+		KAWAHARA, TOYOKI
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP | Kawasaki, JP | Tokyo, JP | Tokyo, JP | Kyoto, JP
+	</str>
+	<str name="Agent/Attorney">
+		LOWE, PRICE, LEBLANC &amp; BECKER
+	</str>
+	<str name="Primary Examiner">
+		BOUDREAU, LEO
+	</str>
+	<str name="Assistant Examiner">
+		DAVIS, MONICA S.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

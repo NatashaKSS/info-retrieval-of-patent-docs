@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6345275
+	</str>
+	<str name="Application Number">
+		US09107384
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for retrieving image information in computer
+	</str>
+	<str name="Abstract">
+		An apparatus and method for retrieving image information in a computer. A controller receives a schematic image inputted by a user and normalizes the input image to an image of a constant size. A feature vector of each sub block of the normalized image is extracted, and the extracted feature vector is quantized to one of representative values of a determined number within feature vector space. An image profile indicating the frequency of occurrence of the feature vector of the input image is generated with respect to a quantizing level. A profile of the input image is compared with a profile of each image in an image data base part. An image corresponding to a profile whose similarity is within a reference value is displayed.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-06-30
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-06
+	</str>
+	<str name="Publication Date">
+		2002-02-05
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-02
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		382/190 | 707/6
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		KR100295225B1 | US20010056419A1 | US6345275 | CN1207532A | JP1999066107A
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		31
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7664333 | US7346631 | US8199980 | US8311294 | US6574616 | US6961736 | US7885435 | US7792887 | US7831069 | US8369570 | US6968095 | US7457460 | US7400765 | US7006714 | US6694065
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5867593 | US5819288 | US5848186 | US5734882 | US5899999 | US5715336 | US5867277 | US6266445 | US5809498 | US5802208 | US6253201 | US4716404 | US6035055 | US5983237 | US5828769
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		97366575
+	</str>
+	<str name="Priority Date">
+		1997-07-31
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kyungki-Do, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Kyungki-Do, KR
+	</str>
+	<str name="Inventor(s)">
+		LEE, HEE-JONG
+	</str>
+	<str name="1st Inventor">
+		LEE, HEE-JONG
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		BLACK, THOMAS
+	</str>
+	<str name="Assistant Examiner">
+		WANG, MARY
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		4
+	</str>
+</doc>
+

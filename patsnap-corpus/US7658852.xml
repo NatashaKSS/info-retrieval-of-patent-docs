@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7658852
+	</str>
+	<str name="Application Number">
+		US11629630
+	</str>
+	<str name="Title">
+		RO membrane cleaning method
+	</str>
+	<str name="Abstract">
+		Direct-osmosis (DO) method for cleaning a semi-permeable membrane in a RO separation module, the membrane having a feed side with foulant located thereon, and an opposite permeate side. A normal RO separation process in the same module includes: feeding, under gauge pressure PGr, raw saline solution having osmotic pressure POr to the membrane feed side; collecting permeate (solvent) having osmotic pressure POp from the permeate side, under gauge pressure PGp; and removing residual brine from the membrane feed side. The method comprises feeding to the feed side of the membrane, for a predetermined injection time, super saline solution having osmotic pressure POs&gt;POr, such that backward flow of permeate towards the feed side of the membrane is provided so as to lift the foulant from the feed side.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-05-19
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-05
+	</str>
+	<str name="Publication Date">
+		2010-02-09
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-02
+	</str>
+	<str name="All IPC">
+		B01D65/02
+	</str>
+	<str name="IPC Primary">
+		B01D65/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D65
+	</str>
+	<str name="All UPC">
+		210/639 | 210/637 | 210/636
+	</str>
+	<str name="UPC Primary">
+		210/639
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Liberman, B., et al., &quot;Backflushable RO membranes&quot;, Presentation on Conference, European Desalination Society, Conference Membranes in Drinking and Industrial water production, L'Aquila Italy, Nov. 15-17, 2004. cited by other . | Liberman, B., et al., &quot;Replacing membrane CIP by Direct Osmosis cleaning&quot;, Desalination and Wate Reuse Quarterly, (Aug./Sep. 2005). cited by other . | Sagiv, A., et al., &quot;Backwash of RO spiral wound membranes&quot;, Abstract of Presentation on Conference, European Desalination Society, Conference Membranes in Drinking and Industrial water production, L'Aquila Italy, Nov. 15-17, 2004. pp. 150-151, No. 934. cited by other . | Lee, S., et al., &quot;Salt cleaning of organic-fouled reverse osmosis membranes&quot;, Water Research, vol. 41, pp. 1134-1142, (2007). cited by other. | Advertising leaflet, &quot;Replacing CIP membrane by Direct Osmosis Cleaning&quot;, Dogma Lili Derish, (Aug. 2005). cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cites">
+		US4321137 | US3923654 | US6254779 | US3853756 | US3827976 | US6568282 | US4169789 | US3992301 | EP0899238 | JP1976051153 | EP0768112 | WO2004062774 | JP1999169688 | JP1989119306 | JP2000079328
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Assignee(s)">
+		MEMBRANE RECOVERY LTD
+	</str>
+	<str name="1st Assignee">
+		MEMBRANE RECOVERY LTD
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tel Aviv, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Tel Aviv, IL
+	</str>
+	<str name="Inventor(s)">
+		LIBERMAN, IGAL
+	</str>
+	<str name="1st Inventor">
+		LIBERMAN, IGAL
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tel, Aviv, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Tel, Aviv, IL
+	</str>
+	<str name="Agent/Attorney">
+		THE NATH LAW GROUP RICHMOND, DEREK ZHANG, JOAXIAO
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D
+	</str>
+	<str name="Assistant Examiner">
+		ANDERSON, DENISE R
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

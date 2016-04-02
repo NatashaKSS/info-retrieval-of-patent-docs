@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5583744
+	</str>
+	<str name="Application Number">
+		US08524310
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Portable computer with detachable battery pack
+	</str>
+	<str name="Abstract">
+		A battery pack to be externally attached to a system body of a portable computer contains a plurality of batteries in two rows. A groove is formed on that portion of the top of the battery pack which correspond to the region between the rows of batteries. A hinge unit for swingably supporting a display unit is provided on the rear end of the system body of the computer in a manner such that it is partially housed in the groove of the battery pack. With this arrangement, the computer is reduced in thickness. The battery pack, which is connected to the rear end of the system body, is rotatable relatively to the system body. During use of the computer, therefore, a keyboard can be slightly declined toward a user by rotating the battery pack to raise the rear end of the system body.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-09-06
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-09
+	</str>
+	<str name="Publication Date">
+		1996-12-10
+	</str>
+	<str name="Publication Year">
+		1996
+	</str>
+	<str name="Publication(Year/Month)">
+		1996-12
+	</str>
+	<str name="All IPC">
+		H05K7/16 | H05K7/10 | G06F1/16
+	</str>
+	<str name="IPC Primary">
+		H05K7/16
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/683 | 16/223 | 361/680 | 429/98
+	</str>
+	<str name="UPC Primary">
+		361/683
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US5583744
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5390075 | US5293300 | US5243549 | US5107401
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		6238435 | 6238437
+	</str>
+	<str name="Priority Date">
+		1994-09-06 | 1994-09-06
+	</str>
+	<str name="Assignee(s)">
+		CITIZEN WATCH CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		CITIZEN WATCH CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		OGUCHI, TOSHIAKI | SAITO, ASAO | MUKAIJIMA, KATSUTOSHI | NAKAMURA, HIDEO
+	</str>
+	<str name="1st Inventor">
+		OGUCHI, TOSHIAKI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Kodaira, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kodaira, JP | Tokorozawa, JP | Hoya, JP | Higashiyamato, JP
+	</str>
+	<str name="Agent/Attorney">
+		LOWE, PRICE, LEBLANC &amp; BECKER
+	</str>
+	<str name="Primary Examiner">
+		PICARD, LEO P.
+	</str>
+	<str name="Assistant Examiner">
+		FEILD, LYNN D.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7587417
+	</str>
+	<str name="Application Number">
+		US11393044
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Systems and methods for dynamic querying
+	</str>
+	<str name="Abstract">
+		A user can generate queries dynamically at runtime without having to redeploy the appropriate EJB or hard-code the query into the user application. A properties object can be generated to accept the query settings from the user. These settings can be extracted at runtime when the appropriate finder method is invoked, such that the desired query statement, such as a SQL statement, can be generated and executed against the database.This description is not intended to be a complete description of, or limit the scope of, the invention. Other features, aspects, and objects of the invention can be obtained from a review of the specification, the figures, and the claims.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-03-30
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-03
+	</str>
+	<str name="Publication Date">
+		2009-09-08
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		G06F9/44 | G06F7/00 | G06F3/00
+	</str>
+	<str name="IPC Primary">
+		G06F9/44
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F9
+	</str>
+	<str name="All UPC">
+		707/103R | 719/310 | 707/3 | 717/108
+	</str>
+	<str name="UPC Primary">
+		707/103R
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Members">
+		US20030163460A1 | US20060173835A1 | US20060173832A1 | US7454438 | US7587417 | WO2003062987A1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Crechert et al., &quot;Performance and Scalability of EJB Application,&quot; Proceedings of the 17.sup.th ACM Conference on Object-Oriented Programming, Systems, Languages and Applications, Nov. 2002, vol. 37, Issue 11, ACM Press, pp. 246-250. cited by other. | International Search Report for PCT/US03/04948 dated May 2, 2003 (3 pages). cited by other . | International Search Report for PCT/US03/01211 dated Apr. 14, 2003 (2 pages). cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US5499371 | US6748373 | US6823329 | US6687702 | US20040111701 | US6266666 | US6308179 | US6640244 | US6996565 | US6505200 | US6199195 | US6694328 | US7089230 | US6760719 | US6571282 | US6999956 | US6985899 | US6539396 | US20030163460 | US6971085 | US6836889 | US6442541 | US6466933 | GB2339036
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		39304406 | 34110703 | 34943202
+	</str>
+	<str name="Priority Date">
+		2006-03-30 | 2003-01-13 | 2002-01-18
+	</str>
+	<str name="Assignee(s)">
+		BEA SYSTEMS, INC.
+	</str>
+	<str name="1st Assignee">
+		BEA SYSTEMS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Jose, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Jose, CA
+	</str>
+	<str name="Inventor(s)">
+		SHINN, MATTHEW | WHITE, SETH | WOOLLEN, ROBERT
+	</str>
+	<str name="1st Inventor">
+		SHINN, MATTHEW
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		San, Francisco, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Francisco, CA | San, Francisco, CA | San, Francisco, CA
+	</str>
+	<str name="Agent/Attorney">
+		FLIESLER MEYER LLP
+	</str>
+	<str name="Primary Examiner">
+		LEROUX, ETIENNE P
+	</str>
+	<str name="Assistant Examiner">
+		CHEN, SUSAN Y
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

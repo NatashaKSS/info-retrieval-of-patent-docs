@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7520978
+	</str>
+	<str name="Application Number">
+		US11156102
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Fluid purification system with ultra violet light emitters
+	</str>
+	<str name="Abstract">
+		A system for purifying a fluid uses ultra violet (UV) light to inactivate micro-organisms present in the fluid. The system has an arrangement of UV light emitters on perforated plates. The fluid, while passing through perforations in the perforated plates, is exposed to the UV light emitted by the UV light emitters. Micro-organisms present in the fluid pass very close to the UV light emitters. The UV light absorbed by the micro-organisms causes genetic damage and inactivation. The system has feedback units providing feedback about the physical properties of the fluid to a power unit supplying power to the UV light emitters. The power unit varies the amount of power supplied to the UV light emitters, based on the feedback.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-06-17
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-06
+	</str>
+	<str name="Publication Date">
+		2009-04-21
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		A61L2/10
+	</str>
+	<str name="IPC Primary">
+		A61L2/10
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61L
+	</str>
+	<str name="IPC Group">
+		A61L2
+	</str>
+	<str name="All UPC">
+		250/438 | 361/761 | 96/16 | 250/435 | 422/186.3 | 210/143 | 96/418 | 210/87 | 210/97 | 96/422 | 361/806 | 422/111 | 210/94 | 210/192
+	</str>
+	<str name="UPC Primary">
+		250/438
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		US20060283786A1 | US7520978 | JP2006346676A | WO2006134567A1 | CN101238073A
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7393095 | US20040101291 | US20060131246 | US5368826 | US5671678 | US5471063 | US5780748 | US7137696 | US7169311 | US4555717 | US6524447 | US20080094841 | US4400270
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		15610205
+	</str>
+	<str name="Priority Date">
+		2005-06-17
+	</str>
+	<str name="Assignee(s)">
+		PHILIPS LUMILEDS LIGHTING CO., LLC
+	</str>
+	<str name="1st Assignee">
+		PHILIPS LUMILEDS LIGHTING CO., LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Jose, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Jose, CA
+	</str>
+	<str name="Inventor(s)">
+		HARBERS, GERARD
+	</str>
+	<str name="1st Inventor">
+		HARBERS, GERARD
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Sunnyvale, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Sunnyvale, CA
+	</str>
+	<str name="Agent/Attorney">
+		PATENT LAW GROUP LEITERMAN, RACHEL
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

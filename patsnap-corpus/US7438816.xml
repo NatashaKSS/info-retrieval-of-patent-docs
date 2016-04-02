@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7438816
+	</str>
+	<str name="Application Number">
+		US11819522
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for treating water containing ammonium-nitrogen
+	</str>
+	<str name="Abstract">
+		Raw water containing ammonium-nitrogen is introduced into a nitrification tank and nitrification of nitrite-nitrogen by nitrite oxidizing bacteria is inhibited according to inhibition of the ammonium-nitrogen, thereby conducting stable nitrification of nitrous acid type at a high load by the action of ammonium oxidizing bacteria. Carbonate and/or bicarbonate are added into the nitrification tank 1. The inorganic carbon concentration in the nitrification tank 1 is maintained at 35 mg-C/L or more. The nitrified liquid thus obtained is introduced into a denitrification tank and denitrification reaction is conducted by the action of denitrifying bacteria with the remaining ammonium-nitrogen as an electron donor and the nitrite-nitrogen as an electron acceptor.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-06-28
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-06
+	</str>
+	<str name="Publication Date">
+		2008-10-21
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/610 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1595852A4 | AU2004213273B2 | TW248918B | EP1595852A1 | US20050242027A1 | KR1020050102628A | AU2004213273A1 | US7297276 | US7438816 | WO2004074191A1 | US20070251881A1
+	</str>
+	<str name="Family Member Count">
+		11
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		Byong-Hee Jun et al; &quot;Stimulating Accumulation of Nitrifying Bacteria in Porous Carrier by Addition of Inorganic Carbon in a Continuous-Flow Fluidized Bed Wastewater Treatment Reactor&quot; Journal of Bioscience and Bioengineering, vol. 89, No. 4, p. 334-339, 2000. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2003044578 | 2003413509
+	</str>
+	<str name="Priority Date">
+		2003-02-21 | 2003-12-11
+	</str>
+	<str name="Assignee(s)">
+		KURITA WATER INDUSTRIES LTD.
+	</str>
+	<str name="1st Assignee">
+		KURITA WATER INDUSTRIES LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		TOKUTOMI, TAKAAKI | ORITA, NOBUHIRO | YAMAUCHI, HIDEYO
+	</str>
+	<str name="1st Inventor">
+		TOKUTOMI, TAKAAKI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		KANESAKA, MANABU
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

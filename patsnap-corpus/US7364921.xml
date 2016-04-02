@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7364921
+	</str>
+	<str name="Application Number">
+		US09869741
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Method and apparatus for separating biological materials and other substances
+	</str>
+	<str name="Abstract">
+		A method for separating biological materials and other substances is disclosed, wherein a mixture containing desired and undesired components are exposed to magnetic particles having ligands capable of binding to the desired and/or the undesired components to form a magnetic mixture, placing the magnetic mixture onto a substrate material; exposing the substrate coated with the magnetic mixture to a magnetic field of sufficient strength to cause the magnetic components to migrate across the substrate; and repeatedly increasing and decreasing the magnetic field in a pulsing manner with a frequency sufficient to cause the desired magnetic components to separate spatially from the undesired magnetic components. A device for separating biological materials capable of being operated to increase and decrease magnetic field in a pulse fashion is also disclosed.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-01-06
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-01
+	</str>
+	<str name="Publication Date">
+		2008-04-29
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		G01N33/574 | G01N33/553
+	</str>
+	<str name="IPC Primary">
+		G01N33/574
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N33
+	</str>
+	<str name="All UPC">
+		435/7.2 | 435/7.1 | 435/7.21 | 436/824 | 210/695 | 436/501 | 209/222 | 435/4 | 435/2 | 209/214 | 210/767 | 435/7.23 | 436/518 | 436/807 | 436/526
+	</str>
+	<str name="UPC Primary">
+		435/7.2
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		US7364921
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Bier, M. &quot;Electrophoresis&quot;, Chapter Seventeen, pp. 497-526. cited by other. | Cheung, M. et al., &quot;Prenatal diagnosis of sickle cell anaemia and thalassaemia by analysis of fetal cells in maternal blood&quot;, Nature Genetics, vol. 14, 1996, pp. 264-268. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US5779892 | US5122269 | US6017719 | US5224604 | US5602042 | US5191223 | US5543289 | US5939964 | US5466574 | US5646001 | US4241176 | US6638763 | US5993665 | US4375407 | US5279936 | US5336614 | US5795470 | US5200084 | US5508164 | US5236824 | US5691208 | US5437987 | US5876593 | US4772383 | US5536475 | US4017385 | US5541072 | US5770388 | US5137827 | US4935147 | US5275933 | US5340749 | US5186827 | US5004539 | US4594160 | WO1995014118
+	</str>
+	<str name="Cites Count">
+		36
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		86974100 | 11484399 | 0000274
+	</str>
+	<str name="Priority Date">
+		2000-01-06 | 1999-01-06 | 2000-01-06
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF MEDICINE &amp; DENTISTRY OF NEW JERSEY
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF MEDICINE &amp; DENTISTRY OF NEW JERSEY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		New Brunswick, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		New Brunswick, NJ
+	</str>
+	<str name="Inventor(s)">
+		SCIORRA, LEONARD | ZIMNOCH, JOSEPH
+	</str>
+	<str name="1st Inventor">
+		SCIORRA, LEONARD
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Neshanic, Station, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		Neshanic, Station, NJ | Sellersville, PA
+	</str>
+	<str name="Agent/Attorney">
+		LICATA &amp; TYRRELL PC
+	</str>
+	<str name="Primary Examiner">
+		LE, LONG V.
+	</str>
+	<str name="Assistant Examiner">
+		DO, PENSEE T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

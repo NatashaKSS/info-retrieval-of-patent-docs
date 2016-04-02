@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20130011016A1
+	</str>
+	<str name="Application Number">
+		US13/614760
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		DETECTION OF OBJECTS IN DIGITAL IMAGES
+	</str>
+	<str name="Abstract">
+		A method to detect objects in a digital image. At least one image representing at least one frame of a video sequence is received. A given color channel of the image is extracted. At least one blob that stands out from a background of the given color channel is identified. One or more features are extracted from the blob. The one or more features are provided to a plurality of pre-learned object models each including a set of pre-defined features associated with a pre-defined blob type. The one or more features are compared to the set of pre-defined features. The blob is determined to be of a type that substantially matches a pre-defined blob type associated with one of the pre-learned object models. At least a location of an object is visually indicated within the image that corresponds to the blob.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2012-09-13
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-09
+	</str>
+	<str name="Publication Date">
+		2013-01-10
+	</str>
+	<str name="Publication Year">
+		2013
+	</str>
+	<str name="Publication(Year/Month)">
+		2013-01
+	</str>
+	<str name="All IPC">
+		G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/103
+	</str>
+	<str name="UPC Primary">
+		382/103
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Armonk, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Armonk, NY
+	</str>
+	<str name="Inventor(s)">
+		HAAS, NORMAN | LI, YING | PANKANTI, SHARATHCHANDRA
+	</str>
+	<str name="1st Inventor">
+		HAAS, NORMAN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Mt., Kisco, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Mt., Kisco, NY | Mohegan, Lake, NY | Darien, CT
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

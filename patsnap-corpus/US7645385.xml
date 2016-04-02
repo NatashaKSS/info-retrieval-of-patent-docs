@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7645385
+	</str>
+	<str name="Application Number">
+		US11997337
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and arrangement for processing nitrogen-concentrated effluents in a sequential fractionated cycle biological reactor
+	</str>
+	<str name="Abstract">
+		The invention relates to a method for processing nitrogen-concentrated effluents by ammonia oxidation into nitrites followed by nitrite denitritation in a gaseous nitrogen in a sequential biological reactor (1) consisting in pouring a processable effluent volume in to the reactor by successive volume fractions, in dividing the entire processing cycle into successive sub cycles, wherein each sub-cycle comprises a feeding phase, an aeration phase for nitrification and an anoxia phase along which a carbon-containing source is introduced into the reactor for converting nitrites into nitrogen. The inventive method also consists in evaluating a nitrogenous volume charge in the effluent to be processed, mainly by measuring the effluent conductivity (X) and the flow rate (Q) and in determining the number of feeding phases of the entire cycle according to nitrogenous charge and to a minimum volume of liquid in the reactor in such a way that an injected nitrogen concentration is diluted in the liquid volume, wherein the volume phase nitrogenous charge is however sufficient for producing a single shot or peak of the ammonia charge favourable for a nitrating biomass formation in the reactor.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-07-27
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-07
+	</str>
+	<str name="Publication Date">
+		2010-01-12
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		G05B15/00 | C02F3/30 | C02F3/12
+	</str>
+	<str name="IPC Primary">
+		G05B15/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G05
+	</str>
+	<str name="IPC Subclass">
+		G05B
+	</str>
+	<str name="IPC Group">
+		G05B15
+	</str>
+	<str name="All UPC">
+		210/631 | 210/630 | 210/903 | 210/614 | 210/205 | 210/143
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		JP2009502494T | ES2304334T1 | AU2006274754A1 | DE06794236T1 | CA2616624A1 | JP2009502494A | US7645385 | WO2007014994A1 | EP1910233A1 | CN101258108A | US20080223784A1 | FR2889180A1 | FR2889180B1
+	</str>
+	<str name="Family Member Count">
+		13
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Fux et al. &quot;Nitrogen Removal From Digester Supernatant Via Nitrite--SBR or SHARON?&quot;, Water Sci. Technol.; Water Science and Technology 2003, vol. 48, No. 8, 2003, pp. 9-18. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5989428 | US4655925 | US20030136731 | US20020117444 | US6312599 | WO2000005176
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0508201
+	</str>
+	<str name="Priority Date">
+		2005-08-01
+	</str>
+	<str name="Assignee(s)">
+		SUEZ ENVIRONMENT (PARIS, FR), DEGREMONT
+	</str>
+	<str name="1st Assignee">
+		SUEZ ENVIRONMENT (PARIS, FR), DEGREMONT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rueil-Malmaison, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Rueil-Malmaison, FR
+	</str>
+	<str name="Inventor(s)">
+		MARTIN, SAMUEL | GONZALEZ, OSPINA, ADRIANA
+	</str>
+	<str name="1st Inventor">
+		MARTIN, SAMUEL
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Paris, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Paris, FR | Le, Pecq, FR
+	</str>
+	<str name="Agent/Attorney">
+		CONNOLLY BOVE LODGE &amp; HUTZ LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

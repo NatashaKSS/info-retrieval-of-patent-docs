@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8250481
+	</str>
+	<str name="Application Number">
+		US12/254654
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Visualizing geographic-area change detected from high-resolution, remotely sensed imagery
+	</str>
+	<str name="Abstract">
+		A method, system, and medium are provided for presenting aspects of change associated with a geographic area that has been captured by high-resolution, remotely sensed imagery. One embodiment of the method includes receiving a query directed at the geographic area that includes one or more inputs, the query seeking an identification of regions associated with the geographic area that are characterized by aspects of change based on the one or more inputs; applying the query to a dataset of geospatial information that stores imagery associated with the geographic area, wherein the dataset includes information that is sufficient to identify the regions, and wherein the imagery is derived from the high-resolution, remotely sensed imagery, which is characterized by having a resolution of three meters or less per pixel; receiving a first results set that includes a first plurality of keys and corresponding change scores, wherein, (1) each key is useable to identify a certain region, and (2) each change score indicates an amount of change in the certain region from a first state to a second state; and presenting at least a portion of the results set in a viewing application.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-10-20
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-10
+	</str>
+	<str name="Publication Date">
+		2012-08-21
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-08
+	</str>
+	<str name="All IPC">
+		G06F3/48 | G06K9/46 | G01C11/02
+	</str>
+	<str name="IPC Primary">
+		G06F3/48
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F3
+	</str>
+	<str name="All UPC">
+		715/765 | 345/473 | 382/219 | 715/810
+	</str>
+	<str name="UPC Primary">
+		715/765
+	</str>
+	<str name="UPC Class">
+		715
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Chi-Ren Shyu, et al., &quot;GeoIRIS: Geospatial Information Retrieval and Indexing System--Content Mining, Semantics Modeling, and Complex Queries,&quot; IEEE Transactions on Geoscience and Remote Sensing, vol. 45, No. 4, Apr. 2007, 14 pp. cited by examiner | Roth, LuAnne. &quot;Googling&quot; for Biomedical and Geospatial Informatics. A visit with Chi-Ren Shyu, Assistant Professor, Computer Science and ComputerEngineering. Published May 12, 2006, available at http://syndicate.missouri.edu/media/show/45--accessed May 10, 2011. cited by examiner | Grant J. Scott, et al., &quot;EBS k-d tree: An Entropy Balanced Statistical k-d Tree for Image Databases with Ground-Truth Labelling,&quot; Department of Computer Engineering and Computer Science, University of Missouri-Columbia, Columbia, Missouri 65211-2060, USA., pp. 1-12. cited by other | Aaron K. Shackelford, et al., &quot;A Hierarchical Fuzzy Classification Approach for High-Resolution Multispectral Data Over Urban Areas,&quot; IEEE Transactions on Geoscience and Remote Sensing, vol. 41, No. 9, Sep. 2003, 13 pp. cited by other | Aaron K. Shackelford, et al., &quot;A Combined Fuzzy Pixel-Based and Object-Based Approach for Classification of High-Resolution Multispectral Data Over Urban Areas,&quot; IEEE Transactions on Geoscience and Remote Sensing, vol. 41, No. 10, Oct. 2003, 10 pp. cited by other | C.R. Shyu, et al., &quot;Automatic Object Extraction From Full Differential Morphological Profile in Urban Imagery for Efficient Object Indexing and Retrievals,&quot; Department of Computer Science, Department of Electrical and Computer Engineering, University of Missouri-Columbia, Columbia, Missouri 65211-2060, USA., 6 pp. cited by other | Matt Klaric, et al., &quot;Automated Object Extraction Through Simplification of the Differential Morphological Profile for High-Resolution Satellite Imagery,&quot; IEEE, Department of Computer Science, Department of Electrical and Computer Engineering, Center for Geospatial Intelligence, University of Missouri-Columbia, Columbia, Missouri 65211., 2005, 4 pp. cited by other | Chi-Ren Shyu, et al., &quot;Mining Image Content Associations for Visual Semantic Modeling in Geospatial Information Indexing and Retrieval,&quot; Department of Computer Science, Department of Electrical and Computer Engineering, Center for Geospatial Intelligence, University of Missouri-Columbia, Columbia, Missouri 65211, USA., 2005, 4 pp. cited by other | Grant Scott, et al., &quot;Modeling Multi-Object Spatial Relationships for Satellite Image Database Indexing and Retrieval,&quot; Department of Computer Science, University of Missouri-Columbia, 10 pp. cited by other | Chi-Ren Shyu, et al., &quot;Knowledge Discovery by Mining Association Rules and Temporal-Spatial Information from Large-Scale Geospatial Image Databases,&quot; Department of Computer Science, Center for Geospatial Intelligence, University of Missouri, Columbia, Missouri, 65211, USA, 4 pp. cited by other | Matt Klaric, et al., &quot;A Framework for Geospatial Satellite Imagery Retrieval Systems,&quot; Department of Computer Science, Department of Electrical and Computer Engineering, Center for Geospatial Intelligence, University of Missouri-Columbia, Columbia, Missouri 65211, 4 pp. cited by other | Matt Klaric, et al., &quot;Mining Visual Associations from User Feedback for Weighting Multiple Indexes in Geospatial Image Retrieval,&quot; Department of Computer Science, Center for Geospatial Intelligence, University of Missouri-Columbia, Columbia, Missouri 65211, 4 pp. cited by other | Brian C. Claywell, et al., &quot;Fusion of Spectral and Spatial Information for Automated Change Detection in High Resolution Satellite Imagery,&quot; Department of Electrical and Computer Engineering, Department of Computer Science, Center for Geospatial Intelligence, University of Missouri-Columbia, Columbia, Missouri 65211, USA, 4 pp. cited by other | Grant Scott, et al., &quot;Knowledge-Driven Multidimensional Indexing Structure for Biomedical Media Database Retrieval,&quot; IEEE, Medical and Biological Digital Library Research Lab, Department of Computer Science, University of Missouri-Columbia, 2007, 12 pp. cited by other | O. Sjahputera, et al., &quot;GeoCDX: An Automated Change Detection &amp; Exploitation System for High Resolution Satelite Imagery,&quot; Center for Geospatial Intelligence, College of Engineering, University of Missouri-Columbia, 4 pp. cited by other | Yonghong Li, et al., &quot;A Combined Global and Local Approach for Automated Registration of High-Resolution Satellite Images Using Optimum Extrema Points,&quot; Department of Electrical and Computer Engineering, University of Missouri-Columbia, U.S.A., 4 pp. cited by other | Grant J. Scott, et al., &quot;Knowledge-Driven Multidimensional Indexing for Content-Based Information Retrieval,&quot; May 2008, 173 pp. cited by other | Matt Klaric, et al., &quot;Multi-Index, Multi-Object Content-Based Retrieval,&quot; 14 pp. cited by other | Grant Scott, et al. &quot;Entropy Balanced Bitmap Tree for Shape-Based Object Retrieval from Large-Scale Satellite Imagery Databases,&quot; 14 pp. cited by other | &quot;GeoCDX v1,&quot; Center for Geospatial Intelligence, University of Missouri-Columbia, 2 pp. cited by other | &quot;GeoIRIS v4,&quot; Center for Geospatial Intelligence, University of Missouri-Columbia, 2 pp. cited by other | Curt Davis, Ph.D., &quot;Geospatial Imagery Retrieval &amp; Indexing System,&quot; Apr. 30, 2008, 46 pp. cited by other | Office Action mailed Jan. 25, 2011 in U.S. Appl. No. 12/254,610, 30 pages. cited by other | Office Action mailed Dec. 21, 2010 in U.S. Appl. No. 12/254,638, 18 pages. cited by other | Final Office Action mailed May 18, 2011 in U.S. Appl. No. 12/254,638, 17 pages. cited by other | Notice of Allowance and Fees mailed Jun. 1, 2011 in U.S. Appl. No. 12/254,610, 20 pages. cited by other | Notice of Allowance and Fee(s) Due for U.S. Appl. No. 12/254,673, mailed Jan. 20, 2012, 15 pages. cited by other.
+	</str>
+	<str name="Other References Count">
+		27
+	</str>
+	<str name="Cites">
+		US5719949 | US6115481 | US6243483 | US6756207 | US7571146 | US7917458 | US20030081812 | US20060228019 | US20070162195 | US20080052638 | US20080147366 | US20080276201 | US20090055719 | US20090214084
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Assignee(s)">
+		THE CURATORS OF THE UNIVERSITY OF MISSOURI
+	</str>
+	<str name="1st Assignee">
+		THE CURATORS OF THE UNIVERSITY OF MISSOURI
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Columbia, MO
+	</str>
+	<str name="Assignee(s) Address">
+		Columbia, MO
+	</str>
+	<str name="Inventor(s)">
+		KLARIC, MATTHEW, NICHOLAS | DAVIS, CURTIS, HERBERT | SCOTT, GRANT, JASON | SHYU, CHI-REN | CLAYWELL, BRIAN, CHRISTOPHER
+	</str>
+	<str name="1st Inventor">
+		KLARIC, MATTHEW, NICHOLAS
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Columbia, MO
+	</str>
+	<str name="Inventor(s) Address">
+		Columbia, MO | Columbia, MO | Columbia, MO | Columbia, MO | Columbia, MO
+	</str>
+	<str name="Agent/Attorney">
+		SHOOK, HARDY &amp; BACON L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		LO, WEILUN
+	</str>
+	<str name="Assistant Examiner">
+		LEVY, AMY M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7727395
+	</str>
+	<str name="Application Number">
+		US12178292
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for processing organic waste
+	</str>
+	<str name="Abstract">
+		A method for processing brewery waste that includes receiving spent grain, low strength wastewater and high strength wastewater. The spent grain, low strength wastewater and high strength wastewater is processed with a plug flow anaerobic digester to produce a first output. A portion of the first output is processed with an upflow anaerobic sludge blanket digester to produce a second output. A portion of the second output is processed with a fixed-film anaerobic digester to produce a third output.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-07-23
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-07
+	</str>
+	<str name="Publication Date">
+		2010-06-01
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		C05F5/00 | C05F11/00 | C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C05F5/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C05
+	</str>
+	<str name="IPC Subclass">
+		C05F
+	</str>
+	<str name="IPC Group">
+		C05F5
+	</str>
+	<str name="All UPC">
+		210/603 | 210/260 | 71/26 | 210/617 | 71/10 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/603
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		R Moletta, &quot;Winery and distillery wastewater treatment by anaerobic digestion,&quot; Water Science and Technology, vol. 51(1) (2005), pp. 137-144. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US7915749 | US8154138
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US5143618 | US5269634 | US2430519 | US4568457 | US20030033430 | US20050040107 | US4696746 | US4022665 | US6342378 | US4323367 | US20030075501 | US6811701 | US6982035 | US7033822 | US4396402 | US5525229 | US5885460 | EP0318098 | EP0791561
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Assignee(s)">
+		PURPOSEENERGY, INC.
+	</str>
+	<str name="1st Assignee">
+		PURPOSEENERGY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Arlington, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Arlington, MA
+	</str>
+	<str name="Inventor(s)">
+		FITCH, ERIC, E. | O'KEEFE, DAVID, M. | PALMER, DAVID, C.
+	</str>
+	<str name="1st Inventor">
+		FITCH, ERIC, E.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Arlington, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Arlington, MA | Gainesville, FL | Franklin, TN
+	</str>
+	<str name="Agent/Attorney">
+		PIERCE ATWOOD LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

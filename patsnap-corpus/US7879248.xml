@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7879248
+	</str>
+	<str name="Application Number">
+		US11801252
+	</str>
+	<str name="Title">
+		Filtering systems with integral filter back-flushing
+	</str>
+	<str name="Abstract">
+		A filter system includes a distribution valve operable to direct a received fluid stream to first and second outlets during respective first and second cycles. A filtering system filters at least some fluid output from the first outlet of the distribution valve during the first cycle with a first filter while back-flushing a second filter and filters at least some fluid output from the second outlet of the distribution valve during the second cycle with the second filter while back-flushing the first filter.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-05-08
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-05
+	</str>
+	<str name="Publication Date">
+		2011-02-01
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		B01D35/22 | B01D29/52 | B01D29/66 | C02F1/00 | B01D17/12
+	</str>
+	<str name="IPC Primary">
+		B01D35/22
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D35
+	</str>
+	<str name="All UPC">
+		210/333.1 | 210/121 | 210/798 | 210/341 | 210/123 | 210/195.1 | 210/108 | 210/106
+	</str>
+	<str name="UPC Primary">
+		210/333.1
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5096598 | US6203714 | US5670038 | US6217760 | US5766475 | US6022481 | US4055499 | US4039452
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Inventor(s)">
+		SVETLIK, III, RUDY, JAMES
+	</str>
+	<str name="1st Inventor">
+		SVETLIK, III, RUDY, JAMES
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tomball, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Tomball, TX
+	</str>
+	<str name="Agent/Attorney">
+		THOMPSON &amp; KNIGHT LLP MURPHY, JAMES J.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="Assistant Examiner">
+		GONZALEZ, MADELINE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

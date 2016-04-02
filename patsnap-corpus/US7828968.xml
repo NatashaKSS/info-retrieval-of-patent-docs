@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7828968
+	</str>
+	<str name="Application Number">
+		US12031807
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for imaging target components in a biological sample using permanent magnets
+	</str>
+	<str name="Abstract">
+		A system for enumeration of cells in fluids by image cytometry is described for assessment of target populations such as leukocyte subsets in different bodily fluids or bacterial contamination in environmental samples, food products and bodily fluids. Briefly, fluorescently labeled target cells are linked to magnetic particles or beads. In one embodiment, a small, permanent magnet is inserted directly into the chamber containing the labeled cells. The magnets are coated with PDMS silicone rubber to provide a smooth and even surface which allows imaging on a single focal plane. The magnet is removed from the sample and illuminated with fluorescent light emitted by the target cells captured by a CCD camera. In another embodiment, a floater having a permanent magnet allows the target cells to line up along a single imaging plane within the sample solution. Image analysis can be performed with a novel algorithm to provide a count of the cells on the surface, reflecting the target cell concentration of the original sample.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-02-15
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-02
+	</str>
+	<str name="Publication Date">
+		2010-11-09
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		B03C1/02 | B03C1/30
+	</str>
+	<str name="IPC Primary">
+		B03C1/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B03
+	</str>
+	<str name="IPC Subclass">
+		B03C
+	</str>
+	<str name="IPC Group">
+		B03C1
+	</str>
+	<str name="All UPC">
+		436/63 | 209/39 | 210/222
+	</str>
+	<str name="UPC Primary">
+		436/63
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6623982 | US6861259 | US6500549 | US7011794 | US6409925 | US4465377 | US6645731 | US5374531 | US6620627 | WO2002077604 | WO2003018757 | WO2003069421 | WO2003065042 | WO2003019141 | WO2006102233
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Assignee(s)">
+		VERIDEX, LLC
+	</str>
+	<str name="1st Assignee">
+		VERIDEX, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Raritan, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Raritan, NJ
+	</str>
+	<str name="Inventor(s)">
+		TIBBE, ARJAN, G., J. | TERSTAPPEN, LEON, W., M., M.
+	</str>
+	<str name="1st Inventor">
+		TIBBE, ARJAN, G., J.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Deventer, NL
+	</str>
+	<str name="Inventor(s) Address">
+		Deventer, NL | Huntingdon, Valley, PA
+	</str>
+	<str name="Primary Examiner">
+		PROUTY, REBECCA E.
+	</str>
+	<str name="Assistant Examiner">
+		MARTIN, PAUL C.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

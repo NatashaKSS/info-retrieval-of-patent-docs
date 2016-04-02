@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7374655
+	</str>
+	<str name="Application Number">
+		US11032673
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Electrochemical water purifier
+	</str>
+	<str name="Abstract">
+		An electrolytic water purification system and method use provides a water filtration device with a plurality of electrolytic cells having anodes and cathodes specifically selected to remove contaminants from water. The device is capable of efficiently removing nearly all contaminants from water and is also capable of purifying the water by destroying micro-organisms which are in the water. Many minerals are removed from the purified water, and it is not necessary to add chemicals to the water during or after the purification process.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-01-10
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-01
+	</str>
+	<str name="Publication Date">
+		2008-05-20
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		C02F1/461
+	</str>
+	<str name="IPC Primary">
+		C02F1/461
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		204/267 | 204/164 | 205/701 | 205/751 | 204/272 | 205/761 | 205/742 | 204/555 | 204/660
+	</str>
+	<str name="UPC Primary">
+		204/267
+	</str>
+	<str name="UPC Class">
+		204
+	</str>
+	<str name="Family Members">
+		US20050183964A1 | WO2005068373B1 | WO2005068373A1 | US7374655
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7938970 | US7984567 | US8186518 | US7775374
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		US6878268 | US4149953 | US3801482
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		3267305 | 53621604
+	</str>
+	<str name="Priority Date">
+		2005-01-10 | 2004-01-12
+	</str>
+	<str name="Assignee(s)">
+		NOVASTRON
+	</str>
+	<str name="1st Assignee">
+		NOVASTRON
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Montpelier, ID
+	</str>
+	<str name="Assignee(s) Address">
+		Montpelier, ID
+	</str>
+	<str name="Inventor(s)">
+		ROBERTS, GARY, D. | ROBERTS, DAVID, W.
+	</str>
+	<str name="1st Inventor">
+		ROBERTS, GARY, D.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Montpelier, ID
+	</str>
+	<str name="Inventor(s) Address">
+		Montpelier, ID | Montpelier, ID
+	</str>
+	<str name="Agent/Attorney">
+		BATEMAN IP LAW GROUP
+	</str>
+	<str name="Primary Examiner">
+		PHASGE, ARUN S.
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

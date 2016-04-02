@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7892427
+	</str>
+	<str name="Application Number">
+		US12229975
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for magnetic-based manipulation of microscopic particles
+	</str>
+	<str name="Abstract">
+		Apparatus and method for manipulating particles on a micro- or nano-scale. An embodiment of the present invention includes a magnetic micro-manipulation technique that utilizes micro-coils and soft magnetic microscopic wires for localized manipulation of particles. Another embodiment of the present invention uses magneto-static interaction between two magnetic microscopic wires to mechanically manipulate particles. Yet another embodiment of the present invention combines a magnetic particle with a magnetic manipulator or other device for generating magnetic fields to operate as a micro-fluidic micro-motor. Other embodiments of the present invention employ a magnetic separation system employing porous membranes partially filled with magnetic wires.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-08-28
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-08
+	</str>
+	<str name="Publication Date">
+		2011-02-22
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		B01D35/06
+	</str>
+	<str name="IPC Primary">
+		B01D35/06
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D35
+	</str>
+	<str name="All UPC">
+		209/29 | 209/214 | 209/213 | 210/94 | 210/695 | 210/222
+	</str>
+	<str name="UPC Primary">
+		209/29
+	</str>
+	<str name="UPC Class">
+		209
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Barbic, &quot;Magnetic wires in MEMS and bio-medical applications&quot;, Journal of Magnetism and Magnetic Materials 249, pp. 357-367 (2002). cited by other . | Quake et al., &quot;From Micro- to Nanofabrication with Soft Materials&quot;, Science, vol. 290, pp. 1536-1540 (2000). cited by other . | Todorovic et al., &quot;Miniature high-sensitive quartz tuning fork alternating gradient magnetometry&quot;, Appl. Phys. Lett., vol. 73, No. 24, pp. 3595-3597 (Dec. 1998). cited by other . | Ahn et al., &quot;A Planar Variable Reluctance Magnetic Micromotor with Fully Integrated Stator and Coils&quot;, J. of Microelectromechanical Systems, vol. 2, No. 4, pp. 165-172 (Dec. 1993). cited by other . | Sidles et al., &quot;Magnetic Resonance Force Microscopy&quot;, Rev. Mod Phys. 67, pp. 249-268 (Jan. 1995). cited by other . | Sanny et al., &quot;Microwave electron spin resonance spectrometer with operation to 54 mK in a dilution refrigerator&quot;, Rev. Sci. Instrum. 52, pp. 539-541 (Apr. 1981). cited by other . | Unger et al., &quot;Monolithic Microfabricated Valves and Pumps by Multilayer Soft Lithography&quot;, Science, vol. 288, pp. 113-116, 2000. cited by other. | Barbic et al., &quot;Electromagnetic micromotor for microfluidics applications&quot;, Applied Physics Letters, vol. 79, No. 9, pp. 1399-1401 (Aug. 2001). cited by other . | Mandjour et al., &quot;High-sensitivity broadband microwave spectroscopy with small nonresonant coils&quot;, Rev. Sci. Instrum. 57, pp. 1100-1106 (Jun. 1986). cited by other . | Olson et al., &quot;High-Resolution Microcoil 1H-NMR for Mass-Limited, Nanoliter-Volume Samples&quot;, Science, vol. 270, pp. 1967-1970 (Dec. 1995). cited by other . | Rogers et al., &quot;Using microcontact printing to fabricate microcoils on capillaries for high resolution proton nuclear magnetic resonance on nanoliter volumes&quot;, Appl. Phys. Lett. 70, pp. 2464-2466 (1997). cited by other . | Rugar et al., &quot;Magnetic force microscopy: General principles and application to longitudinal recording media&quot;, J. Appl. Phys. 68, pp. 1169-1183 (Aug. 1990). cited by other . | Caraffini et al., &quot;Magnetically Actuated Metallic MicroGripper&quot;, SPIE Conference on Microbiotics and Micromanipulation, SPIE vol. 3519, Nov. 1998. cited by other . | O'Barr et al., &quot;Preparation and quantitative magnetic studies of single-domain nickel cylinders&quot;, J. Appl. Phys. 79, pp. 5303-5305 (Apr. 1996). cited by other . | Joung et al., &quot;Micropumps Based on Alternating High-Gradient Magnetic Fields&quot;, IEEE Transactions on Magnetics, vol. 36, No. 4, pp. 2012-2014 (Jul. 2000). cited by other .
+	</str>
+	<str name="Other References Count">
+		15
+	</str>
+	<str name="Cited By">
+		US8084270
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US20060181097 | US6828786 | US6172902 | US5670712 | US5925818 | US20040021073 | US6400549 | US20030158474 | US20020009759
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Assignee(s)">
+		CALIFORNIA INSTITUTE OF TECHNOLOGY
+	</str>
+	<str name="1st Assignee">
+		CALIFORNIA INSTITUTE OF TECHNOLOGY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pasadena, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Pasadena, CA
+	</str>
+	<str name="Inventor(s)">
+		BARBIC, MLADEN | MOCK, JACK, J. | GRAY, ANDREW, P.
+	</str>
+	<str name="1st Inventor">
+		BARBIC, MLADEN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		South, Pasadena, CA
+	</str>
+	<str name="Inventor(s) Address">
+		South, Pasadena, CA | Cardiff, By, The, Sea, CA | San, Marcos, CA
+	</str>
+	<str name="Agent/Attorney">
+		GREER, BURNS &amp; CRAIN LTD.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="Assistant Examiner">
+		BASS, DIRK
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

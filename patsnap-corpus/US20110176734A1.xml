@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20110176734A1
+	</str>
+	<str name="Application Number">
+		US13/011572
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS AND METHOD FOR RECOGNIZING BUILDING AREA IN PORTABLE TERMINAL
+	</str>
+	<str name="Abstract">
+		An apparatus and method for recognizing a specific area of an image in a portable terminal. More particularly, an apparatus and method are for determining feature points with very high similarities as one group when the portable terminal recognizes a building included in an image or a picture, and for estimating a matching relation of the group to improve building recognition performance. The apparatus includes an image analyzer configured to, upon extracting feature points used for building recognition, classify feature points with similarities among the extracted feature points into a group, and recognize a building after estimating a matching relation by regarding the classified group as a feature point.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2011-01-21
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-01
+	</str>
+	<str name="Publication Date">
+		2011-07-21
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		G06K9/48 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/48
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/197 | 382/201
+	</str>
+	<str name="UPC Primary">
+		382/197
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		10-2010-0005661
+	</str>
+	<str name="Priority Date">
+		2010-01-21
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD. | SNU R&amp;DB FOUNDATION
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-si,KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-si,KR | Seoul,KR
+	</str>
+	<str name="Inventor(s)">
+		LEE SANG-HWA | HA SEONG-JONG | HONG HYUN-SU | CHO NAM-IK | SHIN GYE-JOONG | LEE SANG-UK
+	</str>
+	<str name="1st Inventor">
+		LEE SANG-HWA
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Seoul,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul,KR | Namyangju-si,KR | Seongnam-si,KR | Seoul,KR | Seongnam-si,KR | Seoul,KR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

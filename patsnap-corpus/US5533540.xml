@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5533540
+	</str>
+	<str name="Application Number">
+		US08370714
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Apparatus for uniform cleaning of wafers using megasonic energy
+	</str>
+	<str name="Abstract">
+		Apparatus and method for cleaning/etching the surface of an article with sonic energy in the megahertz range which employ an anti-reflection mechanism within a recirculation tank. A tank having at least one side wall and a bottom structure holds a cleaning/etching liquid and a megasonic transducer is associated with the tank for projecting megasonic energy into the liquid. The anti-reflection mechanism is disposed within the tank in close association with the at least one sidewall or bottom structure of the tank to thereby minimize reflection of megasonic energy from the associated surface. Preferably, the megasonic transducer is associated with a first tank sidewall which opposes a second tank sidewall, and the anti-reflection mechanism is disposed adjacent the second tank sidewall. By way of example, the anti-reflection mechanism can comprise a stream of gas bubbles, a plurality of anechoic structures, or a combination of both gas bubbles and anechoic structures.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-01-10
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-01
+	</str>
+	<str name="Publication Date">
+		1996-07-09
+	</str>
+	<str name="Publication Year">
+		1996
+	</str>
+	<str name="Publication(Year/Month)">
+		1996-07
+	</str>
+	<str name="All IPC">
+		B08B3/10
+	</str>
+	<str name="IPC Primary">
+		B08B3/10
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		134/902 | 134/184 | 134/186 | 68/3SS | 134/155
+	</str>
+	<str name="UPC Primary">
+		134/902
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		US5533540
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		DE102008018068A1 | US6399022 | US7101565 | US8088227 | US6109276 | US6276370 | US6314974 | US5975094 | US5887607 | US6006765 | US6367493 | US7518288 | US8257505 | EP1848023A1 | US6048405
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5038808 | US3419426 | US2366822 | US2650872 | US3893869 | US3035491 | US5127424 | US3744302 | SU1152672 | SU745562
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		37071495 | 27668494 | 2003793
+	</str>
+	<str name="Priority Date">
+		1995-01-10 | 1994-07-18 | 1993-02-12
+	</str>
+	<str name="Assignee(s)">
+		INERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		INERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Armonk, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Armonk, NY
+	</str>
+	<str name="Inventor(s)">
+		STANASOLOVICH, DAVID | SYVERSON, WILLIAM, A. | WARREN, RONALD, A.
+	</str>
+	<str name="1st Inventor">
+		STANASOLOVICH, DAVID
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Montgomery, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Montgomery, NY | Colchester, VT | Troy, NY
+	</str>
+	<str name="Agent/Attorney">
+		HESLIN &amp; ROTHENBERG
+	</str>
+	<str name="Primary Examiner">
+		STINSON, FRANKIE L.
+	</str>
+	<str name="cited by within 3 years">
+		11
+	</str>
+	<str name="cited by within 5 years">
+		16
+	</str>
+</doc>
+

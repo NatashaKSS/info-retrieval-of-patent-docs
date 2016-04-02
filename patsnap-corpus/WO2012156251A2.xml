@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2012156251A2
+	</str>
+	<str name="Application Number">
+		PCT/EP2012/058565
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		DEVICE AND METHOD FOR MANAGING THE ELECTRIC BRAKING OF A VEHICLE
+	</str>
+	<str name="Abstract">
+		The invention relates to a device for managing electric braking power (1), which device comprises a continuous bus (10), said continuous bus including: a connection pole (12) connecting to an electric traction machine (21) of a vehicle, said machine being associated with an inverter (20) which, in braking mode, delivers an electric braking power over the continuous bus; a connection pole (13) connecting to an electric power storage battery (30); a dissipation branch (1D) connected at a connection point (11) to the continuous bus, said branch including an electronic dissipation switch (1D1) connected in series with a dissipation resistor (1D2); a current collector (15) on the continuous bus, disposed between the connection point (11) of the continuous bus and the connection pole (13) connecting to a battery; and a controller (18). The device also includes an electronic charge switch (1C1) between the connection point at which the dissipation branch (1D) is connected to the continuous bus (10) and the connection pole connecting to a battery of the continuous bus, said switch controlling the flow of current over the continuous bus from the connection pole connecting to an electric machine to the connection pole connecting to a battery. The controller evaluates the difference between the recharge current limit of the battery and the current on the continuous bus, such as to leave the electronic charge switch closed while the current on the continuous bus is below the recharge current limit of the battery.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2012-05-09
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-05
+	</str>
+	<str name="Publication Date">
+		2012-11-22
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-11
+	</str>
+	<str name="All IPC">
+		B60L7/22 | H02P3/22 | H02P15/00 | B60T13/74 | F16D63/00
+	</str>
+	<str name="IPC Primary">
+		B60L7/22
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B60
+	</str>
+	<str name="IPC Subclass">
+		B60L
+	</str>
+	<str name="IPC Group">
+		B60L7
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		1154185
+	</str>
+	<str name="Priority Date">
+		2011-05-13
+	</str>
+	<str name="Assignee(s)">
+		COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN | MICHELIN RECHERCHE ET TECHNIQUE S.A.
+	</str>
+	<str name="1st Assignee">
+		COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		12 Cours Sablon, F-63000 Clermont-Ferrand, FR
+	</str>
+	<str name="Assignee(s) Address">
+		12 Cours Sablon, F-63000 Clermont-Ferrand, FR | Route Louis Braille 10, CH-1763 Granges-Paccot, CH
+	</str>
+	<str name="Inventor(s)">
+		MODOLO, IVAN
+	</str>
+	<str name="1st Inventor">
+		MODOLO, IVAN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Manufacture, Francaise, Des, Pneumatiques, Michelin, DGD/PI, -, F35, -, Ladoux, F-63040, Clermont-Ferrand, Cedex, 9, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Manufacture, Francaise, Des, Pneumatiques, Michelin, DGD/PI, -, F35, -, Ladoux, F-63040, Clermont-Ferrand, Cedex, 9, FR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

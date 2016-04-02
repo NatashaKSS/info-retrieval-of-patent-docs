@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5253080
+	</str>
+	<str name="Application Number">
+		US07749433
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Picture signal binarization apparatus avoiding a need for memory devices or shift registers for storing binary picture signals before output
+	</str>
+	<str name="Abstract">
+		A picture signal binarization apparatus includes two comparators for converting an analog signal into a binary signal by comparing the analog signal with two different thresholds, two counters for counting inversions of the binary signal from each comparator and supplying a count signal indicative of the number of inversions of the binary signal from each of the comparators, and a selection part for selecting a binary signal from one of the comparators in response to the count signal supplied from one of the counters so that the selected binary signal is outputted as a subsequent output binary signal, the number of inversions indicated by the count signal from the one of the counters first reaching a predetermined value.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1991-08-26
+	</str>
+	<str name="Application Year">
+		1991
+	</str>
+	<str name="Application(Year/Month)">
+		1991-08
+	</str>
+	<str name="Publication Date">
+		1993-10-12
+	</str>
+	<str name="Publication Year">
+		1993
+	</str>
+	<str name="Publication(Year/Month)">
+		1993-10
+	</str>
+	<str name="All IPC">
+		H04N1/40
+	</str>
+	<str name="IPC Primary">
+		H04N1/40
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04N
+	</str>
+	<str name="IPC Group">
+		H04N1
+	</str>
+	<str name="All UPC">
+		358/465 | 358/466 | 358/445
+	</str>
+	<str name="UPC Primary">
+		358/465
+	</str>
+	<str name="UPC Class">
+		358
+	</str>
+	<str name="Family Members">
+		US5253080 | JP1992108268A | JP3005262B2
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US5915037 | WO1995027364A1 | EP0753231B1 | US5521715
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		US4942478 | US4578715 | US4903143 | US5148495 | JP1984191682 | JP1985264166
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2227530
+	</str>
+	<str name="Priority Date">
+		1990-08-28
+	</str>
+	<str name="Assignee(s)">
+		RICOH COMPANY, LTD.
+	</str>
+	<str name="1st Assignee">
+		RICOH COMPANY, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		NISHIMURA, SHINICHI | KUDOSE, HIROYUKI | YAMAGUCHI, SHINGO
+	</str>
+	<str name="1st Inventor">
+		NISHIMURA, SHINICHI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Atsugi, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Atsugi, JP | Isehara, JP | Atsugi, JP
+	</str>
+	<str name="Agent/Attorney">
+		MASON, FENWICK &amp; LAWRENCE
+	</str>
+	<str name="Primary Examiner">
+		COLES, SR., EDWARD L.
+	</str>
+	<str name="Assistant Examiner">
+		WILLIAMS, KIMBERLY
+	</str>
+	<str name="cited by within 3 years">
+		3
+	</str>
+	<str name="cited by within 5 years">
+		4
+	</str>
+</doc>
+

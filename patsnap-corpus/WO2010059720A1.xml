@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2010059720A1
+	</str>
+	<str name="Application Number">
+		PCT/US2009/064982
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		DOCUMENT CREATION SYSTEM AND METHODS
+	</str>
+	<str name="Abstract">
+		Methods, systems, and related computer program products for facilitating the generation of a document, such as a scientific poster, to be viewed by a community of human viewers in association with a hosted event, such as a scientific conference, are described, the generated document conforming to document configuration guidelines previously established for that hosted event. Provided in one preferred embodiment is an interactive document creation tool that constrains user input of content data according to constraints specified in the document configuration guidelines and then automatically generates the document from the content data in compliance with those document configuration guidelines, sparing substantial user time and effort particularly when a pre-existing antecedent electronic document is used as a basis for the content data. Also provided are methods for coordinating document display at hosted events, managing populations of distinct document configuration guidelines, and adapting a created document for multiple different hosted events.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2009-11-18
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-11
+	</str>
+	<str name="Publication Date">
+		2010-05-27
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		61/116,153
+	</str>
+	<str name="Priority Date">
+		2008-11-19
+	</str>
+	<str name="Assignee(s)">
+		SCIGEN TECHNOLOGIES | PAVLIDIS, JOHN, D. | KARAGEORGOS, EVANGELOS | KOUNIS, STAVROS | MOUSTAKIDIS, PAVLOS | KATSAVOUNIDIS, IOANNIS
+	</str>
+	<str name="1st Assignee">
+		SCIGEN TECHNOLOGIES
+	</str>
+	<str name="Number of Assignees">
+		6
+	</str>
+	<str name="1st Assignee Address">
+		S.A., 70 E. Venizelou Xanthi GR
+	</str>
+	<str name="Assignee(s) Address">
+		S.A., 70 E. Venizelou Xanthi GR | 1609 Shirley Avenue Los Altos, CA 94024 94024 US | 70 E. Venizelou GR-67100 Xanthi Xanthi GR | 70 E. Venizelou GR-67100 Xanthi Xanthi GR | 70 E. Venizelou GR-67100 Xanthi Xanthi GR | 10754 Westminster Ave. Los Angeles, CA 90034 90034 US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

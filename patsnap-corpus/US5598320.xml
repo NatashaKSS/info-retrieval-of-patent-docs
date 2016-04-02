@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5598320
+	</str>
+	<str name="Application Number">
+		US08399409
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Rotable and slideble heat pipe apparatus for reducing heat build up in electronic devices
+	</str>
+	<str name="Abstract">
+		A rotatable and slidable heat pipe apparatus for transferring heat away from a microprocessor chip more rapidly than by heat sink surface area dissipation to the surrounding air alone, comprising a heat sink with an integral cylindrical passageway adapted to receive a first end of a heat pipe shaped like a crankshaft, and a heat spreader formed from a metal plate with a first end rolled up to define a cylindrical opening adapted to receive a second end of the heat pipe. The heat spreader is attached to an underside of a keyboard. Since the heat pipe is able to rotate within the cylindrical passageway and the cylindrical opening, the keyboard can be raised to an open position and lowered to a closed position quickly and simply without the risk of breaking or bending the heat pipe, and manufacturing position tolerances between the heat pipe apparatus components are increased resulting in a simplified manufacturing process. The heat pipe can also be slid in to and out of the cylindrical passageway or the cylindrical opening, thereby enabling computer manufacturers to incorporate the heat pipe into portable battery powered notebook-type computer systems designed to allow a user to remove, replace, or swap internal components by simply flipping open or removing the keyboard, and further enabling a user to perform maintenance work or repairs on the computer system without concern for damage to the heat pipe.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-03-06
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-03
+	</str>
+	<str name="Publication Date">
+		1997-01-28
+	</str>
+	<str name="Publication Year">
+		1997
+	</str>
+	<str name="Publication(Year/Month)">
+		1997-01
+	</str>
+	<str name="All IPC">
+		H05K7/20
+	</str>
+	<str name="IPC Primary">
+		H05K7/20
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/687 | 257/E23.088 | 361/700 | 165/104.33
+	</str>
+	<str name="UPC Primary">
+		361/687
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US5598320 | WO1996028005A1 | CA2211880A1 | AU5027396A
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Heat Pipe Design Guide for Notebook Computers--Wendy Lul, Jan. 1995, Intel. | Products Data Guide from Thermacore, Inc.--Pentium Processor Thermal Management System--No date. | Thermacore Inc. Product Data Guide, Part #HP-NB-TCP(610/75). | Products Data Guide from Thermacore, Inc.--Miniature Heat Pipes For Notebook Computers--No date.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		39940995
+	</str>
+	<str name="Priority Date">
+		1995-03-06
+	</str>
+	<str name="Assignee(s)">
+		AST RESEARCH, INC.
+	</str>
+	<str name="1st Assignee">
+		AST RESEARCH, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Irvine, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Irvine, CA
+	</str>
+	<str name="Inventor(s)">
+		TOEDTMAN, THOMAS | WELCH, RANDALL, S.
+	</str>
+	<str name="1st Inventor">
+		TOEDTMAN, THOMAS
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Lake, Forest, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Lake, Forest, CA | Lake, Forest, CA
+	</str>
+	<str name="Agent/Attorney">
+		LYON &amp; LYON
+	</str>
+	<str name="Primary Examiner">
+		PICARD, LEO P.
+	</str>
+	<str name="Assistant Examiner">
+		GANDHI, JAYPRAKASH N.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

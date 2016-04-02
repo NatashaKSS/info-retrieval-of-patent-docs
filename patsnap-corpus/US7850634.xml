@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7850634
+	</str>
+	<str name="Application Number">
+		US11613021
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for collecting a desired blood component and performing a photopheresis treatment
+	</str>
+	<str name="Abstract">
+		An improved method for separating whole blood into components and collecting a desired blood component. The method allows a desired blood component to be subjected to centrifugal forces within a separator for prolonged periods of time, yielding a cleaner cut and higher yield of the desired blood component. Whole blood is drawn from a source and pumped into a separator, the undesired blood components are removed from the separator at rates so as to build up the desired blood component in the separator. The desired blood component is only removed after a predetermined amount of the desired blood component has built up in the separator. It is preferred that the desired blood component be buffy coat and that the method be used to perform photopheresis treatments. In another aspect, the invention is a method of performing a full photopheresis treatment to treat diseases in a reduced time, preferably less than about 70 minutes, and more preferably less than about 45 minutes.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-12-19
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-12
+	</str>
+	<str name="Publication Date">
+		2010-12-14
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-12
+	</str>
+	<str name="All IPC">
+		C02F1/44 | A61M37/00
+	</str>
+	<str name="IPC Primary">
+		C02F1/44
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		604/6.15 | 604/6.06 | 422/44 | 604/5.04 | 210/645 | 210/782 | 604/6.08 | 210/781
+	</str>
+	<str name="UPC Primary">
+		604/6.15
+	</str>
+	<str name="UPC Class">
+		604
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		US. Appl. No. 09/480,893, filed Jan. 11, 2000, Dennis A. Briggs. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20030116506 | US4911833 | US5591643 | US6007509 | US4710161 | US5951509 | US5690835 | US5462416 | US4120448 | US5750039 | US4943273 | US5061381 | US6596179 | US2983639 | US5759147 | US5573678 | US5628727 | US20030146170 | USD312128 | US6596180 | US4775794 | US20030116512 | US20020147094 | US5804079 | US5427509 | US4425112 | US5147290 | US6579219 | US5551942 | US4425116 | US4344560 | US6322488 | US5855773 | US4309993 | US5360542 | US6596181 | US5704887 | US5316667 | US5316666 | US4859333 | US5916743 | US6261217 | US5984887 | US4194684 | US3678964 | US5906598 | US5958250 | US4113173 | US5039401 | US5298171 | US5976388 | US5870805 | US20020142909 | US6709377 | US6379322 | US4261507 | US4767396 | US6469052 | US5097870 | US5738784 | US5653887 | US6348156 | US5641414 | US6186752 | US20010000185 | US6179801 | US4879031 | US4417884 | US5505685 | US4778444 | US5779660 | US5053127 | US4440195 | US5538405 | US4333016 | US20030173274 | US5693232 | US5945291 | US5985914 | US6511411 | US4766964 | US4114802 | US5643193 | US20030155312 | US4421503 | US5100372 | US4285464 | US5362291 | US6261065 | US5224921 | US5370802 | US4459169 | US6582349 | US6123655 | US4109854 | US4109852 | US5445593 | US6348031 | US5281342 | US5637082 | US20060257847 | US4109855 | US6612975 | US6582350 | US6552286 | US5961842 | US5849203 | US6387263 | US4950401 | US5792372 | US6231537 | US5628915 | US5785869 | US4230263 | US5651766 | US5443451 | US5514070 | US5807492 | US5527472 | US4398906 | US5649905 | US4680025 | US4086924 | US5759413 | US5501840 | US5525218 | US5305799 | US4517404 | US6524231 | US6514189 | US20010024623 | US6589153 | US4464166 | US5076911 | US6589155 | US5656163 | US5405308 | US5527467 | US6315707 | US6312607 | US4372484 | US5989177 | US4303193 | US6197202 | US6080322 | US4737140 | US5681273 | US4108353 | US3103489 | US4866282 | US5980757 | US5322620 | US5591113 | US20030102272 | US5482440 | US4201525 | US20020032112 | US6607473 | US20010004444 | US6464624 | US6288995 | US6056522 | US6605223 | US5217427 | US5217426 | US5919125 | US6544416 | US4865081 | US5514069 | US5445506 | US5254248 | US6219584 | US5186844 | US4986442 | US4321919 | US5730883 | US5935051 | US5494578 | US5993370 | US5882289 | US6196987 | US5980760 | US6475132 | US6027655 | US6027657 | US6200287 | US6495366 | US20030085185 | US4479760 | US20040127840 | US6334842 | US4479762 | US4898571 | US4479761 | US6610002 | US6273849 | US4806252 | US6228017 | US6071421 | US5690602 | US6071423 | US5607579 | US5641622 | US5427695 | US6312593 | US6319223 | US6059979 | US5104526 | US4059108 | US4300717 | US5240614 | US4374731 | US3986442 | US5921909 | US6491656 | US4439178 | US4734089 | US4407295 | US5494592 | US4854933 | US5437598 | US20020068674 | US4164318 | US4889524 | US20010021817 | US4428744 | US20020068675 | US3861972 | US3628445 | US5639382 | US5676841 | US5273517 | US6296450 | US4983158 | US20030136739 | US4578056 | US6558307 | US6102883 | US4636346 | US5426116 | US6228995 | US5480294 | US6204058 | US5332500 | US4940543 | US4540397 | US5460493 | US6168561 | US4305659 | US5746708 | US4530691 | US5549834 | US6420570 | US20030181305 | US5948271 | US6248053 | US6183651 | US4876014 | US5399719 | US20020098469 | US5996634 | US4692136 | US6007725 | US4204537 | US6346069 | US6251056 | US5728060 | US20020099319 | US4605503 | US6544162 | US6129656 | US5868695 | US6352499 | US6234989 | US4221322 | US5833866 | US6183407 | US4120449 | US5769811 | US5529691 | US5160310 | US5372136 | US20030114289 | US6616589 | US4111356 | US3145713 | US5634893 | US4573960 | US20030106858 | US4573962 | US4389206 | US20030094425 | US5632893 | US6554788 | US5738644 | US4834890 | US4724317 | US4857190 | US6207063 | US4997577 | US4056224 | US4708712 | US5702357 | US20020091057 | US4245383 | WO2001017651 | WO2001017653 | WO1999002269 | EP0755708 | WO2003075983 | WO2002040176 | JP1988267460 | EP0992256 | DE4220232 | WO1994008687 | WO1994008688 | EP0779077 | DE3817664 | WO1997036581 | JP2000102603 | WO2003000026 | WO1993012887 | WO2001024848 | EP0799645 | WO2001080924 | EP0112990 | WO2003013686 | EP0608519 | EP1252918 | EP0297216 | JP2001070832 | EP1043071 | WO1997036634 | EP1138392 | WO1994029722 | JP19979192215 | WO1998022163 | WO1996025234 | JP1997276396 | WO2002081096 | JP1995075746 | FR2305238 | JP1997192215 | EP0786324 | JP1984105859 | WO2001017588 | EP0749771 | CN1321099 | EP0268025 | EP1066842 | WO1999023471 | EP1208856 | WO1998048938 | WO2001017605 | EP1241249
+	</str>
+	<str name="Cites Count">
+		355
+	</str>
+	<str name="Assignee(s)">
+		THERAKOS, INC.
+	</str>
+	<str name="1st Assignee">
+		THERAKOS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Exton, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Exton, PA
+	</str>
+	<str name="Inventor(s)">
+		BRIGGS, DENNIS
+	</str>
+	<str name="1st Inventor">
+		BRIGGS, DENNIS
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		West, Chester, PA
+	</str>
+	<str name="Inventor(s) Address">
+		West, Chester, PA
+	</str>
+	<str name="Primary Examiner">
+		DEAK, LESLIE R
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

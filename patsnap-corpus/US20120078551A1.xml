@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120078551A1
+	</str>
+	<str name="Application Number">
+		US13/154391
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Battery Detector for Portable Electronic Device and Method Thereof
+	</str>
+	<str name="Abstract">
+		Various embodiments of a battery detector are provided. In one aspect, a battery detector of a portable electronic device is applied to a battery module without an identification (ID) terminal. When the portable electronic device receives a direct current (DC) voltage provided by an external transformer to conduct a startup procedure, the battery detector detects whether the battery module is connected to the portable electronic device or not, and prevents the portable electronic device from conducting erroneous operations.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2011-06-06
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-06
+	</str>
+	<str name="Publication Date">
+		2012-03-29
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-03
+	</str>
+	<str name="All IPC">
+		G06F19/00 | H02J7/04
+	</str>
+	<str name="IPC Primary">
+		G06F19/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F19
+	</str>
+	<str name="All UPC">
+		702/63 | 320/107
+	</str>
+	<str name="UPC Primary">
+		702/63
+	</str>
+	<str name="UPC Class">
+		702
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		TW
+	</str>
+	<str name="Priority Number">
+		099132226
+	</str>
+	<str name="Priority Date">
+		2010-09-23
+	</str>
+	<str name="Assignee(s)">
+		MSTAR SEMICONDUCTOR, INC.
+	</str>
+	<str name="1st Assignee">
+		MSTAR SEMICONDUCTOR, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		ChuPei,TW
+	</str>
+	<str name="Assignee(s) Address">
+		ChuPei,TW
+	</str>
+	<str name="Inventor(s)">
+		LI CHENG-YI | TSENG KUN-WEI | WANG YI-WEI
+	</str>
+	<str name="1st Inventor">
+		LI CHENG-YI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		ChuPei,TW
+	</str>
+	<str name="Inventor(s) Address">
+		ChuPei,TW | ChuPei,TW | ChuPei,TW
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

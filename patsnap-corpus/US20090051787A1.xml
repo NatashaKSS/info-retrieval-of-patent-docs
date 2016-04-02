@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090051787A1
+	</str>
+	<str name="Application Number">
+		US12197566
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS AND METHOD FOR PHOTOGRAPHING IMAGE USING DIGITAL CAMERA CAPABLE OF PROVIDING PREVIEW IMAGES
+	</str>
+	<str name="Abstract">
+		Disclosed is an apparatus for photographing an image using a digital camera capable of providing a preview image, including: an image sensor for capturing an image of a subject; a first image signal processor for processing at least one captured image as a sequent image in order to display the captured image as a preview image on a display window and detecting a face area from the captured image; a buffer for storing the image including at least one detected face area; a capture button for capturing a still image during outputting the sequent image as the preview image on the display window; a second image signal processor for processing the captured still image using the capture button; a controller for controlling to store the captured still image and information related on the face area detected from the first image signal processor prior to the input of the capture button; and a memory for storing the processed still image together with the information related on the detected face area.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-08-25
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-08
+	</str>
+	<str name="Publication Date">
+		2009-02-26
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		G06K9/00 | H04N5/76
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		348/231.99 | 382/118
+	</str>
+	<str name="UPC Primary">
+		348/231.99
+	</str>
+	<str name="UPC Class">
+		348
+	</str>
+	<str name="Family Members">
+		US20090051787A1 | KR1020090020390A
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		200785125
+	</str>
+	<str name="Priority Date">
+		2007-08-23
+	</str>
+	<str name="Inventor(s)">
+		YOON JE-HAN | KIM HYUN-SOO | LEE JI-HYO
+	</str>
+	<str name="1st Inventor">
+		YOON JE-HAN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Seongnam-si,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seongnam-si,KR | Yongin-si,KR | Yongin-si,KR
+	</str>
+	<str name="Agent/Attorney">
+		CHA &amp; REITER, LLC
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

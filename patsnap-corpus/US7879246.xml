@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7879246
+	</str>
+	<str name="Application Number">
+		US11348548
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water treatment apparatus
+	</str>
+	<str name="Abstract">
+		It is an object of the present invention to provide an effective technique for achieving a higher level of water quality control in a water treatment apparatus. Representative water treatment apparatus according to the present invention may include a purifying section, a sterilizing section, a water storing section and a water quality detection sensor. The water quality detection sensor is immersed in the water storing section. The water quality detection sensor not only serves as a means for detecting the quality of water in the water storing section, but also as a means for detecting deposition of biomembrane on the detecting section of the water quality detection sensor due to deterioration of the sterilizing performance of the water storing section. As a result, an efficient water quality control system can be realized.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-02-07
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-02
+	</str>
+	<str name="Publication Date">
+		2011-02-01
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		C02F1/76 | C02F1/32 | C02F1/46 | C02F1/78 | C02F9/00 | C02F1/00
+	</str>
+	<str name="IPC Primary">
+		C02F1/76
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/743 | 210/170.08 | 210/754 | 210/748.01 | 210/748.11 | 210/93 | 210/756 | 210/198.1 | 210/739 | 210/260 | 210/760 | 210/172.1
+	</str>
+	<str name="UPC Primary">
+		210/743
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		WO 2006/011241, Okamoto, Waste Water Purification Apparatus, WIPO, Feb. 2, 2006. cited by examiner . | WO 2006/011241 English translation from EPO. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6383369 | US5053140 | US6312588 | US5828458 | US20030205509 | US5683576 | JP1991052696
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2005033130
+	</str>
+	<str name="Priority Date">
+		2005-02-09
+	</str>
+	<str name="Assignee(s)">
+		FUJI CLEAN CO., LTD
+	</str>
+	<str name="1st Assignee">
+		FUJI CLEAN CO., LTD
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Nagoya-shi, Aichi, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Nagoya-shi, Aichi, JP
+	</str>
+	<str name="Inventor(s)">
+		DOI, YUKIO | MATSUO, KOICHI | TABATA, YOSUKE | IWAMA, TOSHIYUKI | SHIMIZU, YOICHIRO
+	</str>
+	<str name="1st Inventor">
+		DOI, YUKIO
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Chiryu, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Chiryu, JP | Chiryu, JP | Chiryu, JP | Chiryu, JP | Chiryu, JP
+	</str>
+	<str name="Agent/Attorney">
+		DENNISON, SCHULTZ &amp; MACDONALD
+	</str>
+	<str name="Primary Examiner">
+		SMITH, DUANE
+	</str>
+	<str name="Assistant Examiner">
+		DURAND, PAUL J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

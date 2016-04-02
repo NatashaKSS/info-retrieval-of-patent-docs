@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8306281
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Human image retrieval system
+	</str>
+	<str name="Abstract">
+		In a similar face retrieval system for retrieving an image photographing a face similar to a face detected from a retrieval query image from a retrieval target image group by using an image photographing a human face as the retrieval query image, whole image features as features representative of background information are extracted from each whole area of an each image of a retrieval target image group, to calculate a degree of similarity through comparison with each set of whole image features, and an image having a degree of similarity not lower than a certain value and having a lower retrieval result order from retrieval results. It is possible to efficiently retrieve the same person playing in different scenes by utilizing different features for a retrieval process and a filtering process.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Publication Date">
+		2012-11-06
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-11
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118 | 382/218 | 382/305
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Sato et al., &quot;Person Search System using Face and Clothing Features&quot;, Matsushita Technical Journal, vol. 52, No. 3, pp. 67-61, Jun. 2006. cited by other | Journal of Institute of Image Electronics Engineers of Japan, Sep. 25, 2005, vol. 34, No. 5, pp. 596-605. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6243492 | US6907140 | US7054468 | US7215791 | US8090151 | US20040073543 | US20040169658 | US20060159312 | US20070172099 | US20070237426 | US20090060294 | JP2001167110 | JP2003009069 | JP2003296165 | JP2005352727 | JP2007079736
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2007-284664
+	</str>
+	<str name="Priority Date">
+		2007-01-11
+	</str>
+	<str name="Agent/Attorney">
+		ANTONELLI, TERRY, STOUT &amp; KRAUS, LLP.
+	</str>
+	<str name="Primary Examiner">
+		DESIRE, GREGORY M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

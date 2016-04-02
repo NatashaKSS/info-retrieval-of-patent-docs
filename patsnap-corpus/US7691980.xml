@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7691980
+	</str>
+	<str name="Application Number">
+		US11970296
+	</str>
+	<str name="Title">
+		Enhanced capacity and purification of antibodies by mixed mode chromatography in the presence of aqueous-soluble nonionic organic polymers
+	</str>
+	<str name="Abstract">
+		This invention relates to the use of mixed mode chromatography for purification of at least one intact non-aggregated antibody from a mixture containing intact non-aggregated antibodies and undesirable materials, including fragmented or aggregated antibodies, host cell proteins, DNA, endotoxin, and/or virus. This invention further relates to the integration of such a method into a multi-step procedure with other fractionation methods for purification of antibodies suitable for in vivo applications.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-01-07
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-01
+	</str>
+	<str name="Publication Date">
+		2010-04-06
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		C07K16/00 | A61K39/395 | C07K1/22
+	</str>
+	<str name="IPC Primary">
+		C07K16/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C07
+	</str>
+	<str name="IPC Subclass">
+		C07K
+	</str>
+	<str name="IPC Group">
+		C07K16
+	</str>
+	<str name="All UPC">
+		436/161 | 530/390.5 | 424/177.1 | 530/413 | 530/390.1 | 530/415 | 424/176.1 | 210/691
+	</str>
+	<str name="UPC Primary">
+		436/161
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Gagnon, Pete et al.; &quot;A Non-Affinity Based Method for Purification of IgG Monoclonal Antibodies&quot;; 2006, IBC World Conference and Exposition, 1 page. cited by other . | Gagnon, Pete et al.; &quot;Obtaining Unique Selectivities in Ion Exchange Chromatography by Addition of organic Polymers to the Mobile Phase&quot;; 1995, 15th International Symposium on HPLC of Proteins, Peptides, and Polynucleotides, 4 pages. cited by other . | &quot;Macro-Prep Chromatography Supports&quot;; Bio-Rad, 8 pages. cited by other. | Gagnon, Pete; &quot;Purification Tools for Monoclonal Antibodies&quot;; 1996, Validated Biosystems, Chapters 4-6, pp. 57-126. cited by other . | Gagnon, Pete et al.; &quot;Simultaneous removal of aggregates, leached protein A, endotoxin, and DNA from protein A purified IgG with CFT.TM. ceramic fluorapatite&quot;; 2005, Purification of Biological Products, Santa Monica, 19 pages. cited by other . | Gagnon, Pete et al.; &quot;Method for obtaining unique selectivities in ion-exchange chromatography by addition of organic polymers to the mobile phase&quot;; 1996, Journal of Chromatography, vol. 743, pp. 51-55. cited by other . | Gagnon, Pete et al.; &quot;Nonionic Polymer Enhancement of Aggregate Removal in Ion Exchange and Hydroxyapatite Chromatography&quot;; 2007, 12th Annual Waterside Conference, 33 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By">
+		US8017740 | US8093364 | US7999085
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US6498236 | US7385040 | US20070259453 | US6870034 | US20050107594 | US5945520 | US6919436 | US7008542
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Assignee(s)">
+		BIO-RAD LABORATORIES, INC.
+	</str>
+	<str name="1st Assignee">
+		BIO-RAD LABORATORIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hercules, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Hercules, CA
+	</str>
+	<str name="Inventor(s)">
+		GAGNON, PETER, S.
+	</str>
+	<str name="1st Inventor">
+		GAGNON, PETER, S.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		San, Clemente, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Clemente, CA
+	</str>
+	<str name="Agent/Attorney">
+		TOWNSEND &amp; TOWNSEND &amp; CREW LLP
+	</str>
+	<str name="Primary Examiner">
+		SAUNDERS, DAVID A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

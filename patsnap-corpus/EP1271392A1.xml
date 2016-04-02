@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1271392A1
+	</str>
+	<str name="Application Number">
+		EP1997021869
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Form identification apparatus and method
+	</str>
+	<str name="Abstract">
+		A form identification apparatus comprising storage means (26) for storing ruled line information for a table form; group generation means (27) for obtaining a plurality of possible combinations of ruled lines extracted from an input image and corresponding ruled lines contained in ruled line information of the storage means (26), and extracting a group of two or more compatible combinations among the plurality of combinations in such a way that no combinations in another group can be contained; and comparison means (24) for comparing the input image with the table form according to information about the combinations contained in one or more extracted groups. The apparatus may be used for managing documents such as images obtained from a scanner.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1997-12-22
+	</str>
+	<str name="Application Year">
+		1997
+	</str>
+	<str name="Application(Year/Month)">
+		1997-12
+	</str>
+	<str name="Publication Date">
+		2003-01-02
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-01
+	</str>
+	<str name="All IPC">
+		G06K9/20
+	</str>
+	<str name="IPC Primary">
+		G06K9/20
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="Family Members">
+		EP1271392B1 | EP1271390B1 | EP1271391A1 | EP1271390A1 | EP1271392A1 | EP1271391B1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		CASEY R G ET AL:  &quot;INTELLIGENT FORMS PROCESSING&quot; IBM SYSTEMS JOURNAL, vol. 29, no. 3, 1 January 1990 (1990-01-01), pages 435-450, XP000265375 | ARTURO PIZANO ET AL:  &quot;A BUSINESS FORM RECOGNITION SYSTEM&quot; PROCEEDINGS OF THE INTERNATIONAL COMPUTER SOFTWARE AND APPLICATIONS CONFERENCE. ( COMPSAC ), TOKYO, SEPT. 11 - 13, 1991, no. CONF. 15, 11 September 1991 (1991-09-11), pages 626-632, XP000260573 KNAFL G J | &quot;MODEL AND METHOD OF UNDERSTANDING LAYOUT FOR PROCESSING OF PRINTED FORMS&quot; IBM TECHNICAL DISCLOSURE BULLETIN, vol. 37, no. 1, 1 January 1994 (1994-01-01), pages 277-279, XP000428775
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		EP0616296A2 | EP0654746A2 | WO1989011703A1 | US4933979 | DE4307577A1
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		35134696
+	</str>
+	<str name="Priority Date">
+		1996-12-27
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		NAOI, SATOSHI | KATSUYAMA, YUTAKA | TAKEBE, HIROAKI
+	</str>
+	<str name="1st Inventor">
+		NAOI, SATOSHI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8301701
+	</str>
+	<str name="Application Number">
+		US10/685860
+	</str>
+	<str name="Title">
+		Creating dynamic interactive alert messages based on extensible document definitions
+	</str>
+	<str name="Abstract">
+		An unsolicited dynamic interactive message is created wherein the message defines any graphical user interface elements to be displayed, the rules associated with the message, the appropriate methods and functions which can be performed and specific contextual interactions supported. The message definition can originate from a local or remote computer and can be pre and post processed as specified by the computing environment and the message definition itself.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-10-15
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-10
+	</str>
+	<str name="Publication Date">
+		2012-10-30
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-10
+	</str>
+	<str name="All IPC">
+		G06F15/16
+	</str>
+	<str name="IPC Primary">
+		G06F15/16
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="All UPC">
+		709/206
+	</str>
+	<str name="UPC Primary">
+		709/206
+	</str>
+	<str name="UPC Class">
+		709
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Microsoft Corporation, Internet Explorer 4.0 Accessibility, Oct. 1997, Microsoft Corporation, p. 2 and 5. cited by examiner | Nguyen, T,Office Actions for U.S. Appl. No. 10/207,711, filed Jul. 26, 2002. cited by other | Nguyen, T,Office Actions for U.S. Appl. No. 10/732,020, filed Dec. 10, 2003. cited by other | Nguyen, T,Office Actions for U.S. Appl. No. 11/197,964, filed Aug. 5, 2005. cited by other | Nguyen, T,Office Actions for U.S. Appl. No. 11/197,998, filed Aug. 26, 2005. cited by other | Patel, D,Office Actions for U.S. Appl. No. 10/207,685, filed Jul. 26, 2002. cited by other | Patel, D,Office Actions for U.S. Appl. No. 10/730,227, filed Dec. 8, 2003. cited by other | Patel, D,Office Actions for U.S. Appl. No. 11/226,593, filed Sep. 14, 2005. cited by other | Patel, D,Office Actions for U.S. Appl. No. 11/234,987, filed Sep. 26, 2005. cited by other | Patel, D,Office Actions for U.S. Appl. No. 11/245,577, filed Oct. 7, 2005. cited by other | Nguyen, T,Office Actions for U.S. Appl. No. 11/197,933, filed Aug. 5, 2005. cited by other | Nguyen, T, Office Actions filed after Mar. 31, 2009 for U.S. Appl. No. 10/207,711, filed Jul. 26, 2002. cited by other | Nguyen, T, Office Actions filed after Mar. 31, 2009 for U.S. Appl. No. 10/732,020, filed Dec. 10, 2003. cited by other | Nguyen, T, Office Actions filed after Mar. 31, 2009 for U.S. Appl. No. 11/197,964, filed Aug. 5, 2005. cited by other | Nguyen, T, Office Actions filed after Mar. 31, 2009 for U.S. Appl. No. 11/197,933, filed Aug. 5, 2005. cited by other | Nguyen, T, Office Actions filed after Mar. 31, 2009 for U.S. Appl. No. 11/197,998, filed Aug. 5, 2005. cited by other | Patel, D, Office Actions filed after Mar. 31, 2009 for U.S. Appl. No. 10/207,685, filed Jul. 26, 2002. cited by other | Patel, D, Office Actions filed after Mar. 31, 2009 for U.S. Appl. No. 10/730,227, filed Dec. 8, 2003. cited by other | Patel, D, Office Actions filed after Mar. 31, 2009 for U.S. Appl. No. 11/226,593, filed Sep. 14, 2005. cited by other | Patel, D, Office Actions filed after Mar. 31, 2009 for U.S. Appl. No. 11/234,987, filed Sep. 26, 2005. cited by other | Patel, D, Office Actions filed after Mar. 31, 2009 for U.S. Appl. No. 11/245,577, filed Oct. 7, 2005. cited by other | Patel, D, Office Actions dated Dec. 24, 2009 for U.S. Appl. No. 10/207,685, filed Jul. 26, 2002. cited by other | Patel, D, Office Action dated Dec. 10, 2009 for U.S. Appl. No. 11/234,987, filed Sep. 26, 2005. cited by other | Patel, Dhairya A, Final Action dated Feb. 22, 2010 for U.S. Appl. No. 10/730,227, filed Dec. 8, 2003. cited by other | Patel, Dhairya A, Final Rejection dated Jul. 22, 2010 for U.S. Appl. No. 11/245,577, filed Oct. 7, 2005. cited by other | Patel, Dhairya A, Rejection dated Aug. 18, 2010 for U.S. Appl. No. 10/730,227, filed Dec. 8, 2003. cited by other | Patel, Dhairya A, Office Action dated Dec. 9, 2010 for U.S. Appl. No. 10/207,685, filed Jul. 26, 2002. cited by other | Patel, Dhairya A, Advisory Action dated Oct. 5, 2010 for U.S. Appl. No. 11/245,577, filed Oct. 7, 2005. cited by other | Patel, Dhairya A, Final Office Action dated Dec. 23, 2010 for U.S. Appl. No. 10/730,227, filed Dec. 8, 2003. cited by other.
+	</str>
+	<str name="Other References Count">
+		29
+	</str>
+	<str name="Cites">
+		US5636344 | US5778367 | US5870552 | US5893911 | US5915240 | US6018716 | US6018730 | US6028601 | US6128655 | US6138120 | US6154781 | US6158007 | US6185603 | US6209100 | US6223165 | US6226359 | US6236991 | US6268856 | US6286001 | US6301609 | US6324587 | US6341960 | US6421709 | US6438580 | US6442529 | US6442590 | US6477708 | US6496851 | US6519629 | US6535586 | US6539421 | US6574658 | US6587668 | US6609103 | US6651086 | US6677968 | US6699125 | US6732101 | US6750881 | US6751657 | US6771154 | US6807562 | US6807675 | US6832245 | US6941345 | US6981223 | US7017175 | US7073129 | US7124167 | US7152094 | US7155475 | US7194004 | US7209964 | US7287057 | US7305442 | US7319882 | US7539763 | US7596578 | US20010034015 | US20010034763 | US20010049721 | US20010056422 | US20020007453 | US20020023131 | US20020032771 | US20020040374 | US20020052919 | US20020062391 | US20020072039 | US20020099777 | US20020131407 | US20020133534 | US20020138588 | US20030023692 | US20030028525 | US20030061365 | US20030065805 | US20030070176 | US20030093480 | US20030108543 | US20030131073 | US20030158913 | US20030208543 | US20030212800 | US20030217105 | US20030220972 | US20040002049 | US20040010808 | US20040015554 | US20040044635 | US20040080534 | US20080307040 | EP1130845 | EP1365553 | WO2000077661
+	</str>
+	<str name="Cites Count">
+		95
+	</str>
+	<str name="Assignee(s)">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Armonk, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Armonk, NY
+	</str>
+	<str name="Inventor(s)">
+		GOODMAN, BRIAN, D. | JANIA, FRANK
+	</str>
+	<str name="1st Inventor">
+		GOODMAN, BRIAN, D.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		New, York, NY
+	</str>
+	<str name="Inventor(s) Address">
+		New, York, NY | Norwalk, CT
+	</str>
+	<str name="Agent/Attorney">
+		CAMPBELL, JOHN E. GONZALEZ, FLOYD A.
+	</str>
+	<str name="Primary Examiner">
+		WHIPPLE, BRIAN P
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2012007605A3
+	</str>
+	<str name="Application Number">
+		PCT/ES2011/000196
+	</str>
+	<str name="Kind Code">
+		A3
+	</str>
+	<str name="Title">
+		MODULAR SYSTEM FOR SUPPLY BY MAGNETIC FIELD IN ANIMAL TELEMETRY
+	</str>
+	<str name="Abstract">
+		The present invention relates to a modular system (1) for providing an electronic device (2) with energy via a magnetic field. The electronic device (2) is an implant for laboratory animals, the purpose of which is to measure and send information relating to physiological functions of the animal for subsequent analysis and study. The implantable system has a temporary energy storage module. The system which provides energy via the magnetic field for supplying the implant is accommodated in the cage of the animal and the modularity of said system allows the latter to be applied to animal housings which are as large as desired. The system allows prolonged studies (in which the use of batteries is ruled out) while the animal moves freely in the cage thereof without any type of restriction. The system also allows the animal to be removed from the magnetic field generation area for limited periods of time without losing the functions of the implant owing to a lack of supply.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2011-06-10
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-06
+	</str>
+	<str name="Publication Date">
+		2012-01-19
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-01
+	</str>
+	<str name="All IPC">
+		A61B5/04 | H02J5/00
+	</str>
+	<str name="IPC Primary">
+		A61B5/04
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61B
+	</str>
+	<str name="IPC Group">
+		A61B5
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		ES
+	</str>
+	<str name="Priority Number">
+		P201000808
+	</str>
+	<str name="Priority Date">
+		2010-06-11
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITAT POLITECNICA DE CATALUNYA | FERNANDEZ CHIMENO | RAMOS CASTRO | ZABACO NATALI
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITAT POLITECNICA DE CATALUNYA
+	</str>
+	<str name="Number of Assignees">
+		4
+	</str>
+	<str name="1st Assignee Address">
+		C/ Jordi Girona, 31, E-08034 Barcelona, ES
+	</str>
+	<str name="Assignee(s) Address">
+		C/ Jordi Girona, 31, E-08034 Barcelona, ES | Mireya, C/. Jordi Girona, 29, Edificio Nexus II, planta baja, E-08034 Barcelona, ES | Juan, C/. Jordi Girona, 29, Edificio Nexus II, planta baja, E-08034 Barcelona, ES | Oscar, C/. Jordi Girona, 29, Edificio Nexus II, planta baja, E-08034 Barcelona, ES
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

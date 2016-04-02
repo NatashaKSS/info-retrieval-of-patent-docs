@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6381365
+	</str>
+	<str name="Application Number">
+		US09137234
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image data processing apparatus and image data processing method
+	</str>
+	<str name="Abstract">
+		An image data processing apparatus for extracting a basic texture pattern as an identifiable feature of an image so that accurate image search can be performed by comparing images using the extracted basic texture patterns. The image data processing apparatus inputs image, detects textural periodicity in the image, extracts the basic texture pattern based on the calculated periodicity, normalizes the extracted basic pattern and shifts the normalized basic pattern. The apparatus stores the normalized and shifted basic pattern to an image database with the image from which the basic pattern was extracted.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-08-20
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-08
+	</str>
+	<str name="Publication Date">
+		2002-04-30
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-04
+	</str>
+	<str name="All IPC">
+		G06K9/68 | G03F3/08 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/68
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/190 | 382/218 | 358/521
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US6381365 | US20010046321A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		13
+	</str>
+	<str name="Other References">
+		Dr. Gupta, &quot;Visual Information Retrieval Technology A Virage Perspective&quot;, Virage Image Engine API Specification, Feb. 1997, pp. 1-10.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US6751339 | US7630557 | US8139648 | US6683984 | US7233708 | US7199803 | US7027065 | US7884322 | CN1614595A | US6556893 | US6624821 | CN100504859C | US6584223
+	</str>
+	<str name="Cited By Count">
+		13
+	</str>
+	<str name="Cites">
+		US5533148 | US5668897 | US5513275 | US5887080 | US5574886 | US6222932 | US5859930 | US5734747 | US5085517 | JP1994295318 | JP1993028266 | JP1996329096 | JP1994274193 | JP1995271949 | JP1996016789 | JP1993274372 | JP1985157681
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		9226101 | 9235979
+	</str>
+	<str name="Priority Date">
+		1997-08-22 | 1997-09-01
+	</str>
+	<str name="Assignee(s)">
+		MINOLTA CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		MINOLTA CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Osaka, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s)">
+		MURAKAWA, AKIRA
+	</str>
+	<str name="1st Inventor">
+		MURAKAWA, AKIRA
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kobe, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kobe, JP
+	</str>
+	<str name="Agent/Attorney">
+		BURNS, DOANE, SWECKER &amp; MATHIS, LLP
+	</str>
+	<str name="Primary Examiner">
+		AU, AMELIA M.
+	</str>
+	<str name="Assistant Examiner">
+		DASTOURI, MEHRDAD
+	</str>
+	<str name="cited by within 3 years">
+		6
+	</str>
+	<str name="cited by within 5 years">
+		8
+	</str>
+</doc>
+

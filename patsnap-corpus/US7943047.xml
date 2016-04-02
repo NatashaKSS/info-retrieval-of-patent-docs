@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7943047
+	</str>
+	<str name="Application Number">
+		US12088777
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for the treatment of wastewater from aldolization processes
+	</str>
+	<str name="Abstract">
+		Process for the treatment of wastewater from an aldolization process which is contaminated with water-soluble and/or dispersed organic impurities by means of single-stage or multistage extraction with an organic liquid of the aldolization process wastewater which has been set to a pH of from 0 to 6, in which an organic liquid obtained by stripping of the acidified aldolization process wastewater or of the acidified and extracted aldolization process wastewater, condensation of the stripped compounds and phase separation of the condensate is used as extractant for the extraction of organic impurities from the acidified aldolization process wastewater and wastewater having a lower content of organic impurities than the aldolization process wastewater fed to the extraction is taken off from the stripping apparatus.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-09-25
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-09
+	</str>
+	<str name="Publication Date">
+		2011-05-17
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-05
+	</str>
+	<str name="All IPC">
+		C07C45/80 | B01D11/04
+	</str>
+	<str name="IPC Primary">
+		C07C45/80
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C07
+	</str>
+	<str name="IPC Subclass">
+		C07C
+	</str>
+	<str name="IPC Group">
+		C07C45
+	</str>
+	<str name="All UPC">
+		568/463 | 210/806 | 210/774 | 210/639 | 210/805 | 210/908 | 568/492 | 203/10 | 203/39
+	</str>
+	<str name="UPC Primary">
+		568/463
+	</str>
+	<str name="UPC Class">
+		568
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US4518502 | US20050115901 | US20040262238 | US6139747 | US6340778 | US1839819 | US4064079 | US6358419 | US5336811 | US3359335 | US6433230 | EP0926100 | EP1496043 | GB1309555 | GB960936 | EP0631988 | WO2003070639
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102005047460
+	</str>
+	<str name="Priority Date">
+		2005-09-30
+	</str>
+	<str name="Assignee(s)">
+		BASF SE
+	</str>
+	<str name="1st Assignee">
+		BASF SE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ludwigshafen, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Ludwigshafen, DE
+	</str>
+	<str name="Inventor(s)">
+		MAASSEN, SIEGMAR | KROKOSZINSKI, ROLAND | KRATZ, DETLEF
+	</str>
+	<str name="1st Inventor">
+		MAASSEN, SIEGMAR
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Ludwigshafen, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Ludwigshafen, DE | Weisenheim, A.berg, DE | Singapore, SG
+	</str>
+	<str name="Agent/Attorney">
+		CONNOLLY BOVE LODGE &amp; HUTZ LLP
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

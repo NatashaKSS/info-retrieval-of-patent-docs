@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20020097567A1
+	</str>
+	<str name="Application Number">
+		US09998081
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Plastic desk with integral computer
+	</str>
+	<str name="Abstract">
+		A desk that contains an integrated computer. The desk includes a screen and a keyboard that are attached to a frame. The desk may also have a backplane located in a slot of the frame. A portable transporter computer can be plugged into the backplane to couple the transporter with the screen and keyboard. A battery module may also be plugged into the frame to power the transporter, screen and keyboard. When the desk is not in use the battery module can be plugged into a charging station to recharge the batteries of the module.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-11-29
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-11
+	</str>
+	<str name="Publication Date">
+		2002-07-25
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-07
+	</str>
+	<str name="All IPC">
+		H05K7/00
+	</str>
+	<str name="IPC Primary">
+		H05K7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/820
+	</str>
+	<str name="UPC Primary">
+		361/820
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US20020097567A1 | US20050088816A1 | US6820562
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		99808101 | 25029000
+	</str>
+	<str name="Priority Date">
+		2001-11-29 | 2000-11-29
+	</str>
+	<str name="Inventor(s)">
+		RICHARD ZODNIK | RICK GOERNER | CHARLES PELLY
+	</str>
+	<str name="1st Inventor">
+		RICHARD ZODNIK
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		San Juan Capistrano,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		San Juan Capistrano,CA,US | San Juan Capistrano,CA,US | Woodland Hills,CA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

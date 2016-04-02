@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2002004733A1
+	</str>
+	<str name="Application Number">
+		PCT/JP2001/005968
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		BUSINESS-USE LAUNDERING METHOD AND BUSINESS-USE LAUNDERING DEVICE USING THE METHOD
+	</str>
+	<str name="Abstract">
+		A business-use laundering method capable of effectively preventing the shrinking and damaging of laundry in business-use laundering, and a laundering device used for the method. Bubbles are introduced from below laundry charged in a laundry tank (10) and the laundry tank (10) is controlled in operation so as to be basically kept at a standstill, thereby making laundering using water and a detergent more effective by the action of rising bubbles. Namely, fine bubbles passing the laundry from below force the water and the detergent to also pass the laundry along with them. In addition, no mechanical force is applied to the laundry to move it for a laundering purpose, and the laundry tank is controlled to be operated basically kept in a standstill condition.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-07-10
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-07
+	</str>
+	<str name="Publication Date">
+		2002-01-17
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-01
+	</str>
+	<str name="All IPC">
+		D06F17/12
+	</str>
+	<str name="IPC Primary">
+		D06F17/12
+	</str>
+	<str name="IPC Section">
+		D
+	</str>
+	<str name="IPC Class">
+		D06
+	</str>
+	<str name="IPC Subclass">
+		D06F
+	</str>
+	<str name="IPC Group">
+		D06F17
+	</str>
+	<str name="Family Members">
+		JP2002306886A | AU6949501A | WO2002004733A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		JP1131695A | JP55110183U | JP2034198A | JP2060693A | JP53115573A | JP4200592A
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2000210345
+	</str>
+	<str name="Priority Date">
+		2000-07-11
+	</str>
+	<str name="Assignee(s)">
+		NATURAL CLEAN INC.
+	</str>
+	<str name="1st Assignee">
+		NATURAL CLEAN INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		10-1, Soto-Minowa 2-chome, Kimitsu-shi, Chiba 299-1173, JP
+	</str>
+	<str name="Assignee(s) Address">
+		10-1, Soto-Minowa 2-chome, Kimitsu-shi, Chiba 299-1173, JP
+	</str>
+	<str name="Inventor(s)">
+		YAMADA, YUKIO
+	</str>
+	<str name="1st Inventor">
+		YAMADA, YUKIO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		10-1, Soto-Minowa, 2-chome, Kimitsu-shi, Chiba, 299-1173, JP
+	</str>
+	<str name="Inventor(s) Address">
+		10-1, Soto-Minowa, 2-chome, Kimitsu-shi, Chiba, 299-1173, JP
+	</str>
+	<str name="Agent/Attorney">
+		ETOH, TOSHIAKI, SHOWA BUILDING, 8-18, KYOBASHI 2-CHOME, CHUO-KU, TOKYO 104-0031, JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

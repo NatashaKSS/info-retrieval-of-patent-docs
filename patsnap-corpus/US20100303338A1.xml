@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100303338A1
+	</str>
+	<str name="Application Number">
+		US12612729
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Digital Video Content Fingerprinting Based on Scale Invariant Interest Region Detection with an Array of Anisotropic Filters
+	</str>
+	<str name="Abstract">
+		Video sequence processing is described with various filtering rules applied to extract dominant features for content based video sequence identification. Active regions are determined in video frames of a video sequence. Video frames are selected in response to temporal statistical characteristics of the determined active regions. A two pass analysis is used to detect a set of initial interest points and interest regions in the selected video frames to reduce the effective area of images that are refined by complex filters that provide accurate region characterizations resistant to image distortion for identification of the video frames in the video sequence. Extracted features and descriptors are robust with respect to image scaling, aspect ratio change, rotation, camera viewpoint change, illumination and contrast change, video compression/decompression artifacts and noise. Compact, representative signatures are generated for video sequences to provide effective query video matching and retrieval in a large video database.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2009-11-05
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-11
+	</str>
+	<str name="Publication Date">
+		2010-12-02
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-12
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/40 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/154 | 382/190 | 382/264
+	</str>
+	<str name="UPC Primary">
+		382/154
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		ZEITERA, LLC
+	</str>
+	<str name="1st Assignee">
+		ZEITERA, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Mountain View,CA,US
+	</str>
+	<str name="Assignee(s) Address">
+		Mountain View,CA,US
+	</str>
+	<str name="Inventor(s)">
+		STOJANCIC MIHAILO | RAMANATHAN PRASHANT | WENDT PETER | PEREIRA JOSE PIO
+	</str>
+	<str name="1st Inventor">
+		STOJANCIC MIHAILO
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		San Jose,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		San Jose,CA,US | Mountain View,CA,US | San Jose,CA,US | Cupertino,CA,US
+	</str>
+	<str name="Agent/Attorney">
+		PRIEST &amp; GOLDSTEIN PLLC
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

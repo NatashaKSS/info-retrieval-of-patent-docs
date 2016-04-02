@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20010031103A1
+	</str>
+	<str name="Application Number">
+		US09727764
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Texture description method and texture-based image retrieval method using gabor filter in frequency domain
+	</str>
+	<str name="Abstract">
+		A texture description method in a frequency domain for extracting texture features by transforming and Gabor-filtering an input image into an image of the frequency domain, and a texture-based retrieval method thereof are provided. The texture description method in the frequency domain includes: a first step of transforming an image of a time domain into an image of the frequency domain; a second step of filtering the transformed image using a Gabor filter having N.times.M filter regions, where N and M are respective predetermined positive integers; a third step of extracting feature values of the image that has been Gabor-filtered in respective channels of the frequency domain division layout corresponding to the N.times.M filter regions of the Gabor filter; and a fourth step of deciding a texture descriptor of the image on the basis of the feature values of the image.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-12-04
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-12
+	</str>
+	<str name="Publication Date">
+		2001-10-18
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-10
+	</str>
+	<str name="All IPC">
+		G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/190 | 382/305
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		EP1159709A1 | JP2003515852A | US20010031103A1 | KR1020010078707A | AU1900201A | MXPA01007847A | WO2001041071A1 | JP3560159B2 | CN1319030C | CN1342300A | US6870965 | EP1159709A4 | AU767153B2 | BR0007955A | NZ513086A | CA2360364A1 | CA2360364C
+	</str>
+	<str name="Family Member Count">
+		17
+	</str>
+	<str name="Family Members Cited By Count">
+		10
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		CN102081797B | CN100369047C | CN1858773A
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Priority Country">
+		KR | KR
+	</str>
+	<str name="Priority Number">
+		9954904 | 0062260
+	</str>
+	<str name="Priority Date">
+		1999-12-03 | 2000-10-23
+	</str>
+	<str name="Inventor(s)">
+		MUN-CHURL KIM | JIN-WOONG KIM | B. S. MANJUNATH | YONG-MAN RO | HYUNDOO SHIN | YANG-LIM CHOI
+	</str>
+	<str name="1st Inventor">
+		MUN-CHURL KIM
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Taejon,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Taejon,KR | Taejon,KR | Santa Barbara,CA,US | Taejon,KR | Seongnam-city,KR | Suwon-city,KR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

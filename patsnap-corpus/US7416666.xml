@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7416666
+	</str>
+	<str name="Application Number">
+		US10734050
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Mobile desalination plants and systems, and methods for producing desalinated water
+	</str>
+	<str name="Abstract">
+		Systems, methods, and apparatus for desalinating water are provided. A vessel includes a water intake system, a reverse osmosis system, a concentrate discharge system, a permeate transfer system, a power source, and a control system. The concentrate discharge system includes a plurality of concentrate discharge ports.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-12-11
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-12
+	</str>
+	<str name="Publication Date">
+		2008-08-26
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		B01D61/02 | B01D61/00 | B01D63/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/257.2 | 210/321.85 | 210/258 | 210/652 | 210/650 | 210/747 | 210/321.76
+	</str>
+	<str name="UPC Primary">
+		210/257.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20040206681A1 | US20070056907A1 | US20080011681A1 | US20080011689A1 | US7416666 | US7455778 | US7476323
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		8
+	</str>
+	<str name="Other References">
+		Pizzino, Joseph F., et al., Reverse osmosis for surface ship desalination. An overview, Naval Engineers Journal, May 1991, pp. 126-135, David Taylor Research Center, Annapolis, MD. cited by other . | Mitenkov, F. M., et al., &quot;Floating nuclear power--Desalination complex using a nuclear power plant of the KLT-40 type and the reverse osmosis process,&quot; 1997, pp. 255-268, IAEA, Vienna, Austria. cited by other . | PCT Search Report--mailed Jul. 9, 2004. cited by other. | Humphries, J. R. et al., &quot;A floating desalination/co-generation system using the KLT-40 reactor and Canadian RO desalination technology&quot;; 2000, pp. 41-52. cited by other . | Pizzino, Joseph F., &quot;Operation of a 2000 Gallon per day Reverse Osmosis Desalination System Aboard MONOB (YAG-610)&quot;, 1979, 28 pages, Citations from Energy Science and Technology (DOE): EDB. cited by other . | Peters, Thomas A., &quot;Desalination of seawater and brackish water with reserve osmosis and the disc tube module DT&quot;; Conference Proceedings of the 1999 WSTA Fourth Gulf Water Conference, Manama, Bahrain, Oct. 10, 1999, p. 149-155. cited by other . | Vigo, F., et al., &quot;Suitability of reverse osmosis membranes for energy recovery by submarine osmotic power plants,&quot; Desalination, 1986, pp. 45-57, vol. 60, No. 1, Inst. Ind. Chem. Univ. Genoa, Italy. cited by other . | Lampe, Harald, et al., &quot;PCS--Preussag Conversion System. RTM. Mobile floating seawater desalination plant,&quot; CAS Section-161; CAS Subsection-004; vol. 114, pp. 145-151, 1997 Elsevier Science B. V. cited by other . | Galloway, M. et al. &quot;UF for seawater RO pretreatment&quot;; 2003, pp. 1-12, American Water Works Association Membrane Technology Conference. cited by other . | Reali, M., et al., &quot;Submarine and underground reserve osmosis schemes for energy-efficient seawater desalination,&quot; Desalination, 1997, pp. 269-275, vol. 109, No. 3, ENEL SpA (DSR-CRIS), Milano, Spain. cited by other . | &quot;Desalination Ship&quot; Pamphlet prepared by Advanced Environmental Water Technologies, Inc. cited by other . | Pacenti, P., et al., &quot;Deployment of a submarine reverse osmosis desalination prototype plant (RODSS): field tests and preliminary technical evaluations,&quot; CAS Section-161; CAS Subsection-004, vol. 138, No. 1-3, pp. 181, 2001 Elsevier Science B. V., (Abstract Only). cited by other . | Pacenti, Paolo, et al., &quot;Submarine seawater reverse osmosis desalination system&quot;; Conference Proceedings of the 1999 European Conference on Desalination and the Environment, Las Palmas, Spain, 1999, p. 213-218. cited by other . | Vega, Luis A., &quot;Economics of ocean thermal energy conversion (OTEC),&quot; IEEE Journal of Solid-State Circuits, 1992, pp. 152-181, Pacific Intl. Cntr. for High Technology Research, Honolulu, HI. cited by other . | Rose, C. D., &quot;Current Design and application of marine evaporators,&quot; Marine Tech., Oct. 1983, vol. 20, No. 4, pp. 348-355. cited by other . | Panov, Yu, &quot;Equipment and materials for coupling interfaces of a nuclear reactor with desalination and heating plants based on floating NHPS;&quot; Nuclear heat applications: Design aspects and operating experience, IAEA-TECDOC-1056, Vienna (1995-1998), pp. 249-262. cited by other . | Columbo, D., et al., Energy-efficient submarine desalination plant,&quot;Conference Proceedings of the 1998 International Workshop on Desalination Technologies or Small and Medium Size Plants with Limited Environmental Impact&quot; Rome, Italy, 1999, pp. 171-176. cited by other . | Yang, Yanzhou, &quot;RO Plants in Marine Desalination for ships and Submarines,&quot; Shuichuli Jishu, 1994, vol. 20, Iss. 2, pp. 105-109, CAS Section-161; CAS Subsection-004. cited by other . | Panov, Yu., et al., &quot;Use of reaction plants of enhanced safety for sea water desalination, industrial and district heating&quot;; Conference Advisory group meeting on non-electric application of nuclear energy, Jakarta, Indonesia, 1997, pp. 281-293 Citations from Engineering Index; EIX. cited by other .
+	</str>
+	<str name="Other References Count">
+		19
+	</str>
+	<str name="Cited By">
+		US7901580 | US8206589 | US8282830 | US7749386
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		US4341629 | US6348148 | US4993348 | US6185940 | US6923901 | US6658889 | US6363873 | US4141825 | US4814086 | US4169789 | US6240867 | US4071445 | US5098575 | US20070029255 | US4161445 | US6574979 | US4134732 | US20050126999 | US20040026225 | US4452696 | US5229005 | US3841976 | US4526494 | US5972216 | US20060196836 | US4335576 | US5830366 | US20020060192 | US4421461 | US6375842 | US6613232 | US20030159457 | US5997737 | US3456802 | US20060157410 | US6299766 | US4125463 | US3632505 | US20050230299 | US3171808 | US6991722 | US20020155047 | US6190556 | US6076364 | US20020189987 | US20020125190 | US3365061 | US5840159 | DE10211788 | WO2002068338 | EP0959048 | EP0968755 | GB1233005 | EP1199098 | DE19640460 | EP1350766 | DE19546587 | EP1159049 | EP1614661 | WO2000054866 | EP1614660 | JP1984177189 | CA1050899 | WO2003013704 | WO1996031436 | WO2006006942 | GB1319236 | WO1997033832 | NZ0519728 | GB2377928 | WO1997018166 | WO2004043576 | DE19734981 | GB2068774 | JP1997025624 | WO2006021796 | WO2006125263 | KR20010079432 | WO2006130758 | DE10219083 | WO2005012180 | JP1982135084 | WO2005119007 | WO1998023361
+	</str>
+	<str name="Cites Count">
+		84
+	</str>
+	<str name="Priority Country">
+		US | US | US | US
+	</str>
+	<str name="Priority Number">
+		73405003 | 63035103 | 41690702 | 50534103
+	</str>
+	<str name="Priority Date">
+		2003-12-11 | 2003-07-30 | 2002-10-08 | 2003-06-03
+	</str>
+	<str name="Assignee(s)">
+		WATER STANDARD COMPANY
+	</str>
+	<str name="1st Assignee">
+		WATER STANDARD COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Houston, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s)">
+		GORDON, ANDREW, W.
+	</str>
+	<str name="1st Inventor">
+		GORDON, ANDREW, W.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Boca, Raton, FL
+	</str>
+	<str name="Inventor(s) Address">
+		Boca, Raton, FL
+	</str>
+	<str name="Agent/Attorney">
+		OSHA-LIANG LLP
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		3
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

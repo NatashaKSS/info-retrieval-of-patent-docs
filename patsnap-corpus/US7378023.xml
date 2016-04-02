@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7378023
+	</str>
+	<str name="Application Number">
+		US11520543
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of improving membrane bioreactor performance
+	</str>
+	<str name="Abstract">
+		Cationic polymers having a molecular weight greater than about 200,000 can be added to the activated sludge in an MBR for industrial wastewater treatment for reasons, which include: conditioning the activated sludge; improving flux through a membrane in the MBR; reducing fouling of the of the membrane in the MBR; and reducing foaming of the activated sludge in the MBR.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-09-13
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-09
+	</str>
+	<str name="Publication Date">
+		2008-05-27
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/732 | 210/620
+	</str>
+	<str name="UPC Primary">
+		210/732
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		CA2663285A1 | US20080060996A1 | US7378023 | AU2007296789A1 | WO2008033703A3 | WO2008033703A2 | KR1020090060345A | NO20090946A | EP2061724A2 | CN101511739A | MX2009002658A | AR062787A1
+	</str>
+	<str name="Family Member Count">
+		12
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Nagaoka et al., &quot;Influence of bacterial extracellular polymers on the membrane separation activated sludge process,&quot; Water Science and Technology, 1996, vol. 34, No. 9, pp. 165-172. cited by other . | Lee et al., &quot;Comparison of the Filtration Characteristics between Suspended and Attached Growth Microorganisms in Submerged Membrane Bioreactor,&quot; Water Research, 2001, vol. 35, No. 10, pp. 7-16. cited by other . | Higgins et al., &quot;Understanding factors affecting polymer demand for conditioning and dewatering,&quot; Water Environment Research Foundation (Publication No. 01-CTS-1), 2006. cited by other . | Yoon et al., &quot;A novel flux enhancing method for membrane bioreactor (MBR) process using polymer,&quot; Proceedings of the International Conference On Membrane (ICOM), 2005b, Aug. 21-25, Seoul, Korea. cited by other . | Nagaoka et al., &quot;Modeling of biofouling by extracellular polymers in a membrane separation activated sludge system,&quot;Water Science and Technology, 1998, vol. 38, Nos. 4-5, pp. 497-504. cited by other . | Calvo et al., Abstract of &quot;Behaviour of a nitrifying and denitrifying submerged filters in the treatment of urban wastewater,&quot; Current Studies of Biotechnology, 2001, vol. 2, pp. 175-181. cited by other . | Yoon et al., &quot;Effects of flux enhancing polymer on the characteristics of sludge in membrane bioreactor process,&quot; Water Science and Technology, 2005a, vol. 51, Nos. 6-7, pp. 151-157. cited by other.
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By">
+		US7611632
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6723245 | US6872312 | US20050029174
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		52054306
+	</str>
+	<str name="Priority Date">
+		2006-09-13
+	</str>
+	<str name="Assignee(s)">
+		NALCO COMPANY
+	</str>
+	<str name="1st Assignee">
+		NALCO COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Naperville, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Naperville, IL
+	</str>
+	<str name="Inventor(s)">
+		YOON, SEONG-HOON | COLLINS, JOHN, H.
+	</str>
+	<str name="1st Inventor">
+		YOON, SEONG-HOON
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Naperville, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Naperville, IL | Bloomingdale, IL
+	</str>
+	<str name="Agent/Attorney">
+		DIMATTIA, PETER A. MARTIN, MICHAEL B.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

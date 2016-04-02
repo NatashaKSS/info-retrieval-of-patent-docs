@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7674384
+	</str>
+	<str name="Application Number">
+		US11701888
+	</str>
+	<str name="Title">
+		Method of reclaiming brine solutions using an organic chelant
+	</str>
+	<str name="Abstract">
+		A method of reclaiming a well completion brine solution by using an organic chelant that is capable of discriminating between (i) iron and non-zinc heavy metals; and (ii) calcium and zinc. The chelant contains a functional group selected from the group --CO.sub.2H or --PO(R.sup.21)R.sup.20 or a salt or ester thereof, --C(O)--, --OE, --SE, --N.dbd.C(R.sup.2)R.sup.3, EO--N.dbd.C(R.sup.2)R.sup.3, --N(R.sup.2)R.sup.3, and --N(C(O)R.sup.1)R.sup.2 group optionally substituted with a --COOH or --PO(R.sup.21)R.sup.20 or a salt or ester thereof, --SE or --OE group, wherein R.sup.2 and R.sup.3 are independently selected from E or forms, with nitrogen, phosphorous, oxygen or sulfur, a heterocyclic ring; E is R.sup.1 or --H; R.sup.1 is a C.sub.1-C.sub.30 alkyl or aralkyl group or a derivative thereof and R.sup.20 and R.sup.21 are independently selected from --OH, --OR.sup.1 and R.sup.1.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-02-02
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-02
+	</str>
+	<str name="Publication Date">
+		2010-03-09
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		E21B43/34 | B01D15/00
+	</str>
+	<str name="IPC Primary">
+		E21B43/34
+	</str>
+	<str name="IPC Section">
+		E
+	</str>
+	<str name="IPC Class">
+		E21
+	</str>
+	<str name="IPC Subclass">
+		E21B
+	</str>
+	<str name="IPC Group">
+		E21B43
+	</str>
+	<str name="All UPC">
+		210/912 | 166/244.1 | 166/267 | 210/729 | 210/688 | 175/66 | 210/694 | 210/666 | 210/722
+	</str>
+	<str name="UPC Primary">
+		210/912
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Bridges, K.L., Completion and Workover Fluids, Reclamation and/or disposal of used fluids and environmental considerations, 2000. cited by other. | Foxenberg, W.E., Society of Petroleum Engineers (SPE), 24784, Oct. 1992, Optimizing the quality of high-density brines for maximum performance and economic value. Budavari. S.. ed.. Oct. 1992. cited by other . | Hampshire, Sep. 2000, Product information: Hampshire N-acyl ED3A anionic chelating surfactants. cited by other . | The Merck Index, p. 8531, 1989. cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7172703 | US4317882 | US6730234 | US5587022 | US5801139 | US5177243 | US4908080 | US5837644 | US5191081 | US5962717 | US4303624 | US7527733 | US6139973 | US5821215 | US7244363 | US4465598 | US5688981 | US4559216 | US7144512 | US5191106 | US4507208 | US6758967 | US5536452 | US6335398 | US5211859 | US5547583 | US5783527 | US5989353 | US5284972 | US5869441 | US5449822 | US5728733 | US5250728 | US5302297
+	</str>
+	<str name="Cites Count">
+		34
+	</str>
+	<str name="Assignee(s)">
+		BJ SERVICES COMPANY
+	</str>
+	<str name="1st Assignee">
+		BJ SERVICES COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Houston, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s)">
+		JAVORA, PAUL, H. | QU, QI
+	</str>
+	<str name="1st Inventor">
+		JAVORA, PAUL, H.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Spring, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Spring, TX | Spring, TX
+	</str>
+	<str name="Agent/Attorney">
+		JONES, JOHN WILSON JONES &amp; SMITH, LLP
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7407581
+	</str>
+	<str name="Application Number">
+		US11747823
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Biodegradation of oxyanions such as perchlorate on ion exchange resins
+	</str>
+	<str name="Abstract">
+		Improved systems and methods for removing the load of perchlorate and other oxyanions off of ion exchange resins through bioregeneration are disclosed. The improved systems and methods rely upon direct contact between the resin and a liquid product containing enrichment cultures of or pure strains of perchlorate-destroying microorganisms. Controlled temperatures also lead to improvements as do upflow conditions leading to bed expansion. These methods can be incorporated into methods for removing perchlorate from aqueous streams.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-05-11
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-05
+	</str>
+	<str name="Publication Date">
+		2008-08-05
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		B01D29/00 | C02F3/00
+	</str>
+	<str name="IPC Primary">
+		B01D29/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D29
+	</str>
+	<str name="All UPC">
+		210/670 | 210/606 | 210/610 | 210/611 | 210/618 | 210/617 | 210/616 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/670
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20090047732A1 | US20070272615A1 | US7407581 | WO2007140150A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Logan, et al. &quot;Kinetics of Perchlorate- and Chlorate-Respiring Bacteria&quot; Appl. Environ. Microbial 67(6):2499-2506 (2001). cited by other . | Gingras et al. &quot;Biological reduction of perchlorate in ion exchange regenerant solutions containing high salinity and ammonium levels&quot; J. Environ. Monit. 4:96-101 (2002). cited by other . | Xu et al. &quot;Microbial Degradation of Perchlorate: Principles and Applications&quot; Env. Engineer. Science 20:405-422 (2003). cited by other. | Logan, Bruce E. &quot;Assessing the outlook for perchlorate remediation&quot; Environmental Science &amp; Technology 35:23 (2001). cited by other . | Rikken et al. &quot;Transformation of (per)chlorate into chloride by a newly isolated bacterium: reduction and dismutation&quot; Appl. Microbial. Biotechnol 45:420-426 (1996). cited by other . | Bruce et al. &quot;Reduction of (per)chlorate by a novel organism isolated from paper mill waste&quot; Environ Microbial 1(4):319-329 (1999). cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6423533 | US20030222031 | US6077432 | US20020132866 | US7311843 | US6191176 | US3755156 | US4659476 | US6066257 | US5302285 | US6407143 | US20070043513 | US20010019030 | US6358396 | DE19934409
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		74782307 | 80808206
+	</str>
+	<str name="Priority Date">
+		2007-05-11 | 2006-05-23
+	</str>
+	<str name="Assignee(s)">
+		BASIN WATER, INC.
+	</str>
+	<str name="1st Assignee">
+		BASIN WATER, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rancho Cucamonga, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Rancho Cucamonga, CA
+	</str>
+	<str name="Inventor(s)">
+		BATISTA, JACIMARIA, R.
+	</str>
+	<str name="1st Inventor">
+		BATISTA, JACIMARIA, R.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Las, Vegas, NV
+	</str>
+	<str name="Inventor(s) Address">
+		Las, Vegas, NV
+	</str>
+	<str name="Agent/Attorney">
+		FOLEY &amp; LARDNER LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7531096
+	</str>
+	<str name="Application Number">
+		US11/297192
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System and method of reducing organic contaminants in feed water
+	</str>
+	<str name="Abstract">
+		A zero liquid discharge (ZLD) power plant (20) includes an advanced oxidation system (72) for reducing contaminants in source water (70) to form feed water (40) for a boiler (24). The system (72) includes an ozonation module (86) for applying high concentration ozone to the source water (70) to form a mixed stream (104), an ozone reactor (92) in which the mixed stream is retained (104) under pressure, an ultraviolet reactor (98) downstream from the ozone reactor (92) for enhanced contaminant reduction, and a retention tank (103) downstream from the reactor (98). In one configuration, the source water (70) is evaporator distillate from an evaporator (52) that recycles cooling tower blowdown 30. The system (72) achieves organic contaminant reduction at total organic carbon (TOC) levels of less than three hundred parts per billion.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-07
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2009-05-12
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		C02F1/32 | C02F1/78
+	</str>
+	<str name="IPC Primary">
+		C02F1/32
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/748.15 | 210/194 | 210/739
+	</str>
+	<str name="UPC Primary">
+		210/748.15
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20070125719A1 | WO2007067391A1 | US7531096
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;Remediation Technologies Screening Matrix and Reference Guide, Version 4.0&quot; FRTR, Sep. 2005. cited by other | Dave Ciszewski, &quot;Intergrated Approach to Water/Wastewater Treatment at Zero Liquid Discharge, Combined Cycle Power Plants&quot; IONICS Pure Water Solutions, 2004. cited by other | &quot;Ensuring Low TOC Levels in Boiler Feedwater in Belgian Nuclear Power Plant to Prevent Corrosion&quot; IONICS The Ionics Brand of Power Solutions. cited by other.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US4126550 | US5674312 | US6090294 | US6193893 | US6817541 | US20030106855 | US20050263458 | JP1990007090
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		29719205
+	</str>
+	<str name="Priority Date">
+		2005-12-07
+	</str>
+	<str name="Assignee(s)">
+		ARIZONA PUBLIC SERVICE COMPANY
+	</str>
+	<str name="1st Assignee">
+		ARIZONA PUBLIC SERVICE COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Phoenix, AZ
+	</str>
+	<str name="Assignee(s) Address">
+		Phoenix, AZ
+	</str>
+	<str name="Inventor(s)">
+		YARBROUGH, MARK, E. | TAKINEN, SCOTT, A.
+	</str>
+	<str name="1st Inventor">
+		YARBROUGH, MARK, E.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Buckeye, AZ
+	</str>
+	<str name="Inventor(s) Address">
+		Buckeye, AZ | Goodyear, AZ
+	</str>
+	<str name="Agent/Attorney">
+		GRESHAM, LOWELL W. MESCHKOW, JORDAN M. NAIR, GOURI G.
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

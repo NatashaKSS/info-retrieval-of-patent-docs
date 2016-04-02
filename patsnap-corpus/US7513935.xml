@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7513935
+	</str>
+	<str name="Application Number">
+		US11774499
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Mixed matrix membrane with super water washed silica containing molecular sieves and methods for making and using the same
+	</str>
+	<str name="Abstract">
+		The present invention provides a method for preparing silica containing molecular sieves which may be mixed with an organic polymer to create a mixed matrix membrane. Further, this invention includes a method of making such a mixed matrix membrane and the membrane itself. A process for separating component gases from a mixture using the subject mixed matrix membrane is also described. The method for preparing silica containing molecular sieves comprises super water washing silica containing molecular sieves to produce water washed molecular sieves which are substantially free of surface remnants. Super water washing also ideally lowers the concentration of alkali metals in the molecular sieves. The water washed sieves are sufficiently free of surface remnants such that when the water washed sieves are subjected to a Sieve Wash Conductivity Test, a wash filtrate is produced having a conductivity of less than 110 micro mhos/cm, more preferably less than 80 micro mhos/cm, even more preferably less than 50 micro mhos/cm, and most preferably less than 30 micro mhos/cm. It is believed that super washing the sieves to this degree will enhance, compared to conventional preparation techniques, the ability of the molecular sieves to bond with an organic polymer to form a highly selective and permeable mixed matrix membrane.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-07-06
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-07
+	</str>
+	<str name="Publication Date">
+		2009-04-07
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		B01D53/22 | B01J35/02
+	</str>
+	<str name="IPC Primary">
+		B01D53/22
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D53
+	</str>
+	<str name="All UPC">
+		96/14 | 210/640 | 96/10 | 95/51 | 95/54 | 502/62 | 502/4 | 502/60 | 95/45 | 96/4
+	</str>
+	<str name="UPC Primary">
+		96/14
+	</str>
+	<str name="UPC Class">
+		96
+	</str>
+	<str name="Family Members">
+		US20050043167A1 | US20070292333A1 | US7268094 | US7513935
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6508860 | US7268094 | US20020082460
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		77449907 | 64355503
+	</str>
+	<str name="Priority Date">
+		2007-07-06 | 2003-08-18
+	</str>
+	<str name="Assignee(s)">
+		CHEVRON U.S.A. INC.
+	</str>
+	<str name="1st Assignee">
+		CHEVRON U.S.A. INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Ramon, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Ramon, CA
+	</str>
+	<str name="Inventor(s)">
+		MILLER, STEPHEN, J. | YUEN, LUN-TEH
+	</str>
+	<str name="1st Inventor">
+		MILLER, STEPHEN, J.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		San, Francisco, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Francisco, CA | San, Francisco, CA
+	</str>
+	<str name="Agent/Attorney">
+		SCHULTE, RICHARD J.
+	</str>
+	<str name="Primary Examiner">
+		GREENE, JASON M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

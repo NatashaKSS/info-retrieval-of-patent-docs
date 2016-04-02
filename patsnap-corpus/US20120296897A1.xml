@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120296897A1
+	</str>
+	<str name="Application Number">
+		US13/110282
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Text to Image Translation
+	</str>
+	<str name="Abstract">
+		Techniques are described for online real time text to image translation suitable for virtually any submitted query. Semantic classes and associated analogous items for each of the semantic classes are determined for the submitted query. One or more requests are formulated that are associated with analogous items. The requests are used to obtain web based images and associated surrounding text. The web based images are used to obtain associated near-duplicate images. The surrounding text of images is analyzed to create high-quality text associated with each semantic class of the submitted query. One or more query dependent classifiers are trained online in real time to remove noisy images. A scoring function is used to score the images. The images with the highest score are returned as a query response.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2011-05-18
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-05
+	</str>
+	<str name="Publication Date">
+		2012-11-22
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-11
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/728 | 707/E17.016
+	</str>
+	<str name="UPC Primary">
+		707/728
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond, WA
+	</str>
+	<str name="Inventor(s)">
+		XIN-JING, WANG | ZHANG, LEI | MA, WEI-YING
+	</str>
+	<str name="1st Inventor">
+		XIN-JING, WANG
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Beijing, CN
+	</str>
+	<str name="Inventor(s) Address">
+		Beijing, CN | Beijing, CN | Beijing, CN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

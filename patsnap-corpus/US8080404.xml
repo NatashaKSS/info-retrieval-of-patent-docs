@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8080404
+	</str>
+	<str name="Application Number">
+		US11/328477
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Enzymatic decontamination
+	</str>
+	<str name="Abstract">
+		Compositions and methods for enzymatic decontamination by inactivation of Hazardous agents are provided. Hazardous agents of microbial and chemical origin can be neutralized by H.sub.2O.sub.2. The methods described herein provide for enzymatic production of H.sub.2O.sub.2 in situ using oxidoreductase enzymes that use oxygen as an acceptor and their alcohol substrates. The enzymatically produced H.sub.2O.sub.2 and corresponding aldehydes have potent antimicrobial properties. The enzymatically produced H.sub.2O.sub.2 also can detoxify chemical agents in situ. The decontaminating power of the oxidoreductase enzymes that use oxygen as an acceptor may be amplified by addition of reagents, such as acetyl donors or base catalysts that, in the presence of H.sub.2O.sub.2, yield peroxy acid derivatives and hydroperoxy anions. Such derivatives can neutralize biological and chemical agents, thus providing a broadly applicable decontamination method. In addition, catalytic production of H.sub.2O.sub.2 in situ results in controlled synthesis of decontamination reagents at their point of use, mitigating the need to store, transport and dispose of hydrogen peroxide solutions in the field.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-01-09
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-01
+	</str>
+	<str name="Publication Date">
+		2011-12-20
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		A62D3/00 | C02F3/34 | A62D3/02 | B09C1/10 | B09B3/00 | C02F3/00 | C12Q1/26 | C02F1/02 | C12N9/02
+	</str>
+	<str name="IPC Primary">
+		A62D3/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A62
+	</str>
+	<str name="IPC Subclass">
+		A62D
+	</str>
+	<str name="IPC Group">
+		A62D3
+	</str>
+	<str name="All UPC">
+		210/606 | 435/189 | 210/600 | 435/262.5 | 435/832 | 435/25 | 435/262
+	</str>
+	<str name="UPC Primary">
+		210/606
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20030158459 | US6964787 | US20040142338 | US5262151 | US20030211169 | US5429726 | US20030211005 | US2843545 | US6824645 | US7033781 | US5403450 | US6716976 | US5747078 | US7005294 | EP0518445
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Assignee(s)">
+		THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRETARY OF THE ARMY
+	</str>
+	<str name="1st Assignee">
+		THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRETARY OF THE ARMY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Washington, DC
+	</str>
+	<str name="Assignee(s) Address">
+		Washington, DC
+	</str>
+	<str name="Inventor(s)">
+		TURETSKY, ABRAHAM, L. | PAWLOWSKI, DAVID, R. | BRICKHOUSE, MARK, D.
+	</str>
+	<str name="1st Inventor">
+		TURETSKY, ABRAHAM, L.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Baltimore, MD
+	</str>
+	<str name="Inventor(s) Address">
+		Baltimore, MD | Bel, Air, MD | Newark, DE
+	</str>
+	<str name="Agent/Attorney">
+		BIFFONI, ULYSSES JOHN
+	</str>
+	<str name="Primary Examiner">
+		WARE, DEBBIE K
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

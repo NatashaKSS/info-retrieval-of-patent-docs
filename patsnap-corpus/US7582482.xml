@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7582482
+	</str>
+	<str name="Application Number">
+		US10653032
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Continuous ion species removal device and method
+	</str>
+	<str name="Abstract">
+		Apparatus and method for treating a liquid sample stream including at least one analyte ion species and matrix ion species of opposite charge to said one analyte ion species. The liquid sample stream flows through a treatment channel. A carrier liquid stream including a matrix ion species capture material flows substantially parallel to the sample stream in the treatment channel forms a liquid interface between them. The matrix ion species diffuses through the interface to contact and become bound by the capture material in said carrier liquid.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-08-28
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-08
+	</str>
+	<str name="Publication Date">
+		2009-09-01
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		G01N21/00 | G01N1/18 | B01D15/08 | B03B5/00 | B01D15/00 | G01N35/08
+	</str>
+	<str name="IPC Primary">
+		G01N21/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N21
+	</str>
+	<str name="All UPC">
+		436/161 | 209/210 | 422/82.05 | 436/150 | 422/82.03 | 210/198.1 | 436/178 | 210/645 | 210/656 | 436/52 | 209/155 | 209/208 | 422/82.07 | 422/82.08 | 422/81
+	</str>
+	<str name="UPC Primary">
+		436/161
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Members">
+		US20050202563A1 | US7582482 | AU2003270340A1 | EP1535058A1 | WO2004023134A1 | CA2497479A1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References">
+		Foucault, A.P., et al., &quot;Counter-current chromatography: instrumentation, solvent selection and some recent applications to natural product purification,&quot; J. Chromatogr. A, 808:3-22 (1998). cited by other . | Boring, C.B., et al., &quot;Compact, field-portable capillary ion chromatograph,&quot; J. Chromatogr. A, 804:45-54 (1998). cited by other . | Kutter, J., &quot;Current developments in electrophoretic and chromatographic separation methods on microfabricated devices,&quot; Trends Anal. Chem., 19(6):352-363 (2000). cited by other . | Sjogren, A., et al., &quot;Capillary Ion Chromatography with On-Line High-Pressure Electrodialytic NaOH Eluent Production and Gradient Generation,&quot; Anal. Chem., 69(7):1385-1391 (Apr. 1997). cited by other . | Small, H., et al., &quot;Novel Ion Exchange Chromatographic Method Using Conductimetric Detection,&quot; Anal. Chem., 47(11):1801-1809 (Sep. 1975). cited by other. | Pyo, D., et al., &quot;High Temperature Open Tubular Capillary Column Ion Chromatography,&quot; Anal. Sci., 13(Supp.):185-190 (1997). cited by other . | Murrihy, J., et al., &quot;Ion chromatography on-chip,&quot; J. Chromatogr. A, 924(1-2):233-238 (Jul. 2001). cited by other . | Kang, Q., et al., &quot;An integrated micro ion-exchange separator and detector on a silicon wafer,&quot; Chem. Eng. Sci., 56:3409-3420 (2001). cited by other . | Dasgupta, P., et al., &quot;Flow of Multiple Fluids in a Small Dimension,&quot; Anal. Chem., 74(7):208A-213A (Apr. 2002). cited by other . | Kuban, P., et al., &quot;Microscale continuous ion exchanger,&quot; Anal. Chem., 74(21):5667-5675 (Sep. 2002). cited by other . | Kuban, P., et al., &quot;Vertically Stratified Flows in Microchannels. Computational Simulations and Applications to Solvent Extraction and Ion Exchange,&quot; Anal. Chem., 75(14):3549-3556 (Jul. 2003). cited by other . | Dasgupta, P., et al., &quot;Suppressed Conductometric Capillary Eletrophoresis Separation Systems,&quot; Anal. Chem., 65(8):1003-1011 (Apr. 1993). cited by other . | Rokushika, S., et al., &quot;Micro Column Ion Chromatography with a Hollow Fibre Suppessor,&quot; Chrom., 15:637-643 (1983). cited by other .
+	</str>
+	<str name="Other References Count">
+		13
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5971158 | US4751189 | US6297061 | US6153393 | US4510058 | WO2002023161
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		65303203 | 40792002
+	</str>
+	<str name="Priority Date">
+		2003-08-28 | 2002-09-03
+	</str>
+	<str name="Assignee(s)">
+		DIONEX CORPORATION
+	</str>
+	<str name="1st Assignee">
+		DIONEX CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Sunnyvale, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Sunnyvale, CA
+	</str>
+	<str name="Inventor(s)">
+		DASGUPTA, PARNENDU, K. | KUBAN, PETR | BERG, JORDAN, M.
+	</str>
+	<str name="1st Inventor">
+		DASGUPTA, PARNENDU, K.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Lubbock, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Lubbock, TX | Lubbock, TX | Lubbock, TX
+	</str>
+	<str name="Agent/Attorney">
+		MORGAN, LEWIS &amp; BOCKIUS LLP BREZNER, DAVID J.
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		TURK, NEIL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

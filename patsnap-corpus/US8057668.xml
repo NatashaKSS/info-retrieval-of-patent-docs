@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8057668
+	</str>
+	<str name="Application Number">
+		US12/914874
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and device for extracting an analyte
+	</str>
+	<str name="Abstract">
+		The invention provides extraction columns for the purification of an analyte (e.g., a biological macromolecule, such as a peptide, protein or nucleic acid) from a sample solution, as well as methods for making and using such columns. The columns typically include a bed of extraction media positioned in the column between two frits. In some embodiments, the extraction columns employ modified pipette tips as column bodies. In some embodiments, the invention provides columns characterized by low backpressure.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-10-28
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-10
+	</str>
+	<str name="Publication Date">
+		2011-11-15
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		B01D15/08 | B01J20/291 | B01J20/00
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/198.2 | 422/501 | 210/656
+	</str>
+	<str name="UPC Primary">
+		210/198.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US7837871
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Assignee(s)">
+		PHYNEXUS, INC.
+	</str>
+	<str name="1st Assignee">
+		PHYNEXUS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Jose, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Jose, CA
+	</str>
+	<str name="Inventor(s)">
+		GJERDE, DOUGLAS, T. | HANNA, CHRISTOPHER, P.
+	</str>
+	<str name="1st Inventor">
+		GJERDE, DOUGLAS, T.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Saratoga, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Saratoga, CA | Elmhurst, IL
+	</str>
+	<str name="Agent/Attorney">
+		KALMAN, SUE S.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7410581
+	</str>
+	<str name="Application Number">
+		US10494539
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Branched flow filtration and system
+	</str>
+	<str name="Abstract">
+		A cross flow filtration apparatus for nanofiltration or reverse osmosis has pressure vessels with a plurality of filter cartridges in each vessel. A feed port is provided at an intermediate position on the side of the vessel, and two permeate flows or branches exit opposite ends of the vessel, and the first branch has a characteristically high &quot;upstream&quot; flux and quality, while the second is of lesser flux and/or quality. The system provides a high degree of moduarity, enhancing flux or yield at a reduced driving pressure or overall pressure drop. Centered or off-center port, and a stop or valve in the permeate stream may apportion flows between the two outlets. Staged systems may employ a first stage bypass to achieve a target quality with increased yield. A flow divider or adaptor permits the cartridges to fit and seal in the vessel and an installation tool or sleeve may facilitate installation or replacement of cartridges having a directional perimeter seal. A tool permits modules to be bi-directional installed in the pressure vessel. Other embodiments involve adapting a conventional vessel designed for end-to-end feed flow utilizing a restrictor, obstruction or valve inside the filter cartridge to bifurcate or otherwise split or apportion the permeate. RO elements may be modified to movably position an obstruction or valve along a string of the elements and vary the take-off to two or more permeate outlets, or to provide pressure relief valves that present different pressure conditions for different elements of a string. A pressure vessel may have an intermediate inlet, with symmetric or asymmetric branching of permeate flow to opposed ends of the vessel, enhancing permeate flux, permeate quality and/or energy efficiency.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-11-05
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-11
+	</str>
+	<str name="Publication Date">
+		2008-08-12
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		B01D61/00 | B01D63/10 | B01D63/12 | B01D63/06
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/321.85 | 210/652 | 210/321.65 | 210/650 | 210/321.6 | 210/321.76
+	</str>
+	<str name="UPC Primary">
+		210/321.85
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7410581 | US20050029192A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8236177 | US7584061 | US8303806
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US4906372 | US4409849 | US4746430 | US4548714 | US5470468 | US4083780 | US4046685 | US4293419 | US5992643 | US5851267 | US6302448 | US6007723 | FR2126586
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		US | US | US | US
+	</str>
+	<str name="Priority Number">
+		49453904 | 33287801 | 39222502 | 0235352
+	</str>
+	<str name="Priority Date">
+		2004-09-23 | 2001-11-06 | 2002-06-28 | 2002-11-05
+	</str>
+	<str name="Assignee(s)">
+		GE INFRASTRUCTURE, WATER &amp; PROCESS TECHNOLOGIES
+	</str>
+	<str name="1st Assignee">
+		GE INFRASTRUCTURE, WATER &amp; PROCESS TECHNOLOGIES
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Watertown, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Watertown, MA
+	</str>
+	<str name="Inventor(s)">
+		ARNOLD, JOHN, W. | ELYANOW, IRVING, D. | CARSON, WILLIAM, W.
+	</str>
+	<str name="1st Inventor">
+		ARNOLD, JOHN, W.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Pinehurst, NC
+	</str>
+	<str name="Inventor(s) Address">
+		Pinehurst, NC | Lexington, MA | Hopkinton, MA
+	</str>
+	<str name="Agent/Attorney">
+		SILVERSTEIN, DAVID ANDOVER-IP-LAW
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

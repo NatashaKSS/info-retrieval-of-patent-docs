@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2010073838A1
+	</str>
+
+	<str name="Application Number">
+		PCT/JP2009/069172
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		PORTABLE RADIOLOGICAL IMAGE CAPTURING APPARATUS AND RADIOLOGICAL IMAGE CAPTURING SYSTEM
+	</str>
+
+	<str name="Abstract">
+		Provided are a portable radiological image capturing apparatus and a radiological image capturing system wherein the battery waste and the break of bias lines or the like can be prevented and wherein excess charges can be sufficiently removed from radiation detecting elements.&#160; The portable radiological image capturing apparatus comprises: a plurality of radiation detecting elements that are two-dimensionally arranged and located in the respective areas defined by scan lines and signal lines; a bias power supply that applies a bias voltage to the radiation detecting elements via bias lines; switching means that are associated with the respective radiation detecting elements; a scan driving means that controls the voltage to be applied to the switching means, thereby controlling the on/off states of the switching means; and a battery.&#160; During a reset process for discharging excess charges from the radiation detecting elements, the scan driving means controls the voltage to be applied to the switching means via the scan lines, thereby restricting the outflows of currents from the radiation detecting elements to the bias lines.
+	</str>
+
+	<str name="Document Types">
+		WO
+	</str>
+
+	<str name="Application Date">
+		2009-11-11
+	</str>
+
+	<str name="Application Year">
+		2009
+	</str>
+
+	<str name="Application(Year/Month)">
+		2009-11
+	</str>
+
+	<str name="Publication Date">
+		2010-07-01
+	</str>
+
+	<str name="Publication Year">
+		2010
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2010-07
+	</str>
+
+	<str name="All IPC">
+		A61B6/00 | G01T1/24 | H04N5/335 | G03B42/04 | G01T1/20 | H04N5/32
+	</str>
+
+	<str name="IPC Primary">
+		A61B6/00
+	</str>
+
+	<str name="IPC Section">
+		A
+	</str>
+
+	<str name="IPC Class">
+		A61
+	</str>
+
+	<str name="IPC Subclass">
+		A61B
+	</str>
+
+	<str name="IPC Group">
+		A61B6
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		JP | JP
+	</str>
+
+	<str name="Priority Number">
+		2008333119 | 2009000899
+	</str>
+
+	<str name="Priority Date">
+		2008-12-26 | 2009-01-06
+	</str>
+
+	<str name="Assignee(s)">
+		&#12467;&#12491;&#12459;&#12511;&#12494;&#12523;&#12479;&#12456;&#12512;&#12472;&#12540;&#26666;&#24335;&#20250;&#31038; | &#24499;&#24344;&#12288;&#20462;
+	</str>
+
+	<str name="1st Assignee">
+		&#12467;&#12491;&#12459;&#12511;&#12494;&#12523;&#12479;&#12456;&#12512;&#12472;&#12540;&#26666;&#24335;&#20250;&#31038;
+	</str>
+
+	<str name="Number of Assignees">
+		2
+	</str>
+
+	<str name="1st Assignee Address">
+		&#12306;1918511 &#26481;&#20140;&#37117;&#26085;&#37326;&#24066;&#12373;&#12367;&#12425;&#30010;&#65297;&#30058;&#22320; Tokyo &#12306;1918511 JP
+	</str>
+
+	<str name="Assignee(s) Address">
+		&#12467;&#12491;&#12459;&#12511;&#12494;&#12523;&#12479;&#12456;&#12512;&#12472;&#12540;&#26666;&#24335;&#20250;&#31038; | &#24499;&#24344;&#12288;&#20462;
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

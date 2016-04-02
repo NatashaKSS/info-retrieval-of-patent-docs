@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7833359
+	</str>
+	<str name="Application Number">
+		US12415156
+	</str>
+	<str name="Title">
+		Method for cleaning, employing a surfactant for fine-bubble formation
+	</str>
+	<str name="Abstract">
+		A method for cleaning articles using a surfactant which is effective in the formation of stable microbubbles is provided. The surfactant for microbubble formation contains a (poly)oxyalkylene adduct (A) of an active hydrogen atom-containing compound (a) represented by formula (1) Z-[(AO).sub.n--H].sub.p (1)wherein Z is the residue of an active hydrogen-containing compound (a) with a valence of P resulting from removal of the active hydrogen atom or atoms; A is an alkylene group containing 1 to 8 carbon atoms; n is an integer of 1 to 400; and p is an integer of 1 to 100. The foaming power of a 0.02% by weight aqueous solution of the (poly)oxyalkylene adduct (A) as measured at 20.degree. C. by the Ross Miles test is not higher than 50 mm.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-03-31
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-03
+	</str>
+	<str name="Publication Date">
+		2010-11-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		B08B3/10 | B08B3/04 | C11D1/72
+	</str>
+	<str name="IPC Primary">
+		B08B3/10
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		510/413 | 424/43 | 510/421 | 510/360 | 8/137 | 424/70.31 | 510/505 | 134/42 | 510/524 | 424/9.52 | 510/475 | 510/535
+	</str>
+	<str name="UPC Primary">
+		510/413
+	</str>
+	<str name="UPC Class">
+		510
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Robert Fedors, &quot;A Method for Estimating Both the Solubility Parameters and Molar Volumes of Liquids,&quot; Polymer Engineering and Science, Feb. 1974, vol. 14, No. 2. cited by other. | Shu Takagi et al., &quot;Behavior of a Rising Bubble in Water with Surfractant Dissolution,&quot; Department of Mechanical Engineering, the Universeity of Tokyo, (Oct. 2003), No. 03-110. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8324143
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6462014 | US5885950 | US5352436 | US5639443 | JP2005118462 | JP2004059886 | WO2002081610 | AO2003119494 | WO1995003835 | WO1994009703 | JP1996502979 | JP1990293078 | JP2004532915 | JP1997501164 | CN1403206
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2004381526
+	</str>
+	<str name="Priority Date">
+		2004-12-28
+	</str>
+	<str name="Assignee(s)">
+		SANYO CHEMICAL INDUSTRIES, LTD (KYOTO-SHI, JP), MITSUBISHI ELECTRIC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SANYO CHEMICAL INDUSTRIES, LTD (KYOTO-SHI, JP), MITSUBISHI ELECTRIC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		SUZUKI, KAZUMITSU | MATSUOKA, MASAHIRO | UEYAMA, SATOSHI | MIYAMOTO, MAKOTO
+	</str>
+	<str name="1st Inventor">
+		SUZUKI, KAZUMITSU
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Kyoto, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kyoto, JP | Kyoto, JP | Chiyoda-ku, JP | Chiyoda-ku, JP
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEUSTADT, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		MRUK, BRIAN P
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

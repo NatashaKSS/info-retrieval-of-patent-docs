@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7985196
+	</str>
+	<str name="Application Number">
+		US12086593
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for at least partially draining an extracorporeal blood flow and haemodialysis device for use with said method
+	</str>
+	<str name="Abstract">
+		A method and a hemodialysis machine provide for at least partial emptying of an extracorporeal blood circulation after patient blood in the circulation has been returned to the patient via an infusion liquid which displaces the blood. The method includes emptying at least a blood chamber of a hemodialyzer subdivided by a semipermeable membrane into the blood chamber and a dialysis fluid chamber without additionally connecting an arterial blood line and a venous blood line of the circulation to one another. The arterial blood line is actively or passively aerated at a first point and the venous blood line is actively or passively aerated at a second point. The infusion liquid is emptied through the membrane into the dialysis fluid chamber and then via a dialysis fluid discharge line. The method is operable by a control program that runs automatically without requiring any manual input after activation of the program.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-03-06
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2011-07-26
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		C02F1/44 | A61M37/00
+	</str>
+	<str name="IPC Primary">
+		C02F1/44
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		604/5.01 | 604/5.04 | 210/645 | 604/6.09 | 210/646
+	</str>
+	<str name="UPC Primary">
+		604/5.01
+	</str>
+	<str name="UPC Class">
+		604
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Machine translation of DE 3442744. cited by examiner . | English translation of DE 3,442,744 as provided by the USPTO translation service, Nov. 2010. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5336165 | US4444597 | US4444596 | DE3442744 | WO2001051106 | WO2000012991 | WO1997011770 | WO1996040313
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102006012087
+	</str>
+	<str name="Priority Date">
+		2006-03-14
+	</str>
+	<str name="Assignee(s)">
+		FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH
+	</str>
+	<str name="1st Assignee">
+		FRESENIUS MEDICAL CARE DEUTSCHLAND GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Bad Homburg, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Bad Homburg, DE
+	</str>
+	<str name="Inventor(s)">
+		KOPPERSCHMIDT, PASCAL | NOACK, JOACHIM
+	</str>
+	<str name="1st Inventor">
+		KOPPERSCHMIDT, PASCAL
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Dittelbrunn, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Dittelbrunn, DE | Bad, Neustadt, DE
+	</str>
+	<str name="Agent/Attorney">
+		JACOBSON HOLMAN PLLC
+	</str>
+	<str name="Primary Examiner">
+		DEAK, LESLIE R
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

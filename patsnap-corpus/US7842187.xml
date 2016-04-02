@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7842187
+	</str>
+	<str name="Application Number">
+		US11088146
+	</str>
+	<str name="Title">
+		Removal of bacterial endotoxin in a protein solution by immobilized metal affinity chromatography
+	</str>
+	<str name="Abstract">
+		The present invention relates to the purification of polypeptides and the removal of endotoxin via immobilized metal affinity chromatography (IMAC). More specifically, the invention relates to methods for removing bacterial endotoxin in a protein solution. In specific embodiments, the invention relates to the elimination of endotoxin from Moraxella catarrhalis outer membrane proteins.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-03-23
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2010-11-30
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		536/23.1 | 530/413 | 210/198.2 | 536/23.7 | 210/635 | 210/656
+	</str>
+	<str name="UPC Primary">
+		536/23.1
+	</str>
+	<str name="UPC Class">
+		536
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Duff et al., Clinical Research, 30, 565A, 1982. cited by other . | Morrison et al., Immunochemistry, 13:813-818, 1976. cited by other. | Issekutz, Journal of Immunological Methods, 61:275-281, 1983. cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US4276050 | US6310190 | US4381239 | US3897309
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Assignee(s)">
+		WYETH HOLDINGS CORPORATION
+	</str>
+	<str name="1st Assignee">
+		WYETH HOLDINGS CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Madison, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Madison, NJ
+	</str>
+	<str name="Inventor(s)">
+		SUNDBERG, RHONDA, LUNT | HOPFER, ROBERT, LEONARD
+	</str>
+	<str name="1st Inventor">
+		SUNDBERG, RHONDA, LUNT
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Siler, City, NC
+	</str>
+	<str name="Inventor(s) Address">
+		Siler, City, NC | Moscow, PA
+	</str>
+	<str name="Agent/Attorney">
+		CHAU, ANNA RESTREPO-HARTWIG, MARIA
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

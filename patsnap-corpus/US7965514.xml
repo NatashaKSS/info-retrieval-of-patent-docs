@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7965514
+	</str>
+	<str name="Application Number">
+		US12479284
+	</str>
+	<str name="Title">
+		Assemblies and methods for dissipating heat from handheld electronic devices
+	</str>
+	<str name="Abstract">
+		According to various aspects of the present disclosure, exemplary embodiments include assemblies and methods for dissipating heat from an electronic device by a thermally-conducting heat path to the external casing via one or more portions of an electromagnetic interference shield and/or thermal interface material disposed around the device's battery or other power source. In an exemplary embodiment, a shield (or portions thereof) may be disposed about or define a battery area such that heat may be transferred to the external casing by a thermally-conductive heat path generally around the battery area through or along the shield. In another exemplary embodiment, a thermal interface material (or portions thereof) may be disposed about or define a battery area such that heat may be transferred to the external casing by a thermally-conductive heat path generally around the battery area through or along the thermal interface material.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-06-05
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-06
+	</str>
+	<str name="Publication Date">
+		2011-06-21
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+	<str name="All IPC">
+		H05K9/00 | H05K7/20
+	</str>
+	<str name="IPC Primary">
+		H05K9/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K9
+	</str>
+	<str name="All UPC">
+		361/719 | 361/707 | 361/679.54 | 361/816 | 361/704 | 361/818 | 361/800
+	</str>
+	<str name="UPC Primary">
+		361/719
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		European Search Report for EP Application No. EP10164591.9 which claims priority to the instant application; dated Sep. 2, 2010; 3 pages. cited by other . | European Office Action for EP Application No. EP10164591.9 which claims priority to the instant application; dated Sep. 15, 2010; 4 pages. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US7303820 | US4754101 | US6410846 | US6744640 | US5241453 | US7292441 | US4405961 | US5811050 | US7262369 | US3208511 | US20050237727 | US6982874 | US20010046119 | US5804875 | US3047648 | US5717248 | US20070042188 | US4791527 | US6989994 | US6676137 | US20040052064 | US6049469 | US7078109 | US5354951 | US6122167 | US6181573 | US5541811 | US6025991 | US5365399 | US5663786 | US6005186 | US6503626 | US4235285 | US7317618 | US20060263570 | US20100072952 | US20070103849 | US20040244397 | US4481525 | US20080151503 | US4508163 | US5552635 | US7267273 | US6166918 | US6674653 | US3572428 | US20060255450 | US6445583 | US7160619 | US6501018 | US5461257 | US6552261 | US7138029 | US5990418 | US6388189 | US6347035 | US7486517 | US20050236171 | US5052481 | US5285350 | US6205026 | US6377472 | US6377475 | US6841250 | US7306847 | US5706579 | US6178097 | US6717799 | US4794489 | US5640047 | US4933746 | US5287001 | US5763824 | US4648125 | US5416668 | US6208515 | US6178318 | US5585671 | US6212073 | US20090310311 | US5295043 | US5566052 | US6482520 | US5717577 | US5550713 | US5893409 | US7150914 | US6943287 | US6430043 | US5485037 | US3721746 | US6624432 | US5130888 | US4433886 | US5586005 | US5208731 | US5357404 | US4661888 | US4679118 | US6590783 | US20070077434 | US20040132503 | US6075700 | US6195267 | US20030066672 | US20030224186 | US5917701 | US6504095 | US5866943 | US20070210082 | US4203488 | US5524908 | US4345267 | US5175395 | US6979773 | US5329426 | US7463496 | US6946598 | US4729426 | US6965071 | US4736277 | US5288313 | US5367433 | US20100108291 | US7013558 | US5175613 | US6490173 | US5060114 | US6673998 | US6269008 | WO2001041521 | WO2005101931 | WO2003088729 | EP0910005 | JP2003060369 | WO2002069687 | EP1493314 | JP4476999 | EP1742524 | EP1364565 | EP1267250 | EP0632686 | WO1987004317 | EP1993337
+	</str>
+	<str name="Cites Count">
+		144
+	</str>
+	<str name="Assignee(s)">
+		LAIRD TECHNOLOGIES, INC.
+	</str>
+	<str name="1st Assignee">
+		LAIRD TECHNOLOGIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Chesterfield, MO
+	</str>
+	<str name="Assignee(s) Address">
+		Chesterfield, MO
+	</str>
+	<str name="Inventor(s)">
+		HILL, RICHARD, F. | RIAZ, SHAHI
+	</str>
+	<str name="1st Inventor">
+		HILL, RICHARD, F.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Parkman, OH
+	</str>
+	<str name="Inventor(s) Address">
+		Parkman, OH | Cleveland, OH
+	</str>
+	<str name="Agent/Attorney">
+		HARNESS, DICKEY &amp; PIERCE, P.L.C.
+	</str>
+	<str name="Primary Examiner">
+		HOFFBERG, ROBERT J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

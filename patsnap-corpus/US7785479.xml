@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7785479
+	</str>
+	<str name="Application Number">
+		US12586664
+	</str>
+	<str name="Title">
+		Apparatus and method of separating
+	</str>
+	<str name="Abstract">
+		The present invention advances tank-based aquaculture by providing a low cost, high efficiency solid waste separator. The invention combines the simplicity of centrifugal-gravitational separation with the practicality of automatic separator cleaning. Low-pressure air from a blower or air pump induces water flow through the separator. The compressed air source is also used to purge accumulated sludge from the separator and to scour internal separator surfaces. Installation of a captive floating granular media bed within the separator further stabilizes the centrifugal flow pattern, enhances the scouring action during sludge flushing events, and provides substrate for nitrifying bacteria colonization. Separator purging and scouring processes are simply and easily automated with small, low-voltage electric valves and timers. Operational cost-savings are magnified in multiple tank systems where multiple separators are operated by a centralized compressed air system and controller.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-09-25
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-09
+	</str>
+	<str name="Publication Date">
+		2010-08-31
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-08
+	</str>
+	<str name="All IPC">
+		B01D21/24 | B01D21/26
+	</str>
+	<str name="IPC Primary">
+		B01D21/24
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D21
+	</str>
+	<str name="All UPC">
+		210/787 | 210/807 | 210/803 | 210/786 | 210/801 | 210/794
+	</str>
+	<str name="UPC Primary">
+		210/787
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		USD661164 | US8201697 | US8341877
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US4666687 | US20080308502 | US20080110828 | US20040050805 | US4762684 | US20090242487 | US20050189281 | US20040206710 | US20020070157 | US20020046968 | US20090236287 | US20030178359
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Inventor(s)">
+		HOSFORD, MICHAEL, HAYS
+	</str>
+	<str name="1st Inventor">
+		HOSFORD, MICHAEL, HAYS
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Klamath, Falls, OR
+	</str>
+	<str name="Inventor(s) Address">
+		Klamath, Falls, OR
+	</str>
+	<str name="Primary Examiner">
+		POPOVICS, ROBERT JAMES
+	</str>
+	<str name="cited by within 3 years">
+		3
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

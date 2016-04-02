@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100257129A1
+	</str>
+	<str name="Application Number">
+		US12722437
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		AUDIO CLASSIFICATION FOR INFORMATION RETRIEVAL USING SPARSE FEATURES
+	</str>
+	<str name="Abstract">
+		Methods, systems, and apparatus, including computer programs encoded on computer storage media, are provided for using audio features to classify audio for information retrieval. In general, one aspect of the subject matter described in this specification can be embodied in methods that include the actions of generating a collection of auditory images, each auditory image being generated from respective audio files according to an auditory model; extracting sparse features from each auditory image in the collection to generate a sparse feature vector representing the corresponding audio file; and ranking the audio files in response to a query including one or more words using the sparse feature vectors and a matching function relating sparse feature vectors to words in the query.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-03-11
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-03
+	</str>
+	<str name="Publication Date">
+		2010-10-07
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-10
+	</str>
+	<str name="All IPC">
+		G06F15/18 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F15/18
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="All UPC">
+		707/769 | 706/12 | 707/723 | 707/E17.014
+	</str>
+	<str name="UPC Primary">
+		707/769
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Members">
+		US20100257129A1 | EP2406787A1 | CN102405495A | WO2010105089A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		15939809 | 72243710
+	</str>
+	<str name="Priority Date">
+		2009-03-11 | 2010-03-11
+	</str>
+	<str name="Assignee(s)">
+		GOOGLE INC.
+	</str>
+	<str name="1st Assignee">
+		GOOGLE INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		LYON ROBERT F. | REHN MARTIN | WALTERS THOMAS | BENGIO SAMY | CHECHIK GAL
+	</str>
+	<str name="1st Inventor">
+		LYON ROBERT F.
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Los Altos,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Los Altos,CA,US | Stockholm,SE | Cambridge,GB | Mountain View,CA,US | Los Altos,CA,US
+	</str>
+	<str name="Agent/Attorney">
+		FISH &amp; RICHARDSON P.C.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

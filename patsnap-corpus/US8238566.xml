@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8238566
+	</str>
+	<str name="Application Number">
+		US11/074798
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus for providing sound effects according to an image and method thereof
+	</str>
+	<str name="Abstract">
+		An apparatus for providing sound effects according to an input image and a method thereof capable of conveying details of the input image lively and effectively by recognizing the shape of the image and outputting a sound suitable for the recognized shape of the image. The apparatus for providing the sound effects according to the image includes an image input unit for receiving an input of an image, a sound effect providing unit for recognizing the image inputted through the image input unit and providing the sound effects according to the input image, and an image output unit for outputting the image inputted through the image input unit and the sound provided from the sound effect providing unit.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-03-09
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2012-08-07
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-08
+	</str>
+	<str name="All IPC">
+		H03G3/00 | G06K9/00
+	</str>
+	<str name="IPC Primary">
+		H03G3/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H03
+	</str>
+	<str name="IPC Subclass">
+		H03G
+	</str>
+	<str name="IPC Group">
+		H03G3
+	</str>
+	<str name="All UPC">
+		381/61 | 382/325
+	</str>
+	<str name="UPC Primary">
+		381/61
+	</str>
+	<str name="UPC Class">
+		381
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5310962 | JP1990183371 | JP2002190009
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		10-2004-0017350
+	</str>
+	<str name="Priority Date">
+		2004-03-15
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-Si, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-Si, KR
+	</str>
+	<str name="Inventor(s)">
+		CHOI, SEUNG-EOK | JIN, YOUNG-KYU
+	</str>
+	<str name="1st Inventor">
+		CHOI, SEUNG-EOK
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul, KR | Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		FAULK, DEVONA
+	</str>
+	<str name="Assistant Examiner">
+		MONIKANG, GEORGE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

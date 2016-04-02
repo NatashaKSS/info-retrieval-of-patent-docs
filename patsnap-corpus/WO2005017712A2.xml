@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2005017712A2
+	</str>
+	<str name="Application Number">
+		PCT/US2004/026536
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		INTELLIGENT TOTAL ACCESS SYSTEM
+	</str>
+	<str name="Abstract">
+		A system for interfacing a user with an electronic device. An accessor device provides a user interface matched to the needs, abilities and intentions of the user and translates the user input commands and data into commands for the electronic device. An intelligent access port translates commands from the accessor into an input fonnat required by the electronic device. A communication link connects the accessor device with the intelligent access port to send the translated user input commands and data from the accessor to the intelligent access port. The accessor device contains an intelligent access module and an interactive display. The intelligent access module contains a driver device for routing message packets, an interaction processor for processing incoming message packets and generating a message packet for the electronic device, and a communications channel. Communications between system components take place over a universal serial bus or over a wireless fidelity or ZigBee device. The interactive display can include a touch screen, browser, wireless transceiver and flash storage.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-08-16
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2005-02-24
+	</str>
+	<str name="Publication Year">
+		2005
+	</str>
+	<str name="Publication(Year/Month)">
+		2005-02
+	</str>
+	<str name="All IPC">
+		G06F/
+	</str>
+	<str name="IPC Primary">
+		G06F/
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F
+	</str>
+	<str name="Family Members">
+		WO200705017712A3 | WO2005017712A2
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US2002013701A1 | US6622119 | US7088220 | US6795808 | US6732195 | US6964023 | US5321608 | US6272455 | US6260035
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		10/642,022
+	</str>
+	<str name="Priority Date">
+		2003-08-15
+	</str>
+	<str name="Assignee(s)">
+		THE BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		THE BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Office of Technology Transfer, 1705 El Camino Real, Palo Alto, CA 94305, US
+	</str>
+	<str name="Assignee(s) Address">
+		Office of Technology Transfer, 1705 El Camino Real, Palo Alto, CA 94305, US
+	</str>
+	<str name="Inventor(s)">
+		SCOTT, NEIL, G.
+	</str>
+	<str name="1st Inventor">
+		SCOTT, NEIL, G.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		1717, Mott-Smith, Drive, #2414, Honolulu, HI, 96822, US
+	</str>
+	<str name="Inventor(s) Address">
+		1717, Mott-Smith, Drive, #2414, Honolulu, HI, 96822, US
+	</str>
+	<str name="Agent/Attorney">
+		TIMAR, JOHN, J., WOMBLE CARLYLE SANDRIDGE &amp; RICE, PLLC, P.O. BOX 7037, ATLANTA, GA 30357-0037, US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

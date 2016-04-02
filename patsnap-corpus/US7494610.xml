@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7494610
+	</str>
+	<str name="Application Number">
+		US11216330
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Methods for fabricating zeolite micromembranes
+	</str>
+	<str name="Abstract">
+		A method of activating a zeolite membrane comprising a step of placing the membrane in contact with a fluid mixture containing ozone, wherein when the fluid mixture is a gaseous mixture, the fluid mixture has a temperature of at least 423K, and wherein when the fluid mixture is a liquid mixture, the fluid mixture has a temperature of 353K.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-08-30
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-08
+	</str>
+	<str name="Publication Date">
+		2009-02-24
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		B29C47/92 | B01J29/04 | B29C65/00 | C01G23/00
+	</str>
+	<str name="IPC Primary">
+		B29C47/92
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B29
+	</str>
+	<str name="IPC Subclass">
+		B29C
+	</str>
+	<str name="IPC Group">
+		B29C47
+	</str>
+	<str name="All UPC">
+		501/4 | 423/705 | 502/85 | 264/48 | 264/42 | 210/500.25 | 501/33
+	</str>
+	<str name="UPC Primary">
+		501/4
+	</str>
+	<str name="UPC Class">
+		501
+	</str>
+	<str name="Family Members">
+		US20070045174A1 | US7494610
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		O. Pachtova et al, &quot;A Comparative Study of Template Removal From Silicalite-1 Crystals in Pyrolytic and Oxidizing Regimes,&quot; Microporous and Mesoporous Materials 55 (2002), Elsevier Science B.V., pp. 285-296. cited by other . | Joseph Lik Hang Chau et al, &quot;Zeolite Microtunnels and Microchunnels,&quot; Chem Commun. 2002, pp. 960-961. cited by other . | Yu Shan Susanna Wan et al, &quot;TS-1 Zeolite Microengineered Reactors for 1-Pentene Epoxidation,&quot; Chem Commun. 2002, pp. 878-879. cited by other . | Joseph Lik Hang Chau et al, &quot;Incorporating Zeolites in Microchemical Systems,&quot; Chemical Engineering Journal 88 (2002), Elsevier Science B.V., pp. 187-200. cited by other . | Junhang Dong et al, &quot;Template-Removal-Associated Microstructural Development of Porous-Ceramic-Supported MFI Zeolite Membranes,&quot; Microporous and Mesoporous Materials 34 (2000), Elsevier Science B.V., pp. 241-253. cited by other . | Katherine H. Gilbert et al, &quot;The Effect of Heating Rate and Gas Atmosphere on Template Decomposition in Silicalite-1,&quot; Ind. Eng. Chem. Res. 2001, 40, American Chemical Society, pp. 4844-4849. cited by other. | Yu Shan Susanna Wan et al, &quot;Design and Fabrication of Zeolite-Based Microreactors and Membrane Microseparators,&quot; Microporous and Mesoporous Materials 42 (2001), Elsevier Science B.V., pp. 157-175. cited by other . | Imre Kiricsi et al, &quot;The Advantages of Ozone Treatment in the Preparation of Tubular Silica Structures,&quot; Applied Catalysis A: General 2003 (2000), Elsevier Science B.V., L1-L4. cited by other .
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6960327 | US6395350 | US5968366 | US5100596 | US7049259 | US6660245 | US7018948
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		21633005
+	</str>
+	<str name="Priority Date">
+		2005-08-30
+	</str>
+	<str name="Assignee(s)">
+		THE HONG KONG UNIVERSITY OF SCIENCE &amp; TECHNOLOGY
+	</str>
+	<str name="1st Assignee">
+		THE HONG KONG UNIVERSITY OF SCIENCE &amp; TECHNOLOGY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kowloon, Hong Kong, CN
+	</str>
+	<str name="Assignee(s) Address">
+		Kowloon, Hong Kong, CN
+	</str>
+	<str name="Inventor(s)">
+		YEUNG, KING, LUN | LAM, KOON, FUNG | HENG, SAMUEL | CHAU, LIK, HANG, JOSEPH
+	</str>
+	<str name="1st Inventor">
+		YEUNG, KING, LUN
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Kowloon, HK
+	</str>
+	<str name="Inventor(s) Address">
+		Kowloon, HK | Yuen, Long, HK | Villetaneuse, FR | Kowloon, HK
+	</str>
+	<str name="Agent/Attorney">
+		SMITH-HILL &amp; BEDELL, P.C.
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

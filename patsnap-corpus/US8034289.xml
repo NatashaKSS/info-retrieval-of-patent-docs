@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8034289
+	</str>
+	<str name="Application Number">
+		US12588676
+	</str>
+	<str name="Title">
+		Fluid treatment process and apparatus
+	</str>
+	<str name="Abstract">
+		A water treatment process whereby heat is used and recaptured to pasteurize water and or sewage effluent. Contaminated waters are partially treatable utilizing bacterial and chemical processes; however some bacteria (e.g. Cryptosporidium and Giardia) are resistant to chemicals. The present process raises the temperature of the water to a desired pasteurization temperature and for a corresponding required length of time to destroy pathogens and viruses. A heat exchanger is employed to use the waste heat from the pasteurization tank to pre-heat the fluid entering the tank. After the initial heating of the tank, the pre-heating reduces the required heat to maintain the temperature of the tank. Make-up heat increases the temperature within a small temperature range. The make-up heat may be waste heat from a separate process.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-10-23
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-10
+	</str>
+	<str name="Publication Date">
+		2011-10-11
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		A61L2/04
+	</str>
+	<str name="IPC Primary">
+		A61L2/04
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61L
+	</str>
+	<str name="IPC Group">
+		A61L2
+	</str>
+	<str name="All UPC">
+		422/38 | 210/774
+	</str>
+	<str name="UPC Primary">
+		422/38
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5447642 | US7837865 | US7402241 | US6555055 | US20090004045 | US20100116756
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Inventor(s)">
+		FLETCHER, JEFFREY
+	</str>
+	<str name="1st Inventor">
+		FLETCHER, JEFFREY
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kelowna, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Kelowna, CA
+	</str>
+	<str name="Agent/Attorney">
+		EDWARDS, ANTONY C.
+	</str>
+	<str name="Primary Examiner">
+		POPOVICS, ROBERT JAMES
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

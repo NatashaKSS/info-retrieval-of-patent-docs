@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7766241
+	</str>
+	<str name="Application Number">
+		US11541138
+	</str>
+	<str name="Title">
+		Barcode for two-way verification of a document
+	</str>
+	<str name="Abstract">
+		Systems, methods and storage mediums are disclosed for processing images and two-dimensional barcodes for two-way verification of document data. In one exemplary embodiment, image data of a document is obtained, processed and rendered into a barcode for incorporation into a reproduction of the document image. The barcode may overlap the document image which allows it to be placed anywhere in the document. Moreover, the barcode may overlap certain portions such that it conceals confidential information while maintaining the integrity of the confidential information within encoded data of the barcode.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-09-29
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-09
+	</str>
+	<str name="Publication Date">
+		2010-08-03
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-08
+	</str>
+	<str name="All IPC">
+		G06K7/10
+	</str>
+	<str name="IPC Primary">
+		G06K7/10
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K7
+	</str>
+	<str name="All UPC">
+		713/189 | 713/176 | 235/462.09 | 235/462.08 | 235/462.01 | 235/462.11
+	</str>
+	<str name="UPC Primary">
+		713/189
+	</str>
+	<str name="UPC Class">
+		713
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Altavion, Declaration of Laura R. Mason in Support of Konica Minolta's Systems Laboratory, Inc.'s, Konica Minolta Business Solutions, U.S.A., Inc.'s, Konica Minolta Business Technologies, Inc.'s and Paul Catrone's Notice of Demurrer and Demurrer to Altavion, Inc.'s Second Amended Complaint, Jun. 23, 2009, (2 pages), San Mateo County Superior Court, USA. cited by other . | McGraw-Hill Dictionary of Scientific and Technical Terms, 2003, p. 548, Sixth Edition, McGraw-Hill. cited by other . | Gengler, B., Adobe Integrates Secures PDF with XML--Business Software--IT Business Special Report, retrieved from http://www.identrust.com/company/press.sub.--releases/2004/release.sub.--- 040615.html on Dec. 1, 2008, dated Jun. 14, 2004, 2 pages, press release in The Australian. cited by other . | Attachment I, Facts Supporting Plaintiff's Claims 4-7 Which are Separate from Plaintiff's Trade Secret Claim 1 [Redacted Portions Filed Under Seal], bearing Aug. 13, 2009 on its face, (6 pages), San Mateo County Superior Court, USA. cited by other. | Firth, P. Using Barcodes in Documents--Best Practices, Pegasus Imaging Corporation, 2007, 9 pages. cited by other . | Altavion, Second Amended Complaint, May 22, 2009, (49 pages), San Mateo County Superior Court, USA. cited by other . | DataGlyphs.RTM. Frequently Asked Questions (FAQ), Palo Alto Research Center Incorporated, retrieved from http://www.parc.com/research/projects/dataglyphs/faq.html on Dec. 18, 2008, 10 pages. cited by other . | Encryption, retrieved from http://en.wikipedia.org/wiki/Encryption on Dec. 2, 2008, 2 pages. cited by other . | Adobe Acrobat, retrieved from http://en.wikipedia.org/wiki/Adobe.sub.--Acrobat on Dec. 19, 2008, 7 pages. cited by other . | Altavion, Konica Minolta's Systems Laboratory, Inc.'s, Konica Minolta Business Solutions, U.S.A., Inc.'s, Konica Minolta Business Technologies, Inc.'s and Paul Catrone's Notice of Demurrer and Demurrer to Altavion, Inc.'s Second Amended Complaint, Jun. 23, 2009, (3 pages), San Mateo County Superior Court, USA. cited by other . | Pretty Good Privacy, retrieved from http://en.wikipedia.org/wiki/Pretty.sub.--Good.sub.--Privacy on Dec. 11, 2008, 9 pages. cited by other . | Konica/Minolta, Cross Complaint, pleading, Oct. 27, 2008, pp. 13, San Mateo County Superior Court, USA. cited by other . | Encryption Algorithms, retrieved from http://www.mycrypto.net/encryption/crypto.sub.--algorithms.html on Dec. 2, 2008, 3 pages. cited by other . | McDaniel, G., IBM Dictionary of Computing, Aug. 1993, pp. 129 and 235, Tenth Edition, McGraw-Hill, Inc. cited by other . | Antognini, T., A Flexibly Configurable 2D Bar Code, white paper based on paper delivered to the Information Based Indicia Program Technology Symposium, sponsored by the US Postal Service, Nov. 25-26, 1996, 24 pages. cited by other . | Data Compression, retrieved from http://en.wikipedia.org/wiki/Data.sub.--compression on Dec. 2, 2008, 6 pages. cited by other . | Definitions, Encryption, SearchSecurity.com (powered by Whatls.com), retrieved from http://searchsecurity.techtarget.com/sDefinition/0,,sid14.sub.--gci212062- ,00.html on Dec. 2, 2008, 4 pages, TechTarget. cited by other . | Adobe.RTM. 6.0 Acrobat.RTM. Curriculum Guide, Adobe, 2003, lessons 3-5, 27 pages. cited by other . | Altavion, Memorandum of Points and Authorities in Support of Konica Minolta's Systems Laboratory, Inc.'s, Konica Minolta Business Solutions, U.S.A., Inc.'s, Konica Minolta Business Technologies, Inc.'s and Paul Catrone's Notice of Demurrer and Demurrer to Altavion, Inc.'s Second Amended Complaint, Jun. 23, 2009, (20 pages), San Mateo County Superior Court, USA. cited by other . | Product Reviews: Design/DTP--Acrobat 4, PC PRO Computing in the Real World, Apr. 2000, Issue 58, retrieved from http://www.pcpro.co.uk/reviews/79/acrobat-4.html on Jan. 14, 2009, 2 pages. cited by other . | The American Heritage Dictionary of the English Language, 2006, p. 44, 4.sup.th edition, Houghton Mifflin Company. cited by other . | Altavion, Reply Brief in Support of Defendants' Demurrer to Altavion Inc.'s Second Amended Complaint, Aug. 20, 2009, (15 pages), San Mateo County Superior Court, USA. cited by other . | Specifications for Popular 2D Bar Codes, Bar Code 1: A Web of Information About Bar Code 2-Dimensional Bar Code Page, retrieved from http://www.adams1.com/stack.html on Dec. 2, 2008, 9 pages. cited by other . | Altavion, First Amended Complaint, pleading, Dec. 15, 2008, pp. 43, San Mateo County Superior Court, USA. cited by other . | QR Code Barcode (Quick Response Barcode), TechnoRiver, retrieved from http://www.technoriversoft.com/QRCODEBarcode.html on Dec. 18, 2008, 2 pages. cited by other . | Computer Dictionary, The Comprehensive Standard for Business, School, Library, and Home, 1994, pp. 106 and 146, Second Edition, Microsoft Press. cited by other . | Altavion, Inc., Complaint, pleading, Nov. 9, 2007, pp. 26, San Mateo County Superior Court, USA. cited by other . | Barcode Introduction: PDF417 Symbology, Barcode Technology Online, retrieved from http://www.barcode-controls.com/PDF417.html on Dec. 19, 2008, 5 pages, EaseSoft Inc. cited by other . | Altavion, Request for Judicial Notice of Support of Defendants' Demurrer to Altavion's Second Amended Complaint, Jun. 23, 2009, (3 pages), San Mateo County Superior Court, USA. cited by other . | Goebel, G., Data Compression, In The Public Domain, Mar. 1, 2007, v1.2./TOC (3 chapters) Public Domain, retrieved from http://www.vectorsite.net/ttdcmp.html on Dec. 2, 2008, 2 pages. cited by other . | Sedgewick, J. Image Stitching Using Photoshop, 2003, 4 pages. cited by other . | Adobe Photoshop, retrieved from http://en.wikipedia.org/wiki/Adobe.sub.--Photoshop on Jan. 3, 2009, 6 pages. cited by other . | Resnick, P., Standards Track--Internet Message Format, Oct. 2008, 57 pages, The IETF Trust. cited by other . | Tutorial: 1. Introduction to image slicing, How to slice an image, Mar. 22, 2002, 5 pages, Elated Communications Ltd. cited by other . | Conrad, E., Explanation of The Three Types of Cryptosystems--GIAC Research in the Common Body of Knowledge, Feb. 6, 2007, retrieved from http://www.giac.org/resources/whitepaper/cryptography/52.php (1 of 5) on Dec. 3, 2008, 5 pages. cited by other . | Data matrix (computer), retrieved from http://en.wikipedia.org/wiki/Data.sub.--matrix.sub.--(computer) on Dec. 19, 2008, 4 pages. cited by other . | Altavion, Notice of Entry on Order Sustaining Defendant's Demurrer to Plaintiff Altavion's Second Amended Complaint, including Exhibit A, Sep. 28, 2009, (7 pages), San Mateo County Superior Court, USA. cited by other . | Sci-Tech Encyclopedia: Data Compression, 2008, retrieved from http://www.answers.com/topic/data-compression on Dec. 2, 2008, 12 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		38
+	</str>
+	<str name="Cites">
+		US5337362 | US7533817 | US7197644 | US20080080777 | US5506697 | US20090194592 | US20080114927 | US5544045 | US7020327 | US20070211310 | US20070139710 | US7088857 | US7152047 | US6320982 | US20080173718 | US5388158 | US20020110798 | US20080048044 | US6522770 | US20070229915 | US5016214 | US20050111867 | US20080016358 | US6382510 | US20070241554 | US6839844 | US7185816 | US5576528 | US20020164053 | US7523865 | US5754697 | US5671282 | US5734800 | US6173154 | US20040185424 | US20040202386 | US6674456 | US20070036371 | US6498660 | US5956409 | US5490217 | US6035406 | US5325167 | US6082619 | US6418244 | US7166347 | US20040027601 | US5905800 | US7020435 | US6694043 | US6285775 | US6694042 | US20040003255 | US7040539 | US5862270 | US20080216004 | US5606609 | US7032823 | US20050132194 | US20050259876 | US5987153 | US20020181736 | US20020181737 | US5760382 | US20060124744 | US5799082 | US6917724 | US20070022053 | US20060017802 | US6115508 | US5486686 | US6565003 | US5680470 | US6567530 | US20070176001 | US20070176000 | US6212504 | US20090031135 | US20060034505 | US5243655 | US20030120930 | US5612524 | US20060056735
+	</str>
+	<str name="Cites Count">
+		83
+	</str>
+	<str name="Assignee(s)">
+		KONICA MINOLTA SYSTEMS LABORATORY, INC.
+	</str>
+	<str name="1st Assignee">
+		KONICA MINOLTA SYSTEMS LABORATORY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Huntington Beach, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Huntington Beach, CA
+	</str>
+	<str name="Inventor(s)">
+		TOMITA, HIROSHI
+	</str>
+	<str name="1st Inventor">
+		TOMITA, HIROSHI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		San, Carlos, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Carlos, CA
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp; DUNNER, LLP
+	</str>
+	<str name="Primary Examiner">
+		TRAIL, ALLYSON N
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

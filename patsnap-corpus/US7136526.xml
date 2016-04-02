@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7136526
+	</str>
+	<str name="Application Number">
+		US10020249
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Character string recognition apparatus, character string recognizing method, and storage medium therefor
+	</str>
+	<str name="Abstract">
+		A key word is first and automatically extracted from a character string group to be recognized, and entered. Then, a character is recognized by segmenting an individual character from a character string image to be recognized, and a character string corresponding to the extracted/entered key word id extracted. Then, a word area delimited by a key word is extracted from the character string image, and a word is recognized. Furthermore, a word recognition result is verified, and a final character string recognition result is output.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-12-18
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-12
+	</str>
+	<str name="Publication Date">
+		2006-11-14
+	</str>
+	<str name="Publication Year">
+		2006
+	</str>
+	<str name="Publication(Year/Month)">
+		2006-11
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/18
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/186 | 382/187
+	</str>
+	<str name="UPC Primary">
+		382/186
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20020114515A1 | JP2002216076A | JP4136316B2 | US7136526 | CN100474331C | CN1367460A
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6327386 | US6539118 | US6473754 | US6738519 | US6557115 | US6269188 | US6535619 | JP1999001740A | JP1999008315A
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2001015349
+	</str>
+	<str name="Priority Date">
+		2001-01-24
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		HOTTA, YOSHINOBU | FUJIMOTO, KATSUHITO | NAOI, SATOSHI | SUWA, MISAKO
+	</str>
+	<str name="1st Inventor">
+		HOTTA, YOSHINOBU
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP | Kawasaki, JP | Kawasaki, JP | Kawasaki, JP
+	</str>
+	<str name="Agent/Attorney">
+		STAAS &amp; HALSEY LLP
+	</str>
+	<str name="Primary Examiner">
+		BALI, VIKKRAM
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

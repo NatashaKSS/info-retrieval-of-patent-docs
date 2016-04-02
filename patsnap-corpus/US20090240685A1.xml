@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090240685A1
+	</str>
+	<str name="Application Number">
+		US12179467
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS AND METHOD FOR DISPLAYING SEARCH RESULTS USING TABS
+	</str>
+	<str name="Abstract">
+		A graphical user interface includes tabs representative of different classes of search results. The tabs are derived in response to the processing of a query. The different classes of search results group content by meaning, such that a query term with different meanings produces different classes of search results with different meanings.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-07-24
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-07
+	</str>
+	<str name="Publication Date">
+		2009-09-24
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/5 | 707/E17.014 | 585/310 | 707/3
+	</str>
+	<str name="UPC Primary">
+		707/5
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Members">
+		WO201009117273A3 | US20090240672A1 | US20090241018A1 | US20090241044A1 | WO2009117273A2 | US20090240685A1 | US20090241058A1 | US20090241065A1 | US20090241066A1
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8161073
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		17946708 | 3767608
+	</str>
+	<str name="Priority Date">
+		2008-07-24 | 2008-03-18
+	</str>
+	<str name="Assignee(s)">
+		CUILL, INC.
+	</str>
+	<str name="1st Assignee">
+		CUILL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Menlo Park,CA,US
+	</str>
+	<str name="Assignee(s) Address">
+		Menlo Park,CA,US
+	</str>
+	<str name="Inventor(s)">
+		COSTELLO TOMAS | MONIER LOUIS
+	</str>
+	<str name="1st Inventor">
+		COSTELLO TOMAS
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Saratoga,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Saratoga,CA,US | Menlo Park,CA,US
+	</str>
+	<str name="Agent/Attorney">
+		COOLEY GODWARD KRONISH LLP,ATTN: PATENT GROUP
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

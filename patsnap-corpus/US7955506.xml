@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7955506
+	</str>
+	<str name="Application Number">
+		US12534669
+	</str>
+	<str name="Title">
+		Process for dewatering an aqueous organic solution
+	</str>
+	<str name="Abstract">
+		An energy-efficient process for dewatering an aqueous organic solution includes using freely available solar energy to concentrate a draw solution within a reservoir. The draw solution is used in conjunction with a membrane to remove water from the organic solution in a forward osmosis process. The draw solution is diluted by the osmosis process, and returned to the reservoir to be re-concentrated and reused in the osmosis process.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-08-03
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-08
+	</str>
+	<str name="Publication Date">
+		2011-06-07
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+	<str name="All IPC">
+		B01D11/00 | B01D61/00
+	</str>
+	<str name="IPC Primary">
+		B01D11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		426/11 | 210/649 | 210/648 | 210/644
+	</str>
+	<str name="UPC Primary">
+		426/11
+	</str>
+	<str name="UPC Class">
+		426
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Olsson, Mark S., &quot;Salinity-Gradient Vapor-Pressure Power Conversion,&quot; Energy, 1982, vol. 7, No. 3, pp. 237-246, Pergamon PressLtd., Great Britain. cited by other. | Wick, Gerald L., &quot;Power From Salinity Gradinets,&quot; Energy, 1978, vol. 3, pp. 95-100, Pergamon Press, Great Britain. cited by other . | Moody, C. D. et al., &quot;Forward Osmosis Extractors,&quot; Desalination, 1976, vol. 18, pp. 283-295, Elsevier, The Netherlands. cited by other . | McCormick, Peter et al, &quot;Water, Salt, and Ethanol Diffusion Through Membranes for Water Recovery by Forward (Direct) Osmosis Processes,&quot; Journal of Membrane Science, 2008, pp. 467-478, Elsevier B.V. cited by other . | Cath, Tzahi Y. et al., &quot;Forward Osmosis: Principles, Applications, and Recent Developments,&quot; Journal of Membrane Science, 2006, pp. 70-87, Elsevier B.V. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cites">
+		US4816407 | US5281430 | US7566402 | US5098575 | US7604746 | US5382364 | US4770786 | US4781837 | US5938928 | US3906250 | US4193267 | US6793825 | US6848184 | JP1982174107
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Assignee(s)">
+		CHEVRON U.S.A. INC.
+	</str>
+	<str name="1st Assignee">
+		CHEVRON U.S.A. INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Ramon, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Ramon, CA
+	</str>
+	<str name="Inventor(s)">
+		BRYAN, PAUL, F. | HUSAIN, SHABBIR | PRAKASH, PRAKHAR
+	</str>
+	<str name="1st Inventor">
+		BRYAN, PAUL, F.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Pinole, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Pinole, CA | San, Pablo, CA | San, Ramon, CA
+	</str>
+	<str name="Agent/Attorney">
+		DIDOMENICIS, KAREN SCHULTE, RICHARD
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7449117
+	</str>
+	<str name="Application Number">
+		US10954772
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Filtration unit, installation method for a filtration unit and filtration apparatus
+	</str>
+	<str name="Abstract">
+		A filtration unit that includes a casing that has a closed bottom and is immersed in a water storage tank (or water storage pond) into which raw water is introduced, the casing being composed of a introduction port which introduces the raw water in the water storage tank into the casing, an active carbon supply device which adds active carbon to the introduced raw water, an agitator which agitates the raw water inside the casing to which active carbon has been added, a filtration module which filters the raw water, a back flow preventing device which prevents the raw water inside the casing from flowing back into the introduction port and being discharged into the water storage tank, and a discharging device which discharges the raw water from the casing.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-09-30
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-09
+	</str>
+	<str name="Publication Date">
+		2008-11-11
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		C02F1/32 | C02F1/28
+	</str>
+	<str name="IPC Primary">
+		C02F1/32
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/663 | 210/527 | 210/332 | 210/650 | 210/523 | 210/802 | 210/212 | 210/803 | 210/207 | 210/791 | 210/205 | 210/521 | 210/908 | 210/694 | 210/280 | 210/282 | 210/266 | 210/221.1 | 210/748 | 210/265 | 210/407 | 210/323.1
+	</str>
+	<str name="UPC Primary">
+		210/663
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		JP2005111343A | KR1020050033416A | US7449117 | CN1605379A | CN100393396C | EP1522524A1 | EP1522524B1 | US20050072724A1
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		8
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7981293 | US7981301 | US7998225 | US8133382 | US8192617 | US8048279
+	</str>
+	<str name="Cited By Count">
+		6
+	</str>
+	<str name="Cites">
+		US6517723 | US20050072724 | WO2007066471 | JP1999179385 | JP1996057273 | JP1997024250 | JP1998323683 | JP1998290993 | JP2003103150 | JP1997174094 | JP2006205074 | JP2003094056 | JP2007160132 | JP2005111343
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2003347466
+	</str>
+	<str name="Priority Date">
+		2003-10-06
+	</str>
+	<str name="Assignee(s)">
+		TSUKISHIMA KIKAI CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		TSUKISHIMA KIKAI CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		NAKAYAMA, TSUYOSHI
+	</str>
+	<str name="1st Inventor">
+		NAKAYAMA, TSUYOSHI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Chuo-ku, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Chuo-ku, JP
+	</str>
+	<str name="Agent/Attorney">
+		ANDROLIA, WILLIAM L. KODA, H. HENRY
+	</str>
+	<str name="Primary Examiner">
+		POPOVICS, ROBERT JAMES
+	</str>
+	<str name="cited by within 3 years">
+		4
+	</str>
+	<str name="cited by within 5 years">
+		4
+	</str>
+</doc>
+

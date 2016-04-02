@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5697840
+	</str>
+	<str name="Application Number">
+		US08570423
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Electronic cabinet with vent
+	</str>
+	<str name="Abstract">
+		An electronics cabinet which provides venting of gases within a battery compartment and also protects the inside from wind driven rain and other particles. A cover assembly is provided over the compartment of the cabinet, which assembly includes a cover member with a plurality of louvers and a blocking plate covering the louvers. A fan is mounted in the compartment in order to circulate air within the compartment so as to enhance the venting capability.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-12-11
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-12
+	</str>
+	<str name="Publication Date">
+		1997-12-16
+	</str>
+	<str name="Publication Year">
+		1997
+	</str>
+	<str name="Publication(Year/Month)">
+		1997-12
+	</str>
+	<str name="All IPC">
+		H05K7/20
+	</str>
+	<str name="IPC Primary">
+		H05K7/20
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		429/71 | 454/184 | 361/693 | 361/645
+	</str>
+	<str name="UPC Primary">
+		429/71
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		US5697840
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5297004 | US5150277 | US5140744 | US5372543 | JP1989286497 | GB2061599 | JP1989253997
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		57042395
+	</str>
+	<str name="Priority Date">
+		1995-12-11
+	</str>
+	<str name="Assignee(s)">
+		LUCENT TECHNOLOGIES INC.
+	</str>
+	<str name="1st Assignee">
+		LUCENT TECHNOLOGIES INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Murray Hill, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Murray Hill, NJ
+	</str>
+	<str name="Inventor(s)">
+		BAINBRIDGE, GARY, DEAN | IRWIN, GARY, MICHAEL | PALASZEWSKI, STEPHEN, JOHN | SIPOS, ATTILA | SMOLEN, RAYMOND, DAVID
+	</str>
+	<str name="1st Inventor">
+		BAINBRIDGE, GARY, DEAN
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Township, of, Sparta, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		Township, of, Sparta, NJ | Omaha, NE | Township, of, Chester, NJ | Charlottesville, VA | Totowa, NJ
+	</str>
+	<str name="Primary Examiner">
+		JOYCE, HAROLD
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

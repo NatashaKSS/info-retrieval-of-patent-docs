@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8014132
+	</str>
+	<str name="Application Number">
+		US12504782
+	</str>
+	<str name="Title">
+		Portable electronic device
+	</str>
+	<str name="Abstract">
+		A portable electronic device includes a housing, a battery cover detachably assembled to the housing, a power module, and a switch mounted in the housing. The switch is turned on by a portion of the battery cover pressing the switch when the battery cover is assembled to the housing.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-07-17
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-07
+	</str>
+	<str name="Publication Date">
+		2011-09-06
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		H05K5/03
+	</str>
+	<str name="IPC Primary">
+		H05K5/03
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K5
+	</str>
+	<str name="All UPC">
+		361/679.02 | 361/679.01 | 455/575.1
+	</str>
+	<str name="UPC Primary">
+		361/679.02
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6930263 | US20080020813 | US5832282 | US6367122 | US7058295 | US6625425
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		CN
+	</str>
+	<str name="Priority Number">
+		200810305345
+	</str>
+	<str name="Priority Date">
+		2008-10-31
+	</str>
+	<str name="Assignee(s)">
+		SHENZHEN FUTAIHONG PRECISION INDUSTRY CO., LTD. (SHENZHEN, GUANGDONG PROVINCE, CN), FIH (HONG KONG) LIMITED
+	</str>
+	<str name="1st Assignee">
+		SHENZHEN FUTAIHONG PRECISION INDUSTRY CO., LTD. (SHENZHEN, GUANGDONG PROVINCE, CN), FIH (HONG KONG) LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kowloon, HK
+	</str>
+	<str name="Assignee(s) Address">
+		Kowloon, HK
+	</str>
+	<str name="Inventor(s)">
+		FENG, SHENG-BIAO
+	</str>
+	<str name="1st Inventor">
+		FENG, SHENG-BIAO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Shenzhen, CN
+	</str>
+	<str name="Inventor(s) Address">
+		Shenzhen, CN
+	</str>
+	<str name="Agent/Attorney">
+		ALTIS LAW GROUP, INC.
+	</str>
+	<str name="Primary Examiner">
+		LEE, JINHEE
+	</str>
+	<str name="Assistant Examiner">
+		WRIGHT, INGRID
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

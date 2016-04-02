@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7772451
+	</str>
+	<str name="Application Number">
+		US11443106
+	</str>
+	<str name="Title">
+		System and method for chemical decontamination of radioactive material
+	</str>
+	<str name="Abstract">
+		A system for chemically decontaminating radioactive material.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-05-31
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-05
+	</str>
+	<str name="Publication Date">
+		2010-08-10
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-08
+	</str>
+	<str name="All IPC">
+		A62D3/37 | C02F1/42
+	</str>
+	<str name="IPC Primary">
+		A62D3/37
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A62
+	</str>
+	<str name="IPC Subclass">
+		A62D
+	</str>
+	<str name="IPC Group">
+		A62D3
+	</str>
+	<str name="All UPC">
+		588/319 | 210/688
+	</str>
+	<str name="UPC Primary">
+		588/319
+	</str>
+	<str name="UPC Class">
+		588
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		US. Appl. No. 11/444,424, filed Jun. 1, 2006, Enda, et al. cited by other . | U.S. Appl. No. 12/278,864, filed Aug. 8, 2008, Enda, et al. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US4226640 | US4756768 | US4508641 | US5752206 | US4942594 | US4287002 | US5814204 | US4587043 | US3873362 | US5958247 | US5640703 | US4217192 | JP2000081498 | JP1995140296 | JP1993209997 | JP1997159798 | DE4410747 | JP1997510784 | EP0533494 | JP2002250794
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2002337339 | 2003075932
+	</str>
+	<str name="Priority Date">
+		2002-11-21 | 2003-03-19
+	</str>
+	<str name="Assignee(s)">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="1st Assignee">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		ENDA, MASAMI | YAITA, YUMI | SATO, MITSUYOSHI | SAKAI, HITOSHI | KANASAKI, TAKESHI | INAMI, ICHIRO
+	</str>
+	<str name="1st Inventor">
+		ENDA, MASAMI
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa-ken, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa-ken, JP | Tokyo, JP | Kanagawa-ken, JP | Kanagawa-ken, JP | Kanagawa-ken, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEUSTADT, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		MAYES, MELVIN C
+	</str>
+	<str name="Assistant Examiner">
+		VADEN, KENNETH
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

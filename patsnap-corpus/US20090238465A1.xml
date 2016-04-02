@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090238465A1
+	</str>
+	<str name="Application Number">
+		US12405784
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS AND METHOD FOR EXTRACTING FEATURES OF VIDEO, AND SYSTEM AND METHOD FOR IDENTIFYING VIDEOS USING SAME
+	</str>
+	<str name="Abstract">
+		An apparatus for extracting features from a video includes a frame rate converter for performing a frame rate conversion on the video to a preset frame rate, a gray scale converter for performing a grey scale conversion on the frame rate-converted video, a frame size normalizer for performing a frame size normalization on the gray scale-converted video to a preset image size, and a feature extractor for partitioning the normalized video into image blocks of a predetermined size, and extracting features from the image blocks on the basis of luminance values of the image blocks. A video identification system employs the feature extracting apparatus to identify an original video and an object video.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2009-03-17
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-03
+	</str>
+	<str name="Publication Date">
+		2009-09-24
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		G06K9/68 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/68
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		370/216 | 382/195 | 382/218
+	</str>
+	<str name="UPC Primary">
+		370/216
+	</str>
+	<str name="UPC Class">
+		370
+	</str>
+	<str name="Family Members">
+		KR1020090099622A | US20090238465A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020080024715
+	</str>
+	<str name="Priority Date">
+		2008-03-18
+	</str>
+	<str name="Assignee(s)">
+		ELECTRONICS &amp; TELECOMMUNICATIONS RESEARCH INSTITUTE
+	</str>
+	<str name="1st Assignee">
+		ELECTRONICS &amp; TELECOMMUNICATIONS RESEARCH INSTITUTE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Daejeon,KR
+	</str>
+	<str name="Assignee(s) Address">
+		Daejeon,KR
+	</str>
+	<str name="Inventor(s)">
+		LEE SEUNGJAE | YOO WONYOUNG | YOON YOUNG-SUK | LEE SANG KWANG | SEO YONG-SEOK | SUH YOUNG HO
+	</str>
+	<str name="1st Inventor">
+		LEE SEUNGJAE
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Daejeon,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Daejeon,KR | Daejeon,KR | Daejeon,KR | Daejeon,KR | Daejeon,KR | Daejeon,KR
+	</str>
+	<str name="Agent/Attorney">
+		STAAS &amp; HALSEY LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

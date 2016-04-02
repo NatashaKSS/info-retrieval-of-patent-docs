@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8002874
+	</str>
+	<str name="Application Number">
+		US11715245
+	</str>
+	<str name="Title">
+		Liquid-phase and vapor-phase dehydration of organic/water solutions
+	</str>
+	<str name="Abstract">
+		Processes for dehydrating an organic/water solution by pervaporation or vapor separation using fluorinated membranes. The processes are particularly useful for treating mixtures containing light organic components, such as ethanol, isopropanol or acetic acid.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-03-06
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2011-08-23
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		B01D53/22
+	</str>
+	<str name="IPC Primary">
+		B01D53/22
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D53
+	</str>
+	<str name="All UPC">
+		96/14 | 210/640 | 95/50 | 95/52
+	</str>
+	<str name="UPC Primary">
+		96/14
+	</str>
+	<str name="UPC Class">
+		96
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Chapman et al. (2008) &quot;Membranes for the dehydration of solvents by pervaporation&quot;, Journal of Membrane Science 318 pp. 5-37. cited by other. | D W. van Krevelan, Properties of Polymers, 3.sup.rd Edition, Elsevier, Amsterdam, 1990, pp. 71-76. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3735558 | US3950247 | US5051114 | US20070031954 | US20030233934 | US6572679 | US20040000521 | US6361583 | US6361582 | US5387378 | US20060000777 | US20040003714 | US20040173529 | US6316684 | US6406517 | US20020170430 | EP0649676 | WO1990015662 | EP0303298
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Assignee(s)">
+		MEMBRANE TECHNOLOGY &amp; RESEARCH, INC.
+	</str>
+	<str name="1st Assignee">
+		MEMBRANE TECHNOLOGY &amp; RESEARCH, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Menlo Park, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Menlo Park, CA
+	</str>
+	<str name="Inventor(s)">
+		HUANG, YU | LY, JENNIFER | ALDAJANI, TIEM | BAKER, RICHARD, W.
+	</str>
+	<str name="1st Inventor">
+		HUANG, YU
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Palo, Alto, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Palo, Alto, CA | San, Jose, CA | San, Jose, CA | Palo, Alto, CA
+	</str>
+	<str name="Agent/Attorney">
+		WEAVER AUSTIN VILLENEUVE &amp; SAMPSON LLP
+	</str>
+	<str name="Primary Examiner">
+		SMITH, DUANE
+	</str>
+	<str name="Assistant Examiner">
+		PALMER, TIFFANY N
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

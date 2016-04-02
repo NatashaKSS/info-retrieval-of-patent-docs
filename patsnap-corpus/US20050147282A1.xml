@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20050147282A1
+	</str>
+	<str name="Application Number">
+		US11068935
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Image matching apparatus, image matching method, and image matching program
+	</str>
+	<str name="Abstract">
+		When two images are matched, a partial image S is registered in advance, mutual relative position is obtained when the partial image S and an image I indicate the largest overlap. Based on the relative position, the relative position between the image T and the image I is determined. Thus, it is determined whether or not the image T and the image I match.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-03-02
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2005-07-07
+	</str>
+	<str name="Publication Year">
+		2005
+	</str>
+	<str name="Publication(Year/Month)">
+		2005-07
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/124
+	</str>
+	<str name="UPC Primary">
+		382/124
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20050147282A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8199108 | US8159682 | US8230367 | US8259163
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US | JP
+	</str>
+	<str name="Priority Number">
+		6893505 | 0304784
+	</str>
+	<str name="Priority Date">
+		2005-03-02 | 2003-04-15
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki,JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki,JP
+	</str>
+	<str name="Inventor(s)">
+		FUJII YUSAKU
+	</str>
+	<str name="1st Inventor">
+		FUJII YUSAKU
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		4
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7534348
+	</str>
+	<str name="Application Number">
+		US10/661994
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Flow-through removal device and system using such device
+	</str>
+	<str name="Abstract">
+		Flow-through systems for processing biological fluid are disclosed. The flow-through systems include a removal device in the flow path for removing unwanted compounds and agents. The removal device includes a removal media contained within a housing made of two separate portions sealed together. The housing is maintained in a substantially vertical disposition, thereby ensuring substantially uniform and complete exposure of the fluid to the media.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-09-12
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-09
+	</str>
+	<str name="Publication Date">
+		2009-05-19
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		B01D29/00 | A61M5/165 | B01D37/00
+	</str>
+	<str name="IPC Primary">
+		B01D29/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D29
+	</str>
+	<str name="All UPC">
+		210/232 | 210/445 | 210/446 | 210/483
+	</str>
+	<str name="UPC Primary">
+		210/232
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		KR1020060105740A | EP1682245A2 | CA2538839A1 | US20060108272A1 | JP2007504947A | WO2005044418A3 | US7534348 | CN100522308C | CN1849161A | US20050056580A1 | WO2005044418A2 | AU2004287360A1 | BRPI0414270A | MXPA06002765A | SG146628A1
+	</str>
+	<str name="Family Member Count">
+		15
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Aricle entitled &quot;Designing Parts for Ultrasonic Welding,&quot; 1980, Branson Ultrasonics Corporation, Danbury, Connecticut. cited by other | Brochure entitled &quot;Plastics Assembly News,&quot; Sep. 1989, Branson Ultrasonics Corporation, Danbury, Connecticut. cited by other | International Search Report re application No. PCT/US2004/029637, dated Jun. 17, 2005. cited by other | Written Opinion re application No. PCT/US2004/029637, dated Jun. 17, 2005. cited by other | EPO Application No. 04 816 859.5-2113 - Examination Report dated Jul. 1, 2008. cited by other.
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3864265 | US3905905 | US3932153 | US4009714 | US4157967 | US4163721 | US4170056 | US4326957 | US4453927 | US5147545 | US5269917 | US5451321 | US5458719 | US5472621 | US5501795 | US5601730 | US5660731 | US5853587 | US5938940 | US5975312 | US6010633 | US6051136 | US6086762 | US6143174 | US6159377 | US6168653 | US6251292 | US6337026 | US6358420 | US6364864 | US6488860 | US7060183 | US20010009756 | US20020148765 | US20030146162 | EP0313348 | EP0563581 | EP0773051 | EP1106192 | GB978065 | GB2266477
+	</str>
+	<str name="Cites Count">
+		41
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		66199403
+	</str>
+	<str name="Priority Date">
+		2003-09-12
+	</str>
+	<str name="Assignee(s)">
+		FENWAL, INC.
+	</str>
+	<str name="1st Assignee">
+		FENWAL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Lake Zurich, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Lake Zurich, IL
+	</str>
+	<str name="Inventor(s)">
+		REITZ, DOUGLAS, W. | ARIAGNO, SCOTT | SHETH, MIHIR | YARDIMCI, ATIF | CLARKE, ROBERT, A. | PENNINGTON, DAVID, W. | PRISCO, MICHAEL, R. | CHIM, EDWIN | PAULEY, ROBIN | SANDFORD, CRAIG | SITES, ARCH
+	</str>
+	<str name="1st Inventor">
+		REITZ, DOUGLAS, W.
+	</str>
+	<str name="Number of Inventors">
+		11
+	</str>
+	<str name="1st Inventor Address">
+		Green, Oaks, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Green, Oaks, IL | Mundelein, IL | Gurnee, IL | Northbrook, IL | Libertyville, IL | Fox, Lake, IL | Geneva, IL | Vernon, Hills, IL | Lake, Villa, IL | Buffalo, Grove, IL | Woodstock, IL
+	</str>
+	<str name="Agent/Attorney">
+		COOK ALEX LTD.
+	</str>
+	<str name="Primary Examiner">
+		LITHGOW, THOMAS M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7556962
+	</str>
+	<str name="Application Number">
+		US11/061536
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Saccharide composition purification instrument
+	</str>
+	<str name="Abstract">
+		The present invention provides a sugar chain purification instrument which can continuously and efficiently purify the sugar chain. According to the present invention, the instrument includes an immobilized protease column in which a carrier which can be packed in the column and on which protease is immobilized is packed and an immobilized glycopeptidase column in which a carrier which can be packed in the column and on which glycopeptidase is immobilized is packed, these columns being connected in series, and the reaction is carried out while continuously passing a glycoprotein to be decomposed together with a suitable buffer solution through the above columns. The step of liberation of sugar chain from the glycoprotein is highly simplified and labor-saving, and liberation of the sugar chain can be moderately and simply performed.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-02-18
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-02
+	</str>
+	<str name="Publication Date">
+		2009-07-07
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-07
+	</str>
+	<str name="All IPC">
+		C12M1/14 | C12M3/04
+	</str>
+	<str name="IPC Primary">
+		C12M1/14
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12M
+	</str>
+	<str name="IPC Group">
+		C12M1
+	</str>
+	<str name="All UPC">
+		435/299.1 | 210/656 | 435/287.1 | 435/68.1
+	</str>
+	<str name="UPC Primary">
+		435/299.1
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		JP2005278592A | US20060121559A1 | US7556962
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;Demonstration of a New Amidase Acting on Glycopeptides&quot; by Noriko Takahashi, Biochemical and Biophysical Research Communications, vol. 76, Nov. 4, 1977, pp. 1194- Copyright 1997 by Academic Press, Inc. cited by other | &quot;Demonstration of a New Glycopeptidase, From Jack-Bean Meal, Acting on Aspartylglucosylamine Linkages&quot; by Kota Sugiyama, et al., vol. 112, Nov. 1, 1983, Copyright 1983 by Academic Press, Inc., Biochemical and Biophysical Research Communications, pp. 155-160. cited by other | &quot;Demonstration of Peptide:N-Glycosidase F Activity in Endo-.beta.-N-acetylglucosaminidase F Preparations,&quot; Thomas Plummer, et al., vol. 259, No. 17, Issue of Sep. 10, pp. 10711-10704, 1984, The Journal of Biological Chemistry. cited by other | &quot;A 500-MHz 1H-NMR Study on the N-Linked Carbohydrate Chain of Bromelain,&quot; J.A. Van Kuik, et al., Glycoconjugate J (1986) 3: 27-34. cited by other | Palm, Anders K. and Novotny, Milos V., &quot;Analytical characterization of a facile porous polymer monolithic trypsin microreactor enabling peptide mass mapping using mass spectrometry&quot;. Rapid Commun. Mass Spectrum. (2004); 18:1374-1382. cited by other | Palm, Anders K. and Novotny, Milos V., &quot;A monolithic PNGase F enzyme microreactor enabling glycan mass mapping of glycoproteins by mass spectrometry&quot;, Rapid Commun. Mass Spectrom. (2005); 19:1730-1738. cited by other.
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cites">
+		US4013511 | US4191810 | US4217415 | US20010051675 | WO2003004597
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2004-101799
+	</str>
+	<str name="Priority Date">
+		2004-03-31
+	</str>
+	<str name="Assignee(s)">
+		HITACHI HIGH-TECHNOLOGIES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		HITACHI HIGH-TECHNOLOGIES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		TAKAKI, MASANORI | YAMADA, KURIKO | DEGUCHI, KISABURO | NAKAGAWA, HIROAKI | NISHIMURA, SHINICHIRO
+	</str>
+	<str name="1st Inventor">
+		TAKAKI, MASANORI
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Hitachinaka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Hitachinaka, JP | Sapporo, JP | Sapporo, JP | Sapporo, JP | Sapporo, JP
+	</str>
+	<str name="Agent/Attorney">
+		DICKSTEIN SHAPIRO LLP
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D
+	</str>
+	<str name="Assistant Examiner">
+		DOE, SHANTA G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

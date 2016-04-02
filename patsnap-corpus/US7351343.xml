@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7351343
+	</str>
+	<str name="Application Number">
+		US11111238
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Copper metal recovery system
+	</str>
+	<str name="Abstract">
+		The present invention generally relates to a copper metal recovery system, able to integrate with a waste treatment system of a circuit board manufacture plant, includes a stirring unit, a crystallization unit and a pressure filtering unit. More than 2 parts of weight of acidic copper-containing etching process effluent, less than 1 parts of weight of copper-containing slurry, and less than 1 part of weight of waste mixture of an acidic copper-containing photolithography effluent and an acidic frame etching effluent are charged into the stirring unit to conduct decomposition. Alkaline hydroxide reacts with decomposition products in the crystallization unit. The temperature of the crystallization unit is at least 80.degree. C. The pressure filtering unit outputs a copper hydroxide solution or a copper oxide solution.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-04-22
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-04
+	</str>
+	<str name="Publication Date">
+		2008-04-01
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		C02F1/62
+	</str>
+	<str name="IPC Primary">
+		C02F1/62
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/912 | 210/737 | 423/27 | 210/724 | 423/35 | 216/93 | 423/43 | 210/919 | 210/712
+	</str>
+	<str name="UPC Primary">
+		210/912
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060213839A1 | US7351343 | TW291456B
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6649131 | US6274045 | US20060278583 | US5560838 | US4428773 | US6254783
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		TW
+	</str>
+	<str name="Priority Number">
+		94109130A
+	</str>
+	<str name="Priority Date">
+		2005-03-23
+	</str>
+	<str name="Assignee(s)">
+		CHANG, CHIU-HSIUNG
+	</str>
+	<str name="1st Assignee">
+		CHANG, CHIU-HSIUNG
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Taipei, TW
+	</str>
+	<str name="Assignee(s) Address">
+		Taipei, TW
+	</str>
+	<str name="Inventor(s)">
+		HUANG, SHEN-TSUNG | CHANG, TA-CHIANG
+	</str>
+	<str name="1st Inventor">
+		HUANG, SHEN-TSUNG
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Taipei, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Taipei, TW | Taipei, TW
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

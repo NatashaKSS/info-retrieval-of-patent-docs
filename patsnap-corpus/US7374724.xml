@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7374724
+	</str>
+	<str name="Application Number">
+		US10156588
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Device for processing samples, use of the device, and method for producing the device
+	</str>
+	<str name="Abstract">
+		The invention relates to a device (1) for processing samples (2), comprising a body (3) with a collecting chamber (4), which can be connected with a pump (5) for aspirating, or dispensing fluids and that acts on this collecting chamber, a separating chamber (6) adjoining the collecting chamber (4) for the solid phase extraction and elution of organic, or inorganic particles (7) separated from these samples (2), and an opening (8) for releasing these particles (7). The device in accordance with the invention relates to individual pipette tips, as well as to SPE microplates, and is distinguished in that the device (1) comprises a capillary (9), which is connected with the collecting chamber (4), or with the body (8), and has a packing (10) for the solid phase extraction of organic, or inorganic particles (7) separated from these samples (2) and is used as a separating chamber (6). In accordance with the invention, the package (10) can be adapted to the chemical-physical nature of the organic, or inorganic particles (7) to be extracted, as well as to a defined minimum volume.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-05-28
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-05
+	</str>
+	<str name="Publication Date">
+		2008-05-20
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		B01L11/00
+	</str>
+	<str name="IPC Primary">
+		B01L11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01L
+	</str>
+	<str name="IPC Group">
+		B01L11
+	</str>
+	<str name="All UPC">
+		436/174 | 422/100 | 210/198.2 | 422/101 | 422/99 | 210/656
+	</str>
+	<str name="UPC Primary">
+		436/174
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Members">
+		US20020182114A1 | US7374724
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References">
+		Search Report of EP 02 01 1729. cited by other. | Search Report of EP 1 033 169 A. cited by other . | &quot;ZipTips Pipette Tips&quot; Millipore Catalogue, 'Online! XP002192545. cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By">
+		US7867449 | US7939249 | US8021611 | US8057758
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		US20010001643 | US5603899 | US6416716 | US6531060 | US5260028 | US6562744 | US4091677 | US20030190757 | US5918273 | WO1999050654 | WO1998037949 | WO1994020831 | WO1997026540 | DE3717211 | WO1999038006 | EP1329714 | EP1382963 | EP1033169
+	</str>
+	<str name="Cites Count">
+		18
+	</str>
+	<str name="Priority Country">
+		CH
+	</str>
+	<str name="Priority Number">
+		0990/01
+	</str>
+	<str name="Priority Date">
+		2001-05-29
+	</str>
+	<str name="Assignee(s)">
+		TECAN TRADING AG (MANNEDORF, CH), MERCK PATENT GMBH
+	</str>
+	<str name="1st Assignee">
+		TECAN TRADING AG (MANNEDORF, CH), MERCK PATENT GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Darmstadt, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Darmstadt, DE
+	</str>
+	<str name="Inventor(s)">
+		INGENHOVEN, NIKOLAUS | LUBDA, DIETER
+	</str>
+	<str name="1st Inventor">
+		INGENHOVEN, NIKOLAUS
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Mannedorf, CH
+	</str>
+	<str name="Inventor(s) Address">
+		Mannedorf, CH | Bensheim, DE
+	</str>
+	<str name="Agent/Attorney">
+		NOTARO &amp; MICHALOS P.C.
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		NAGPAUL, JYOTI
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

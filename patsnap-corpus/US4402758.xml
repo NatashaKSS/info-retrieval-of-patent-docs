@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US4402758
+	</str>
+	<str name="Application Number">
+		US06348681
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Method for removing scale from porous diffusion tiles
+	</str>
+	<str name="Abstract">
+		A method for cleaning porous diffusion tiles used in systems for distributing oxygen or oxygen containing gas in water bodies is disclosed. The build-up of scale, which blocks the pores in such diffusion tiles, is removed by (1) purging the oxygen distribution system with a nonoxidizing gas such as nitrogen, (2) injecting substantially pure HCl gas through the system which removes the scale, and (3) purging the system again with the nonoxidizing gas before resuming flow of oxygen or oxygen containing gas. The use of a nonoxidizing purge gas before and after acid treatment prevents severe corrosion in the oxygen distribution system caused by the simultaneous presence of HCl gas and oxygen.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1982-02-16
+	</str>
+	<str name="Application Year">
+		1982
+	</str>
+	<str name="Application(Year/Month)">
+		1982-02
+	</str>
+	<str name="Publication Date">
+		1983-09-06
+	</str>
+	<str name="Publication Year">
+		1983
+	</str>
+	<str name="Publication(Year/Month)">
+		1983-09
+	</str>
+	<str name="All IPC">
+		B08B5/00
+	</str>
+	<str name="IPC Primary">
+		B08B5/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B5
+	</str>
+	<str name="All UPC">
+		134/30 | 134/21 | 134/28 | 134/3 | 134/22.1
+	</str>
+	<str name="UPC Primary">
+		134/30
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		EP0047956A1 | EP0047956B1 | ES505255D0 | ES8205588A1 | CA1159344A1 | DE3168048D1 | ZA8106208A | JP1982117397A | US4402758 | BR8105762A
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		12
+	</str>
+	<str name="Other References">
+		Jackson, Water Works &amp; Sewerage, &quot;Maintaining Open Diffuser Plates with Chlorine&quot;, 9/1942, pp. 380-382. | Franklin, Water Works &amp; Sewerage, &quot;Purging Diffuser Plates with Chlorine&quot;, 6/1939, pp. 232-233.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		EP1472019B1 | US5560296 | WO2003059537A1 | US4889620 | US6475395 | US5348650 | USR33177 | US5051193 | US6060397
+	</str>
+	<str name="Cited By Count">
+		9
+	</str>
+	<str name="Cites">
+		US3522093 | US3881872 | US2684330 | US2686138
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		1107032.5
+	</str>
+	<str name="Priority Date">
+		1981-09-07
+	</str>
+	<str name="Assignee(s)">
+		STERLING DRUG INC.
+	</str>
+	<str name="1st Assignee">
+		STERLING DRUG INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		New York, NY
+	</str>
+	<str name="Assignee(s) Address">
+		New York, NY
+	</str>
+	<str name="Inventor(s)">
+		HOBBS, MILLICE, F.
+	</str>
+	<str name="1st Inventor">
+		HOBBS, MILLICE, F.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Monte, Sereno, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Monte, Sereno, CA
+	</str>
+	<str name="Agent/Attorney">
+		ERICKSON, ALLEN H., JOHNSON, THOMAS L., WYATT, B. WOODROW
+	</str>
+	<str name="Primary Examiner">
+		LINDSAY, JR., ROBERT L.
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

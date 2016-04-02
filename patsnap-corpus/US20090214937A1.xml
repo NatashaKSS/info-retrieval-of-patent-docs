@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090214937A1
+	</str>
+
+	<str name="Application Number">
+		US11571752
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		VEHICLE BATTERY ARRANGEMENT COMPRISING ELECTRONIC COMPONENTS
+	</str>
+
+	<str name="Abstract">
+		The invention relates to a vehicle battery arrangement comprising sensors and an electronic sensor system, by which means the charging and operating state of the vehicle battery is monitored. Said vehicle battery arrangement comprises a heat insulating box (1) provided with a cover (9). The sensors, electronic sensor system and other electronic components for data processing and storage are split between two thermally coupled electronic modules. A first electronic module is connected to the battery in a mechanically fixed manner as a battery module (6), and the second electronic module is connected to the cover (9) of the heat insulating box (1) in a mechanically fixed manner as a cover module (12), the two modules being interconnected for data transmission preferably by means of a power line communication.
+	</str>
+
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+
+	<str name="Application Date">
+		2005-07-07
+	</str>
+
+	<str name="Application Year">
+		2005
+	</str>
+
+	<str name="Application(Year/Month)">
+		2005-07
+	</str>
+
+	<str name="Publication Date">
+		2009-08-27
+	</str>
+
+	<str name="Publication Year">
+		2009
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2009-08
+	</str>
+
+	<str name="All IPC">
+		H01M10/02
+	</str>
+
+	<str name="IPC Primary">
+		H01M10/02
+	</str>
+
+	<str name="IPC Section">
+		H
+	</str>
+
+	<str name="IPC Class">
+		H01
+	</str>
+
+	<str name="IPC Subclass">
+		H01M
+	</str>
+
+	<str name="IPC Group">
+		H01M10
+	</str>
+
+	<str name="All UPC">
+		429/92
+	</str>
+
+	<str name="UPC Primary">
+		429/92
+	</str>
+
+	<str name="UPC Class">
+		429
+	</str>
+
+	<str name="Family Members">
+		EP1774352A1 | EP1774352B1 | KR1020070092696A | US20090214937A1 | DE502005002118D1 | WO2006005313A1 | WO2006005314A1 | CN101040191A
+	</str>
+
+	<str name="Family Member Count">
+		8
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		DE
+	</str>
+
+	<str name="Priority Number">
+		102004032947.8
+	</str>
+
+	<str name="Priority Date">
+		2004-07-07
+	</str>
+
+	<str name="Assignee(s)">
+		IQ POWER LICENSING AG
+	</str>
+
+	<str name="1st Assignee">
+		IQ POWER LICENSING AG
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		6304 Zug,CH
+	</str>
+
+	<str name="Assignee(s) Address">
+		6304 Zug,CH
+	</str>
+
+	<str name="Inventor(s)">
+		BAUER G&#220;NTHER | RICKERT WINFRIED
+	</str>
+
+	<str name="1st Inventor">
+		BAUER G&#220;NTHER
+	</str>
+
+	<str name="Number of Inventors">
+		2
+	</str>
+
+	<str name="1st Inventor Address">
+		Ottobrunn,DE
+	</str>
+
+	<str name="Inventor(s) Address">
+		Ottobrunn,DE | Feldkirchen,DE
+	</str>
+
+	<str name="Agent/Attorney">
+		HENRY M FEIEREISEN, LLC,HENRY M FEIEREISEN
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

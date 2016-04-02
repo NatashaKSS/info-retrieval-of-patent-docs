@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2290780A1
+	</str>
+	<str name="Application Number">
+		EP2009169190
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Portable electronics device with programmable battery
+	</str>
+	<str name="Abstract">
+		A portable electronics device comprises at least one device subsystem, and a programmable battery. The programmable battery is coupled to a power input of the device subsystem and is configured to dynamically adjust a characteristic of the power that is applied to the power input in accordance with a power configuration command that is received at the battery.
+	</str>
+	<str name="Document Types">
+		EP | EPA
+	</str>
+	<str name="Application Date">
+		2009-09-01
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-09
+	</str>
+	<str name="Publication Date">
+		2011-03-02
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+	<str name="All IPC">
+		H02J7/00
+	</str>
+	<str name="IPC Primary">
+		H02J7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02J
+	</str>
+	<str name="IPC Group">
+		H02J7
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		RESEARCH IN MOTION LIMITED
+	</str>
+	<str name="1st Assignee">
+		RESEARCH IN MOTION LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		295 Phillip Street, Waterloo, Ontario N2L 3W8, CA
+	</str>
+	<str name="Assignee(s) Address">
+		295 Phillip Street, Waterloo, Ontario N2L 3W8, CA
+	</str>
+	<str name="Inventor(s)">
+		PLESTID, THOMAS, LEONARD, TREVOR
+	</str>
+	<str name="1st Inventor">
+		PLESTID, THOMAS, LEONARD, TREVOR
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		12138-4000, Innovation, Drive, Kanata, Ontario, K2K, 3K1, CA
+	</str>
+	<str name="Inventor(s) Address">
+		12138-4000, Innovation, Drive, Kanata, Ontario, K2K, 3K1, CA
+	</str>
+	<str name="Agent/Attorney">
+		PATEL, BINESH
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

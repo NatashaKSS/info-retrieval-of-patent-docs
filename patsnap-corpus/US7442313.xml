@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7442313
+	</str>
+	<str name="Application Number">
+		US10916863
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Environmental remediation method and system
+	</str>
+	<str name="Abstract">
+		Remediation for groundwater, soil, sediment bodies, bodies of water, tanks, pipes, and their surrounding areas are described. Remediation includes treating a site contaminated with toxic organic compounds by assessing for the presence or absence of suitable ozonphilic bacteria at the site and introducing ozone to the site. The ozonphilic bacteria are introduced to the site if the ozonphilic bacteria are not present or not present in sufficient quantities in the site. Ozone is introduced to the site in an amount sufficient to stimulate growth of the suitable ozonphilic bacteria. Other oxidants can also be used.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-08-12
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2008-10-28
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/220 | 210/760
+	</str>
+	<str name="UPC Primary">
+		210/220
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20090039016A1 | US7442313 | US7645384 | US20050077249A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		9
+	</str>
+	<str name="Other References">
+		Haapea, Pia, et al. &quot;Treatment of PAH Contaminated Soil By Ozonation, Soil Washing and Biological Treatment,&quot; The Second International Conference on Oxidation and Reduction Technologies for In-Situ Treatment of Soil and Groundwater. Toronto, Ontario, Canada, 2 pages, Nov. 17-21, 2002. cited by other . | Shaw, J.C., et al. &quot;Bacterial Fouling In A Model Core System,&quot; Applied And Environmental Microbiology, vol. 49, No. 3, pp. 693-701, Mar. 1985. cited by other. | Brown, PHD, Richard A., et al, &quot;Combing Oxidation And Bioremediation for The Treatment Of Recalcitrant Organics,&quot; Chemical And Physical Processes In Support of Bioremediation, vol. 4, pp. 457-462, Nov. 17-21, 2002. cited by other . | Kalish, P.J., et al., &quot;The Effect of Bacteria On Sandstone Permeability,&quot; Journal of Petroleum Technology, pp. 805-814, Jul. 1964. cited by other . | Sato, Masayuki, et al. &quot;Pulsed Discharge Plasma In Water-Chemical And Physical Properties,&quot; AOTs-8, The Eight International Conference on Advanced Oxidation Technologies for Water and Air Remediation Abstracts, Toronto, Ontario, Canada, 2 pages, Nov. 17-21, 2002. cited by other . | Brough, Matthew J., et al., &quot;Active Biofilm Barriers For Waste Containment And Bioremediation: Laboratory Assessment,&quot; In Situ And On-Site Bioremediation: vol. 4, pp. 233-238, 1997. cited by other . | Dowideit, Peter, et al., &quot;Reaction of Ozone with Ethene And Its Methyl- And Chlorine-Substituted Derivatives In Aqueous Solution,&quot; Environmental Science &amp; Technology; vol. 32, No. 8, pp. 1112-1119, 1998. cited by other .
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By">
+		US7572368 | USR43350E1 | US7666313 | US7648640 | US7645380 | US7645384 | US8302939 | US7666316 | US7661657
+	</str>
+	<str name="Cited By Count">
+		9
+	</str>
+	<str name="Cites">
+		US7264747 | US7300039 | US7022241 | US6582611 | US4804050 | US6306296 | US6284143 | US7131638 | US4310057 | US6805798 | US6913251 | US6872318 | US6623211 | US6083407 | US6436285 | US6312605 | US6596161 | US6984329 | US5855775 | US7033492 | US6780329 | US6827861 | US7156984
+	</str>
+	<str name="Cites Count">
+		23
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		91686304 | 49803103
+	</str>
+	<str name="Priority Date">
+		2004-08-12 | 2003-08-27
+	</str>
+	<str name="Assignee(s)">
+		THINKVILLAGE-KERFOOT, LLC
+	</str>
+	<str name="1st Assignee">
+		THINKVILLAGE-KERFOOT, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Boulder, CO
+	</str>
+	<str name="Assignee(s) Address">
+		Boulder, CO
+	</str>
+	<str name="Inventor(s)">
+		KERFOOT, WILLIAM, B.
+	</str>
+	<str name="1st Inventor">
+		KERFOOT, WILLIAM, B.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Falmouth, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Falmouth, MA
+	</str>
+	<str name="Agent/Attorney">
+		LATHROP &amp; GAGE LC
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7396457
+	</str>
+	<str name="Application Number">
+		US11475099
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for recovering acetic acid and catalyst in process for preparation of 2,6-naphthalenedicarboxylic acid
+	</str>
+	<str name="Abstract">
+		An apparatus and a method for effectively recovering acetic acid and catalyst from a mother liquor discharged from a series of processes including an oxidation process, a crystallization process and a solid-liquid separation process, in a continuous process for preparing naphthalenedicarboxylic acid by oxidizing dimethylnaphthalene in the presence of an oxygen-containing gas and an acetic acid solvent, using a catalyst system comprising a transition metal such as cobalt or manganese, and a bromine-based compound, are provided.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-06-27
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-06
+	</str>
+	<str name="Publication Date">
+		2008-07-08
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-07
+	</str>
+	<str name="All IPC">
+		B01D9/00 | C07C7/14 | B01D69/10
+	</str>
+	<str name="IPC Primary">
+		B01D9/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D9
+	</str>
+	<str name="All UPC">
+		210/178 | 210/179 | 210/321.6 | 210/180
+	</str>
+	<str name="UPC Primary">
+		210/178
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20070299235A1 | US7396457
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Global Spec; Mar. 25, 2005; XP002405331; http://separationequipment.globalspec.com/LearnMore/Processing.sub.--Equi- pment/Filtration.sub.--Separation.sub.--Products/Liquid.sub.--Solid.sub.--- Filtration.sub.--Separation.sub.--Equipment. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4353784 | US2199670 | US20020016500 | US4939297 | US1818452 | US5132450 | US4515684 | US4883912 | US5009789 | US20040245176 | US3880920 | US20040237859 | US2579637 | US1754599 | US20040244536 | US4794195 | JP1998304899 | EP0465100 | EP1484307 | EP1167336 | WO2001012318 | EP0181127
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		47509906
+	</str>
+	<str name="Priority Date">
+		2006-06-27
+	</str>
+	<str name="Assignee(s)">
+		HYOSUNG CORPORATION
+	</str>
+	<str name="1st Assignee">
+		HYOSUNG CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kyonggi-do, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Kyonggi-do, KR
+	</str>
+	<str name="Inventor(s)">
+		KWON, IK-HYUN | CHOI, YOUNG-GYO | SONG, BYUNG-JUN | JI, JONG-CHEUL
+	</str>
+	<str name="1st Inventor">
+		KWON, IK-HYUN
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Kyonggi-do, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Kyonggi-do, KR | Kyonggi-do, KR | Kyonggi-do, KR | Kyonggi-do, KR
+	</str>
+	<str name="Agent/Attorney">
+		NIXON &amp; VANDERHYE P.C.
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

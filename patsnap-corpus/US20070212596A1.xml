@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070212596A1
+	</str>
+	<str name="Application Number">
+		US11726101
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Single and multiple cell lithium ion battery with built-in controller
+	</str>
+	<str name="Abstract">
+		The invention concerns single and multiple cell lithium ion batteries. Embodiments of the invention concern single and multiple cell lithium ion batteries with built-in controllers that monitor the cell or cells and provide a safety disconnect when certain monitored conditions are detected by the controller. Preferred embodiment single and multiple cell lithium ion batteries have their cell or cells within a container having a positive terminal and a negative terminal. The built-in controller monitors the cell or cell for each of the following conditions: over temperature, short-circuit, overcharge, and over-discharge and the controller provides a safety disconnect when one of the monitored conditions exist. A multiple cell lithium ion battery of embodiments of the invention include a built-in controller that monitors the temperature of the cells and provides a safety disconnect that electronically disconnects all of the cells when at least one of the cells exceeds a predetermined temperature, or a controller that monitors the state of charge of each of the cells and individually controls the charge cycle of each of the cells, or a controller that monitors the temperature of the cells and to provides a safety disconnect when at least one of the cells exceeds a predetermined temperature.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-03-21
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2007-09-13
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-09
+	</str>
+	<str name="All IPC">
+		H01M1/50 | H01M1/42
+	</str>
+	<str name="IPC Primary">
+		H01M1/50
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M1
+	</str>
+	<str name="All UPC">
+		429/61 | 429/62
+	</str>
+	<str name="UPC Primary">
+		429/61
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		US20070212596A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		72610107 | 0108454
+	</str>
+	<str name="Priority Date">
+		2007-03-21 | 2001-03-16
+	</str>
+	<str name="Inventor(s)">
+		NEBRIGIC DRAGAN | JEVTITCH MILAN | GARTSTEIN VLADIMIR | MILAM WILLIAM | SHERRILL JAMES | BUSKO NICHOLAS | HANSEN PETER
+	</str>
+	<str name="1st Inventor">
+		NEBRIGIC DRAGAN
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Carlsbad,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Carlsbad,CA,US | Cincinnati,OH,US | Cincinnati,OH,US | Knoxville,TN,US | Oak Ridge,TN,US | Oak Ridge,TN,US | Knoxville,TN,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

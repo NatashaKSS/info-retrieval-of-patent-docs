@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7520991
+	</str>
+	<str name="Application Number">
+		US11808386
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Biological method for removing phosphorus and nitrogen from water using granulated methane-oxidizing bacteria
+	</str>
+	<str name="Abstract">
+		A biological removal method of phosphorus and nitrogen includes supplying a mixture gas into a gas holder. Inflow water and return water are supplied into the gas holder to make the mixture gas dissolved in the inflow water and the return water. The return water was provided from a granulation biological reaction tank. The inflow water and the return water including the dissolved mixture gas are transported to the granulation biological reaction tank. A nitrogen-based component is removed from the inflow water and the return water using methan-oxidizing bacteria granulated in the granulation biological reaction tank. Treated water without the nitrogen-based component is transported to an anoxic tank for treatment, and discharged from the anoxic tank.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-06-08
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-06
+	</str>
+	<str name="Publication Date">
+		2009-04-21
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/610 | 210/611 | 210/617 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/610
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		KR100804624B1 | KR1020070117354A | US7520991 | US7604733 | US20090173679A1 | CN101085693A | US20070284305A1
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Williams, Jon Christopher, &quot;Initial Investigations of Aerobic Granulation in an Annular Gap Bioreactor&quot;, Raleigh, 2004. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7459076 | US6099731 | US5057221 | JP1999262793
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020060051523
+	</str>
+	<str name="Priority Date">
+		2006-06-08
+	</str>
+	<str name="Assignee(s)">
+		KOREA INSTITUTE OF CONSTRUCTION TECHNOLOGY (GYEONGGI-DO, KR), DAEWOO ENGINEERING &amp; CONSTRUCTION CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		KOREA INSTITUTE OF CONSTRUCTION TECHNOLOGY (GYEONGGI-DO, KR), DAEWOO ENGINEERING &amp; CONSTRUCTION CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Seoul, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s)">
+		KIM, KWANG-SOO | LEE, HEE-JA | KIM, I-TAE | AHN, KWANG-HO | GEE, CHAI-SUNG | KIM, SUNG-YOUN | YOO, JI-SEON | LEE, EUI-SIN | PAIK, SUNG-POK | OH, CHUL-KI | LEE, KWANG-YOON
+	</str>
+	<str name="1st Inventor">
+		KIM, KWANG-SOO
+	</str>
+	<str name="Number of Inventors">
+		11
+	</str>
+	<str name="1st Inventor Address">
+		Gyeonggi-do, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Gyeonggi-do, KR | Gyeonggi-do, KR | Gyeonggi-do, KR | Seoul, KR | Seoul, KR | Gyeonggi-do, KR | Gyeonggi-do, KR | Gyeonggi-do, KR | Seoul, KR | Gyeonggi-do, KR | Gyeonggi-do, KR
+	</str>
+	<str name="Agent/Attorney">
+		VENABLE LLP SARTORI, MICHAEL A. GOZZI, JUSTINE A.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

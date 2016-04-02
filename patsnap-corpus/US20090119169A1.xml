@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090119169A1
+	</str>
+	<str name="Application Number">
+		US12/241763
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		VARIOUS METHODS AND APPARATUSES FOR AN ENGINE THAT PAIRS ADVERTISEMENTS WITH VIDEO FILES
+	</str>
+	<str name="Abstract">
+		A system to pair advertisements with media files is described. A request is processed to find one or more relevant advertisements and determine when to display each relevant advertisement at a temporally contextual point within a video file when the video file is played on a web page. The video file's key concepts and timing information are retrieved from a database. A request is generated for advertisements that contextually match the content in the key conceptual points found in the content of the video file. The timing information is retrieved regarding when the key conceptual points, relevant to returned advertisements that contextually match, chronologically appear in the video file. Contextual relevant advertisements are supplied with temporal information on when the placement of advertisements is most contextually relevant to the content being played in the video file.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-09-30
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-09
+	</str>
+	<str name="Publication Date">
+		2009-05-07
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		G06Q30/00 | G06F15/16
+	</str>
+	<str name="IPC Primary">
+		G06Q30/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06Q
+	</str>
+	<str name="IPC Group">
+		G06Q30
+	</str>
+	<str name="All UPC">
+		705/14.46 | 709/203 | 705/14
+	</str>
+	<str name="UPC Primary">
+		705/14.46
+	</str>
+	<str name="UPC Class">
+		705
+	</str>
+	<str name="Family Members">
+		US20090119169A1 | EP2045730A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		24176308 | 97703307
+	</str>
+	<str name="Priority Date">
+		2008-09-30 | 2007-10-02
+	</str>
+	<str name="Assignee(s)">
+		BLINKX UK LTD
+	</str>
+	<str name="1st Assignee">
+		BLINKX UK LTD
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Cambridge,GB
+	</str>
+	<str name="Assignee(s) Address">
+		Cambridge,GB
+	</str>
+	<str name="Inventor(s)">
+		CHANDRATILLAKE SURANGA | BEADLE ANDREW JAMES | SCHEYBELER MATT | STOCKDALE JACK
+	</str>
+	<str name="1st Inventor">
+		CHANDRATILLAKE SURANGA
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		San Francisco,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		San Francisco,CA,US | Cambridge,GB | Cambridge,GB | Cambridge,GB
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

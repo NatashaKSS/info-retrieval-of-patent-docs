@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120326963A1
+	</str>
+	<str name="Application Number">
+		US13/430626
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		FAST FINGERTIP DETECTION FOR INITIALIZING A VISION-BASED HAND TRACKER
+	</str>
+	<str name="Abstract">
+		Systems and methods for initializing real-time, vision-based hand tracking systems are described. The systems and methods for initializing the vision-based hand tracking systems image a body and receive gesture data that is absolute three-space data of an instantaneous state of the body at a point in time and space, and at least one of determine an orientation of the body using an appendage of the body and track the body using at least one of the orientation and the gesture data.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2012-03-26
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-03
+	</str>
+	<str name="Publication Date">
+		2012-12-27
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-12
+	</str>
+	<str name="All IPC">
+		G06F3/01
+	</str>
+	<str name="IPC Primary">
+		G06F3/01
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F3
+	</str>
+	<str name="All UPC">
+		345/156
+	</str>
+	<str name="UPC Primary">
+		345/156
+	</str>
+	<str name="UPC Class">
+		345
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Inventor(s)">
+		MINNEN, DAVID
+	</str>
+	<str name="1st Inventor">
+		MINNEN, DAVID
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Santa, Monica, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Santa, Monica, CA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

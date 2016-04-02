@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5552051
+	</str>
+	<str name="Application Number">
+		US07714381
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Site remediation technology
+	</str>
+	<str name="Abstract">
+		A biochemical process system and apparatus for removal of toxic volatile organic compounds (VOCs), volatile inorganic compounds (VICs), heavy metals, and surfactants from contaminated soil, liquid and gas streams, by means of combined washing, pH adjustment, biochemical reaction, gas stripping, scrubbing, adsorption and regeneration is described. This process system involves soil washing with surfactant, soil-water separation, liquid pumping; liquid treatment using an enclosed gas stripping bioreactor and dissolved air flotation technology; gas purification using a foam collector, a wet scrubber and a self-regenerative gas-phase granular activated carbon (GAC) contactor; and recycling of GAC-purified gas for further liquid treatment by gas stripping and biochemical reactions. The process system is extremely cost-effective for removal of both volatile and nonvolatile pollutants from a contaminated site and eliminates the problem of secondary gas contamination caused by conventional air stripping towers.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1991-06-11
+	</str>
+	<str name="Application Year">
+		1991
+	</str>
+	<str name="Application(Year/Month)">
+		1991-06
+	</str>
+	<str name="Publication Date">
+		1996-09-03
+	</str>
+	<str name="Publication Year">
+		1996
+	</str>
+	<str name="Publication(Year/Month)">
+		1996-09
+	</str>
+	<str name="All IPC">
+		B08B3/14 | C02F3/02
+	</str>
+	<str name="IPC Primary">
+		B08B3/14
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		210/604 | 210/631 | 210/605 | 134/42 | 134/26 | 210/626
+	</str>
+	<str name="UPC Primary">
+		210/604
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US5451320 | US5552051
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		30
+	</str>
+	<str name="Other References">
+		O'Brien, R. P. and M. H. Stenzel. &quot;Combining Granular Activated Carbon and Air Stripping.&quot; Public Works, Dec., 1984. | Stenzel, M. H. and U. S. Gupta. &quot;Treatment of Contaminated Groundwaters with Granular Activated Carbon and Air Stripping.&quot; Journal of the Air Pollution Control Assoc., Dec., 1985. | O'Brien, R. P. and J. L. Fisher. &quot;There is an Answer to Groundwater Contamination.&quot; Water/Engineering &amp; Management, May 1983.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By">
+		US8313568 | US6499493 | US7658789 | US8173431 | US6136204 | US6110361 | US5720578 | US8038881 | US6616833 | US8101089 | US8226964 | US8243274 | US8277658 | EP2006254A1 | US7041260
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US4937004 | US4407717 | US4820318 | US4859216 | US5256299 | US5122166 | US5122165 | US4752306 | US4810386 | US4623464 | US4689054 | US4846852 | US4715965 | US4956093 | US4323372 | US4952316 | US3946534 | US4966611 | US4857198 | US4892664 | GB2127711
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		71438191 | 55051590
+	</str>
+	<str name="Priority Date">
+		1991-06-11 | 1990-07-10
+	</str>
+	<str name="Assignee(s)">
+		INTERNATIONAL ENVIRONMENTAL SYSTEMS, INC.
+	</str>
+	<str name="1st Assignee">
+		INTERNATIONAL ENVIRONMENTAL SYSTEMS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Latham, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Latham, NY
+	</str>
+	<str name="Inventor(s)">
+		WANG, LAWRENCE, K. | KURYLKO, LUBOMYR | HYRCYK, OREST
+	</str>
+	<str name="1st Inventor">
+		WANG, LAWRENCE, K.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Latham, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Latham, NY | New, Providence, NJ | Syracuse, NY
+	</str>
+	<str name="Primary Examiner">
+		WYSE, THOMAS G.
+	</str>
+	<str name="cited by within 3 years">
+		3
+	</str>
+	<str name="cited by within 5 years">
+		5
+	</str>
+</doc>
+

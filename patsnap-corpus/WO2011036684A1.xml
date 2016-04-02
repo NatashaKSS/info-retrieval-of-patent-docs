@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2011036684A1
+	</str>
+	<str name="Application Number">
+		PCT/IT2009/000438
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		ALARMS SIGNALLER POWERED BY SOLAR PANEL
+	</str>
+	<str name="Abstract">
+		The invention consists in an alarm signalling device, such as siren or flash light, fed by a solar panel that maintain also the load level of the back up battery, enabling a very long autonomous working. Particularly suited to outdoor signalling devices which are wireless linked to electronic security system. It also checks the solar panel performance and indicates eventual failures.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2009-09-28
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-09
+	</str>
+	<str name="Publication Date">
+		2011-03-31
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+	<str name="All IPC">
+		A01M29/02 | H01L31/42 | H02J7/35 | G08B3/10
+	</str>
+	<str name="IPC Primary">
+		A01M29/02
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A01
+	</str>
+	<str name="IPC Subclass">
+		A01M
+	</str>
+	<str name="IPC Group">
+		A01M29
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		SGRECCIA, MASSIMO
+	</str>
+	<str name="1st Assignee">
+		SGRECCIA, MASSIMO
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Via Piemonte, 12A 61030 Calcinelli (PU) IT
+	</str>
+	<str name="Assignee(s) Address">
+		Via Piemonte, 12A 61030 Calcinelli (PU) IT
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

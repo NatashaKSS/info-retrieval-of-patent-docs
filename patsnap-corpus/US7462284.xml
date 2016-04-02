@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7462284
+	</str>
+	<str name="Application Number">
+		US10588256
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Dissimilatory sulfate reduction as a process to promote denitrification in marine recirculating aquaculture systems
+	</str>
+	<str name="Abstract">
+		The present invention relates to a novel approach for nitrate removal from a marine recirculating system (10) wherein high concentrations of sulfate found in seawater is used in combination with sludge (20) collected from fish growing tanks (12) to promote dissimilatory sulfate reduction to hydrogen sulfide. The sulfide is used as an electron source to promote autotrophic denitrification in an up-flow fix bed bioreactor (16), followed by nitrification in a nitrification unit (14). By utilizing the symbiotic relationship between the sulfate-reducing and sulfide-oxidizing bacterial community, nitrate accumulation is controlled in the recirculating water of the system thereby reducing water exchange in the marine recirculating system.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-01-31
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-01
+	</str>
+	<str name="Publication Date">
+		2008-12-09
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-12
+	</str>
+	<str name="All IPC">
+		A01K63/04 | C02F3/30
+	</str>
+	<str name="IPC Primary">
+		A01K63/04
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A01
+	</str>
+	<str name="IPC Subclass">
+		A01K
+	</str>
+	<str name="IPC Group">
+		A01K63
+	</str>
+	<str name="All UPC">
+		210/167.22 | 210/605 | 119/260 | 119/227 | 210/903 | 210/617
+	</str>
+	<str name="UPC Primary">
+		210/167.22
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7462284 | US20070163952A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Hovanec, T.A., et al., Comparative analysis of nitrifying bacteria associated with freshwater and marine aquaria, Appl. Environ. Microbiol., Aug. 1996, pp. 2888-2896, vol. 62, No. 8. cited by other . | Daims, H., et al., Novel Nitrospira-like bacteria as dominant nitrite-oxidizers in biofilms from wastewater treatment plants: diversity . . ., Water Science and Technology, 2000, pp. 85-90, vol. 41, No. 4-5. cited by other . | Van Rijn, Jaap, The potential for integrated biological treatment systems in recirculating fish culture--A review , Aquaculture, Jan. 15, 1996, pp. 181-201, vol. 139, No. 3-4. cited by other. | Kloep, Frank, et al., Performance and microbial structure of a nitrifying fluidized-bed reactor , Wat. Res., Jan. 1, 2000, pp. 311-319, vol. 34, No. 1. cited by other . | Princic, Alenka, et al., Effects of pH and Oxygen and Ammonium Concentrations on the Community Structure of Nitrifying Bacteria from Wastewater , Appl. Environ. Microbiol., Oct. 1998, pp. 3584-3590, vol. 64, No. 10. cited by other . | O'Donnell, Anthony G., et al., 16S rDNA methods in soil microbiology , Current Opin. Biotech., Jun. 1999, pp. 225-229, vol. 10, No. 3. cited by other . | Tal, Yossi, et al., Anaerobic Ammonium-Oxidizing (Anammox) Bacteria and Associated Activity in Fixed-Film Biofilters of a Marine . . . , Appl. Environ. Microbiol., Apr. 2006, pp. 2896-2904, vol. 72, No. 4. cited by other . | Strous, Marc, et al., Missing lithotroph identified as a new planctomycete, Nature, Jul. 29, 1999, pp. 446-449, vol. 400, No. 6743. cited by other . | Tal, Yossi, et al., Characterization of the microbial community and nitrogen transformation processes associated with moving bed . . . , Aquaculture, Jan. 10, 2003, pp. 187-202, vol. 215, No. 1-4. cited by other . | Megonigal, J.P., et al., Anaerobic metabolism: Linkages to trace gases and aerobic processes, Biochemistry (W.H. Schlesinger, Ed), 2004, pp. 359-361, Publisher: Elsevier-Pergamon, Published in: Oxford, UK. cited by other . | Rusten, Bjorn, et al., Moving bed biofilm reactors and chemical precipitation for high efficiency treatment of wastewater from small . . . , Water Sci. Tech., 1997, pp. 71-79, vol. 35, No. 6. cited by other . | Rusten, B., et al., Pilot testing and preliminary design of moving bed biofilm reactors for nitrogen removal at the FREVAR wastewater . . . , Water Sci. Tech., 2000, pp. 13-20, vol. 41, No. 4-5. cited by other .
+	</str>
+	<str name="Other References Count">
+		12
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5660142 | US7025883 | US5078884 | US6616844 | US5482630 | US5232586 | JP2002159992 | WO1998007664 | WO2003065798
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		58825605 | 54056604 | 2005002745
+	</str>
+	<str name="Priority Date">
+		2005-01-31 | 2004-01-30 | 2005-01-31
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF MARYLAND BIOTECHNOLOGY INSTITUTE
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF MARYLAND BIOTECHNOLOGY INSTITUTE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Baltimore, MD
+	</str>
+	<str name="Assignee(s) Address">
+		Baltimore, MD
+	</str>
+	<str name="Inventor(s)">
+		SCHREIER, HAROLD, J. | TAL, YOSSI
+	</str>
+	<str name="1st Inventor">
+		SCHREIER, HAROLD, J.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Baltimore, MD
+	</str>
+	<str name="Inventor(s) Address">
+		Baltimore, MD | Baltimore, MD
+	</str>
+	<str name="Agent/Attorney">
+		HULTQUIST, STEVEN J. INTELLECTUAL PROPERTY/TECHNOLOGY LAW REYNOLDS, KELLY
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

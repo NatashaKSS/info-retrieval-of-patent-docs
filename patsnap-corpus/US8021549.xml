@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8021549
+	</str>
+	<str name="Application Number">
+		US11865897
+	</str>
+	<str name="Title">
+		Method and apparatus for producing potable water from seawater using forward osmosis
+	</str>
+	<str name="Abstract">
+		A method and apparatus for desalinating seawater which uses an ammonia bicarbonate forward osmosis desalination process. Seawater is pumped through one side of a membrane assembly. A draw solution is pumped through the other side of the membrane assembly. The draw solution withdraws water molecules from the seawater through the membrane into the draw solution. A draw solution separator receives a heated draw solution which then decomposes into ammonia, carbon dioxide and water. Potable water is separated from ammonia has and carbon dioxide gas. The ammonia gas and carbon dioxide gas are recombined with a portion of the potable water stream to reform the ammonium bicarbonate draw solution.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-10-02
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2011-09-20
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		B01D61/58 | B01D61/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/58
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/257.2 | 210/321.66 | 210/652 | 210/651 | 210/202 | 210/321.6 | 210/649 | 210/192
+	</str>
+	<str name="UPC Primary">
+		210/257.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20050145568 | US20060144789 | US3929600 | US3617547 | US3130156
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Assignee(s)">
+		THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRETARY OF THE NAVY
+	</str>
+	<str name="1st Assignee">
+		THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRETARY OF THE NAVY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Washington, DC
+	</str>
+	<str name="Assignee(s) Address">
+		Washington, DC
+	</str>
+	<str name="Inventor(s)">
+		KIRTS, RICHARD, EUGENE
+	</str>
+	<str name="1st Inventor">
+		KIRTS, RICHARD, EUGENE
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Oxnard, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Oxnard, CA
+	</str>
+	<str name="Agent/Attorney">
+		BLACKBURN, CHRISTOPHER L. KALMBAUGH, DAVID S.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

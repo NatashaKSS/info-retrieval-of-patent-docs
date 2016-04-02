@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7407583
+	</str>
+	<str name="Application Number">
+		US11090380
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		In-situ groundwater nitrification and de-nitrification remediation system
+	</str>
+	<str name="Abstract">
+		A method of in-situ groundwater nitrification, by: extracting groundwater from the ground; adding oxygen to the extracted groundwater; adding nutrients to the extracted groundwater; and injecting the groundwater back into the ground, wherein the oxygen reacts with in-situ nitrifying bacteria to oxidize ammonia to nitrate, and wherein the nutrients encourage the nitrifying bacteria to grow and reproduce. A method of in-situ groundwater de-nitrification, by: extracting the groundwater from the ground; adding carbon to the extracted groundwater; adding nutrients to the extracted groundwater; and injecting the groundwater back into the ground, wherein the carbon reacts with in-situ de-nitrifying bacteria to reduce nitrate to nitrogen gas, and wherein the nutrients encourage the de-nitrifying bacteria to grow and reproduce.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-03-25
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2008-08-05
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		C02F3/02
+	</str>
+	<str name="IPC Primary">
+		C02F3/02
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/758 | 210/610 | 210/620 | 166/246
+	</str>
+	<str name="UPC Primary">
+		210/758
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060213830A1 | US20070221573A2 | US20090026134A1 | US7407583
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20030066761 | US20020046972 | US6572773 | US4683064 | US6524842 | US4401569 | US5221159 | US5653288 | US5975800 | US6551815 | US20040007524 | US5384048 | US5829918 | US3846290 | US20030029792 | US20040245173 | US4749491 | US20030037924 | US20060086663 | US20020134733 | US6312605 | US5480549 | US6599425 | US5178491 | EP0625126 | EP0315526
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		9038005 | 58041504
+	</str>
+	<str name="Priority Date">
+		2005-03-25 | 2004-06-16
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY TECHNOLOGIES INTERNATIONAL, LLP
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY TECHNOLOGIES INTERNATIONAL, LLP
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Alberta, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Alberta, CA
+	</str>
+	<str name="Inventor(s)">
+		MAILATH, STEPHEN, B. | CHU, ANN, CHIEN
+	</str>
+	<str name="1st Inventor">
+		MAILATH, STEPHEN, B.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Calgary, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Calgary, CA | Calgary, CA
+	</str>
+	<str name="Agent/Attorney">
+		BUCHANAN INGERSOLL &amp; ROONEY PC
+	</str>
+	<str name="Primary Examiner">
+		BUSHEY, SCOTT
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

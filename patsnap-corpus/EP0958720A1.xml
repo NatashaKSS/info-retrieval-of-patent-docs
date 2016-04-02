@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP0958720A1
+	</str>
+	<str name="Application Number">
+		EP1998902343
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		METHOD AND DEVICE FOR COOLING OF ELECTRONIC/COMPUTER EQUIPMENT AND USE THEREOF
+	</str>
+	<str name="Abstract">
+		The invention relates to a cooling system for cooling of electronic/computer equipment in a station, where the equipment is arranged in an equipment room. The system includes a cooling battery (18) and a fan device (19), where the fan device (19) causes a heat exchanging air circulation between battery (18) and equipment where the air, via air guiding device (38), is guided from the battery (18) to the equipment. According to the invention there is in the air guiding device (38) a first chamber (31) with an inlet (37) which communicates with the battery (18), and a second chamber (32) with an outlet (39) which communicates with the equipment. The first and second chambers are separated by a low impulse device (30), preferably in form of a perforated partition wall equipped with filter cloth. By that is effected that the turbulant flow of the air which leaves the fan (19) changes to laminar flow when it flows towards the equipment, so that no warm surrounding air is mixed into the air flow. The invention also relates to a special air guiding device intended to be used at such a system, and a procedure for cooling, which procedure is based on what is applied in the system.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-01-30
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-01
+	</str>
+	<str name="Publication Date">
+		1999-11-24
+	</str>
+	<str name="Publication Year">
+		1999
+	</str>
+	<str name="Publication(Year/Month)">
+		1999-11
+	</str>
+	<str name="All IPC">
+		H05K7/20 | G12B15/04
+	</str>
+	<str name="IPC Primary">
+		H05K7/20
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="Family Members">
+		EP0958720B1 | EE9900335A | NO993391A | DE69819688T2 | NO993391D0 | US6397933 | DK958720T3 | WO1998034450A1 | SE9700411L | EE04386B1 | DE69819688D1 | NO323837B1 | EP0958720A1 | SE9700411A | SE9700411D0 | SE511417C2
+	</str>
+	<str name="Family Member Count">
+		16
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		See references of WO     9834450A1
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Priority Country">
+		SE
+	</str>
+	<str name="Priority Number">
+		9700411
+	</str>
+	<str name="Priority Date">
+		1997-02-04
+	</str>
+	<str name="Assignee(s)">
+		TELIA AB (PUBL)
+	</str>
+	<str name="1st Assignee">
+		TELIA AB (PUBL)
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		ENLUND, SVANTE
+	</str>
+	<str name="1st Inventor">
+		ENLUND, SVANTE
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

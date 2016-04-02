@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7955853
+	</str>
+	<str name="Application Number">
+		US11782246
+	</str>
+	<str name="Title">
+		Method and device for creating and analyzing an at temerature and pressure oxidation-reduction potential signature in hot water systems for preventing corrosion
+	</str>
+	<str name="Abstract">
+		Disclosed is a method of creating a real-time oxidation-reduction potential signature in a hot water system to detect REDOX stress and inhibit corrosion in the hot water system. The method includes defining one or more operational protective zones in the hot water system. One or more of the operational protective zones includes an oxidation-reduction potential probe that is operable to measure a real-time oxidation-reduction potential in the hot water system at operating temperature and pressure. The probe transmits the measured real-time potential to the controller, which analyzes and interprets the transmitted potential to create an oxidation-reduction potential signature for the hot water system. If the signature does not conform to an oxidation-reduction potential setting, the controller is operable to feed one or more active chemical species into the hot water system.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-07-24
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-07
+	</str>
+	<str name="Publication Date">
+		2011-06-07
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+	<str name="All IPC">
+		G01N31/00 | G05B21/00 | G01N27/26 | G01N27/416 | C02F1/00
+	</str>
+	<str name="IPC Primary">
+		G01N31/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N31
+	</str>
+	<str name="All UPC">
+		436/2 | 210/746 | 210/743 | 204/433 | 324/438 | 436/6 | 204/408 | 700/266 | 210/96.1 | 204/164 | 210/696
+	</str>
+	<str name="UPC Primary">
+		436/2
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20060157420 | US6391256 | US20090026144 | US6402984 | US4269717 | US20080179179 | US5236845 | US4775005 | US4574071 | US20030004681 | JP2003254503 | WO2005002213
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Assignee(s)">
+		NALCO COMPANY
+	</str>
+	<str name="1st Assignee">
+		NALCO COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Naperville, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Naperville, IL
+	</str>
+	<str name="Inventor(s)">
+		HICKS, PETER, D. | GRATTAN, DAVID, A.
+	</str>
+	<str name="1st Inventor">
+		HICKS, PETER, D.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Aurora, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Aurora, IL | Bolingbrook, IL
+	</str>
+	<str name="Agent/Attorney">
+		YONTER, EDWARD O. MARTIN, MICHAEL B.
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH
+	</str>
+	<str name="Assistant Examiner">
+		WECKER, JENNIFER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

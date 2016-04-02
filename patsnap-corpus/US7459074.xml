@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7459074
+	</str>
+	<str name="Application Number">
+		US11932877
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Waste water filtering system
+	</str>
+	<str name="Abstract">
+		A waste water filtration system filters polluted waste water from various waste water sources including fire sprinkler systems and fire hydrants. The system includes a clear flexible hose connecting a female swivel connection on, for example, a Fire Department Connection (FDC) to a mobile filtering system. The clear hose allows the observation of a waste water flow from the waste water source to ensure that a complete flushing has been accomplished. The filtering system includes a stainer to capture large particles, a filter to capture small particles, and a chemically selective sponge to capture, for example, oil, and destroy bacteria. The filtering system allows compliance with NFPA Standards, California State Fire Marshal's &quot;Title 19 Regulations for maintaining fire sprinkler systems, and Federal Clean Water laws, Federal Coastal Zone laws, and local city ordinances for releasing liquids into storm drains.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-10-31
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2008-12-02
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-12
+	</str>
+	<str name="All IPC">
+		B01D35/00
+	</str>
+	<str name="IPC Primary">
+		B01D35/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D35
+	</str>
+	<str name="All UPC">
+		210/94
+	</str>
+	<str name="UPC Primary">
+		210/94
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7459074 | WO2009017917A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8268179 | US8323493 | US8153001
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US4795556 | US20070039978 | US5662791
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		93287707 | 82983007
+	</str>
+	<str name="Priority Date">
+		2007-10-31 | 2007-07-27
+	</str>
+	<str name="Inventor(s)">
+		SANCHEZ, ROBERT, M.
+	</str>
+	<str name="1st Inventor">
+		SANCHEZ, ROBERT, M.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		La, Habra, CA
+	</str>
+	<str name="Inventor(s) Address">
+		La, Habra, CA
+	</str>
+	<str name="Agent/Attorney">
+		GREEN, KENNETH L. AVERILL, JR., EDGAR W.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

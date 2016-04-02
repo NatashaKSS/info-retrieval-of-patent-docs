@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8043507
+	</str>
+	<str name="Application Number">
+		US11955083
+	</str>
+	<str name="Title">
+		Ion chromatography system using catalytic gas elimination
+	</str>
+	<str name="Abstract">
+		A liquid chromatographic system is provided including catalytically combining hydrogen and oxygen gases in the chromatography eluent stream in a catalytic gas elimination chamber, to form water and thereby reduce the gas content in the eluent stream. Also, a liquid ion chromatographic system in which the effluent from the detector is recycled to a membrane suppressor and then is mixed with a source of eluent for recycle to the chromatographic column.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-12-12
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-12
+	</str>
+	<str name="Publication Date">
+		2011-10-25
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/198.2 | 205/789 | 422/70 | 210/635 | 210/656
+	</str>
+	<str name="UPC Primary">
+		210/198.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Hoffman, R., &quot;Dobereiner's lighter,&quot; Am. Sci. Online 86(4):326 (Jul.-Aug. 1998). cited by other . | Sobczyk, D.P., et al., &quot;Activation of ammonia dissociation by oxygen on platinum sponge studied with positron emission profiling,&quot; J. Catalysis 219(1):156-166 (Oct. 2003). cited by other. | Kim, Y.J., &quot;Effect of noble metal addition on electrochemical polarization behavior of H.sub.2 oxidation and O.sub.2 reduction on 304SS in high-temperature water,&quot; GE Res. Dev. Ctr. 97CRD203, Class 1 (Feb. 1998). cited by other . | Owens, G., et al., &quot;Demonstrating catalysis with a bang!,&quot; Chem. Educator 1(4):1-4 (1996). cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		US8308952
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5248426 | US7585679 | US7473354 | US6315954 | US6027643 | US5352360 | US3230046 | US20040048389 | US6225129 | US6558551 | US6036921 | US6562628 | US6093327 | US6316270 | US6316271 | US6682701 | US20070062873 | US5045204 | WO1998032011 | EP1205750 | WO1999056849 | EP0555962
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Assignee(s)">
+		DIONEX CORPORATION
+	</str>
+	<str name="1st Assignee">
+		DIONEX CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Sunnyvale, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Sunnyvale, CA
+	</str>
+	<str name="Inventor(s)">
+		LIU, YAN | POHL, CHRISTOPHER, A. | AVDALOVIC, NEBOJSA | RIVIELLO, JOHN, M. | SIRIRAKS, ARCHAVA
+	</str>
+	<str name="1st Inventor">
+		LIU, YAN
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Palo, Alto, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Palo, Alto, CA | Union, City, CA | Cupertino, CA | Santa, Cruz, CA | Bangkok, TH
+	</str>
+	<str name="Agent/Attorney">
+		MORGAN, LEWIS &amp; BOCKIUS, LLP BREZNER, DAVID J. ELLIS, GREGORY C.
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

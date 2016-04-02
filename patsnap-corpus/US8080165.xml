@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8080165
+	</str>
+	<str name="Application Number">
+		US12/238223
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Systems and methods for disinfection
+	</str>
+	<str name="Abstract">
+		Methods and systems for establishing Taylor-Couette flow in a fluid are provided. Aspects of the disclosed methods and systems incorporate laminar Taylor-Couette flow in combination with a source of radiation to provide more uniform radiation exposure to the fluid and its components. Common problems of non-uniform radiation levels and concentration boundary layer effects in UV reactors are largely eliminated using the methods and devices provided herein. In an exemplary embodiment, the reactor of the present disclosure has a hollow outer cylinder or stator and a rotor positioned therein and smooth walls for both the outer wall of its rotor and the inner wall of the outer cylinder or stator in which the rotor is positioned, the space between which forming the annular fluid gap.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-09-25
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-09
+	</str>
+	<str name="Publication Date">
+		2011-12-20
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		C02F1/32 | C02F1/34 | C02F1/48 | C02F1/00 | A61L2/00
+	</str>
+	<str name="IPC Primary">
+		C02F1/32
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/748.1 | 210/748.01 | 210/748.11 | 422/24 | 422/22
+	</str>
+	<str name="UPC Primary">
+		210/748.1
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		US. Appl. No. 60/384,559, Schoendorfer, D. W., May 30, 2002. cited by examiner . | Walkenstrom, P. et al., &quot;Effects of flow behaviour on the aggregation of whey protein suspensions, pure or mixed with xanthan&quot;, Journal of Food Engineering, 42(1999) 15-26. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US20060054549 | US6576201 | US6471392 | US5993674 | US4963750
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Assignee(s)">
+		GEORGIA TECH RESEARCH CORPORATION
+	</str>
+	<str name="1st Assignee">
+		GEORGIA TECH RESEARCH CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Atlanta, GA
+	</str>
+	<str name="Assignee(s) Address">
+		Atlanta, GA
+	</str>
+	<str name="Inventor(s)">
+		FORNEY, LARRY
+	</str>
+	<str name="1st Inventor">
+		FORNEY, LARRY
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Doraville, GA
+	</str>
+	<str name="Inventor(s) Address">
+		Doraville, GA
+	</str>
+	<str name="Agent/Attorney">
+		THOMAS, KAYDEN, HORSTEMEYER &amp; RISLEY, LLP
+	</str>
+	<str name="Primary Examiner">
+		JOYNER, KEVIN
+	</str>
+	<str name="Assistant Examiner">
+		YOO, REGINA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

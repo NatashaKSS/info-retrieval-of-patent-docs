@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5583949
+	</str>
+	<str name="Application Number">
+		US08468517
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Apparatus and method for use in image processing
+	</str>
+	<str name="Abstract">
+		Optical character recognition is achieved by a system which comprises a scanner for scanning a document, an edge extractor for identifying edges in the image produced by the scanner to produce an outline of each object identified in the image, a segmentation facility for grouping the object outlines into blocks, means for identifying features of the outlines, and a final classification stage for providing data in an appropriate format representative of the characters in the image. Also disclosed are a novel edge extractor, a novel page segmentation facility and a novel feature extraction facility.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-06-06
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-06
+	</str>
+	<str name="Publication Date">
+		1996-12-10
+	</str>
+	<str name="Publication Year">
+		1996
+	</str>
+	<str name="Publication(Year/Month)">
+		1996-12
+	</str>
+	<str name="All IPC">
+		G06K9/48
+	</str>
+	<str name="IPC Primary">
+		G06K9/48
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/199 | 382/203
+	</str>
+	<str name="UPC Primary">
+		382/199
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US5583949
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References">
+		A. D. C. Holder, et al., &quot;A Feasible Computer System for Grey Level, Pictorial Pattern Recognition&quot;, Pattern Recognition, Sep. 1975, vol. 3, pp. 147-156. | J. G. Leu, et al., &quot;Polygonal Approximation of 2-D shapes . . . &quot; Pattern Recognition Letters, Apr. 1988, vol. 7, No. 4, pp. 231-238. | L. T. Watson et al., &quot;Extraction of Lines and Regions for Gray Tone Line Drawing Image&quot; Pattern Recognition, 1984, vol. 17. No. 5, pp. 493-507. | A. Kundu, et al., &quot;Recognition of Handwritten Script . . . &quot; IEEE Proceedings, Apr. 14, 1988, vol. II, pp. 928-931. | K. Yamamoto, &quot;Recognition of Handprinted Characters . . . &quot; IEEE Proceedings, Dec. 4, 1980, vol. I, pp. 708-711. | S. N. Biswas, et al., &quot;Region Symmetry Analysis . . . &quot; IEEE Proceedings, Oct. 31, 1986, pp. 427-429. | E. Hundt, &quot;Digital Image Processing . . . &quot; Siemens Forschungs,1983, vol. 12, No. 4, pp. 250-257.
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By">
+		US5801966 | US6459810 | US7657120 | US7480411 | US7639861 | US7583840 | US8380009 | US8045812 | WO2004084138A2 | US8165402 | CN100527156C | US5872870 | US5933529 | US6298149 | US6259827
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US4504969 | US4833721 | US4754489 | US4899225 | US4213150 | US4566124 | US3925760 | US5131053 | US4680805 | US5185809 | US4712248
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		89302122
+	</str>
+	<str name="Priority Date">
+		1989-03-03
+	</str>
+	<str name="Assignee(s)">
+		HEWLETT-PACKARD COMPANY
+	</str>
+	<str name="1st Assignee">
+		HEWLETT-PACKARD COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Palo Alto, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Palo Alto, CA
+	</str>
+	<str name="Inventor(s)">
+		SMITH, RAYMOND, W. | ROBSON, CHRISTOPHER, J.
+	</str>
+	<str name="1st Inventor">
+		SMITH, RAYMOND, W.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Bristol, GB2
+	</str>
+	<str name="Inventor(s) Address">
+		Bristol, GB2 | Bristol, GB2
+	</str>
+	<str name="Primary Examiner">
+		COUSO, YON J.
+	</str>
+	<str name="cited by within 3 years">
+		25
+	</str>
+	<str name="cited by within 5 years">
+		35
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5058401
+	</str>
+	<str name="Application Number">
+		US07456167
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Washing, dehydrating and drying machine
+	</str>
+	<str name="Abstract">
+		In the machine of this invention, a rotation-support member is provided in an outer tub for containing water so that the rotation-support member can rotate about a vertical axis. The rotation-support member supports a perforated inner tub rotatable about a horizontal axis. A heating means heats air in the inner tub. When the laundry is washed or rinsed, the laundry is loaded in the inner tub, water is supplied to the outer tub until the water reaches inside the inner tub, and the inner tub is rotated about the horizontal axis. The laundry is prevented from jumping out of the inner tub during the washing and rinsing process due to boards or net provided in the inner tub. When the washed or rinsed laundry is dehydrated, water is drained from the outer tub, the rotation-support member and the inner tub are rotated together about the vertical axis in the same direction at the same high speed. When the dehydrated laundry is dried, the inner tub is rotated about the horizontal axis, heated air is supplied to the inner tub, and the laundry is uniformly exposed to the air to dry. The humid air used for drying the laundry is dehumidified, moisture in the air is drained to the outside, and dehumidified air is recirculated in the machine. The machine of this invention shifts from one process to another without changing its attitude. Consequently, the machine is simply constructed and inexpensively manufactured.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1989-12-22
+	</str>
+	<str name="Application Year">
+		1989
+	</str>
+	<str name="Application(Year/Month)">
+		1989-12
+	</str>
+	<str name="Publication Date">
+		1991-10-22
+	</str>
+	<str name="Publication Year">
+		1991
+	</str>
+	<str name="Publication(Year/Month)">
+		1991-10
+	</str>
+	<str name="All IPC">
+		D06F23/00
+	</str>
+	<str name="IPC Primary">
+		D06F23/00
+	</str>
+	<str name="IPC Section">
+		D
+	</str>
+	<str name="IPC Class">
+		D06
+	</str>
+	<str name="IPC Subclass">
+		D06F
+	</str>
+	<str name="IPC Group">
+		D06F23
+	</str>
+	<str name="All UPC">
+		68/20 | 68/19.2 | 68/25
+	</str>
+	<str name="UPC Primary">
+		68/20
+	</str>
+	<str name="UPC Class">
+		68
+	</str>
+	<str name="Family Members">
+		US5058401 | EP0378926A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		10
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US5537761 | WO1996023925A1 | US5457969 | US6691359 | US7021089 | US6012306 | US7246510 | US6434857 | US6336348 | US6332343
+	</str>
+	<str name="Cited By Count">
+		10
+	</str>
+	<str name="Cites">
+		US2893135 | US2171499 | US4114406 | US2057259 | US2283612 | US4782544 | US2142995 | US2114776 | US2556303 | US2868004 | US2559708 | JP1986196993 | FR1309094 | DE455418
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		63325444 | 183289 | 189148 | 189149 | 1201970
+	</str>
+	<str name="Priority Date">
+		1988-12-22 | 1989-03-31 | 1989-04-06 | 1989-04-06 | 1989-08-03
+	</str>
+	<str name="Assignee(s)">
+		BROTHER KOGYO KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		BROTHER KOGYO KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Aichi, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Aichi, JP
+	</str>
+	<str name="Inventor(s)">
+		NAKAMURA, FUMIO | SHIMANO, MASAYOSHI | SAKAKIBARA, KAORU | ARAKAWA, MASAYUKI
+	</str>
+	<str name="1st Inventor">
+		NAKAMURA, FUMIO
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Toyokawa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Toyokawa, JP | Okazaki, JP | Nagoya, JP | Nagoya, JP
+	</str>
+	<str name="Agent/Attorney">
+		OLIFF &amp; BERRIDGE
+	</str>
+	<str name="Primary Examiner">
+		COE, PHILIP R.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

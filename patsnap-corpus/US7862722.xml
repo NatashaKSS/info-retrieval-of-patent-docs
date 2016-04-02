@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7862722
+	</str>
+	<str name="Application Number">
+		US12142405
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Sewage treatment control device, method, and sewage treatment system
+	</str>
+	<str name="Abstract">
+		A sewage treatment control device, a method and a sewage treatment system, are disclosed. In one example, the sewage treatment control device includes measuring units having sensors for inspecting specific components in water, respectively; validity verification units connected to the measuring units to determine validities for measured component values, respectively; target value setting units connected to the validity verification units to set target values for the component values measured in the measuring units, respectively; a manual setting unit for setting a target value depending on a component value inputted by an operator; a signal selection unit for allowing either one of the respective target value setting units or the manual setting unit to be connected; a proportional-integral-derivative control unit for performing proportional, integral or derivative action for the target value inputted from the signal selection unit to convert the target value into a control signal; and a manipulation unit for manipulating a sewage treatment apparatus depending on the control signal converted in the proportional-integral-derivative control unit.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-06-19
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-06
+	</str>
+	<str name="Publication Date">
+		2011-01-04
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-01
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/746 | 210/739 | 210/614 | 210/143
+	</str>
+	<str name="UPC Primary">
+		210/746
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6535795
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020070061878
+	</str>
+	<str name="Priority Date">
+		2007-06-22
+	</str>
+	<str name="Assignee(s)">
+		TAI WHA LEASE INDUSTRIAL CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		TAI WHA LEASE INDUSTRIAL CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Seoul, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s)">
+		MOON, YOUNG, HAK
+	</str>
+	<str name="1st Inventor">
+		MOON, YOUNG, HAK
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		PARADIES, CHRISTOPHER FOWLER WHITE BOGGS P.A.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

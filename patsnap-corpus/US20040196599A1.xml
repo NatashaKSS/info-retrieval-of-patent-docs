@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20040196599A1
+	</str>
+	<str name="Application Number">
+		US10743304
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Battery for portable electronic device
+	</str>
+	<str name="Abstract">
+		A portable electronic device having a body having a first contact protrusion and a second contact protrusion at a side for receiving an external power supply, and a third contact protrusion for receiving a power status, and a battery device having a first contact terminal, a second contact terminal and a third contact terminal for connecting with the first to third contact protrusions of the body to provide the body with the power supply and the power status. The battery device has the first and the second contact terminals which are longer than the third contact terminal in a first direction and a second direction by a predetermined distance, respectively, to maintain the first and second contact terminals in contact with the respective contact protrusions longer than the third contact terminal.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-12-23
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-12
+	</str>
+	<str name="Publication Date">
+		2004-10-07
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-10
+	</str>
+	<str name="All IPC">
+		H02H7/00
+	</str>
+	<str name="IPC Primary">
+		H02H7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02H
+	</str>
+	<str name="IPC Group">
+		H02H7
+	</str>
+	<str name="All UPC">
+		361/18
+	</str>
+	<str name="UPC Primary">
+		361/18
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US20040196599A1 | KR1020040059714A
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		CN101212135B
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		200286119
+	</str>
+	<str name="Priority Date">
+		2002-12-28
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-Si,KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-Si,KR
+	</str>
+	<str name="Inventor(s)">
+		JONG-BOO KIM
+	</str>
+	<str name="1st Inventor">
+		JONG-BOO KIM
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Suwon,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Suwon,KR
+	</str>
+	<str name="Agent/Attorney">
+		STAAS &amp; HALSEY LLP
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

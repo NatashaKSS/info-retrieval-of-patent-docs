@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP0988113A4
+	</str>
+	<str name="Application Number">
+		EP19980926389
+	</str>
+	<str name="Kind Code">
+		A4
+	</str>
+	<str name="Title">
+		LIQUID SPRAYING SYSTEM FOR FINE MISTING AND HUMIDIFICATION
+	</str>
+	<str name="Abstract">
+		A liquid spraying system for maintaining a predetermined amount of moisture in an environment, particularly suited for use on produce displayed in a produce display. The system operates in a manner that purposely introduces air into liquid flowing through the system to ultimately spray a fine mist into an environment. The use of a venturi injector in a preferred embodiment allows for the introduction of air into the system while eliminating the need for an added air compressor. The uniform mixture of air and water then flows through a liquid pump, and alternatively an expansion tank, and can be delivered to one or more nozzle assemblies at a predetermined pressure. The air liquid mixture exits nozzles in mist form that has small liquid droplets forming a fine mist which is propelled outward from the nozzle. In alternate embodiments, liquid flowing through the system that does not initially exit through the nozzles can be recirculated through the system by a return line that allows the non-sprayed mist liquid to flow back through the system and be recycled.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-06-08
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-06
+	</str>
+	<str name="Publication Date">
+		2001-05-09
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-05
+	</str>
+	<str name="All IPC">
+		A47F3/04 | B05B7/04 | B05B7/26 | B05B15/06
+	</str>
+	<str name="IPC Primary">
+		A47F3/04
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A47
+	</str>
+	<str name="IPC Subclass">
+		A47F
+	</str>
+	<str name="IPC Group">
+		A47F3
+	</str>
+	<str name="Family Members">
+		EP0988113A4 | EP0988113A1 | US5961047
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		WO | US | US | US
+	</str>
+	<str name="Priority Number">
+		1998US11764 | 19970049814P | 19980083603P | 19980088343
+	</str>
+	<str name="Priority Date">
+		1998-06-08 | 1997-06-17 | 1998-04-30 | 1998-06-01
+	</str>
+	<str name="Assignee(s)">
+		OVEL SYSTEMS, INC
+	</str>
+	<str name="1st Assignee">
+		OVEL SYSTEMS, INC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		KLEINBERGER, ITAMAR
+	</str>
+	<str name="1st Inventor">
+		KLEINBERGER, ITAMAR
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

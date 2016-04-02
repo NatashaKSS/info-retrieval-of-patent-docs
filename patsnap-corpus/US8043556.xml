@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8043556
+	</str>
+	<str name="Application Number">
+		US11795390
+	</str>
+	<str name="Title">
+		Ablutionary installations
+	</str>
+	<str name="Abstract">
+		An ablutionary installation including a mixing valve having respective inlets for hot and cold water and an outlet for temperature controlled water, a temperature sensor for monitoring outlet water temperature and providing a signal representative of the outlet water temperature to an electronic controller, a user interface permitting selection of outlet water temperature up to a pre-determined temperature, the electronic controller being operable to compare the selected and sensed outlet water temperatures for controlling the mixing valve to adjust the ratio of hot and cold water delivered to the outlet according to the selected outlet water temperature, and apparatus for initiating a disinfection cycle to deliver water to the outlet at a temperature higher than the pre-determined temperature, wherein the initiating apparatus includes an operating sequence with at least two inputs.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-01-18
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-01
+	</str>
+	<str name="Publication Date">
+		2011-10-25
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		F16K31/00 | G05D11/00 | G05D23/13 | E03B7/07 | E03B1/00 | B01D21/30 | B01D35/18 | G01D11/26 | A61L2/00
+	</str>
+	<str name="IPC Primary">
+		F16K31/00
+	</str>
+	<str name="IPC Section">
+		F
+	</str>
+	<str name="IPC Class">
+		F16
+	</str>
+	<str name="IPC Subclass">
+		F16K
+	</str>
+	<str name="IPC Group">
+		F16K31
+	</str>
+	<str name="All UPC">
+		422/260 | 236/12.1 | 210/149 | 137/3 | 210/175 | 137/551 | 137/337 | 210/143 | 422/38 | 137/88 | 137/455 | 210/85 | 422/1 | 210/749 | 210/766 | 210/739 | 422/114 | 210/764 | 422/116 | 422/108 | 210/742 | 422/119 | 422/107 | 137/87.03
+	</str>
+	<str name="UPC Primary">
+		422/260
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Office Action dated Apr. 27, 2011 from the Japanese Patent Office in Japanese patent application No. 2007-550856. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20040149831 | US5294045 | US20020050478 | US20020179723 | US20020153425 | US4923116 | DE4039623 | JP1998328668 | WO2002012760 | JP1998311078 | WO1997000470 | JP2004024513
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		0500970.9
+	</str>
+	<str name="Priority Date">
+		2005-01-18
+	</str>
+	<str name="Assignee(s)">
+		KOHLER MIRA LIMITED
+	</str>
+	<str name="1st Assignee">
+		KOHLER MIRA LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Gloucestershire, GB
+	</str>
+	<str name="Assignee(s) Address">
+		Gloucestershire, GB
+	</str>
+	<str name="Inventor(s)">
+		PEEL, KEVIN | SHEPHERD, TIMOTHY, JAMES | WHALE, GEOFFREY, HAWKE | VIGARS, PAUL | BECK, NICHOLAS, JOHN
+	</str>
+	<str name="1st Inventor">
+		PEEL, KEVIN
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Abbeymead, GB
+	</str>
+	<str name="Inventor(s) Address">
+		Abbeymead, GB | Cirencester, GB | Nailsworth, GB | Fishponds, GB | Tewkesbury, GB
+	</str>
+	<str name="Agent/Attorney">
+		GREER, BURNS &amp; CRAIN, LTD.
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		CHORBAJI, MONZER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

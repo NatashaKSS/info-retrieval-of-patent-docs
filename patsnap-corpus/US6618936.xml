@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6618936
+	</str>
+	<str name="Application Number">
+		US09779428
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for configuring a portable computer with a battery housing
+	</str>
+	<str name="Abstract">
+		A system and method are disclosed for configuring a portable computer comprises encasing the computer in an enclosure, providing battery slot defined by at least one wall of the enclosure, encasing a battery pack in a battery pack housing, inserting the battery pack into the battery slot and interweaving a wall of the battery pack housing with a wall of the enclosure defining the slot so that a portion of the battery pack housing projects into the battery slot. The system and method may also comprise providing a portal in a first wall associated with a computer enclosure and inserting a battery pack having a second wall into the enclosure wherein a structural region of the second wall of the battery pack extends into the portal.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-02-08
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-02
+	</str>
+	<str name="Publication Date">
+		2003-09-16
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-09
+	</str>
+	<str name="All IPC">
+		H05K3/30
+	</str>
+	<str name="IPC Primary">
+		H05K3/30
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K3
+	</str>
+	<str name="All UPC">
+		361/686 | 29/592.1 | 361/683 | 29/830 | 29/832
+	</str>
+	<str name="UPC Primary">
+		361/686
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US20010004801A1 | US6224996 | US6618936
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6224996 | US6306538 | US5567542 | US5506749 | US5459388 | US5466545 | US5534366 | US5300125 | US4926365 | US4091187
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		77942801 | 13831898
+	</str>
+	<str name="Priority Date">
+		2001-02-08 | 1998-08-21
+	</str>
+	<str name="Assignee(s)">
+		HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P.
+	</str>
+	<str name="1st Assignee">
+		HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Houston, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s)">
+		BOVIO, MICHELE | FRAME, ROBERT
+	</str>
+	<str name="1st Inventor">
+		BOVIO, MICHELE
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Boston, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Boston, MA | Westboro, MA
+	</str>
+	<str name="Primary Examiner">
+		ARBES, CARL J.
+	</str>
+	<str name="Assistant Examiner">
+		NGUYEN, TAI
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

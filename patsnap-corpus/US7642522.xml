@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7642522
+	</str>
+	<str name="Application Number">
+		US11720297
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Device for irradiating liquids with UV radiation in a throughflow
+	</str>
+	<str name="Abstract">
+		The invention relates to a device for irradiating an absorbing liquid, for example waste water to be disinfected, in a throughflow. Said device comprises at least two radiator units having one cylindrical UV radiation source and three concentric sheaths. A cooling medium for carrying off heat from the UV radiation source flows in a hollow space between the inner and the center sheath. The inventive device allows to use high-performance UV radiation sources and to evenly irradiate the zones of irradiation and prevents floating particles from settling down on the radiator units.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-02
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2010-01-05
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		G01N21/01 | G01N21/51 | G01N23/12 | G01N23/10
+	</str>
+	<str name="IPC Primary">
+		G01N21/01
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N21
+	</str>
+	<str name="All UPC">
+		250/437 | 422/128 | 250/436 | 422/906 | 250/435 | 210/177 | 422/24 | 250/429 | 210/232 | 210/205 | 422/20 | 422/186.3 | 250/504R | 210/85 | 422/110 | 210/105
+	</str>
+	<str name="UPC Primary">
+		250/437
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		EP1817063B1 | DE102004058405A1 | US20080210884A1 | DE102004058405B4 | CA2589100A1 | DE502005008596D1 | US7642522 | WO2006058909A1 | EP1817063A1 | AT449616T
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5505912 | US20050269521 | US5124131 | US5725757 | WO1991009673 | WO1997008099
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102004058405
+	</str>
+	<str name="Priority Date">
+		2004-12-03
+	</str>
+	<str name="Assignee(s)">
+		DELTA UV SERVICE SYSTEME
+	</str>
+	<str name="1st Assignee">
+		DELTA UV SERVICE SYSTEME
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Leopoldshohe, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Leopoldshohe, DE
+	</str>
+	<str name="Inventor(s)">
+		EGBERTS, GERHARD
+	</str>
+	<str name="1st Inventor">
+		EGBERTS, GERHARD
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Bad, Salzuflen, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Bad, Salzuflen, DE
+	</str>
+	<str name="Agent/Attorney">
+		MARGER JOHNSON &amp; MCCOLLOM, P.C.
+	</str>
+	<str name="Primary Examiner">
+		SOUW, BERNARD E
+	</str>
+	<str name="Assistant Examiner">
+		SAHU, MEENAKSHI S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

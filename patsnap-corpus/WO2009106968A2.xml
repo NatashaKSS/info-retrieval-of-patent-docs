@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2009106968A2
+	</str>
+	<str name="Application Number">
+		PCT/IB2009/000365
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		METHOD FOR PRODUCING PARTICLES ELECTROSTATICALLY
+	</str>
+	<str name="Abstract">
+		The invention refers to a method for forming particles or droplets of at least one substance comprising the steps of providing a foamed medium, which foamed medium comprises said substance, and forming particles or droplets of said substance at least partly by electrostatic processing. The use of foamed medium in electrostatic processing enables higher production speeds and increases the evenness of a coating layer formed by electrospinning or electrospraying the particles or droplets on a substrate.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2009-02-26
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-02
+	</str>
+	<str name="Publication Date">
+		2009-09-03
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		B05D7/24 | B05D1/06 | B05D1/04 | D21C5/02 | D21H23/50 | B05D7/04 | B05B5/25 | B01D39/00
+	</str>
+	<str name="IPC Primary">
+		B05D7/24
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05D
+	</str>
+	<str name="IPC Group">
+		B05D7
+	</str>
+	<str name="Family Members">
+		SE0800490A | WO2009106968A3 | WO2009106968A2
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		SE
+	</str>
+	<str name="Priority Number">
+		08004905
+	</str>
+	<str name="Priority Date">
+		2008-02-29
+	</str>
+	<str name="Assignee(s)">
+		STORA ENSO OYJ | BACKFOLK, KAJ | HEISKANEN, ISTO | HARLIN, ALI
+	</str>
+	<str name="1st Assignee">
+		STORA ENSO OYJ
+	</str>
+	<str name="Number of Assignees">
+		4
+	</str>
+	<str name="1st Assignee Address">
+		FIN-00101 Helsinki, FI
+	</str>
+	<str name="Assignee(s) Address">
+		FIN-00101 Helsinki, FI | FIN-55120 Imatra, FI | FIN-55100 Imatra, FI | FIN-04230 Kerava, FI
+	</str>
+	<str name="Agent/Attorney">
+		NILSSON, KATARINA, S-65009 KARLSTAD, SE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

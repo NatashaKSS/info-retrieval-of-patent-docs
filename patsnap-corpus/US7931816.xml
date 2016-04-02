@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7931816
+	</str>
+	<str name="Application Number">
+		US11482014
+	</str>
+	<str name="Title">
+		Method, apparatus and systems for treating contaminants in a waste fluid
+	</str>
+	<str name="Abstract">
+		The invention relates to a method, apparatus and system for the treatment of organic and inorganic waste in a waste fluid. The method involves a co-current plug flow of fluid in a reactor in which ozone mass transfer conforms to the effective life of the ozone used in the treatment. Hydroxide and hydrogen peroxide can be added to the waste fluid. The combined fluids to be treated travel the reactor through a series of surfaces in a packed reactor. The apparatus includes a diffuser for ozone which assists in the co-current plug flow of fluids. The diffuser can have a porosity of about 10 microns. The invention further envisions a compact system for efficient treatment of waste fluids.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-07-07
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-07
+	</str>
+	<str name="Publication Date">
+		2011-04-26
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-04
+	</str>
+	<str name="All IPC">
+		C02F1/78
+	</str>
+	<str name="IPC Primary">
+		C02F1/78
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/759 | 261/DIG.72 | 261/DIG.42 | 210/760
+	</str>
+	<str name="UPC Primary">
+		210/759
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Martin et al. &quot;Modelization of Industrial Ozonation Tanks: A Useful Tool for the Design of 2000S Ozone Reactor&quot; Water Supply, pp. 57-74 (1995). cited by other . | Akita et al., Gas Holdup and Volumetric Mass Transfer Coefficient in Bubble Columns, Ind. Eng. Chem. Process Des. Develop., 1973; 12(1): 76-80. cited by other. | Mullins, M.E., &quot;Aqueous Phase Oxidation of Contaminants&quot;, Presented at AlChE Summer Convention, Philadelphia, PA. Aug. 1989. cited by other . | Beltran et al., &quot;Oxidation and Polynuclear Aromatic Hydrocarbons in Water 4.Ozone Combined with Hydrogen Peroxide,&quot; Ind. Eng. Chem. Res., vol. 35, pp. 891-898, 1996. cited by other . | Lang et al., &quot;Treatability of MTBE-contaminated groundwater by Ozone and Peroxone,&quot; Journal AWWA, pp. 110-120, Jun. 2001. cited by other . | Beltran et al., &quot;An Attempt to Model the Kinetics of the Ozonation of Simazine in Water,&quot; Ind. Eng. Chem. Res., vol. 41, pp. 1723-1732, 2002. cited by other . | Beltran et al., &quot;A Kinetic Model for Advanced Oxidation Processes of Aromatic Hydrocarbons in Water; Application to Phenanthrene and Nitrobenzene,&quot; Ind. Eng. Chem. Res., vol. 38, pp. 4189-4199, 1999. cited by other . | Machine translation of EP378994 to Schuster, 1990 (tranlation obtained from espacenet May 2009). cited by examiner . | International Search Report, PCT/US04/43974, Dec. 27, 2005. cited by other . | International Search Report issued in PCT/US2006/026654 dated Dec. 28, 2006. cited by other . | G-Force Corp. brochure, 14 pages. cited by other . | Uknown, &quot;Determination if the Design Size for the Cornay/Matzen Supercritical Water Oxidation System,&quot; CH2M Hill, (8 pages + attachments), Aug. 14, 2000. cited by other . | The Metropolitan Water District of So. Ca. et al., &quot;Pilot-Scale Evaluation of Ozone and Peroxone,&quot; AWWA Research Foundation, 1991, pp. 1-321. cited by other . | Beltran et al., &quot;Nitroaromatic Hydrocarbon Ozonation in Water 2.Combined Ozonation with Hydrogen Peroxide or UV Radiation,&quot; Ind. Eng. Chem. Res., pp. 32-40, 1998. cited by other . | Acero et al., &quot;Oxidation of Acetamide Herbicides in Natural Waters by Ozone and by the Combination of Ozone/Hydrogen Peroxide: Kinetic Study and Process Modeling,&quot; Ind. Eng. Chem. Res., vol. 42, pp. 5762-5769, 2003. cited by other . | Karimi A. &quot;Ozone/Hydorgen Peroxide Demonstration Project to Treat Groundwater Contamination by TCE and PCE in North Hollywood, California&quot; Ozonews, International Ozone Association, pp. 6-7 (1991). cited by other . | Kuo et al., &quot;Ozonation and Peroxone Oxidation of Toluene in Aqueous Solutions,&quot; Ind. Eng. Chem. Res., vol. 35, pp. 3973-3983, 1996. cited by other . | Janet Metsa et al., Comparative Study of the Advanced Chemical Oxidation System--ACOS Treatment Process, ERTH Technologies, Inc., Dec. 2008 (unpublished paper, on file with sponsoring org.). cited by other .
+	</str>
+	<str name="Other References Count">
+		18
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5364537 | US20020071794 | US4332687 | US6780331 | US5470481 | US5171544 | US5843307 | US5888389 | US4028246 | US5851407 | US20030075513 | US5266214 | US6251290 | US3732163 | US5620606 | US4572821 | US6054057 | US5252224 | US4990316 | US5663475 | US5711887 | US20050178733 | US6258281 | US6517729 | US5126111 | US4229296 | US5498347 | US5651897 | WO1994012437 | WO1988006144 | EP0927701 | EP0625482 | EP0495707 | WO2007008744 | JP1983034080 | FR3563208 | EP00103884 | EP0378994
+	</str>
+	<str name="Cites Count">
+		38
+	</str>
+	<str name="Assignee(s)">
+		ACOS LLC
+	</str>
+	<str name="1st Assignee">
+		ACOS LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Lakewood, CO
+	</str>
+	<str name="Assignee(s) Address">
+		Lakewood, CO
+	</str>
+	<str name="Inventor(s)">
+		CONGER, HARRY, C. | MUZZY, JAMES, W. | MULLINS, MICHAEL, E.
+	</str>
+	<str name="1st Inventor">
+		CONGER, HARRY, C.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Santa, Fe, NM
+	</str>
+	<str name="Inventor(s) Address">
+		Santa, Fe, NM | Lakewood, CO | Houghton, MI
+	</str>
+	<str name="Agent/Attorney">
+		CALVETTI, FREDERICK F. VOIGHT, JASON D.
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="Assistant Examiner">
+		STELLING, LUCAS
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7442307
+	</str>
+	<str name="Application Number">
+		US10590072
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for the biological activated sludge treatment of wastewater
+	</str>
+	<str name="Abstract">
+		The equipment has a main reaction (I) and an anterior reactor (II), as well as facilities for feeding in untreated sewage, removing cleaned water and sludge and aerating the wastewater entered into the main reactor, and a mixer (2) situated in the anterior reactor (II), and it is characterized by that between the main reactor (I) and the anterior reactor (II) there is a facility or there are facilitates for the recirculation of wastewater. In the course of the procedure, between the anterior reactor (II) and the main reactor (I) the waste-water aerated in the latter reactor and mechanically stirred in the former reactor is recirculated, and so the transformation of the nitrogen content of the biologically decomposable pollutants by nitrification takes place in the main reactor, while the biological elimination of the nitrates created in the course of the nitrification (denitrification) takes place in the anterior reactor, and as a result of the anaerobic processes biological phosphorus elimination is also ensured (FIG. 1).
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-02-16
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-02
+	</str>
+	<str name="Publication Date">
+		2008-10-28
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/121 | 210/196 | 210/150 | 210/620 | 210/622 | 210/220
+	</str>
+	<str name="UPC Primary">
+		210/121
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		HU0400453A2 | HU0400453D0 | US20070176890A1 | US7442307 | AU2005214150A1 | WO2005080277A1 | CN1938232A | CN100509650C | EP1720803A1 | HU226855B1 | RU2349554C2
+	</str>
+	<str name="Family Member Count">
+		11
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6398957 | US6514410 | US6406628 | US6190554 | US4024060 | US5866002 | US6103123 | US4966705 | DE19816076 | EP1099668
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		HU
+	</str>
+	<str name="Priority Number">
+		0400453
+	</str>
+	<str name="Priority Date">
+		2004-02-20
+	</str>
+	<str name="Assignee(s)">
+		ORGANICA KORNYEZETTECHNOLOGIAK ZET.
+	</str>
+	<str name="1st Assignee">
+		ORGANICA KORNYEZETTECHNOLOGIAK ZET.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Budapest, HU
+	</str>
+	<str name="Assignee(s) Address">
+		Budapest, HU
+	</str>
+	<str name="Inventor(s)">
+		CZEPEK, GYULA | TAKACS, ZOLTAN | KENYERES, ISTVAN
+	</str>
+	<str name="1st Inventor">
+		CZEPEK, GYULA
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Szolnok, HU
+	</str>
+	<str name="Inventor(s) Address">
+		Szolnok, HU | Budapest, HU | Budapest, HU
+	</str>
+	<str name="Agent/Attorney">
+		SEEBER, JOSEPH G.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7758754
+	</str>
+	<str name="Application Number">
+		US11651303
+	</str>
+	<str name="Title">
+		Pervaporation process and assembly
+	</str>
+	<str name="Abstract">
+		The invention is a pervaporation process and pervaporation equipment, using a series of membrane modules, and including inter-module reheating of the feed solution under treatment. The inter-module heating is achieved within the tube or vessel in which the modules are housed, thereby avoiding the need to repeatedly extract the feed solution from the membrane module train.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-09
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2010-07-20
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-07
+	</str>
+	<str name="All IPC">
+		C02F1/44 | B01D15/00
+	</str>
+	<str name="IPC Primary">
+		C02F1/44
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/640 | 210/321.8 | 210/175 | 95/52
+	</str>
+	<str name="UPC Primary">
+		210/640
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		US. Appl. No. 11/271,402, Wynn, et al. cited by other . | U.S. Appl. No. 11/484,547, Wynn, et al. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US5997745 | US5294345 | US5385672 | US20060174762 | US20020074277 | US5494556 | US4293419 | US6273180 | US6521127 | US4900402 | US4846973 | US3648754 | US20040211726 | US20070039886 | US5366635 | US5445731 | US4046685 | US6790350 | US4874405 | WO2003000389
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Assignee(s)">
+		MEMBRANE TECHNOLOGY &amp; RESEARCH, INC
+	</str>
+	<str name="1st Assignee">
+		MEMBRANE TECHNOLOGY &amp; RESEARCH, INC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Menlo Park, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Menlo Park, CA
+	</str>
+	<str name="Inventor(s)">
+		WYNN, NICHOLAS, P. | HUANG, YU | ALDAJANI, TIEM | FULTON, DONALD, A.
+	</str>
+	<str name="1st Inventor">
+		WYNN, NICHOLAS, P.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Redwood, City, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Redwood, City, CA | Palo, Alto, CA | San, Jose, CA | Fairfield, CA
+	</str>
+	<str name="Agent/Attorney">
+		FARRANT, J.
+	</str>
+	<str name="Primary Examiner">
+		SOOHOO, TONY G
+	</str>
+	<str name="Assistant Examiner">
+		MELLON, DAVID C
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

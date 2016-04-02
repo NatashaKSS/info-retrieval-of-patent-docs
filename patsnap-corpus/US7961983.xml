@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7961983
+	</str>
+	<str name="Application Number">
+		US11779871
+	</str>
+	<str name="Title">
+		Generating gigapixel images
+	</str>
+	<str name="Abstract">
+		A gigapixel image is generated from a set of images in raw format depicting different portions of a panoramic scene that has up to a full spherical field of view. Radiometric alignment of the images creates a set of images in radiance format. Geometric alignment of the radiance format images creates a set of true poses for the images in radiance format. A gigapixel image depicting the entire scene is assembled from the set of radiance format images and radiance format true poses for the images. The set of images in raw format is captured using a conventional digital camera, equipped with a telephoto lens, attached to a motorized head. The head is programmed to pan and tilt the camera in prescribed increments to individually capture the images at a plurality of exposures and with a prescribed overlap between images depicting adjacent portions of the scene.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-07-18
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-07
+	</str>
+	<str name="Publication Date">
+		2011-06-14
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/32 | G06K9/36
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/154 | 382/294 | 382/284
+	</str>
+	<str name="UPC Primary">
+		382/154
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Lowe, D., Distinctive image features from scale-invariant keypoints, Int'l J. of Comp. Vision, 2004, vol. 60, pp. 91-110. cited by other . | Perez, P., M. Gangnet, and A. Blake, Poisson image editing, ACM Trans. on Graphics (SIGGRAPH'03), pp. 313-318, vol. 2, No. 3. cited by other . | Agarwala, A., M. Dontcheva, M. Agrawala, S. Drucker, A. Colburn, B. Curless, D. Salesin, and M. Cohen, Interactive digital photomontage, ACM Transactions on Graphics, 2004, vol. 23, No. 3, pp. 294-302. cited by other . | Debevec, P. E., J. Malik, Recovering high dynamic range radiance maps from photographs, Proc. of the 24th Annual Conf. on Comp. Graphics and Interactive Techniques, Aug. 1997, pp. 369-378, ACM Press/Addison-Wesley Publishing Co., New York, NY, USA. cited by other . | Xiao, F., J. E. Farrell, J. M. DiCarlo, and B. A. Wandell, Preferred color spaces for white balancing, Proc. Soc. of Photo-Optical Instrumentation Engineers, 2003, pp. 342-350, vol. 5017. cited by other . | Lam, K. M., Metamerism and colour constancy, PhD thesis, University of Bradford, 1995. cited by other . | Grosch, T., Fast and robust high dynamic range image generation with camera and object movement, Proc. of Int'l Workshop on Vision, Modeling and Visualization, Nov. 2006, pp. 277-284, Aachen, Germany. cited by other . | Kopf, J., M. Cohen, D. Lischinski and M. Uyttendaele, Joint bilateral upsampling, Proceedings ACM Transactions on Graphics, 2007, vol. 26, No. 3. cited by other . | Eden, A., M. Uyttendaele, R. Szeliski, Seamless image stitching of scenes with large motions and exposure differences, Proc. of the 2006 IEEE Comp. Soc. Conf. on Comp. Vision and Pattern Recognition, vol. 2, pp. 2498-2505. cited by other . | Lischinski, D., Z. Farbman, M. Uyttendaele, and R. Szeliski, Interactive local adjustment of tonal values, ACM Trans. on Graphics (TOG), Jul. 2006, pp. 646-653, vol. 25, No. 3. cited by other . | Burt, P. J., and E. H. Adelson, The laplacian pyramid as a compact image code, IEEE Trans. on Communications, Apr. 1983, pp. 532-540, vol. 31, No. 4, Apr. 1983. cited by other . | Schechner, Y. Y., S. K. Nayar, Generalized mosaicing: High dynamic range in a wide field of view, Int'l J. of Comp. Vision, 2003, vol. 53, No. 3, pp. 245-267, Kluwer Academic Publishers. cited by other. | Fischler, M. A., R. C. Bolles, Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography, Communications of the ACM, 1981, pp. 381-395, vol. 24, No. 6. cited by other . | Brown, M., R. Szeliski, S. Winder, Multi-image matching using multi-scale oriented patches, Proc. of the 2005 IEEE Comp. Soc. Conf. on Comp. Vision and Pattern Recognition (CVPR'05), 2005, pp. 510-517, vol. 1. cited by other .
+	</str>
+	<str name="Other References Count">
+		14
+	</str>
+	<str name="Cites">
+		US7142723 | US7239805 | US20050201616 | US7106913 | US7126630 | US7239757 | US7010158 | US5818977 | US20060177150 | US20070025717 | US7084905 | US20070014470 | US20040183941 | US20070188653 | US6943831 | US20050243176
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond, WA
+	</str>
+	<str name="Inventor(s)">
+		UYTTENDAELE, MATTHEW | COHEN, MICHAEL
+	</str>
+	<str name="1st Inventor">
+		UYTTENDAELE, MATTHEW
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Seattle, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Seattle, WA | Seattle, WA
+	</str>
+	<str name="Agent/Attorney">
+		LYON &amp; HARR, LLP LYON, RICHARD T.
+	</str>
+	<str name="Primary Examiner">
+		AKHAVANNIK, HADI
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

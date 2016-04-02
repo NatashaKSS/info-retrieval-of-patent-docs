@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2010109351A1
+	</str>
+	<str name="Application Number">
+		PCT/IB2010/050639
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		A SYSTEM THAT AUTOMATICALLY RETRIEVES REPORT TEMPLATES BASED ON DIAGNOSTIC INFORMATION
+	</str>
+	<str name="Abstract">
+		When generating radiology reports, image findings and/or clinical information is automatically mapped to an appropriate standardized structured report template. The report template contains placeholders for information such as case-specific images and measureable values, and the placeholders are filled in by either the radiologist or by automatic procedures such as image processing algorithms, text extraction algorithms, or the like. In this manner, the radiologist is assisted in effectively generating a reader-independent high-quality diagnostic report.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2010-02-11
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-02
+	</str>
+	<str name="Publication Date">
+		2010-09-30
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-09
+	</str>
+	<str name="All IPC">
+		G06F19/00
+	</str>
+	<str name="IPC Primary">
+		G06F19/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F19
+	</str>
+	<str name="Family Members">
+		US20120035963A1 | EP2411931A1 | CN102365641A | WO2010109351A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		16360209
+	</str>
+	<str name="Priority Date">
+		2009-03-26
+	</str>
+	<str name="Assignee(s)">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V. | PHILIPS INTELLECTUAL PROPERTY &amp; STANDARDS GMBH | QIAN, YUECHEN | LEHMANN, HELKO | WEESE, JUERGEN | SEVENSTER, MERLIJN | SILFEN, ERIC, ZACHERY | BOUGHORBEL, SABRI
+	</str>
+	<str name="1st Assignee">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="Number of Assignees">
+		8
+	</str>
+	<str name="1st Assignee Address">
+		Groenewoudseweg 1 NL-5621 BA Eindhoven NL
+	</str>
+	<str name="Assignee(s) Address">
+		Groenewoudseweg 1 NL-5621 BA Eindhoven NL | L&#252;beckertordamm 5 20099 Hamburg DE | High Tech Campus Building 44 NL-5656 AE Eindhoven NL | High Tech Campus Building 44 NL-5656 AE Eindhoven NL | High Tech Campus Building 44 NL-5656 AE Eindhoven NL | High Tech Campus Building 44 NL-5656 AE Eindhoven NL | High Tech Campus Building 44 NL-5656 AE Eindhoven NL | High Tech Campus Building 44 NL-5656 AE Eindhoven NL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

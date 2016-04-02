@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7637983
+	</str>
+	<str name="Application Number">
+		US11427834
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Metal organic framework--polymer mixed matrix membranes
+	</str>
+	<str name="Abstract">
+		Metal-organic framework (MOF)-polymer mixed matrix membranes (MOF-MMMs) have been prepared by dispersing high surface area MOFs (e.g. IRMOF-1) into a polymer matrix (e.g. Matrimid 5218). The MOFs allow the polymer to infiltrate the pores of the MOFs, which improves the interfacial and mechanical properties of the polymer and in turn affects permeability. Pure gas permeation tests show the incorporation of 20 wt-% of IRMOF-1 in Matrimid 5218 polyimide matrix results in 280% improvement in CO.sub.2 permeability without a loss of CO.sub.2/CH.sub.4 selectivity compared to those of the pure Matrimid 5218 membrane. This type of MOF-MMMs has significantly improved gas separation performance with dramatically high CO.sub.2 permeability (&gt;35 barrer) and higher than 29 CO.sub.2/CH.sub.4 selectivity at 50.degree. C. under 100 psig pressure, which are attractive candidates for practical gas separation applications such as CO.sub.2 removal from natural gas.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-06-30
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-06
+	</str>
+	<str name="Publication Date">
+		2009-12-29
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		B01D53/22
+	</str>
+	<str name="IPC Primary">
+		B01D53/22
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D53
+	</str>
+	<str name="All UPC">
+		96/14 | 96/13 | 210/640 | 210/500.27 | 96/12 | 95/51 | 95/50 | 95/54 | 95/55 | 210/500.21 | 96/4 | 95/45
+	</str>
+	<str name="UPC Primary">
+		96/14
+	</str>
+	<str name="UPC Class">
+		96
+	</str>
+	<str name="Family Members">
+		US7637983
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Simard et al., J. Am. Chem. Soc., 113:4696 (1991). cited by other . | Yaghi et al., Science, 295: 469 (2002). cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8066800
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4880442 | US20050230305 | US6503295 | US5104532 | US20040107830 | US6740143 | US7109140 | US3567632 | US5507856 | US4705540 | US5538536 | US6585802 | US6726744 | US7138006 | US20050043167 | US4599157 | US6547859 | US7166146 | US5431864 | US4740219 | US6508860 | US4728345 | US6248682 | US20020053284 | US6048388 | US6626980 | US6946015 | US6500233 | US6663805 | US5127925 | US5085676 | US5176724 | US4968430 | US7025804 | US5447559 | US4230463 | US20050192175 | US6755900 | US20060117949 | US5288304 | US5670051 | US20070209505 | US20040147796 | US20050139066 | US20030220188 | US20050268782 | US6997971 | US4925459 | US6562110 | US20070022877 | US6863983 | US6579343 | US4680037 | US6932859 | US20060230926 | US20060107830 | US6605140 | WO2002088148 | WO2007007051 | EP11188477
+	</str>
+	<str name="Cites Count">
+		60
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		42783406
+	</str>
+	<str name="Priority Date">
+		2006-06-30
+	</str>
+	<str name="Assignee(s)">
+		UOP LLC
+	</str>
+	<str name="1st Assignee">
+		UOP LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Des Plaines, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Des Plaines, IL
+	</str>
+	<str name="Inventor(s)">
+		LIU, CHUNQING | MCCULLOCH, BETH | WILSON, STEPHEN, T. | BENIN, ANNABELLE, I. | SCHOTT, MARK, E.
+	</str>
+	<str name="1st Inventor">
+		LIU, CHUNQING
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Schaumburg, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Schaumburg, IL | Clarendon, Hills, IL | Libertyville, IL | Oak, Forest, IL | Palatine, IL
+	</str>
+	<str name="Agent/Attorney">
+		GOLDBERG, MARK
+	</str>
+	<str name="Primary Examiner">
+		GREENE, JASON M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

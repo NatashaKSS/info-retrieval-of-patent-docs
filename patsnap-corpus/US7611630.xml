@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7611630
+	</str>
+	<str name="Application Number">
+		US10590989
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and device for evaluation of pharmaceutical compositions
+	</str>
+	<str name="Abstract">
+		A membrane-permeation test for evaluating pharmaceutical compositions is described. The method comprises the following steps: (1) providing a microporous membrane having a plurality of pores, the membrane having a feed side and a permeate side, wherein the feed side of the membrane is in fluid communication with the feed solution, and wherein the permeate side of the membrane is in fluid communication with a permeate solution; (2) administering a pharmaceutical composition to an aqueous solution to form a feed solution; and (3) measuring the concentration of drug in the permeate solution; wherein the feed side of the membrane is hydrophilic, and/or wherein the permeate solution comprises an organic fluid.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-03-18
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2009-11-03
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		B01D61/00 | B01D61/24
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		436/809 | 210/321.74 | 422/101 | 210/321.6 | 210/649 | 210/634
+	</str>
+	<str name="UPC Primary">
+		436/809
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Members">
+		US20070205155A1 | US7611630
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Journal of Pharmaceutics, vol. 39, No. 1-2, 1987, pp. 59-74, XP002330920 ISSN: 0378-5173; Lee S Jet Al: &quot;Ion-paired drug diffusion through polymer membranes&quot; (abstract only). cited by examiner . | K. Sugano, H. Hamada, M. Machida, H. Ushio, K. Saitoh, and K. Terada, &quot;Optimized Conditions of Bio-Mimetic Artificial Membrane Permeation Assay,&quot; International Journal of Pharmaceutics, 228(2001)181-188. cited by other . | M. Kansy, F. Senner, and K. Gubernator, &quot;Physiochemical High Throughput Screening: Parallel Artificial Membrane Permeation assay in the Description of Passive Absorption Processes,&quot; Journal of Medicinal Chemistry, 41:7(1998)1007-1010. cited by other . | E.H. Kerns, &quot;High Throughput Physiochemical Profiling for Drug Discovery,&quot; Journal of Pharmaceutical Science, 90:11(2001)1838-1858. cited by other . | G.S.J. Mannens, H. Bohets, P. Verboven, K. Steemans, K. Lavrijsen, and W. Meuldermans, &quot;3. Rapid Permeability Screening in Drug Discovery to Predict Human Intestinal Absorption,&quot; from Ernest Schering Research Foundation Workshop, vol. 37, 2002, pp. 49-67. cited by other . | K. Sugano, H. Hamada, M. Machida, and H. Ushio, &quot;High Throughput Prediction of Oral Absorption: Improvement of the Composition of the Lipid Solution Used in Parallel Artificial Membrane Permeation Assay,&quot; Journal of Biomolecular Screening, 6:3(2001)189-196. cited by other . | F.L. Flynn, A.B. French, N.F.H. Ho, W.I. Higuchi, E.A. Ostafin, L.H. Warbasse, G.E. Amidon, and E. Williams, &quot;Some Hydrodynamic boundary Layer Influences on Mass Transfer Coefficients,&quot; Journal of Membrane Science, 19(1984)289-308. cited by other . | F. Wohnsland and B. Faller, &quot;High-Throughput Permeability pH Profile and High-Throughput Alkane/Water log P with Artificial Membranes,&quot; Journal Medicinal Chemistry, 44(2001)923-930. cited by other . | K. Sugano, N. Takata, M. Machida, K. Saitoh, and K. Terada, &quot;Prediction of Passive Intestinal Absorption Using Bio-Mimetic Artificial Membrane Permeation Assay and the Paracellular Pathway Model,&quot; International Journal of Pharmaceutics, 241(2002)241-251. cited by other . | C. Zhu, L. Jiang, G.-M. Chen, and K.-K. Hwang, &quot;A Comparative Study of Artificial Membrane Permeability assay for High Throughput Profiling of Drug Absorption Potential,&quot; European Journal of Medicinal Chemistry, 37(2002)399-407. cited by other . | C. Lohmann, S. Huwel, and H.-J. Galla, &quot;Predicting Blood-Brain Barrier Permeability of Drugs: Evaluation of Different In Vitro Assays,&quot; Journal of Drug Targeting, 10:4(2002)263-276. cited by other . | R. Neubert, &quot;Transport Across Artificial Lipid Membranes. Part 24: Influence of Substance Properties on Diffusion Across Membranes,&quot; Pharmazie, 46(1991)442-444. cited by other . | W.I. Higuchi, &quot;Effects of Interacting Colloids on Transport Rates,&quot; Journal of Pharmaceutical Science, 35:5(1964)532-535. cited by other . | G.E. Amidon, W.I. Higuchi, and N.F.H. Ho, &quot;Theoretical and Experimental Studies of Transport of Micelle-Solubilized Solutes,&quot; Journal of Pharmaceutical Science, 71:1(1982)77-84. cited by other . | S.J. Lee, T. Kurihara-Bergstrom, and S.W. Kim, &quot;Ion-Paired Drug Diffusion Through Polymer Membranes,&quot; International Journal of Pharmaceutics, 47(1987)59-73. cited by other. | Zhu et al &quot;A comparative study of artificial membrane permeability assay for high throughput profiling of drug absorption potential&quot;, Eur. J. Med. Chem. 37 (2002) 399-407. cited by examiner . | H. Takenaka, Y. Kawashim, and S.-Y. Lin, &quot;Preparation of Enteric-Coated Microcapsules for Tableting by Spray-Drying Technique in In Vitro Simulation of Drug release from the tablet in GI Tract,&quot; Journal of Pharmaceutical Science, 69:12(1980)1388-1392. cited by other . | I.J. Hidalgo, &quot;Assessing the Absorption of New Pharmaceuticals,&quot; Current Topics in Medicinal Chemistry, 1(2001)385-41. cited by other . | A. Avdeef, M. Strafford, E. Block, M.P. Balogh, W. Chambliss, and I. Khan, &quot;Drug Absorption in Vitro Model: Filter-Immobilized Artificial Membranes. 2. Studies of the Permeability Properties of Lactones in Piper methysticum Forst,&quot; European Journal Pharmaceutical Sciences, 14(2001)271-280. cited by other .
+	</str>
+	<str name="Other References Count">
+		19
+	</str>
+	<str name="Cites">
+		US5525305 | US6004822 | US5476590 | US6379619 | US6022733 | US4681858 | US5490415 | US6294134 | US6043027 | US7468281 | US5962250 | US4667504 | US5183760 | US6569686 | US6271038 | WO2001055698 | WO2004037160 | EP1266684
+	</str>
+	<str name="Cites Count">
+		18
+	</str>
+	<str name="Priority Country">
+		US | US | IB
+	</str>
+	<str name="Priority Number">
+		59098905 | 55789704 | 2005000711
+	</str>
+	<str name="Priority Date">
+		2005-03-18 | 2004-03-30 | 2005-03-18
+	</str>
+	<str name="Assignee(s)">
+		BEND RESEARCH, INC.
+	</str>
+	<str name="1st Assignee">
+		BEND RESEARCH, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Bend, OR
+	</str>
+	<str name="Assignee(s) Address">
+		Bend, OR
+	</str>
+	<str name="Inventor(s)">
+		BABCOCK, WALTER, CHRISTIAN | FRIESEN, DWAYNE, THOMAS | MCCRAY, SCOTT, BALDWIN
+	</str>
+	<str name="1st Inventor">
+		BABCOCK, WALTER, CHRISTIAN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Bend, OR
+	</str>
+	<str name="Inventor(s) Address">
+		Bend, OR | Bend, OR | Bend, OR
+	</str>
+	<str name="Agent/Attorney">
+		CHERNOFF, VILHAUER, MCCLUNG &amp; STENZEL, LLP
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

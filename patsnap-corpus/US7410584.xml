@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7410584
+	</str>
+	<str name="Application Number">
+		US11868811
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Methods and apparatus for treating wastewater employing a high rate clarifier and a membrane
+	</str>
+	<str name="Abstract">
+		Methods and apparatus for treating wastewater are described, one method embodiment including the steps of flowing a stream comprising mixed liquor suspended solids and fixed growth solids to a high rate clarification stage, forming a clarifier effluent, a first waste activated sludge stream, and a return waste activated sludge stream. The high rate clarifier effluent stream then flows to a membrane stage that includes a membrane media, producing a membrane reject (retentate) stream and a treated effluent (permeate) stream. Optionally, the methods include routing a screened raw wastewater to an anaerobic and/or aerated anoxic stage and introducing a gas comprising oxygen to the wastewater during the aerated anoxic stage, and optionally allowing the product of this stage to flow to an aeration stage prior to the high rate clarification stage.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-10-08
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2008-08-12
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		C02F3/30 | C02F3/12
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/630 | 210/532.1 | 210/903 | 210/623 | 210/906 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060169636A1 | US20080116130A1 | US7279100 | US7410584
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		21
+	</str>
+	<str name="Other References">
+		Trisep Corp., SpiraSep Ultrafiltration Membrane Technology, Spiral Wound Backflushable Ultrafiltration Element, 2003, TriSep Corporation, Goleta, CA. cited by other . | Ashbrook Corporation, Biological Nutrient Removal Systems, May 15, 2005, 1 page, accessed at http://www.ashbrookcorp.com/learn/biological.html. cited by other . | Ashbrook Corpration, Denitrification, May 15, 2003, 1 page, accessed at http://www.ashbrookcorp.com/learn/denitrification.html. cited by other . | Ashbrook Corporation, Phosphorous Removal, May 15, 2003, 1 page, accessed at http://www.ashbrookcorp.com/learn/phosphorous.html. cited by other. | Ashbrook Corporation, Nitrification, May 15, 2003, 1 page, accessed at http://www.ashbrookcorp.com/learn/nitrification.html. cited by other . | Gould, B., Utilizing Spiral Wound Membrane Efficiencies for Ultrafiltration by Enabling Backflush Capabilities, 12th Ann Southwest Chemistry Workshop, Jul. 28, 2003, Dallas, TX. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By">
+		US7758742 | US7981293 | US7981301 | US7998225 | US8133382 | US8192617 | US8048279 | US8293098
+	</str>
+	<str name="Cited By Count">
+		8
+	</str>
+	<str name="Cites">
+		US4828772 | US6890431 | US6402956 | US6454104 | US7147778 | US5651889 | US6068134 | US5698281 | US4536286 | US4778601 | US6863818 | US6863817 | US4957628 | US6524481 | US6733675 | US4754009 | US7279100 | US5565166 | US6432310 | US3482695 | US5972220 | US4565855 | US6982036 | US7014763 | US6565747 | US6605220 | US6723244 | US7022236 | US4707261 | US6533937 | US6446073 | US4867883 | US7294275 | US6592762 | US7182872 | US4992178 | US6555002 | US4530569 | US20020003116 | US6165359 | US6168648 | US20030205524 | US6110374 | US6221247 | US5522991 | US6485645 | US6274044 | US6406629 | US4747946 | US3423309 | US6190557 | JP1986220792
+	</str>
+	<str name="Cites Count">
+		52
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		86881107 | 4729605
+	</str>
+	<str name="Priority Date">
+		2007-10-08 | 2005-01-31
+	</str>
+	<str name="Assignee(s)">
+		ASHBROOK SIMON-HARTLEY OPERATIONS, LP
+	</str>
+	<str name="1st Assignee">
+		ASHBROOK SIMON-HARTLEY OPERATIONS, LP
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Houston, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s)">
+		DEVINE, JEFFREY, S.
+	</str>
+	<str name="1st Inventor">
+		DEVINE, JEFFREY, S.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		The, Woodlands, TX
+	</str>
+	<str name="Inventor(s) Address">
+		The, Woodlands, TX
+	</str>
+	<str name="Agent/Attorney">
+		PRAMUDJI WENDT &amp; TRAN, L.L.P. WENDT, JEFFREY L.
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		5
+	</str>
+	<str name="cited by within 5 years">
+		5
+	</str>
+</doc>
+

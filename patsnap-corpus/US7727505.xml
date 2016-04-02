@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7727505
+	</str>
+	<str name="Application Number">
+		US12124278
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Methods for separating carbon nanotubes by enhancing the density differential
+	</str>
+	<str name="Abstract">
+		A method for separating carbon nanotubes comprises: providing a mixture of carbon nanotubes; introducing an organic molecule having an end group capable of being chelated by a metal ion to the mixture of carbon nanotubes to covalently bond the organic molecule to at least one of the mixture of carbon nanotubes; and introducing a metal salt to the mixture of carbon nanotubes to chelate the end group of the organic molecule with the metal ion of the metal salt; and centrifuging the mixture of carbon nanotubes to cause the separation of the carbon nanotubes based on a density differential of the carbon nanotubes.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-05-21
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-05
+	</str>
+	<str name="Publication Date">
+		2010-06-01
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		C01B31/02
+	</str>
+	<str name="IPC Primary">
+		C01B31/02
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C01
+	</str>
+	<str name="IPC Subclass">
+		C01B
+	</str>
+	<str name="IPC Group">
+		C01B31
+	</str>
+	<str name="All UPC">
+		977/748 | 423/460 | 423/461 | 210/787 | 977/751 | 210/639 | 977/845 | 210/638 | 977/847 | 209/274
+	</str>
+	<str name="UPC Primary">
+		977/748
+	</str>
+	<str name="UPC Class">
+		977
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Christian Klinke, James B. Hannon, Ali Afzali, and Phaedon Avouris, Field-Effect Transistors Assembled from Functionalized Carbon Nanotubes, Nano Letters, 2006, 906-910, vol. 6, No. 5, American Chemical Society, Yorktown Heights, New York. cited by other . | Full Text PDF of Publication: &quot;Multihydroxy Polymer-Functionalized Carbon Nanotubes: Synthesis, Derivatization and Metal Loading&quot;, Chao Gao et al., Journal: Macromolecules 2005, 38, pp. 8634-8648, Publication Date (Web): Sep. 17, 2005, Downloaded from the Internet on Dec. 12, 2009. cited by examiner . | George S. Tulevski, James B. Hannon, Ali Afazali, Zhihong Chen, Phaedon Avouris, and Cherie R. Kagan, Chemically Assisted Directed Assembly of Carbon Nanotubes for the Fabrication of Large-Scale Device Arrays, JACS Articles, Sep. 7, 2007, 11964-11968, American Chemical Society, Yorktown Heights, New York. cited by other . | R.M. Tromp, et al, &quot;Novel Strategy for Diameter-Selective Separation and Functionalization of Single-Wall Carbon Nanotubes&quot;, Nano Letters, 2008, 469-472, vol. 8, No. 2, American Chemical Society, Yorktown Heights, NY. cited by other. | Abstract of Publication: &quot;Multihydroxy Polymer-Functionalized Carbon Nanotubes: Synthesis, Derivatization and Metal Loading&quot;, Chao Gao et al., Journal: Macromolecules 2005, 38, Publication Date (Web): Sep. 17, 2005, Downloaded from the Internet on Dec. 12, 2009. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By">
+		US8066967
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US20070258880 | US20070125707 | US20090075808 | US7514063 | US20060062718 | US20070148962 | US20080260616 | US6841139 | US20070116632 | US20060105513 | US20070269364 | US20060054555 | US20040232073 | US20060251568 | US20080063587 | US20040040834 | US20070280876 | US20080290007 | US7074310
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Assignee(s)">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Armonk, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Armonk, NY
+	</str>
+	<str name="Inventor(s)">
+		AFAZALI-ARDAKANI, ALI | HANNON, JAMES, B. | KAGAN, CHERIE, R. | TULEVSKI, GEORGE, S.
+	</str>
+	<str name="1st Inventor">
+		AFAZALI-ARDAKANI, ALI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Ossining, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Ossining, NY | Mahopac, NY | Bala-Cynwyd, PA | White, Plains, NY
+	</str>
+	<str name="Agent/Attorney">
+		CANTOR COLBURN LLP ALEXANIAN, VAZKEN
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

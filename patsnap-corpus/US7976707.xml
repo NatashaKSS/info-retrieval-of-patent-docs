@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7976707
+	</str>
+	<str name="Application Number">
+		US12086148
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for treating organic-containing wastewater
+	</str>
+	<str name="Abstract">
+		In treating organic-containing wastewater by a biological treatment in a stage prior to a advanced treatment such as membrane separation or the like, the amount of the biological metabolites produced in the biological treatment step is reduced to reduce the amount of the organic substances flowing into the advanced treatment step in a latter stage, thereby making the advanced treatment stable and efficient and efficiently recovering treated water of high quality. Water anaerobically biologically treated in an anaerobic reaction tank 11 including an acid production tank 11A and a UASB reaction tank 11B is subjected to a coagulation treatment and then to solid-liquid separation in a No. 1 sedimentation tank 14. The resultant separated water is aerobically biologically treated water is subjected to a coagulation treatment and then to solid-liquid separation in a No. 2 sedimentation tank 24. Then, the resultant water is subjected to a membrane separation treatment in a RO membrane separator 40 as advanced treatment means. By performing anaerobic biological treatment, aerobic biological treatment, and solid-liquid separation prior to the advanced treatment means, organic substances can be sufficiently removed, and treatment by the advanced treatment means can be made stable and efficient.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-12-25
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-12
+	</str>
+	<str name="Publication Date">
+		2011-07-12
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/605 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6063279 | US20050035059 | US20040050777 | US20090283471 | US7166219 | US5342522 | US20050131086 | US5405532 | US5804076 | US4503154 | US4431543 | JP232192H07 | JP102896S62 | JP2002126784 | JP2005238152 | JP1986141999 | JP2005125203 | JP112600H08 | JP1983043295
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2005375133
+	</str>
+	<str name="Priority Date">
+		2005-12-27
+	</str>
+	<str name="Assignee(s)">
+		KURITA WATER INDUSTRIES LTD.
+	</str>
+	<str name="1st Assignee">
+		KURITA WATER INDUSTRIES LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		TANAKA, MICHIAKI | TAGUCHI, YOSHIMI
+	</str>
+	<str name="1st Inventor">
+		TANAKA, MICHIAKI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		KANESAKA, MANABU
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

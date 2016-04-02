@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7718063
+	</str>
+	<str name="Application Number">
+		US11662974
+	</str>
+	<str name="Title">
+		Treating pollutants by phytoleaching
+	</str>
+	<str name="Abstract">
+		The invention relates to a method of depollution by phytoremediation intended for treating wastewater, polluted air or soil comprising a first step of introducing the pollutants in solid, liquid or gaseous form in a planted filter bed, and characterized in that it also comprises a step of irrigation of said planted filter bed so as to define aerobic or anaerobic periods, and to a device for carrying out that method.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-09-16
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2010-05-18
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		C02F3/32
+	</str>
+	<str name="IPC Primary">
+		C02F3/32
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/630 | 210/170.08 | 210/602
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5863433 | US20040000517 | US20030230529 | US4415450 | US20020074287 | US20050082222 | JP1997047779 | FR2690683 | WO200303042115 | DE3423226
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		FR | FR | FR
+	</str>
+	<str name="Priority Number">
+		0409907 | 0409908 | 0409909
+	</str>
+	<str name="Priority Date">
+		2004-09-16 | 2004-09-16 | 2004-09-16
+	</str>
+	<str name="Assignee(s)">
+		PHYTORESTORE
+	</str>
+	<str name="1st Assignee">
+		PHYTORESTORE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Paris, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Paris, FR
+	</str>
+	<str name="Inventor(s)">
+		JACQUET, THIERRY
+	</str>
+	<str name="1st Inventor">
+		JACQUET, THIERRY
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Paris, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Paris, FR
+	</str>
+	<str name="Agent/Attorney">
+		BLANK ROME LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

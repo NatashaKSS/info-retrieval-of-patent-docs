@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7666302
+	</str>
+	<str name="Application Number">
+		US12217561
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Dual cell nitrogen removal apparatus
+	</str>
+	<str name="Abstract">
+		A water treatment apparatus including a series of pairs of water filtration cells of an upwelling type. Each cell of each pair has a longitudinally extending water conduit in fluid communication between an upper and a lower end of each cell. The first cell of each pair is a fluidized bed type containing a biologically active media, the water entering a bottom of this cell upwelling through the biologically active media to discharge from a discharge port at or near the top of the first cell. The second cell of each pair has the upper end of its water conduit in fluid communication with the discharge port of the paired first cell and contains media which removes nitrates from the water entering and upwelling through the nitrate removing media for discharge from the second cell.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-07-07
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-07
+	</str>
+	<str name="Publication Date">
+		2010-02-23
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-02
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/170.09 | 210/253 | 210/150 | 210/903 | 210/170.05
+	</str>
+	<str name="UPC Primary">
+		210/170.09
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8152998
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US20080053897 | US6348147 | US4179374 | US20070095750 | US3563888 | US5507950 | US7022233 | US6139745 | US5863433 | US6231766 | US5795481 | US5087353 | US6207047 | US7101483 | US6531058 | US5705057 | US5618413 | US6039866 | US6159364 | US5228998 | US7344644 | US4008159
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Inventor(s)">
+		JENKINS, DAVID, W
+	</str>
+	<str name="1st Inventor">
+		JENKINS, DAVID, W
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Sarasota, FL
+	</str>
+	<str name="Inventor(s) Address">
+		Sarasota, FL
+	</str>
+	<str name="Agent/Attorney">
+		PRESCOTT, CHARLES J.
+	</str>
+	<str name="Primary Examiner">
+		UPTON, CHRISTOPHER
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

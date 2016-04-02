@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8379954
+	</str>
+	<str name="Application Number">
+		US12/752836
+	</str>
+	<str name="Title">
+		Three dimensional image processing apparatus and X-ray diagnosis apparatus
+	</str>
+	<str name="Abstract">
+		A three dimensional image processing apparatus includes a region-of-interest setting unit to obtain a moving image of an area of movement of the subject radiographed from a predetermined direction, the moving image including a sequence of frames, to obtain a first feature region in a first frame of the sequence, to search each subsequent frame in the sequence to identify corresponding feature regions most similar to the first feature region so as to identify a sequence of feature regions, and to set a region of interest on the first frame as a rectangular region that just covers all of the identified feature regions in the sequence of feature regions.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-04-01
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-04
+	</str>
+	<str name="Publication Date">
+		2013-02-19
+	</str>
+	<str name="Publication Year">
+		2013
+	</str>
+	<str name="Publication(Year/Month)">
+		2013-02
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/131 | 382/132
+	</str>
+	<str name="UPC Primary">
+		382/131
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		B Movassaghi, et al. &quot;3D coronary reconstruction from calibrated motion-compensated 2D projections based on semi-automated feature point detection&quot;, Proceedings of SPIE vol. 5370, 2004, pp. 1943-1950. cited by applicant | U.S. Appl. No. 11/680,122, filed Feb. 28, 2007, Sakaguchi. cited by applicant | U.S. Appl. No. 12/574,305, filed Oct. 6, 2009, Sakaguchi. cited by applicant | U.S. Appl. No. 12/578,862, filed Oct. 14, 2009, Sakaguchi. cited by applicant | Office Action issued Jul. 17, 2012 in Japanese Patent Application No. 2007-313800 with English language translation, 5 pages. cited by applicant | Japanese Office Action mailed Dec. 18, 2012 in Japanese Patent Application No. 2007-313800. cited by applicant.
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cites">
+		US7187746 | US7660383 | US7761136 | US20050054916 | US20050089136 | US20050220264 | US20050226485 | US20060171584 | US20060210019 | US20060210147 | US20070110210 | JP1996131429 | JP1999318877 | WO2004114221
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Assignee(s)">
+		KABUSHIKI KAISHA TOSHIBA | TOSHIBA MEDICAL SYSTEMS CORPORATION
+	</str>
+	<str name="1st Assignee">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP | Otawara-shi, JP
+	</str>
+	<str name="Inventor(s)">
+		SAKAGUCHI, TAKUYA | SILVER, MICHAEL, D.
+	</str>
+	<str name="1st Inventor">
+		SAKAGUCHI, TAKUYA
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Shioya-gun, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Shioya-gun, JP | Northbrook, IL
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEUSTADT, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		WERNER, BRIAN P
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

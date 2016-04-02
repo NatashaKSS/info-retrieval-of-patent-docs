@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7785480
+	</str>
+	<str name="Application Number">
+		US10595527
+	</str>
+	<str name="Title">
+		Solvent filtration system and methods
+	</str>
+	<str name="Abstract">
+		A filter system has a first filter from which solvent is recovered in a cleaning cycle using a rinse fluid in forward flow, and from which particulates are removed using flush gas in reverse flow. At least part of the solvent and the flush gas are recycled to the system, and in still further preferred aspects, filtration of the solvent continues during the cleaning cycle via a bypass circuit through which the solvent is routed to a second filter.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-11-12
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-11
+	</str>
+	<str name="Publication Date">
+		2010-08-31
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-08
+	</str>
+	<str name="All IPC">
+		B01D35/16
+	</str>
+	<str name="IPC Primary">
+		B01D35/16
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D35
+	</str>
+	<str name="All UPC">
+		210/411 | 95/279 | 210/798 | 95/281
+	</str>
+	<str name="UPC Primary">
+		210/411
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5505854
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Assignee(s)">
+		FLUOR TECHNOLOGIES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		FLUOR TECHNOLOGIES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Aliso Viejo, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Aliso Viejo, CA
+	</str>
+	<str name="Inventor(s)">
+		MAK, JOHN | NIELSEN, RICHARD, B.
+	</str>
+	<str name="1st Inventor">
+		MAK, JOHN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Santa, Ana, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Santa, Ana, CA | Laguna, Niguel, CA
+	</str>
+	<str name="Agent/Attorney">
+		FISH &amp; ASSOCIATES, PC
+	</str>
+	<str name="Primary Examiner">
+		CECIL, TERRY K
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

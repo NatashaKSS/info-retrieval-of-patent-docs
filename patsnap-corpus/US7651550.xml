@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7651550
+	</str>
+	<str name="Application Number">
+		US10559734
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for sulfur compounds removal from contaminated gas and liquid streams
+	</str>
+	<str name="Abstract">
+		A desorption process and a process for producing a catalytically deactivated formed zeolitic adsorbent, whereby both processes are suitable to improve the lifetime of a formed zeolitic adsorbent in the removal of sulfur compounds from sulfur contaminated gas and liquid feed streams. The adsorbent is in particular a synthetic 13X or LSX faujasite with a silica to alumina ratio from 1.9:1.0 to about 3.0:1.0. The cations of the faujasite include alkali and alkaline earth metals. The formed zeolite mixture is preferably catalytically deactivated due to a phosphate treatment. The desorption is carried out thermally, wherein the heat treatment is done at different temperature stages to avoid decomposition of the organic sulfur compounds.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-06-06
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-06
+	</str>
+	<str name="Publication Date">
+		2010-01-26
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		B01D53/04 | B01J20/34 | B01J20/18
+	</str>
+	<str name="IPC Primary">
+		B01D53/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D53
+	</str>
+	<str name="All UPC">
+		210/690 | 95/135 | 423/242.1 | 585/820 | 95/148 | 585/826 | 95/141
+	</str>
+	<str name="UPC Primary">
+		210/690
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		CA2527443A1 | AU2003239295A1 | US7651550 | WO2004108273A1 | US20070193939A1 | NO20055679A | NO20055679D0
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		XP-002276682--Volgo-Ural Hydrogen, SU 1611859A, Class H01, AN 1991-244298, Dec. 7, 1990, abstract. cited by other. | XP-002265291--Natural Gas Proc. In., SU 1274746A, Class H01, AN 1987-220075, Dec. 7, 1986, abstract. cited by other . | XP-002265290--M. Ziolek and P. Decyk, Relation Between Chemisorption and Catalytic Transformation of R.sub.2S Compounds on Faujasite-Type Zeolites, A. Mickiewicz University, Faculty of Chemistry, Langmuir 1999, vol. 15, No. 18 (Aug. 31), pp. 5781-5784, 1999 American Chemical Society. cited by other . | XP-002265292--Lin K, WO 0067898, Class H04, AN 2000-687626, Nov. 16, 2000, abstract. cited by other . | Ziolek, Maria et al., Adsorption and Transformation of Sulphur Compounds on Zeolites, 1996, pp. 67-73, Faculty of Chemistry, A. Micklewicz University, Poland. cited by other . | Gimadeev, L.N. et al., Activity and Stability of Zelolites In Adsorption of Ethyl Mercaptan, 1985, p. 34 (English Abstract Included). cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20020009404 | US2882243 | US5378670 | US2882244 | US5110776 | US4098684 | US4795545 | US6610625 | US6264881 | US6096194 | US5576258 | US3760029 | US4243556 | US5231064 | US3816975 | US4465780 | US5057473 | US4540842 | US5843300 | US6103949 | US4358297 | US4404118 | WO1996003199 | EP0503876 | EP0511885 | EP0541101 | WO2000071249 | DE3705624 | EP0781832 | EP0403141
+	</str>
+	<str name="Cites Count">
+		30
+	</str>
+	<str name="Priority Country">
+		IB
+	</str>
+	<str name="Priority Number">
+		0302541
+	</str>
+	<str name="Priority Date">
+		2003-06-06
+	</str>
+	<str name="Assignee(s)">
+		ZEOCHEM AG
+	</str>
+	<str name="1st Assignee">
+		ZEOCHEM AG
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		CH
+	</str>
+	<str name="Assignee(s) Address">
+		CH
+	</str>
+	<str name="Inventor(s)">
+		HAWES, PETER | SCHEUBLE, ANDREAS | KLEEB, BEAT | PFENNINGER, ARMIN
+	</str>
+	<str name="1st Inventor">
+		HAWES, PETER
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Uerikon, CH
+	</str>
+	<str name="Inventor(s) Address">
+		Uerikon, CH | Meilen, CH | Uetikon, CH | Uetikon, CH
+	</str>
+	<str name="Agent/Attorney">
+		BANNER &amp; WITCOFF, LTD.
+	</str>
+	<str name="Primary Examiner">
+		LAWRENCE, FRANK M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

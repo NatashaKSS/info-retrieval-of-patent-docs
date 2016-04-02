@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7897048
+	</str>
+	<str name="Application Number">
+		US12093847
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Membrane bioreactor and sewage treatment method
+	</str>
+	<str name="Abstract">
+		The present invention discloses a membrane, optionally for use in sewage treatment. The membrane comprises a support membrane having a gas face biolayer on a gas face of the membrane and/or in the support membrane near the gas face, and a liquid face biolayer on a liquid face of the membrane and/or in the support membrane near the liquid face.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-11-17
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-11
+	</str>
+	<str name="Publication Date">
+		2011-03-01
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/150 | 210/505 | 210/151 | 435/252.1 | 210/620 | 210/500.21 | 210/220 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/150
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Akihiko Terada et al., &quot;Sequencing Batch Membrane Biofilm Reactor for Simultaneous Nitrogen and Phosphorus Removal: Novel Application of Membrane-Aerated Biofilm&quot;, Biotechnology and Bioengineering, Wiley &amp; Sons, Hoboken NJ, US, vol. 94, No. 4, Jul. 5, 2006 pp. 730-739. cited by other. | K. Brindle et al., &quot;Nitrification in a Bubbleless Oxygen Mass Transfer Membrane Bioreactor&quot;, Wat. Sci. Tech. vol. 34, No. 9, pp. 261-267, 1996. cited by other . | C.M. Ho e t al., &quot;Autotrophic dentrification via a biofilm growing on a gas-permeable silicon tube&quot;, Zhongguo Huanjing Gongcheng Xuekan 12 (4): 307-313 (2002). cited by other . | A. Ogawa et al., &quot;Production of Kojic Acid From Aspergillus oryzae Var.oryzae by Membrane-Surface Liquid Culture&quot;, Biotechnology Techniques, vol. 9, No. 2 (Feb. 1995) pp. 153-156. cited by other . | Derwent Accession No. 1971-47314S, English Abstract of JP 46-24688 B (1971). cited by examiner . | Akinori Ogawa et al., &quot;Production of Neutral Protease by Membrane-Surface Liquid Culture of Aspergillus oryzae IAM2704&quot;, Journal of Fermentation and Bioengineering, vol. 80, No. 1, 35-40, 1995. cited by other . | Derwent Abstract Accession No. 2005-799127/82 and CN 1648071 A (Ecological Environment Res Cen) Aug. 3, 2005. cited by other . | Senay Yalcin, &quot;Effectiveness Factors for Hollow Fiber Biofilm Reactors&quot;, Proc. of Int. Conf. Mathematics and Eng. Techniq. In Med. and Biol Sci. Las Vegas USA, Jun. 25-28, 2001, 304-310. cited by other . | Derwent Abstract Accession No. 2006-247652/26, and JP 2006-087310 A (Dokuritsu Gyosei Hojin Kokuriitsu Kenko) Apr. 6, 2006. cited by other . | K. Brindle et al., &quot;Enhanced biological treatment of high oxygen demanding wastewaters by a membrane bioreactor capable of bubbleless oxygen mass transfer&quot;, Proc. Weftec. 97 Chicago Oct. 18-22, 63-72, 1997. cited by other . | Kazuaki Hibiya et al., &quot;Simultaneous nitrification and denitrification by controlling vertical and horizontal microenvironment in a membrane-aerated biofilm reactor&quot;, Journal of Biotechnology 100 (2003) 23-32. cited by other . | Kazuaki Yamagiwa et al., &quot;Simultaneous Organic Carbon Removal and Dentrification by Biofilm Formed on Oxygen Enriched Membrane&quot;, Journal of Chemical Engineering of Japan, 27(5): 638-643 (1994). cited by other . | A. Yasuhara et al., &quot;Production of Neutral Protease From Aspergillus oryzae by a Novel Culture Method on a Microporous Membrane&quot;, Biotechnology Techniques, vol. 8, No. 4, (Apr. 1994) pp. 249-254. cited by other . | Akinori Ogawa et al., &quot;Production of Kojic Acid by Membrane-Surface Liquid Culture of Aspergillus oryzae NRRL484&quot;, Journal of Fermenation and Bioengineering, vol. 80, No. 1, 41-45,1995. cited by other .
+	</str>
+	<str name="Other References Count">
+		14
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20030104192 | US5945002 | US6387262 | US20020139747 | US5116506 | US5833896 | EP0761608 | JP2005034069 | WO2002094979 | EP1647530 | JP2002085050 | WO1989000188 | JP1971024688 | WO2005111193 | WO1990002170 | WO2005016498 | JP2003251381 | WO2003072513 | WO2002010077
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Priority Country">
+		AU
+	</str>
+	<str name="Priority Number">
+		2005906407
+	</str>
+	<str name="Priority Date">
+		2005-11-17
+	</str>
+	<str name="Assignee(s)">
+		AUSTRALIAN NUCLEAR SCIENCE &amp; TECHNOLOGY ORGANISATION
+	</str>
+	<str name="1st Assignee">
+		AUSTRALIAN NUCLEAR SCIENCE &amp; TECHNOLOGY ORGANISATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		New South Wales, AU
+	</str>
+	<str name="Assignee(s) Address">
+		New South Wales, AU
+	</str>
+	<str name="Inventor(s)">
+		TAYLOR, ANTHONY, PATRICK, ANDREW
+	</str>
+	<str name="1st Inventor">
+		TAYLOR, ANTHONY, PATRICK, ANDREW
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		New, South, Wales, AU
+	</str>
+	<str name="Inventor(s) Address">
+		New, South, Wales, AU
+	</str>
+	<str name="Agent/Attorney">
+		BENT, STEPHEN A. FOLEY &amp; LARDNER LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

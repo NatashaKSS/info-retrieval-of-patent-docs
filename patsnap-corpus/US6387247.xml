@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6387247
+	</str>
+	<str name="Application Number">
+		US09390230
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Feed injection system for catalytic cracking process
+	</str>
+	<str name="Abstract">
+		A catalytic cracker riser reactor is connected to a regenerator standpipe through which hot, regenerated catalyst enters the riser bottom region. A hydrocarbon feed, such as gas oil, and dispersing gases, such as steam, are introduced through a single bottom entry nozzle assembly. The nozzle assembly comprises three concentrically arranged conduits. An inner conduit provides a passageway for a first dispersing gas and terminates in a first cap having at least one outlet passage for discharging the first dispersing gas in a generally radially outward and upward direction. The first conduit and first cap are enclosed by a second conduit and second cap, the annulus formed thereby providing a passageway for a liquid hydrocarbon feed. The second cap also has at least one outlet passage for discharging the mixture of hydrocarbon feed and first dispersing gas into the riser reactor in a radially outward and upward direction. A first dispersing gas enters the inner conduit and proceeds to the first cap into a mixing zone located in the vicinity of the discharge passage between the first and second caps. Hydrocarbon feed enters the second conduit, continues through an annulus to the second cap and is mixed with the first dispersing gas in the mixing zone, resulting in the formation of a fine two-phase mixture of small dispersed bubbles in heavy petroleum hydrocarbon liquid. As the fine two-phase mixture passes through the outlet passage into the riser reactor to contact with regenerator catalyst, the two-phase mixture suddenly expands, forming a fine atomization of heavy petroleum hydrocarbon feed with narrow droplet size evenly distributed across the riser reactor.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1999-09-03
+	</str>
+	<str name="Application Year">
+		1999
+	</str>
+	<str name="Application(Year/Month)">
+		1999-09
+	</str>
+	<str name="Publication Date">
+		2002-05-14
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-05
+	</str>
+	<str name="All IPC">
+		B01J8/08 | B05B1/00 | B05B7/00 | C10G11/00
+	</str>
+	<str name="IPC Primary">
+		B01J8/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01J
+	</str>
+	<str name="IPC Group">
+		B01J8
+	</str>
+	<str name="All UPC">
+		208/146 | 422/213 | 422/214 | 239/398 | 239/424 | 239/423 | 208/113
+	</str>
+	<str name="UPC Primary">
+		208/146
+	</str>
+	<str name="UPC Class">
+		208
+	</str>
+	<str name="Family Members">
+		ZA200201686A | AT240378T | ES2199858T3 | EP1218468B1 | EP1218468A2 | JP2003509533A | DE60002741T2 | MXPA02001752A | DE60002741D1 | AU758217B2 | US6387247 | WO2001018153A3 | CN1216965C | CN1371413A | US6736960 | AU7417100A | WO2001018153A2 | CA2383826A1 | BR0013699A | RU2241731C2
+	</str>
+	<str name="Family Member Count">
+		20
+	</str>
+	<str name="Family Members Cited By Count">
+		22
+	</str>
+	<str name="Other References">
+		James R. Murphy, &quot;Evolution Design Changes Mark FCC Process&quot;, Oil and Gas Journal, May 18, 1992, pp. 49-58.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US7601304 | US7332131 | US7992805 | WO2005047427A1 | WO2005032704A1 | CN100482766C | CN1894362A | CN101668831A | US6936227 | US6736960
+	</str>
+	<str name="Cited By Count">
+		10
+	</str>
+	<str name="Cites">
+		US4675099 | US4407230 | US3071540 | US4795547 | US3642202 | US4575414 | US4747467 | US6143457 | US5108583 | US4405444 | US4784328 | US3533558 | US4820493 | US4563334 | US5794857 | US4578183 | US4097243 | US5562818 | US5554341 | US5017343 | US4650566 | US4808383 | EP0151882 | EP0773276 | EP0147664 | CA1015004 | WO19781530509 | EP0593171 | EP0239171
+	</str>
+	<str name="Cites Count">
+		29
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		39023099
+	</str>
+	<str name="Priority Date">
+		1999-09-03
+	</str>
+	<str name="Assignee(s)">
+		SHELL OIL COMPANY
+	</str>
+	<str name="1st Assignee">
+		SHELL OIL COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Houston, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s)">
+		CHEN, YE-MON
+	</str>
+	<str name="1st Inventor">
+		CHEN, YE-MON
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Sugar, Land, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Sugar, Land, TX
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D.
+	</str>
+	<str name="cited by within 3 years">
+		7
+	</str>
+	<str name="cited by within 5 years">
+		7
+	</str>
+</doc>
+

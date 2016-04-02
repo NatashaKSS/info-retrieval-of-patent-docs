@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7535469
+	</str>
+	<str name="Application Number">
+		US10/428818
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for creating three-dimensional caricature
+	</str>
+	<str name="Abstract">
+		The present invention relates to an apparatus and method for creating a three-dimensional caricature, and more particularly, to an apparatus and method for creating a three-dimensional caricature having a high degree of similarity to user's face by precisely extracting feature point information on facial features and modifying a three-dimensional polygon face basic model based on the feature point information using an ASM technique specialized for faces. The method comprises the steps of detecting the positions of eyes from an input facial image and normalizing the size of the facial image, detecting each initial position for facial features from the normalized facial image, loading ASMs in the normalized facial image so as to correspond to the detected initial position and then extracting feature points for the facial features, and creating a three-dimensional polygon face caricature by modifying the three-dimensional polygon face basic model according to coordinate values of the extracted feature points.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-05-05
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-05
+	</str>
+	<str name="Publication Date">
+		2009-05-19
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		G06T15/00 | G06T17/00 | G06T11/20 | G06K9/46 | G06K9/66 | G09G5/00
+	</str>
+	<str name="IPC Primary">
+		G06T15/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T15
+	</str>
+	<str name="All UPC">
+		345/419 | 345/420 | 345/441 | 345/646 | 382/190 | 382/195
+	</str>
+	<str name="UPC Primary">
+		345/419
+	</str>
+	<str name="UPC Class">
+		345
+	</str>
+	<str name="Family Members">
+		JP2003331316A | JP3924262B2 | US7535469 | CN1313979C | CN1455374A | US20030206171A1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		13
+	</str>
+	<str name="Other References">
+		Cootes, T.F.; Taylor, C.J.; Lanitis, A.; &quot;Multi-resolution search with active shape models&quot;, Proceedings of 12th IAPR International Conference on Pattern Recognition, vol. 1--Conference A: Computer Vision &amp; Image Processing, Oct. 9-13, 1994, pp. 610-612. cited by examiner | Cootes, T.F.; Taylor, C.J.; &quot;Using grey-level models to improve active shape model search&quot;, Proceedings of the 12th IAPR International Conference on Pattern Recognition, vol. 1--Conference A: Computer Vision &amp; Image Processing, Oct. 9-13, 1994, pp. 63-67. cited by examiner | Cootes, T.F.; Walker, K.; Taylor, C.J.; &quot;View-based active appearance models&quot;, Proceedings of 4th IEEE International Conference on Automatic Face and Gesture Recognition, Mar. 28-30, 2000, pp. 227-232. cited by examiner | Edwards, G.J.; Taylor, C.J.; Cootes, T.F.; &quot;Interpreting face images using active appearance models&quot;, Proceedings of 3rd IEEE International Conference on Automatic Face and Gesture Recognition, Apr. 14-16, 1998, pp. 300-305. cited by examiner | Froba, B. et al., &quot;Real-time active shape models for face segmentation&quot;, Proceedings of 2001 International Conference on Image Processing, vol. 1, Oct. 7-10, 2001, pp. 205-208. cited by examiner | Hao Wang; Kongqiao Wang; &quot;Facial feature extraction and image-based face drawing&quot;, 6th International Conference on Signal Processing, vol. 1, Aug. 26-30, 2002, pp. 699-702. cited by examiner | Hutton, T.J.; Buxton, B.R.; Hammond, P.; &quot;Dense surface point distribution models of the human face&quot;, IEEE Workshop on Mathematical Methods in Biomedical Image Analysis (MMBIA 2001), Dec. 9-10, 2001, pp. 153-160. cited by examiner | Kap-Ho Seo; Won Kim; Changmok Oh; Ju-Jang Lee; &quot;Face detection and facial feature extraction using color snake&quot;, Proceedings of 2002 IEEE International Symposium on Industrial Electronics (ISIE 2002), vol. 2, Jul. 8-11, 2002, pp. 457-462. cited by examiner | Lanitis, A.; Taylor, C.J.; Cootes, T.F.; &quot;Automatic interpretation and coding of face images using flexible models&quot;, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 19, Issue 7, Jul. 1997, pp. 743-756. cited by examiner | Lanitis, A.; Taylor, C.J.; Cootes, T.F.; &quot;Automatic tracking, coding and reconstruction of human faces, using flexible appearance models&quot;, Electronics Letters, vol. 30, Issue 19, Sep. 15, 1994, pp. 1587-1588. cited by examiner | Li Yong et al., &quot;Face contour extraction with active shape models embedded knowledge&quot;, Proceedings of WCCC-ICSP 2000 5th International Conference on Signal Processing, vol. 2, Aug. 21-25, 2000, pp. 1347-1350. cited by examiner | Sum, K.L. et al., &quot;A new optimization procedure for extracting the point-based lip contour using active shape model&quot;, Proceedings of 2001 IEEE International Conference on Acoustics, Speech, and Signal Processing, (ICASSP '01), vol. 3, May 7-11, 2001, pp. 1485-1488. cited by examiner | Walker, K.N.; Cootes, T.F.; Taylor, C.J.; &quot;Determining correspondences for statistical models of facial appearance&quot;, Proceedings of 4th IEEE International Conference on Automatic Face and Gesture Recognition, Mar. 28-30, 2000, pp. 271-276. cited by examiner | Yuanzhong Li; Kobatake, H.; &quot;Extraction of facial sketch images and expression transformation based on FACS&quot;, Proceedings of International Conference on Image Processing, vol. 3, Oct. 23-26, 1995, pp. 520-523. cited by examiner | Hotta, K.; Mishima, T.; Kurita, T.; Umeyama, S.; &quot;Face matching through information theoretical attention points and its applications to face detection and classification&quot;, Proceedings of 4th IEEE International Conference on Automatic Face and Gesture Recognition, Mar. 28-30, 2000, pp. 34-39. cited by examiner | Ki-Chung Chung; Seok Cheol Kee; Sang Ryong Kim; &quot;Face recognition using principal component analysis of Gabor filter responses&quot;, Proceedings of International Workshop on Recognition, Analysis, and Tracking of Faces and Gestures in Real-Time Systems, Sep. 26-27, 1999, pp. 53-57. cited by examiner | Lee, R.S.T.; Liu, J.N.K.; &quot;An integrated elastic contour fitting and attribute graph matching model for automatic face coding and recognition&quot;, Third International Conference Knowledge-Based Intelligent Information Engineering Systems, Aug. 31-Sep. 1, 1999, pp. 292-295. cited by examiner | Lyons, M.; Akamatsu, S.; Kamachi, M.; Gyoba, J.; &quot;Coding facial expressions with Gabor wavelets&quot;, Proceedings of 3rd IEEE International Conference on Automatic Face and Gesture Recognition, Apr. 14-16, 1998, pp. 200-205. cited by examiner | Yingjie Wang; Chin-Seng Chua; Yeong-Khing Ho; Ying Ren; &quot;Integrated 2D and 3D images for face recognition&quot;, Proceedings of 11th International Conference on Image Analysis and Processing, Sep. 26-28, 2001, pp. 48-53. cited by examiner | Ying-Ii Tian; Kanade, T.; Cohn, J.F.; &quot;Evaluation of Gabor-wavelet-based facial action unit recognition in image sequences of increasing complexity&quot;, Proceedings of 5th IEEE International Conference on Automatic Face and Gesture Recognition, May 20-21, 2002, pp. 218-223. cited by examiner | Dornaika, F.; Ahlberg, J.; &quot;Face model adaptation using robust matching and active appearance models&quot;, Proceedings Sixth IEEE Workshop on Applications of Computer Vision, 2002. (WACV 2002), Dec. 3-4, 2002, pp. 3-7. cited by examiner | Fujiwara, et al.; &quot;On the detection of feature points of 3D facial image and its application to 3D facial caricature&quot;, Proceedings Second International Conference on 3-D Digital Imaging and Modeling, Oct. 4-8, 1999, pp. 490-496. cited by examiner | Fujiwara, et al.; &quot;3D modeling system of human face and full 3D facial caricaturing&quot;, Proceedings Third International Conference on 3-D Digital Imaging and Modeling, May 28-Jun. 1, 2001, pp. 385-392. cited by examiner | Fujiwara, et al.; &quot;3D modeling system of human face and full 3D facial caricaturing&quot;, Proceedings Seventh International Conference on Virtual Systems and Multimedia, Oct. 25-27, 2001, pp. 625-633. cited by examiner | Fujiwara, et al.; &quot;A method for 3D face modeling and caricatured figure generation&quot;, Proceedings 2002 IEEE International Conference on Multimedia and Expo, ICME '02, vol. 2, Aug. 26-29, 2002, pp. 137-140. cited by examiner | Lin Liang et al.; &quot;Example-based caricature generation with exaggeration&quot;, Proceedings 10th Pacific Conference on Computer Graphics and Applications, Oct. 9-11, 2002, pp. 386-393. cited by examiner | Pujol, A.; Villanueva, J.J.; Wechsler, H.; &quot;Automatic view based caricaturing&quot;, Proceedings 15th International Conference on Pattern Recognition, vol. 1, Sep. 3-7, 2000, pp. 1072-1075. cited by examiner | Tiddeman, B.; Rabey, G.; Duffy, N.; &quot;Synthesis and transformation of three-dimensional facial images&quot;, IEEE Engineering in Medicine and Biology Magazine, vol. 18, Issue 6, Nov.-Dec. 1999, pp. 64-69. cited by examiner | Korean Office Action (with English translation), dated Apr. 22, 2004. cited by other | Office Action issued by Japanese Patent Office on Jun. 7, 2006. cited by other.
+	</str>
+	<str name="Other References Count">
+		30
+	</str>
+	<str name="Cited By">
+		US8131013 | US7760204 | US7956863
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US4276570 | US4389677 | US5608839 | US5774129 | US5844573 | US5917943 | US5933527 | US5960099 | US5990901 | US6031539 | US6064768 | US6094508 | US6163619 | US6181806 | US6188776 | US6192150 | US6208356 | US6226015 | US6278460 | US6283858 | US6304264 | US6476803 | US6532011 | US6545673 | US6580821 | US6912293 | US7095878 | US7123262 | US20020018595 | US20030146918 | US20040170323 | US20050027492 | EP0505142 | JP1996194839 | JP1997097354 | JP2002063585 | KR20000049421 | KR20000063391 | KR20000064110 | KR20010069820 | KR2002014298
+	</str>
+	<str name="Cites Count">
+		41
+	</str>
+	<str name="Priority Country">
+		KR | KR
+	</str>
+	<str name="Priority Number">
+		10-2002-0024425 | 10-2002-0061583
+	</str>
+	<str name="Priority Date">
+		2002-05-03 | 2002-10-09
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon, Kyungki-Do, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon, Kyungki-Do, KR
+	</str>
+	<str name="Inventor(s)">
+		KIM, JAY, WOO | KIM, DONG, KWAN | PARK, JUN, HO | HWANG, EUI, HYEON | PARK, DONG, RYEOL
+	</str>
+	<str name="1st Inventor">
+		KIM, JAY, WOO
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Yongin, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Yongin, KR | Suwon, KR | Suwon, KR | Bucheon, KR | Yongin, KR
+	</str>
+	<str name="Agent/Attorney">
+		BUCHANAN INGERSOLL &amp; ROONEY PC
+	</str>
+	<str name="Primary Examiner">
+		CHAUHAN, ULKA
+	</str>
+	<str name="Assistant Examiner">
+		PRENDERGAST, ROBERTA
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

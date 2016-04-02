@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7964019
+	</str>
+	<str name="Application Number">
+		US12407055
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Gas separation membrane
+	</str>
+	<str name="Abstract">
+		A membrane for gas separation includes a porous support layer and a separation layer. The separation layer comprises a mixture of one or more saccharide derivatives and one or more homopolymers. The saccharide derivative(s) may have a cyclic structure with five or six ring atoms, or a linear structure, or may include monosaccharide derivatives which are bound via glycoside bonds, and the number of monosaccharides bound in this manner may be 2 to 1,000. A membrane can be produced by preparing a homogeneous solution which comprises a saccharide derivative and a homopolymer in a solvent; and pouring the homogenous solution onto a support layer. The membrane may be used in a gas separation module the operation of which makes use of the membrane.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-03-19
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-03
+	</str>
+	<str name="Publication Date">
+		2011-06-21
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+	<str name="All IPC">
+		B01D71/08 | B01D69/10 | B01D53/22 | B01D67/00
+	</str>
+	<str name="IPC Primary">
+		B01D71/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D71
+	</str>
+	<str name="All UPC">
+		96/14 | 96/13 | 210/640 | 96/12 | 210/500.3 | 96/11 | 95/54 | 95/45 | 210/500.28 | 55/DIG.5 | 210/500.27 | 210/500.29 | 95/51 | 95/50 | 96/4 | 55/524
+	</str>
+	<str name="UPC Primary">
+		96/14
+	</str>
+	<str name="UPC Class">
+		96
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Shishatskii et al., &quot;Effects of film thickness on density and gas permeation parameters of glassy polymers&quot;, Journal of Membrane Science 112 (1996) 275-285. cited by other. | Baker, R., &quot;Membrane Technology in the Chemical Industry: Future Directions&quot;, Wiley-VCH Verlag GmbH, 2001, 268-295. cited by other . | Jia, Mengdong; et al. &quot;Molecular Sieving Effect of the Zeolite-Filled Silicone Rubber Membranes in Gas Permeation&quot;, Journal of Membrane Science, 57, (1991), 289-296. cited by other . | Kulprathipanja, Santi. &quot;Mixed Matrix Membrane Development&quot;, Annals of the New York Academy of Sciences, 2003, 361-369. cited by other . | Filho et al., &quot;Water Flux through Blends from Waste Materials: Cellulose Acetate (from Sugar Cane Bagasse) with Polystyrene (from Plastic Cups)&quot;, Apr. 2005, Journal of Applied Polymer Science, vol. 96, pp. 516-522. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4609468 | US6562110 | US4921651 | US20040187558 | US7490725 | US5891572 | US6503295 | US20050087491 | EP1086737 | WO2003072232 | FR2786710 | DE19916802 | WO1989004201 | FR2776287 | WO1999022852
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102006044635
+	</str>
+	<str name="Priority Date">
+		2006-09-19
+	</str>
+	<str name="Assignee(s)">
+		GKSS-FORSCHUNGSZENTRUM GEESTHACHT GMBH
+	</str>
+	<str name="1st Assignee">
+		GKSS-FORSCHUNGSZENTRUM GEESTHACHT GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		DE
+	</str>
+	<str name="Assignee(s) Address">
+		DE
+	</str>
+	<str name="Inventor(s)">
+		QIU, JUN | PEINEMANN, KLAUS-VIKTOR | WIND, JAN | PINGEL, HOLGER
+	</str>
+	<str name="1st Inventor">
+		QIU, JUN
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Weert, NL
+	</str>
+	<str name="Inventor(s) Address">
+		Weert, NL | Geesthacht, DE | Lauenburg, DE | Geesthacht, DE
+	</str>
+	<str name="Agent/Attorney">
+		MICHAUD-KINNEY GROUP LLP
+	</str>
+	<str name="Primary Examiner">
+		GREENE, JASON M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

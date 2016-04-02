@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7736513
+	</str>
+	<str name="Application Number">
+		US11892959
+	</str>
+	<str name="Title">
+		Liquid-solid fluidized bed waste water treatment system for simultaneous carbon, nitrogen and phosphorous removal
+	</str>
+	<str name="Abstract">
+		Biological nutrient removal (BNR) in wastewater treatment to remove carbonaceous substrates, nutrients and phosphorus, has recently become increasingly popular worldwide due to increasingly stringent regulations. Biological fluidized bed (BFB) technology, which could be potentially used for BNR processes, can provide some advantages such as high efficiency and compact structure. This present invention incorporates the fixed-film biological fluidized bed technology with the biological nutrient removal in a twin liquid-solid fluidized bed, which has achieved the simultaneous elimination of organic carbon, nitrogen and phosphorus, in a very efficient manner and with very compact space requirements. The BNR-LSFB has two fluidized beds, running as anoxic/anaerobic and aerobic processes to accomplish simultaneous nitrification and denitrification and to remove carbonaceous substrates, nutrients and phosphorus, with continuous liquid and solids recirculation through the anoxic/anaerobic bed and the aerobic bed. The new BNR-LSFB system is not only an excellent alternative for conventional activated sludge type BNR technologies but is also capable of processing much higher loadings and suitable for industrial applications.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-08-28
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2010-06-15
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/150 | 210/903 | 210/603 | 210/617 | 210/906 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Zheng, Y., Zhu, J.Z., Bassi, A.S. and Margaritis, A., The axial hydrodynamic behaviour in a liquid-solid circulating fluidized bed. Can. J. Chem. Eng. 77, 284-290 (1999). cited by other . | Chian ES, and DeWalle FB, Treatment of High Strength Acidic Wastewater with a Completely Mixed Anaerobic Reactor, Water Research, 11, 295-304, (1977). cited by other . | Liang, W.-G., Wu, Q.-W., Uy, Z.-Q., Jin, Y. And Wang, Z.-W., Hydrodynamics of a gas-liquid-solid three phase circulating fluidized bed, Can. J. Chem. Eng., 73, 656-661 (1995). cited by other . | Zweger B, Arnold E and Wildever PA, Nutrient Balances for Combined Nitrification and Dentrification in Biofilters, Water Sci. Tech., 4(4), 91-95, 2000. cited by other . | Cooper, P.F. and Williams, S. C., High-rate nitrification in a biological fluidized bed, Wat. Sci. Tech., 22, 431-442 (1990). cited by other . | Weber, W. J., Hopkins, C. B. And Bloom, R., Physical-chemical treatment of wastewater. J. Wat. Pollut, Control Fed., 42, 83-88 (1970). cited by other . | Zheng, Y., Zhu, J.-S., Marwaha, N.S. and Bassi, A.S., &quot;Radical solids flow structure in a liquid-solids circulating fluidized bed&quot;, Chem. Eng. J., 88(2), 141-150, 2002. cited by other . | Musvoto EV, Casey TG, Ekama GA, Wantzzel MG and Marais GVR, The Effect of Incomplete Dentrification on Anoxic-Aerobic (Low F/m) Filament Bulking in Nutrient Removal Activated Sludge Systems, Water Sci. Tech., 29(7), 295-299, 1994. cited by other . | Casey TG, Wentzel MC, Ekama GA, Lowenthal RE, and Marais GVR, &quot;A Hypothesis for the Causes and Control of Anoxic-Aerobic (AA) Filament Bulking in Nutrient Removal Activated Sludge Systems&quot;, Water Sci. Tech., 290 (7), 203-212, 1994. cited by other . | Semon, J., Sadick, T., Palumbo, D., Santoro, M and Keenan, P., Biological upflow fluidized bed dentrification reactor demonstration project--Stanford, CT, USA, Wat. Sci. Tech., 36, 139-146 (1997). cited by other . | Burton, Franklin L., Wastewater Engineering Treatment, Disposable and Reuse, Third Edition, Metcalf &amp; Eddy, Inc., pp. 614-635. cited by other. | Liang, W.G., Zhang, S.L., Zhu, J.X., Yu, Z. Q., Jin, Y. And Wang, Z.W., Flow characteristic of the liquid-solid circulating fluidized bed, Power Technol. 90, 95-102 (1997). cited by other . | Robinson JA, Trulear AG, and Characklis WG, Cellular Reproduction and Extracellular Polymer Formation by Pseudomonas aeruginosa in Continuous Cultures, Biotechnol. &amp; Bioeng., XXV, 1409, (1984). cited by other . | Switzenabum MS, and Jewel WJ, Anaerobic attached-film expanded bed reactor treatment, J. Water Pollution Control Fed. 52, 1953-1965. cited by other . | Hoyland, G. And Robinson, P.J., Aerobic treatment in OXITRON biological fluidized bed plant at Coleshill, Wat. Pollut. Control, 82, 479-493 (1983). cited by other . | Kunii, D. And Levenspiel, O., Fluidization Engineering, Butterworth-Heinemann, Stoneham, MA, USA (1991). cited by other . | Jeris, J.S. and Owens, R. W., Polit-scale high-rate biological dentrification, J. Wat. Pollut. Control Fed., 47, 2045-2057 (1975). cited by other . | Battistoni, P., Pavan, P., Cecchi, F. And Mata-Alvarez, J. Phosphate removal in real anaerobic supernatants: Modelling and performance of a fluidized bed reactor. Wat. Sci. Tech., 38, 275-283 (1998). cited by other . | Rogalla F., Payradeau M., Bacquet G, Bourbigot, MM and Sibony J, Nitrification and Phosphorus Precipitation with Biological Aerated Fillers, Water Environ. Res., 62(2), 169-176, (1990). cited by other . | Zhu, J., Zheng, Y., Dimitre G. Karamanev and Amarjeet S.B., (Gas-) Liquid-solid circulating fluidized beds and their potential applications to bioreactor engineering, Can. J. Chem. Eng., 78, 82-94 (2000). cited by other . | Van Dijk, J.C. and Braakensiek, H. Phosphate removal by crystallization in a fluidized bed. Wat. Sci. Tech., 17, 133-142 (1985). cited by other . | Liang, W.-G., Wu, Q.-W., Uy, Z.-Q., Jin, Y. And Bi, X-T., Flow regimes of the three-phase circulating fluidized bed, American Institute Chem. Eng. J., 41, 267-271 (1995). cited by other . | Liang, W.-G., Yu, Z.-Q., Jin, Y., Wang, Z.-W., and Wu, Q.-W., Phase holdups in a gas-liquid-solid circulating fluidized bed, Chem. Eng. J. &amp; Biochem. Eng. J., 58, 259-264 (1995). cited by other .
+	</str>
+	<str name="Other References Count">
+		23
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6716344 | US5670047 | US5747311 | US4968427 | US5733454 | US5961830 | CA2498747 | FR2676044 | WO2005080276 | CA2205003
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Assignee(s)">
+		THE UNIVERSITY OF WESTERN ONTARIO
+	</str>
+	<str name="1st Assignee">
+		THE UNIVERSITY OF WESTERN ONTARIO
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		London, ON, CA
+	</str>
+	<str name="Assignee(s) Address">
+		London, ON, CA
+	</str>
+	<str name="Inventor(s)">
+		ZHU, JINGXU | NAKHLA, GEORGE | CUI, YUBO
+	</str>
+	<str name="1st Inventor">
+		ZHU, JINGXU
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		London, CA
+	</str>
+	<str name="Inventor(s) Address">
+		London, CA | Woodbridge, CA | Dalian, CN
+	</str>
+	<str name="Agent/Attorney">
+		HILL &amp; SCHUMACHER SCHUMACHER, LYNN C.
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

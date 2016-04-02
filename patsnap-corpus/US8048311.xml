@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8048311
+	</str>
+	<str name="Application Number">
+		US12349213
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Methods and systems for zero discharge water treatment
+	</str>
+	<str name="Abstract">
+		Methods and systems for a zero discharge waste water treatment system are provided. The system includes a filtration train including filter media having successively smaller diameter filtration elements, a reverse osmosis apparatus including a pump and a membrane coupled in flow communication with said filtration train, a vapor compressor coupled in flow communication with said reverse osmosis apparatus, and a spray dryer coupled in flow communication with said vapor compressor, said spray dryer configured to separate moisture in a brine solution from particulate suspended in the brine solution.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-01-06
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-01
+	</str>
+	<str name="Publication Date">
+		2011-11-01
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		F25B1/00 | B01D61/00 | B01D63/00
+	</str>
+	<str name="IPC Primary">
+		F25B1/00
+	</str>
+	<str name="IPC Section">
+		F
+	</str>
+	<str name="IPC Class">
+		F25
+	</str>
+	<str name="IPC Subclass">
+		F25B
+	</str>
+	<str name="IPC Group">
+		F25B1
+	</str>
+	<str name="All UPC">
+		62/115 | 166/266 | 210/652 | 210/651 | 210/650 | 166/120 | 210/195.2 | 210/195.1 | 210/175 | 95/55 | 210/180
+	</str>
+	<str name="UPC Primary">
+		62/115
+	</str>
+	<str name="UPC Class">
+		62
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7318894 | US5374333 | US7591309 | US7305724 | US5925223 | US7718069 | US7847923 | US4434057 | US6613125 | US5071540 | US5576057 | US5336409 | US4432417
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Assignee(s)">
+		GENERAL ELECTRIC COMPANY
+	</str>
+	<str name="1st Assignee">
+		GENERAL ELECTRIC COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Schenectady, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Schenectady, NY
+	</str>
+	<str name="Inventor(s)">
+		WALLACE, PAUL, STEVEN | STOREY, JAMES, MICHAEL | AVAGLIANO, AARON, JOHN
+	</str>
+	<str name="1st Inventor">
+		WALLACE, PAUL, STEVEN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Katy, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Katy, TX | Houston, TX | Houston, TX
+	</str>
+	<str name="Agent/Attorney">
+		ARMSTRONG TEASDALE LLP
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7749386
+	</str>
+	<str name="Application Number">
+		US11171378
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Desalination system
+	</str>
+	<str name="Abstract">
+		The invention provides methods and an apparatus for more efficiently and economically producing purified water from sea water or some other salty or brackish water source. The efficiency is derived from the co-location with a power plant or other thermal generating source that will heat the feed water. Reverse osmosis membrane filtration systems work optimally when the feed water is at certain higher temperature, where that temperature is typically higher than the feed water at ambient temperatures. By using the heated sea water as the byproduct of the power plant electricity generating process and if necessary mixing it with ambient temperature sea water, if needed to lower the water temperature, and using this feed water with a higher temperature than ambient water temperature, the efficiency of the reverse osmosis system can be increased.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-07-01
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-07
+	</str>
+	<str name="Publication Date">
+		2010-07-06
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-07
+	</str>
+	<str name="All IPC">
+		B01D61/00 | B01D63/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		60/648 | 210/257.2 | 210/97 | 210/652 | 210/102 | 210/195.2 | 210/175
+	</str>
+	<str name="UPC Primary">
+		60/648
+	</str>
+	<str name="UPC Class">
+		60
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8206589
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6946081 | US6679988 | US7128310 | US6833056 | US6905604 | US7118307 | US7037430 | US4169789 | US5098575 | US4161445 | US6468431 | US3352107 | US6306291 | US5980716 | US7416666 | US6183646 | US5547584 | US6299766 | US5622605 | US4434057 | US5076934 | US7225620 | US5128042 | US6126834 | US4347704 | US6083382 | US7083730 | US4083781 | US4141825 | US5329798 | US6647717 | US6187200 | US7178337 | US7081205 | US6100600 | US7239037 | US4765514 | US5346592 | US5814224 | US5238574 | US5645693 | US3890207 | US6508936 | US7329962 | US3816266 | US6190558 | US6783682 | US3671404 | US4354939 | US6190556 | US5651894 | IL67054 | WO2006106158 | WO1997018166
+	</str>
+	<str name="Cites Count">
+		54
+	</str>
+	<str name="Assignee(s)">
+		POSEIDON RESOURCES IP LLC
+	</str>
+	<str name="1st Assignee">
+		POSEIDON RESOURCES IP LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Huntington Beach, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Huntington Beach, CA
+	</str>
+	<str name="Inventor(s)">
+		VOUTCHKOV, NIKOLAY
+	</str>
+	<str name="1st Inventor">
+		VOUTCHKOV, NIKOLAY
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Stamford, CT
+	</str>
+	<str name="Inventor(s) Address">
+		Stamford, CT
+	</str>
+	<str name="Agent/Attorney">
+		DICKSTEIN SHAPIRO LLP
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

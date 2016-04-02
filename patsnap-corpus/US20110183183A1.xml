@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20110183183A1
+	</str>
+	<str name="Application Number">
+		US13/014195
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		BATTERY ARRAYS, CONSTRUCTIONS AND METHOD
+	</str>
+	<str name="Abstract">
+		Disclosed is a stacked array of a plurality of thin film batteries that are electrically connected together. The stacked array is in a staggered configuration. The outermost points of side edges on one side of the stacked array preferably generally conform to an interior surface of an electronic device or component thereof in order to advantageously save space in the device. In an embodiment, the stacked array comprises at least one battery having a single surface in contact with a plurality of batteries. In another embodiment, a shaped array of a plurality of thin film batteries electrically connected together is provided, whereby a plurality of batteries are arranged in a single layer on a non-rectangular substrate adjacent to one another generally in the shape of the surface of the substrate. Additionally, a thin film battery is described wherein at least one via is provided through the substrate and at least one other via through an insulation layer to provide electronic connection to the battery cell.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2011-01-26
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-01
+	</str>
+	<str name="Publication Date">
+		2011-07-28
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		H01M10/02 | H01M10/04
+	</str>
+	<str name="IPC Primary">
+		H01M10/02
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="All UPC">
+		429/152 | 29/623.3 | 429/162
+	</str>
+	<str name="UPC Primary">
+		429/152
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Inventor(s)">
+		GRADY STEVEN C. | SATHER JEFFREY S. | WILSON BLAIR A.
+	</str>
+	<str name="1st Inventor">
+		GRADY STEVEN C.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Chanhassen,MN,US
+	</str>
+	<str name="Inventor(s) Address">
+		Chanhassen,MN,US | Independence,MN,US | Wayzata,MN,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

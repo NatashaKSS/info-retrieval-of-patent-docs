@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090052788A1
+	</str>
+
+	<str name="Application Number">
+		US12083553
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		Image Processing Method, Image Processing Program, Image Processing Device, and Imaging Device
+	</str>
+
+	<str name="Abstract">
+		An image-processing method is characterized by including a searching operation of searching for a local motion vector from each of blocks in the plural images, an electing operation of electing a representative motion vector from the local motion vectors of the respective blocks, and an approximating operation of approximating a motion vector distribution on the images based on the representative motion vector in order to detect motion between plural images with high precision without increasing the number of blocks made by dividing an image. In addition, when an approximate surface thereof is a plane, the operation amount for approximating the motion vector distribution and the information amount for representing the motion vector distribution can be minimized. | &#19968;&#31181;&#22270;&#20687;&#22788;&#29702;&#26041;&#27861;&#30340;&#29305;&#28857;&#26159;&#21253;&#25324;&#20102;&#20174;&#27599;&#22359;&#22320;&#26041;&#30340;&#35758;&#26696;&#30340;&#22797;&#25968;&#22270;&#20687;&#65292;&#23545;&#36873;&#20030;&#20174;&#21508;&#33258;&#30340;&#36816;&#21160;&#30690;&#37327;&#22359;&#22320;&#26041;&#36816;&#21160;&#30690;&#37327;&#20195;&#34920;&#36873;&#20030;&#24037;&#20316;&#65292;&#20197;&#21450;&#36817;&#20284;&#30690;&#37327;&#25628;&#32034;&#25628;&#26597;&#34892;&#21160;&#36924;&#36817;&#19968;&#20010;&#20851;&#20110;&#20195;&#34920;&#35758;&#26696;&#30340;&#22522;&#30784;&#19978;&#30340;&#22270;&#20687;&#30690;&#37327;&#36816;&#21160;&#30690;&#37327;&#20998;&#38144;&#19994;&#21153;&#65292;&#20197;&#26816;&#27979;&#31934;&#24230;&#39640;&#30340;&#35758;&#26696;&#65292;&#19981;&#20250;&#22686;&#21152;&#38500;&#20197;&#22270;&#20687;&#22359;&#30340;&#25968;&#37327;&#20316;&#20986;&#22797;&#25968;&#22270;&#20687;&#20043;&#38388;&#12290;&#27492;&#22806;&#65292;&#24403;&#19968;&#20010;&#36817;&#20284;&#20854;&#34920;&#38754;&#26159;&#19968;&#20010;&#24179;&#38754;&#65292;&#23545;&#36817;&#20284;&#30340;&#36816;&#21160;&#30690;&#37327;&#30340;&#20998;&#24067;&#21644;&#36816;&#21160;&#30690;&#37327;&#20195;&#34920;&#20998;&#21457;&#20449;&#24687;&#30340;&#25968;&#37327;&#25805;&#20316;&#37327;&#21487;&#20943;&#33267;&#26368;&#20302;&#12290;
+	</str>
+
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+
+	<str name="Application Date">
+		2006-11-01
+	</str>
+
+	<str name="Application Year">
+		2006
+	</str>
+
+	<str name="Application(Year/Month)">
+		2006-11
+	</str>
+
+	<str name="Publication Date">
+		2009-02-26
+	</str>
+
+	<str name="Publication Year">
+		2009
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+
+	<str name="All IPC">
+		G06K9/36
+	</str>
+
+	<str name="IPC Primary">
+		G06K9/36
+	</str>
+
+	<str name="IPC Section">
+		G
+	</str>
+
+	<str name="IPC Class">
+		G06
+	</str>
+
+	<str name="IPC Subclass">
+		G06K
+	</str>
+
+	<str name="IPC Group">
+		G06K9
+	</str>
+
+	<str name="All UPC">
+		375/240.16 | 382/236
+	</str>
+
+	<str name="UPC Primary">
+		375/240.16
+	</str>
+
+	<str name="UPC Class">
+		375
+	</str>
+
+	<str name="Family Members">
+		EP1956556A1 | WO2007063675A1 | US20090052788A1 | EP1956556A4
+	</str>
+
+	<str name="Family Member Count">
+		4
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		JP
+	</str>
+
+	<str name="Priority Number">
+		2005345715
+	</str>
+
+	<str name="Priority Date">
+		2005-11-30
+	</str>
+
+	<str name="Assignee(s)">
+		NIKON CORPORATION
+	</str>
+
+	<str name="1st Assignee">
+		NIKON CORPORATION
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		Tokyo,JP
+	</str>
+
+	<str name="Assignee(s) Address">
+		Tokyo,JP
+	</str>
+
+	<str name="Inventor(s)">
+		DOIDA SHIGERU
+	</str>
+
+	<str name="1st Inventor">
+		DOIDA SHIGERU
+	</str>
+
+	<str name="Number of Inventors">
+		1
+	</str>
+
+	<str name="1st Inventor Address">
+		Tokyo,JP
+	</str>
+
+	<str name="Inventor(s) Address">
+		Tokyo,JP
+	</str>
+
+	<str name="Agent/Attorney">
+		OLIFF &amp; BERRIDGE, PLC
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP0917148A2
+	</str>
+	<str name="Application Number">
+		EP1998121135
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		An apparatus for editing moving picture having a related information thereof, an editing method and recording medium for storing procedures in the same method
+	</str>
+	<str name="Abstract">
+		An apparatus for editing moving picture having a related information thereof comprising; input means for inputting said moving picture and said related information, said moving picture comprising a plurality of scenes, each scene comprising a plurality of cuts and each cut comprising a plurality of frame images; detecting means for detecting change points of said moving picture and dividing said moving picture into said scenes and cuts; selecting means for extracting a still image representing each of said scenes and cuts; a memory for storing said related information and the representative still images of said scenes and cuts; means for designating said representative still images of said scenes and cuts to edit said moving picture; means for determining a hierarchical structure, said hierarchical structure comprising a plurality of layers in accordance with said scenes and cuts; means for displaying said hierarchical structure and said related information; and a controller for controlling said memory and said display means so that said related information in relation to said representative still images to be displayed is displayed with said representative still images.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-11-10
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-11
+	</str>
+	<str name="Publication Date">
+		1999-05-19
+	</str>
+	<str name="Publication Year">
+		1999
+	</str>
+	<str name="Publication(Year/Month)">
+		1999-05
+	</str>
+	<str name="All IPC">
+		G06F3/33 | G11B27/11 | G11B27/28 | G11B27/34 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F3/33
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F3
+	</str>
+	<str name="Family Members">
+		EP0917148A3 | JP3613543B2 | US20020131760A1 | US6526215 | EP0917148A2 | JP1999205736A
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		UEDA H ET AL:  &quot;AUTOMATIC SCENE SEPARATION AND TREE STRUCTURE GUI FOR VIDEO EDITING&quot; PROCEEDINGS OF ACM MULTIMEDIA 96. BOSTON, NOV. 18 - 22, 1996, NEW YORK, ACM, US,  18 November 1996 (1996-11-18), pages 405-406, XP000867693 ISBN: 0-89791-871-1 | PATENT ABSTRACTS OF JAPAN vol. 018, no. 606 (P-1827), 17 November 1994 (1994-11-17) &amp; JP 06 223179 A (HITACHI LTD), 12 August 1994 (1994-08-12)
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US5956453 | US5537528 | WO1997039411A1 | EP0774756A2
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		30893697 | 9197598
+	</str>
+	<str name="Priority Date">
+		1997-11-11 | 1998-04-03
+	</str>
+	<str name="Assignee(s)">
+		HITACHI DENSHI KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		HITACHI DENSHI KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		HIRAI, SEIICHI | UEDA, HIROTADA
+	</str>
+	<str name="1st Inventor">
+		HIRAI, SEIICHI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

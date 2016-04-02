@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7887708
+	</str>
+	<str name="Application Number">
+		US11241122
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and device for water treatment using an electromagnetic field
+	</str>
+	<str name="Abstract">
+		A method and a device for treating water using an electromagnetic field. The method comprising the steps of subjecting the water to the electromagnetic field generated utilizing an inductor coil; and varying a frequency of a driving signal for the inductor coil such that the generated electromagnetic field has a varying frequency.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-09-30
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2011-02-15
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		B01D35/06 | C02F1/48
+	</str>
+	<str name="IPC Primary">
+		B01D35/06
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D35
+	</str>
+	<str name="All UPC">
+		210/695 | 210/223 | 210/222 | 204/155 | 204/661 | 210/748.03 | 204/664 | 210/748.04 | 210/748.01 | 204/554 | 204/557 | 204/555 | 204/660
+	</str>
+	<str name="UPC Primary">
+		210/695
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Shinji Isogai et al., &quot;Measurement and Modeling for the Mitigation of Organic Crystallization Fouling&quot;, 2003 ECI Conference on Heat Exchanger Fouling and Cleaning: Fundamentals and Applications, 2004. cited by other . | Fahmi Brahim et al., &quot;Numerical Simulation of the Fouling on Structured Heat Transfer Surfaces (Fouling)&quot;, 2003 ECI Conference on Heat Exchanger Fouling and Cleaning: Fundamentals and Applications, 2004. cited by other . | Esospec Global Technology PTE LTD., &quot;International Search Report&quot;, PCT/SG2006/000218, Sep. 22, 2006. cited by other. | Feridoun Fahiminia et al., &quot;Investigation of Initial Fouling Rates of Calcium Sulfate Solutions under Non-Boiling Conditions (Work-in-Progress)&quot;, 2003 ECI Conference on Heat Exchanger Fouling and Cleaning: Fundamentals and Applications, 2004. cited by other . | Y I Cho et al., &quot;Use of electronic anti-fouling technology with filtration to prevent fouling in a heat exchanger&quot;, 1998. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5344531 | US3680705 | US0438579 | US4210535 | US3923660 | US4865748 | US5364512 | US3366564 | US4288323 | US4157963 | US3349354 | US4347133 | US4151090 | US4365975 | US3625884 | US2825464 | US3715305 | US2583522 | US5514283 | US6743366 | US5738766 | US4226720 | US3402120 | US4936979 | US5171431 | US4427544 | US4680114 | US6401834 | US2652925 | US4582629 | US3669274
+	</str>
+	<str name="Cites Count">
+		31
+	</str>
+	<str name="Priority Country">
+		SG
+	</str>
+	<str name="Priority Number">
+		2005046784
+	</str>
+	<str name="Priority Date">
+		2005-08-02
+	</str>
+	<str name="Assignee(s)">
+		MASS TECHNOLOGY (H.K.) LIMITED
+	</str>
+	<str name="1st Assignee">
+		MASS TECHNOLOGY (H.K.) LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		HK
+	</str>
+	<str name="Assignee(s) Address">
+		HK
+	</str>
+	<str name="Inventor(s)">
+		CHEW, HWEE, HONG
+	</str>
+	<str name="1st Inventor">
+		CHEW, HWEE, HONG
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Singapore, SG
+	</str>
+	<str name="Inventor(s) Address">
+		Singapore, SG
+	</str>
+	<str name="Agent/Attorney">
+		MOORE &amp; VAN ALLEN PLLC DROZD, R. BRIAN JOHNSTON, MICHAEL G.
+	</str>
+	<str name="Primary Examiner">
+		REIFSNYDER, DAVID A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

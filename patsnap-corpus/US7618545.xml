@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7618545
+	</str>
+	<str name="Application Number">
+		US10567682
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for treating ship ballast water
+	</str>
+	<str name="Abstract">
+		A method for treating ship ballast water in which organisms viable in the ship ballast water are exterminated by adding to the ship ballast water hydrogen peroxide or a compound producing hydrogen peroxide in an amount such that a hydrogen peroxide concentration comes to be 10 to 500 mg/L and at least one type selected from a ferrous ion or a compound supplying ferrous ion in an amount such that a ferrous ion concentration comes to be 0.1 to 400 mg/L, catalase in an amount such that a concentration of catalase comes to be 0.5 to 2,500 unit/L and iodine or a compound supplying iodine amount such that an iodine concentration comes to be 0.1 to 100 mg/L.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-06-17
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-06
+	</str>
+	<str name="Publication Date">
+		2009-11-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		C02F1/76 | C02F1/72
+	</str>
+	<str name="IPC Primary">
+		C02F1/76
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/758 | 210/759 | 210/763 | 210/764 | 210/753
+	</str>
+	<str name="UPC Primary">
+		210/758
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1671932A1 | EP1671932A4 | US20060289364A1 | AU2005256100A1 | AU2005256100A8 | WO2006011315A1 | US7618545
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Derwent abstract for JP 2002086155, Nakamura K; 2002. cited by examiner. | The Merck Index, 14th ed., Monograph No. 01900 (web accessed). cited by examiner . | Machine translation of JP 2002-086155, Keisuke et al. cited by examiner . | Ikuta, et al., Biofouling Control Using a Synergistic Hydrogen Peroxide and Ferrous Ion Technique, 49th Annual Meeting, International Water Conference, 1998. cited by examiner . | Derwent abstract for JP 01-01094997, Fujino K, 1989. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5256423 | US4612124 | US5256701 | JP1993000910 | JP2004160437 | JP1991028101 | JP1989094997 | JP2002234487 | JP1992322788 | JP2001000974 | JP2003334563 | JP2695071 | JP1996091288 | JP2002086155 | JP2004042040 | EP0147795 | JP2000507153
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2004224403 | 2004242422
+	</str>
+	<str name="Priority Date">
+		2004-07-30 | 2004-08-23
+	</str>
+	<str name="Assignee(s)">
+		KATAYAMA CHEMICAL, INC.
+	</str>
+	<str name="1st Assignee">
+		KATAYAMA CHEMICAL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Osaka-shi, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Osaka-shi, JP
+	</str>
+	<str name="Inventor(s)">
+		WAKAO, YOSHIHARU | TABUCHI, TAKURO | MIZUMORI, TAKASHI
+	</str>
+	<str name="1st Inventor">
+		WAKAO, YOSHIHARU
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Osaka, JP | Osaka, JP | Osaka, JP
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEUSTADT, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="Assistant Examiner">
+		STELLING, LUCAS
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

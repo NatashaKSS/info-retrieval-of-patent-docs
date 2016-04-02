@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1772797B1
+	</str>
+
+	<str name="Application Number">
+		EP2005109309
+	</str>
+
+	<str name="Kind Code">
+		B1
+	</str>
+
+	<str name="Title">
+		Expandable battery compartment for handheld electronic devices | &#25163;&#25345;&#30005;&#23376;&#35774;&#22791;&#25193;&#23637;&#30005;&#27744;&#20179;
+	</str>
+
+	<str name="Document Types">
+		EP | EPB | DOCDB
+	</str>
+
+	<str name="Application Date">
+		2005-10-07
+	</str>
+
+	<str name="Application Year">
+		2005
+	</str>
+
+	<str name="Application(Year/Month)">
+		2005-10
+	</str>
+
+	<str name="Publication Date">
+		2007-06-13
+	</str>
+
+	<str name="Publication Year">
+		2007
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2007-06
+	</str>
+
+	<str name="All IPC">
+		H05K5/00 | H04M1/02 | H04B1/38 | H01M2/10 | G06F1/16
+	</str>
+
+	<str name="IPC Primary">
+		H05K5/00
+	</str>
+
+	<str name="IPC Section">
+		H
+	</str>
+
+	<str name="IPC Class">
+		H05
+	</str>
+
+	<str name="IPC Subclass">
+		H05K
+	</str>
+
+	<str name="IPC Group">
+		H05K5
+	</str>
+
+	<str name="Family Members">
+		EP1772797A1 | EP1772797B1 | EP1881392A1 | EP1881392B1 | EP2012215A2 | EP2012215A3 | DE602005001403T2 | AT430337T | DE602005001403D1 | DE602005014285D1 | CA2557382A1 | CA2666328A1 | AT364865T
+	</str>
+
+	<str name="Family Member Count">
+		13
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cites">
+		US6228528B1 | US4431717A | US5744930A | US5015546A | CA2315931A1
+	</str>
+
+	<str name="Cites Count">
+		5
+	</str>
+
+	<str name="Priority Country">
+		EP
+	</str>
+
+	<str name="Priority Number">
+		05109309
+	</str>
+
+	<str name="Priority Date">
+		2005-10-07
+	</str>
+
+	<str name="Assignee(s)">
+		RESEARCH IN MOTION LIMITED
+	</str>
+
+	<str name="1st Assignee">
+		RESEARCH IN MOTION LIMITED
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		295 Phillip Street, Waterloo, Ontario N2L 3W8, CA
+	</str>
+
+	<str name="Assignee(s) Address">
+		295 Phillip Street, Waterloo, Ontario N2L 3W8, CA
+	</str>
+
+	<str name="Inventor(s)">
+		LADOUCEUR, NORMAN, M | GRIFFIN, JASON, T | TYNESKI, FRANK
+	</str>
+
+	<str name="1st Inventor">
+		LADOUCEUR, NORMAN, M
+	</str>
+
+	<str name="Number of Inventors">
+		3
+	</str>
+
+	<str name="1st Inventor Address">
+		14, Gateway, Drive, Waterloo, Ontario, N2T, 1A2, CA
+	</str>
+
+	<str name="Inventor(s) Address">
+		14, Gateway, Drive, Waterloo, Ontario, N2T, 1A2, CA | 14, Deer, Ridge, Kitchener, Ontario, N2P, 2L3, CA | 481, Santa, Dominga, 92075, Solana, Beach, California, US
+	</str>
+
+	<str name="Agent/Attorney">
+		RICKARD, DAVID JOHN
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100017290A1
+	</str>
+	<str name="Application Number">
+		US12570940
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS, METHOD AND PROGRAM FOR ATTACHING ADVERTISEMENT
+	</str>
+	<str name="Abstract">
+		An image feature extractor of a server extracts a feature quantity of an input image from a client terminal. A keyword obtaining section obtains a keyword of the input image based on the feature quantity. A related image retriever retrieves a related image based on the keyword of the input image. The image feature extractor also extracts a feature quantity of the related image. The keyword obtaining section also obtains a keyword of the related image based on the feature quantity of the related image. An advertisement retriever retrieves an advertisement based on the keyword of the input image and the keyword of the related image. The input image, the keyword of the input image, the related image, the keyword of the related image and the advertisement are transmitted to the client terminal and displayed on its monitor.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2009-09-30
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-09
+	</str>
+	<str name="Publication Date">
+		2010-01-21
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		G06Q30/00
+	</str>
+	<str name="IPC Primary">
+		G06Q30/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06Q
+	</str>
+	<str name="IPC Group">
+		G06Q30
+	</str>
+	<str name="All UPC">
+		705/14.53 | 705/14.52
+	</str>
+	<str name="UPC Primary">
+		705/14.53
+	</str>
+	<str name="UPC Class">
+		705
+	</str>
+	<str name="Family Members">
+		US20100017290A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2008256260
+	</str>
+	<str name="Priority Date">
+		2008-01-10
+	</str>
+	<str name="Assignee(s)">
+		FUJIFILM CORPORATION
+	</str>
+	<str name="1st Assignee">
+		FUJIFILM CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo,JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s)">
+		MATSUI YUKO
+	</str>
+	<str name="1st Inventor">
+		MATSUI YUKO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo,JP
+	</str>
+	<str name="Agent/Attorney">
+		MCGINN INTELLECTUAL PROPERTY LAW GROUP, PLLC
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

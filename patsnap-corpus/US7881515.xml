@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7881515
+	</str>
+	<str name="Application Number">
+		US11859960
+	</str>
+	<str name="Title">
+		Cephalogram image analysis method
+	</str>
+	<str name="Abstract">
+		An automated cephalogram image analysis method is disclosed. In this method, a step is first performed for building a reference database in which a set of tracing feature curve models respectively representing a set of reference cephalometric patterns are established based on a set of tracing records. Then, a step of pattern comparison and analysis is performed. In this step, at least one cephalogram is first input, and then a step is performed for comparing the image of the cephalogram with the tracing feature curve models, thereby selecting at least one cephalometric pattern and at least one feature curve model belonging to the cephalometric pattern from the reference cephalometric patterns and the tracing feature curve models. Thereafter, the feature curve model is fitted to the image of the cephalogram so as to obtain at least one tracing of the at least one cephalogram.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-09-24
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2011-02-01
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/199 | 382/132 | 382/190
+	</str>
+	<str name="UPC Primary">
+		382/199
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Chen, Y.T; Cheng, K.S; Liu, J.K; &quot;Improving Cephalogram Analysis through Feature Submiage Extraction;&quot; IEEE Engineering in Medicine and Biology; Jan./Feb. 1999; pp. 25-31. cited by other. | Weining Yue, Dali Yin, Chengjun Li, Guoping Wang, Tianmin Xu, &quot;Automated 2-D Cephalometric Analysis on X-ray Images by a Model-Based Approach&quot;, Biomedical Engineering, IEEE Transactions on, Aug. 2006, vol. 53 Issue:8, pp. 1615-1623, ISSN: 0018-9294. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US6845175 | US7792341 | US6058200 | US7717708 | US20090003667 | US20070197902 | US5951498 | US7292716 | US6068482 | US7817817 | US5742700 | US20060120582 | US5278756
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		TW
+	</str>
+	<str name="Priority Number">
+		96123375A
+	</str>
+	<str name="Priority Date">
+		2007-06-27
+	</str>
+	<str name="Assignee(s)">
+		NATIONAL CHENG KUNG UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		NATIONAL CHENG KUNG UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tainan, TW
+	</str>
+	<str name="Assignee(s) Address">
+		Tainan, TW
+	</str>
+	<str name="Inventor(s)">
+		CHENG, KUO-SHENG | CHEN, YEN-TIN | LIU, JIA-KUANG
+	</str>
+	<str name="1st Inventor">
+		CHENG, KUO-SHENG
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Tainan, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Tainan, TW | Tainan, TW | Tainan, TW
+	</str>
+	<str name="Agent/Attorney">
+		THOMAS, KAYDEN, HORSTEMEYER &amp; RISLEY, LLP
+	</str>
+	<str name="Primary Examiner">
+		PERUNGAVOOR, SATH V
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

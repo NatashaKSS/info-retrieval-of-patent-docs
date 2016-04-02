@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2252971A2
+	</str>
+	<str name="Application Number">
+		EP20090710048
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		FACTORING REPEATED CONTENT WITHIN AND AMONG IMAGES
+	</str>
+	<str name="Abstract">
+		The claimed subject matter provides systems and/or methods that factor large-scale repeated content within and/or among images. The system can include devices and components that factor received or acquired images into epitomes that include all the content of the received or acquired images and transform maps that encode how to construct a facsimile or a close approximation of the image by selecting transformed regions from the epitomes. Though use of both the epitomes and the transform maps in conjunction, a facsimile or a close approximation of the input image can be reconstructed and displayed.
+	</str>
+	<str name="Document Types">
+		EP | EPA
+	</str>
+	<str name="Application Date">
+		2009-01-31
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-01
+	</str>
+	<str name="Publication Date">
+		2010-11-24
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		G06K9/46 | G06T1/00 | G06T3/00 | G06T7/40 | H04N7/26
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="Family Members">
+		US8204338B2 | EP2252971A4 | WO2009102562A3 | EP2252971A2 | US20090208110A1 | WO2009102562A2
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		2009032764 | 3122108
+	</str>
+	<str name="Priority Date">
+		2009-01-31 | 2008-02-14
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		HOPPE, HUGUES | WEXLER, YONATA | OFEK, EYA | WANG, HUAMIN
+	</str>
+	<str name="1st Inventor">
+		HOPPE, HUGUES
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

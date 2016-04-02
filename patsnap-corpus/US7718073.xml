@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7718073
+	</str>
+	<str name="Application Number">
+		US11833878
+	</str>
+	<str name="Title">
+		Device and process for treating a liquid medium
+	</str>
+	<str name="Abstract">
+		A device for treating liquid medium has an ultrasound emitter located relative to a compartment of a container holding a liquid medium and a microbubble emitter located relative to the compartment. The ultrasound emitter emits high-frequency ultrasound between about 200 KHz and 10 MHz. The microbubble emitter emits bubbles with an average diameter of less than 1 mm.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-08-03
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2010-05-18
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		A61B19/00 | C02F1/36
+	</str>
+	<str name="IPC Primary">
+		A61B19/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61B
+	</str>
+	<str name="IPC Group">
+		A61B19
+	</str>
+	<str name="All UPC">
+		422/186.1 | 210/695 | 210/205 | 210/222 | 210/696 | 422/20 | 210/167.3 | 422/22 | 210/758 | 210/748.03 | 210/764 | 601/2 | 128/898 | 210/192 | 210/721
+	</str>
+	<str name="UPC Primary">
+		422/186.1
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Umemura, Shin-ichiro et al., &quot;Mechanism of Cell Damage by Ultrasound in Combination with Hematoporphyrin,&quot; Jpn. J. Cancer Res., No. 81, pp. 962-966, Sep. 1990. cited by other . | Petrier, Christian et al., &quot;Sonochemical Degradation of Phenol in Dilute Aqueous Solutions: Comparison of the Reaction Rates at 20 and 487 kHz,&quot; J. Phys. Chem., pp. 10514-10520, 1994. cited by other . | Phull, S. S. et al., &quot;The Development and Evaluation of Ultrasound in the Biocidal Treatment of Water,&quot; Ultrasonics Sonochemistry, vol. 4, No. 2, pp. 157-164, Apr. 1997. cited by other . | Miller, et al., &quot;Single strand DNA breaks in human leukocytes inducted by ultrasound in vitro,&quot; Ultrasound in Med. &amp; Biol., vol. 15, No. 8, pp. 765-771, (1989). cited by other . | Miller, Douglas J., &quot;Effects of High Amplitude 1-MMHz Standing Ultrasonic Field on the Algae Hydrodictyon,&quot; IEEE, No. 2, 1986. cited by other. | Hua I et al., &quot;Optimization of Ultrasonic Irradiation as an Advanced Oxidation Technology,&quot; Environ. Sci. Technol. vol. 31, No. 8, pp. 2237-2243, Aug. 1997. cited by other . | Wyllie, et al., &quot;Apoptosis and the regulation of cell numbers in normal and neoplastic tissues: an overview,&quot; Cancer and Metastasis Reviews, vol. 11, pp. 95-103, (1992). cited by other . | Marmor, et al., &quot;Tumor eradication and cell survival after localized hyperthermia induced by ultrasound,&quot; Cancer Research, vol. 39, pp. 2166-2171, (Jun. 1979). cited by other . | Nyborg, W. L. and Ziskin, M. C. (Eds.), Biological Effects of Ultrasound, Churchill-Livingstone Inc., New York, pp. 23-33, (1985). cited by other .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cited By">
+		US8097170
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5149319 | US4820260 | US3634243 | US3257941 | US5401237 | US5616544 | US7448859 | US4602184 | US4514149 | US5224051 | US20060144801 | US5416210 | US4144722 | US5130031 | US6540922 | US2163649 | US5558092 | US5198122 | US5130032 | US4961860 | US20030136824 | US2717874 | US5679257 | US4605507 | US7404906 | US3672823 | US5632886 | US5827204 | US5971949 | US20070000844 | US7514009 | USR36939 | US5380411 | US5997812 | US6736979 | US5256182 | US4879045 | US5534172 | US5593596 | US4294853 | US4971991 | US5215680 | US5611993 | US7267778 | US4975109 | US4211744 | US7048863 | US4003832 | US5145981 | US4076617 | US6068857 | US5523058 | DE4407564 | EP0619104 | WO2005005322 | EP0515346 | WO1980000226 | JP1993228480 | JP1993228481 | WO1998010394 | DE4430587 | EP0661090 | WO2006038926 | GB1389291 | JP1983128113 | DE19700164 | JP1993345192 | EP0577871 | EP0633049 | WO2004001314 | EP0680779 | JP1995155756 | JP1993228496 | WO1993013674
+	</str>
+	<str name="Cites Count">
+		74
+	</str>
+	<str name="Priority Country">
+		BE
+	</str>
+	<str name="Priority Number">
+		9600613
+	</str>
+	<str name="Priority Date">
+		1996-07-04
+	</str>
+	<str name="Assignee(s)">
+		ASHLAND LICENSING &amp; INTELLECTUAL PROPERTY LLC
+	</str>
+	<str name="1st Assignee">
+		ASHLAND LICENSING &amp; INTELLECTUAL PROPERTY LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Dublin, OH
+	</str>
+	<str name="Assignee(s) Address">
+		Dublin, OH
+	</str>
+	<str name="Inventor(s)">
+		CORDEMANS, DE, MEULENAER, ERIC | HANNECART, BAUDOUIN | CANIVET, YVES
+	</str>
+	<str name="1st Inventor">
+		CORDEMANS, DE, MEULENAER, ERIC
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Wezembeek-Oppem, BE
+	</str>
+	<str name="Inventor(s) Address">
+		Wezembeek-Oppem, BE | La, Roche-En-Ardenne, BE | Evere, BE
+	</str>
+	<str name="Agent/Attorney">
+		KNOBBE MARTENS OLSON &amp; BEAR LLP
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7632400
+	</str>
+	<str name="Application Number">
+		US11812462
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water treatment equipment
+	</str>
+	<str name="Abstract">
+		A water treatment equipment has a raw water tank as a mixing section, a micronanobubble generation tank, a floatation tank, and a treated water tank. Waste water as treatment water is introduced into the raw water tank and mixed with the water containing micronanobubbles produced by the micronanobubble generation tank. Thereafter, the waste water, as treatment water, is introduced into a lower mixing section of the floatation tank from the raw tank by a raw water tank pump. Also, treatment water containing fine bubbles is introduced into the lower mixing section from a pressure tank. Therefore, the micronanobubbles is mixed with the fine bubbles in the lower mixing section of the floatation tank, thereby almost all the suspended matter in the treatment water is surfaced. Thus, the water treatment equipment enhances separatability of suspended matter.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-06-19
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-06
+	</str>
+	<str name="Publication Date">
+		2009-12-15
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		B01D33/70 | B03D1/14
+	</str>
+	<str name="IPC Primary">
+		B01D33/70
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D33
+	</str>
+	<str name="All UPC">
+		210/221.2 | 210/150 | 210/151 | 210/198.1 | 210/220
+	</str>
+	<str name="UPC Primary">
+		210/221.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		JP2008036518A | US7632400 | US20080029459A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		&quot;Portable Turbidity Monitoring Sensor TD-M500,&quot; http://www.optex.co.jp/env/eng/products/tdm500/index.html, downloaded Dec. 11, 2008. cited by examiner . | Serizawa, et. al., &quot;Laminarization of micro-bubble containing milky bubbly flow in a pipe,&quot; 3rd European-Japanese Two-Phase Flow Group Meeting, Certosa di Pontignano, Sep. 21-27, 2003. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8092680
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6126815 | US6565758 | US5876697 | US20060054205 | US20030042200 | JP1996309336 | JP2003334548 | JP2004321959 | JP2000070922 | JP1988031590 | JP2006218344 | JP2004121962
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2006213320
+	</str>
+	<str name="Priority Date">
+		2006-08-04
+	</str>
+	<str name="Assignee(s)">
+		SHARP KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		SHARP KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Osaka, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s)">
+		YAMASAKI, KAZUYUKI | SAKATA, KAZUYUKI | CHUHJOH, KAZUMI | KATAOKA, MASAKI
+	</str>
+	<str name="1st Inventor">
+		YAMASAKI, KAZUYUKI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Hiroshima, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Hiroshima, JP | Fukuyama, JP | Takamatsu, JP | Fukuyama, JP
+	</str>
+	<str name="Agent/Attorney">
+		NIXON &amp; VANDERHYE P.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

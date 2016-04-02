@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5517419
+	</str>
+	<str name="Application Number">
+		US08094882
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Advanced terrain mapping system
+	</str>
+	<str name="Abstract">
+		A tractor and trailer together with a post-processing system that uses GPS satellites together with a dead reckoning system and associated cameras and sensors to determine the exact location of the system, translating this location information onto several photogrammetric mapping collectors for the purposes of developing an orthographic database image that can be correlated with other onboard sensors for determining the precise location of terrain features. The main sensor platform comprises a GPS receiver together with a plurality of visual sensors and a dead reckoning system mounted on a trailer. The GPS data and the dead reckoning data are brought together in a navigation system to provide precise location of the system. The camera system on board the trailer of the system comprises a series of cameras for recording images of the terrain as the trailer proceeds over the terrain of interest. During data collection, digital imagery is transmitted from each camera and received by an on-board computer. The collection of image data is triggered by the movement of the vehicle a certain distance along the ground. Simultaneously with the collection of the digital image data, the on-board GPS system and dead reckoning system are queried for geographical reference. A dataframe is then created and stored for each form of imagery from each camera. During post processing, an operator can extract highly accurate geographic coordinates from a combination of photogrammetric techniques using the stored images and geographic data. The system outputs hardcopy engineering plots and softcopy digital vector files.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1993-07-22
+	</str>
+	<str name="Application Year">
+		1993
+	</str>
+	<str name="Application(Year/Month)">
+		1993-07
+	</str>
+	<str name="Publication Date">
+		1996-05-14
+	</str>
+	<str name="Publication Year">
+		1996
+	</str>
+	<str name="Publication(Year/Month)">
+		1996-05
+	</str>
+	<str name="All IPC">
+		G06F165/00 | G01C7/04
+	</str>
+	<str name="IPC Primary">
+		G06F165/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F165
+	</str>
+	<str name="All UPC">
+		701/217 | 701/216 | 701/208 | 348/148
+	</str>
+	<str name="UPC Primary">
+		701/217
+	</str>
+	<str name="UPC Class">
+		701
+	</str>
+	<str name="Family Members">
+		US5517419
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		FR2821423A1 | US8275179 | EP0921375B1 | EP0921376B1 | GB2368219A | US8334903 | US5930743 | US5961573 | US6208353 | US5761095 | US6751540 | US6487517 | US6600990 | US6697752 | US7734413
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5262867 | US5119301 | US4875034 | US5257195 | US4949268 | US4558359 | US4731864 | US4890233 | US4837700 | US4839656 | US5317515 | US5214757 | US5144318 | US5166878 | US3873226 | US5087919 | US5030957 | US5111209 | US5267042 | US5210540 | US4140193 | US5416712 | US2910910 | US5394333 | US4868771 | US5247356
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		9488293
+	</str>
+	<str name="Priority Date">
+		1993-07-22
+	</str>
+	<str name="Assignee(s)">
+		SYNECTICS CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SYNECTICS CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Fairfax, VA
+	</str>
+	<str name="Assignee(s) Address">
+		Fairfax, VA
+	</str>
+	<str name="Inventor(s)">
+		LANCKTON, ARNOLD, H. | MORE, RANDALL, K.
+	</str>
+	<str name="1st Inventor">
+		LANCKTON, ARNOLD, H.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Roma, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Roma, NY | Manlius, NY
+	</str>
+	<str name="Agent/Attorney">
+		ROBERTS, JON L.ROBERTS &amp; ASSOCIATES
+	</str>
+	<str name="Primary Examiner">
+		ZANELLI, MICHAEL
+	</str>
+	<str name="cited by within 3 years">
+		28
+	</str>
+	<str name="cited by within 5 years">
+		52
+	</str>
+</doc>
+

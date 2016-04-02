@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090284645A1
+	</str>
+	<str name="Application Number">
+		US12379538
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Camera
+	</str>
+	<str name="Abstract">
+		A face detecting section of a camera detects a face area in a shooting screen under an output of an image sensor. A focus detecting section calculates a defocus amount from a relative interval of a pair of images under an optical flux passed through a shooting lens in each of optional areas in the shooting screen. A first focus controlling section specifies a focus detecting area from the optional areas under an output of the face detecting section, and performs a focus operation under the defocus amount of the focus detecting area. A second focus controlling section calculates a focus evaluation value in the face area under an output of the image sensor, and performs a focus operation by using the focus evaluation value. A control section causes at least one of the first focus controlling section and the second focus controlling section to perform a focus operation.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2009-02-24
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-02
+	</str>
+	<str name="Publication Date">
+		2009-11-19
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		H04N5/232 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		H04N5/232
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04N
+	</str>
+	<str name="IPC Group">
+		H04N5
+	</str>
+	<str name="All UPC">
+		348/E05.045 | 382/195 | 348/349 | 348/E5.045
+	</str>
+	<str name="UPC Primary">
+		348/E05.045
+	</str>
+	<str name="UPC Class">
+		348
+	</str>
+	<str name="Family Members">
+		JP2008061157A | WO2008029503A1 | US20090284645A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2006238587
+	</str>
+	<str name="Priority Date">
+		2006-09-04
+	</str>
+	<str name="Assignee(s)">
+		NIKON CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NIKON CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		TOKYO,JP
+	</str>
+	<str name="Assignee(s) Address">
+		TOKYO,JP
+	</str>
+	<str name="Inventor(s)">
+		NOZAKI HIROTAKE | EJIMA SATOSHI | OHMURA AKIRA
+	</str>
+	<str name="1st Inventor">
+		NOZAKI HIROTAKE
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Port Washington,NY,US
+	</str>
+	<str name="Inventor(s) Address">
+		Port Washington,NY,US | Tokyo,JP | Tokyo,JP
+	</str>
+	<str name="Agent/Attorney">
+		OLIFF &amp; BERRIDGE, PLC
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

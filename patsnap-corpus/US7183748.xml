@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7183748
+	</str>
+	<str name="Application Number">
+		US10181451
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Electric charger and power supply device for portable terminal
+	</str>
+	<str name="Abstract">
+		A charging control unit decides the number of battery cells on the basis of an output voltage of a battery pack, and an output voltage of a charging circuit is determined in accordance with the decided number of battery cells. Even though supply of an external power supply is detected, when a battery connection is not detected, the power supply circuit of the charging control unit is set in a stop state. In addition, when disconnection of the battery is detected, a canceling voltage for canceling a cutoff state caused by overdischarging of the battery is output. In a power supply device for a portable terminal, a capacitor electrically charged by an output voltage of main DC/DC converter is connected as an auxiliary power supply of a backup DC/DC converter to make exchange of the auxiliary battery unnecessary.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-02-07
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-02
+	</str>
+	<str name="Publication Date">
+		2007-02-27
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-02
+	</str>
+	<str name="All IPC">
+		H02J7/00
+	</str>
+	<str name="IPC Primary">
+		H02J7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02J
+	</str>
+	<str name="IPC Group">
+		H02J7
+	</str>
+	<str name="All UPC">
+		320/134 | 320/136
+	</str>
+	<str name="UPC Primary">
+		320/134
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Members">
+		JP3832732B2 | WO2001059905A1 | WO2001059905A9 | US7183748
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5945811 | US5982151 | US6057609 | US6297619 | US5581170 | US6795322 | US5959436 | JP1994078467 | JP1994197468 | JP1997130983 | JP1997065576
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		0000652
+	</str>
+	<str name="Priority Date">
+		2000-02-07
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		UNNO, HIROKAZU | HAYASAKA, HISASHI
+	</str>
+	<str name="1st Inventor">
+		UNNO, HIROKAZU
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Inagi, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Inagi, JP | Inagi, JP
+	</str>
+	<str name="Agent/Attorney">
+		ARENT FOX PLLC
+	</str>
+	<str name="Primary Examiner">
+		EASTHOM, KARL
+	</str>
+	<str name="Assistant Examiner">
+		PIGGUSH, AARON
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

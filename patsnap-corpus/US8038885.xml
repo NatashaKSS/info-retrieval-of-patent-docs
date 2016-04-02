@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8038885
+	</str>
+	<str name="Application Number">
+		US12083410
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Formation and encapsulation of molecular bilayer and monolayer membranes
+	</str>
+	<str name="Abstract">
+		Disclosed herein are compositions, methods, and devices related to bilayer and monolayer membranes, their encapsulation in a hydrogel, and their formation. Methods of using the disclose compositions and devices are also disclosed.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-10-13
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-10
+	</str>
+	<str name="Publication Date">
+		2011-10-18
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		G01N1/18 | B01D11/00
+	</str>
+	<str name="IPC Primary">
+		G01N1/18
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N1
+	</str>
+	<str name="All UPC">
+		264/4.7 | 435/287.1 | 436/180 | 264/4.6 | 435/7.1 | 977/756 | 264/4.1 | 435/287.2 | 435/287.3 | 436/178 | 977/717 | 210/639 | 435/4 | 977/713 | 427/2.11 | 436/86 | 427/2.14
+	</str>
+	<str name="UPC Primary">
+		264/4.7
+	</str>
+	<str name="UPC Class">
+		264
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Krishna et al. &quot;Tethered Bilayer Membranes Containing Ionic Reservoirs: Selectivity and Conductance,&quot; Langmuir 2003, 19:2294-2305. cited by other . | Matthews et al., &quot;Design and fabrication of a micromachined planar patch-clamp substrate with integrated microfluidics for single-cell measurements,&quot; J MEMS 2006, 15: 214-222. cited by other . | Lee et al., &quot;Solvent compatibility of poly(dimethylsiloxane)-based microfluidic devices,&quot; Anal Chem 2003, 75(23):6544-6554. cited by other . | Sinner et al., &quot;Functional tethered membranes,&quot; Curr Opinion Chem Biol 2001, 5(6):705-711. cited by other . | Akeson et al., &quot;Microsecond Time-Scale Discrimination Among Polycytidylic Acid, Polyadenylic Acid, and Polyuridylic Acid as Homopolymers or as Segments Within Single RNA Molecules,&quot; Biophys J 1999, 77:3227-3233. cited by other . | Thorsen et al. &quot;Microfluidic large-scale integration,&quot; Science (2002) 298, 580. cited by other . | Sia et al., &quot;Microfluidic devices fabricated in poly(dimethylsiloxane) for biological studies,&quot; Electrophoresis 2003, 24(21):3563-3576. cited by other . | Thorsen et al., &quot;Dynamic pattern formation in a vesicle-generating microfluidic device,&quot; Phys Rev Lett 2001, 86(18):4163-4166. cited by other . | Lu et al., &quot;Biophysical aspects of agar-gel supported bilayer lipid membranes: a new method for forming and studying planar bilayer lipid membranes,&quot; Bioelectrochem Bioenergetics 1996, 39:285-289. cited by other . | Bainbridge et al., &quot;Voltage gating is a fundamental feature of porin and toxin beta-barrel membrane channels,&quot; FEBS Lett 1998, 431(3):305-308. cited by other . | Nakane et al., &quot;Nanopore sensors for nucleic acid analysis,&quot; J Phys Condensed Matter 2003, 15(32):R1365-R1393. cited by other . | Suzuki et al., &quot;Highly reproducible method of planar lipid bilayer reconstitution in polymethyl methacrylate microfluidic chip,&quot; Langmuir 2006, 22: 1937-1942. cited by other . | Jacobson et al., &quot;Microchip structures for submillisecond electrophoresism&quot; Analytical Chemistry (1998) 70, 3476. cited by other . | Unger et al., &quot;Monolithic microfabricated valves and pumps by multilayer soft lithography,&quot; Science 2000, 288(5463), 113-116. cited by other . | Song et al., &quot;Structure of staphylococcal alpha-hemolysin, a heptameric transmembrane pore,&quot; Science 1996, 274(5294):1859-66. cited by other . | Ide et al., &quot;An Artificial Lipid Bilayer Formed on an Agarose-Coated Glass for Simultaneous Electrical and Optical Measurement of Single Ion Channels,&quot; Biochem Biophys Res Commun 1999, 265:595-599. cited by other . | Rehak et al., &quot;Examination of bilayer lipid membranes for `pin-hole` character,&quot; The Analyst 2004, 129:1014-1025. cited by other . | Lustig et al., &quot;Solute Diffusion in Swollen Membranes .9. Scaling Laws for Solute Diffusion in Gels,&quot; J Appl Polymer Sci 1988, 36(4):735-747. cited by other . | Kazakov et al., &quot;UV-induced gelation on nanometer scale using liposome reactor,&quot; Macromolecules 2002, 35(5):1911-1920. cited by other . | Zheng et al., &quot;Screening of protein crystallization conditions on a microfluidic chip using nanoliter-size droplets,&quot; J Am Chem Soc 2003, 125(37):11170-11171. cited by other. | International Report on Patentability for PCT/US2006/040200 mailed Apr. 24, 2008. cited by other . | Favero et al., &quot;Membrane supported lipid bilayer membranes array: preparation, stability and ion-channel insertion,&quot; Analytica Chimica Acta 2002, 460(1):23-34. cited by other . | Ionescu-Zanetti et al., &quot;Mammalian electrophysiology on a microfluidic platform,&quot;Proc Natl Acad Sci USA 2005, 102: 9112-9117. cited by other . | Bayley et al., &quot;Stochastic sensors inspired by biology,&quot; Nature 2001, 413(6852):226-230. cited by other . | Kasianowicz et al., &quot;Characterization of individual polynucleotide molecules using a membrane channel,&quot; Proc Natl Acad Sci USA 1996, 93, 13770-13773. cited by other . | Knoll et al., &quot;Functional tethered lipid bilayers,&quot; Rev Mol Biotech 2000, 74(3):137-158. cited by other . | Naumowicz et al., &quot;Impedance analysis of phosphatidylcholine membranes modified with gramicidin D,&quot; Bioelectrochem 2003, 61:21-27. cited by other . | Costello et al., &quot;Improved gel-protected bilayers,&quot; Biosensors Bioelectronics 1999, 14(3):265-271. cited by other . | McDonald et al., &quot;Poly(dimethylsiloxane) as a material for fabricating microfluidic devices,&quot; Acct Chem Res 2002, 35(7):491-499. cited by other . | Sandison et al., &quot;Rapid fabrication of polymer microfluidic systems for the production of artificial lipid bilayers,&quot; J. Micromech Microeng 2005, 15: S139-S144. cited by other . | Kuhner et al., &quot;Lipid mono- and bilayer supported on polymer films: composite polymer-lipid films on solid substrates,&quot; Biophys J 1994, 67(1):217-226. cited by other . | International Search Report and Written Opinion for PCT/US2006/040200 mailed Apr. 24, 2008. cited by other . | Beddow et al., &quot;Reconstitution of nicotinic acetylcholine receptors into gel-protected lipid membranes,&quot; Anal Chem 2004, 76(8):2261-2265. cited by other . | Meller et al., &quot;Rapid nanopore discrimination between single polynucleotide molecules,&quot; Proc Natl Acad Sci 2000, 97:1079-1084. cited by other . | Weigl et al., &quot;Lab-on-a-chip for drug development,&quot; Adv Drug Delivery 2003, 55:349-377. cited by other . | Terrettaz et al., &quot;Highly Electrically Insulating Tethered Lipid Bilayers for Probing the Function of Ion Channel Proteins,&quot; Langmuir 2003, 19:5567-5569. cited by other . | Anrather et al., &quot;Supported Membrane Nanodevices,&quot; J Nanosci Nanotech 2004, 4(1/2):1-22. cited by other . | Ide et al., &quot;Simultaneous Optical and Electrical Recording of a Single Ion-Channel,&quot; Japanese J Physiol 2002, 52:429-434. cited by other . | Canal et al., &quot;Correlation between mesh size and equilibrium degree of swelling of polymeric networks,&quot; J Biomed Mater Res 1989, 23(10):1183-93. cited by other . | Wang et al., &quot;Development of a novel solid-phase extraction element for thermal desorption gas chromatography analysis,&quot; J Chrom A 2004, 1035(2):277-279. cited by other . | Song et al., &quot;Millisecond kinetics on a microfluidic chip using nanoliters of reagents,&quot; J Am Chem Soc 2003, 125(47):14613-14619. cited by other . | Mueller et al., &quot;Reconstitution of cell membrane structure in vitro and its transformation into an excitable system,&quot; Nature 1962, 194:979-980. cited by other . | Joanicot et al., &quot;Droplet control for microfluidics,&quot; Science 2005, 309(5726):887-888. cited by other .
+	</str>
+	<str name="Other References Count">
+		43
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6846352 | US6846795 | US20110111985 | US20050154374 | US20030175824 | US6849426 | US6699952 | US7479483 | US6436905 | US6852816 | US6682893 | US20020081617 | US20060160066
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Assignee(s)">
+		THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+	</str>
+	<str name="1st Assignee">
+		THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Oakland, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Oakland, CA
+	</str>
+	<str name="Inventor(s)">
+		SCHMIDT, JACOB, J. | MALMSTADT, NOAH | JEON, TAE-JOON | POULOS, JASON
+	</str>
+	<str name="1st Inventor">
+		SCHMIDT, JACOB, J.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Sherman, Oaks, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Sherman, Oaks, CA | Pasadena, CA | Los, Angeles, CA | Los, Angeles, CA
+	</str>
+	<str name="Agent/Attorney">
+		BALLARD SPAHR LLP
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7824537
+	</str>
+	<str name="Application Number">
+		US11661328
+	</str>
+	<str name="Title">
+		Electrochemical device
+	</str>
+	<str name="Abstract">
+		An electrochemical device including: (a) a semiconductor layer, wherein the semiconductor is silicon or silicon carbide, and where the layer has a thickness from 1 to 1000 .mu.m; (b) a TiO.sub.2 layer on the semiconductor layer, where the layer may include an alkaline earth oxide MO up to an amount where the layer is MtiO.sub.3, and where the layer has a thickness from 5 nm to 1 mm; (c) a grid of inert metal on the TiO.sub.2 layer, arranged so as to be able to apply a electric field across the TiO.sub.2 layer; and (d) an ohmic contact on the semiconductor layer.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-09-02
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2010-11-02
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		C02F1/46
+	</str>
+	<str name="IPC Primary">
+		C02F1/46
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		205/759 | 204/242 | 205/701 | 204/271 | 205/742 | 204/290.12
+	</str>
+	<str name="UPC Primary">
+		205/759
+	</str>
+	<str name="UPC Class">
+		205
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		G. Patemarakis et al., &quot;Disinfection of Water by Electrochemical Treatment&quot;, Water Research, vol. 24, No. 12, Dec. 1990, pp. 1491-1496. cited by other . | T. P. Curtis et al., &quot;Fate of Cryptosporidium oocysts in an immobilized titanium dioxide reactor with electric field enhancement&quot;, Water Research, vol. 36, No. 9, May 2002, pp. 2410-2413. cited by other . | P. A. Christensen et al., &quot;A novel electrochemical device for the disinfection of fluids by OH radicals&quot;, Chem. Commun., 2006, pp. 4022-4023. cited by other. | G. R. Torres et al., &quot;Photoelectrochemical Study of Nitrogen-Doped Titanium Dioxide for Water Oxidation&quot;, J. Phys. Chem. B, vol. 108, No. 19, 2004, pp. 5995-6003. cited by other . | J. Rodriguez et al., &quot;Photo-electrocatalytic degradation of 4-chlorophenol over sputter deposited Ti oxide films&quot;, Thin Solid Films, 360, 2000, pp. 250-255. cited by other . | Butterfield et al. &quot;Water diinfection using an immobilised titanium dioxde film in a photochemical reactor with electric field enhancement&quot;, 1997. Water Res. vol. 31, No. 3, pp. 675-677. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5395522 | WO2004081536 | DE19844329
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		0419629.1
+	</str>
+	<str name="Priority Date">
+		2004-09-03
+	</str>
+	<str name="Assignee(s)">
+		GEN-X POWER CORP
+	</str>
+	<str name="1st Assignee">
+		GEN-X POWER CORP
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rarotonga, CK
+	</str>
+	<str name="Assignee(s) Address">
+		Rarotonga, CK
+	</str>
+	<str name="Inventor(s)">
+		CHRISTENSEN, PAUL, ANDREW | WRIGHT, NICHOLAS, GEORGE | EGERTON, TERRENCE, ARTHUR
+	</str>
+	<str name="1st Inventor">
+		CHRISTENSEN, PAUL, ANDREW
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Morpeth, GB
+	</str>
+	<str name="Inventor(s) Address">
+		Morpeth, GB | Gosforth, GB | Stockton, on, Tees, GB
+	</str>
+	<str name="Agent/Attorney">
+		BUCHANAN INGERSOLL &amp; ROONEY PC
+	</str>
+	<str name="Primary Examiner">
+		PHASGE, ARUN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1214647A2
+	</str>
+	<str name="Application Number">
+		EP2000958952
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		USER EMULATION FOR COMPUTER AIDED DESIGN DATA EXCHANGE
+	</str>
+	<str name="Abstract">
+		A technical system for emulating user interactions in a computer aided design data exchange environment is disclosed. According to one embodiment, the system comprises: a computer aided design module configured to provide graphical design functionality; a graphical image server configured to communicate with the computer aided design module, a cursor device, and a display device; a proxy configured to intercept data and control signals between the graphical image server and the computer aided design module; and an interpreter communicatively coupled to the proxy, the interpreter configured to evaluate the data and control signals intercepted by the proxy, and to send data and control signals addressed to the computer aided design module, the data and control signals emulating a user interaction with the computer aided design module. Methods for achieving the same, both involving an intermediate interpreter, are also disclosed.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-09-06
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-09
+	</str>
+	<str name="Publication Date">
+		2002-06-19
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-06
+	</str>
+	<str name="All IPC">
+		G06F9/44
+	</str>
+	<str name="IPC Primary">
+		G06F9/44
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F9
+	</str>
+	<str name="Family Members">
+		EP1214647B1 | EP1218833B1 | EP1218828B1 | EP1226514B1 | EP1226514A2 | WO2002018669A3 | JP2003509740A | JP2003509737A | JP2003509736A | WO2002018672A3 | US6614430B1 | DE60008264D1 | DE60008397D1 | DE60009122D1 | AU7035600A | IL148349D0 | IL148348D0 | AT259973T | DE60004691D1 | WO2002018670A3 | JP2003509738A | AT262199T | AU7035400A | AU7035500A | EP1214647A2 | EP1218828A2 | DE60009122T2 | DE60008397T2 | DE60008264T2 | EP1218833A2 | WO2001018669A2 | WO2001018672A2 | WO2001018670A2 | WO2001018696A2 | AU7440900A | AT259517T | AT247851T | IL148346D0 | IL148347D0
+	</str>
+	<str name="Family Member Count">
+		39
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		See references of WO     0118670A2
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Priority Country">
+		IB | US
+	</str>
+	<str name="Priority Number">
+		0001356 | 39131199
+	</str>
+	<str name="Priority Date">
+		2000-09-06 | 1999-09-07
+	</str>
+	<str name="Assignee(s)">
+		PROFICIENCY LTD.
+	</str>
+	<str name="1st Assignee">
+		PROFICIENCY LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		OFER, FAIGON | RAPPOPORT, ARI | ZADKA, MOSHE
+	</str>
+	<str name="1st Inventor">
+		OFER, FAIGON
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

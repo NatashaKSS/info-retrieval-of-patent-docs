@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8254699
+	</str>
+	<str name="Application Number">
+		US12/364390
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Automatic large scale video object recognition
+	</str>
+	<str name="Abstract">
+		An object recognition system performs a number of rounds of dimensionality reduction and consistency learning on visual content items such as videos and still images, resulting in a set of feature vectors that accurately predict the presence of a visual object represented by a given object name within an visual content item. The feature vectors are stored in association with the object name which they represent and with an indication of the number of rounds of dimensionality reduction and consistency learning that produced them. The feature vectors and the indication can be used for various purposes, such as quickly determining a visual content item containing a visual representation of a given object name.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-02-02
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-02
+	</str>
+	<str name="Publication Date">
+		2012-08-28
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-08
+	</str>
+	<str name="All IPC">
+		G06K9/46 | G06E1/00 | H04N5/14 | G06K9/48
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/224 | 348/699 | 382/190 | 382/197 | 706/20
+	</str>
+	<str name="UPC Primary">
+		382/224
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		US. Appl. No. 11/840,139, filed with the United States Patent and Trademark Office on Aug. 16, 2007, 58 pages. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US5850470 | US6192353 | US6397200 | US6774917 | US6789070 | US7120292 | US7246314 | US7437334 | US7587374 | US7593551 | US7599894
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Assignee(s)">
+		GOOGLE INC.
+	</str>
+	<str name="1st Assignee">
+		GOOGLE INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Mountain View, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Mountain View, CA
+	</str>
+	<str name="Inventor(s)">
+		ZHAO, MING | YAGNIK, JAY
+	</str>
+	<str name="1st Inventor">
+		ZHAO, MING
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		San, Jose, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Jose, CA | Mountain, View, CA
+	</str>
+	<str name="Agent/Attorney">
+		FENWICK &amp; WEST LLP
+	</str>
+	<str name="Primary Examiner">
+		CHAWAN, SHEELA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

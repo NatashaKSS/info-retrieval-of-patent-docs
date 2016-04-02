@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7588722
+	</str>
+	<str name="Application Number">
+		US10873191
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Extracorporeal treatment device with automatic emptying of waste bag
+	</str>
+	<str name="Abstract">
+		The invention relates to a blood treatment device by extracorporeal circulation comprising a filter having a primary chamber and a secondary chamber separated by a semi-permeable membrane; a blood circuit comprising an arterial line intended to come from the patient, the filter's primary chamber and the venous line intended to return to the patient; a dialysate circuit comprising the filter's secondary chamber and at least a drain line for circulating the waste intended to come from the filter and intended to go to a drain; a first bag in fluid communication with the drain line; at least a first gravimetric weighing means linked to the first bag, fluid flow rate adjustment means acting on the drain line; a control unit linked to the first gravimetric weighing means and with the fluid flow rate adjustment means; a second bag in fluid communication with the drain line, the control unit being capable of receiving weight signals from the first gravimetric weighing means and of controlling the fluid flow rate adjustment means to load one of the bags with liquid while the other bag unloads liquid, and vice-versa.The invention also relates to a single-use drain line for use in a treatment device according to the invention.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-06-23
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-06
+	</str>
+	<str name="Publication Date">
+		2009-09-15
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		B01D35/14 | A61M1/00 | C02F1/44 | B01D21/30 | A61M37/00
+	</str>
+	<str name="IPC Primary">
+		B01D35/14
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D35
+	</str>
+	<str name="All UPC">
+		210/321.65 | 210/86 | 604/6.01 | 422/44 | 210/134
+	</str>
+	<str name="UPC Primary">
+		210/321.65
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20040267183A1 | US7588722
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		International Preliminary Report on Patentability for International Application No. PCT/IB2004/002024. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5650071 | US6561996 | US4713171 | US6561997 | US4267041 | US4894150 | US6042784 | US5672481 | US6039877 | US7153286 | US5993657 | US5441636 | US4372846 | US5043074 | US4994026 | US4859319 | US6818179 | US5725775 | US3888126 | US20040167457 | US4769132 | EP0213050 | DE3318120 | DE3801316 | FR765258 | FR2594340 | WO1999019007 | DE9403081 | FR2472936 | JP1984037959 | JP1978083397 | DEG9403081 | EP0796997 | EP0722744
+	</str>
+	<str name="Cites Count">
+		34
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0307643
+	</str>
+	<str name="Priority Date">
+		2003-06-25
+	</str>
+	<str name="Assignee(s)">
+		GAMBRO LUNDIA AB
+	</str>
+	<str name="1st Assignee">
+		GAMBRO LUNDIA AB
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		SE
+	</str>
+	<str name="Assignee(s) Address">
+		SE
+	</str>
+	<str name="Inventor(s)">
+		CHEVALLET, JACQUES
+	</str>
+	<str name="1st Inventor">
+		CHEVALLET, JACQUES
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Serezin, du, Rhone, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Serezin, du, Rhone, FR
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp; DUNNER L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		DEAK, LESLIE R
+	</str>
+	<str name="Assistant Examiner">
+		WIEST, PHILIP R
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090148010A1
+	</str>
+	<str name="Application Number">
+		US11/719634
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		FALSE POSITIVE REDUCTION IN COMPUTER-ASSISTED DETECTION (CAD) WITH NEW 3D FEATURES
+	</str>
+	<str name="Abstract">
+		A method for computer aided detection (CAD) and classification of regions of interest detected within HRCT medical image data includes post-CAD machine learning techniques applied to maximize specificity and sensitivity of identification of a region/volume as being a nodule or non-nodule. The regions are identified by a CAD process, and automatically segmented. A feature pool is identified and extracted from each segmented region, and processed by genetic algorithm to identify an optimal feature subset, which subset is used to train the support vector machine to classify candidate region/volumes found within non-training data.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-11-21
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2009-06-11
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06F15/18 | G06N3/12
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/128 | 382/170 | 706/12 | 706/13
+	</str>
+	<str name="UPC Primary">
+		382/128
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		WO200706054271A3 | JP2008520322A | US20090148010A1 | CN101061510A | WO2006054271A2 | EP1815431A2
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US | IB
+	</str>
+	<str name="Priority Number">
+		71963405 | 62975004 | 2005053835
+	</str>
+	<str name="Priority Date">
+		2005-11-21 | 2004-11-19 | 2005-11-21
+	</str>
+	<str name="Assignee(s)">
+		KONINKLIJKE PHILIPS ELECTRONICS, N.V.
+	</str>
+	<str name="1st Assignee">
+		KONINKLIJKE PHILIPS ELECTRONICS, N.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		EINDHOVEN,NL
+	</str>
+	<str name="Assignee(s) Address">
+		EINDHOVEN,NL
+	</str>
+	<str name="Inventor(s)">
+		BOROCZKY LILLA | LEE KWOK PUN | ZHAO LUYIN
+	</str>
+	<str name="1st Inventor">
+		BOROCZKY LILLA
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Mount Kisco,NY,US
+	</str>
+	<str name="Inventor(s) Address">
+		Mount Kisco,NY,US | Flushing,NY,US | White Plaiins,NY,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

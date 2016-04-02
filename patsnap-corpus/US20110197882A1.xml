@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20110197882A1
+	</str>
+	<str name="Application Number">
+		US13124132
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		POWER CONTROL IN A MEDICAL VENTILATOR
+	</str>
+	<str name="Abstract">
+		A ventilator that is small, lightweight, and portable, yet capable of being quickly adapted to operate in a plurality of different modes and configurations to deliver a variety of therapies to a patient. A porting system having a plurality of sensors structured to monitor a number of parameters with respect to the flow of gas, and a number of porting blocks is used to reconfigure the ventilator so that it operates as a single-limb or dual limb ventilator. In the single-limb configuration, an active or passive exhaust assembly can be provided proximate to the patient. The ventilator is capable of operate in a volume or pressure support mode, even in a single-limb configuration. In addition, a power control mechanism controls the supply of power to the ventilator from an AC power source, a lead acid battery, an internal rechargeable battery pack, and a detachable battery pack.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2009-10-09
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-10
+	</str>
+	<str name="Publication Date">
+		2011-08-18
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		A61M16/00 | H01M2/10
+	</str>
+	<str name="IPC Primary">
+		A61M16/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61M
+	</str>
+	<str name="IPC Group">
+		A61M16
+	</str>
+	<str name="All UPC">
+		429/99 | 128/204.18
+	</str>
+	<str name="UPC Primary">
+		429/99
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="1st Assignee">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		EINDHOVEN,NL
+	</str>
+	<str name="Assignee(s) Address">
+		EINDHOVEN,NL
+	</str>
+	<str name="Inventor(s)">
+		TRUSCHEL WILLIAM A. | MILOJEVIC LJUBISA | CYPROWSKI RONALD
+	</str>
+	<str name="1st Inventor">
+		TRUSCHEL WILLIAM A.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Oakmont,PA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Oakmont,PA,US | Pitssburgh,PA,US | Pittsburgh,PA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

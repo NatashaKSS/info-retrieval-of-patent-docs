@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7537702
+	</str>
+	<str name="Application Number">
+		US11/103972
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water purification system and modes of operation
+	</str>
+	<str name="Abstract">
+		A water purification system comprising a thermal hydrolysis catalytic reactor, an adsorbent media bed and a reverse osmosis unit is provided. The water purification system may provide potable water from non-potable water, such as non-potable water contaminated with chemical warfare agents, biological warfare agents, radioactive agents and/or Toxic Industrial Chemicals (TICs). Methods for providing potable water using the water purification system of the present invention are also provided.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-04-12
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-04
+	</str>
+	<str name="Publication Date">
+		2009-05-26
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		B01D61/00 | B01D15/00 | B01D63/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/652 | 210/175 | 210/195.2 | 210/257.2 | 210/660 | 210/661 | 210/758 | 55/527 | 95/287
+	</str>
+	<str name="UPC Primary">
+		210/652
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7537702 | US20060226081A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8021542 | US8182584
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US4699720 | US5885925 | US6136186 | US6268307 | US6419837 | US6423236 | US6623603 | US6824695 | US7132086 | US7389639 | US7390343 | US20040168989 | US20040182791 | US20040258597
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		10397205
+	</str>
+	<str name="Priority Date">
+		2005-04-12
+	</str>
+	<str name="Assignee(s)">
+		HONEYWELL INTERNATIONAL INC.
+	</str>
+	<str name="1st Assignee">
+		HONEYWELL INTERNATIONAL INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Morristown, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Morristown, NJ
+	</str>
+	<str name="Inventor(s)">
+		LUPTON, FRANCIS, S. | JOHNSON, RUSS | MICHALAKOS, PETER, M. | JONQUERES, MICHEL, A.
+	</str>
+	<str name="1st Inventor">
+		LUPTON, FRANCIS, S.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Evanston, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Evanston, IL | Elmhurst, IL | Chicago, IL | Torrance, CA
+	</str>
+	<str name="Agent/Attorney">
+		ORAL CAGLAR, ESQ.
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

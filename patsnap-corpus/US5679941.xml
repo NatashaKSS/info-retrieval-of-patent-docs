@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5679941
+	</str>
+	<str name="Application Number">
+		US08451273
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Checkout device
+	</str>
+	<str name="Abstract">
+		A checkout device including a conveying section for conveying an article in one direction, an optical scanner for scanning the article conveyed by the conveying section with a scanning light beam to read an article code affixed thereto, and a registration processing section for registering the article based on the article code read by the optical scanner. The optical scanner is provided with a variable scanning range to which the scanning light beam is applied, and the registration processing section includes control means for detecting physical features of the article conveyed by the conveying section and for controlling the scanning range of the optical scanner to be optimized for reading the article code affixed to the article based on a conveying position and the detected physical features of the article.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-05-30
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-05
+	</str>
+	<str name="Publication Date">
+		1997-10-21
+	</str>
+	<str name="Publication Year">
+		1997
+	</str>
+	<str name="Publication(Year/Month)">
+		1997-10
+	</str>
+	<str name="All IPC">
+		G06K15/00
+	</str>
+	<str name="IPC Primary">
+		G06K15/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K15
+	</str>
+	<str name="All UPC">
+		235/383 | 235/462.14 | 235/462.06 | 235/437
+	</str>
+	<str name="UPC Primary">
+		235/383
+	</str>
+	<str name="UPC Class">
+		235
+	</str>
+	<str name="Family Members">
+		EP0689174A2 | EP0689174B1 | EP0689174A3 | JP1995320146A | US5679941 | JP3213670B2 | DE69530638D1 | DE69530638T2
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5497314 | US3562494 | US4920255 | US4939355 | US4610361 | US4676343 | JP1992067291
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		6117199
+	</str>
+	<str name="Priority Date">
+		1994-05-30
+	</str>
+	<str name="Assignee(s)">
+		KABUSHIKI KAISHA TEC
+	</str>
+	<str name="1st Assignee">
+		KABUSHIKI KAISHA TEC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Shizuoka, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Shizuoka, JP
+	</str>
+	<str name="Inventor(s)">
+		IIZAKA, HITOSHI | SANO, MASAHITO | MATSUMOTO, YASUO
+	</str>
+	<str name="1st Inventor">
+		IIZAKA, HITOSHI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Fuji, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Fuji, JP | Numazu, JP | Numazu, JP
+	</str>
+	<str name="Agent/Attorney">
+		FRISHAUF, HOLTZ, GOODMAN, LANGER &amp; CHICK
+	</str>
+	<str name="Primary Examiner">
+		PITTS, HAROLD
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

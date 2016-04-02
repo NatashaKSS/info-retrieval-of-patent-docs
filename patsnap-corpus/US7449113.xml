@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7449113
+	</str>
+	<str name="Application Number">
+		US10667893
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Controlling wastewater treatment processes
+	</str>
+	<str name="Abstract">
+		Methods and apparatus for continuing, automated control of wastewater treatment processes. In certain preferred embodiments, method and apparatus for control of aeration in suspended growth biological treatment processes, especially in activated sludge processes.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-09-23
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-09
+	</str>
+	<str name="Publication Date">
+		2008-11-11
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/604 | 210/739 | 210/620 | 210/603 | 210/220 | 210/143
+	</str>
+	<str name="UPC Primary">
+		210/604
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20040112829A1 | US20090230055A1 | US7449113
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Koenig et al., &quot;Effect of air recirculation on . . . composting system&quot;, Proceedings, AWMA (&quot;Air &amp; Waste Mgmt. Assoc.&quot;), 1998, Abstract of paper, AWMA, Pittsburgh, PA, USA. cited by other . | Daughtery, et al., &quot;Aeration system retrofit design optimization procedure&quot;, Proceedings, Central States WEF Conf., reprint by the authors, 1995, pp. 1-46, Milwaukee, WI, USA. cited by other . | WPCF+ASCE (&quot;Amer. Soc. of Civ. Engrs.&quot;), &quot;Aeration, A Wastewater Treatment Process&quot;, MOP #FD-13, 1988, pp. 10-12, 44-45, 112, 137-140, 142 &amp; 144-147, Wash., DC &amp; New York, NY. cited by other . | Redmon, et al., &quot;Pilot studies and full scale performance evaluation of a membrane disk aeration system . . . &quot;, TAPPI Proceedings, 1992 Environmental Conference, pp. 563-577. cited by other . | ASCE, &quot;Standard guidelines for in-process oxygen transfer testing&quot;, ASCE Standard 18-96, 1997, cover, abstract page, pp. iii-vii, ix and x, and pp. 1-49, New York, NY, USA. cited by other. | Boyle et al., ASCE Comm. on Oxygen Transfer, &quot;Design Manual, Fine Pore Aeration Systems&quot;, 1989, pp. 149-156 and 167, U. S. Env. Prot. Agency, Cincinnati, OH, US. cited by other . | Pelkonen et al., &quot;Modelling of oxygen transfer . . . with off-gas method&quot;, 1989, Abstract of paper, Helsinki Univ. of Tech., Lab. of Sanitary and Env. Engg., Espoo, Finland. cited by other . | ASCE (&quot;Amer. Soc. of Civ. Engrs.&quot;), &quot;Measurement of oxygen transfer in clean water&quot;, ANSI/ASCE Standard 2-01, approved Jun. 1992, pp. 1-41 &amp; index, ASCE, New York, NY, USA. cited by other . | Redmon, et al., &quot;Measuring the impact of a 3-hp blower assist on the aeration efficiency of a 50-hp aspirating aerator&quot;, TAAPI Journal, Jan. 1992, pp. 105-110, USA. cited by other . | WPCF (&quot;Water Poll. Contr. Federation&quot;), &quot;Process Instrumentation and Control Systems&quot;, MOP (&quot;Manual of Practice&quot;) #OM-5, 1984, pp. ii, 3-7 and 20-21, WPCF, Wash., D.C., USA. cited by other . | Yust et al., &quot;Control of the specific oxygen utilisation . . . &quot;, Trans. of the Inst. of Meas. and Control, 1984, Abst. of jour. art., Water Poll. Control, Burlington, Ont., CA. cited by other . | Libra, et al., &quot;Improving aeration efficiency . . . using on-line off-gas measurements&quot;, Intl. Cong. on the Process Industries, Mar. 2002, poster, Mex. DF, Tech. Univ. Berlin, DE. cited by other . | Stahl et al., &quot;Energy Conservation in the Design and Operation of Wastewater Treatment Facilities&quot;, MOP #FD-2, 1982, pp. 28-33, WPCF, Wash., D.C., USA. cited by other . | Redmon, &quot;Alpha factors--measured for various types of aeration systems by off-gas analysis&quot;, publication of Redmon Engineering Company, 1998, pp. 1-13, Racine WI, USA. cited by other . | Redmon, Boyle &amp; Ewing, &quot;Oxygen transfer efficiency measurements in mixed liquor using off-gas techniques&quot;, WPCF Journal, Nov. 1983, pp. 1338-1347, vol. 55, No. 11, WPCF, USA. cited by other . | Arthur et al., &quot;Instrumentation in Wastewater Treatment Plants&quot;, MOP #21, 1978, pp. 28-34, 74, 75, 77 and 78, WPCF Sub-committee on Instrumentation, Wash., D.C., USA. cited by other . | Redmon, David T., professional resume, with bibliography of illustrative publications relating to off-gas testing, Redmon Engineering Company, 2005, 6 pages, Racine, WI, USA. cited by other . | Tanuma et al., &quot;Dissolved Oxygen Control Using Aeration Exhaust Gas&quot;, Water Science and Tech., Jour. art. and abst., 1981, vol. 13, No. 9, pp. 183-188, Pergammon Press, GB. cited by other . | Marx, et al., &quot;Optimizing step feed aeration design using off-gas testing&quot;, 70th Annual WEF Conf., Chicago, repub. by Earth Tech, 1997, pp. 1-9, Sheboygan, WI, USA. cited by other .
+	</str>
+	<str name="Other References Count">
+		19
+	</str>
+	<str name="Cited By">
+		US8308947
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5234596 | US4947339 | US5106511 | US6146896 | US3810738 | US6905872 | US3872003 | US6036862 | US5948260 | US4783750 | US5441642 | US6478964 | US4288394 | EP0414182 | JP1993002395A | WO2001034527 | DE4229550 | EP0732588 | DE19509777 | JP1992026992A | JP1980004120A | JP1993007491A | JP1999009678A | JP1998007585A | JP2000069955 | DEA3128439
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		66789303 | 41281702 | 47915003
+	</str>
+	<str name="Priority Date">
+		2003-09-23 | 2002-09-24 | 2003-06-18
+	</str>
+	<str name="Assignee(s)">
+		ADVANCED AERATION CONTROL, LLC
+	</str>
+	<str name="1st Assignee">
+		ADVANCED AERATION CONTROL, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Racine, WI
+	</str>
+	<str name="Assignee(s) Address">
+		Racine, WI
+	</str>
+	<str name="Inventor(s)">
+		JENKINS, THOMAS, E. | REDMON, DAVID, T. | HILGART, TIMOTHY, D. | MONSORIU, JUAN, DE, DIOS, TRILLO | FOX, IAN, TRILLO
+	</str>
+	<str name="1st Inventor">
+		JENKINS, THOMAS, E.
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Glendale, WI
+	</str>
+	<str name="Inventor(s) Address">
+		Glendale, WI | Racine, WI | Grafton, WI | Barcelona, ES | Barcelona, ES
+	</str>
+	<str name="Agent/Attorney">
+		PRIDDY, ROBERT R.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

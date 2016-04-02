@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7510655
+	</str>
+	<str name="Application Number">
+		US11777587
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process to improve the efficiency of a membrane filter activated sludge system
+	</str>
+	<str name="Abstract">
+		A process for treating BOD, nitrogen and phosphorus containing wastewater, wherein the process includes the steps of providing wastewater influent into an anoxic zone having activated sludge and mixing the wastewater influent with the activated sludge in the anoxic zone to form a mixed liquor. The process further includes providing the mixed liquor into one more further treatment zones and transferring a portion of the mixed liquor from the further treatment zone to a membrane filter wherein a filtrate is separated from sludge. The process also includes selectively recycling at least a portion of the sludge to the anoxic zone as recycled activated sludge.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-07-13
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-07
+	</str>
+	<str name="Publication Date">
+		2009-03-31
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/610 | 210/903 | 210/623 | 210/622 | 210/908 | 210/906
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7481933 | US20070235386A1 | US20080041783A1 | US7510655
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		20
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7938966 | US8057673 | US8182687 | US8048306 | US8268176 | US8287743 | US8293098 | US8318028
+	</str>
+	<str name="Cited By Count">
+		8
+	</str>
+	<str name="Cites">
+		US6712970 | US20050194310 | US20050045557 | US7147778 | US7329344 | US7172699 | US7147777 | US20060249449 | US6517723 | US20020185435 | JP1998180048
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		77758707 | 27935406
+	</str>
+	<str name="Priority Date">
+		2007-07-13 | 2006-04-11
+	</str>
+	<str name="Assignee(s)">
+		SIEMENS WATER TECHNOLOGIES CORP.
+	</str>
+	<str name="1st Assignee">
+		SIEMENS WATER TECHNOLOGIES CORP.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Warrendale, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Warrendale, PA
+	</str>
+	<str name="Inventor(s)">
+		BARNES, DENNIS, J.
+	</str>
+	<str name="1st Inventor">
+		BARNES, DENNIS, J.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Oconomowoc, WI
+	</str>
+	<str name="Inventor(s) Address">
+		Oconomowoc, WI
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

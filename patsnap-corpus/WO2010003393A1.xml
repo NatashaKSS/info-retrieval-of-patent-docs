@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2010003393A1
+	</str>
+
+	<str name="Application Number">
+		PCT/DE2009/000822
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		POWER-OPERATED HANDHELD INSTRUMENT, IN PARTICULAR HANDHELD SURGICAL INSTRUMENT
+	</str>
+
+	<str name="Abstract">
+		The invention relates to a power-operated handheld instrument (1), in particular a power-operated handheld surgical instrument, comprising an electric motor (2), a clamping means (3), which is driven by the electric motor (2), for attachment of a tool (4), for example a drill, a cutter or a saw blade (54), an electronic control module (5), a first actuating means (6) and a second actuating means (7) for controlling the electric motor (2), an energy storage means (8), for example a rechargeable battery (15), and a housing (9). In this case, the electric motor (2) is in the form of a three-phase motor (50), wherein the electronic control module (5) for the electric motor (2, 50) can generate from the energy storage means (8) a three-phase current with a frequency which is designed for achieving a desired rotation speed.
+	</str>
+
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+
+	<str name="Application Date">
+		2009-06-12
+	</str>
+
+	<str name="Application Year">
+		2009
+	</str>
+
+	<str name="Application(Year/Month)">
+		2009-06
+	</str>
+
+	<str name="Publication Date">
+		2010-01-14
+	</str>
+
+	<str name="Publication Year">
+		2010
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+
+	<str name="All IPC">
+		A61B17/16 | H01H36/00
+	</str>
+
+	<str name="IPC Primary">
+		A61B17/16
+	</str>
+
+	<str name="IPC Section">
+		A
+	</str>
+
+	<str name="IPC Class">
+		A61
+	</str>
+
+	<str name="IPC Subclass">
+		A61B
+	</str>
+
+	<str name="IPC Group">
+		A61B17
+	</str>
+
+	<str name="Family Members">
+		WO2010003393A1 | DE102008032404A1
+	</str>
+
+	<str name="Family Member Count">
+		2
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Cites">
+		US2007085496A1 | US2006217729A1 | DE10131991A1 | US5268622 | US5871493
+	</str>
+
+	<str name="Cites Count">
+		5
+	</str>
+
+	<str name="Priority Country">
+		DE
+	</str>
+
+	<str name="Priority Number">
+		102008032404.3
+	</str>
+
+	<str name="Priority Date">
+		2008-07-10
+	</str>
+
+	<str name="Assignee(s)">
+		GEISTER MEDIZINTECHNIK GMBH | KUM CONSULTING &amp; TRADING GMBH | REIZNER, JULIUS
+	</str>
+
+	<str name="1st Assignee">
+		GEISTER MEDIZINTECHNIK GMBH
+	</str>
+
+	<str name="Number of Assignees">
+		3
+	</str>
+
+	<str name="1st Assignee Address">
+		F&#195;&#182;hrenstrasse 2 78532 Tuttlingen DE
+	</str>
+
+	<str name="Assignee(s) Address">
+		F&#195;&#182;hrenstrasse 2 78532 Tuttlingen DE | Im Taubent&#195;&#164;le 13/1 78532 Tuttlingen DE | Stockacherstrasse 44 78532 Tuttlingen DE
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

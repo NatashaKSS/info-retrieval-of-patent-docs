@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7704385
+	</str>
+	<str name="Application Number">
+		US11797671
+	</str>
+	<str name="Title">
+		Water treatment system
+	</str>
+	<str name="Abstract">
+		An aeration-less water treatment system includes an anaerobic treatment tank which subjects sewage supplied by a pump to anaerobic treatment by causing the sewage to upflow, and an aerobic treatment tank which subjects anaerobically treated water to aerobic treatment by letting the anaerobically treated water to downflow by natural downflow. The aerobic treatment tank includes an aerobic filter bed section in which carriers to which aerobic microorganisms are adhered are arranged. The aerobic filter bed section subjects the anaerobically treated water to decomposition treatment by putting the anaerobic treatment water in contact with the aerobic microorganisms adhered to surfaces of the carriers. The aerobic filter bed section is provided with an air port which takes in air into under normal pressure, thereby activating the aerobic microorganisms.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-05-07
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-05
+	</str>
+	<str name="Publication Date">
+		2010-04-27
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/150 | 210/151
+	</str>
+	<str name="UPC Primary">
+		210/150
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Korean Intellectual Property Office Notice of Allowance for Patent, Application No. 10-2007-0049227, May 30, 2008 (1 page). cited by other. | Korean Intellectual Property Office Notification of the First Office Action for Patent Application No. 200710104190.1, dated Dec. 26, 2008 (4 pages). cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20040029267 | US20050006304 | US20070227972 | US5462657 | US20060254978 | KR019910006150 | KR020020044193 | JP1999285696 | JP2003236582
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2006142077
+	</str>
+	<str name="Priority Date">
+		2006-05-22
+	</str>
+	<str name="Assignee(s)">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="1st Assignee">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		TSUTSUMI, MASAHIKO | ASHIKAGA, NOBUYUKI | NAGAMORI, YASUHIKO | OBARA, TAKUMI | MENJU, TAKASHI | YAMAMOTO, KATSUYA
+	</str>
+	<str name="1st Inventor">
+		TSUTSUMI, MASAHIKO
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Fuchu, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Fuchu, JP | Kawasaki, JP | Fuchu, JP | Fuchu, JP | Kawasaki, JP | Yokohama, JP
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp; DUNNER, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8034246
+	</str>
+	<str name="Application Number">
+		US11798694
+	</str>
+	<str name="Title">
+		Wastewater mercury removal process
+	</str>
+	<str name="Abstract">
+		A method for removing ionic, organic and elemental mercury from aqueous streams such as wastewater streams from hydrocarbon processing. The method comprises four primary removal steps. First, a mercury precipitant is added to the stream to convert dissolved ionic species of mercury water-insoluble form. The majority of these precipitated solids, as well as other forms of particulate mercury, are subsequently removed by means of gas flotation. Following the flotation step, additional particulate and precipitated ionic mercury removal is accomplished with media filtration and finally, activated carbon acts to remove the remaining dissolved ionic mercury species as well as elemental and organic forms of mercury.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-05-16
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-05
+	</str>
+	<str name="Publication Date">
+		2011-10-11
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		C02F9/02 | C02F1/62 | C02F9/04 | C02F1/52 | C02F9/08 | C02F1/56 | C02F1/24
+	</str>
+	<str name="IPC Primary">
+		C02F9/02
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F9
+	</str>
+	<str name="All UPC">
+		210/266 | 210/665 | 210/685 | 210/202 | 210/806 | 210/807 | 210/729 | 210/705 | 210/666 | 210/669 | 210/703
+	</str>
+	<str name="UPC Primary">
+		210/266
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		EPA Capsule Report, &quot;Aqueous Mercury Treatment&quot;, EPA/625/R-97/004 (Jul. 1997). cited by other . | International Seasrch Report, PCT/US2008/006066, mailed Sep. 10, 2008. cited by other . | Singapore Appl. No. 200907584-7, Search Report from the IP Office of Singapore, dated Mar. 3, 2011, 5 pgs. cited by other . | Darrell L. Gallup et al., &quot;Removal of Mercury and Arsenic from Produced Water&quot;, (2006). cited by other . | Singapore Appl. No. 200907584-7, Written Opinion from the IP Office of Singapore, dated Mar. 3, 2011, 4 pgs. cited by other. | Written Opinion, PCT/US2008/006066, mailed Sep. 10, 2008. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20020003112 | US5904853 | US4814091 | US5599515 | US6165366 | US3740331 | US4305827 | US20040179984 | US7029202 | US5545330 | US6537443 | US20040055962 | US4374029 | US5871648 | US6117333 | US4950408 | US5667694 | US3736253 | US20030082084 | US3749761 | US4147626 | US6635182 | US4252643 | US6071413 | WO1991007354 | EP0765842
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Assignee(s)">
+		EXXONMOBIL RESEARCH &amp; ENGINEERING COMPANY
+	</str>
+	<str name="1st Assignee">
+		EXXONMOBIL RESEARCH &amp; ENGINEERING COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Annandale, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Annandale, NJ
+	</str>
+	<str name="Inventor(s)">
+		GUSTAFSSON, MEREDITH, B. | KAUL, BAL, K. | FOX, BRIAN, S. | MASCIOLA, DAVID, A. | WANICHKUL, BOWORNSAK
+	</str>
+	<str name="1st Inventor">
+		GUSTAFSSON, MEREDITH, B.
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Beaumont, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Beaumont, TX | Fairfax, VA | Mullica, Hill, NJ | Alexandria, VA | Bangkok, TH
+	</str>
+	<str name="Agent/Attorney">
+		BARRETT, GLENN T. KEEN, MALCOLM D.
+	</str>
+	<str name="Primary Examiner">
+		LITHGOW, THOMAS M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

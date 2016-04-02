@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7553422
+	</str>
+	<str name="Application Number">
+		US11/855546
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and device for purifying water of nuclear installations
+	</str>
+	<str name="Abstract">
+		A method of purifying water in a nuclear installation includes an ion exchange mechanism in which the water is purified with an ion exchanger. Before being guided over the ion exchanger, the water is brought into contact with a catalyst in order to decompose hydrogen peroxide that is present in the water.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-09-14
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2009-06-30
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		B01D24/26
+	</str>
+	<str name="IPC Primary">
+		B01D24/26
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D24
+	</str>
+	<str name="All UPC">
+		210/681 | 210/264 | 210/688 | 210/759 | 210/762 | 210/763
+	</str>
+	<str name="UPC Primary">
+		210/681
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		CA2584159A1 | EP1807843B1 | JP2009505044T | DE102005038415B4 | DE102005038415A1 | ES2318766T3 | US20080128360A1 | EP1807843A1 | DE502006002482D1 | WO2007019960A1 | KR1020070063541A | JP2009505044A | US7553422 | AT419627T
+	</str>
+	<str name="Family Member Count">
+		14
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4900520 | US4985540 | US5632885 | US5643457 | USH1948 | US6335475 | US7077964 | US20030012708 | US20030132104 | DE19626697 | EP0816294 | FR2746207 | GB783590 | JP1997257992 | WO2004096717
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102005038415
+	</str>
+	<str name="Priority Date">
+		2005-08-12
+	</str>
+	<str name="Assignee(s)">
+		AREVA NP GMBH
+	</str>
+	<str name="1st Assignee">
+		AREVA NP GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Erlangen, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Erlangen, DE
+	</str>
+	<str name="Inventor(s)">
+		REITZNER, UVE | SCHNEIDER, VOLKER | TISCHLER, WALDEMAR
+	</str>
+	<str name="1st Inventor">
+		REITZNER, UVE
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Erlangen, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Erlangen, DE | Mohrendorf, DE | Erlangen, DE
+	</str>
+	<str name="Agent/Attorney">
+		GREENBERG, LAURENCE A. STEMER, WERNER H. LOCHER, RALPH E.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

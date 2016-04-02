@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8180788
+	</str>
+	<str name="Application Number">
+		US12/185804
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image search engine employing image correlation
+	</str>
+	<str name="Abstract">
+		An Internet infrastructure that supports searching of images by correlating a search image with that of plurality of images hosted in Internet based servers, containing an image search server, and a web browser contained in a client device that supports displaying of the images. The image search server supports delivery of search result pages to a client device based upon a search string or search image, and contains images from a plurality of Internet based web hosting servers. The image search server delivers a search result page containing images upon receiving a search string and/or search image from the web browser. The selection of images in the search result page is based upon: (i) word match, that is, by selecting images, titles of which correspond to the search string; and (ii) image correlation, that is, by selecting images, image characteristics of which correlates to that of search image. The selection of images in the search result page also occurs on the basis of popularity.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-08-04
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-08
+	</str>
+	<str name="Publication Date">
+		2012-05-15
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-05
+	</str>
+	<str name="All IPC">
+		G06F7/00 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		707/763 | 375/240
+	</str>
+	<str name="UPC Primary">
+		707/763
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20060069999A1 | US20070269140A1 | US20080162437A1 | US20080212899A1 | US20080226119A1 | US20090307219A1
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Assignee(s)">
+		ENPULZ, L.L.C.
+	</str>
+	<str name="1st Assignee">
+		ENPULZ, L.L.C.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Chicago, IL, US
+	</str>
+	<str name="Assignee(s) Address">
+		Chicago, IL, US
+	</str>
+	<str name="Inventor(s)">
+		BENNETT, JAMES, D.
+	</str>
+	<str name="1st Inventor">
+		BENNETT, JAMES, D.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Hroznetin, CZ
+	</str>
+	<str name="Inventor(s) Address">
+		Hroznetin, CZ
+	</str>
+	<str name="Agent/Attorney">
+		GARLICK &amp;#X26, MARKISON, , GARLICK, BRUCE E.
+	</str>
+	<str name="Primary Examiner">
+		PANNALA, SATHYANARAYAN, DEPT. 2164
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

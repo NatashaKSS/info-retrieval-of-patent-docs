@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7909895
+	</str>
+	<str name="Application Number">
+		US11269499
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Slurry dewatering and conversion of biosolids to a renewable fuel
+	</str>
+	<str name="Abstract">
+		In the processes for treating municipal sewage and storm water containing biosolids to discharge standards, biosolids, even after dewatering, contain typically about 80% water bound in the dead cells of the biosolids, which gives biosolids a negative heating value. It can be incinerated only at the expense of purchased fuel.Biosolids are heated to a temperature at which their cell structure is destroyed and, preferably, at which carbon dioxide is split off to lower the oxygen content of the biosolids. The resulting char is not hydrophilic, and it can be efficiently dewatered and/or dried and is a viable renewable fuel. This renewable fuel can be supplemented by also charging conventional biomass (yard and crop waste, etc.) in the same or in parallel facilities. Similarly, non-renewable hydrophilic fuels can be so processed in conjunction with the processing of biosolids to further augment the energy supply.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-11-07
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2011-03-22
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+	<str name="All IPC">
+		C10L5/42
+	</str>
+	<str name="IPC Primary">
+		C10L5/42
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C10
+	</str>
+	<str name="IPC Subclass">
+		C10L
+	</str>
+	<str name="IPC Group">
+		C10L5
+	</str>
+	<str name="All UPC">
+		44/307 | 44/605 | 210/605 | 210/630 | 210/761
+	</str>
+	<str name="UPC Primary">
+		44/307
+	</str>
+	<str name="UPC Class">
+		44
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Partial International Search Report for International Application No. PCT/US2010/030197, Jun. 30, 2010 (6 pages). cited by other . | Presentation - EnerTech Environmental, Inc., Introduction of the Rialto Regional Biosolids Project, Oct. 23, 2003 (10 pages) cited by other . | Walley, Paul, &quot;Optimising Thermal Hydrolysis for Reliable High Digester Solids Loading and Performance&quot;, 12th European Biosolids and Organic Resources Conference, 2007. cited by other . | Kelly, Harlan G., &quot;Emergy Processes in Biosolids Treatment, 2005&quot;, Journal of Environmental Engineering and Science, May 2006. cited by other . | Neyens, E. et al., &quot;A review of thermal sludge pre-treatment processes to improve dewaterability&quot;, Journal of Hazardous Materials, 2003, pp. 51-67. cited by other . | Forster, C.F. (1981). Biotechnology Letters, 3(12), 707-712. cited by examiner . | McCabe, W.L. (1993). Unit Operations of Chemical Engineering, 5.sup.th ed. McGraw-Hill, pp. 189-191. cited by examiner . | CH2MHill and Itron, Task 2.2.1 Final Report prepared for the California Energy Commission, &quot;Commonwealth Energy Biogas/PV Mini-Grid Renewal Resources Program, Making Renewables Part of an Affordable and Diverse Electric System in California, Contract No. 500-00-036, Process Selection Report for Wastewater Treatment Plants, Project No. 2.2 Enhanced Energy Recovery Through Optimization of Anaerobic Digestion and Microturbines&quot;, Aug. 2003. cited by other . | Weemaes, Marjoleine P.J., et al., &quot;Evaluation of Current Wet Sludge Disintegration Techniques&quot;, Centre for Environmental Sanitation, University Ghent, Ghent, Belgium, Jun. 12, 1998. cited by other . | International Search Report and Written Opinion dated Sep. 6, 2010 in International Application No. PCT/US2010/030197. cited by other.
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cites">
+		US20040192980 | US6973968 | US5132007 | US20070098625 | US6436157 | US4915706 | US4860671 | US5188739 | US5264009 | US20040192981 | US6036862 | US4618735 | US4762527 | US4852269 | US5188741 | US5188740 | US5018456 | US4087276 | US5370715 | US5082571 | US5711768 | US5707417 | US6176187 | US4714032 | US20050274293 | US5057231 | US4761893 | US6470812 | US5724805 | US5292429 | US4657681 | US5000099 | US5266085 | US5217625 | US5087370 | US5273556 | US5582793 | US5389264 | US4765911 | US5261225 | US5087378 | US3830636 | US4983296 | US4829678 | US7311834 | US20050113611 | US7101482 | US5221480 | US5019135 | US4038152 | US5280701 | US5009767 | US5230211 | US6143176 | US4126519 | US7189074 | US6256902 | US4414813 | US4579562 | US7434332 | US5888307 | US6149694 | US5240619 | US6875015 | US5641413 | US4272322 | US20050145569 | US4909899 | US6022514 | US5888453 | US20070289205 | US5288413 | US4292953 | US6197081 | US4875905 | US5888256 | US4922841 | US6962561 | US6913700 | US5183577 | US20050274066 | US20050274068 | US5816795 | US5630854 | US4953478 | US6905600 | US4615711 | US6692544 | US6740205 | US5234607 | US7301060 | US20050108928 | US4989344 | US5050375 | US4956926 | US7262331 | US4735729 | US3729042 | US3580193 | US5975439 | US4017421 | US5797972 | US4192653 | US4486959 | US5114541 | US5389259 | US6978725 | US5356540 | US4721575 | US4702745 | US4898107 | US20040025715 | US4477257 | US5211724 | US5211723 | US4377066 | US4795568 | US20040172878 | US5349910 | US4229296 | US6146133 | US5339621 | US6103191 | US5485728 | US6365047 | US4128946 | US7211229 | US6096283 | US20080072478 | US6063147 | US6029588 | US4380960 | US5292442 | US4208245 | US5234468 | US5234469 | US5230810 | US5500044 | US7252691 | US4255129 | US4241722 | US6966989 | US4284015 | US5586510 | US4824561 | US7179379 | US4593202 | US7160442 | US4983782 | US20060060526 | US5685153 | US5075015 | US5205906 | US5337496 | US3853759 | US4869833 | US20070043246 | WO2005121033 | JP1999171628 | WO2006032282 | WO2009031796 | EP0377832 | EP0328574 | WO2002081379 | EP1717209 | WO2006053020 | EP1894893 | WO2002036506 | EP0515117
+	</str>
+	<str name="Cites Count">
+		169
+	</str>
+	<str name="Assignee(s)">
+		ENERTECH ENVIRONMENTAL, INC.
+	</str>
+	<str name="1st Assignee">
+		ENERTECH ENVIRONMENTAL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Atlanta, GA
+	</str>
+	<str name="Assignee(s) Address">
+		Atlanta, GA
+	</str>
+	<str name="Inventor(s)">
+		DICKINSON, NORMAN, L. | BOLIN, KEVIN, M. | OVERSTREET, EDWARD | DOOLEY, BRIAN
+	</str>
+	<str name="1st Inventor">
+		DICKINSON, NORMAN, L.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Monte, Sereno, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Monte, Sereno, CA | Atlanta, GA | Atlanta, GA | Atlanta, GA
+	</str>
+	<str name="Agent/Attorney">
+		BAKER &amp; DANIELS LLP
+	</str>
+	<str name="Primary Examiner">
+		HILL, JR., ROBERT J
+	</str>
+	<str name="Assistant Examiner">
+		MCCAIG, BRIAN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

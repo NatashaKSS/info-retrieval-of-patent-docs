@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7220963
+	</str>
+	<str name="Application Number">
+		US11108275
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Light weight portable scanning electron microscope
+	</str>
+	<str name="Abstract">
+		We have developed a particular combination of elements and devices which enables the portability of a scanning electron microscope (SEM). In particular the combination enables a small size, typically less than about 50 liters, a manageable weight, typically less than about 15 kg, and a low power requirement, typically less than about 100 W, which permits operation using power supplied from a portable source such as a battery. Higher performance versions may exhibit increased volume in the range of about 150 liters, increased weight, in the range of 45 kg, and a power requirement in the range of 300 W. The higher performance version of the portable scanning electron microscope may be portable with the assistance of a dolly (rolling cart) or with the assistance of attached wheels and pulling appendage.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-04-18
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-04
+	</str>
+	<str name="Publication Date">
+		2007-05-22
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-05
+	</str>
+	<str name="All IPC">
+		H01J37/28
+	</str>
+	<str name="IPC Primary">
+		H01J37/28
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01J
+	</str>
+	<str name="IPC Group">
+		H01J37
+	</str>
+	<str name="All UPC">
+		250/310
+	</str>
+	<str name="UPC Primary">
+		250/310
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		US20040238739A1 | US20050178966A1 | US6897443 | US7220963
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8334510 | US8309921 | US7906762
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US4241259 | US7064325 | US4516026 | US5557105 | US5399860 | US20060076489 | US6559457 | US5254856 | US7067820 | US4587431 | US6897443 | JP1989296549
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		10827505 | 45311703
+	</str>
+	<str name="Priority Date">
+		2005-04-18 | 2003-06-02
+	</str>
+	<str name="Assignee(s)">
+		GROSS, HARALD
+	</str>
+	<str name="1st Assignee">
+		GROSS, HARALD
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Dresden, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Dresden, DE
+	</str>
+	<str name="Inventor(s)">
+		GROSS, HARALD
+	</str>
+	<str name="1st Inventor">
+		GROSS, HARALD
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Fremont, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Fremont, CA
+	</str>
+	<str name="Agent/Attorney">
+		CHURCH, SHIRLEY L.
+	</str>
+	<str name="Primary Examiner">
+		BERMAN, JACK I.
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

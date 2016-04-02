@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7547391
+	</str>
+	<str name="Application Number">
+		US11/285959
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Blood irradiation system, associated devices and methods for irradiating blood
+	</str>
+	<str name="Abstract">
+		Embodiments of the present application are directed to devices, systems and methods for irradiating fluids (e.g., blood) with ultraviolet light, and corresponding related components, systems and methods. In some embodiments of the invention, an ultraviolet blood irradiation (UBI) system is provided and may include an ultraviolet UV source providing a predetermined wavelength of radiation to provide a detrimental effect to virus and/or bacteria, an exposure chamber for exposing a predetermined volume of blood to radiation, a conduit between the UV source and the exposure chamber, a pump for pumping blood between a first location and a second location and a shutter assembly provided between the UV source and the exposure chamber providing time-metered irradiation of the blood in the chamber.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-11-22
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2009-06-16
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		A61L2/10 | A61M1/36 | C02F1/32
+	</str>
+	<str name="IPC Primary">
+		A61L2/10
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61L
+	</str>
+	<str name="IPC Group">
+		A61L2
+	</str>
+	<str name="All UPC">
+		210/198.1 | 250/438 | 250/504R | 362/321 | 604/6.08 | 607/94
+	</str>
+	<str name="UPC Primary">
+		210/198.1
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20090227931A1 | US7547391 | US20060157426A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Partial International Search Report dated Apr. 7, 2006 corresponding to PCT/US2005/042427 filed Nov. 22, 2005. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US1683877 | US2309124 | US4463746 | US5133932 | US5660719 | US5712698 | US6312593 | US7105093 | US20030086817 | DE202004004263 | EP0638838 | GB574803 | WO1998022150 | WO2000074806
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		28595905 | 63050304 | 63828604
+	</str>
+	<str name="Priority Date">
+		2005-11-22 | 2004-11-22 | 2004-12-21
+	</str>
+	<str name="Assignee(s)">
+		ENERGEX SYSTEMS, INC.
+	</str>
+	<str name="1st Assignee">
+		ENERGEX SYSTEMS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Emerson, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Emerson, NY
+	</str>
+	<str name="Inventor(s)">
+		PETRIE, THOMAS, R.
+	</str>
+	<str name="1st Inventor">
+		PETRIE, THOMAS, R.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Newfoundland, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		Newfoundland, NJ
+	</str>
+	<str name="Agent/Attorney">
+		MINTZ, LEVIN, COHN, FERRIS, GLOVSKY &amp; POPEO PC
+	</str>
+	<str name="Primary Examiner">
+		LAWRENCE, FRANK M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100196744A1
+	</str>
+	<str name="Application Number">
+		US12669067
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Integrated Electronic Device and Methods of Making the Same
+	</str>
+	<str name="Abstract">
+		An integrated electronic device, and its method of manufacture, are provided. The integrated electronic device can include an electronic assembly, such as an active RFID assembly, that is electrically coupled to a thin printed flexible electrochemical cell. In one example, the electronic assembly and the electrochemical battery are provided on a single substrate. In one example method of manufacture, the entire cell to be made on a printing press to integrate the battery directly with the electronic assembly.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2008-07-18
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-07
+	</str>
+	<str name="Publication Date">
+		2010-08-05
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-08
+	</str>
+	<str name="All IPC">
+		H01M10/02
+	</str>
+	<str name="IPC Primary">
+		H01M10/02
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="All UPC">
+		429/7 | 29/601
+	</str>
+	<str name="UPC Primary">
+		429/7
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		BLUE SPARK TECHNOLOGIES, INC.
+	</str>
+	<str name="1st Assignee">
+		BLUE SPARK TECHNOLOGIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Westlake,OH,US
+	</str>
+	<str name="Assignee(s) Address">
+		Westlake,OH,US
+	</str>
+	<str name="Inventor(s)">
+		TUCHOLSKI GARY R. | ALLISON LEONARD BLAINE
+	</str>
+	<str name="1st Inventor">
+		TUCHOLSKI GARY R.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		North Royalton,OH,US
+	</str>
+	<str name="Inventor(s) Address">
+		North Royalton,OH,US | North Royalton,OH,US
+	</str>
+	<str name="Agent/Attorney">
+		PEARNE &amp; GORDON LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

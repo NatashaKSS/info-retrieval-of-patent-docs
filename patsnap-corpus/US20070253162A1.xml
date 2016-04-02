@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070253162A1
+	</str>
+	<str name="Application Number">
+		US11567119
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		COOLING SYSTEM FOR A CONSUMER ELECTRONICS DEVICE
+	</str>
+	<str name="Abstract">
+		A cooling system has one or more fans disposed within a housing adapted to attach to a consumer electronics device. The cooling system can also include a switch, a male connector and a female connector adapted to interface with the consumer electronics device and a power supply of the consumer electronics device. The cooling system may have a pass-through design, in which it receives power from the power supply of the consumer electronics device, taps into the power for its own operation, and passes the power onto the consumer electronics device, and/or it receives power from the consumer electronics device, taps into the power, and passes the power on to another device. The cooling system can also include one or more battery chargers attached to the housing for charging batteries related to the consumer electronics device.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-12-05
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-12
+	</str>
+	<str name="Publication Date">
+		2007-11-01
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-11
+	</str>
+	<str name="All IPC">
+		H05K7/20
+	</str>
+	<str name="IPC Primary">
+		H05K7/20
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/695
+	</str>
+	<str name="UPC Primary">
+		361/695
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		WO200908060305A3 | WO2008060305A2 | US20070253162A1 | US20070253163A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		56711906 | 79675806
+	</str>
+	<str name="Priority Date">
+		2006-12-05 | 2006-05-01
+	</str>
+	<str name="Inventor(s)">
+		NAGHI HERSCHEL | NAVID AMIR
+	</str>
+	<str name="1st Inventor">
+		NAGHI HERSCHEL
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Beverly Hills,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Beverly Hills,CA,US | Sherman Oaks,CA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

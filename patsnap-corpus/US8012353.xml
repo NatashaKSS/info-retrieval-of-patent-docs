@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8012353
+	</str>
+	<str name="Application Number">
+		US12309376
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for simultaneous clarification and endogenous post denitifrication
+	</str>
+	<str name="Abstract">
+		A method for treatment of nitrified wastewater, the method including supplying wastewater to be treated to a tank having a layer of biomass supporting media near or at the top thereof, retaining biomass on and below the biomass supporting media for a sufficient time such that the biomass hydrolyses and supplies organic carbon to the wastewater in the tank; denitrifying and simultaneously clarifying the wastewater by providing an upward flow of the wastewater in the tank through the layer of biomass supporting media and discharging excess sludge from the bottom of the tank at a rate which is selected to maintain nitrate and ammonia concentrations below selected thresholds.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-08-09
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2011-09-06
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/630 | 210/150 | 210/903 | 210/617
+	</str>
+	<str name="UPC Primary">
+		210/630
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report related to PCT/IL2007/000997. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20060186027 | US4322296 | US6726838 | US7022233 | US5490934 | US6110389 | US6682653 | US6565750 | US5908555 | US4279753 | US4620929 | US6616845 | US4159945 | US4561974 | US7135110
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Assignee(s)">
+		AQWISE-WISE WATER TECHNOLOGIES
+	</str>
+	<str name="1st Assignee">
+		AQWISE-WISE WATER TECHNOLOGIES
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Herzilia, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Herzilia, IL
+	</str>
+	<str name="Inventor(s)">
+		SCHECHTER, RONEN, ITZHAK | ASSULIN, NIR
+	</str>
+	<str name="1st Inventor">
+		SCHECHTER, RONEN, ITZHAK
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tivon, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Tivon, IL | Hibat, Zion, IL
+	</str>
+	<str name="Agent/Attorney">
+		HUSCH BLACKWELL LLP
+	</str>
+	<str name="Primary Examiner">
+		UPTON, CHRISTOPHER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

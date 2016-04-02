@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8359057
+	</str>
+	<str name="Application Number">
+		US12/551795
+	</str>
+	<str name="Title">
+		Portable electronics device with programmable battery
+	</str>
+	<str name="Abstract">
+		A portable electronics device comprises at least one device subsystem, and a programmable battery. The programmable battery is coupled to a power input of the device subsystem and is configured to dynamically adjust a characteristic of the power that is applied to the power input in accordance with a power configuration command that is received at the battery.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-09-01
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-09
+	</str>
+	<str name="Publication Date">
+		2013-01-22
+	</str>
+	<str name="Publication Year">
+		2013
+	</str>
+	<str name="Publication(Year/Month)">
+		2013-01
+	</str>
+	<str name="All IPC">
+		H04B7/00
+	</str>
+	<str name="IPC Primary">
+		H04B7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04B
+	</str>
+	<str name="IPC Group">
+		H04B7
+	</str>
+	<str name="All UPC">
+		455/522 | 455/127.1 | 455/572 | 455/573
+	</str>
+	<str name="UPC Primary">
+		455/522
+	</str>
+	<str name="UPC Class">
+		455
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Yamashita et al., &quot;A Novel Low-Power Dissipation and High-Speed Converter-Control-IC for the Transmitting Amplifier of Digital Portable Telephones&quot;, IEICE Transactions on Communications Society, Dec. 1, 1994, pp. 1600-1606, vol. E77-B, No. 12, Tokyo, Japan. cited by applicant | Sahu et al., &quot;A High-Efficiency Linear RF Power Amplifier With a Power-Tracking Dynamically Adaptive Buck-Boost Supply&quot;, IEEE Transactions on Microwave Theory and Techniques, Jan. 1, 2004, pp. 112-120, vol. 52, No. 1, NJ, USA. cited by applicant | European Patent Office, Extended European Search Report for EP Patent App. No. 09169190.7, Feb. 5, 2010. cited by applicant | European Patent Office, Examination Report for EP Patent App. No. 09169190.7, Nov. 19, 2010. cited by applicant.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5945806 | US20020113493 | US20030071523 | US20030228877 | US20040180686 | US20050046390 | US20060092583 | EP1775852
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Assignee(s)">
+		RESEARCH IN MOTION LIMITED
+	</str>
+	<str name="1st Assignee">
+		RESEARCH IN MOTION LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Waterloo, Ontario, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Waterloo, Ontario, CA
+	</str>
+	<str name="Inventor(s)">
+		PLESTID, THOMAS, LEONARD, TREVOR
+	</str>
+	<str name="1st Inventor">
+		PLESTID, THOMAS, LEONARD, TREVOR
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kanata, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Kanata, CA
+	</str>
+	<str name="Agent/Attorney">
+		WONG, JEFFREY W. BORDEN LADNER GERVAIS LLP
+	</str>
+	<str name="Primary Examiner">
+		EDOUARD, PATRICK
+	</str>
+	<str name="Assistant Examiner">
+		EISNER, RONALD
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

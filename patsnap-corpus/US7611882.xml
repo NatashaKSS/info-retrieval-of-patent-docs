@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7611882
+	</str>
+	<str name="Application Number">
+		US10478840
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Detergent compositions comprising Bacillus subtilis pectate lyases
+	</str>
+	<str name="Abstract">
+		Detergent composition comprising a surfactant and a pectate lyase (EC 4.2.2.2) enzyme en-coded by a DNA sequence endogeneous to a strain of Bacillus subtilis or a stabilized variant thereof provides superior cleaning and stain removal.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-05-14
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-05
+	</str>
+	<str name="Publication Date">
+		2009-11-03
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		C02F3/34 | C12N9/88 | C11D3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/34
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		435/232 | 435/200 | 510/320 | 435/262
+	</str>
+	<str name="UPC Primary">
+		435/232
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		US7611882 | US20060165613A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Kim et al., Protein Engineering, vol. 14, No. 5, pp. 343-347 (2001). cited by other . | Kim et al., Bioscience Biotechnology Biochem, Part 5, vol. 58, pp. 947-949 (1994). cited by other . | Abstract of Tatsuji et al., Bioscience Biotechnology Biochem, Part 2, vol. 58, pp. 353-358 (1994). cited by other . | Nasser et al., Database Biosis, Accession No. PREV199191043359 (1991). cited by other . | Kim et al., Database CAPLUS, Accession No. 1994:550110 (1994). cited by other . | Sakamoto et al., Biosci. Biotech Biochem., vol. 58, No. 2, pp. 353-358 (1994). cited by other. | Abstract of JP 2000-659159. cited by other . | Kim et al., Biosci. Biotechn, Biochem. vol. 58, No. 5, pp. 947-949 (1994). cited by other . | Sakamoto et al., Database Biosis, Accession No. PREV199497268686 (1994). cited by other . | Nasser et al., Biochimie, Part 9, vol. 72, pp. 689-696 (1990). cited by other . | JP Application No. 2000-262292 (Sep. 26, 2000) (abstract and translation). cited by other . | Nasser et al., Febs 13343, Part 3, vol. 333, pp. 319-326 (1993). cited by other . | Nasser et al., Database Biosis, Accession No. PREV199497088806 (1993). cited by other . | Abstract of JP Application No. 2000-253888 (Sep. 19, 2000). cited by other . | Abstract of JP Application No. 11318443 (Nov. 24, 1999). cited by other .
+	</str>
+	<str name="Other References Count">
+		15
+	</str>
+	<str name="Cited By">
+		US8288144
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6172030 | US6399351 | US6808915 | WO1998006809 | JP2000262292 | WO2000042145 | WO2000037627 | WO2000042155 | JP1999318443 | WO1999027084 | WO2000029560 | WO1999027083 | WO2000055309 | WO1998045393 | WO2002006442 | WO2000060063
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Priority Country">
+		DK
+	</str>
+	<str name="Priority Number">
+		200100755
+	</str>
+	<str name="Priority Date">
+		2001-05-14
+	</str>
+	<str name="Assignee(s)">
+		NOVOZYMES A/S
+	</str>
+	<str name="1st Assignee">
+		NOVOZYMES A/S
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Bagsvaerd, DK
+	</str>
+	<str name="Assignee(s) Address">
+		Bagsvaerd, DK
+	</str>
+	<str name="Inventor(s)">
+		BJORNVAD, MADS, ESKELUND | SCHULEIN, MARTIN | HENRIKSEN, LEGAL, REPRESENTATIVE, TORBEN | NIELSEN, VIBEKE, SKOVGAARD | SMETS, JOHAN | ANDERSEN, CARSTEN | THISTED, THOMAS
+	</str>
+	<str name="1st Inventor">
+		BJORNVAD, MADS, ESKELUND
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Frederiksberg, DK
+	</str>
+	<str name="Inventor(s) Address">
+		Frederiksberg, DK | Copenhagen, DK | Copenhagen, DK | Bagsvaerd, DK | Lubeek, BE | V.ae, butted.rlose, DK | Frederikssund, DK
+	</str>
+	<str name="Agent/Attorney">
+		LAMBIRIS, ELIAS
+	</str>
+	<str name="Primary Examiner">
+		NASHED, NASHAAT T
+	</str>
+	<str name="Assistant Examiner">
+		CHOWDHURY, IQBAL H
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

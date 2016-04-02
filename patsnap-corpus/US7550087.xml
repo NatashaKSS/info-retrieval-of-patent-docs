@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7550087
+	</str>
+	<str name="Application Number">
+		US11/609089
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for treating FGD blowdown or similar liquids
+	</str>
+	<str name="Abstract">
+		A process has steps of one or more of aerobic treatment to remove COD and nitrify a waste stream, anoxic treatment to denitrify a waste stream, anoxic treatment to remove selenium and anaerobic treatment to remove heavy metals and sulphur. The process may be used to treat, for example, FGD blow down water. The process may further include one or more of (a) membrane separation of the waste stream upstream of the anoxic digestion to remove selenium, (b) dilution upstream of the biological treatment step, (c) physical/chemical pretreatment upstream of the biological processes or dilution step to remove TSS and soften the waste stream, or (d) ammonia stripping upstream of the biological treatment steps or dilutions step. These processes may be provided in a variety of suspended growth or fixed film reactors, for example a membrane bioreactor or a fixed film reactor having a GAC bed. Processes for biological treatment of inorganic compounds in a fixed medium reactor is described including steps of one or more of maintaining desired ORP levels, optionally by controlling nutrient addition, and removing solids or gas bubbles from the medium bed.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-12-11
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-12
+	</str>
+	<str name="Publication Date">
+		2009-06-23
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/630 | 210/617 | 210/631 | 210/903 | 210/912
+	</str>
+	<str name="UPC Primary">
+		210/630
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		CA2615945A1 | EP1910234A4 | WO2007012181A1 | US20080257820A1 | US7550087 | EP1910234A1 | US20070114174A1
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		MSE Technology Applications, Inc. et al. &quot;Selenium Treatment/Removal Alternative Demonstration Project, Mine Waste Tech Prgm Activity III, Project 20&quot; Jun. 2001, Butte, MT USA. cited by other | Twidwell, L.G. et al., &quot;Technologies and Potential Technologies for Removing Selenium From Process and Mine Wastewater&quot;, Undated, Butte, Montana, U.S.A. cited by other | Applied Biosciences Corporation, &quot;Biological Treatment of FGD Wastewaters&quot;, presented Jan. 27, 2005, Raleigh, NC, U.S.A. cited by other | English Language Abstract of JP 2001-062486. cited by other | English Language Abstract of JP 08-323391. cited by other | European Search Report of EP 1910234, generated Jul. 2008. cited by other | D.J. Adams et al., &quot;Bioreduction of Selenate and Selenite&quot; from A.E. Torma et al., Biohydrometallurgical Technologies, The Minerals, Metals and Matierals Scoiety, (1993), pp. 755-771. cited by other | D. J. Adams et al., &quot;Biotechnologies for Metal and Toxic Inorganic Removal from Mining Process and Waste Solutions&quot;, Randol Gold Forum 1996, pp. 143-146. cited by other | Ronald S. Oremland et al., &quot;Selenate Reduction to Elemental Selenium by Anaerobic Bacteria in Sediments and Culture, Biogeochemical Significance of a Novel, Sulfate-independent Respiration&quot;, Applied and Environmental Microbiology, Sep., 1989, vol. 55, No. 9, pp. 2333-2343. cited by other | Terry Scheurman, &quot;Selenium Reduction Issues In a Coal Fired Power Plant&quot;, Industrial Water Conference, Orlando, Flordia, Oct. 2005. cited by other | Haztech News, &quot;Biological Process Proved Most Consistent in Demonstration for Removing Se from Water&quot;, The Newsletter of Hazrdous Waste Treatment Technology., vol. 16 (2001). cited by other | Ronald S. Oremland et al., &quot;In Situ Bacterial Selenate Reduction in the Agricultural Drainage Systems of Western Nevada&quot;, Applied and Environmental Microbiology, Feb. 1991, vol. 57, No. 2, pp. 615-617. cited by other | D. J. Adams et al., &quot;Microbial and Cell-Free Selenium Bioreduction in Mining Waters&quot;, Ch. 24 of Frankenberger et al., Environmental Chemistry of Selenium, Marcel Dekker, Inc., (1998), pp. 479-499. cited by other | J.F. Stolz et al., &quot;Microbial Transformation of Elements: The Case of Arsenic and Selenium&quot;, Int. Microbial (2002) 5: pp. 201-207. cited by other | Derek R. Lovley, &quot;Dissimilatory Metal Reduction&quot;, Annu. Rev. Microbial, 1993, 47 : 263-290. cited by other | Brad Wahiquist et al., &quot;Effective Biological Water Treatment Through Biological Process Control&quot;, Tailings and Mine Waste Conference, Vail Co., (2003). cited by other | Jill Sonstegard et al., &quot;ABMet.RTM. Biologial Selenium Removal from FGD Wastewater&quot;, Industrial Water Conference, Orlando, Florida, Oct. 2005. cited by other.
+	</str>
+	<str name="Other References Count">
+		17
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3617540 | US3957632 | US4490258 | US4664804 | US4725357 | US4839052 | US5185080 | US5192441 | US5228997 | US5271831 | US5556536 | US5651892 | US5660730 | US5895576 | US5976376 | US6183644 | US6207047 | US6692642 | US6811702 | US6896805 | US7024969 | US20050023202 | US20050133443 | US20060272198 | CA2477333 | CA2517322 | CA2615945 | EP0692458 | EP0769479 | EP0773192 | EP1270513 | JP1996323391 | JP1998005789 | JP2001062486 | WO1987000161 | WO2004071973 | WO2005016826 | WO2007012181
+	</str>
+	<str name="Cites Count">
+		38
+	</str>
+	<str name="Priority Country">
+		CA
+	</str>
+	<str name="Priority Number">
+		2517322
+	</str>
+	<str name="Priority Date">
+		2005-08-26
+	</str>
+	<str name="Assignee(s)">
+		ZENON TECHNOLOGY PARTNERSHIP
+	</str>
+	<str name="1st Assignee">
+		ZENON TECHNOLOGY PARTNERSHIP
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Wilmington, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Wilmington, DE
+	</str>
+	<str name="Inventor(s)">
+		PEETERS, JEFFREY, GERARD | BONKOSKI, WILLIAM, A. | COTE, PIERRE, LUCIEN | HUSAIN, HIDAYAT
+	</str>
+	<str name="1st Inventor">
+		PEETERS, JEFFREY, GERARD
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Toronto, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Toronto, CA | Wilmington, DE | Dundas, CA | Oakville, CA
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

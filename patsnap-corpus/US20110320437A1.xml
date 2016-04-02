@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20110320437A1
+	</str>
+	<str name="Application Number">
+		US12/825304
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Infinite Browse
+	</str>
+	<str name="Abstract">
+		An online article is enhanced by displaying, in association with the article, supplemental content that includes entities that are extracted from the article and/or entities that are related to entities that are extracted from the article. The supplemental content further includes information about each of the entities. The information about an entity may be obtained by searching for the entity in one or more searchable repositories of data. For example, the supplemental content may include, for each entity, video, image, web, and/or news search results. The supplemental content may further include information such as stock quotes, abstracts, maps, scores, and so on. The entities are selected using a variety of analyses and ranking techniques based on contextual factors such as user-specific information, time-sensitive popularity trends, grammatical features, search result quality, and so on. The entities may further be selected for purposes such as generating ad-based revenue.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-06-28
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-06
+	</str>
+	<str name="Publication Date">
+		2011-12-29
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/722 | 707/E17.014 | 707/E179
+	</str>
+	<str name="UPC Primary">
+		707/722
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Inventor(s)">
+		KIM YOOKYUNG | ZHAO HONGJIAN | LI XIN | LEVICH ALEXANDRA | CHI TOM | SUI MING | ZHAO YIHONG | DAVIS MARC
+	</str>
+	<str name="1st Inventor">
+		KIM YOOKYUNG
+	</str>
+	<str name="Number of Inventors">
+		8
+	</str>
+	<str name="1st Inventor Address">
+		Los Altos,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Los Altos,CA,US | Fremont,CA,US | San Jose,CA,US | Seattle,WA,US | San Francisco,CA,US | Fremont,CA,US | San Jose,CA,US | San Francisco,CA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

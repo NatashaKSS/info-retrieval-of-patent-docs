@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7645387
+	</str>
+	<str name="Application Number">
+		US11636847
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of utilizing ion exchange resin and reverse osmosis to reduce environmental discharges and improve effluent quality to permit recycle of aqueous or radwaste fluid
+	</str>
+	<str name="Abstract">
+		Method of maximizing resin utilization and optimizing reverse osmosis performance to polish an aqueous or radwaste fluid. The method provides resin scavenging of targeted isotopes and exposes filter media and resin to a higher influent activity concentration to enable higher waste loading and longer life of resin while protecting downstream reverse osmosis system from high concentration of contaminants.An aqueous waste feedstream is processed through steps of filtering, demineralizing, and reverse osmosis; and the feedstream is separated into permeate and reject streams for recycling and evaluation, respectively. The permeate stream is recycled in ways that permit it to return to a supply area for recycle reuse or discharge. One of the steps in the invention reduces concentration of undesirable constituents in the reject stream which may adversely affect waste classification for packaging, shipping and disposal and protect personnel from radiation exposure by reducing the overall dose rate of the processed reject stream and reverse osmosis system.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-12-11
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-12
+	</str>
+	<str name="Publication Date">
+		2010-01-12
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		B01D61/00 | C02F1/44 | B01D63/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/652 | 210/650 | 210/649 | 210/639 | 210/638
+	</str>
+	<str name="UPC Primary">
+		210/652
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080135479A1 | US7645387
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Mignani, &quot;Innovative ultrafiltration for wastewater reuse&quot;, Desalination 124 (1999) 287-292. cited by other . | Wang, &quot;A study of the electrodeionization process--high-purity water production with a RO/EDI system&quot;, Desalination 132 (2000) 349-352, Internet Pub. Elsevier. cited by other. | Okazaki, &quot;Water Recycling Using Sequential Membrane Treatment in the Electronics Industry&quot;, Desalination 131 (2000) 65-73, Internet Pub. Elsevier. cited by other . | Zakrzewska-Trznadel, &quot;Application of ceramic membranes for hazardous wastes processing: pilot plant experiments with radioactive solutions&quot;, Desalination 162 (2004) 191-199. cited by other . | Goncharuk, &quot;Purification of Drainage Water from Dumps of Sold Household Wastes Using Calcium Oxide . . . &quot;, Chemistry of Sustainable Development 13 (2005) 603-610. cited by other . | Li-Shiang Liang, &quot;Continuous Electrodeionization Processes For Production Of Ultrapure Water&quot;, 2001 Semiconductor Pure Water and Chemicals Conference, ppp. 1-14, Internet Pub. cited by other . | Hernon, &quot;Removal of Weakly-Ionized Species by EDI&quot;, Conference Paper, 1998, found as Internet Publication in 2007, Ionics, Inc. cited by other .
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By">
+		US7731854
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5997745 | US6001246 | US4705625 | US7067057 | US7077962 | US6245121 | US5082618 | US6905604 | US5597487 | US6426005 | US6056878 | US5114576 | US5833846 | US4666603 | US4482459 | US5585531 | US5807486 | US7186344 | US6461514 | US6733636 | US4073683 | US6709599 | US4808287 | US4495067 | US4395338 | US5783084 | US4156645 | US4176057 | US6863822 | US20060278582 | US4676908 | US6607668 | US20070045189 | US4655928 | US6878285 | US5512181 | US4836934 | US4289617 | US5635071 | US4828712 | US4758347 | US6113797 | US3795609 | US5925255 | US6482325 | US4243523 | US6635177 | US6110375 | US20040149658 | US6054050 | US6537456 | US4430226 | US6908546 | US3528901 | US5651894 | US5501798 | US4810340 | US4610790 | JP1999000662 | WO2005113120 | GB2249307 | GB2145709 | JP1993068974 | GB2048113 | GB1445799
+	</str>
+	<str name="Cites Count">
+		65
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		63684706
+	</str>
+	<str name="Priority Date">
+		2006-12-11
+	</str>
+	<str name="Assignee(s)">
+		DIVERSIFIED TECHNOLOGIES SERVICES, INC.
+	</str>
+	<str name="1st Assignee">
+		DIVERSIFIED TECHNOLOGIES SERVICES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Knoxville, TN
+	</str>
+	<str name="Assignee(s) Address">
+		Knoxville, TN
+	</str>
+	<str name="Inventor(s)">
+		JENSEN, CHARLES, E. | BRUNSELL, DENNIS, A. | BEETS, LARRY, E.
+	</str>
+	<str name="1st Inventor">
+		JENSEN, CHARLES, E.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Knoxville, TN
+	</str>
+	<str name="Inventor(s) Address">
+		Knoxville, TN | Knoxville, TN | Knoxville, TN
+	</str>
+	<str name="Agent/Attorney">
+		BROWN, PATENT ATTORNEY, MONROE ALEX
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

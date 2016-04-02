@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090080711A1
+	</str>
+	<str name="Application Number">
+		US12210570
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS, METHOD, AND COMPUTER PROGRAM PRODUCT FOR DETECTING OBJECT FROM IMAGE
+	</str>
+	<str name="Abstract">
+		A storage unit stores therein features and reliabilities of respective first segment regions divided from a first region. An object extracting unit extracts a second region including an object from input image data. A reliability calculating unit calculates reliabilities of respective second segment regions divided from the second region. A feature calculating unit calculates features of the respective second segment regions. A similarity calculating unit calculates an object similarity by performing multiplication of: segment similarities between the features of the first segment regions divided from the first region and the features of the second segment regions; and reliabilities of the respective segment regions, and then by summing up obtained values from the multiplication. A determining unit determines that an object included in the first region matches an object included in the second region when the object similarity is greater than a threshold.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-09-15
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-09
+	</str>
+	<str name="Publication Date">
+		2009-03-26
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		G06K9/62
+	</str>
+	<str name="IPC Primary">
+		G06K9/62
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/116
+	</str>
+	<str name="UPC Primary">
+		382/116
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP2009075868A | US20090080711A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8228383
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2007244294
+	</str>
+	<str name="Priority Date">
+		2007-09-20
+	</str>
+	<str name="Inventor(s)">
+		YOKOI KENTARO
+	</str>
+	<str name="1st Inventor">
+		YOKOI KENTARO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa,JP
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp; DUNNER,LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

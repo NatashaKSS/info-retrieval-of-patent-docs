@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7846382
+	</str>
+	<str name="Application Number">
+		US10516599
+	</str>
+	<str name="Title">
+		Method and device for ultrasonically manipulating particles within a fluid
+	</str>
+	<str name="Abstract">
+		Fluid-handling methods and devices for ultrasonic manipulation of fluid-borne particles comprise a fluid-handling manifold and an ultrasonic particle manipulator defining an ultrasonic cavity within the manifold. Fluid-borne particles introduced into the manifold are manipulated by controlling ultrasonic standing waves at the ultrasonic cavity. Cavities having non-uniform configurations, asymmetric standing waves and/or multiple ultrasonic cavities within the manifold are operative to control the movement of the fluid-borne particles, optionally including collecting and holding such particles, transferring particles through an intersection from one channel to another, etc. Solid phase extraction (SPE) particles, biological particles and other fluid-borne particles can be manipulated within the fluid-handling manifold.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-06-03
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-06
+	</str>
+	<str name="Publication Date">
+		2010-12-07
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-12
+	</str>
+	<str name="All IPC">
+		C02F1/32
+	</str>
+	<str name="IPC Primary">
+		C02F1/32
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/748.01 | 210/748.02 | 422/20
+	</str>
+	<str name="UPC Primary">
+		210/748.01
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		E. Skudrzyk &quot;Die Grundlagen der Akustic&quot; Springer Verlag, Wien, 1954, S. 202-205, S. 807-825. cited by other . | K. Asai and N. Sasaki &quot;Ultrasonic Treatment of Slurry&quot;, Proceedings of the 3.sup.rd International Congress on Coal Preparation, Institut National de l'Industrie Charbonniere, Brussels-Liege, 1958. cited by other . | PCT International Search Report for PCT/US03/17274. cited by other. | U.S. Published Patent Application 2002-0199094 to Strand et al., Dec. 26, 2002. cited by other . | US. Published Patent Application 2002-0155033 to Strand et al., Oct. 24, 2002. cited by other . | U.S. Published Patent Application 2002-0176804 to Strand et al., Nov. 28, 2002. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By">
+		US7963310 | US8166819
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US6273262 | US4523682 | US4055491 | US6332541 | US5759432 | US4280823 | US4879011 | US5527460 | US4523632 | US6216538 | US5225089 | US4877516 | US5164094 | US6245207 | US5831166 | US4673512 | US5626767 | WO2003027027 | WO2002072234 | WO2000004978 | GB2339703 | GB2098498 | WO1990005008 | EP0773055
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Assignee(s)">
+		PROTASIS CORPORATION
+	</str>
+	<str name="1st Assignee">
+		PROTASIS CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Marlborough, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Marlborough, MA
+	</str>
+	<str name="Inventor(s)">
+		STRAND, DAVID | BARROW, DAVID | CEFAI, JOSEPH
+	</str>
+	<str name="1st Inventor">
+		STRAND, DAVID
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Sherborn, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Sherborn, MA | Cardiff, GB | Swansea, GB
+	</str>
+	<str name="Agent/Attorney">
+		BANNER &amp; WITCOFF, LTD.
+	</str>
+	<str name="Primary Examiner">
+		SMITH, DUANE
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

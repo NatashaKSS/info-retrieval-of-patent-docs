@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7671173
+	</str>
+	<str name="Application Number">
+		US11849220
+	</str>
+	<str name="Title">
+		Purification methods and purified polymers
+	</str>
+	<str name="Abstract">
+		Metal complexing agents are used to purify polymers including conducting polymers to provide very low metal content. The process comprises precipitating the polymer in solution into a solvent system comprising the metal complexing agent. Very low levels including undetectable levels of metals such as nickel and magnesium can be achieved. High purity polymers are used in electronics and photovoltaic applications.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-08-31
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2010-03-02
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		C08F6/00
+	</str>
+	<str name="IPC Primary">
+		C08F6/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C08
+	</str>
+	<str name="IPC Subclass">
+		C08F
+	</str>
+	<str name="IPC Group">
+		C08F6
+	</str>
+	<str name="All UPC">
+		252/500 | 528/482 | 528/491 | 210/688 | 528/480 | 210/638
+	</str>
+	<str name="UPC Primary">
+		252/500
+	</str>
+	<str name="UPC Class">
+		252
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		PCT/US2007/077456, filed Aug. 31, 2007, International Search Report, (dated Jun. 4, 2008) (4 pages). cited by other . | Marsitzky, D., &quot;Funktionalisierung von Konjugierten Polymeren auf der Basis von PPP: Synthese und Charakterisierung von kojugierten Block- und statistischen Copolymeren zur Anwendung in lichtemittierenden Dioden&quot; Verlag Mainz, Wissenschaftsverlag, Aachen, Mainz, XP-002481132, 5.Experimental Section, pp. 197-200 and 208-209 (2000). cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US20040254336 | US4595749 | US20040250849 | US6602974
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Assignee(s)">
+		CARNEGIE MELLON UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		CARNEGIE MELLON UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Inventor(s)">
+		MCCULLOUGH, RICHARD, D. | IOVU, MIHAELA, C.
+	</str>
+	<str name="1st Inventor">
+		MCCULLOUGH, RICHARD, D.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Inventor(s) Address">
+		Pittsburgh, PA | Dallas, TX
+	</str>
+	<str name="Agent/Attorney">
+		RUTT, J. STEVEN FOLEY &amp; LARDNER LLP
+	</str>
+	<str name="Primary Examiner">
+		CHOI, LING-SIU
+	</str>
+	<str name="Assistant Examiner">
+		TISCHLER, FRANCES
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2009069673A1
+	</str>
+	<str name="Application Number">
+		PCT/JP2008/071475
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		BATTERY AND PORTABLE ELECTRONIC APPARATUS
+	</str>
+	<str name="Abstract">
+		A battery which can be assembled by using reduced man-hours. The battery has a battery cell (20) having a positive electrode terminal (21) and a negative electrode terminal (22) which are arranged on one side surface of the battery cell, a circuit board (30) placed facing the one side surface of the battery cell (20) and having a first board terminal (30a) and a second board terminal (30b), a first conduction member (31) for conducting the positive electrode terminal (21) and the first board terminal (30a) to each other, a second conduction member (32) for conducting the negative electrode terminal (22) and the second board terminal (30b) to each other, a first cover (41) placed between the circuit board (30) and the battery cell (20), a second cover (42) placed facing the first cover (41) with the circuit board (30) sandwiched between the first and second covers (41, 42), a connection section (43) for connecting the first and second covers (41, 42) to each other, and a cover (40) for covering the circuit board (30). The circuit board (30) is mounted to the one side surface of the battery cell (20) while being sandwiched between the first and second covers (41, 42).
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-11-26
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-11
+	</str>
+	<str name="Publication Date">
+		2009-06-04
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		H01M2/10
+	</str>
+	<str name="IPC Primary">
+		H01M2/10
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M2
+	</str>
+	<str name="Family Members">
+		JP2009134959A | WO2009069673A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8216005
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		JP2003077441A | JP2006202629A | JP2007179812A
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2007309385
+	</str>
+	<str name="Priority Date">
+		2007-11-29
+	</str>
+	<str name="Assignee(s)">
+		KYOCERA CORPORATION | HIROTA, HIROYUKI
+	</str>
+	<str name="1st Assignee">
+		KYOCERA CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		6128501, 6128501, JP
+	</str>
+	<str name="Assignee(s) Address">
+		6128501, 6128501, JP | 2248502, 2248502, JP
+	</str>
+	<str name="Agent/Attorney">
+		SHOBAYASHI, MASAYUKI
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

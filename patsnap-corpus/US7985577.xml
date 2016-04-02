@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7985577
+	</str>
+	<str name="Application Number">
+		US11492258
+	</str>
+	<str name="Title">
+		Systems and processes for treatment of organic waste materials with a biomixer
+	</str>
+	<str name="Abstract">
+		Waste material is screened to produce unders and overs, the overs are treated to produce a partially hydrolyzed biomass, and the partially hydrolyzed biomass and the unders are anaerobically digested. Treating the overs includes fermenting and mixing the overs with an aerotolerant anaerobic bacteria in a controlled environment, such as a rotating drum, while air is passed through the controlled environment. The moisture content, pH, and biological content of the overs can be adjusted before the overs are treated. Volatile fatty acids from the air passed through the controlled environment can be collected for anaerobic digestion or can be recirculated back into the controlled environment. The cleansed air can also be recycled back into the controlled environment.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-07-24
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-07
+	</str>
+	<str name="Publication Date">
+		2011-07-26
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		C02F3/34 | C12P1/00 | C12M1/00 | C12N1/00 | C12M3/00 | C12N1/20 | C12N1/12
+	</str>
+	<str name="IPC Primary">
+		C02F3/34
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		435/267 | 435/298.2 | 435/822 | 435/821 | 435/252.1 | 435/243 | 435/801 | 435/41 | 435/262
+	</str>
+	<str name="UPC Primary">
+		435/267
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Biomass Test Burn Report of the Tampa Electric Company, Apr. 2002, 13 pages. cited by other . | Swartzbaugh, J.T. et al. &quot;Recycling Equipment and Technology for Municipal Solid Waste&quot;, 1993, 150 pages. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4094740 | US3897215 | US2121371 | US3814588 | US5459071 | US5566532 | US20050106715 | US20050051646 | US6730223 | US5250100 | US20020079266 | US4134731 | US20050112741 | US20040191755 | US2333247 | US5583045 | US2333246 | US4326874 | US5254472 | US3970546 | US20060065608 | US2969277 | US6578783 | US1871489 | US5655718 | US4846975 | US20050035058 | US4448588 | US4203755 | US4483704 | US6048458 | US5500306 | US6516590 | US5507396 | US5253764 | US1818570 | US1938647 | US20020022260 | US3930799 | US4983296 | US6202389 | US6342378 | US5445329 | US5206173 | US20050134102 | US6299774 | US5556445 | US5700687 | US4010098 | US5758462 | US20040000179 | US5377917 | US6592250 | US3984484 | US20050044911 | US2344611 | US1617014 | US6003680 | US5522913 | US20010048093 | US5724793 | US4935038 | US20040123637 | US5972696 | US5461843 | US6113786 | US6312649 | US6050423 | US20030066322 | US4264352 | US20020148778 | US4632692 | US6905600 | US6087159 | US6379505 | US4540495 | US3848813 | US2723954 | US20050000906 | US20050089998 | US3653871 | US20030180940 | US4769149 | US5204263 | US4361239 | US5795479 | US5348236 | US1752290 | US5540391 | US1713507 | US5322792 | US5407809 | US5437374 | US4093516 | US6062004 | US4971616 | US3325369 | US4844351 | US4974781 | US5215921 | US3932166 | US5047349 | US5661031 | US20050126957 | US3055744 | US6136577 | US3734988 | US20020182710 | US2823106 | US5244804 | US1938500 | US6397492 | US5529692 | US5821111 | US6709500 | US6267309 | US2344591 | US3236604 | US6309547 | US20030121851 | US6306248 | US6240980 | US4321150 | US20030213859 | US3365395 | US7015028 | US20050199028 | US20060124559 | US5782950 | US4079837 | US6340581 | US6337203 | US4342830 | US6413364 | US2317992 | WO2002036502 | WO2003043957 | WO1999035107 | WO2002083601 | WO2004085019 | WO2003090894 | CA2335140 | WO2002070635 | WO2002008438 | WO1998000558 | WO2004060587 | WO1988008030 | WO2004076082 | WO2004058424 | WO2002062497 | WO2005063946 | DE10336209 | WO2002015945 | WO1999025460 | WO2000068407
+	</str>
+	<str name="Cites Count">
+		155
+	</str>
+	<str name="Assignee(s)">
+		RECOLOGY, INC.
+	</str>
+	<str name="1st Assignee">
+		RECOLOGY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Francisco, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Francisco, CA
+	</str>
+	<str name="Inventor(s)">
+		CHOATE, CHRIS, E.
+	</str>
+	<str name="1st Inventor">
+		CHOATE, CHRIS, E.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		San, Francisco, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Francisco, CA
+	</str>
+	<str name="Agent/Attorney">
+		GARD &amp; KASLOW LLP
+	</str>
+	<str name="Primary Examiner">
+		WARE, DEBBIE K
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

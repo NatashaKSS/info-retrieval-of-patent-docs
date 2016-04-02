@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7650319
+	</str>
+	<str name="Application Number">
+		US11467921
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Adaptive pattern recognition based controller apparatus and method and human-factored interface therefore
+	</str>
+	<str name="Abstract">
+		The need for a more readily usable interface for programmable devices is widely recognized. The present invention relates to programmable sequencing devices, or, more particularly, the remote controls for consumer electronic devices. The present invention provides an enhanced interface for facilitating human input of a desired control sequence in a programmable device by employing specialized visual feedback. The present invention also relates to a new interface and method of interfacing with a programmable device, which is usable as an interface for a programmable video cassette recorder.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-08-29
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-08
+	</str>
+	<str name="Publication Date">
+		2010-01-19
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		G06N5/00 | G06F17/00
+	</str>
+	<str name="IPC Primary">
+		G06N5/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06N
+	</str>
+	<str name="IPC Group">
+		G06N5
+	</str>
+	<str name="All UPC">
+		706/45 | 706/46
+	</str>
+	<str name="UPC Primary">
+		706/45
+	</str>
+	<str name="UPC Class">
+		706
+	</str>
+	<str name="Family Members">
+		US20070061022A1 | US20070061023A1 | US20080040749A1 | US7242988 | US7650319
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		16
+	</str>
+	<str name="Other References">
+		Classification of modulation of signals of interest Kadambe, S.; Jiang, Q.; Digital Signal Processing Workshop, 2004 and the 3rd IEEE Signal Processing Education Workshop. 2004 IEEE 11.sup.th Aug. 1-4, 2004 pp. 226-230 Digital Object Identifier 10.1109/DSPWS.2004.1437947. cited by examiner . | Classification of Complex Information: Inference of Co-Occurring Affective States from Their Expressions in Speech Sobol-Shikler, T; Robinson, P; Pattern Analysis and Machine Intelligence, IEEE Transactions on : Accepted for future publication Volume PP, Forthcoming, 2009 pp. 1-1 Digital Object Identifier 10.1109/TPAMI.2009.107. cited by examiner. | Perspectives on fuzzy systems in computer vision Walker, E.L.; Fuzzy Information Processing Society--NAFIPS, 1998 Conference of the North American Aug. 20-21, 1998 pp. 296 -300 Digital Object Identifier 10.1109/NAFIPS.1998.715592. cited by examiner . | Automatic detection of parallel applications computation phases Gonzalez, J.; Gimenez, J.; Labarta, J.; Parallel &amp; Distributed Processing, 2009. IPDPS 2009. IEEE International Symposium on May 23-29, 2009 pp. 1-1 Digital Object Identifier 10.1109/IPDPS.2009.5161027. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7136710 | US5901246 | US7242988 | US6081750 | US5774357 | US6400996 | US5920477 | US5903454 | US5875108 | US6418424
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		46792106 | 26080299 | 81280591
+	</str>
+	<str name="Priority Date">
+		2006-08-29 | 1999-03-02 | 1991-12-23
+	</str>
+	<str name="Inventor(s)">
+		HOFFBERG, HOFFBERG, MARK | HOFFBERG-BORGHESANI, LINDA, I.
+	</str>
+	<str name="1st Inventor">
+		HOFFBERG, HOFFBERG, MARK
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		West, Harrison, NY
+	</str>
+	<str name="Inventor(s) Address">
+		West, Harrison, NY | Acton, MA
+	</str>
+	<str name="Agent/Attorney">
+		HOFFBERG &amp; ASSOCIATES
+	</str>
+	<str name="Primary Examiner">
+		HOLMES, MICHAEL B
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7537704
+	</str>
+	<str name="Application Number">
+		US11/915828
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for determining the concentration of asymmetric dimethylarginine (ADMA)
+	</str>
+	<str name="Abstract">
+		The invention relates to a method for determining the concentration of asymmetric dimethylarginine (ADMA) simultaneously with arginine and with symmetric dimethylarginine (SDMA) in biological samples by means of HPLC-MS-MS. The sample preparation consists exclusively of adding a solution of isotope-labeled internal standards (.sup.13C.sub.6-arginine and D.sub.6-ADMA) and of adding a mixture consisting of acetonitrile/propionic acid/trifluoroacetic acid for precipitating high-molecular proteins, the quantity and composition being realized in such a manner that a bringing of the sample composition in line with the composition of the mobile phase in the HPLC separation is achieved without requiring a derivitization or extraction of the analytes. The chromatographic separation of the analytes ensues on a silica normal phase HPLC column while using a mobile phase consisting of water/acetonitrile/propionic acid/trifluoroacetic acid, the volume ratio of water to acetonitrile ranging from 2 to 98 to 30 to 70, the volume percent of trifluoroacetic acid ranging from 0.01 to 0.5, the volume percent of propionic acid being 10 to 100 times higher than trifluoroacetic acid, and the optimized composition of the mobile phase consists of acetonitrile/propionic acid/trifluoroacetic acid with 10/90/1/0.025 volume percents. The detection and quantification ensue by means of tandem mass spectrometry with the following fragmentations being observed: 175.2 m/z.fwdarw.70.1 m/z for arginine, 181.2 m/z.fwdarw.74.1 m/z for .sup.13C.sub.6-arginine, 203.2 m/z.fwdarw.172.1 m/z for SDMA, 203.2 m/z.fwdarw.46.1 m/z for ADMA and 209.2 m/z.fwdarw.70.1 m/z D.sub.6-ADMA.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-05-13
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-05
+	</str>
+	<str name="Publication Date">
+		2009-05-26
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/656 | 435/7.92 | 436/161 | 436/86
+	</str>
+	<str name="UPC Primary">
+		210/656
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		AT434764T | DE102005056408B4 | DE102005056408A1 | US20080199848A1 | DE502006004070D1 | WO2006128419A1 | EP1889070A1 | US7537704 | EP1889070B1
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Google Abstract to provide publication date. (Undated). cited by examiner | Key Y. Lin; Akira Ito, Tomoko Asagami, Philip S. Tsao, Shanthi Adimoolam, Masumi Kimoto, Hideaki Tsuji, Gerald M. Reaven and John P. Cooke, Impaired Nitric Oxide Synthase Pathway in Diabetes Mellitus, Circulation 2002, 106:987-992. cited by other | Hartmut Kirchherr and W. Nikolaus Kuhn-Velten, HPLC-Tandem Mass Spectrometric Method for Rapid Quantification of Dimethylarginines in Human Plasma, Clinical Chemistry 2005, 51:249-252. cited by other | Shlomo Pundak and Meir Wilchek, Synthesis of Guanidino-N-alkylarginines by the Use of Polymeric Pseudoureas, J. Org. Chem. 1981, 46, S. 808-809. cited by other | Ben-Mei Chen, Lin-Wei Xia and Rui-Qin Zhao, Determination of N(G), N(G)-dimethylargine in Human Plasma by High-Performance Liquid Chromatography, Journal of Chromatography B Biomed Sci App. 1997, 247:11-16. cited by other | Jens Meyer, Nadja Richter and Markus Hecker, High-Performance Liquid Chromatographic Determination of Nitric Oxide Synthase-Related Arginine Derivatives in Vitro and in Vivo, Analytical Biochemistry, 1997, 692:257-62. cited by other | Anders Pettersson, Lotta Uggla and Viveca Backman, Determination of Dimethylated Arginines in Human Plasma by High-Performance Liquid Chromatography, Biomed Science Applied 1997, 692:257-62. cited by other | Jingbo Pi, Yoshito Kumagai, Guifan Sun and Nobuhiro Shimojo, Improved Method for Simultaneous Determination of L-Arginine and its Mono and Dimethylated Metabolites in Biological Samples by High-Performance Liquid Chromatrography, Journal of Chromatography B Biomed,Science Applied 2000, 742:199-203. cited by other | Yasui Dobashi, Tomofumi Santa, Kazuya Nakagomi and Kazuhiro Imai, An Automated Analyzer for Methylated Arginines in Rat Plasma by High-Performance Liquid Chromatography with Post-Column Fluorescence Reaction, Analyst 2002, 127:54-9. cited by other | Tom Teerlink, Robert J. Nijveldt; Sigrid De Jong and Paul A.M Van Leeuwen, Determination of Arginine, Asymmetric Dimethylarginine, and Symmetric Dimethylarginine in Human Plasma and Other Biological Samples by High-Performance Liquid Chromatography, Analytical Biochemistry 2002, 303: 131-137. cited by other | Maurizio Marra, Anna Rita Bonfigli, Roberto Testa, Ivano Testa, Anna Gambini and Gilberto Coppa, High-Performance Liquid Chromatographic Assay of Asymmetric Dimethylarginine, Symmetric Dimethylarginine, Arginine in Human Plasma by Derivatization with Napthalene-2,3-Dicarboxaldehyde, Analytical Biochemistry 2003, 318, 13-7. cited by other | Tamila Heresztyn, Matthew I. Worthley and John D. Horowitz, Determination of L-Arginine and N(G), N(G)-and N(G), N(G')-Dimethyl-L-Arginine in Plasma by Liquid Chromatography as AccQ-Flour (TM) Fluorescent Derivatives, Journal of Chromatography B 2004, 805: 325-9. cited by other | Wei-Zheng Zhang and David M. Kaye, Simultaneous Determination of Arginine and Seven Metabolites in Plasma by Reversed-Phase Liquid Chromatography with a Time-Controlled Ortho-Phthaldialdehyde Precolumn Derivatization, Analytical Biochemistry 2004, 326: 87-92. cited by other | E. Causse, N. Siri, J. F. Arnal, C. Bayle, P. Malatray, P. Valdiguie, R. Salvayre and F. Couderc, Determination of Asymmetrical Dimethylarginine by Capillary Electrophoresis-Laser Induced Fluorescence, Journal of Chromatragraphy B 2000, 741:77-83. cited by other | Gabriele Trapp, Karsten Sydow, Maria T. Dulay, Tina Chou, John P. Cooke and Richard N. Zare, Capillary Electrophoretic and Micellar Electrokinetic Separations of Asymmetric Dimethyl-L-Arginine and Structurally Related Amino Acids: Quantitation in Human Plasma, J. Sep Sci. 2004, 27:1483-90. cited by other | Dimitrios Tsikas, Bibiana Schubert, Frank-Mathias Gutzki, Jorg Sandmann and Jurgen C. Frolich, Quantitative Determination of Circulating and Urinary Asymmetric Dimethylarginine (ADMA) in Humans by Gas Chromatography B Analytical Technology Biomed Life Science 2003, 798:87-99. cited by other | Jennifer Albsmeier, Edzard Schwedhelm, Friedrich Schulze, Mariola Kastner and Rainer H. Boger, Determination of N(G), N(G)-Dimethyl-L-Arginine, an Endogenous NO Synthase Inhibitor, by Gas Chromatography-Mass Spectrometry, Journal of Chromatography B Analytical Technology Biomed Life Science 2004, 809: 59-65. cited by other | Lan-Fang Huang, Fang-Qui Guo, Yi-Zeng Liang, Bo-Yang Li and Ben-Mei Cheng, Simultaneous Determination of L-Arginine and its Mono- and Dimethylated Metabolites in Human Plasma by High-Performance Liquid Chromatography-Mass Spectrometry, Anaylitical Bioanal Chem 2004, 380:643-649. cited by other | Edzard Schwedhelm, Jing Tan-Andresen, Renke Maas, Ulrich Riederer, Friedrich Schulze and Rainer H. Bogger, Liquid Chromatography-Tandem Mass Spectrometry Method for the Analysis of Asymmetric Dimethylarginine in Human Plasma, Clinical Chemistry 2005, 51: 1268-1271. cited by other | Lan-Fang Huang, Fang-Qui Guo, Yi-Zeng Liang, Qian-Nan Hu and Ben-Mai Cheng, Rapid Simultaneous Determination of Arginine and Methylated Arginines in Human Urine by High-Performance Liquid Chromatography-Mass Spectrometry, Journal of Chromatography B 2000, vol. 487 S. 145-153. cited by other | Karthic Vishwanathan, Randall L. Tackett, James T. Stewart and Michael G. Bartlett, Determination of Arginine and Methylated Arginines in Human Plasma by Liquid Chromatography-Tandem Mass Spectrometry, Journal of Chromatography B, 2000, vol. 748 S, 157-166. cited by other | Jens Martens-Lobenhoffer and Stefanie M. Bode-Boger, Simultaneous Detection of Arginine, Asymmetric Dimethylarginine, Symmetric Dimethylarginine and Citrulline in Human Plasma and Urine Applying Liquid Chromatography-Mass Spectrometry with Very Straightforward Sample Preparation, Journal of Chromatography B, 2003, vol. 798, S. 231-239. cited by other | Wilson Z. Shou and Weng Naidong, Simple Means to Alleviate Sensitivity Loss by Trifluororacetic Acid (TFA) Mobile Phases in the Hydrophilic Interaction Chromatography-electrospray Tandem Mass Spectrometric (HILIC-ESI/MS/MS) Bioanalysis of Basic Compounds, Journal of Chromatography B 2005, vol. 825, S. 186-192. cited by other | Peter M. Gehrig, Peter E. Hunziker, Sotir Zaharieve and Sandor Ponger, Fragmentation Pathways of N(G) Methylated and Unmodified Arginine Residues in Peptides Studied by ESI-MS/MS and MALDI-MS, Journal of the American Society for Mass Spectrometry, Elsevier Inc., US Bd., 15, NR2, 2004, S. 142-149. cited by other | Edzard Schwedhelm, Quantification of ADMA: Analytical Approaches, Vascular Medicine, London 2005, Bd. 10, S. 89-95. cited by other | Jens Martens-Lobenhoffer and Stefanie M. Bode-Boger, Fast and Efficient Determination of Arginine, Symmetric Dimethylarginine, and Asymmetric Dimethylarginine in Biological Fluids by Hydrophilic-Interatction Liquid Chromatography-Electrospray Tandem Mass Spectrometry, Clinical Chemistry 2006, Bd. 52, Nr. 3, S. 488-493. cited by other | Prospekt Method Development Guide for Hypercarb Columns der Firma Thermo Electron Corporation. cited by other | Jens Martens-Lobenhoffer and Stefanie M. Bode-Boger, Chromatographic-Mass Spectrometric Method for the Quantification of L-Arginine and its Methylated Metabolites in Biological Fluids, Journal of Chromatography, 2007 B, 851, S. 30-4. cited by other | Jens Martens-Lobenhoffer, Olga Krug and Stefanie M. Bode-Boger, Determination of Arginine and Asymmetric Dimethylarginine (ADMA) in Human Plasma by Liquid Chromatography/Mass Spectrometry with the Isotope Dilution Technique, Journal of Mass Spectrometry 2004, 39, 1287-1294. cited by other | Tadashi Ogawa, Masumi Komoto and Kei Sasaoka, Purification and Properties of a New Enzyme, N(G), N(G)- Dimethylarginine Dimethylaminohydrolase, from Rat Kidney, The Journal of Biological Chemistry 1989, 264, 10205-10209. cited by other | Vinod Achan, Michael Broadhead, Mohammed Malaki, Guy Whitley, James Leiper, Raymond Macallister and Patrick Vallance, Asymetric Dimethylarginine Causes Hypertension and Cardiac Dysfunction in Humans and Is Actively Metabolized by Dimethylarginine Dimethylaminohydrolase, Arteriosclerosis, Thrombosis, and Vascular Biology. 2003, 23:1455-49. cited by other | daCosta, Kerry-Ann et al &quot;The Measurement of Dimethylamine, Trimethylamine, and Trimethylamine N-Oxide Using Capillary Gas Chromatography-Mass Spectrometry&quot;, Analytical Biochemistry 187, pp. 234-239 (1990). cited by other | Pettersson Anders, et al. &quot;Determination of dimethylated arginines in human plasma by high-performance liquid chromatography&quot;, Journal of Chromatography B, 692 (1997), pp. 257-262. cited by other | DLD Diagnositka GmbH Company Profile. cited by other.
+	</str>
+	<str name="Other References Count">
+		34
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6358699 | US6720188 | US20020081626 | US20040214252 | US20060094122 | US20080073500 | US20080199848 | US20090053741
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		DE | DE
+	</str>
+	<str name="Priority Number">
+		102005024531 | 102005056408
+	</str>
+	<str name="Priority Date">
+		2005-05-28 | 2005-11-26
+	</str>
+	<str name="Assignee(s)">
+		MEDIZINISCHE FAKULTAT DER OTTO-VON-GUERICKE-UNIVERSITAT (MADGEBURG, DE) ESA PATENTVERWERTUNGSAGENTUR SACHSEN-ANHALT GMBH
+	</str>
+	<str name="1st Assignee">
+		MEDIZINISCHE FAKULTAT DER OTTO-VON-GUERICKE-UNIVERSITAT (MADGEBURG, DE) ESA PATENTVERWERTUNGSAGENTUR SACHSEN-ANHALT GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Madgeburg, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Madgeburg, DE
+	</str>
+	<str name="Inventor(s)">
+		BODE-BOGER, STEFANIE, M. | MARTENS-LOBENHOFFER, JENS
+	</str>
+	<str name="1st Inventor">
+		BODE-BOGER, STEFANIE, M.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Laatzen, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Laatzen, DE | Hamburg, DE
+	</str>
+	<str name="Agent/Attorney">
+		NORRIS MCLAUGHLIN &amp; MARCUS, PA HILDEBRAND, CHRISTA
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

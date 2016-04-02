@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7504029
+	</str>
+	<str name="Application Number">
+		US10544850
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Silica gel bonded with cucurbituril
+	</str>
+	<str name="Abstract">
+		A cucurbituril-bonded silica gel and its use are provided. The cucurbituril-bonded silica gel is useful for removal of air pollutants or water contaminants, and separation and purification of biological, organic, inorganic, or ionic substances.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-02-11
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-02
+	</str>
+	<str name="Publication Date">
+		2009-03-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/198.2 | 210/635 | 210/656 | 210/502.1
+	</str>
+	<str name="UPC Primary">
+		210/198.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1594912A4 | AU2004212090B2 | EP1594912A1 | KR1020040072810A | JP2006521263A | US7504029 | AU2004212090A1 | CN1747986A | US20060207938A1 | CN100410296C
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Office Action dated Sep. 24, 2008 issued in connection with Japanese counterpart application 2006-500645. cited by other. | Hargitai et al., &quot;Preparation and Chromatographic Evaluation of 3.5-dimethylphenyl Carbamoylated Beta-Cyclodextrim Stationary Phases for Normal-Phase High-Performance Liquid Chromatographic Separation of Enantiomers,&quot; Journal of Chromatography, 1993, vol. 628, pp. 11-22. cited by other . | Rosini, C.et al., &quot;Cinchona Alkaloids for Preparing New, Easily Accessible Chiral Stationary Phases.I.11-(10,11-Dihydro-6'-Methoxy-Cinchonan-9-OL)-Tiopropylsilanized Silica.&quot; Tetrahedron Letters, 1985, vol. 26, No. 28, pp. 3361-3364. cited by other . | Clennan et al., &quot;Additions of Singlet Oxygen to Alkoxy-Substituted Butadienes. An Unexpectedly Large s-Cis/s-Trans Ratio in an (E,Z)-Diene or a Kinetic Anomeric Effect?&quot; Journal of Organic Chemistry, 1986, vol. 51, pp. 1440-1446. cited by other . | Buschmann et al. &quot;The Selective Removal of Dyes from Waste Water&quot;Eur. Water Pollut. Control, vol. 6, No. 4, pp. 21-24 (1996). cited by other . | Kellersberger, et al., &quot;Encapsulation of N2, O2, Methanol, or Acetonitrile by Decamethylcucurbit[5]uril(NH4+)2 Complexes in the Gas Phase: Influence of the Guest on &quot;Lid&quot; Tightness.&quot; Journal of American Chemical Society, 2001, 123, pp. 11316-11317. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cites">
+		US4540486 | US20040147396 | US6251278 | US4275300 | US4177038 | US20040129640 | US4539399 | US4431544 | JP2001122877 | KR020010039662 | EP1210966 | WO2002096553 | WO2000068232 | JP1999217557 | EP1094065 | KR020030060053 | KR020030024426 | KR00263872 | KR020030003901 | JP2001146690 | WO2002096553
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020030008453
+	</str>
+	<str name="Priority Date">
+		2003-02-11
+	</str>
+	<str name="Assignee(s)">
+		POSTECH FOUNDATION
+	</str>
+	<str name="1st Assignee">
+		POSTECH FOUNDATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pohang, Kyungsangbuk-do, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Pohang, Kyungsangbuk-do, KR
+	</str>
+	<str name="Inventor(s)">
+		KIM, KIMOON | BALAJI, RENGARAJAN | OH, DONG, HYUN | KO, YOUNG, HO | JON, SANG, YONG
+	</str>
+	<str name="1st Inventor">
+		KIM, KIMOON
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Pohang, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Pohang, KR | Pohang, KR | Pohang, KR | Pohang, KR | Pohang, KR
+	</str>
+	<str name="Agent/Attorney">
+		ROTHWELL, FIGG, ERNST &amp; MANBECK
+	</str>
+	<str name="Primary Examiner">
+		THERKOM, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5568384
+	</str>
+	<str name="Application Number">
+		US07960128
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Biomedical imaging and analysis
+	</str>
+	<str name="Abstract">
+		A method for synthesizing three dimensional multimodality image sets into a single composite image with accurate registration and congruence. Surfaces are initially extracted from two or more different images to be matched using semi-automatic segmentation techniques. These surfaces are represented as contours with common features to be matched. A distance transformation is performed for one surface image, and a cost function for the matching process is developed using the distance image. The geometric transformation includes three-dimensional translation, rotation and scaling to accommodate images of different position, orientation and size. The matching process involves efficiently searching this multi-parameter space and adjusting a surface or surfaces to find the best fit among them which minimizes the cost function. The local minima problem is addressed by using a large number of starting points. A pyramid multi-resolution approach is employed to speed up both the distance transformation computation and the multi-parameter minimization processes. Robustness in noise handling is accomplished using multiple thresholds embedded in the multi-resolution search. The method can register both partially overlapped and fragmented surfaces.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1992-10-13
+	</str>
+	<str name="Application Year">
+		1992
+	</str>
+	<str name="Application(Year/Month)">
+		1992-10
+	</str>
+	<str name="Publication Date">
+		1996-10-22
+	</str>
+	<str name="Publication Year">
+		1996
+	</str>
+	<str name="Publication(Year/Month)">
+		1996-10
+	</str>
+	<str name="All IPC">
+		G06F159/00
+	</str>
+	<str name="IPC Primary">
+		G06F159/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F159
+	</str>
+	<str name="All UPC">
+		382/132 | 715/532
+	</str>
+	<str name="UPC Primary">
+		382/132
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US5568384
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References">
+		Evans A. C., Beil C., Marrett S., Thompson C. J., and Hakim A., &quot;Anatomical-Functional Correlation Using an Adjustment MRI-based Region of Interest Atlas with Positron Emission Tomography,&quot; Journal of Cerebral Blood Flow and Metabolism, vol. 8, pp. 513-529, 1988. | Hawkes D. J., Hill D. L. G., Lehmann E. D., Robinson G. P. Maisey M. N., and Colchester A. C. F., &quot;Preliminary Work on the Interpretation of SPECT Images with the Aid of Registered MRI Images and an MR Derived Neuro-anatomical Atlas&quot; In 3d Imaging in Medicine Algorithms, Systems, Applications, ed. by K. H. Hoehne, H. Fuchs &amp; S. M. Pizer, pp., 241-252, Springer-Verlag, Berlin 1990. | Evans A. C., Neelin P., Marrett S., Meyer E., Dai W., and Collins L., &quot;Combined Stereotactic Mapping of MRI and PET Studies of Cognitive Activation in Human Brain.&quot; Annual International Conference of the IEEE Engineering in Medicine and Biology Society, vol. 13, No. 1, 1991. | Jiang H., Holton K., and Robb R., &quot;Image registration of multimodality 3-D medical images by Chamfer matching,&quot; Proc. of the SPIE, vol. 1660, Biomedical image processing and three-dimensional Microscopy, pp. 356-366, 1992. | Pelizzari C. A., Chen G. T. Y., &quot;Accurate Three-Dimensional Registration of CT, PET, and/or MR Images of the Brain,&quot; J. of Comp. Assis. Tomog., vol. 13, pp. 20-26, Jan. 1989.
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By">
+		EP0840253B1 | EP0840253A2 | EP1096428A1 | EP0910832B1 | US8265361 | US5946425 | US5963664 | AU693394B2 | US6396939 | US7697972 | US7881770 | US7778686 | US7763035 | US7925328 | US7835778
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5081993 | US4719585 | US4977505
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		96012892
+	</str>
+	<str name="Priority Date">
+		1992-10-13
+	</str>
+	<str name="Assignee(s)">
+		MAYO FOUNDATION FOR MEDICAL EDUCATION &amp; RESEARCH
+	</str>
+	<str name="1st Assignee">
+		MAYO FOUNDATION FOR MEDICAL EDUCATION &amp; RESEARCH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rochester, MN
+	</str>
+	<str name="Assignee(s) Address">
+		Rochester, MN
+	</str>
+	<str name="Inventor(s)">
+		ROBB, RICHARD, A. | JIANG, HONG-JIAN
+	</str>
+	<str name="1st Inventor">
+		ROBB, RICHARD, A.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Rochester, MN
+	</str>
+	<str name="Inventor(s) Address">
+		Rochester, MN | Everett, MN
+	</str>
+	<str name="Agent/Attorney">
+		MERCHANT, GOULD, SMITH, EDELL, WELTER &amp; SCHMIDT, P.A.
+	</str>
+	<str name="Primary Examiner">
+		HARVEY, JACK B.
+	</str>
+	<str name="Assistant Examiner">
+		CHUNG-TRANS, X.
+	</str>
+	<str name="cited by within 3 years">
+		34
+	</str>
+	<str name="cited by within 5 years">
+		53
+	</str>
+</doc>
+

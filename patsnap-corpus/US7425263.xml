@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7425263
+	</str>
+	<str name="Application Number">
+		US11847303
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Multi-component, simultaneous, independent multi-gradient system for liquid chromatography
+	</str>
+	<str name="Abstract">
+		Systems and methods for separating charged molecules on the basis of their differential electrostatic binding to a charged stationary phase comprise controlling the creation of simultaneous independent or dependent pH and additive gradients.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-08-29
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2008-09-16
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/101 | 210/198.2 | 210/656
+	</str>
+	<str name="UPC Primary">
+		210/101
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		WO2008028001A3 | EP2061571A2 | US20090065360A1 | WO2008028001A2 | US7425263 | US20080053830A1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Therkorn, &quot;Written Opinion,&quot; from PCT/US2007/077162, 3 pages, United States Patent and Trademark Office, Alexandria, Virginia (mailed Jun. 4, 2008). cited by other. | Therkorn, &quot;International Search Report,&quot; from PCT/US2007/077162, 2 pages, United States Patent and Trademark Office, Alexandria, Virginia (mailed Jun. 4, 2008). cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US3712513 | US7138051 | US5089124 | US20020153312 | US6221250 | US20070144973
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		84730307 | 84068806
+	</str>
+	<str name="Priority Date">
+		2007-08-29 | 2006-08-29
+	</str>
+	<str name="Assignee(s)">
+		CRYOBIOPHYSICA
+	</str>
+	<str name="1st Assignee">
+		CRYOBIOPHYSICA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rockville, MD
+	</str>
+	<str name="Assignee(s) Address">
+		Rockville, MD
+	</str>
+	<str name="Inventor(s)">
+		TSONEV, LATCHEZAR, I. | HIRSH, ALLEN, G.
+	</str>
+	<str name="1st Inventor">
+		TSONEV, LATCHEZAR, I.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Rockville, MD
+	</str>
+	<str name="Inventor(s) Address">
+		Rockville, MD | Rockville, MD
+	</str>
+	<str name="Agent/Attorney">
+		COOLEY GODWARD KRONISH, LLP
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7625491
+	</str>
+	<str name="Application Number">
+		US12015237
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Cyclic aeration system for submerged membrane modules
+	</str>
+	<str name="Abstract">
+		An aeration system for a submerged membrane module has a set of aerators connected to an air blower, valves and a controller adapted to alternately provide a higher rate or air flow and a lower rate of air flow in repeated cycles. In an embodiment, the air blower, valves and controller, simultaneously provide the alternating air flow to two or more sets of aerators such that the total air flow is constant, allowing the blower to be operated at a constant speed. In another embodiment, the repeated cycles are of short duration. Transient flow conditions result in the tank water which helps avoid dead spaces and assists in agitating the membranes.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-01-16
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-01
+	</str>
+	<str name="Publication Date">
+		2009-12-01
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		B01F3/04
+	</str>
+	<str name="IPC Primary">
+		B01F3/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01F
+	</str>
+	<str name="IPC Group">
+		B01F3
+	</str>
+	<str name="All UPC">
+		210/321.84 | 261/124 | 210/321.79 | 210/321.88 | 210/636 | 210/644
+	</str>
+	<str name="UPC Primary">
+		210/321.84
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080251455A1 | US7625491 | US20010027950A1 | US6245239 | US6550747
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		33
+	</str>
+	<str name="Other References">
+		Sudak, R. et al., &quot;Pilot Plant Testing of Direct Filtration, Microfiltration and Reverse Osmosis at Water Factory 21&quot;, Microfiltration For Water Treatment Symposium, 1994, pp. 95-96. cited by other. | Mills Jr., et al., &quot;Reclamation of Secondary Effluent Using Synthetic Membrane&quot;, Proceedings of the International Membranes Science and Technology Conference, Nov. 12-14, 1996, vol. 1, pp. 39-41. cited by other . | &quot;Summons to Oral Proceedings&quot;, regarding European Patent application No. 99 947 155.0, dated May 27, 2003. cited by other . | Ueda et al., &quot;Effects of Aeration on Suction Pressure in a Submerged Membrane Bioreactor&quot;, Wat Res. vol. 31, No. 3, pp. 489-494, 1997. cited by other . | &quot;Design of Three-Stage, Four-Stage, and Five-Stage ENR Systems&quot;, Design and Retrofit of Wastewater Treatment Plants for Biological Nutrient Removal, 1992, pp. 143-146. cited by other . | White, D. A. et al., &quot;Optimisation of intermittently operated microfiltration processes&quot;, The Chemical Engineering Journal, 52 (1993) 73-77. cited by other . | United States District Court, Southern District of California, CV No. 03-CV-1996B-AJB, &quot;Defendant United States Filter Corporation's First Amended Answer to Complaint and Counterclaims&quot;, Jan. 12, 2005. cited by other . | Li, H. et al., &quot;The Mechanisms of Pulsutile Flow Effect on Crossflow Microfiltration&quot;, IMSTEC Conference, 1996, pp. 150-155. cited by other . | English translation of Official Action regarding Japanese Patent Application No. 2000-575802, dated May 26, 2003. cited by other . | Brewster, Mary E., et al., &quot;Dean vortices with wall flux in a curved channel membrane system&quot;, Journal of Membrane Science, 81 (1993) 127-137. cited by other . | Tsuchiya, K., et al., &quot;Visualization of bubble-wake interactions for a stream of bubbles in a two-dimensional liquid-solid fluidized bed&quot;, Int J. Multiphase Flow vol. 15, No. 1, pp. 35-49, 1989. cited by other . | Leslie, G., &quot;Bacterial Fouling of Microfiltration Membranes&quot;, University of South Wales, 1993, p. 73. cited by other . | Written Opinion regarding International Application No. PCT/CA99/00940, dated Nov. 7, 2000. cited by other . | Finnigan, S. et al., &quot;The Effect of Pulsed Flow on Ultrafiltration Fluxes in a Baffled Tubular Membrane System&quot;, Desalination, 79 (1990) 181-202. cited by other . | Law, I., &quot;Recent Developments in Nutrient Removal in Australia, Biological and Biological/Chemical&quot;, Joint Technical Seminar on Sewage Treatment Technology, May 12-14, 1988, pp. 1-20. cited by other . | Written Opinion regarding International Application No. PCT/CA99/00940, dated Jul. 14, 2000. cited by other . | United States District Court, Southern District of California, CV No. 03-CV-1996W-JFS, &quot;Complaint for Patent Infringement; Demand for Jury Trial&quot;, Oct. 8, 2003. cited by other . | Hodgson, P., &quot;Crossflow Microfiltration of Biomass and Biofluids with Inorganic Membranes&quot;, University of South Wales, 1993, p. 107. cited by other . | Kaiya et al., &quot;Water Purification Using Hollow Fiber Microfiltration Membranes&quot;, 6.sup.th World Filtration Congress, Nagoya, 1993, pp. 813-816. cited by other . | International Preliminary Examination Report regarding International Application No. PCT/CA99/00940, dated Feb. 9, 2001. cited by other .
+	</str>
+	<str name="Other References Count">
+		20
+	</str>
+	<str name="Cited By">
+		US7820050 | US7922910 | US8075776
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US6402955 | US6042677 | US6280626 | US5607593 | US5944997 | US5643455 | US5248424 | US4876006 | US7198721 | US6325928 | US20010027951 | US5192456 | US6193890 | USR37549 | US6656356 | US5910250 | US5209852 | US6706189 | US6245239 | US7347942 | US5480553 | US6284135 | US5639373 | US4923614 | US6881343 | US6550747 | US5922201 | US4647377 | US5783083 | US6863823 | US6319411 | JP1989036099 | JP38884S63 | JP1996004722 | AU721064 | JP1983141796 | JP1995024272 | WO1999029630 | JP1992265128 | DE3318412 | WO1997006880 | JP1996323161 | JP1994285496 | JP1997192688 | JP1995100486 | JP1995185271 | JP1992180821 | JP1995185270 | JP2904564 | JP1987250908 | JP1997220569 | JP1986107905 | EP0937494 | JP1996187494 | JP1995251042 | JP1993096136 | JP1994343837 | JP1989168304 | JP1992250898 | JP1995185268 | WO1993002779 | JP1993285348 | JP1999244674 | JP1988143905 | JP1993641341 | JP1931057302 | JP2946072 | WO1999029401 | WO1993015827 | JP1992256425
+	</str>
+	<str name="Cites Count">
+		70
+	</str>
+	<str name="Priority Country">
+		CA | CA | CA
+	</str>
+	<str name="Priority Number">
+		2258715 | 2278085 | 2279766
+	</str>
+	<str name="Priority Date">
+		1999-01-14 | 1999-07-20 | 1999-07-30
+	</str>
+	<str name="Assignee(s)">
+		ZENON TECHNOLOGY PARTNERSHIP
+	</str>
+	<str name="1st Assignee">
+		ZENON TECHNOLOGY PARTNERSHIP
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Wilmington, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Wilmington, DE
+	</str>
+	<str name="Inventor(s)">
+		COTE, PIERRE, LUCIEN | JANSON, ARNOLD | RABIE, HAMID, R. | SINGH, MANWINDER
+	</str>
+	<str name="1st Inventor">
+		COTE, PIERRE, LUCIEN
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Dundas, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Dundas, CA | Burlington, CA | Mississauga, CA | Burlington, CA
+	</str>
+	<str name="Agent/Attorney">
+		BERESKIN &amp; PARR
+	</str>
+	<str name="Primary Examiner">
+		BUSHEY, SCOTT
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

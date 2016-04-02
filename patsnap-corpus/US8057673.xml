@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8057673
+	</str>
+	<str name="Application Number">
+		US12/474262
+	</str>
+	<str name="Title">
+		System and method for treating wastewater containing ammonia
+	</str>
+	<str name="Abstract">
+		Treatment system for wastewater containing ammonium is provided. The treatment system of the present invention includes an ammonia oxidation reactor and a membrane reactor disposed on the back of the ammonia oxidation reactor. The ammonia oxidation reactor includes biological carriers for carrying the ammonium oxidation bacteria and nitrite oxidation bacteria, a pH level controller for increasing the pH level to above 7.5, and a DO (dissolved oxygen) controller for reducing the DO content to less than 1.0 mg/L. The membrane reactor composed of a membrane and an aerator is used to separate the solids and liquids of the effluent of the ammonia oxidation reactor. In addition, a method for treating wastewater containing ammonium is also provided.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-05-28
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-05
+	</str>
+	<str name="Publication Date">
+		2011-11-15
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/743 | 210/630 | 210/196 | 210/197 | 210/621 | 210/623 | 210/622 | 210/626 | 210/194 | 210/616 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Guo et al., &quot;Effects of DO and pH on nitrosofication and half-nitrosofication&quot;, Techniques and Equipment for Environmental Pollution Control, vol. 7, No. 1, pp. 37-40,63 (2006). cited by other. | First Office Action issued by the China Intellectual Property Office on Feb. 24, 2011,for the referenced application's counterpart application in China (Appl. No. 200810187347.6). cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5078884 | US6485646 | US4820415 | US20100072131 | US7510655 | US5972220 | US20100140167 | US6383390 | US7722769 | CN101302059
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		TW
+	</str>
+	<str name="Priority Number">
+		97146733A
+	</str>
+	<str name="Priority Date">
+		2008-12-02
+	</str>
+	<str name="Assignee(s)">
+		INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE
+	</str>
+	<str name="1st Assignee">
+		INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hsinchu County, TW
+	</str>
+	<str name="Assignee(s) Address">
+		Hsinchu County, TW
+	</str>
+	<str name="Inventor(s)">
+		CHANG, KUAN-FOO | CHANG, SHENG-HSIN | PERNG, SHWU-HUEY
+	</str>
+	<str name="1st Inventor">
+		CHANG, KUAN-FOO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Changhua, County, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Changhua, County, TW | Miaoli, County, TW | Hsinchu, County, TW
+	</str>
+	<str name="Agent/Attorney">
+		PAI PATENT &amp; TRADEMARK LAW FIRM PAI, CHAO-CHANG DAVID
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

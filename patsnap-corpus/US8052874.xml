@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8052874
+	</str>
+	<str name="Application Number">
+		US12/386675
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method using membrane bioreactor with reduced air scour requirements
+	</str>
+	<str name="Abstract">
+		In a sewage treatment plant with a membrane bioreactor (MBR), raw untreated or partially treated wastewater (influent) and/or mixed liquor in the intensified process is superoxygenated. In a preferred form of the process the influent is superoxygenated such that membrane air scouring requirements are reduced. Influent may be fed to a swing zone where denitrification and nitrification occur simultaneously through process control. In one embodiment superoxygenation is conducted in an internal recycle stream of the mixed liquor, with oxygen content supersaturated preferably to over 300 parts per million. Due to the active evolution of oxygen gas from the supersaturated stream, occurring preferably by seeding the supersaturated stream with air bubbles, the supersaturated oxygen can serve the dual purposes of meeting process oxygen demands and providing part of air scouring requirements for the membranes.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-04-20
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-04
+	</str>
+	<str name="Publication Date">
+		2011-11-08
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/621 | 210/620 | 210/622 | 210/797
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6712970 | US6743362 | US5316682 | US7147777 | US5254253 | US4556491 | US7654728 | US7311833 | US4192742
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Assignee(s)">
+		OVIVO LUXEMBOURG S.A.R.L.
+	</str>
+	<str name="1st Assignee">
+		OVIVO LUXEMBOURG S.A.R.L.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Munsbach, LU
+	</str>
+	<str name="Assignee(s) Address">
+		Munsbach, LU
+	</str>
+	<str name="Inventor(s)">
+		LIVINGSTON, DENNIS | PORTEOUS, JAMES | BAILEY, ELENA
+	</str>
+	<str name="1st Inventor">
+		LIVINGSTON, DENNIS
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Austin, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Austin, TX | Austin, TX | Cedar, Park, TX
+	</str>
+	<str name="Agent/Attorney">
+		FREIBURGER, THOMAS M.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

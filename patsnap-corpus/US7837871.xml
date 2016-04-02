@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7837871
+	</str>
+	<str name="Application Number">
+		US10920787
+	</str>
+	<str name="Title">
+		Method and device for extracting an analyte
+	</str>
+	<str name="Abstract">
+		The invention provides extraction columns for the purification of an analyte (e.g., a biological macromolecule, such as a peptide, protein or nucleic acid) from a sample solution, as well as methods for making and using such columns. The columns typically include a bed of extraction media positioned in the column between two frits. In some embodiments, the extraction columns employ modified pipette tips as column bodies. In some embodiments, the invention provides columns characterized by low backpressure.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-08-17
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2010-11-23
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		B01D15/08 | B01D15/00 | B01D15/10
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/101 | 210/100 | 210/198.2 | 73/864.01
+	</str>
+	<str name="UPC Primary">
+		210/101
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5863428 | US6416716 | US6200474 | US6045757 | US5595653 | US5171537 | US5437979 | US5443734 | US4131544 | US5512168 | US5849249 | US6566145 | US20030007897 | US6482362 | US6117394 | US6048457 | US20020110495 | US6770248 | US5368729 | US5556598 | US20020009809 | US5833927 | US5187990 | WO1998037949 | EP1095703 | WO1988009201 | WO2001007162 | EP1139087
+	</str>
+	<str name="Cites Count">
+		28
+	</str>
+	<str name="Assignee(s)">
+		PHYNEXUS, INC.
+	</str>
+	<str name="1st Assignee">
+		PHYNEXUS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Jose, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Jose, CA
+	</str>
+	<str name="Inventor(s)">
+		GJERDE, DOUGLAS, T. | HANNA, CHRISTOPHER, P.
+	</str>
+	<str name="1st Inventor">
+		GJERDE, DOUGLAS, T.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Saratoga, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Saratoga, CA | San, Francisco, CA
+	</str>
+	<str name="Agent/Attorney">
+		KALMAN, SUE S. HOLMAN, CHRISTOPHER M.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

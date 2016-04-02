@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5826042
+	</str>
+	<str name="Application Number">
+		US08692838
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Portable computer docking station with module connection replicator
+	</str>
+	<str name="Abstract">
+		A portable computer docking station in which the computer is inserted vertically into a vertical slot. An additional slot receives modular accessories (such as a CD drive, floppy disk drive, or extra battery) to be inserted. Connectors in the vertical slot provide power to the computer, and provide connection to external display and user input devices, and also provide electrical connection from the computer to whichever module is in the additional slot, and also provides charging if the additional module is a battery.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-08-02
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-08
+	</str>
+	<str name="Publication Date">
+		1998-10-20
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-10
+	</str>
+	<str name="All IPC">
+		H05K7/10 | G06F13/00 | G06F1/16
+	</str>
+	<str name="IPC Primary">
+		H05K7/10
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/686 | 710/303 | 361/671
+	</str>
+	<str name="UPC Primary">
+		361/686
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US5826042
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5625829 | US5323291 | US5668977 | US5488572 | US5526493 | US5600800 | US5283714 | US5265238 | US5052943 | US5666495 | US5377357 | US5450271 | US5313596 | US5579528 | US5396400 | US5477415 | US5694292 | US5687060 | US5640302 | US5030128 | US5493542 | US5290178 | US5411416 | US5497490 | US5642517 | US5535093 | US5463742 | US5457785 | US5347425
+	</str>
+	<str name="Cites Count">
+		29
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		69283896
+	</str>
+	<str name="Priority Date">
+		1996-08-02
+	</str>
+	<str name="Assignee(s)">
+		COMPAQ COMPUTER CORPORATION
+	</str>
+	<str name="1st Assignee">
+		COMPAQ COMPUTER CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Houston, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s)">
+		KIRKENDOLL, MICHAEL
+	</str>
+	<str name="1st Inventor">
+		KIRKENDOLL, MICHAEL
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Houston, TX
+	</str>
+	<str name="Agent/Attorney">
+		GROOVER, ROBERT, FORMBY, BETTY, ANDERSON, MATTHEW S.
+	</str>
+	<str name="Primary Examiner">
+		RAY, GOPAL C.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

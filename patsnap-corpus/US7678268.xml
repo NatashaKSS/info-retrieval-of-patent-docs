@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7678268
+	</str>
+	<str name="Application Number">
+		US11683888
+	</str>
+	<str name="Title">
+		Wastewater treatment system
+	</str>
+	<str name="Abstract">
+		The invention is directed to a method and apparatus for treating wastewater. The wastewater treatment system includes a bioreactor including activated carbon and a first biological population. The wastewater treatment system may also include a membrane bioreactor and/or a wet oxidation unit.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-03-08
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2010-03-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		C02F1/42
+	</str>
+	<str name="IPC Primary">
+		C02F1/42
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/189
+	</str>
+	<str name="UPC Primary">
+		210/189
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Preliminary Report on Patentability dated Nov. 25, 2009 for International Application No. PCT/US07/05775. cited by examiner. | Kemi Nonylphenol data sheet at http://apps.kemi.se/flodessok/floden/kemamne.sub.--Eng/nonylfenol.sub.--e- ng.htm (undated). cited by examiner . | Porter, A.J. and Hayden, N.J., Nonylphenol in the Environment: A Critical Review. 2004 www.emba.uvm.edu/.about.nhayden/npreview.pdf. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By">
+		US7972512 | US8329035
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US7172701 | US6110385 | US4265747 | US4749492 | US6113790 | US20040176526 | US5298174 | US6444130 | US5082571 | US5891346 | US5268104 | US4080287 | US5368726 | US4810386 | US5240619 | US5641413 | US5885422 | US4778598 | US4626354 | US5532401 | US5486292 | US5244576 | US5932099 | US4857198 | US6210583 | US4897196 | WO2006010218
+	</str>
+	<str name="Cites Count">
+		27
+	</str>
+	<str name="Assignee(s)">
+		SIEMENS WATER TECHNOLOGIES CORP.
+	</str>
+	<str name="1st Assignee">
+		SIEMENS WATER TECHNOLOGIES CORP.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Warrendale, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Warrendale, PA
+	</str>
+	<str name="Inventor(s)">
+		SMITH, DUANE, R. | HOWDESHELL, MICHAEL | MARTEN, LORI | MEIDL, JOHN, A. | VOLLSTEDT, THOMAS, J. | WENTA, ROBERT, J. | WINGERS, TODD | ZUBACK, JOSEPH, E.
+	</str>
+	<str name="1st Inventor">
+		SMITH, DUANE, R.
+	</str>
+	<str name="Number of Inventors">
+		8
+	</str>
+	<str name="1st Inventor Address">
+		Edgar, WI
+	</str>
+	<str name="Inventor(s) Address">
+		Edgar, WI | Ringle, WI | Stevens, Point, WI | Schofield, WI | Weston, WI | Wisconsin, Rapids, WI | Denver, CO | Camarillo, CA
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

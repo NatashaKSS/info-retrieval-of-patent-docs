@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7722839
+	</str>
+	<str name="Application Number">
+		US10268610
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for thawing biological materials
+	</str>
+	<str name="Abstract">
+		An apparatus and method are provided to rapidly thaw and heat frozen bags of biological materials, such as plasma. The apparatus has a hollow bladder having a flexible wall that is placed in contact with the bag. A circulation system draws fluid from a reservoir and fills the bladder with the fluid. The circulation system also drains fluid from the bladder. A heater in the reservoir heats the fluid before the fluid enters the bladder. As heated fluid flows through the bladder, heat is transferred through the bladder wall to the plasma bag to thaw the biological material. The bladder wall expands against the plasma bag as the bladder fills with fluid, and contracts from the plasma bag as the bladder is drained. The expansion and contraction of the bladder wall agitates the plasma bag and biological material to accelerate the thawing process.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2002-10-10
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-10
+	</str>
+	<str name="Publication Date">
+		2010-05-25
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		B65D30/08 | B65B1/04 | A61F7/12 | F24J1/00 | C12M1/00 | A61M16/00 | B01D35/18 | A61F7/00 | B01J19/00 | B30B1/32 | B65D1/32
+	</str>
+	<str name="IPC Primary">
+		B65D30/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B65
+	</str>
+	<str name="IPC Subclass">
+		B65D
+	</str>
+	<str name="IPC Group">
+		B65D30
+	</str>
+	<str name="All UPC">
+		422/255 | 141/10 | 210/178 | 210/176 | 383/110 | 422/307 | 210/177 | 220/721 | 422/40 | 210/175 | 604/291 | 126/263.07 | 220/723 | 435/303.1 | 604/113 | 128/203.28 | 604/6.13 | 100/269.04 | 392/470
+	</str>
+	<str name="UPC Primary">
+		422/255
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Barkey, TCS Infusion Warming Concepts, phasmaterm, 3 page web advertisement. cited by other . | Thermogenesis, Plasma Thawers, &quot;Simply the Best&quot;, 3 page advertisement. cited by other . | Labor Technik Barkey, plasmatherm, 4 page advertisement. cited by other . | Photo-Therm, Plasma Thawing System--Cyto-Therm III T, 2 page advertisement. cited by other . | Transmed.RTM., &quot;New: Thawing of Stem Cell Preparations with Sahara-TSC&quot;, 1 page advertisement. cited by other. | Photo-Therm, Plasma Thawing System--Cyto-therm CT S, 2 page advertisement. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4808159 | US5403279 | US6336003 | US6007773 | US6748164 | US5743878 | US6824528 | US2845929 | US5733263 | US4486389 | US3518393 | US5645194 | US5147330 | US5243833 | US4539005 | US5779974 | US5282264 | EP0318924 | DE3741051
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Assignee(s)">
+		CYTOTHERM, L.P.
+	</str>
+	<str name="1st Assignee">
+		CYTOTHERM, L.P.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hamilton Square, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Hamilton Square, NJ
+	</str>
+	<str name="Inventor(s)">
+		KUZYK, ROMAN
+	</str>
+	<str name="1st Inventor">
+		KUZYK, ROMAN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Hamilton, Square, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		Hamilton, Square, NJ
+	</str>
+	<str name="Agent/Attorney">
+		PIPER, JR., DONALD R. DANN DORFMAN HERRELL &amp; SKILLMAN, PC
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		CHORBAJI, MONZER R
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

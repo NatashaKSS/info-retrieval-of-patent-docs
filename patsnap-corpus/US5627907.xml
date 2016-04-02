@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5627907
+	</str>
+	<str name="Application Number">
+		US08352169
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Computerized detection of masses and microcalcifications in digital mammograms
+	</str>
+	<str name="Abstract">
+		Method and apparatus for detecting abnormal regions such as masses and microcalcifications in living tissue depicted in radiographs such as mammograms is presented by digitizing the radiograph to produce a digitized radiograph, and, by computer, identifying, according to predetermined criteria, any suspected abnormal regions; and for each identified suspected abnormal region, extracting multiple topographic layers of the region from the digitized radiograph; and evaluating the extracted multiple topographic layers' abnormal regions to determine whether the region is an abnormal region; and displaying the abnormal regions in a version of the radiograph. Layers are extracted by thresholding the digital radiograph at a particular threshold value for each topographic layer. The threshold value for each other layer is based on the threshold and contrast values in a previous layer.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1994-12-01
+	</str>
+	<str name="Application Year">
+		1994
+	</str>
+	<str name="Application(Year/Month)">
+		1994-12
+	</str>
+	<str name="Publication Date">
+		1997-05-06
+	</str>
+	<str name="Publication Year">
+		1997
+	</str>
+	<str name="Publication(Year/Month)">
+		1997-05
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/132
+	</str>
+	<str name="UPC Primary">
+		382/132
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US5627907 | US5838815
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Wu, et al, Computerized Detection of Clustered Microcalcifications in Digital Mammograms Applications of Artificial Neural Networks, Med. Phys. May/Jun. 1992, vol. 19(3), pp. 555-560. | R.M. Nishikawa, K. Doi, M.L. Giger, H. Yoshimura, Y. Wa, C.J. Vyborny, R.A. Schmidt, Use of Morphological Filters in the Computerized Detection of Microcalcifications in Digitized Mammograms, Abstract. | Nishikawa, et al, Computer-aided Detection and Diagnosis of Masses and Clustered Microcalcifications From Digital Mammograms, SPIE, vol. 1905, pp.422-432. | Heang-Ping Chan, Ph.D., Kunio Doi, Ph.D., Carl J. Vyborny, M.D., Ph.D., Kwok-Leung Lam, Ph.D., and Robert A. Schmidt, M.D., Computer-Aided Detection of Microcalcifications in Mammograms Methodology and Preliminary Clinical Study, Invest Radiol 1988, vol. 23, pp. 664-670. | Nishikawa, et al, Computer-aided Detection of Clustered Microcalcifications: An Improved Method for Grouping Detected Signals, Med. Phys. Nov./Dec. 1993, vol. 20(6), pp. 1661-1666. | Zhang, et al, Computerized Detection of Clustered Microcalcifications in Digital Mammograms Using a Shift-Invariant Artificial Neural Network, Med. Phys. Apr. 1994, vol. 21, No. 4, pp. 517-524. | Shun Leung Ng and Walter F. Fischof, Automated Detection and Classification of Breast Tumors, Computers and Biomedical Research 1992, vol. 25, pp. 218-237. | Philip Strax, M.D., Detection of Breast Cancer, Cancer 1990, vol. 66, pp. 1336-1340. | Stafford, et al, Application of Neural Networks to Computer Aided Pathology Detection in Mammography, SPIE 1993, vol. 1896, pp. 341-352. | Maryellen L. Giger, Fang-Fang Yin, Kunio Doi, Charles E. Metz, Robert A. Schmidt, Carl J. Vyborny, Investigation of Methods for the Computerized Detection and Analysis of Mammographic Masses, SPIE 1990, vol. 1233, pp. 183-184. | Carl J. Vyborny and Maryellen L. Giger, Computer Vision and Artificial Intelligence in Mammography, AJR:162, Mar. 1994, pp. 699-708. | Heang-Pin Chan, Kunio Doi, Simranjit Galhotra, Carl J. Vyborny, Heber MacMahon, and Peter M. Jokich, Image Feature Analysis and Computer-Aided Diagnosis in Digital Radiography. I. Automated Detection of Microcalcifications in Mammography, Med. Phys. Jul./Aug. 1987, vol. 14(4), pp. 538-547. | Yin, et al, Comparison of Bilateral-Subtraction and Single-Image Processing Techniques in the Computerized Detection of Mammographic Masses, Investigative Radiology 1993, vol. 28, No. 6, pp. 473-481. | M.L. Giger, P. Lu, z. Huo, U. Bick, K. Doi, C.J. Vyborny, R.A. Schmidt, W. Zhang, C.E. Metz, D. Wolverton, R.M. Nishikawa, W. Zouras, CAD in Digital Mammography: Computerised Detection and Classification of Masses -Abstract. | Yin, et al, Computerized Detection of Masses in Digital Mammograms: Investigation of Feature-Analysis Techniques, Journal of Digital Imaging 1994, vol. 7, No. 1, pp. 18-26. | Shen, et al, Application of Shape Analysis to Mammographic Calcifications, IEEE: Transactions on Medial Imaging Jun. 1994, vol. 13, No. 2, pp. 263-274. | Chan, et al, Digitization Requirements in Mammography: Effects on Computer-aided Detection of Microcalcifications, Med. Phy. Jul. 1994, vol. 21(7), pp. 1203-1210. | Yin, et al, Computerized Detection of Masses in Digital Mammograms: Analysis of Bilateral Subtraction Images, Med. Phys. Sep./Oct. 1991, vol. 18(5), pp. 955-963. | W. Phillip Kegelmeyer, Jr., Computer Detection of Stellate Lesions in Mammograms, SPIE 1992, vol. 1660, pp. 446-454. | Lai, et al, On Techniques for Detecting Circumscribed Masses in Mammograms, IEEE Transactions on Medical Imaging Dec. 1989, vol. 8, No. 4, pp. 377-386. | Nishikawa, et al, Effect of Case Selection on the Performance of Computer-aided Detection Schemes, Medical Physics, Feb., 1994, vol. 21, No. 2, pp. 265-269. | Lucier, et al, Wavelet Compression and Segmentation of Digital Mammograms, Journal of Digital Imaging, Feb. 1994, vol. 7, No. 1, pp. 27-38. | Karssemeijer, et al, Spatial Resolution in Digital Mammography, Investigative Radiology, May 1993, vol. 28, pp. 413-419. | D.H. Davies and D.R. Dance, The Automatic Computer Detection of Subtle Calcifications in Radiographically Dense Breasts, Phys. Med. Biol. 1992, vol. 37, No. 6, pp. 1385-1390. | Brzakovic, et al, An Approach to Automated Detection of Tumors in Mammograms, IEE Transactions on Medical Imaging Sep. 1990, vol. 9, No. 3, pp. 233-241. | D.H. Davies and D.R. Dance, Automatic Computer Detection of Clustered Calcifications in Digital Mammograms, Phys. Med. Biol. 1990, vol. 35, No. 8, pp. 1111-1118. | Bahaa W. Fam, M.S., Sherry L. Olson, M.S., Peter F. Winter, M.D., Francis J. Scholz, M.D., Algorithm for the Detection of Fine Clustered Calcifications on Film Mammograms, Radiology 1988, vol. 169, pp. 333-337.
+	</str>
+	<str name="Other References Count">
+		27
+	</str>
+	<str name="Cites">
+		US4851984 | US4839807 | US5343390 | US4515165 | US5353804 | US4907156 | US5197484 | US5133020 | US5289374 | US5212637 | US5349954
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		35216994
+	</str>
+	<str name="Priority Date">
+		1994-12-01
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF PITTSBURGH
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF PITTSBURGH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Inventor(s)">
+		GUR, DAVID | ZHENG, BIN | CHANG, YUANG-HSIANG
+	</str>
+	<str name="1st Inventor">
+		GUR, DAVID
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Inventor(s) Address">
+		Pittsburgh, PA | Pittsburgh, PA | Pittsburgh, PA
+	</str>
+	<str name="Agent/Attorney">
+		CUSHMAN DARBY &amp; CUSHMAN IP GROUP OF PILLSBURY MADISON &amp; SUTRO LLP
+	</str>
+	<str name="Primary Examiner">
+		COUSO, JOSE L.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

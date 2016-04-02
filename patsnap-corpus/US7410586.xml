@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7410586
+	</str>
+	<str name="Application Number">
+		US10806198
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Purification or work-up on ionic liquids by means of adsorptive separation processes
+	</str>
+	<str name="Abstract">
+		Process for the work-up of a mixture comprising ionic liquids and a further substance, wherein the substance present is separated off by means of adsorptive separation processes.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-03-23
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-03
+	</str>
+	<str name="Publication Date">
+		2008-08-12
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/198.2 | 203/41 | 210/659 | 210/635 | 210/656 | 210/634
+	</str>
+	<str name="UPC Primary">
+		210/198.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1470846A1 | US20040188350A1 | DE10313207A1 | US7410586 | CN1531988A
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Abstract of Japan 60 131092. cited by other . | &quot;Treatment of molten salt reprocessing wastes&quot; esp@cenet English language abstract of CN 1,269,767, a counterpart of document (A) Oct. 11, 2000. cited by other . | Mikes' Laboratory Handbook of Chromatographic and Allied Methods, John Wiley &amp; Sons New York, 1979, pp. 218-219. cited by examiner . | Wasserscheid and Welton &quot;Ionic liquids in synthesis&quot; 2003 Wiley-Vch Verlag, Weinheim, pp. 17-19. cited by other . | Y. Beste, &quot;Simulierte Gegenstromchromatographie Fur Mehrkomponenten- und kinetisch kontrollierte Systeme&quot;, progress report VDI No. 712, Jun. 12, 2001. cited by other . | Database WPI Section Ch, Week 198824, Derwent Publications Ltd., London, GB Class A13, AN 1988-166475, XP 002284550, abstract only. cited by other . | Ind. Chem. Res. (2001), 40(1), 287-292, Brennecke. cited by other . | J.F. Brennecke; L.A. Blanchard: &quot;Separation of species from Ionic liquids&quot; ACS Symposium Series, Nr. 819, 2002, Seiten, XP008031714, pp. 83, 85 ,87, 89, 91 &amp; 93 &amp; 95 All even number pages missing. cited by other . | von Wasserscheid and Keim, Angewandte Chemie 2000, 112, 3926-3945. cited by other . | Snyder, Introduction to Modern Liquid Chromatography, John Wiley &amp; Sons New York, 1979, pp. 270-272, 285, and 410-411. cited by examiner . | &quot;Method and Apparatus for Ion Exchange Lead Removal&quot; esp@cenet English language abstract of CN 86/100,839, a counterpart of document (AA) Aug. 6, 1986. cited by other. | Hackh's Chemical Dictionary, McGraw-Hill Book, New York, 1972, p. 461. cited by examiner . | Abstract of Japan 62 260496, Apr. 1, 1987. cited by other .
+	</str>
+	<str name="Other References Count">
+		13
+	</str>
+	<str name="Cites">
+		US20040015009 | US20050051438 | US6468495 | US5748437 | US6916951 | US4751291 | US20020091281 | US5543474 | US4402832 | WO2003013685 | WO2003051894 | EP0190896 | WO2003048078 | WO2002074718 | WO2002030862 | WO2003007835
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		10313207
+	</str>
+	<str name="Priority Date">
+		2003-03-25
+	</str>
+	<str name="Assignee(s)">
+		BASF AKTIENGESELLSCHAFT
+	</str>
+	<str name="1st Assignee">
+		BASF AKTIENGESELLSCHAFT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ludwigshafen, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Ludwigshafen, DE
+	</str>
+	<str name="Inventor(s)">
+		BESTE, YORK, ALEXANDER | CIPRIAN, JURGEN | MAURER, STEPHAN
+	</str>
+	<str name="1st Inventor">
+		BESTE, YORK, ALEXANDER
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Mannheim, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Mannheim, DE | Ludwigshafen, DE | Bohl-Iggelheim, DE
+	</str>
+	<str name="Agent/Attorney">
+		NOVAK DRUCE + QUIGG LLP
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8017740
+	</str>
+	<str name="Application Number">
+		US12709392
+	</str>
+	<str name="Title">
+		Enhanced capacity and purification of antibodies by mixed mode chromatography in the presence of aqueous-soluble nonionic organic polymers
+	</str>
+	<str name="Abstract">
+		This invention relates to the use of mixed mode chromatography for purification of at least one intact non-aggregated antibody from a mixture containing intact non-aggregated antibodies and undesirable materials, including fragmented or aggregated antibodies, host cell proteins, DNA, endotoxin, and/or virus. This invention further relates to the integration of such a method into a multi-step procedure with other fractionation methods for purification of antibodies suitable for in vivo applications.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-02-19
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-02
+	</str>
+	<str name="Publication Date">
+		2011-09-13
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		C07K1/20 | C07K1/36 | C07K1/22
+	</str>
+	<str name="IPC Primary">
+		C07K1/20
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C07
+	</str>
+	<str name="IPC Subclass">
+		C07K
+	</str>
+	<str name="IPC Group">
+		C07K1
+	</str>
+	<str name="All UPC">
+		530/390.5 | 424/177.1 | 530/390.1 | 530/413 | 530/415 | 424/176.1 | 210/691
+	</str>
+	<str name="UPC Primary">
+		530/390.5
+	</str>
+	<str name="UPC Class">
+		530
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Gagnon, Pete et al.; &quot;Improved antibody aggregate removal by hydroxyapatite chromatography in the removal of polyethylene glycol&quot;, 2008, Journal of Immunological Methods, vol. 336, No. 2, pp. 222-228. cited by other . | &quot;Macro-Prep Chromatography Supports&quot;; Bio-Rad, 8 pages. cited by other . | Gagnon, Pete et al.; &quot;A Non-Affinity Based Method for Purification of IgG Monoclonal Antibodies&quot;; 2006, IBC World Conference and Exposition, 1 page. cited by other . | Gagnon, Pete; &quot;Purification Tools for Monoclonal Antibodies&quot;; 1996, Validated Biosystems, Chapters 4-6, pp. 57-126. cited by other . | Gagnon, Pete et al.; &quot;Simultaneous removal of aggregates, leached protein A, endotoxin, and DNA from protein A purified IgG with CHT.TM. ceramic hydroxyapatite and CFT.TM. ceramic fluorapatite&quot;; 2005, Purification of Biological Products, Santa Monica, 19 pages. cited by other . | Gagnon, Pete et al.; &quot;Method for obtaining unique selectivities in ion-exchange chromatography by addition of organic polymers to the mobile phase&quot;; 1996, Journal of Chromatography, vol. 743, pp. 51-55. cited by other . | Gagnon, Pete et al.; &quot;Nonionic Polymer Enhancement of Aggregate Removal in Ion Exchange and Hydroxyapatite Chromatography&quot;; 2007, 12th Annual Waterside Conference, 33 pages. cited by other . | Ng, Paul K. et al; &quot;Mechanistic model for adsorption of immunoglobulin on hydroxyapatite&quot;, 2006, Journal of Chromatography A, vol. 1142, No. 1, pp. 13-18. cited by other. | Hahn, Rainer, et al., Comparison of Protein A Affinity Sorbents, Journal of Chromatography B, 790 (2003) 35-51. cited by examiner . | Gagnon, Pete et al.; &quot;Obtaining Unique Selectivities in Ion Exchange Chromatography by Addition of Organic Polymers to the Mobile Phase&quot;; 1995, 15th International Symposium on HPLC of Proteins, Peptides, and Polynucleotides, 4 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6498236 | US7385040 | US20070259453 | US6870034 | US20050107594 | US5945520 | US6919436 | US7008542 | US7691980
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Assignee(s)">
+		BIO-RAD LABORATORIES, INC.
+	</str>
+	<str name="1st Assignee">
+		BIO-RAD LABORATORIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hercules, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Hercules, CA
+	</str>
+	<str name="Inventor(s)">
+		GAGNON, PETER, S.
+	</str>
+	<str name="1st Inventor">
+		GAGNON, PETER, S.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		San, Clemente, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Clemente, CA
+	</str>
+	<str name="Agent/Attorney">
+		KILPATRICK TOWNSEND &amp; STOCKTON LLP
+	</str>
+	<str name="Primary Examiner">
+		SAUNDERS, DAVID A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7576162
+	</str>
+	<str name="Application Number">
+		US11471881
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Chemical process
+	</str>
+	<str name="Abstract">
+		The invention relates to a process for the production of a nitrogen containing epihalohydrin polymer involving reaction of a nitrogen-containing precursor selected from the group consisting of amines, poly-amines, polyaminoamides, polyurethanes and mixtures thereof with epihalohydrin to form of a solution of said epihalohydrin polymer, the process comprising a purification step to remove organic impurities from the formed solution of the epihalohydrin polymer, said purification step comprising contacting the solution of the epihalohydrin polymer with a fluid under liquid, supercritical or near supercritical conditions to effect extraction of organic impurities from the solution of the epihalohydrin polymer to the fluid, withdrawing fluid enriched in organic impurities from the solution of the epihalohydrin polymer, and separating extracted impurities from the withdrawn fluid, wherein the fluid comprises a substance that at atmospheric pressure and room temperature (about 25.degree. C.) is gaseous. The invention also relates to a process for purifying a solution of a nitrogen containing epihalohydrin polymer.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-06-21
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-06
+	</str>
+	<str name="Publication Date">
+		2009-08-18
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-08
+	</str>
+	<str name="All IPC">
+		C08L77/00 | C08G73/02 | C08F6/00
+	</str>
+	<str name="IPC Primary">
+		C08L77/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C08
+	</str>
+	<str name="IPC Subclass">
+		C08L
+	</str>
+	<str name="IPC Group">
+		C08L77
+	</str>
+	<str name="All UPC">
+		525/408 | 210/639 | 525/420 | 210/634 | 525/430
+	</str>
+	<str name="UPC Primary">
+		525/408
+	</str>
+	<str name="UPC Class">
+		525
+	</str>
+	<str name="Family Members">
+		US20070004901A1 | US7576162
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		English language abstract abstracting CN 1350795A, May 29, 2002. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3891589 | US5643430 | US6180755 | US4450045 | US4975499 | US6576687 | US5034132 | US2926154 | US5017642 | US4857586 | US5516885 | US3311594 | US4336835 | US5019606 | US20050037932 | US5093470 | WO2002050163 | EP0374879 | WO2000034358 | WO2001018093 | CN1350795 | WO1999033901
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		47188106 | 69566805
+	</str>
+	<str name="Priority Date">
+		2006-06-21 | 2005-06-30
+	</str>
+	<str name="Assignee(s)">
+		AKZO NOBEL N.V. (ARNHEM, NL), FRAUNHOFER-GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG E.V.
+	</str>
+	<str name="1st Assignee">
+		AKZO NOBEL N.V. (ARNHEM, NL), FRAUNHOFER-GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG E.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Munich, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Munich, DE
+	</str>
+	<str name="Inventor(s)">
+		STRUCK, OLIVER | PINGEL-KEUTH, ANDREAS | PRZYBYLA, CHRISTIAN | FEHRENBACHER, ULRICH | HIRTH, THOMAS | UNSER, STEFFEN
+	</str>
+	<str name="1st Inventor">
+		STRUCK, OLIVER
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Duren, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Duren, DE | Duren, DE | Duisburg, DE | Karlsruhe, DE | Buhl, DE | Rheinstetten, DE
+	</str>
+	<str name="Agent/Attorney">
+		MORRISS, ROBERT C.
+	</str>
+	<str name="Primary Examiner">
+		WOODWARD, ANA L
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8070958
+	</str>
+	<str name="Application Number">
+		US12/692671
+	</str>
+	<str name="Title">
+		Separation matrix having a ligand density gradient
+	</str>
+	<str name="Abstract">
+		The present invention relates to a separation matrix comprised of ligands coupled to the surfaces of a porous support, such as one or more porous particles, wherein the ligands provide at least one chemical gradient within the support. In the most advantageous embodiment, the chemical gradient is a ligand density gradient. The invention also relates to a method of providing a separation matrix comprising ligands coupled to the surfaces of a porous support, in which method at least one ligand density gradient is provided by solvent-controlled diffusion of at least one reagent into the porous support.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-01-25
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-01
+	</str>
+	<str name="Publication Date">
+		2011-12-06
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		B01D15/08 | C02F1/28
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/198.2 | 210/656
+	</str>
+	<str name="UPC Primary">
+		210/198.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Arshady, R., Chimica e L'Industria, 70(9), 70-75 (1988). cited by other . | Li et al. A direct comparison of the mixing efficiency in solid-phase organic synthesis by single bead IR and fluorescence spectroscopy. Tetrahedron Letters, vol. 38, No. 37 (1997) pp. 6485-6488. cited by examiner . | Hjerten, S., Biochim Biophys Acta, 79(2), 393-398 (1964). cited by other.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US5977345 | US6090288 | US5561097 | US6258548 | US5945520 | US6528322 | US3983299 | US6426315 | WO2002071048
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		SE
+	</str>
+	<str name="Priority Number">
+		0302911
+	</str>
+	<str name="Priority Date">
+		2003-10-31
+	</str>
+	<str name="Assignee(s)">
+		GE HEALTHCARE BIO-SCIENCES AB
+	</str>
+	<str name="1st Assignee">
+		GE HEALTHCARE BIO-SCIENCES AB
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Uppsala, SE
+	</str>
+	<str name="Assignee(s) Address">
+		Uppsala, SE
+	</str>
+	<str name="Inventor(s)">
+		BERGSTROM, JAN | GLAD, GUNNAR | JOHANSSON, BO-LENNART | LJUNGLOF, ANDERS | MALOISEL, JEAN-LUC
+	</str>
+	<str name="1st Inventor">
+		BERGSTROM, JAN
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Uppsala, SE
+	</str>
+	<str name="Inventor(s) Address">
+		Uppsala, SE | Uppsala, SE | Uppsala, SE | Uppsala, SE | Uppsala, SE
+	</str>
+	<str name="Primary Examiner">
+		KIM, VICKIE
+	</str>
+	<str name="Assistant Examiner">
+		ZALASKY, KATHERINE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

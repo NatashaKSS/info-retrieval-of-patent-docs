@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7404897
+	</str>
+	<str name="Application Number">
+		US11585796
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for nitrogen removal and treatment of digester reject water in wastewater using bioaugmentation
+	</str>
+	<str name="Abstract">
+		An efficient system and process for removing nitrogen from wastewater while enriching seed sludge in the mainstream treatment process. Bioaugmentation of seed autotrophic organisms facilitate the nitrification reactions by enhancing the rates of reaction advantageously within a smaller volume or within a shorter activated sludge solids retention time. Likewise, bioaugmentation of seed denitrification organisms will also enhance rate of reaction within a smaller volume or shorter activated sludge solids retention time. Separate treatment of high ammonia digester reject water is an efficient method to treat nitrogen in recycle streams as well as to enrich the seed nitrifying and denitrifying cultures.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-10-25
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-10
+	</str>
+	<str name="Publication Date">
+		2008-07-29
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-07
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/607 | 210/610 | 210/625 | 210/626
+	</str>
+	<str name="UPC Primary">
+		210/607
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20070102356A1 | US20070251868A1 | US7404897
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Krhutkova, O., et al., &quot;In situ bioaugmentation of nitrification in the regeneration zone: practical application and experiences at full-scale plants,&quot; Water Science and Technology, 2006, vol. 53, No. 12; pp. 39-46. cited by other . | Kos, M., et al., &quot;R-D-N Activated Sludge Process,&quot; Water Science Technology, 1992, vol. 25, No. 4/5; pp. 151-160. cited by other . | International Search Report dated Jan. 17, 2008. cited by other. | Kos, P., &quot;Short SRT (Solids Retention Time) Nitrification Process/Flowsheet,&quot; Water Science Technology, 1998, vol. 38, No. 1; pp. 23-29. cited by other . | Constantine, T., et al., Alternatives for Treating High Nitrogen Liquor from Advanced Anaerobic Digestion at the Blue Plains AWTP, 2005, Proceedings of WEFTEC, Washington, DC. cited by other . | Salem, S., et al., &quot;Full-Scale Application of the BABE.RTM. Technology&quot;, Water Science and Technology, 2004, vol. 50, No. 7; pp. 87-96. cited by other . | Kalehis, D., et al., &quot;Enhancement of Nitrogen Removal thru Innovative Integration of Centrate Treatment,&quot; 2002, Proceedings of WEFTEC, Chicago, IL. cited by other . | Wanner, J., et al., &quot;An Innovative Technology for Upgrading Nutrient Removal Activated Sludge Plants,&quot; Water Science Technology, 1990, vol. 22, No. 7/8; pp. 9-20. cited by other . | S Salem, et al., &quot;Bio-Augmentation by Nitrification with Retum Sludge,&quot; Water Research 37 (2003), pp. 1794-1804. cited by other . | P. Kumar et al., &quot;Upgrading Wastewater Treatment by Water Hyacinth in Developing Countries,&quot; Wat. Sci. Tech., vol. 22, No. 7/8, pp. 153-160, 1990. cited by other . | Salem, S., et al., &quot;Model-based evaluation of a new upgrading concept for N-removal,&quot; Water Science and Technology, 2002, vol. 45, No. 6; pp. 169-176. cited by other . | Rosen, B., et al., &quot;The ScanDeNi.RTM. process could turn an existing under-performing activated sludge plant into an asset,&quot; Water Science and Technology, 2003, vol. 47, No. 11; pp. 31-36. cited by other .
+	</str>
+	<str name="Other References Count">
+		12
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6426004 | US5447633 | US6602417 | US5705072 | US20070119763 | US4537682 | US6207059 | US6190554 | US5811009 | US6163932 | CZ291489
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		58579606 | 73003505
+	</str>
+	<str name="Priority Date">
+		2006-10-25 | 2005-10-26
+	</str>
+	<str name="Assignee(s)">
+		D.C. WATER &amp; SEWER AUTHORITY
+	</str>
+	<str name="1st Assignee">
+		D.C. WATER &amp; SEWER AUTHORITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Washington, DC
+	</str>
+	<str name="Assignee(s) Address">
+		Washington, DC
+	</str>
+	<str name="Inventor(s)">
+		BAILEY, JR., WALTER, F. | MURTHY, SUDHIR, N. | BENSON, LEONARD | CONSTANTINE, TIMOTHY | DAIGGER, GLEN, T. | SADICK, THOMAS, E. | KATEHIS, DIMITRIOS
+	</str>
+	<str name="1st Inventor">
+		BAILEY, JR., WALTER, F.
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Washington, DC
+	</str>
+	<str name="Inventor(s) Address">
+		Washington, DC | Washington, DC | Washington, DC | Toronto, CA | Englewood, CO | Newport, News, VA | Chalfont, PA
+	</str>
+	<str name="Agent/Attorney">
+		DICKSTEIN SHAPIRO LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

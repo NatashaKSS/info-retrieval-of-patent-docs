@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7918350
+	</str>
+	<str name="Application Number">
+		US12399545
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Separation apparatus and method
+	</str>
+	<str name="Abstract">
+		A separation apparatus and method are employed using a separation channel for rotation about an axis. Such channel includes radially spaced apart inner and outer side wall portions and an end wall portion. An inlet conveys fluid into the channel. A barrier is located in the channel intermediate of the inner and outer side wall portions. A first flow path communicates between upstream and downstream sides of the barrier. A collection region may be located downstream of the barrier for communication with the first flow path. An outer side wall section of the channel may be positioned radially outward of an upstream section thereof. The barrier may join the outer side wall portion along a substantial portion of an axial length of the channel. First and second exit flow paths may allow communication with the channel either upstream or downstream of the barrier or both.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-03-06
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-03
+	</str>
+	<str name="Publication Date">
+		2011-04-05
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-04
+	</str>
+	<str name="All IPC">
+		B04B1/12 | B04B3/00 | B01D45/12 | B04B1/06 | B01D21/26 | B04B7/10
+	</str>
+	<str name="IPC Primary">
+		B04B1/12
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B04
+	</str>
+	<str name="IPC Subclass">
+		B04B
+	</str>
+	<str name="IPC Group">
+		B04B1
+	</str>
+	<str name="All UPC">
+		494/56 | 494/37 | 210/787 | 494/45 | 210/789 | 494/67 | 210/512.1 | 210/782 | 494/43
+	</str>
+	<str name="UPC Primary">
+		494/56
+	</str>
+	<str name="UPC Class">
+		494
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		PCT/US2004/042330 International Search Report dated May 17, 2005, Baxter International. cited by other . | Supplemental European Search Report for European Patent Application No. 03774903.3, dated Feb. 19, 2010. cited by other. | PCT/US00/23696 International Search Report dated Jan. 9, 2001, Baxter International. cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US4911833 | US5738796 | US5906570 | US5792038 | US4957637 | US4010894 | US5462416 | US4957638 | US20010051569 | US4120448 | US5750039 | US5980757 | US4278202 | US6752777 | US5061381 | US5632905 | US7166231 | US6296602 | US20030102272 | US1647292 | US5707876 | US6596180 | US5876321 | US20030199803 | US20030191005 | US6605223 | US20030211927 | US3666170 | US20040104182 | US6361518 | US5913768 | US3785549 | US5186844 | US5071570 | US5730883 | US5494578 | US20020033370 | US5882289 | US5456845 | US5704888 | US5980760 | US5964690 | US4330080 | US5704889 | US6322488 | US5855773 | US6027655 | US5217627 | US5720716 | US5788662 | US6027657 | US4816168 | US4895666 | US5556557 | US6200287 | US6053856 | US6284142 | US6641552 | US6334842 | US5906319 | US6537445 | US5906598 | US5581687 | US6613009 | US6354986 | US4798577 | US20020177799 | US20020142909 | US6652476 | US6071422 | US5386734 | US5607579 | US6709377 | US6379322 | US6099491 | US5658231 | US4640785 | US5454958 | US6051146 | US20080087601 | US20060032817 | US5750025 | US4734089 | US20040079707 | US5494592 | US6398972 | US20030233064 | US20020068674 | US5904645 | US4091989 | US4164318 | US5545339 | US20080087614 | US6497674 | US20020068675 | US4342420 | US5571068 | US5078671 | US5173193 | US6558307 | US5464536 | US5547591 | US20030052065 | US6511411 | US6102883 | US5387174 | US5124434 | US5616254 | US5643193 | US20030155312 | US20030066807 | US4818418 | US20030195455 | US5840502 | US5362291 | US5722926 | US5370802 | US4713176 | US5837150 | US5853382 | US5951877 | US5549834 | US4109854 | US5529567 | US20030181305 | US6736768 | US5281342 | US5308309 | US6475175 | US4447221 | US5585007 | US5858253 | US5961842 | US5506333 | US20040147865 | US5858251 | US4094461 | US6387263 | US4985153 | US6705983 | US20040082459 | US5316540 | US5628915 | US20020058575 | US6063297 | US5651766 | US6849039 | US5807492 | US20040026341 | US4944883 | US7297272 | US6361700 | US20030205538 | US5939319 | US4867887 | US5833866 | US4132349 | US20010048892 | US5769811 | US5722946 | US4954264 | US4981585 | US6524231 | US4389206 | US5350514 | US6649072 | US5100564 | US4189382 | US4871462 | US20020020680 | US4834890 | US20020104808 | US5258126 | US5603845 | US5656163 | US20020128584 | US4647279 | US5387187 | US6632191 | US4146172 | US6315707 | US4708712 | US20030222029 | US6730055 | US5879280 | US5702357 | US5989177 | US4303193 | US4402680 | US5663051 | US4776964 | WO1998022165 | DE19706997 | WO1998004938 | EP0363119 | WO1989000084 | WO199850163 | EP1043072
+	</str>
+	<str name="Cites Count">
+		198
+	</str>
+	<str name="Assignee(s)">
+		FENWAL, INC.
+	</str>
+	<str name="1st Assignee">
+		FENWAL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Lake Zurich, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Lake Zurich, IL
+	</str>
+	<str name="Inventor(s)">
+		MIN, KYUNGYOON | BROWN, RICHARD, I. | AKONUR, ALP | MORIARTY, JULIE
+	</str>
+	<str name="1st Inventor">
+		MIN, KYUNGYOON
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Gurnee, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Gurnee, IL | Northbrook, IL | Evanston, IL | Chatswood, AU
+	</str>
+	<str name="Agent/Attorney">
+		COOK ALEX LTD.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

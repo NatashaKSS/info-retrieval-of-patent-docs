@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7597801
+	</str>
+	<str name="Application Number">
+		US11570418
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Fluids fluxion method and plant for wastewater treatment
+	</str>
+	<str name="Abstract">
+		A wastewater treatment plant includes a reaction tank connected to an wastewater supply tube and an aeration apparatus to receive wastewater therein, a sludge separation unit dividing an internal space of the reaction tank into upper and lower sections to increase an amount of dissolved oxygen by increasing an contact area of the wastewater and bubbles and to separate relatively light materials by moving low density matters existed on a surface of each section upward in turn, an air exhaust tube mounted on the reaction tank to exhaust bubbles passing through the sludge separation unit out of the reaction tank, a treated water exhaust tube mounted on the reaction tank to exhaust the wastewater that is treated by passing through the sludge separation unit, and a settling tank provided on a bottom of the reaction tank to concentrate and exhaust the settled sludge.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-06-15
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-06
+	</str>
+	<str name="Publication Date">
+		2009-10-06
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		B01F3/04 | C02F11/02
+	</str>
+	<str name="IPC Primary">
+		B01F3/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01F
+	</str>
+	<str name="IPC Group">
+		B01F3
+	</str>
+	<str name="All UPC">
+		210/539 | 261/114.3 | 210/151 | 210/218 | 261/113 | 210/522 | 210/205 | 210/220 | 210/194
+	</str>
+	<str name="UPC Primary">
+		210/539
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		JP2008502472A | US7597801 | US20080264840A1 | CN101014544A | WO2005123613A1
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6123323 | US6478963 | US2889929 | US20030057152 | JP1999319866 | KR20040004579 | JP1976036669 | JP2000254637 | JP1998118473
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		2004001419
+	</str>
+	<str name="Priority Date">
+		2004-06-15
+	</str>
+	<str name="Assignee(s)">
+		ECODAYS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		ECODAYS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Nowon-gu, Seoul, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Nowon-gu, Seoul, KR
+	</str>
+	<str name="Inventor(s)">
+		CHOI, HONG-BOK
+	</str>
+	<str name="1st Inventor">
+		CHOI, HONG-BOK
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		LEXYOUME IP GROUP, LLC.
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="Assistant Examiner">
+		STELLING, LUCAS
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

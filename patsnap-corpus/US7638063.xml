@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7638063
+	</str>
+	<str name="Application Number">
+		US12237900
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Methods for replenishing a charge of oxidizing gas within an oxidation tank
+	</str>
+	<str name="Abstract">
+		Contaminants are removed from fluid in a system where the fluid is sprayed into an air head at the top of a tank through a diffuser and withdrawn through a pick-up tube. A solenoid valve operates to allow oxygen-containing gas from a compressed gas source to flow into the tank through a shuttle valve, which is opened by the gas pressure. Simultaneously, a drain valve connected to the shuttle valve opens a drain, venting water and air from the tank. The solenoid valve also operates to close the gas supply line and connect the shuttle valve through a vent to atmosphere. Pressure within the tank closes the shuttle valve, which in turn closes the drain valve and disconnects the shuttle valve from the tank. A one-way-flow valve prevents fluid or gas from flowing from the tank backwards through the shuttle valve to the solenoid valve and out the vent.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-09-25
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-09
+	</str>
+	<str name="Publication Date">
+		2009-12-29
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		C02F1/72
+	</str>
+	<str name="IPC Primary">
+		C02F1/72
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/758 | 210/721
+	</str>
+	<str name="UPC Primary">
+		210/758
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7491321 | US7638063
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3649532 | US6447678 | US6042729 | US5096596 | US6231763 | US6254772 | US4534867 | US20030164337 | US6068764 | US6797156 | US5945004 | US6398954
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		23790008 | 45827906
+	</str>
+	<str name="Priority Date">
+		2008-09-25 | 2006-07-18
+	</str>
+	<str name="Assignee(s)">
+		HELLENBRAND, INC.
+	</str>
+	<str name="1st Assignee">
+		HELLENBRAND, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Waunakee, WI
+	</str>
+	<str name="Assignee(s) Address">
+		Waunakee, WI
+	</str>
+	<str name="Inventor(s)">
+		MAAS, EDWARD, T. | BERES, PAUL, A. | HELLENBRAND, KEVIN, A. | KAVEY, WILLIAM, M. | KLEIN, DANIEL, A.
+	</str>
+	<str name="1st Inventor">
+		MAAS, EDWARD, T.
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Poynette, WI
+	</str>
+	<str name="Inventor(s) Address">
+		Poynette, WI | Waukesha, WI | Mukwonago, WI | Sun, Prairie, WI | Middleton, WI
+	</str>
+	<str name="Agent/Attorney">
+		LATHROP &amp; CLARK LLP
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="Assistant Examiner">
+		STELLING, LUCAS
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

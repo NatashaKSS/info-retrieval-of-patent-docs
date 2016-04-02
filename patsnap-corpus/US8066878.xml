@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8066878
+	</str>
+	<str name="Application Number">
+		US11/919410
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Anaerobic purification device
+	</str>
+	<str name="Abstract">
+		The invention relates to an anaerobic purification device for purification of influent. The device has a reactor tank, an inlet for introducing influent into the tank, a water collecting device for collecting purified water, a gas collecting system for collecting gas from the fluid contained in the reactor, a gas-liquid separation device, a riser for passing liquid into the separation device by gas lifting action caused by gas collected in the gas collecting system, and a downer for returning liquid and sludge from the separation device into the lower tank section. According to the invention this device is characterized in that it is arranged to define, in the downer at the level of the liquid surface, a head pressure of, at least, approximately 1.4 m water column (approximately 0.14 bar). The invention also relates to a method for anaerobic purification device for purification of influent.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-06-10
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-06
+	</str>
+	<str name="Publication Date">
+		2011-11-29
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F3/28
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/188 | 210/603
+	</str>
+	<str name="UPC Primary">
+		210/188
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6602416 | US20030085171 | US6063273 | US20020000409 | US4632692 | JP1995204682 | EP0170332 | WO1992001637
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Assignee(s)">
+		PAQUES B.V.
+	</str>
+	<str name="1st Assignee">
+		PAQUES B.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		NL
+	</str>
+	<str name="Assignee(s) Address">
+		NL
+	</str>
+	<str name="Inventor(s)">
+		VELLINGA, SJOERD, HUBERTUS, JOSEF | DE, BOER, JELLE, HENDRIK | JORNA, ANTONIUS, JOHANNES | HABETS, LEONARD, HUBERTUS, ALPHONSUS
+	</str>
+	<str name="1st Inventor">
+		VELLINGA, SJOERD, HUBERTUS, JOSEF
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Tjalleberd, NL
+	</str>
+	<str name="Inventor(s) Address">
+		Tjalleberd, NL | Balk, NL | Balk, NL | Sneek, NL
+	</str>
+	<str name="Agent/Attorney">
+		THE WEBB LAW FIRM
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

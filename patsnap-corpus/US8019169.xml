@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8019169
+	</str>
+	<str name="Application Number">
+		US12014895
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image coding apparatus, image decoding apparatus, image processing apparatus and methods thereof
+	</str>
+	<str name="Abstract">
+		The image coding apparatus according to the present invention includes: a similar image search unit 201 which searches at least one second still image which is similar to a first still image; a coding processing unit 202 which generates a predictive image for the first still image using the at least one second still image as the reference image, and codes the difference between the first still image and the predictive image; and a reference image information processing unit 204 which adds information which indicates the location of at least one of the second still image to the bit stream.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-01-16
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-01
+	</str>
+	<str name="Publication Date">
+		2011-09-13
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		G06K9/36
+	</str>
+	<str name="IPC Primary">
+		G06K9/36
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/232 | 382/233 | 382/236 | 382/238
+	</str>
+	<str name="UPC Primary">
+		382/232
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		S. Baker et al., &quot;Limits on Super-Resolution and How to Break Them&quot;, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 24, No. 9, pp. 1167-1183, Sep. 2002 (re-printed as an Abstract / Title page plus pp. 1-35). cited by other . | ITU-T Rec. T-81, &quot;Information Technology--Digital Compression and Coding of Continuous-Tone Still Images--Requirements and Guidelines&quot;, 1992. cited by other . | A. Hertzman et al., &quot;Image Analogies&quot;, SIGGRAPH 2001 Conference Proceedings. cited by other . | I. Drori et al., &quot;Fragment-based image completion&quot;, Proceedings of ACM SIGGRAPH 2003, pp. 303-312. cited by other . | W. T. Freeman, &quot;Example-Based Super-Resolution&quot;, Mitsubishi Electric Research Laboratory, TR-2001-30, Aug. 2001--corresponding to Example-Based Super-Resolution, IEEE Computer Graphics and Applications, vol. 22, No. 2, pp. 56-65, Mar./Apr. 2002. cited by other.
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cites">
+		US4794401 | US5983251
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		2007008833 | 2007008834 | 2007008835
+	</str>
+	<str name="Priority Date">
+		2007-01-18 | 2007-01-18 | 2007-01-18
+	</str>
+	<str name="Assignee(s)">
+		PANASONIC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		PANASONIC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Osaka, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s)">
+		KONDO, SATOSHI
+	</str>
+	<str name="1st Inventor">
+		KONDO, SATOSHI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kyoto, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kyoto, JP
+	</str>
+	<str name="Agent/Attorney">
+		WENDEROTH, LIND &amp; PONACK, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		DO, ANH HONG
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

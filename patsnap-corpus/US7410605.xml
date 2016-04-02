@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7410605
+	</str>
+	<str name="Application Number">
+		US10620412
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Solution film-forming method
+	</str>
+	<str name="Abstract">
+		The solution film-forming method is provided in which the absolute filtration accuracy for a cellulose acylat solution can be improved and filtration throughput can be increased without reducing the pore size of a filtering material. A dope stock solution to be filtrated is first introduced into a body feed tank and a filter aid from a filter aid tank is added and dispersed. As the filter aid, an aid including SiO2 in 50% or more and a cellulose-based aid are mixed for use. The dope stock solution in which the filter aid is dispersed is introduced into a filter machine and subjected to filtration while forming a cake on the surface of the filtering material. After the filtration, a cleaning solvent is supplied in circulation from a cleaning solvent tank, and the cake is discharged as slurry. The filter aid is separated from the slurry by a separating device and burned in a burning device. Then, a regenerated filter aid is sent to the filter aid tank. After the cleaning, a precoat liquid in which the filter aid is dispersed is supplied from a precoat tank to the filter machine to form a precoat layer on the surface of the filtering material.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-07-17
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-07
+	</str>
+	<str name="Publication Date">
+		2008-08-12
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		B01D37/02
+	</str>
+	<str name="IPC Primary">
+		B01D37/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D37
+	</str>
+	<str name="All UPC">
+		264/217 | 210/778 | 210/777 | 210/193
+	</str>
+	<str name="UPC Primary">
+		264/217
+	</str>
+	<str name="UPC Class">
+		264
+	</str>
+	<str name="Family Members">
+		US20040023051A1 | US7410605
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Handbook of Separation Techniques for Chemical Engineers, 2nd Edition (1988), McGraw Hill, pp. 4-9 through 4-14. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US20040023051
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2002210550
+	</str>
+	<str name="Priority Date">
+		2002-07-19
+	</str>
+	<str name="Assignee(s)">
+		FUJIFILM CORPORATION
+	</str>
+	<str name="1st Assignee">
+		FUJIFILM CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		NISHIMURA, TAKURO | TSUJIMOTO, TADAHIRO | KATAI, YUKIHIRO
+	</str>
+	<str name="1st Inventor">
+		NISHIMURA, TAKURO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Minami-Ashigara, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Minami-Ashigara, JP | Minami-Ashigara, JP | Minami-Ashigara, JP
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		POPOVICS, ROBERT JAMES
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

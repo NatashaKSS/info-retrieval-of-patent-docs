@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7705062
+	</str>
+	<str name="Application Number">
+		US11307286
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Nanoporous organosilicas as pre-concentration materials for sensors
+	</str>
+	<str name="Abstract">
+		A molecularly imprinted material made from polymerizing a monomer having the structural formula (OR).sub.3Si--B-A-B--Si(OR).sub.3. A is a divalent organic group, B is a saturated or unsaturated divalent hydrocarbon group or a covalent bond, and R is an independently selected saturated or unsaturated monovalent hydrocarbon group. A preconcentrator having: a container comprising in inlet and an outlet and the above material within the container. The inlet is capable of allowing a fluid to enter the container. The outlet is capable of being coupled to a sensor and of allowing the fluid to exit the container.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-01-31
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-01
+	</str>
+	<str name="Publication Date">
+		2010-04-27
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		C08G77/02 | B01D15/00 | C08J9/00
+	</str>
+	<str name="IPC Primary">
+		C08G77/02
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C08
+	</str>
+	<str name="IPC Subclass">
+		C08G
+	</str>
+	<str name="IPC Group">
+		C08G77
+	</str>
+	<str name="All UPC">
+		210/690 | 521/110 | 521/100 | 521/99 | 528/10 | 436/815
+	</str>
+	<str name="UPC Primary">
+		210/690
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;Bridged Polysilsesquioxanes. Molecular-Engineered Hybrid Organic-Inorganic Materials&quot;, Shea et al. Chemistry of Materials, 2001, 13, 3306-3319. cited by examiner . | Diaz-Garcia et al. Microchimia Acta, 2005, 149, 19-36. cited by examiner . | Vartuli, et al, &quot;Effect of Surfactant/Silica Molar ratios on the Formation of Mesoporous Molecular Sieves: Inorganic Mimicry of Surfactant Liquid-Crystal Phases and Mechanistic Implications&quot; Chemistry of Materials, 6, 2317 2326 (1994). cited by other . | Markowitz et al, &quot;Surface Acidity and Basicity of Functionalized Silica Particles&quot; Colloids and Surfaces A: Physicochem Eng. Aspects 150, 85-94 (1999). cited by other . | &quot;Template-Based Approaches to the Preparation of Amorphous, Nanoporous Silicas&quot;, Raman et al. Chemistry of Materials, 1996, 8, 1682-1701. cited by examiner . | Wulff et al., &quot;Enzyme models Based on Molecularly Imprinted Polymers with Strong Esterase Activity&quot; Angew. Chem. Int. Ed. Engl., 36 1961 (1997). cited by other . | Burleigh et al., &quot;Porous Polysilsesquioxanes for the Adsorption of Phenols&quot; Environ. Sci. Technol. 2002, 35, 2515-2518. cited by other . | Melde et al., &quot;Mesoporous Sieves with Unified Hybrid Inorganic/Organic Frameworks&quot; Chem. Mater. 1999, 11, 3302-3308. cited by other . | Wulff, &quot;Molecular Imprinting in Cross-Linked Materials with the Aid of Molecular Templates--A Way towards Artificial Antibodies&quot;Angew. Chem. Intl. Ed. Engl., 34, 1812-1832 (1995). cited by other. | Dai et al. J. Am. Chem. Soc. 2000, 122, 992-993. cited by examiner . | Burleigh et al., &quot;Direct Synthesis of Periodic Mesoporous Organosilicas: Functional Incorporation by Co-condensation with Organosilanes&quot; J. Phy. Chem. B 2001, 105, 9935-9942. cited by other . | Inagaki et al. &quot;Novel Mesoporous Materials with a Uniform Distribution of Organic Groups and Inorganic Oxide in Their Frameworks&quot; J. Am. Chem. Soc. 1999, 121, 9611-9614. cited by other . | Asefa et al., &quot;Periodic mesoporous organosillcas with organic groups inside the channel walls&quot; Nature 402, 868. cited by other .
+	</str>
+	<str name="Other References Count">
+		13
+	</str>
+	<str name="Cites">
+		US6548690 | US6583191 | US5250282 | US6417236 | US6660780 | US5756717 | US5821311 | US5449853 | US6217901 | US5630978 | US5304363 | US7422724 | US5770275 | US6380266 | US5310648 | US6171378 | US6310110 | US5872198 | US20030176396 | US5321102 | US5106691 | US7358316 | US7168298 | US5396020 | US5910554 | US5622684 | US5795559 | US6673246 | US20030157344 | US6713416 | US5110833 | US5538710 | US5461175 | US6423770 | US7211192 | US20030191269
+	</str>
+	<str name="Cites Count">
+		36
+	</str>
+	<str name="Assignee(s)">
+		THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRETARY OF THE NAVY
+	</str>
+	<str name="1st Assignee">
+		THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRETARY OF THE NAVY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Washington, DC
+	</str>
+	<str name="Assignee(s) Address">
+		Washington, DC
+	</str>
+	<str name="Inventor(s)">
+		MARKOWITZ, MICHAEL | ZEINALI, MAZYAR | TRAMMELL, SCOTT | CHARLES, PAUL
+	</str>
+	<str name="1st Inventor">
+		MARKOWITZ, MICHAEL
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Springfield, VA
+	</str>
+	<str name="Inventor(s) Address">
+		Springfield, VA | Columbia, MD | Springfield, VA | Bowie, MD
+	</str>
+	<str name="Agent/Attorney">
+		RESSING, AMY L. GRUNKEMEYER, JOSEPH T.
+	</str>
+	<str name="Primary Examiner">
+		GULAKOWSKI, RANDY
+	</str>
+	<str name="Assistant Examiner">
+		LOEWE, ROBERT
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

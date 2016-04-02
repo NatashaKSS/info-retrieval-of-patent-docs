@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7374685
+	</str>
+	<str name="Application Number">
+		US11013900
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for separating metallic from semiconducting single-walled carbon nanotubes
+	</str>
+	<str name="Abstract">
+		A method for separating semiconducting single-walled carbon nanotubes from metallic single-walled carbon nanotubes is disclosed. The method utilizes separation agents that preferentially associate with semiconducting nanotubes due to the electrical nature of the nanotubes. The separation agents are those that have a planar orientation, .pi.-electrons available for association with the surface of the nanotubes, and also include a soluble portion of the molecule. Following preferential association of the separation agent with the semiconducting nanotubes, the agent/nanotubes complex is soluble and can be solubilized with the solution enriched in semiconducting nanotubes while the residual solid is enriched in metallic nanotubes.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-12-16
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-12
+	</str>
+	<str name="Publication Date">
+		2008-05-20
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		B01D11/00
+	</str>
+	<str name="IPC Primary">
+		B01D11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		423/461 | 436/178 | 977/751 | 210/639 | 977/845 | 209/1
+	</str>
+	<str name="UPC Primary">
+		423/461
+	</str>
+	<str name="UPC Class">
+		423
+	</str>
+	<str name="Family Members">
+		US20060054555A1 | US7374685
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Article--Storage of hydrogen in single-walled carbon nanotubes, A. C. Dillon, K. M. Jones, T. A. Bekkedahl, C. H. Kiang, D. S. Bethune, and M. J. Heben, Nature, vol. 386, Mar. 27, 1997, pp. 377-379. cited by other . | Article--Carbon nano-cages created as cubes, Yahachi Saito and Takehisa Matsumoto, Nature, vol. 392, Mar. 19, 1998, p. 237. cited by other . | Article--Fullerene Pipes, Jie, Liu, Andrew G. Rinzler, Hongjie Dai, Jason H. Hafner, R. Kelley Bradley, Peter J. Boul, Adrian Lu, Terry Iverson, Konstantin Shelimov, Chad B. Huffman, Fernando Rodriguez-Macias, Young-Seok Shon, T. Randell Lee, Daniel T. Colbert, and Richard E. Smalley, Science, vol. 280, May 22, 1998, pp. 1253-1256. cited by other . | Article--Structure-Based Carbon Nanotube Sorting by Sequence-Dependent DNA Assembly, Ming Zheng, Anand Jagota, Michael S. Strano, Adelina P. Santos, Paul Barone, S. Grace Chou, Bruce A. Diner, Mildred S. Dresselhaus, Robert S. McLean, G. Bibiana Onoa, Georgii G. Samsonidze, Ellen D. Semke, Monica Usrey, and Dennis J. Walls, Science, vol. 302, Nov. 28, 2003, pp. 1545-1548. cited by other . | US. Appl. No. 60/446,393, filed on Feb. 10, 2003. cited by examiner . | Article--Electronic Structure Control of Single-Walled Carbon Nanotube Functionalization, Michael S. Strano, Christopher A. Dyke, Monica L. Usrey, Paul W. Barone, Mathew J. Allen, Hongwei Shan, Carter Kittrell, Robert H. Hauge, James M. Tour, and Richard E. Smalley, Science, vol. 301, Sep. 12, 2003, pp. 1519-1522. cited by other . | Article--Fully collapsed carbon nanotubes, Nasreen G. Chopra, Lorin X. Benedict, Vincent H. Crespi, Marvin L. Cohen, Steven G. Louie, and A. Zettl, Nature, vol. 377, Sep. 14, 1995, pp. 135-138. cited by other . | Article--DNA-assisted dispersion and separation of carbon nanotubes, Ming Zheng, Anand Jagota, Ellen D. Semke, Bruce A. Diner, Robert S. McLean, Steve R. Lustig, Raymond E. Richardson, and Nancy G. Tassi, Nature Materials, vol. 2, May 2003, pp. 338-342. cited by other . | Article--Unraveling Nanotubes: Field Emission from an Atomic Wire, A. G. Rinzler, J. H. Hafner, P. Nikolaev, L. Lou, S. G. Kim, D. Tomanek, P. Nordlander, D. T. Colbert and R. E. Smalley, Science, vol. 269, No. 5230, Sep. 15, 1995, pp. 1550-1553. cited by other . | Article--Bulk Separative Enrichment in Metallic or Semiconducting Single-Walled Carbon Nanotubes, Zhihong Chen, Xu Du, Mao-Hua, C. Daniel Rancken, Hai-Ping Cheng, and Andrew G. Rinzler, Nano Letters, vol. 3, No. 9, 2003, pp. 1245-1249. cited by other . | Article--Protein-Conjugated Nanoparticles from Rapid Expansion of Supercritical Fluid Solution into Aqueous Solution, Mohammed J. Meziani and Ya-Ping Sun, J. Am. Chem. Soc., vol. 125, 2003, pp. 8015-8018. cited by other . | Article--Gas-phase catalytic growth of single-walled carbon nanotubes from carbon monoxide, Pavel Nikolaev, Michael J. Bronikowski, R. Kelley Bradley, Frank Rohmund, Daniel T. Colbert, K. A. Smith, and Richard E. Smalley, Chemical Physics Letters, vol. 313, Nov. 5, 1999, pp. 91-97. cited by other . | Article--Large-scale purification of single-wall carbon nanotubes: process, product, and characterization, A. G. Rinzler, J. Liu, H. Dai, P. Nikolaev, C. B. Huffman, F. J. Rodriguez-Macias, P. J. Boul, A. H. Lu, D. Heymann, D. T. Colbert, R. S. Lee, J. E. Fischer, A. M. Rao, P. C. Eklund, and R. E. Smalley, Applied Physics A, Materials Science &amp; Processing, vol. 67, Feb. 13, 1998, pp. 29-37. cited by other . | Search Report and Written Opinion for PCT/US04/42412, Dec. 13, 2005. cited by other. | Article--Nanotubes as nanoprobes in scanning probe microscopy, Hongjie Dai, Jason H. Hafner, Andrew G. Rinzler, Daniel T. Colbert, and Richard E. Smalley, Nature, vol. 384, Nov. 14, 1996, pp. 147-150. cited by other . | Article--A Route for Bulk Separation of Semiconducting from Metallic Single-Wall Carbon Nanotubes, Debjit Chattopadhyay, Izabela Galeska, and Fotios Papadimitrakopoulos, J. Am. Chem. Soc., vol. 125, 2003, pp. 3370-3375. cited by other . | Article--Large-scale and low-cost synthesis of single-walled carbon nanotubes by the catalytic pyrolysis of hydrocarbons, H. M. Cheng, F. Li, G. Su, H. Y. Pan, L. L. He, X. Sun, and M. S. Dresselhaus, Applied Physics Letters, vol. 72, No. 25, Jun. 22, 1998, pp. 3282-3284. cited by other . | Article--Separation of Metallic from Semiconducting Single-Walled Carbon Nanotubes, Ralph Krupke, Frank Hennrich, Hilbert v. Lohneysen, and Manfred M. Kappes, Science, vol. 301, Jul. 18, 2003, pp. 344-347. cited by other . | Article--Large-scale production of single-walled carbon nanotubes by the electric-arc technique, C. Journet, W. K. Maser, P. Bernier, A. Loiseau, M. Lamy de la Chapelle, S. Lefrant, P. Deniard, R. Lee and J. E. Fischer, Nature, vol. 388, Aug. 21, 1997, pp. 756-758. cited by other .
+	</str>
+	<str name="Other References Count">
+		19
+	</str>
+	<str name="Cites">
+		US6555945 | US5698175 | US20030090190 | US6582876 | US20030065206 | US20040232073 | US7008563 | US5227038 | US5641466 | US6641793 | US20030168385 | US6574130 | US6723299 | US7074310 | US6183714 | US6422450 | US20020192441
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		1390004 | 53079603
+	</str>
+	<str name="Priority Date">
+		2004-12-16 | 2003-12-18
+	</str>
+	<str name="Assignee(s)">
+		CLEMSON UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		CLEMSON UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Anderson, SC
+	</str>
+	<str name="Assignee(s) Address">
+		Anderson, SC
+	</str>
+	<str name="Inventor(s)">
+		SUN, YA-PING
+	</str>
+	<str name="1st Inventor">
+		SUN, YA-PING
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Clemson, SC
+	</str>
+	<str name="Inventor(s) Address">
+		Clemson, SC
+	</str>
+	<str name="Agent/Attorney">
+		DORITY &amp; MANNING, P.A.
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

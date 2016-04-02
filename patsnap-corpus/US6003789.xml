@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6003789
+	</str>
+	<str name="Application Number">
+		US08990748
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Nozzle for atomizing liquid in two phase flow
+	</str>
+	<str name="Abstract">
+		Mixing means, for producing a flow mixture of oil and steam, is combined with an atomizing nozzle to provide a nozzle assembly which produces a jet of very fine oil droplets. The nozzle assembly is used in conjunction with a reactor, such as a fluidized bed coker. The mixing means comprises a pipe, external of the reactor, having separate, spaced apart inlets for oil and steam. The steam inlet is upstream of the oil inlet. A reducing diameter nozzle is positioned in the pipe bore between the inlets, for accelerating the steam. The steam contacts the oil and turbulently moves down the pipe bore to produce what is known as a &quot;bubbly flow&quot; mixture. The mixture is fed to the nozzle, which is internal of the reactor. The nozzle has: an inlet; a first contraction section of reducing diameter for accelerating the flow, preferably to supersonic velocity, whereby the droplets are reduced in size; a diffuser section of expanding diameter wherein the mixture decelerates and a shock wave may be induced; a second contraction section operative to accelerate the mixture more than the first contraction section; and an orifice outlet for producing a jet or spray. The nozzle assembly has been shown to reduce droplet size from about 12,000 .mu.m to about 300 .mu.m.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1997-12-15
+	</str>
+	<str name="Application Year">
+		1997
+	</str>
+	<str name="Application(Year/Month)">
+		1997-12
+	</str>
+	<str name="Publication Date">
+		1999-12-21
+	</str>
+	<str name="Publication Year">
+		1999
+	</str>
+	<str name="Publication(Year/Month)">
+		1999-12
+	</str>
+	<str name="All IPC">
+		B05B7/04
+	</str>
+	<str name="IPC Primary">
+		B05B7/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05B
+	</str>
+	<str name="IPC Group">
+		B05B7
+	</str>
+	<str name="All UPC">
+		239/432 | 239/433 | 239/8 | 239/398 | 239/426 | 239/589
+	</str>
+	<str name="UPC Primary">
+		239/432
+	</str>
+	<str name="UPC Class">
+		239
+	</str>
+	<str name="Family Members">
+		US6003789
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References">
+		Propagation Velocity of Pressure Waves in Gas-Liquid Mixtures, Henry et al., pp. 1-6. | Osborne Reynolds and Engineering Science Today, Jack Allen et al., Manchester University Press, Barnes &amp; Noble, Inc., New York, pp. 152-154. | Elements of Gasdynamics, by H.W. Liepmann et al., Galcit Aeronautical Series, J. Aeronaut, Sci., 20 (1953), 617, pp. 131-136. | Compressible Fluid Flow, by Patrick H. Oosthuizen et al., The McGraw-Hill Companies, Inc., Chapter 8: Variable Area Flow, pp. 211-213.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		CN1927472A | US7025874 | US7140558 | US8193395 | CN100398218C | US6093310 | US6171476 | US6978942 | CN1403209A | CN1174813C | WO2002002932A1 | WO2001007169A1 | WO2007080084A1 | US6352639 | US7154931
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5300216 | US5004152 | US4086772 | US4824016 | US4103827 | US4650566 | US4134547 | US3565593 | US4426213 | US4097366 | US5108583 | US5092981 | EP0610853 | FI21827 | JP1989278618
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		99074897
+	</str>
+	<str name="Priority Date">
+		1997-12-15
+	</str>
+	<str name="Assignee(s)">
+		AEC OIL SANDS, L.P. (CALGARY, CA), AEC OIL SANDS LIMITED PARTNERSHIP (CALGARY, CA), ATHABASCA OIL SANDS INVESTMENTS INC. (CALGARY, CA), CANADIAN OCCIDENTAL PETROLEUM LTD. (CALGARY, CA), CANADIAN OIL SANDS INVESTMENTS INC. (CALGARY, CA), GULF CANADA RESOURCES LIMITED (CALGARY, CA), IMPERIAL OIL RESOURCES (CALGARY, CA), MOCAL ENERGY LIMITED (TOKYO, JP), MURPHY OIL COMPANY LTD. (CALGARY, CA), PETRO-CANADA
+	</str>
+	<str name="1st Assignee">
+		AEC OIL SANDS, L.P. (CALGARY, CA), AEC OIL SANDS LIMITED PARTNERSHIP (CALGARY, CA), ATHABASCA OIL SANDS INVESTMENTS INC. (CALGARY, CA), CANADIAN OCCIDENTAL PETROLEUM LTD. (CALGARY, CA), CANADIAN OIL SANDS INVESTMENTS INC. (CALGARY, CA), GULF CANADA RESOURCES LIMITED (CALGARY, CA), IMPERIAL OIL RESOURCES (CALGARY, CA), MOCAL ENERGY LIMITED (TOKYO, JP), MURPHY OIL COMPANY LTD. (CALGARY, CA), PETRO-CANADA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Calgary, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Calgary, CA
+	</str>
+	<str name="Inventor(s)">
+		BASE, TERENCE, E. | CHAN, EDWARD, W. | KENNETT, R., DOUGLAS | EMBERLEY, DOUGLAS, A.
+	</str>
+	<str name="1st Inventor">
+		BASE, TERENCE, E.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		London, CA
+	</str>
+	<str name="Inventor(s) Address">
+		London, CA | Edmonton, CA | Fort, McMurray, CA | Fort, McMurray, CA
+	</str>
+	<str name="Agent/Attorney">
+		MILLEN, WHITE, ZELANO &amp; BRANIGAN, P.C.
+	</str>
+	<str name="Primary Examiner">
+		KASHNIKOW, ANDRES
+	</str>
+	<str name="Assistant Examiner">
+		EVANS, ROBIN O.
+	</str>
+	<str name="cited by within 3 years">
+		8
+	</str>
+	<str name="cited by within 5 years">
+		10
+	</str>
+</doc>
+

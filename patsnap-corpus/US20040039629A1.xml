@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20040039629A1
+	</str>
+	<str name="Application Number">
+		US10336036
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Web based method and system for managing and transferring business information
+	</str>
+	<str name="Abstract">
+		In the general business environment, in order to keep track of the activities involved in selling, buying, or leasing a product, a business information managing and transferring system and method have been developed. In an embodiment of a business transaction system of the invention, several modules have been communicatively coupled to provide a complete and reliable system of tracking buyers' and sellers' activities and keeping an Agent informed and prepared at all times. The business managing and transferring system can be made accessible by users, such as agents, and can include a host server with communicatively adapted parts to manage and transfer business information.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-01-03
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-01
+	</str>
+	<str name="Publication Date">
+		2004-02-26
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-02
+	</str>
+	<str name="All IPC">
+		G06F17/60
+	</str>
+	<str name="IPC Primary">
+		G06F17/60
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		705/10 | 705/1
+	</str>
+	<str name="UPC Primary">
+		705/10
+	</str>
+	<str name="UPC Class">
+		705
+	</str>
+	<str name="Family Members">
+		US20040039629A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		33603603 | 31097902 | 31097602 | 31098202 | 31098102 | 38238702
+	</str>
+	<str name="Priority Date">
+		2003-01-03 | 2002-12-06 | 2002-12-06 | 2002-12-06 | 2002-12-06 | 2002-05-23
+	</str>
+	<str name="Inventor(s)">
+		KEVIN HOFFMAN | JIM ANZALONE | CHRIS CORMACK
+	</str>
+	<str name="1st Inventor">
+		KEVIN HOFFMAN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Gaithersburg,MD,US
+	</str>
+	<str name="Inventor(s) Address">
+		Gaithersburg,MD,US | Ashburn,VA,US | Ashburn,VA,US
+	</str>
+	<str name="Agent/Attorney">
+		FLESHNER &amp; KIM, LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

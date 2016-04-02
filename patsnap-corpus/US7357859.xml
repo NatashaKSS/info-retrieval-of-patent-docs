@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7357859
+	</str>
+	<str name="Application Number">
+		US11304145
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Methods and systems for membrane testing
+	</str>
+	<str name="Abstract">
+		A method for testing the integrity of a membrane includes steps of placing a magnetically susceptible material in a fluid upstream of the membrane, collecting the material downstream of the membrane using a magnetic field, and detecting the material using a sensor.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-15
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2008-04-15
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		B01D65/10 | B01D35/06
+	</str>
+	<str name="IPC Primary">
+		B01D65/10
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D65
+	</str>
+	<str name="All UPC">
+		210/87 | 210/85 | 210/93 | 210/96.1 | 210/223 | 73/38 | 210/222 | 210/295 | 210/143
+	</str>
+	<str name="UPC Primary">
+		210/87
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20030168408A1 | US20060124515A1 | US7011758 | US7357859
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		8
+	</str>
+	<str name="Other References">
+		&quot;The construction and commissioning of a 24 MGD ultrafiltration plant with on-line integrity testing to monitor and maintain the barrier to cryptoporidium sized particles,&quot; AWWA Conference (Mar. 2001). cited by other . | &quot;Predicting log removal performance of membrane systems using in-situ integrity testing,&quot; proceedings Annual Conference AWWA, 411-419 (1997). cited by other . | &quot;Advances in the Preparation of Magnetic Nanoparticles by the Microemulsion Method,&quot; Lopez et al., The Journal of Physical Chemistry B, vol. 101, No. 41, 8046-8047 (Oct. 9, 1997). cited by other . | &quot;The Water Supply (Water Quality) (Amendment) Regulations 1999: Cryptosporidium in Water Suppliers,&quot; Drinking Water Inspectorate: Information Letter, http://www.dwi.gov.uk/regs/infolett/1999/info1699.html, (2001). cited by other . | &quot;Continuous Cultivation and Recovery of Magnetotactic Bacteria,&quot; Bahaj et al., IEEE Transactions on Magnetics, vol. 33, #5, 4263-265 (Sep. 1997). cited by other . | &quot;Field Evaluation of Ceramic Microfiltration Membranes in Drinking Water Treatment,&quot; Rajagopalan, et al. AWWA Membrane Technology Conference Proceedings, 1-22 (2001). cited by other . | &quot;Rapid Selective Ferrographic Enumeration of Bacteria ,&quot; Zhang et al., Journal of Magnetism and Magnetic Materials 194 (1999), 267-274. cited by other . | &quot;Preparation and Characterization of Magnetically Active Polymeric Particles (MAPPs) for Complex Environmental Separations,&quot; Leun et al., Environ. Science and Technology, 34, 3276-3282 (2000). cited by other . | &quot;Integrity of membrane elements, vessels and systems,&quot; Nederlof, et al., Desalination , 113, 179-181 (1997). cited by other . | &quot;A Biosensor Based on Magnetoresistance Technology,&quot; Baselt et al., Biosensors &amp; Bioelectronics, 13, 731-739 (1998). cited by other . | &quot;Membrane Integrity Monitoring at the UF/RO Heemskerk Plant,&quot; Kruithof et al., AWWA., Membrane Conference Proceedings, 1-9, (2001). cited by other . | &quot;A high-Sensitivity Micromachined Biosensor,&quot; Baselt et al., Proceedings of the IEEE, vol. 85, #4, 672-681 (Apr. 1997). cited by other . | &quot;Low pressure membranes: assessing integrity,&quot; Adham et al., Journal AWWA, 62-75 (Mar. 1995). cited by other . | &quot;Monitoring of reverse osmosis for virus injection,&quot; Adham, et al., Proc.--Water Qual. Technol. Conf., 601-611 (1998). cited by other . | &quot;Development of an innovative method to monitor the integrity of a membrane water repurification system,&quot; Gagliardo et al., Metropolitan Wastewater Department, Montgomery Watson, School of Public Health, pp. 1-33. (1999). cited by other. | &quot;Magnetic Bioseparations,&quot; Chapter 13,Garcia et al., Bioseparation Process Science, Blackwell Science, Inc. MA, 299-314 (1999). cited by other . | &quot;A Magnetic Sensor for Predicting Seafloor Oxygen Depletion,&quot; Solan et al., J. Marine. Environ. Eng., vol. 5m pp. 239-255 (1999). cited by other . | &quot;Improvement of the Immunomagnetic Seperation Method Selective for E. Coli O157 Strains,&quot; Tooyasu, Applied and Environmental Microbiology, 376-382 (Jan. 1998). cited by other . | &quot;Automatic monitoring of membrane integrity in microfiltration systems,&quot; Johnson, Desalination 113, 303-307 (1997). cited by other . | &quot;Ultra- and microfiltration pilot plant investigations to treat reservoir water,&quot; Desalination 119, 277-288 (1998). cited by other . | &quot;Monitoring the integrity of capillary membranes by particle counters,&quot; Panglisch et al., Desalination 119, 65-72 (1998). cited by other . | &quot;Development of a new on-line membrane integrity testing system,&quot; van Hoof et al., American Water Works Association, Membrane Conference Proceedings, pp. 1-11, 2001. cited by other . | &quot;Comparing Laser Turbidimetry with Conventional Methods for Monitoring MF and UF Membrane Integrity,&quot; Colvin et al., AWWA Membrane Conference Proceedings, B-1-B-18, (2001). cited by other . | &quot;Feasibility Study on Separation of Several Tens Nanometer Scale Particles by Magnetic Field-Flow-Fractionation Technique Using Superconducting Magnet,&quot; Tsukamoto et al., IEEE Transactions on Applied Superconductivity, vol. 5, No. 2, 311-314 (Jun. 1995). cited by other . | &quot;Mass Culture of Magnetic Bacteria and Their Application to Flow Type Immunoassays&quot;, Matsunaga et al., IEEE Transactions on Magnetics, vol. 26, #5, 1557-1559, (Sep. 1990). cited by other . | &quot;Magnetic Resonance Imaging of the Filtration Process,&quot; Dirckx et al., AIChE Journal, vol. 46., #1, 6-14, (Jan. 2000). cited by other . | &quot;High Gradient Magnetic Separation of Motile and Non-Motile Magnetotactic Bacteria,&quot; Bahaj et al., IEEE Transactions on Magnetics, vol. 32, No. 5, 5106, 5108, (Sep. 1996). cited by other . | &quot;Assessing the reliability of low pressure membrane systems for microbial removal,&quot; Adham, et al., Crit Issues Water Wastewater Treat., Proc.Natl.Conf.Environ.Eng., 313-319 American Society of Civil Engineers (1994). cited by other . | &quot;Magnetic Separation of Nanoparticles,&quot; Kelland, IEEE Trans. on Magnetics, vol. 34, No. 4, 2123-2125 (Jul. 1998). cited by other .
+	</str>
+	<str name="Other References Count">
+		29
+	</str>
+	<str name="Cited By">
+		US7777176 | US7698928 | US8272251
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US5477155 | US6743365 | US6386053 | US5282380 | US5980479 | US4454234 | US5581017 | US5714059 | US5053344 | US6451207 | US4784762 | US4954002 | US6077332
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		30414505 | 36424403 | 35590202
+	</str>
+	<str name="Priority Date">
+		2005-12-15 | 2003-02-11 | 2002-02-11
+	</str>
+	<str name="Assignee(s)">
+		THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS
+	</str>
+	<str name="1st Assignee">
+		THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Urbana, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Urbana, IL
+	</str>
+	<str name="Inventor(s)">
+		RAJAGOPALAN, NANDAKISHORE | RUSK, TODD, N. | SANFORD, ROBERT, A.
+	</str>
+	<str name="1st Inventor">
+		RAJAGOPALAN, NANDAKISHORE
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Champaign, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Champaign, IL | Champaign, IL | Champaign, IL
+	</str>
+	<str name="Agent/Attorney">
+		GREER, BURNS &amp; CRAIN, LTD.
+	</str>
+	<str name="Primary Examiner">
+		REIFSNYDER, DAVID A
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

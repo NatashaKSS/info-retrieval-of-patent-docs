@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7595001
+	</str>
+	<str name="Application Number">
+		US10533980
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for the treatment of saline water
+	</str>
+	<str name="Abstract">
+		A process and an apparatus are described for treating seven types of saline waters each having a concentration of total dissolved solids exceeding 1 g/L, wherein the concentration of total dissolved solids, the ratio of the chloride ion concentration to the bicarbonate ion concentration and the ratio of the chloride ion concentration to the sulphate ion concentration of each of the water types are as indicated in Table 1. The process includes the steps of contacting the water with a first reagent comprising a source of calcium ions selected from calcium oxide and calcium hydroxide to form a first solid product which is recovered. The process includes a further step of subjecting at least a portion of the partially processed water to at least partial evaporation so as to promote the formation of a precipitate and a mother liquor. The precipitate is recovered as a second product.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-08-27
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-08
+	</str>
+	<str name="Publication Date">
+		2009-09-29
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		C02F1/58
+	</str>
+	<str name="IPC Primary">
+		C02F1/58
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/652 | 210/726 | 210/638 | 210/724 | 423/184 | 423/158 | 210/710
+	</str>
+	<str name="UPC Primary">
+		210/652
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060196836A1 | US7595001 | WO2004041731A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Schofield, S. et al. 1998 &quot;Sodium-bicarbonate waters--the danger of artesian flow from boreholes in the Ballimore region, central NSW&quot; Groundwater Sustainable Solutions, International Groundwater Conference IAH, University of Melbourne. cited by other . | (2000) &quot;Technology for complex waste-free processing of natural saline waters with obtaining fresh water and valuable mineral products&quot; from Vernadsky Institute of Geochemistry and Analytical Chemistry, Russian Academy of Sciences. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US4336232 | US6342127 | US2342666 | US4423009 | US2793099 | US4392959 | US7198722 | US4188291 | US4956157 | US4180547 | US3350292 | US4036749 | US20030080066 | US3676067 | US5221528 | US4059513 | DE3913044 | AU641871 | AU677563 | CN1112905 | JP2000325945 | JP1979029879
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Priority Country">
+		AU | AU
+	</str>
+	<str name="Priority Number">
+		2002952478 | 2002953007
+	</str>
+	<str name="Priority Date">
+		2002-11-05 | 2002-11-28
+	</str>
+	<str name="Assignee(s)">
+		GEO-PROCESSORS USA, INC.
+	</str>
+	<str name="1st Assignee">
+		GEO-PROCESSORS USA, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Glendale, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Glendale, CA
+	</str>
+	<str name="Inventor(s)">
+		ARAKEL, AHARON | TIAN, HONGJUN | STAPLETON, LANCE, JAMES
+	</str>
+	<str name="1st Inventor">
+		ARAKEL, AHARON
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Pennant, Hills, AU
+	</str>
+	<str name="Inventor(s) Address">
+		Pennant, Hills, AU | Carlingford, AU | Cronulla, AU
+	</str>
+	<str name="Agent/Attorney">
+		KNOBBE MARTENS OLSON &amp; BEAR LLP
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

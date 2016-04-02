@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120109943A1
+	</str>
+	<str name="Application Number">
+		US12/938310
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Adaptive Image Retrieval Database
+	</str>
+	<str name="Abstract">
+		Adaptive image retrieval image allows retrieval of images that are more likely to reflect a current trend of user preferences and/or interests, and therefore can provide relevant results to an image search. Adaptive image retrieval includes receiving image query log data from one or more clients, and updating a codebook of features based on the received query log data. The image query log data includes images that have been queried by the one or more clients within a predetermined period of time.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-11-02
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-11
+	</str>
+	<str name="Publication Date">
+		2012-05-03
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-05
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/723 | 707/769 | 707/802 | 707/E175 | 707/E17.03
+	</str>
+	<str name="UPC Primary">
+		707/723
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond,WA,US
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond,WA,US
+	</str>
+	<str name="Inventor(s)">
+		YANG LINJUN | TIAN QI | NI BINGBING
+	</str>
+	<str name="1st Inventor">
+		YANG LINJUN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Beijing,CN
+	</str>
+	<str name="Inventor(s) Address">
+		Beijing,CN | Helotes,TX,US | Singapore,SG
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

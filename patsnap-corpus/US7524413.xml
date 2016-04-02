@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7524413
+	</str>
+	<str name="Application Number">
+		US11/304348
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for treating fluids
+	</str>
+	<str name="Abstract">
+		A method and apparatus for treating a fluid to destroy, remove, or reduce undesirable agents, such as microorganisms, particles or ions, contained in the fluid and/or to inhibit the formation of scale are disclosed. The invention includes an apparatus for treating a fluid to destroy, remove, or reduce undesirable agents, such as microorganisms, particles, or ions, contained in the fluid and/or to inhibit the formation of scale. The apparatus can include an open fluid directional means or conduit. The preferred open fluid directional means is a conduit manufactured of resilient, corrosion-resistant material. The apparatus is attached to a power source and has a controller means. The controller means is desirably a microprocessor and can include a switching means for regulating the current to the apparatus. However, simpler circuits and components can be used for the controller means. The apparatus includes a field generating means. The field generating means forms a treatment field. The treatment field is a magnetic field and/or an electrical field in an effective dose sufficient to treat the fluid. The effective dose is determined by the exposure time(s) and strength(s) of the treatment field(s) and the concentration of contaminants present in the fluid subjected to the treatment.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-15
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2009-04-28
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		B01D17/12 | C02F1/48
+	</str>
+	<str name="IPC Primary">
+		B01D17/12
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D17
+	</str>
+	<str name="All UPC">
+		210/143 | 204/660 | 204/661 | 210/222 | 210/243
+	</str>
+	<str name="UPC Primary">
+		210/143
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		AU2005314397A1 | US20060124557A1 | US20070295671A1 | US20090229982A1 | WO2006062784B1 | DE602005012542D1 | AU2005314397B2 | WO2006062784A3 | WO2006062784A2 | AT421487T | US7524413 | US7524423 | US7524424 | EP1819641A2 | US20070051685A1 | US20090236294A1 | EP1819641B1 | HK1107079A1
+	</str>
+	<str name="Family Member Count">
+		18
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Clearwater Systems LLC website, &quot;Chemical-Free Treatment of Recirculating Water Using Pulsed-Power&quot;. cited by other | Goldsworthy et al., &quot;Biological Effects of Physically Conditioned Water&quot;, Biology Dept., Imperial College of Science Technology and Medicine, vol. 33, No. 7, pp. 1618-1626, 1999. cited by other | Baker et al., &quot;Magnetic Amelioration of Scale Formation&quot;, School of Water Sciences, Cranfield University, vol. 30, No. 2, pp. 247-260, 1996. cited by other | Donaldson et al., &quot;Lifting the Scales from our Pipes&quot;, New Scientist 18, Feb. 1988. cited by other | Lane, John et al., &quot;Condenser Water Treatment Using Pulsed Power,&quot; 2003 Cooling Technology Institute Annual Conference, San Antonio, TX. cited by other.
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cites">
+		US5702600 | US6063267
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		30434805 | 19245205 | 63495904
+	</str>
+	<str name="Priority Date">
+		2005-12-15 | 2005-07-27 | 2004-12-10
+	</str>
+	<str name="Assignee(s)">
+		CLEARWATER SYSTEMS CORPORATION
+	</str>
+	<str name="1st Assignee">
+		CLEARWATER SYSTEMS CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Essex, CT
+	</str>
+	<str name="Assignee(s) Address">
+		Essex, CT
+	</str>
+	<str name="Inventor(s)">
+		WITTMER, KENNETH, E. | CREWSON, WALTER, F., J. | LANE, JOHN, W.
+	</str>
+	<str name="1st Inventor">
+		WITTMER, KENNETH, E.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Newtown, CT
+	</str>
+	<str name="Inventor(s) Address">
+		Newtown, CT | Ridgefield, CT | Finksburg, MD
+	</str>
+	<str name="Agent/Attorney">
+		MICHAUD-DUFFY GROUP LLP
+	</str>
+	<str name="Primary Examiner">
+		REIFSNYDER, DAVID A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

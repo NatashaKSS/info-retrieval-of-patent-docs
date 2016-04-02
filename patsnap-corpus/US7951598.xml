@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7951598
+	</str>
+	<str name="Application Number">
+		US12328890
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Differential hemolysis of a whole blood sample
+	</str>
+	<str name="Abstract">
+		The invention relates to a method for differentially hemolyzing whole blood. It discloses methods for detecting an analyte in a liquid sample known or suspected to contain red blood cells and suspected or known to contain eukaryotic cells, the method including the steps of processing the liquid sample with a membrane solubilizing agent under conditions appropriate to lyse cell membranes of red blood cells and at the same time not to cause precipitation of sample constituents, subjecting the processed sample to a chromatographic separation, and detecting the analyte. The differential hemolysis of red blood cells is of advantage in a method of detecting an analyte in a liquid sample that may contain both erythrocytes and nucleated cells. The differential solubilization of red blood cells can be easily combined with an online detection methodology, like LC-MS, and is advantageous in the detection of many analytes, e.g. in the detection of folate or of immunosuppressive drugs, like tacrolimus or sirolimus.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-12-05
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-12
+	</str>
+	<str name="Publication Date">
+		2011-05-31
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-05
+	</str>
+	<str name="All IPC">
+		G01N33/48
+	</str>
+	<str name="IPC Primary">
+		G01N33/48
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N33
+	</str>
+	<str name="All UPC">
+		436/161 | 436/63 | 436/174 | 436/173 | 250/282 | 210/656
+	</str>
+	<str name="UPC Primary">
+		436/161
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Murthy, J. et al., &quot;Tacrolimus Metabolite Cross-Reactivity in Different Tacrolimus Assays,&quot; Clinical Biochemistry 31:8 (1998) 613-617. cited by other . | Gunter, E. et al., &quot;Results of an international round robin for serum and whole-blood folate,&quot; Clinical Chemistry 42:10 (1996) 1689-1694. cited by other . | &quot;Therapeutic drug monitoring--is it important for newer immunosuppressive agents?&quot; Durg Ther Persp 17:22 (2001) 8-12. cited by other . | Sarapuk, J. et al., &quot;Influence of Counterions on the Interaction of Pyridinium Salts with Model Membranes,&quot; Z. Naturforschung 54c (1999)952-955. cited by other . | Pfeiffer, C. et al., &quot;Determination of Folate Vitamers in Human Serum by Stable-Isotope-Dilution Tandem Mass Spectrometry and Comparison with Radioassay and Microbiologic Assay,&quot; Clinical Chemistry 50:2 (2004) 423-432. cited by other . | Boyer, S. et al., &quot;Enrichment of Erythrocytes of Fetal Origin From Adult-Fetal Blood Mixtures via Selective Hemolyis of Adult Blood Cells: An Aid to Antenatal Diagnostics of Hemoglobinopathies,&quot; Blood 47:6 (Jun. 1976) 883-897. cited by other . | Koal, T. et al., &quot;Simultaneous determination of four immunosuppressants by means of high speed and robust on-line solid phase extraction-high performance liquid chromatography-tandem mass spectrometry,&quot; Journal of Chromatography B 805 (2004) 215-222. cited by other . | Jones, K. et al., &quot;An Immunoassay for the Measurement of Sirolimus,&quot; Clinical Therapeutics 22: Suppl B (2000) B49-B61. cited by other . | Greiling, H. and Gressner, A. M., Lehrbuch der Klinischen Chemie und Pathobiochemie, 3rd Edition, 1995, pp. 460-462, Schattauer, Stuttgart-New York. cited by other. | Yang, Z. et al., &quot;Immunosuppressants&quot; Pharmacokinetics, methods of monitoring and role of high performance liquid chromatography/mass spectrometry, Clinical and Applied Immunology Reviews 5 (2005) 405-430. cited by other . | Fazili, Z. et al., &quot;Erythrocyte Folate Extraction and Quantitative Determination by Liquid Chromatography-Tandem Mass Spectrometry: Comparison of Results with Microbiologic Assay,&quot; Clinical Chemistry 51:12 (2005) 2318-2325. cited by other .
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6723236 | US4286963 | US6322695 | US6428704 | US4056468 | US6451609 | US4529705 | US5882934 | US6864100 | US5316951 | US5292663 | US6043032 | US6050956 | US5874310 | JP2001081424 | EP1103812 | EP0185048 | WO2002101087 | EP0794435 | EP0185170 | WO1999067647 | EP0305491 | EP0874988 | EP1000356
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		06011604
+	</str>
+	<str name="Priority Date">
+		2006-06-06
+	</str>
+	<str name="Assignee(s)">
+		ROCHE DIAGNOSTICS OPERATIONS, INC.
+	</str>
+	<str name="1st Assignee">
+		ROCHE DIAGNOSTICS OPERATIONS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Indianapolis, IN
+	</str>
+	<str name="Assignee(s) Address">
+		Indianapolis, IN
+	</str>
+	<str name="Inventor(s)">
+		KOBOLD, UWE | DUELFFER, THOMAS | HERRMANN, RUPERT | VON, DER, ELTZ, HERBERT
+	</str>
+	<str name="1st Inventor">
+		KOBOLD, UWE
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Weilheim, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Weilheim, DE | Weilheim, DE | Weilheim, DE | Weilheim, DE
+	</str>
+	<str name="Primary Examiner">
+		WALLENHORST, MAUREEN M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

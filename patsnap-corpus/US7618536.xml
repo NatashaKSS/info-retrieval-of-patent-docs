@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7618536
+	</str>
+	<str name="Application Number">
+		US12106001
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of treating a marine object
+	</str>
+	<str name="Abstract">
+		A method for eliminating alien species and undesirable organisms from ballast water of a marine vessel. Ballast water (204) is injected into a container (202). An organic substance is added to the ballast water. Heterotrophic organisms (219) in the ballast water reproduce and consume the organic substance (218). The heterotrophic organisms substantially reduce the oxygen level in the ballast water compared to the oxygen level of untreated ballast water. The alien species and undesirable organisms die due to lack of oxygen.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-04-18
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-04
+	</str>
+	<str name="Publication Date">
+		2009-11-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/242.2 | 210/610
+	</str>
+	<str name="UPC Primary">
+		210/242.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080190864A1 | US7618536 | WO2009128770A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5770188 | US20060151386 | EP0869159 | WO2000077102 | WO2001094479
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		US | SE | US | US
+	</str>
+	<str name="Priority Number">
+		10600108 | 0301362 | 86845107 | 52659605
+	</str>
+	<str name="Priority Date">
+		2008-04-18 | 2003-09-03 | 2007-10-05 | 2005-03-04
+	</str>
+	<str name="Assignee(s)">
+		EKOMARINE AB
+	</str>
+	<str name="1st Assignee">
+		EKOMARINE AB
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Nacka, SE
+	</str>
+	<str name="Assignee(s) Address">
+		Nacka, SE
+	</str>
+	<str name="Inventor(s)">
+		HAEFFNER, MIKAEL | ERICSSON, CLAES, TARRAS
+	</str>
+	<str name="1st Inventor">
+		HAEFFNER, MIKAEL
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Stockholm, SE
+	</str>
+	<str name="Inventor(s) Address">
+		Stockholm, SE | Saltsjo-Boo, SE
+	</str>
+	<str name="Agent/Attorney">
+		FASTH, ROLF FASTH LAW OFFICES
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

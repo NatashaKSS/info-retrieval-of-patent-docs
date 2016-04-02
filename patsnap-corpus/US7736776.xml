@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7736776
+	</str>
+	<str name="Application Number">
+		US11732655
+	</str>
+	<str name="Title">
+		Method and system for removal of ammonia from wastewater by electrolysis
+	</str>
+	<str name="Abstract">
+		A method and system are described to treat ammonia-containing wastewater or process waters. Sewage containing human or animal waste and certain process liquids, typically water, contains high levels of nitrogen in the form of ammonia. An electro-chemical method to extract the ammonia from the wastewater is also described. The system described is one implementation of this method. One or more electrolysis cells convert ammonium to ammonia where the generated ammonia gas can readily be extracted for disposal or reuse. Such a system can involve electrolysis cells of numerous types as described herein.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-04-04
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-04
+	</str>
+	<str name="Publication Date">
+		2010-06-15
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		B01D59/00
+	</str>
+	<str name="IPC Primary">
+		B01D59/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D59
+	</str>
+	<str name="All UPC">
+		210/748.01
+	</str>
+	<str name="UPC Primary">
+		210/748.01
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7211550 | US5539209 | US6290778 | US20060021942 | US6083377 | US4855023 | DE3532573 | JP1991215700
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Inventor(s)">
+		SPIELMAN, RICK, B. | SUMMERS, LINK, E.
+	</str>
+	<str name="1st Inventor">
+		SPIELMAN, RICK, B.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tijeras, NM
+	</str>
+	<str name="Inventor(s) Address">
+		Tijeras, NM | Taos, NM
+	</str>
+	<str name="Agent/Attorney">
+		WRAY, JAMES CREIGHTON NARASIMHAN, MEERA P.
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

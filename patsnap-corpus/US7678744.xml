@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7678744
+	</str>
+	<str name="Application Number">
+		US11294815
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Hydrocarbon industry servicing fluid and methods of performing service operations
+	</str>
+	<str name="Abstract">
+		A hydrocarbon industry servicing fluid comprises an irradiated fluid that is biologically inert. The fluid may be irradiated with ultraviolet light. A method comprises performing a hydrocarbon industry service operation with an irradiated fluid that is biologically inert. The method may comprise disposing of the irradiated fluid to the environment or capturing the irradiated fluid when the service operation is complete. The method may further comprise re-irradiating the captured irradiated fluid to produce a remediated fluid, and performing a service operation with the remediated fluid.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-12-06
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2010-03-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		C09K8/68
+	</str>
+	<str name="IPC Primary">
+		C09K8/68
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C09
+	</str>
+	<str name="IPC Subclass">
+		C09K
+	</str>
+	<str name="IPC Group">
+		C09K8
+	</str>
+	<str name="All UPC">
+		210/501 | 210/637 | 507/200
+	</str>
+	<str name="UPC Primary">
+		210/501
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Patent application entitled &quot;Irradiation System and Methods of Treating Fluids in Hydrocarbon Industry Applications,&quot; by Laurence J. Abney, et al., filed Dec. 6, 2005, as U.S. Appl. No. 11/295,382. cited by other . | Foreign communication from a related counterpart application--Russian examination report for RU 2008127391/15 (033579), Oct. 2, 2009, 8 pages. cited by other. | Patent application entitled &quot;Devices and Processes for Removal of Impurities from a Fluid Recovered from a Subterranean Environment&quot; by Hanes, Jr., et al., filed Feb. 22, 2005, as U.S. Appl. No. 11/062,963 (not attached). cited by other . | Foreign communication related to a counterpart application dated Feb. 19, 2007. cited by other . | Excerpts from the website of HOH Water Technology A/S, The HOH Group, http://www.hoh.com, printed Nov. 15, 2005 (31 pages). cited by other . | XP-001116576 &quot;Pollutant Treatment Process Cuts Water Storage Requirement&quot; by Paul Eastaugh. cited by other . | Patent application entitled &quot;Devices and Processes for Removal of Impurities from a Fluid Recovered from a Subterranean Environment&quot; by Hanes, Jr., et al, filed Feb. 22, 2005, as U.S. Appl. No. 11/063,307 (not attached). cited by other . | Ballast Water Treatment System, The Alfa Laval Ballast Water Treatment System, Nov. 2004 (6 pages). cited by other .
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6923264 | US6913080 | US20060226077 | US6911419 | US6683313 | US6488091 | US6214773 | US5799734 | US5597482 | US6796436 | US20030148527 | US6640898 | WO2004090284
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Assignee(s)">
+		HALLIBURTON ENERGY SERVICES, INC.
+	</str>
+	<str name="1st Assignee">
+		HALLIBURTON ENERGY SERVICES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Duncan, OK
+	</str>
+	<str name="Assignee(s) Address">
+		Duncan, OK
+	</str>
+	<str name="Inventor(s)">
+		ABNEY, LAURENCE, J. | PIRIE, GRAEME, W. | HUNTER, TIM | SLABAUGH, BILLY | CASE, LEONARD
+	</str>
+	<str name="1st Inventor">
+		ABNEY, LAURENCE, J.
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Sandnes, NO
+	</str>
+	<str name="Inventor(s) Address">
+		Sandnes, NO | Rio, de, Janeiro, BR | Duncan, OK | Duncan, OK | Duncan, OK
+	</str>
+	<str name="Agent/Attorney">
+		WUSTENBERG, JOHN W. CONLEY ROSE, P.C.
+	</str>
+	<str name="Primary Examiner">
+		KUGEL, TIMOTHY J.
+	</str>
+	<str name="Assistant Examiner">
+		ADMASU, ATNAF
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

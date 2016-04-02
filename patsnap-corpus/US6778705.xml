@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6778705
+	</str>
+	<str name="Application Number">
+		US09794443
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Classification of objects through model ensembles
+	</str>
+	<str name="Abstract">
+		A method for classification of objects in video image data. The method including the steps of: detecting moving objects in the image data; extracting two or more features from each detected moving object in the image data; classifying each moving object for each of the two or more features according to a classification method; and deriving a classification for each moving object based on the classification method for each of the two or more features. Also provided is an apparatus for classification of objects in video image data.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-02-27
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-02
+	</str>
+	<str name="Publication Date">
+		2004-08-17
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-08
+	</str>
+	<str name="All IPC">
+		G06K9/62
+	</str>
+	<str name="IPC Primary">
+		G06K9/62
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/190 | 382/224 | 382/227
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		WO2004069267A3 | EP1421557A2 | US20020181785A1 | US6778705 | WO2002069267A2 | JP2004523840A | CN1561503A
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Battiti R., et al., &quot;Democracy in Neural Nets: Voting Schems for Classification&quot;, Neural Network, vol. 7, No. 44, pp. 691-707, 1994. | Dobnikar &quot;Tracking and classifying 3D objects from TV pictures a neural network approach&quot;, IEEE, pp. 313-324, 1991.* | Donohoe &quot;Combining segmentation and tracking for the classification of moving objects in video scenes&quot;, IEEE, pp. 533-537, 1988.* | Raja Y., et al., &quot;Segmentation and Tracking Using Color Mixture Models&quot;, Proceedings of the 3.sup.rd Asian Conference on Computer Vision, vol. I, pp. 607-614, Hong Kong, China, 1/98. | Elgammal A., et al., &quot;Non-parametric Model for Background Subtraction&quot;, European Conference on Computer Vision (ECCV) 2000, Dublin Ireland, Jun. 2000. | Le Roux, &quot;An Overview of Moving Object Segmentation in Video Images&quot;, Communications and Signal Processing, IEEE, Aug. 1991, pp. 53-57. | Gutta, &quot;Face Recognition Using Hybrid Classifiers&quot;, Pattern Recognition, Pergamon Press Inc., vol. 30, No. 4, Apr. 1997, pp. 539-553. | Kittler J., et al., &quot;Combining Classifiers&quot;, Proceedings of ICPR, vo. II, Track B Pattern Recognition and Signal Analysis, pp. 897-901, Aug. 25-29, 1996. | Lim, et al. (Moving Object Classification in a Domestic Environment using Quadratic Neural Networks, IEEE, pp. 375-383, 1994.* | Lipton, et al. &quot;Moving target classification and tracking from real-time video&quot;, IEEE, pp. 8-14, 1998.*
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cites">
+		US6678413 | US5699119 | US6606412 | US5862508 | US5854856 | US6263088 | GB2266638
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		79444301
+	</str>
+	<str name="Priority Date">
+		2001-02-27
+	</str>
+	<str name="Assignee(s)">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="1st Assignee">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Eindhoven, NL
+	</str>
+	<str name="Assignee(s) Address">
+		Eindhoven, NL
+	</str>
+	<str name="Inventor(s)">
+		GUTTA, SRINIVAS | PHILOMIN, VASANTH
+	</str>
+	<str name="1st Inventor">
+		GUTTA, SRINIVAS
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Buchanan, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Buchanan, NY | New, York, NY
+	</str>
+	<str name="Agent/Attorney">
+		THORNE, GREGORY L.
+	</str>
+	<str name="Primary Examiner">
+		MARIAM, DANIEL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

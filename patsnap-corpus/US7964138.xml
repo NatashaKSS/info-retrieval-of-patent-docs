@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7964138
+	</str>
+	<str name="Application Number">
+		US12095388
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		On-demand portable chlorine dioxide generator
+	</str>
+	<str name="Abstract">
+		An on-demand portable chlorine dioxide generator has a reagent bound medium in a first enclosed volume; a complementary reagent solution in a second enclosed volume, and a structure for selecting between a first position where the complementary reagent solution is forced through the reagent bound medium and a second position where said complementary reagent solution remains isolated from the reagent bound ion exchange medium, where a ClO2 solution is generated only during periods when the structure for forcing is actuated. The ClO2 solution can be discharged for use as a portable sprayer that can be used to treat surfaces infected by anthrax or other biological contaminants. When the bound reagent is chlorite, the complementary reagent is an acid or an oxidant. When the bound reagent is an acid or an oxidant, the complementary reagent solution is a chlorite solution.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-11-29
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-11
+	</str>
+	<str name="Publication Date">
+		2011-06-21
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+	<str name="All IPC">
+		C01B11/02
+	</str>
+	<str name="IPC Primary">
+		C01B11/02
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C01
+	</str>
+	<str name="IPC Subclass">
+		C01B
+	</str>
+	<str name="IPC Group">
+		C01B11
+	</str>
+	<str name="All UPC">
+		422/29 | 422/236 | 422/305 | 210/673 | 422/120 | 423/477 | 422/37 | 422/501
+	</str>
+	<str name="UPC Primary">
+		422/29
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Griffith, &quot;The Bromine-bromide-tribromide equilibrium&quot;, p. 8. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US20030077216 | US4731192 | US7811532 | US20050196337 | US20030064018 | US6962268 | US4504442 | US20040000338 | US6920904 | US20040253140 | US5197636 | US20040062680 | US20040241065 | US6343476 | US6418965 | US4247531 | US4681739 | US4889654 | US20030213521 | US20040183050 | US3684437 | US6494343 | CA2479215 | EP0673878
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF FLORIDA RESEARCH FOUNDATION, INC.
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF FLORIDA RESEARCH FOUNDATION, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Gainesville, FL
+	</str>
+	<str name="Assignee(s) Address">
+		Gainesville, FL
+	</str>
+	<str name="Inventor(s)">
+		RICHARDSON, DAVID, E. | DENEVAN, DANIEL | RAMDON, DWIGHT, C.
+	</str>
+	<str name="1st Inventor">
+		RICHARDSON, DAVID, E.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Gainesville, FL
+	</str>
+	<str name="Inventor(s) Address">
+		Gainesville, FL | Gainesville, FL | Kingston, JM
+	</str>
+	<str name="Agent/Attorney">
+		SALIWANCHIK, LLOYD &amp; EISENSCHENK
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		SASAKI, SHOGO
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

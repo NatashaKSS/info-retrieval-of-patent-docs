@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7670456
+	</str>
+	<str name="Application Number">
+		US10556864
+	</str>
+	<str name="Title">
+		Method and device for treating water
+	</str>
+	<str name="Abstract">
+		In a multi-effect falling-film evaporator, purified water for special purposes is produced. In each effect, a steam phase and a water phase is produced from the feed water. The steam phase is used for heating in the subsequent effect, whereby it condenses to product water, and the water phase becomes the feed stream for the subsequent effect. A reject stream is removed from the process to carry off impurities separated from the water. According to the invention, a reject stream is removed from each effect. Preferably, each reject stream is a condensed fraction of the steam generated in the respective effect.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-05-14
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-05
+	</str>
+	<str name="Publication Date">
+		2010-03-02
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		B01D1/26 | B01D1/22 | C02F1/04 | B01D3/28
+	</str>
+	<str name="IPC Primary">
+		B01D1/26
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D1
+	</str>
+	<str name="All UPC">
+		202/182 | 202/174 | 159/17.1 | 159/49 | 203/72 | 203/10 | 202/236 | 159/13.2
+	</str>
+	<str name="UPC Primary">
+		202/182
+	</str>
+	<str name="UPC Class">
+		202
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Hemming, Werner, &quot;Verfahrenstechnik,&quot; p. 145, Wurzburg: Vogel, 1984. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5972171 | US3099607 | US5391262 | US6656327 | US4330373 | US3849259 | US3875017 | US4698138 | US3099697 | US4018656 | US5853549 | US5409576 | US4166773 | US4167437 | US3926739 | US3897314 | US4981555 | US4938868 | US3878054 | WO2002024299 | FI79790 | EP0610505 | DE19928064 | WO2004020066 | JP1998328501 | CA2236479
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		FI
+	</str>
+	<str name="Priority Number">
+		20030735
+	</str>
+	<str name="Priority Date">
+		2003-05-16
+	</str>
+	<str name="Assignee(s)">
+		STERIS EUROPE INC. SUOMEN SIVULIIKE
+	</str>
+	<str name="1st Assignee">
+		STERIS EUROPE INC. SUOMEN SIVULIIKE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tuusula, FI
+	</str>
+	<str name="Assignee(s) Address">
+		Tuusula, FI
+	</str>
+	<str name="Inventor(s)">
+		NURMINEN, TEPPO | SALMISUO, MAURI
+	</str>
+	<str name="1st Inventor">
+		NURMINEN, TEPPO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Vantaa, FI
+	</str>
+	<str name="Inventor(s) Address">
+		Vantaa, FI | Tuusula, FI
+	</str>
+	<str name="Agent/Attorney">
+		KUSNER &amp; JAFFE CENTANNI, MICHAEL A.
+	</str>
+	<str name="Primary Examiner">
+		MANOHARAN, VIRGINIA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

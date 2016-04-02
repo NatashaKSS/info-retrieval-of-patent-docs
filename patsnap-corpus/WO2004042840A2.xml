@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2004042840A2
+	</str>
+	<str name="Application Number">
+		PCT/US2003/030707
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		QUERY BASED ELECTRONIC BATTERY TESTER
+	</str>
+	<str name="Abstract">
+		An electronic battery tester (16) for testing a storage battery (12) provides a test output (11) indicative of condition of the battery. Electronic measurement circuitry (2) provides a measurement output related to a condition of the battery. The battery condition fis determined based upon one or more responses to one or more queries provided to an operator. The responses are used to determine battery type.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-09-30
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-09
+	</str>
+	<str name="Publication Date">
+		2004-05-21
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-05
+	</str>
+	<str name="All IPC">
+		H01M/
+	</str>
+	<str name="IPC Primary">
+		H01M/
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M
+	</str>
+	<str name="Family Members">
+		AU2003301787A1 | AU2003301787A8 | WO2004042840A9 | WO200504042840A3 | WO2004042840A2
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6424158 | US6316914 | US4360780 | US4723656 | US5432025 | US6008652 | US4874679
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		60/415,796
+	</str>
+	<str name="Priority Date">
+		2002-10-03
+	</str>
+	<str name="Assignee(s)">
+		MIDTRONICS INC.
+	</str>
+	<str name="1st Assignee">
+		MIDTRONICS INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		7000 Monroe Street, Willowbrook, IL 60527, US
+	</str>
+	<str name="Assignee(s) Address">
+		7000 Monroe Street, Willowbrook, IL 60527, US
+	</str>
+	<str name="Inventor(s)">
+		BERTNESS, KEVIN, I. | MCSHANE, STEPHEN, J. | KOSTER, WILHELMUS
+	</str>
+	<str name="1st Inventor">
+		BERTNESS, KEVIN, I.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		1317, McClurg, Drive, Batavia, IL, 60510, US
+	</str>
+	<str name="Inventor(s) Address">
+		1317, McClurg, Drive, Batavia, IL, 60510, US | 3521, Madison, Oak, Brook, IL, 60521, US | Henricus, Joanna, Noord, IJsseldijk, 24, 3402, PH, IJsselstein, NL
+	</str>
+	<str name="Agent/Attorney">
+		CHAMPLIN, JUDSON, K., ET AL, WESTMAN, CHAMPLIN &amp; KELLY, P.A., SUITE 1600 - INTERNATIONAL CENTRE, 900 SECOND AVENUE SOUTH, MINNEAPOLIS, MN 55402-3319, US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

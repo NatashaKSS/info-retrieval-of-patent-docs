@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7785284
+	</str>
+	<str name="Application Number">
+		US11898014
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Joint for fluid transport lines for medical use
+	</str>
+	<str name="Abstract">
+		The joint (36) comprises a tubular body (37) having two connecting zones (38, 39) each connected by an end to a tubular element (40) of a fluid transport line, giving continuity to passage of fluid. The tubular body is made of a mixture of an electrically-conductive material such as PVC, with carbon black to give it electrical conductivity. The joint has an internal surface (41) which is destined to come into contact with the transported fluid, and an external surface which is destined to have a grounded galvanic contact. The joint is inserted in the discharge fluid drainage line of a dialyzer filter, in an apparatus for intensive treatment of acute renal insufficiency, for eliminating ECG artefacts due to functioning of peristaltic pumps in the apparatus.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-09-07
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2010-08-31
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-08
+	</str>
+	<str name="All IPC">
+		A61M37/00
+	</str>
+	<str name="IPC Primary">
+		A61M37/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61M
+	</str>
+	<str name="IPC Group">
+		A61M37
+	</str>
+	<str name="All UPC">
+		327/169 | 327/549 | 327/29 | 604/533 | 327/37 | 327/552 | 327/34 | 604/4.01 | 327/554 | 327/553 | 327/555 | 327/33 | 439/87 | 327/317 | 604/6.08 | 604/6.16 | 210/233 | 327/46 | 327/45 | 327/47 | 327/603 | 439/5 | 604/6.1 | 327/379 | 604/6.11 | 327/40 | 327/42 | 403/32 | 327/41 | 327/44 | 327/43
+	</str>
+	<str name="UPC Primary">
+		327/169
+	</str>
+	<str name="UPC Class">
+		327
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5305760 | US6287484 | US20030036719 | US6497841 | US5618309 | US5284151 | US4059847 | US4983456 | US4537200 | US20040225225 | US6102897 | US5387196 | US3070132 | US3914002 | US4027659 | US4640563 | US5754388 | US5127907 | US4215384 | US5220920 | US5431638 | US3580983 | US4675780 | US4012103 | JP1993237184 | GB1033971 | FR2547504 | EP0488410 | JP2003518413 | WO2002070041 | EP1424637 | WO2001047581 | JP2003047653 | EP0542140 | WO2002013689
+	</str>
+	<str name="Cites Count">
+		35
+	</str>
+	<str name="Priority Country">
+		IT
+	</str>
+	<str name="Priority Number">
+		MO2003A0165
+	</str>
+	<str name="Priority Date">
+		2003-06-04
+	</str>
+	<str name="Assignee(s)">
+		GAMBRO LUNDIA AB
+	</str>
+	<str name="1st Assignee">
+		GAMBRO LUNDIA AB
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		SE
+	</str>
+	<str name="Assignee(s) Address">
+		SE
+	</str>
+	<str name="Inventor(s)">
+		BARALDI, VINCENZO | DELNEVO, ANNALISA | MARCHESI, GIANFRANCO | LIGABUE, ANDREA | ZACCARELLI, MASSIMO
+	</str>
+	<str name="1st Inventor">
+		BARALDI, VINCENZO
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Quistello, IT
+	</str>
+	<str name="Inventor(s) Address">
+		Quistello, IT | Sant'Agata, Bolognese, IT | Camposanto, IT | San, Prospero, IT | San, Felice, sul, Panaro, IT
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp; DUNNER LLP
+	</str>
+	<str name="Primary Examiner">
+		ZALUKAEVA, TATYANA
+	</str>
+	<str name="Assistant Examiner">
+		CHAPMAN, GINGER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6496685
+	</str>
+	<str name="Application Number">
+		US09097612
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Portable phone with imbedded battery
+	</str>
+	<str name="Abstract">
+		A portable phone has an outer casing with opposite upper and lower walls, one of the walls having an opening for access to the interior of the casing, and a lid removably mounted in the opening for normally closing the opening. A main circuit board is mounted in the outer casing, with a plurality of phone components mounted on the circuit board. A predetermined region of the board aligned with the opening is left exposed or empty of components, and forms a recess for receiving a battery. The battery receiving recess has contact pads, and a battery is removably engaged in the recess with battery contacts engaging the contact pads in the recess, whereby the battery can be removed and replaced via the opening after opening the lid.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-06-15
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-06
+	</str>
+	<str name="Publication Date">
+		2002-12-17
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-12
+	</str>
+	<str name="All IPC">
+		H04B1/38
+	</str>
+	<str name="IPC Primary">
+		H04B1/38
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04B
+	</str>
+	<str name="IPC Group">
+		H04B1
+	</str>
+	<str name="All UPC">
+		455/90.1 | 455/575.1 | 455/347
+	</str>
+	<str name="UPC Primary">
+		455/90.1
+	</str>
+	<str name="UPC Class">
+		455
+	</str>
+	<str name="Family Members">
+		EP1088436B1 | EP1088436A1 | US20010044281A1 | MXPA00012614A | AU758615B2 | DE69938345T2 | US6496685 | WO1999066697A1 | JP2002518941A | DE69938345D1 | TW589852B | BR9911216A | AU4686599A | CN1211991C | CN1310908A | CA2334911A1 | HK1037062A1 | ID27682A | AT389296T | RU2212768C2
+	</str>
+	<str name="Family Member Count">
+		20
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6068947 | US3984257 | US5047988 | US5510203 | US6157545 | US6004690 | US4995077 | US5548824 | US5475752 | US5601951 | US5883966 | US5884197 | US5615250 | US5872831 | GB2302232 | DE9622024 | GB2319655 | WO1998020622 | DE9215085 | EP0344988
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		9761298
+	</str>
+	<str name="Priority Date">
+		1998-06-15
+	</str>
+	<str name="Assignee(s)">
+		QUALCOMM, INCORPORATED
+	</str>
+	<str name="1st Assignee">
+		QUALCOMM, INCORPORATED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Diego, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Diego, CA
+	</str>
+	<str name="Inventor(s)">
+		PETERZELL, PAUL, E. | ROSS, DAVID, J. | CHOW, MARLAND
+	</str>
+	<str name="1st Inventor">
+		PETERZELL, PAUL, E.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		San, Diego, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Diego, CA | Encinitas, CA | Oceanside, CA
+	</str>
+	<str name="Agent/Attorney">
+		WADSWORTH, PHILIP R., BROWN, CHARLES D., SEO, HOWARD H.
+	</str>
+	<str name="Primary Examiner">
+		LE, THANH CONG
+	</str>
+	<str name="Assistant Examiner">
+		CHOW, C.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

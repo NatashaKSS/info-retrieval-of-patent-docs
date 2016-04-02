@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080254344A1
+	</str>
+	<str name="Application Number">
+		US10/504070
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Lithium Secondary Battery Having Internal Protection Circuit
+	</str>
+	<str name="Abstract">
+		The present invention relates to a lithium secondary battery with a built-in protective circuit, which includes battery case (1), a battery core (2) and electrolyte. According to the present invention, a built-in protective circuit module (4) is provided to act as the connection between terminals of positive and negative electrodes (21 and 22) and output ends of positive and negative electrodes (31 and 32) inside the battery. The battery of the present invention has the advantages of safe and reliable protection against short-circuit, over-charge, over-discharge and over-current in the application, and therefore it is reliable power supply for the portable electronic appliances such as mobile phones and the like.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-11-07
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-11
+	</str>
+	<str name="Publication Date">
+		2008-10-16
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		H01M2/00
+	</str>
+	<str name="IPC Primary">
+		H01M2/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M2
+	</str>
+	<str name="All UPC">
+		429/61
+	</str>
+	<str name="UPC Primary">
+		429/61
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		EP1507306A1 | WO2003067700A1 | JP2005517274A | US20080254344A1 | EP1507306A4 | CN2525687Y | AU2002349724A1
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		CN
+	</str>
+	<str name="Priority Number">
+		02225529.X
+	</str>
+	<str name="Priority Date">
+		2002-02-04
+	</str>
+	<str name="Assignee(s)">
+		NISSAN CHEMICAL INDUSTRIES , LTD.
+	</str>
+	<str name="1st Assignee">
+		NISSAN CHEMICAL INDUSTRIES , LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		TOKYO JAPAN,JP
+	</str>
+	<str name="Assignee(s) Address">
+		TOKYO JAPAN,JP
+	</str>
+	<str name="Inventor(s)">
+		WANG CHUANFU | YAN YUEGING | YANG HAISHAN
+	</str>
+	<str name="1st Inventor">
+		WANG CHUANFU
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Guangdong Province,CN
+	</str>
+	<str name="Inventor(s) Address">
+		Guangdong Province,CN | Guangdong Province,CN | Guangdong Province,CN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

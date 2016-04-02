@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8002986
+	</str>
+	<str name="Application Number">
+		US11212900
+	</str>
+	<str name="Title">
+		Apparatus and methods for control of waste treatment processes
+	</str>
+	<str name="Abstract">
+		Waste-treatment processes are enhanced through generation and introduction of specific biological populations customized to perform or favor specific tasks either during the main process, for the formation or precipitation of certain biological nutrients, or to accomplish solids formation reduction in a post-treatment process. These bacteria may be grown from specialized mixes of activated sludge and waste influent by exposing these materials to controlled environments (e.g., in an off-line treatment area). They may then be returned to the main process to perform certain tasks such as converting particulate cBOD into soluble cBOD for utilization, to reduce high solids yield organisms by supplementing the population characteristics with low yield organism characteristics, to provide biological nutrients or oxygenation assistance, to improve nitrification/denitrification efficiency, or to disfavor filamentous biology such as Norcardia sp.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-08-26
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-08
+	</str>
+	<str name="Publication Date">
+		2011-08-23
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/630 | 210/903 | 210/622 | 210/629
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		J. Sheridan and B. A. Curtis, &quot;Revolutionary Technology Cuts Biosolids Production and Costs&quot;, Pollution Engineering, May 2004. cited by other . | Florida Rural rater Association (FRWA), &quot;Nitrogen Control in Small Wastewater Plants&quot;, Website. cited by other . | Office Action issued by Japanese Patent Office for Application No. JP2002-56,823 on Jun. 17, 2008. cited by other . | Examination Report issued by European Patent Office for EP02251108.3 on Feb. 20, 2008. cited by other . | J. Malina and F. Pohland, Design of Anaerobic Processes, Technomic Publishing Company, 1992. cited by other . | J. Charpentier, et al., &quot;Oxidation--Reduction Potential . . . &quot;, Water Science Technology, vol. 21, 1988. cited by other . | Response to Non-Final Office Action for Reexamination Request Control No. 95/000,237, filed Jul. 6, 2007. cited by other. | Metcalf &amp; Eddy, Inc., Wastewater Engineering, McGraw-Hill, 1979. cited by other . | Non-Final Office Action for Reexamination Request Control No. 95/000,237, issued May 7, 2007. cited by other .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20070051677 | US4655925 | US5736047 | US5252214 | US5650069 | US5393427 | US5304308 | US5798043 | US5288405 | US6004456 | US5514278 | US5919367 | US6783679 | US5514277 | US20070000836 | US20060201876 | US6015496 | US6084150 | US5846424 | US5531896 | US4183809 | US4183808 | US5660613 | US5616241 | US5022993 | US6093322 | US6616843 | US6048459 | JP1981078691 | JP1987038293 | WO1994024056 | JP1999057762 | JP1991076998 | DE19905633 | JP1992197497 | JP1996039096 | EP1236686 | JP1993066199 | JP2001029992 | JP279979P2000 | EP0106043
+	</str>
+	<str name="Cites Count">
+		41
+	</str>
+	<str name="Assignee(s)">
+		MIKLOS, DANIEL R.
+	</str>
+	<str name="1st Assignee">
+		MIKLOS, DANIEL R.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		West Chester, OH
+	</str>
+	<str name="Assignee(s) Address">
+		West Chester, OH
+	</str>
+	<str name="Inventor(s)">
+		MIKLOS, DANIEL, ROBERT
+	</str>
+	<str name="1st Inventor">
+		MIKLOS, DANIEL, ROBERT
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		West, Chester, OH
+	</str>
+	<str name="Inventor(s) Address">
+		West, Chester, OH
+	</str>
+	<str name="Agent/Attorney">
+		GOODWIN PROCTER LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

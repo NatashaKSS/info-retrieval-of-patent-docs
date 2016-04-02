@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5017343
+	</str>
+	<str name="Application Number">
+		US07270556
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Low pressure mixing apparatus for atomizing fluids
+	</str>
+	<str name="Abstract">
+		The liquid feed injector as hereindescribed uses sequential stages of increased severity mixing to fully atomize a liquid portion of a combined liquid and gaseous stream. Sequential mixing consists of a first mild mixing that takes place in a mild mixing zone and blends the liquid and gaseous material into a substantial uniform mixture. The uniform mixture of liquid and gaseous material passes through another stage of vigorous mixing where the liquid is sheared and gas is dispersed throughout the liquid by dividing the mixture into a plurality of small streams and directing the projection of the streams into impingement with an impact medium to produce a homogeneous mixture of fine gas bubbles dispersed in the liquid. The homogeneous liquid and gas mixtures are then discharged through one or more discharge nozzles to effect atomization and distribution of the liquid in a suspension of fluidized solids. The sequential stages of increased severity mixing allow atomization of the liquid into fine droplets with a reduced pressure drop across the discharge nozzles. In a highly preferred form, the liquid injector includes provisions for injecting two fluid streams into a suspension of fluidized solids at two discrete locations.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1988-11-14
+	</str>
+	<str name="Application Year">
+		1988
+	</str>
+	<str name="Application(Year/Month)">
+		1988-11
+	</str>
+	<str name="Publication Date">
+		1991-05-21
+	</str>
+	<str name="Publication Year">
+		1991
+	</str>
+	<str name="Publication(Year/Month)">
+		1991-05
+	</str>
+	<str name="All IPC">
+		B05B1/26 | B05B7/08 | B01J8/18 | B01J8/22
+	</str>
+	<str name="IPC Primary">
+		B05B1/26
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05B
+	</str>
+	<str name="IPC Group">
+		B05B1
+	</str>
+	<str name="All UPC">
+		208/153 | 239/544 | 239/545 | 239/553.5 | 208/157 | 422/140 | 422/145 | 239/427 | 208/113
+	</str>
+	<str name="UPC Primary">
+		208/153
+	</str>
+	<str name="UPC Class">
+		208
+	</str>
+	<str name="Family Members">
+		US5017343
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US5800697 | US5948241 | US7601304 | US5794857 | US5455010 | US5409672 | US7611072 | US6387247 | CN1371413A | US5637207 | US6012652 | US6010618 | US6352639 | US5346613 | US5965012
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US1197600 | US3157361
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		27055688 | 504487
+	</str>
+	<str name="Priority Date">
+		1988-11-14 | 1987-01-16
+	</str>
+	<str name="Assignee(s)">
+		UOP
+	</str>
+	<str name="1st Assignee">
+		UOP
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Des Plaines, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Des Plaines, IL
+	</str>
+	<str name="Inventor(s)">
+		CETINKAYA, ISMAIL, B.
+	</str>
+	<str name="1st Inventor">
+		CETINKAYA, ISMAIL, B.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Palatine, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Palatine, IL
+	</str>
+	<str name="Agent/Attorney">
+		MCBRIDE, THOMAS K., TOLOMEI, JOHN G.
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, ROBERT J.
+	</str>
+	<str name="Assistant Examiner">
+		SANTIAGO, AMALIA L.
+	</str>
+	<str name="cited by within 3 years">
+		4
+	</str>
+	<str name="cited by within 5 years">
+		9
+	</str>
+</doc>
+

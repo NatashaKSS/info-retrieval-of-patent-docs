@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1918441A1
+	</str>
+
+	<str name="Application Number">
+		EP2007115024
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		Washing machine and washing control method of the same
+	</str>
+
+	<str name="Abstract">
+		A washing machine and a washing control method of the same that is capable of controlling laundry to be effectively washed with bubbles depending upon load of the washing machine and types of the laundry. The washing control method includes detecting the amount of load depending upon the weight of laundry, controlling the amount of wetting water according to the detected amount of load to wet the laundry, and generating bubbles to wash the laundry.
+	</str>
+
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+
+	<str name="Application Date">
+		2007-08-27
+	</str>
+
+	<str name="Application Year">
+		2007
+	</str>
+
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+
+	<str name="Publication Date">
+		2008-05-07
+	</str>
+
+	<str name="Publication Year">
+		2008
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+
+	<str name="All IPC">
+		D06F35/00
+	</str>
+
+	<str name="IPC Primary">
+		D06F35/00
+	</str>
+
+	<str name="IPC Section">
+		D
+	</str>
+
+	<str name="IPC Class">
+		D06
+	</str>
+
+	<str name="IPC Subclass">
+		D06F
+	</str>
+
+	<str name="IPC Group">
+		D06F35
+	</str>
+
+	<str name="Family Members">
+		KR1020080039647A | EP1918441A1 | CN101173451A | US20080099052A1 | RU2007132752A | RU2360052C2
+	</str>
+
+	<str name="Family Member Count">
+		6
+	</str>
+
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By">
+		WO2008155272A1
+	</str>
+
+	<str name="Cited By Count">
+		1
+	</str>
+
+	<str name="Cites">
+		US5295373 | EP1870505A2 | US2003230122A1 | EP1302585A1 | WO0006821A1 | US5590551 | EP0870505A1
+	</str>
+
+	<str name="Cites Count">
+		7
+	</str>
+
+	<str name="Priority Country">
+		KR
+	</str>
+
+	<str name="Priority Number">
+		20060107215
+	</str>
+
+	<str name="Priority Date">
+		2006-11-01
+	</str>
+
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		416 Maetan-Dong, Yeongtong-Gu, Suwon-si, Gyeonggi-Do, KR
+	</str>
+
+	<str name="Assignee(s) Address">
+		416 Maetan-Dong, Yeongtong-Gu, Suwon-si, Gyeonggi-Do, KR
+	</str>
+
+	<str name="Inventor(s)">
+		LEE, BO, RAM | PYO, SANG, YEON | KIM, HYUN, SOOK | KIM, SUNG, HOON, DA, RESEARCH, INSTITUTE | OAK, SEONG, MIN
+	</str>
+
+	<str name="1st Inventor">
+		LEE, BO, RAM
+	</str>
+
+	<str name="Number of Inventors">
+		5
+	</str>
+
+	<str name="1st Inventor Address">
+		No., 103-1201, Hyundai-hometown, Apt., Mabuk-ri, Guseong-eup, Yongin-si, Gyeonggi-do, KR
+	</str>
+
+	<str name="Inventor(s) Address">
+		No., 103-1201, Hyundai-hometown, Apt., Mabuk-ri, Guseong-eup, Yongin-si, Gyeonggi-do, KR | No., 152-1303, Jugong, Apt., Yeongtong-dong, Paldal-gu, Suwon-si, Gyeonggi-do, KR | No, 232-1802, Hwanggolmaeul, 2nd, Apt., Yeongtong-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, KR | Samsung, Electronics, Co., Ltd., Maetan-3-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, KR | No., 659-7, Yangdeok-2-dong, Hoewon-gu, Masan-si, Gyeongsangnam-do, KR
+	</str>
+
+	<str name="Agent/Attorney">
+		GR&#220;NECKER, KINKELDEY, STOCKMAIR &amp; SCHWANH&#196;USSER ANWALTSSOZIET&#196;T
+	</str>
+
+	<str name="cited by within 3 years">
+		1
+	</str>
+
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>

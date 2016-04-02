@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7454295
+	</str>
+	<str name="Application Number">
+		US10392112
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Anti-terrorism water quality monitoring system
+	</str>
+	<str name="Abstract">
+		An Anti-Terrorism water quality monitoring system for continuously monitoring a potable water treatment system and related potable water distribution network that provides potable water to a municipality, city, housing development or other potable water consumer. The system includes the collection of data from the water distribution system and from the water treatment facility and from advanced separation processes which are integrated into analytical instruments. The data collected are stored in a remote database on a remote server computer or bank of computers and accessible by Homeland Security or its designated agency. Preferred parameters of monitoring include the turbidity and disinfectant such as chlorine, hypochlorous acid, sodium hypochlorite, calcium hypochlorite, ozone, chlorine dioxide, chloramines, hydrogen peroxide, peracetic acid.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-03-19
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-03
+	</str>
+	<str name="Publication Date">
+		2008-11-18
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		G01N31/00 | G06F19/00
+	</str>
+	<str name="IPC Primary">
+		G01N31/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N31
+	</str>
+	<str name="All UPC">
+		210/660 | 702/30 | 210/638 | 700/271 | 700/270 | 210/141 | 210/634 | 702/31 | 702/22
+	</str>
+	<str name="UPC Primary">
+		210/660
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20040006513A1 | US7454295
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7865835
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6389331 | US20010053992 | US6356205 | US5608171 | US5970426 | US20010020195 | US5865718 | US6061603 | US20020023479 | US20020130069 | US4830757 | US5631744 | US5835724 | US5993662 | US6023223 | US6305944 | US6317639 | US6332110 | US6560543 | US6370448 | US5832410 | US20020133270 | US5492632 | WO2001080494
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		39211203 | 5522501 | 21378198
+	</str>
+	<str name="Priority Date">
+		2003-03-19 | 2001-10-26 | 1998-12-17
+	</str>
+	<str name="Assignee(s)">
+		THE WATEREYE CORPORATION
+	</str>
+	<str name="1st Assignee">
+		THE WATEREYE CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Grass Valley, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Grass Valley, CA
+	</str>
+	<str name="Inventor(s)">
+		WOLFE, THOMAS, D.
+	</str>
+	<str name="1st Inventor">
+		WOLFE, THOMAS, D.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Rough, and, Ready, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Rough, and, Ready, CA
+	</str>
+	<str name="Agent/Attorney">
+		MCHALE &amp; SLAVIN, P.A.
+	</str>
+	<str name="Primary Examiner">
+		BARLOW, JOHN E.
+	</str>
+	<str name="Assistant Examiner">
+		VO, HIEN X
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

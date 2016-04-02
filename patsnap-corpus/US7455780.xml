@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7455780
+	</str>
+	<str name="Application Number">
+		US11685463
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Method of treating stormwater runoff and domestic waste with high carbon ash
+	</str>
+	<str name="Abstract">
+		A method of treating domestic wastewater wherein the wastewater is directed through a high carbon ash particulate. Contaminants such as phosphorus, nitrogen, BOD and COD can be removed. In addition, treatment of the domestic waste with ash will raise the pH of the wastewater, generally to above 10, killing bacteria contained in the wastewater.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-03-13
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2008-11-25
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/690 | 210/532.2 | 210/903 | 210/679 | 210/906 | 210/691
+	</str>
+	<str name="UPC Primary">
+		210/690
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20070295661A1 | US7311844 | US7455780
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8287726
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6755905 | US5976401 | US4407717 | US5417861 | US7025887 | US4280913 | US6444611 | US4289626 | US5008224 | US6015498 | US4036750
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		68546307 | 42585506
+	</str>
+	<str name="Priority Date">
+		2007-03-13 | 2006-06-22
+	</str>
+	<str name="Inventor(s)">
+		JOYNER, BOBBY, L. | WALDROP, ROBERT, J.
+	</str>
+	<str name="1st Inventor">
+		JOYNER, BOBBY, L.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Rocky, Mount, NC
+	</str>
+	<str name="Inventor(s) Address">
+		Rocky, Mount, NC | Canton, GA
+	</str>
+	<str name="Agent/Attorney">
+		COATS &amp; BENNETT, P.L.L.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

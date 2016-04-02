@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8357550
+	</str>
+	<str name="Application Number">
+		US13/322296
+	</str>
+	<str name="Title">
+		Occupancy sensor
+	</str>
+	<str name="Abstract">
+		A method for manufacturing a sensor device (100; 200; 300; 400) comprising a thermal sensor (23), a battery (33), an antenna (34), an electronic circuitry (22) and a solar cell (43) together integrally in one semiconductor carrier (10), the method comprising the steps of:--providing a silicon wafer (10) with two main surfaces (11, 12); a first functional layer (20) is manufactured in one main surface (11), comprising a thermal sensor portion (21) and comprising electronic circuitry (22) arranged in a non-overlapping relationship with the thermal sensor portion; a second functional layer (30) containing a battery (33) and an antenna (34) is arranged in a non-overlapping relationship with the thermal sensor portion; a third functional layer (40) containing one or more solar cells (43) is arranged in a non-overlapping relationship with the thermal sensor portion; the portion of the wafer underneath the thermal sensor portion (21) is removed.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-05-07
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-05
+	</str>
+	<str name="Publication Date">
+		2013-01-22
+	</str>
+	<str name="Publication Year">
+		2013
+	</str>
+	<str name="Publication(Year/Month)">
+		2013-01
+	</str>
+	<str name="All IPC">
+		H01L21/00 | H01L21/02
+	</str>
+	<str name="IPC Primary">
+		H01L21/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01L
+	</str>
+	<str name="IPC Group">
+		H01L21
+	</str>
+	<str name="All UPC">
+		438/19 | 257/E212 | 438/54
+	</str>
+	<str name="UPC Primary">
+		438/19
+	</str>
+	<str name="UPC Class">
+		438
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Technical data sheet 2008(4) of JONDETECH downloaded from http://jondetech.com/documents/datasheet.sub.--080617.pdf. Please see the marked portions for search criteria 1.0, Generation &quot;flex&quot; thermopiles downloaded from http://jondetech.com/documents/jondetech.sub.--presentation.pdf. Please see the marked portions for search criteria 1.0. cited by applicant.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US20040029309 | US20070117392 | US20070254411 | US20080109309 | US20080179525 | WO2005098385 | WO2007130628 | WO2009150562
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		09161189
+	</str>
+	<str name="Priority Date">
+		2009-05-27
+	</str>
+	<str name="Assignee(s)">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="1st Assignee">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Eindhoven, NL
+	</str>
+	<str name="Assignee(s) Address">
+		Eindhoven, NL
+	</str>
+	<str name="Inventor(s)">
+		PASVEER, WILLEM, F., P. | HAARTSEN, JAAP | NIESSEN, ROGIER, A., H.
+	</str>
+	<str name="1st Inventor">
+		PASVEER, WILLEM, F., P.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Dordrecht, NL
+	</str>
+	<str name="Inventor(s) Address">
+		Dordrecht, NL | Eindhoven, NL | Eindhoven, NL
+	</str>
+	<str name="Agent/Attorney">
+		BELOBORODOV, MARK L.
+	</str>
+	<str name="Primary Examiner">
+		GARBER, CHARLES
+	</str>
+	<str name="Assistant Examiner">
+		CHOI, CALVIN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080175491A1
+	</str>
+	<str name="Application Number">
+		US12014895
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		IMAGE CODING APPARATUS, IMAGE DECODING APPARATUS, IMAGE PROCESSING APPARATUS AND METHODS THEREOF
+	</str>
+	<str name="Abstract">
+		The image coding apparatus according to the present invention includes: a similar image search unit 201 which searches at least one second still image which is similar to a first still image; a coding processing unit 202 which generates a predictive image for the first still image using the at least one second still image as the reference image, and codes the difference between the first still image and the predictive image; and a reference image information processing unit 204 which adds information which indicates the location of at least one of the second still image to the bit stream.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-01-16
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-01
+	</str>
+	<str name="Publication Date">
+		2008-07-24
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-07
+	</str>
+	<str name="All IPC">
+		G06K9/36
+	</str>
+	<str name="IPC Primary">
+		G06K9/36
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/232
+	</str>
+	<str name="UPC Primary">
+		382/232
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP2008199587A | US20080175491A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		2007008833 | 2007008834 | 2007008835
+	</str>
+	<str name="Priority Date">
+		2007-01-18 | 2007-01-18 | 2007-01-18
+	</str>
+	<str name="Inventor(s)">
+		KONDO SATOSHI
+	</str>
+	<str name="1st Inventor">
+		KONDO SATOSHI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kyoto,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kyoto,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7162058
+	</str>
+	<str name="Application Number">
+		US09937004
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Authentication system by fingerprint
+	</str>
+	<str name="Abstract">
+		A fingerprint identification system comprising: an IC card having a tamper-resistance; and a reader/writer having a tamper-resistance for reading/writing information from/into the IC card. In the reader/writer, a fingerprint image, as read by a fingerprint input unit, is preprocessed in a preprocessing unit, and extracted intermediate information is transmitted to the IC card. This IC card compares the intermediate information with the fingerprint information, and makes authentication information usable for an electronic authentication upon matching. By this electronic authentication with applications, the fingerprint identification system, which has a high level of safety and can reduce the cost is provided.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-05-25
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-05
+	</str>
+	<str name="Publication Date">
+		2007-01-09
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-01
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/116 | 382/124
+	</str>
+	<str name="UPC Primary">
+		382/116
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		EP1313026A1 | US20020150283A1 | JP2001344213A | DE60139784D1 | WO2001093053A1 | US20070076925A1 | US7162058 | US7457442 | EP1313026B1 | EP1313026A4
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		A.M. Bazen and S.H. Gerez, &quot;Extraction of Singular Points from Directional Fields of Fingerprints&quot;, Mobile Communications in Perspective, Annual CTIT Workshop, Feb. 2001. cited by examiner . | Seto et al., &quot;Development of Personal Authentication Techniques Using Fingerprint Matching Embedded in Smartcard&quot;, The 2000 Symposium on Cryptography and Information Security, Okinawa, Japan, Jan. 26-28, 2000. (W/English Translation). cited by other. | L Hong, &quot;Automatic Personal Identification Using Fingerprints&quot;, Ph.D. Thesis, Michigan State University, pp. 147-166, Jun. 1998. cited by exami- ner .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US5040224 | US6002784 | US5067162 | US20040052405 | US6241288 | US6681034 | US5974163 | US6134340 | US6181807 | US6719200 | US5920641 | US5140642 | US5915035 | US6798334 | WO2001011577 | JP1998149446 | WO2001084494 | JP1998124668 | DE19811332 | WO2001006445 | JP1994301768 | JP1997198501 | JP1991202973 | EP0918300 | JP1999143833
+	</str>
+	<str name="Cites Count">
+		25
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2000162517
+	</str>
+	<str name="Priority Date">
+		2000-05-31
+	</str>
+	<str name="Assignee(s)">
+		HITACHI, LTD.
+	</str>
+	<str name="1st Assignee">
+		HITACHI, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		MIMURA, MASAHIRO | SETO, YOICHI | ISHIZUKA, TAKUO
+	</str>
+	<str name="1st Inventor">
+		MIMURA, MASAHIRO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP | Kawasaki, JP | Hadano, JP
+	</str>
+	<str name="Agent/Attorney">
+		MATTINGLY, STANGER, MALUR &amp; BRUNDIDGE, P.C.
+	</str>
+	<str name="Primary Examiner">
+		MEHTA, BHAVESH M.
+	</str>
+	<str name="Assistant Examiner">
+		TUCKER, WES
+	</str>
+	<str name="cited by within 3 years">
+		3
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

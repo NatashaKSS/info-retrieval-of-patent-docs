@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7407584
+	</str>
+	<str name="Application Number">
+		US11569924
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Regulating air velocity continuously injected into biological water treatment reactor
+	</str>
+	<str name="Abstract">
+		A method of treating wastewater wherein the biomass associated with the wastewater is subjected to simultaneous nitrification and denitrification in a single reactor. The method entails directing a wastewater influent stream into the reactor and measuring the concentration of N--NH.sub.4 in the influent wastewater stream at a point upstream from the reactor. Air is supplied to the reactor for aerating the biomass in the reactor. The method includes controlling the quantity of air introduced into the reactor based in part at least on the measured concentration of N--NH.sub.4.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-05-27
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-05
+	</str>
+	<str name="Publication Date">
+		2008-08-05
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/150 | 210/739 | 210/620 | 210/614 | 210/220
+	</str>
+	<str name="UPC Primary">
+		210/150
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		KR1020070020064A | BRPI0511658A | FR2871153A1 | JP2008501500A | CN1997602A | AU2005256734B2 | AU2005256734A1 | FR2871153B1 | EP1756012A1 | US20070221580A1 | US7407584 | WO2006000680A1 | CA2567616A1 | MXPA06013832A | NO20066064A
+	</str>
+	<str name="Family Member Count">
+		15
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Hansen, Joachim; &quot;Fuzzy Controls for the Optimization of Nutrients Removal in Municipal Sewage Treatment Plants,&quot; No. XP-000803516, Korrespondenz Abwasser 1998(45) Nr. 12, pp. 2259-2268. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US7833415
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5989428 | US7329352 | US7332093 | US6036862 | WO2001002158 | WO1999024370
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0405970
+	</str>
+	<str name="Priority Date">
+		2004-06-02
+	</str>
+	<str name="Assignee(s)">
+		OTV SA S.A.
+	</str>
+	<str name="1st Assignee">
+		OTV SA S.A.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		FR
+	</str>
+	<str name="Assignee(s) Address">
+		FR
+	</str>
+	<str name="Inventor(s)">
+		LEMOINE, CYRILLE | PAYRAUDEAU, MICHELE
+	</str>
+	<str name="1st Inventor">
+		LEMOINE, CYRILLE
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Courbevoie, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Courbevoie, FR | Paris, FR
+	</str>
+	<str name="Agent/Attorney">
+		COATS &amp; BENNETT, P.L.L.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

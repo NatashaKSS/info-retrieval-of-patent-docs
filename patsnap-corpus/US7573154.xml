@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7573154
+	</str>
+	<str name="Application Number">
+		US11668632
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Battery operated portable electronic device having dual batteries
+	</str>
+	<str name="Abstract">
+		A battery-operated portable electronic device has a primary battery to provide energy to low current circuitry of the portable device, and a supplemental battery to provide intermittent bursts of energy to other components of the portable device. A charging device charges the supplemental battery from the primary battery. An electronic device employing the battery system may have a battery compartment for the primary battery, which can be an AAA, AA, C, or D size battery.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-01-30
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2009-08-11
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-08
+	</str>
+	<str name="All IPC">
+		H01M10/46
+	</str>
+	<str name="IPC Primary">
+		H01M10/46
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="All UPC">
+		455/573 | 320/103 | 455/574 | 455/572 | 320/140 | 320/125 | 320/126 | 320/137 | 307/42 | 320/139 | 320/127 | 307/66 | 320/128 | 307/43 | 320/166 | 320/167
+	</str>
+	<str name="UPC Primary">
+		455/573
+	</str>
+	<str name="UPC Class">
+		455
+	</str>
+	<str name="Family Members">
+		US20080179957A1 | US7573154
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20080197801 | US20070210735 | US7038333 | US7236873 | US6864664 | US5818200 | US6765746 | US5396637 | US6331365 | US20060209444 | US6222341 | US20050040787 | US6271642 | US20080129219 | US7136701 | US7444184 | US5929602 | US7328307 | USR38777 | US6057666 | US20080007219 | US6452361 | US20080089012 | US7327119 | US20050116686
+	</str>
+	<str name="Cites Count">
+		25
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		66863207
+	</str>
+	<str name="Priority Date">
+		2007-01-30
+	</str>
+	<str name="Assignee(s)">
+		PERCEPTION DIGITAL LIMITED
+	</str>
+	<str name="1st Assignee">
+		PERCEPTION DIGITAL LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hong Kong SAR, CN
+	</str>
+	<str name="Assignee(s) Address">
+		Hong Kong SAR, CN
+	</str>
+	<str name="Inventor(s)">
+		TSUI, CHI-YING | FUNG, FUK, SHEUNG
+	</str>
+	<str name="1st Inventor">
+		TSUI, CHI-YING
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Hong, Kong, SAR, CN
+	</str>
+	<str name="Inventor(s) Address">
+		Hong, Kong, SAR, CN | Hong, Kong, SAR, CN
+	</str>
+	<str name="Agent/Attorney">
+		LEYDIG, VOIT &amp; MAYER, LTD.
+	</str>
+	<str name="Primary Examiner">
+		JACKSON, STEPHEN W
+	</str>
+	<str name="Assistant Examiner">
+		AMRANY, ADI
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

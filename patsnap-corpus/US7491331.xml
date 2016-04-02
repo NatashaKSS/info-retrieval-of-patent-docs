@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7491331
+	</str>
+	<str name="Application Number">
+		US12121036
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Methods for total nitrogen removal
+	</str>
+	<str name="Abstract">
+		A method and related apparatus for oxidation and reduction of a reduced aqueous nitrogen contaminant.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-05-15
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-05
+	</str>
+	<str name="Publication Date">
+		2009-02-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/758 | 210/757 | 210/620 | 210/603 | 210/220 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/758
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20050269263A1 | US20080217242A1 | MXPA06013187A | US7384554 | US7491331 | JP2007537041A | WO200705113456A3 | CN101065331A | WO2005113456A2 | CA2566454A1
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References">
+		Rittmann et al., Draft Scope of Word, HFMBFR Demonstration Testing Nitrochem, Maitland Ontario, pp. 1-7 (Sep. 2002). cited by other. | Rittmann et al., Nitrochem Proposal, Proposal and Scope of Word, HFMBFR Demonstration Testing for Nitrochem, Maitland Ontario, pp. 1-7 (Oct. 2002). cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8173020 | US7931807 | US7618537
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US6423533 | US6767464 | US6630067 | US5348653 | US6572773 | US7144509 | US7144508 | US7175763 | US20060096918 | US20050269263 | US7101483 | US7001519 | US20060021936 | US6863815 | US7140495 | US6942799 | US7338597 | US20060037896 | US20060196815 | US6214607 | US7186340 | US20050051481 | US6881339 | US4746435 | US5116506 | US5641679 | US20060163157 | US6387262 | US7169295 | WO2004113239
+	</str>
+	<str name="Cites Count">
+		30
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		12103608 | 12913305 | 57134404
+	</str>
+	<str name="Priority Date">
+		2008-05-15 | 2005-05-13 | 2004-05-14
+	</str>
+	<str name="Assignee(s)">
+		NORTHWESTERN UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		NORTHWESTERN UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Evanston, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Evanston, IL
+	</str>
+	<str name="Inventor(s)">
+		RITTMANN, BRUCE, E. | TORRES, CESAR | COWMAN, JENNIFER
+	</str>
+	<str name="1st Inventor">
+		RITTMANN, BRUCE, E.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Tempe, AZ
+	</str>
+	<str name="Inventor(s) Address">
+		Tempe, AZ | Chicago, IL | Woodbury, MN
+	</str>
+	<str name="Agent/Attorney">
+		REINHART BOERNER VAN DEUREN S.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6211648
+	</str>
+	<str name="Application Number">
+		US09498137
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Battery pack for portable computer
+	</str>
+	<str name="Abstract">
+		An elongate battery pack for removable attachment to a portable computer. The battery pack includes guides at each end surface which enable the battery to be attached in a lateral fashion to the computer, and locked in place by a separate mechanical latch mechanism. One of the guides is modified to include a catch which, during attachment of the battery pack to the computer, engages a complementary guide on the computer to locally restrain that end of the battery.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-02-04
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-02
+	</str>
+	<str name="Publication Date">
+		2001-04-03
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-04
+	</str>
+	<str name="All IPC">
+		H01M10/46
+	</str>
+	<str name="IPC Primary">
+		H01M10/46
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="All UPC">
+		320/112
+	</str>
+	<str name="UPC Primary">
+		320/112
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Members">
+		US6211648
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		EP1293878A2 | US8172282 | US8054047 | US7689851 | US8233271 | US7914919
+	</str>
+	<str name="Cited By Count">
+		6
+	</str>
+	<str name="Cites">
+		US5455737 | US5697070 | US5578391 | US5841630
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		SG
+	</str>
+	<str name="Priority Number">
+		99012957
+	</str>
+	<str name="Priority Date">
+		1999-03-05
+	</str>
+	<str name="Assignee(s)">
+		HEWLETT-PACKARD COMPANY
+	</str>
+	<str name="1st Assignee">
+		HEWLETT-PACKARD COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Palo Alto, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Palo Alto, CA
+	</str>
+	<str name="Inventor(s)">
+		CHEW, ANTHONY, KWAN, WEE
+	</str>
+	<str name="1st Inventor">
+		CHEW, ANTHONY, KWAN, WEE
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Singapore, SG
+	</str>
+	<str name="Inventor(s) Address">
+		Singapore, SG
+	</str>
+	<str name="Primary Examiner">
+		TSO, EDWARD H.
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

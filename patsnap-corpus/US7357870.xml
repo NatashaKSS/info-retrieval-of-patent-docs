@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7357870
+	</str>
+	<str name="Application Number">
+		US10528692
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for reducing production of wastewater treatment station sludge with fixed biological cultures
+	</str>
+	<str name="Abstract">
+		A method for reducing the amount of wastewater treatment station sludge first performs wastewater purification with fixed biological cultures from which excess sludge is extracted intermittently during phases of washing and unclogging. Then, the water from the washing phase that provides fixed biological cultures is subjected to biological activated sludge treatment, the outlet of this stage does not recycle effluent to the front end of the water treatment line. The wastewater is then subjected to a stage of reduced sludge production (RPB), selectively, by thermophilic enzymatic action or by partial oxidation by ozone introduced by mechanical stirring, this stage being supplied by quantities of sludge from the step of biological treatment by activate sludge, the substrate source for the bacteria of the biological treatment including organic material derived from lysed bacterial cells induced during the RSP stage.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-09-24
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-09
+	</str>
+	<str name="Publication Date">
+		2008-04-15
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/615
+	</str>
+	<str name="UPC Primary">
+		210/615
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		AU2003279431A1 | ES2239932T1 | EP1542931A1 | US20060000770A1 | FR2844785B1 | DE03772377T1 | US7357870 | WO2004028979A1 | FR2844785A1 | TR200502227T3
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5141646 | US4370235 | US3718582 | US5013429 | US6224769 | EP0384162 | JP1998057994 | JP1998052697 | FR2766813 | WO1999041205 | EP1254865 | JP1998137780
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		FR | FR
+	</str>
+	<str name="Priority Number">
+		0211860 | 0215384
+	</str>
+	<str name="Priority Date">
+		2002-09-25 | 2002-12-05
+	</str>
+	<str name="Assignee(s)">
+		DEGREMONT
+	</str>
+	<str name="1st Assignee">
+		DEGREMONT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Malmaison, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Malmaison, FR
+	</str>
+	<str name="Inventor(s)">
+		DELERIS, STEPHANE | LEBRUN, THIERRY
+	</str>
+	<str name="1st Inventor">
+		DELERIS, STEPHANE
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Chatou, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Chatou, FR | Villecresne, FR
+	</str>
+	<str name="Agent/Attorney">
+		CONNOLLY BOVE LODGE &amp; HUTZ LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

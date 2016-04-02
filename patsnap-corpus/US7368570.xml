@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7368570
+	</str>
+	<str name="Application Number">
+		US10913931
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Organometallic complexes as singlet oxygen sensitizers
+	</str>
+	<str name="Abstract">
+		A series of organometallic complexes and the singlet oxygen sensitization properties of these complexes are provided. Complexes with acetylacetonate ligands give singlet oxygen quantum yields near unity, whether exciting the ligand-based state or the lowest energy excited state (MLCT+.sup.3LC). The singlet oxygen quenching rates for these .beta.-diketonate complexes are small, roughly three orders of magnitude slower than the corresponding phosphorescence quenching rate. Similar complexes were prepared with glycine or pyridine tethered to the Ir(III) center (i.e. (bsn).sub.2Ir(gly) and (bt).sub.2Ir(py)Cl, where gly=glycine, and py=pyridine). The glycine and pyridine derivatives give high singlet oxygen yields.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-08-06
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2008-05-06
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		C07F15/00 | A61K31/555
+	</str>
+	<str name="IPC Primary">
+		C07F15/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C07
+	</str>
+	<str name="IPC Subclass">
+		C07F
+	</str>
+	<str name="IPC Group">
+		C07F15
+	</str>
+	<str name="All UPC">
+		210/605 | 548/101 | 546/2 | 530/400
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20050176624A1 | US7368570
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Lamansky, Sergey et al., &quot;Synthesis and Characterization of Phosphorescent Cyclometalated Iridium Complexes,&quot; Inorg. Chem., 2001, 40, pp. 1704-1711. cited by other. | Tyson et al., J. Phys. Chem. A, vol. 105, No. 35, pp. 8154-8161 (2001). cited by examiner . | Ikai, Masamichi et al., &quot;Highly Efficient Phosphorescence from Organic Light-Emitting Devices with an Exciton-Block Layer,&quot; Appl. Phys. Lett., vol. 79, No. 2, Jul. 9, 2001, pp. 156-158. cited by other . | DeRosa, Maria C. et al., &quot;Photosensitized Singlet Oxygen and its Applications,&quot; Coordination Chemistry Reviews 233-234 (2002), pp. 351-371. cited by other . | Lamansky, Sergey et al., &quot;Molecularly Doped Polymer Light Emitting Diodes Utilizing Phosphorescent Pt(II) and Ir(III) Dopants,&quot; Organic Electronics 2 (2001) pp. 53-62. cited by other . | Lamansky, Sergey et al., &quot;Highly Phosphorescent Bis-Cyclometalated Iridium Complexes: Synthesis, Photophysical Characterization, and Use in Organic Light Emitting Diodes,&quot; J. Am. Chem., Soc., 2001, 123, pp. 4304-4312. cited by other . | Chemical Abstracts No. 136:332666 (2002). cited by examiner . | Adachi, Chihaya et al., &quot;Nearly 100% Internal Phosphorescence Efficiency in an Organic Light Emitting Device,&quot; J. Appl. Phys., vol. 90, No. 10, Nov. 15, 2001 pp. 5048-5051. cited by other . | Chemical Abstract No. 103:95440 (1985). cited by examiner .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cites">
+		US20020182441 | US6413708
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		91393104 | 49314403
+	</str>
+	<str name="Priority Date">
+		2004-08-06 | 2003-08-07
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF SOUTHERN CALIFORNIA
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF SOUTHERN CALIFORNIA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Los Angeles, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Los Angeles, CA
+	</str>
+	<str name="Inventor(s)">
+		THOMPSON, MARK, E. | DJUROVICH, PETER, I. | MURPHY, DREW | SELKE, MATTHIAS
+	</str>
+	<str name="1st Inventor">
+		THOMPSON, MARK, E.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Anaheim, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Anaheim, CA | Long, Beach, CA | San, Diego, CA | South, Pasadena, CA
+	</str>
+	<str name="Agent/Attorney">
+		HOGAN &amp; HARATSON LLP
+	</str>
+	<str name="Primary Examiner">
+		NAZARIO-GONZALEZ, PORFIRIO
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070041644A1
+	</str>
+	<str name="Application Number">
+		US11455705
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Apparatus and method for estimating a facial pose and a face recognition system using the method
+	</str>
+	<str name="Abstract">
+		An apparatus for estimating a facial pose. The apparatus includes a pre-processing module that provides feature points of a subject's face of a received image, and a pose-estimation module that computes sizes of a left half plane and a right half plane of the face from the provided feature points, and a lateral rotation angle of the face from the computed sizes.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-06-20
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-06
+	</str>
+	<str name="Publication Date">
+		2007-02-22
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-02
+	</str>
+	<str name="All IPC">
+		G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/190
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20070041644A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020050075297
+	</str>
+	<str name="Priority Date">
+		2005-08-17
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-si,KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-si,KR
+	</str>
+	<str name="Inventor(s)">
+		KIM JUNG-BAE | KEE SEOK-CHEOL
+	</str>
+	<str name="1st Inventor">
+		KIM JUNG-BAE
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Yongin-si,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Yongin-si,KR | Seoul,KR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

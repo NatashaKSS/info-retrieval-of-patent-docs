@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7485228
+	</str>
+	<str name="Application Number">
+		US10577745
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Reactor and method for anaerobic wastewater treatment
+	</str>
+	<str name="Abstract">
+		A reactor (10) for anaerobic waste water treatment is designed as a loop-type column reactor comprising a central flow channel (20). In the annular space (40) between the central flow channel (20) and the reactor wall, there are positioned carrier elements (50) for immobilizing microorganisms, with flow passages being provided between adjacent carrier elements (50). The lower portion of the reactor (30), below the carrier elements, is designed as a space intended to receive waste water having microorganisms floating therein during operation of the reactor (10). During operation, there are provided both floating microorganisms and microorganisms that are immobilized on the carrier elements. The waste water to be treated flows centrally downward and up again along the carrier elements (40), with the flow being generated in part by the gas development of the microorganisms. The reactor is used to carry out a process for anaerobic waste water treatment, the reactor being suited for waste water treatment in the food processing industry and the feeding stuff industry as well as in the paper industry and the textile industry.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-10-29
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-10
+	</str>
+	<str name="Publication Date">
+		2009-02-03
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F3/28
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/603 | 210/617 | 210/194 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/603
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1678089A1 | US20070251880A1 | JP2007506542A | WO2005042418A1 | RU2006118344A | JP3989524B2 | CN100447099C | CN1874964A | DE10350502B3 | US7485228
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References">
+		J. W. Morgan et al. &quot;Upflow Sludge Blanket Reactors: The Effect of Bio-supplements on Performance and Granulation&quot;, International Journal of Biotechnical and Chemical Processes, 1991, 52, pp. 243-255. cited by other. | I Morvai et al. &quot;Application of UASB-Reactors to Industrial Waste-Water Treatment; Performance Data and Results in Granulation Control&quot;; Acta Biotechnol. 11(1991) 5. pp. 409-416. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8216471 | US8318008
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US5616240 | US5441634 | US4618418 | US6811701 | US5618412 | US4632692 | US4561974 | US20070251880 | US20020162795 | JP1991178394 | JP1985232295 | JP1986174995 | DE20021046 | JP1993050089 | EP0303149
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		10350502
+	</str>
+	<str name="Priority Date">
+		2003-10-29
+	</str>
+	<str name="Assignee(s)">
+		ATZ-EVNS (SULZBACH-ROSENBERG, DE), HERDING GMBH
+	</str>
+	<str name="1st Assignee">
+		ATZ-EVNS (SULZBACH-ROSENBERG, DE), HERDING GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Amberg, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Amberg, DE
+	</str>
+	<str name="Inventor(s)">
+		HERDING, WALTER | HERDING, URS | PALZ, KURT | THURAUF, RAINER | PRECHTL, STEPHAN | SCHOLZ, RAINER | SCHNEIDER, RALF | WINTER, JOHANN | JUNG, ROLF
+	</str>
+	<str name="1st Inventor">
+		HERDING, WALTER
+	</str>
+	<str name="Number of Inventors">
+		9
+	</str>
+	<str name="1st Inventor Address">
+		Hahnback, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Hahnback, DE | Ursensollen, DE | Crailsheim, DE | Amberg, DE | Amberg, DE | Amberg, DE | Lauf, a., d., Pegnitz, DE | Fensterbach-Wolfring, DE | Gunzenhausen, DE
+	</str>
+	<str name="Agent/Attorney">
+		DORSEY &amp; WHITNEY LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

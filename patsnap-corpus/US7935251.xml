@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7935251
+	</str>
+	<str name="Application Number">
+		US12854420
+	</str>
+	<str name="Title">
+		Waste treatment apparatus
+	</str>
+	<str name="Abstract">
+		A facility for treating solid and liquid waste includes a receiving station, a screening station, a preprocessing station, an alkali mixing station, a press station and a processing station. The screening station is connected to an inlet capable of receiving liquid and solid waste and includes a screen for capturing at least some of the solid waste. The preprocessing station is in fluid communication with the screening station, and includes a degrit chamber for settling out an additional amount of the solids. The alkali mixing station includes an alkali for mixing with the waste to stabilize the waste at a predetermined pH level. The press station receives the stabilized waste and includes a press for separating out an additional portion of the solids. The processing station includes at least one aerobic microorganism generating unit for converting nitrites into nitrogen gas and consuming carbon-based waste material.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-08-11
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-08
+	</str>
+	<str name="Publication Date">
+		2011-05-03
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-05
+	</str>
+	<str name="All IPC">
+		B01D33/70
+	</str>
+	<str name="IPC Primary">
+		B01D33/70
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D33
+	</str>
+	<str name="All UPC">
+		210/219 | 210/179 | 210/262 | 210/150 | 210/151 | 210/205 | 210/220
+	</str>
+	<str name="UPC Primary">
+		210/219
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7455773 | US5360546 | US5417861 | US3462275 | US5853590 | US3546111 | US3838198 | US5846425 | US3764500 | US6673247
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Assignee(s)">
+		BIG FISH ENVIRONMENTAL, LLC
+	</str>
+	<str name="1st Assignee">
+		BIG FISH ENVIRONMENTAL, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Charlevoix, MI
+	</str>
+	<str name="Assignee(s) Address">
+		Charlevoix, MI
+	</str>
+	<str name="Inventor(s)">
+		CAMPBELL, JOHN, W.
+	</str>
+	<str name="1st Inventor">
+		CAMPBELL, JOHN, W.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Charlevoix, MI
+	</str>
+	<str name="Inventor(s) Address">
+		Charlevoix, MI
+	</str>
+	<str name="Agent/Attorney">
+		WARNER NORCROSS &amp; JUDD LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

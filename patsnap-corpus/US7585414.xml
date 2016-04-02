@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7585414
+	</str>
+	<str name="Application Number">
+		US10586889
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water treatment by activated sludge
+	</str>
+	<str name="Abstract">
+		The invention relates to a method of treating water with activated sludge containing micro-organisms. The method comprises the steps of: preparing an environmentally adapted biomass mixture by adapting the activated sludge to a quantity of water having given characteristics in a single reactor under first levels of aeration, whereby the environmentally adapted biomass mixture acquires the capacity to cause concurrent reactions for BOD removal, nitrification and de-nitrification; and treating a portion of water having substantially the same given characteristics with the environmentally adapted biomass mixture capable of causing the concurrent reactions, in the single reactor under a second level of aeration not higher than the first levels of aeration.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-01-20
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-01
+	</str>
+	<str name="Publication Date">
+		2009-09-08
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/620
+	</str>
+	<str name="UPC Primary">
+		210/620
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		JP2007526112A | JP4146491B2 | US20080237122A1 | US7585414 | CN1910118A | EP1559687A1 | WO2005070838A1 | RU2006126526A | CA2552780A1
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report PCT/IB2005/000252 dated Apr. 29, 2005 (European Patent Office). cited by other. | Derwent Accession No. 1978-25292A, English language Abstract of FR 2372121, published 1986. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5906746 | US5071559 | US5266200 | WO1996023735 | FR2814453 | FR2372121
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		EP | IB
+	</str>
+	<str name="Priority Number">
+		04290157 | 2005000252
+	</str>
+	<str name="Priority Date">
+		2004-01-21 | 2005-01-20
+	</str>
+	<str name="Inventor(s)">
+		KISHI, HIROSHI
+	</str>
+	<str name="1st Inventor">
+		KISHI, HIROSHI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Bunkyo-ku, Tokyo, 113-0034, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Bunkyo-ku, Tokyo, 113-0034, JP
+	</str>
+	<str name="Agent/Attorney">
+		OSTROLENK FABER LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

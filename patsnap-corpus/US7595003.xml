@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7595003
+	</str>
+	<str name="Application Number">
+		US10547095
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		On-board water treatment and management process and apparatus
+	</str>
+	<str name="Abstract">
+		A contactor apparatus is provided to treat ballast water that has exited a ballast tank before being expelled from a water-borne ship. Within the contactor apparatus, means are provided for supplying a combination of acoustic energy and dissolved ozone. The acoustic energy can be provided at two or more frequencies (e.g., at 16 and 20 kHz). The acoustic energy and dissolved ozone, together, offer a more-effective and more-efficient mode of disinfecting the ballast water before release.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-07-16
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-07
+	</str>
+	<str name="Publication Date">
+		2009-09-29
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		B06B1/00 | A61L2/02 | B01F11/02 | C02F1/78
+	</str>
+	<str name="IPC Primary">
+		B06B1/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B06
+	</str>
+	<str name="IPC Subclass">
+		B06B
+	</str>
+	<str name="IPC Group">
+		B06B1
+	</str>
+	<str name="All UPC">
+		422/128 | 210/198.1 | 210/242.1 | 210/748 | 366/113 | 210/764 | 210/205 | 422/20 | 210/760 | 210/192
+	</str>
+	<str name="UPC Primary">
+		422/128
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Members">
+		US20060273041A1 | WO2005076771A2 | WO2005076771A3 | US7595003
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Farrar, C.K., &quot;Resonantsonic Advanced Oxidation Reactor&quot;, National Science Foundation Phase 1 Abstract #212, &lt;http://www.nsf.gov.pubs/1999/nsf9981/phase1c.htm&gt; (1999). cited by other . | Donskoy, D., et al., &quot;Low Frequency Sound as a Control Measure for Zebra Mussel Fouling,&quot; Proceedings of the Fifth International Zebra Mussel and Other Aquatic Nuisance Organisms Conference, Toronto, Canada, pp. 103-108 (Feb. 1995). cited by other . | Bukhari, Z., et al., &quot;Comparison of Cryptosporidium parvum Viability and Infectivity Assays following Ozone Treatment of Oocysts,&quot; Appl. Environ. Microbiol., 66(7):2972-2980 (2000). cited by other . | Chase, C., et al., &quot;Marine Bioinvasions Fact Sheet: Ballast Water Treatment Options,&quot; MIT Sea Grant Center for Coastal Resources (2001). cited by other . | Dragsund, E., et al., &quot;Ballast Water Treatment by Ozonation,&quot; l.sup.st International Ballast Water Treatment R&amp;D Symposium, pp. 21-30 (2001). cited by other . | Dahi, E., et al., &quot;Steady State Disinfection of Water by Ozone and Sonozone,&quot; Ozone: Sci. Engin., 2:13-23 (1980). cited by other . | Oemcke, D., et al., &quot;Chemical and Physical Characteristics of Ballast Water: Implications for Treatment Processes and Sampling Methods,&quot; CRC Reef Research Centre Technical Report No. 23 &lt;http://www.reef.crc.org.au/publcations/techreport/TechRep23.html&gt; (1998). cited by other . | U.S. Water News Online, &quot;Ultrasound Eliminates Crypto in British Tests&quot; &lt;http://www.uswaternews.com/archives/arcquality/6ultra.html&gt; (Mar. 1996). cited by other.
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cites">
+		US6125778 | US0842856 | US5040487 | US6869540 | US6024882 | US6402965 | US4076617 | US0662330 | US4788992 | US6171508 | US5888403 | WO2000001255
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		US | US | US | US
+	</str>
+	<str name="Priority Number">
+		54709506 | 48835803 | 53642804 | 2004022799
+	</str>
+	<str name="Priority Date">
+		2006-07-11 | 2003-07-18 | 2004-01-14 | 2004-07-16
+	</str>
+	<str name="Assignee(s)">
+		ENVIRONMENTAL TECHNOLOGIES, INC.
+	</str>
+	<str name="1st Assignee">
+		ENVIRONMENTAL TECHNOLOGIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ellisville, MO
+	</str>
+	<str name="Assignee(s) Address">
+		Ellisville, MO
+	</str>
+	<str name="Inventor(s)">
+		MADDOX, THOMAS, L.
+	</str>
+	<str name="1st Inventor">
+		MADDOX, THOMAS, L.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Chesterfield, MO
+	</str>
+	<str name="Inventor(s) Address">
+		Chesterfield, MO
+	</str>
+	<str name="Agent/Attorney">
+		MINTZ, LEVIN, COHN, FERRIS, GLOVSKY &amp; POPEO, P.C.
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="Assistant Examiner">
+		STELLING, LUCAS
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

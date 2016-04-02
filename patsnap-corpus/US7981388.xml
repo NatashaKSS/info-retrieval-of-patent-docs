@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7981388
+	</str>
+	<str name="Application Number">
+		US11710116
+	</str>
+	<str name="Title">
+		Process for the purification of lithium salts
+	</str>
+	<str name="Abstract">
+		The present invention relates to lithium secondary batteries comprising a negative electrode, a positive electrode, a separator and a lithium-based electrolyte carried in an aprotic solvent, and to the electrolyte compositions, and to methods for purifying battery active materials. The electrolyte comprises at least one solvent and a lithium salt of the formula: Li.sub.2B.sub.12F.sub.xH.sub.12-x-yZ.sub.y where x+y is from 3 to 12, and x and y are independently from 0 to 12, and Z comprises at least one of Cl and Br.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-02-23
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-02
+	</str>
+	<str name="Publication Date">
+		2011-07-19
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		C01D15/00
+	</str>
+	<str name="IPC Primary">
+		C01D15/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C01
+	</str>
+	<str name="IPC Subclass">
+		C01D
+	</str>
+	<str name="IPC Group">
+		C01D15
+	</str>
+	<str name="All UPC">
+		210/681 | 23/295R | 210/679 | 423/203 | 502/415 | 423/179.5 | 423/181
+	</str>
+	<str name="UPC Primary">
+		210/681
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Bowden, W.; Electrochemical Oxidaton of Polyhedral Boron Halide Anions; Journal of Electrochemical Society. vol. 129, 1982; p. 1249-1252. cited by other . | S. Flandrois, et al., &quot;Carbon Materials for Lithium-ion Rechargeable Batteries&quot;, Carbon 37, pp. 165-180 (1999). cited by other . | S. Mori, et al., &quot;Chemical Properties of Various Organic Electrolytes for Lithium Rechargeable Batteries . . . 1. Characterization of Passivating Layer Formed on Graphite in Alkyl Carbonate Solutions&quot;, Journal of Power Sources, 68 pp. 59-64 (1997). cited by other . | SAFT.com and batterspace.com web pages. cited by other . | Abboud, J.L.M, et al., &quot;Critical Compliation of Scales of Solvent Paramenters, Part 1. Pure Non-Hydrogen Bond Donor Solvents&quot;; Pure Appl. Chem., vol. 71, No. 4 pp. 645-718, 1999; pp. 645-718. cited by other . | Xu, Kang; &quot;Nonaqueous Liquid Electrolyte for Lithium-Based Rechargeable Batteries;&quot; Chemical Review; 104, 2004, pp. 4303-4417. cited by other . | Abraham, K. M. et al; &quot;Some Chemistry in the Li/SOCI. Cell;&quot; Journal of the Elecrochemical Society; 1980, vol. 127, p. 2091-2096. cited by other . | Ivanov, et al; U.S. Appl. No. 11/939,850, filed Nov. 13, 2007. cited by other. | Sergei V. Ivanov, et al., Synthesis and Stability of Reactive Salts of Dodecafluorocloso-dodecaborate(2-), J. American Chemical Society, 2003, vol. 125, No. 16 pp. 4694-4695. cited by other . | D. Aurbach, et al., &quot;Recent Studies on the Correlation Between Surface Chemistry, Morphology, Three-Dimensional Structures and Performance of Li and Li--C Intercalation Anodes in Serveral Important Electrolyte Systems&quot;, Journal of Power Sources 68, pp. 91-98 (1997). cited by other . | Handbook of Batteries (3.sup.rd edition); edited by Linden: Reddy, McGraw-Hill; 2002. cited by other .
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cites">
+		US5154279 | US4020240 | US5919287 | US20040072067 | US6136287 | US6781005 | US4274834 | US5478674 | US7465517 | US20050064288 | US6346351 | US6448447 | US20030129497 | US7311993 | US4331743 | USR37700 | US6537697 | US20050227143 | US4201839 | US20070048605 | US20040029010 | US20020055041 | US20020028388 | US6696202 | US5849432 | US4859343 | US20050053841 | US6514474 | US7348103 | US6852446 | US20060040180 | US5154989 | US6521375 | US4139680 | US20020177044 | US6159640 | US20060204843 | US5714279 | US4071664 | US5643695 | US6033808 | EP1630895 | JP1982074974 | JP1978123842 | JP1991285264 | FR2523770 | WO2004070863 | GB2083273 | JP2005158695 | EP1089371 | WO1983003322 | JP2004179136 | JP1980066873 | JP1977032539 | TW249869 | KR020060050582 | EP1513215 | JP2004235057
+	</str>
+	<str name="Cites Count">
+		58
+	</str>
+	<str name="Assignee(s)">
+		AIR PRODUCTS &amp; CHEMICALS, INC.
+	</str>
+	<str name="1st Assignee">
+		AIR PRODUCTS &amp; CHEMICALS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Allentown, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Allentown, PA
+	</str>
+	<str name="Inventor(s)">
+		IVANOV, SERGEI, VLADIMIROVICH | CASTEEL, JR., WILLIAM, JACK | BAILEY, III, WADE, H.
+	</str>
+	<str name="1st Inventor">
+		IVANOV, SERGEI, VLADIMIROVICH
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Schnecksville, PA
+	</str>
+	<str name="Inventor(s) Address">
+		Schnecksville, PA | Emmaus, PA | Emmaus, PA
+	</str>
+	<str name="Agent/Attorney">
+		BOYER, MICHAEL K.
+	</str>
+	<str name="Primary Examiner">
+		BOS, STEVEN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

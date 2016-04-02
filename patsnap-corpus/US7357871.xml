@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7357871
+	</str>
+	<str name="Application Number">
+		US10520233
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for evaluating cation-exchange resin and method for controlling water treatment system using the same
+	</str>
+	<str name="Abstract">
+		A method for a cation-exchange resin wherein a strongly acidic cation-exchange resin is contacted with an aqueous eluting solution and the polystyrenesulfonic acid being eluted from this resin is measured, which comprises setting a plurality of molecular weight ranges in the molecular weight distribution of the polystyrenesulfonic acid eluted, and evaluating the performance capability of the cation-exchange resin based on the correspondence relationship of each molecular weight range with the amount eluted in said each molecular weight range. The evaluation method allows on-target and precise evaluation of the performance capability of a cation-exchange resin being independent of the structure of a base resin and the circumstance under which it is used, which leads to the determination of the optimum time for the exchange of a resin in a water treatment system using a cation-exchange resin, and thus to the extension of exchange of a resin and the reduction of an operation cost for the system.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-05-12
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-05
+	</str>
+	<str name="Publication Date">
+		2008-04-15
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		B01D15/04
+	</str>
+	<str name="IPC Primary">
+		B01D15/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/662 | 210/683 | 210/686
+	</str>
+	<str name="UPC Primary">
+		210/662
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060032818A1 | JP2004041911A | US7357871 | WO2004008134A1 | AU2003235211A1 | JP4229649B2 | CN100401062C | CN1668917A
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		JP1998002890 | JP1997257778 | JP1997210977 | JP2001228134 | JP1998282082 | JP1995159587
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2002202634
+	</str>
+	<str name="Priority Date">
+		2002-07-11
+	</str>
+	<str name="Assignee(s)">
+		ORGANO CORPORATION
+	</str>
+	<str name="1st Assignee">
+		ORGANO CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		NAGATA, YUSUKE | OHASHI, SHINICHI
+	</str>
+	<str name="1st Inventor">
+		NAGATA, YUSUKE
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		NORRIS MCLAUGHLIN &amp; MARCUS PA
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

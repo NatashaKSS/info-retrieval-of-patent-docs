@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8017366
+	</str>
+	<str name="Application Number">
+		US12399323
+	</str>
+	<str name="Title">
+		Self-contained biofuel production and water processing apparatus
+	</str>
+	<str name="Abstract">
+		A system for making biofuels comprising methane, ethanol, and biodiesel comprises a tank (100) with a sealable lid (120). An algae mass (105), water, and either a yeast or bacterial culture (106) is added to the tank. Under high temperature conditions, sour (CO.sub.2-containing) methane is produced and stored in a container (130). Under lower temperature conditions, ethanol and CO.sub.2 are produced. Heated or cooled water passed through a water jacket (160) that surrounds the tank maintains the proper temperature within the tank. The CO.sub.2 is stored in a second container (270). The sour methane and the CO.sub.2 are optionally passed through a scrubber. Scrubbed methane is suitable for use as a fuel and drives a generator (275) that supplies power to various parts of the system. Carbon credits will be available for CO.sub.2 that is trapped in the scrubber. A still (185) separates ethanol and water for later use. Biodiesel can also be made in the apparatus by first making ethanol, then employing a transesterification process.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-03-06
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-03
+	</str>
+	<str name="Publication Date">
+		2011-09-13
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		C05F1/00 | C12P1/04 | C05F11/08 | C12P5/00 | C05F15/00 | C12P5/02 | C12P21/00 | C12P3/00 | C12N1/04 | H01M8/16 | C12P7/16 | C12P7/06 | C02F3/28 | C12P7/04
+	</str>
+	<str name="IPC Primary">
+		C05F1/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C05
+	</str>
+	<str name="IPC Subclass">
+		C05F
+	</str>
+	<str name="IPC Group">
+		C05F1
+	</str>
+	<str name="All UPC">
+		210/632 | 435/290.1 | 435/168 | 435/166 | 210/603 | 210/613 | 435/170 | 210/612 | 435/162 | 435/160 | 435/161 | 435/41 | 435/69.1
+	</str>
+	<str name="UPC Primary">
+		210/632
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		IEI. 2006. Turnkey build operate transfer services for gas engines, power, downloaded from the internet on Feb. 12, 2011 from http://www.integratedenergyindustries.com/biogas-process.html. cited by examiner . | United States Department of Defense Design Criteria Standard, MIL-STD 1472F 23 (1999). cited by other . | White, D., &quot;The Physiology and Biochemistry of Prokaryotes&quot;, Chapter 13-14, Oxford University Press (2000), 43 pp. cited by other. | Ulrich Bretscher's Wastewater Page, &quot;Digesting Sludge and the Influence of the Temperature&quot;, http://www.musketeer.ch/sewage/thermophysic.sub.--digest.html (2008), 3 pp. cited by other . | Archer Daniels Midland Company, &quot;Biodiesel Technical Information&quot;, Biodiesel-Technical-Manual.pdf, www.admworld.com (2008), 12 pp. cited by other . | United Nations Framework Convention on Climate Change (UNFCCC) Sets Reporting Guidelines to Cover Emissions and Removals of Direct Greenhouse Gases (GHGs e.g., carbon dioxide 2008. cited by other . | House, D. &quot;Biogas Handbook&quot;, Alternative House Information, ISBN 0-915238-47-0, AACR2 (2006), 29 pp. cited by other . | Walia et al. 1994. Development of Coal Biogasification (MicGAS Process). Coal-Fired Power Systems 94--Advances in IGCC and PEBC Review Meeting Jun. 21-24, 1994. Morgantown, West Virginia, pp. 376-397. cited by examiner . | McKenna, P. From Smokestack to gas tank. New Scientist, Oct. 7, 2006, vol. 191 Issue 2572, pp. 28-29. cited by examiner . | United States Department of Agriculture (USDA) Natural Resources Conservation Service (NRCS) Environmental Credit Trading Information Series, http://www.info.usda.gov/media/pd, May 2007. cited by other . | Blume, D., &quot;Alcohol Can be a Gas&quot;, The International Institute for Ecological Agriculture, ISBN 9780979043789 (2007), 21 pp. cited by other .
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cited By">
+		US8154138
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4437937 | US20100064746 | US7314503 | US6667347 | US6299774 | BE422877
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Inventor(s)">
+		SCHUH, ALLEN, JOHN | SCHUH, PETER, ALLEN
+	</str>
+	<str name="1st Inventor">
+		SCHUH, ALLEN, JOHN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Pleasanton, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Pleasanton, CA | Pleasanton, CA
+	</str>
+	<str name="Agent/Attorney">
+		PRESSMAN, DAVID
+	</str>
+	<str name="Primary Examiner">
+		WEBER, JON P
+	</str>
+	<str name="Assistant Examiner">
+		SRIVASTAVA, KAILASH C
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

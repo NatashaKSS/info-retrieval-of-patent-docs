@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8038881
+	</str>
+	<str name="Application Number">
+		US12155811
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Wastewater treatment
+	</str>
+	<str name="Abstract">
+		A system and method for treating wastewater by continuously flowing wastewater into a chemostat and continuously discharging clean water out of the chemostat. The system can include sensors and an electronic controller for on-line measuring ambient parameters in the chemostat and adjusting the chemostat's operating conditions accordingly.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-06-10
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-06
+	</str>
+	<str name="Publication Date">
+		2011-10-18
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/745 | 210/743 | 210/614 | 210/742
+	</str>
+	<str name="UPC Primary">
+		210/745
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Response Dated Nov. 10, 2009 to Communication Pursuant to Article 94(3) EPC of Jul. 14, 2009 From the European Patent Office Re.: Application No. 08252000.8. cited by other . | Response Dated Oct. 20, 2010 to Official Action of Sep. 29, 2010 From the US Patent and Trademark Office Re. Application No. 12/155,811. cited by other. | Response Dated Sep. 20, 2010 to Communication Pursuant to Article 94(3) EPC of Jun. 1, 2010 From the European Patent Office Re. Application No. 08252000.8. cited by other . | Communication Pursuant to Article 94(3) EPC Dated Jun. 1, 2010 From the European Patent Office Re. Application No. 08252000.8. cited by other . | European Search Report and the Written Opinion Dated Sep. 26, 2008 From the European Patent Office Re.: Application No. 08252000.8. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20080047903 | US20060138047 | US5989428 | US7628918 | US7097762 | US7314563 | US20060019333 | US5352357 | US5201229 | US5552051 | US5882932 | US6916427 | US7276165 | US5585001 | JP1980097290 | WO2007038843 | GB1551140 | DE10009251 | EP2006254
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Assignee(s)">
+		BIOLOGICAL PETROLEUM CLEANING LTD.
+	</str>
+	<str name="1st Assignee">
+		BIOLOGICAL PETROLEUM CLEANING LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Petach-Tikva, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Petach-Tikva, IL
+	</str>
+	<str name="Inventor(s)">
+		AMIR, DAVID | ROSENBERG, EUGENE | BITTAN-BANIN, GILI
+	</str>
+	<str name="1st Inventor">
+		AMIR, DAVID
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Herzliya, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Herzliya, IL | Givat, Shmuel, IL | Kiryat, Ono, IL
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

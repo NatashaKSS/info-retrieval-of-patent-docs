@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6704450
+	</str>
+	<str name="Application Number">
+		US09964780
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for extracting management information from image
+	</str>
+	<str name="Abstract">
+		A management information extraction apparatus learns the structure of the ruled lines of a document and the position of user-specified management information such as a title, etc. during a form learning process, and stores them in a layout dictionary. During the operation, the structure of the ruled lines extracted from an image of an input document is matched with that of the document in the layout dictionary. Then, position information in the layout dictionary is referred to, and the management information is extracted from the input document.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-09-28
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-09
+	</str>
+	<str name="Publication Date">
+		2004-03-09
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-03
+	</str>
+	<str name="All IPC">
+		G06K9/34
+	</str>
+	<str name="IPC Primary">
+		G06K9/34
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/176 | 382/190 | 715/506 | 715/510
+	</str>
+	<str name="UPC Primary">
+		382/176
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20020034328A1 | US20020044688A1 | US6704450 | US6721463
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		13
+	</str>
+	<str name="Other References">
+		Hamano, &quot;A similarity Retrieval Method for Image Database Using Simple Graphics,&quot; IEEE, pp. 149-154, 1988. | Hirayama &quot;Analyzing form images by using line-shared adjacent cell relations&quot;, IEEE, pp. 768-772, 1996.* | Hori, et al. &quot;Robust table-form structure analysis based on box-driven reasoning&quot;, IEEE, pp. 218-221, 1995.* | U.S. patent application Ser. No. 08/888,794, Naoi et al., filed Jul. 7, 1997. | Casey, R.G., et al., &quot;Intelligent Forms Processing&quot;, IBM Systems Journal, vol. 29, 1990, No. 3., pp. 435-450. | Watanabe, et al. &quot;Layout recognition of multi-kinds of table-form documents&quot;, IEEE, pp. 432-445, 1995.* | &quot;Model and Method of Understanding Layout for Processing of Printed Forms&quot;, IBM Technical Disclosure Bulletin, vol. 37, Jan. 1, 1994, No. 1, pp. 277-279. | U.S. patent application Ser. No. 09/964,571, Naoi et al., filed Sep. 28, 2001. | Office Action from Chinese Patent Office in the corresponding Chinese Patent application No. 97125998.4 of the above-identified US patent application, dated Dec. 20, 2002, including English language translation of the Chinese Office Action. | Yashiro, et al. &quot;A new method of document structure extraction using generic layout knowledge&quot;, IEEE, pp. 282-287, 1989.* | Ishitani &quot;Model matching based on associationgraph for form image understanding&quot;, IEEE, pp. 287-292, 1995.* | European Search Reports for three corresponding European divisional applications (Nos. 02021868.1, 02021140.5, and 02021869.9) of the above-referenced present US patent application, Nov. 7, 2002, three (3) European search reports. | Arturo Pizano, et al., &quot;A Business Form Recognition System,&quot; Proceedings of the International Computer Software and Applications Conference (COMPSAC), Tokyo, Sep. 11-13, 1991, Conf. 15, pp. 626-632. | Pizano, A., et al., &quot;A Business Form Recognition System&quot;, IEEE, Jan. 11, 1991, pp. 626-632. | N. Funakubo, &quot;Pattern Recognition&quot;, pp. 62-67 (Dec. 1, 1991) and English translation.
+	</str>
+	<str name="Other References Count">
+		15
+	</str>
+	<str name="Cited By">
+		US7050630
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5235653 | US4574395 | US5179650 | US5835916 | US5956422 | US4953108 | US5812995 | US5848186 | US4933984 | US5613016 | US5802361 | US5708730 | US5140650 | US5075895 | US4803614 | US5448692 | US5293429 | US5191612 | US5960448 | US4933979 | US4808987 | US5815704 | US5119437 | US5101448 | US5757957 | US5774584 | US5289571 | US5287497 | US6035061 | US5926824 | JP1996235162 | DE4307577 | WO1991045541 | EP0616296 | GB1487507 | WO1992005504 | JP1994203165 | WO1989011703 | JP1997050527 | JP1996223720 | JP1997507471 | EP0654746 | EP0660249 | GB2219674
+	</str>
+	<str name="Cites Count">
+		44
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		8351346
+	</str>
+	<str name="Priority Date">
+		1996-12-27
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		NAOI, SATOSHI | KATSUYAMA, YUTAKA | TAKEBE, HIROAKI
+	</str>
+	<str name="1st Inventor">
+		NAOI, SATOSHI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP | Kawasaki, JP | Kawasaki, JP
+	</str>
+	<str name="Agent/Attorney">
+		STAAS &amp; HALSEY LLP
+	</str>
+	<str name="Primary Examiner">
+		MARIAM, DANIEL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

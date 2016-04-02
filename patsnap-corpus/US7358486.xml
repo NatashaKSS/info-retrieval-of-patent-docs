@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7358486
+	</str>
+	<str name="Application Number">
+		US11323081
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Cleaning and reconditioning of an inline automated chemical analysis system
+	</str>
+	<str name="Abstract">
+		A method, system, and mixture for simultaneously cleaning and reconditioning at least a part of a sampling pathway of an inline automated mass spectrometry system are disclosed. A sampling pathway including a probe or a nebulizer, in one example, may be simultaneously reconditioned and cleaned by mixing an isotopically enriched species and/or natural abundant species with a cleaning solution, and then cleaning the sampling pathway with the spiked cleaning solution through various means and procedures.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-30
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2008-04-15
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		H01J49/04
+	</str>
+	<str name="IPC Primary">
+		H01J49/04
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01J
+	</str>
+	<str name="IPC Group">
+		H01J49
+	</str>
+	<str name="All UPC">
+		250/288 | 210/638 | 250/282
+	</str>
+	<str name="UPC Primary">
+		250/288
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		US7358486
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6813568 | US6878932 | US6558946
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		32308105
+	</str>
+	<str name="Priority Date">
+		2005-12-30
+	</str>
+	<str name="Assignee(s)">
+		METARA, INC.
+	</str>
+	<str name="1st Assignee">
+		METARA, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Sunnyvale, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Sunnyvale, CA
+	</str>
+	<str name="Inventor(s)">
+		HAN, YE
+	</str>
+	<str name="1st Inventor">
+		HAN, YE
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		San, Jose, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Jose, CA
+	</str>
+	<str name="Agent/Attorney">
+		HALLMAN, JONATHAN W. MACPHERSON KWOK CHEN &amp; HEID LLP
+	</str>
+	<str name="Primary Examiner">
+		BERMAN, JACK I.
+	</str>
+	<str name="Assistant Examiner">
+		HASHMI, ZIA R.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

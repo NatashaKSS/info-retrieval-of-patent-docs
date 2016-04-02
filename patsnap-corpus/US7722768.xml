@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7722768
+	</str>
+	<str name="Application Number">
+		US11662160
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for the simultaneous removal of BOD and phosphate from waste water
+	</str>
+	<str name="Abstract">
+		The invention is directed to a process for the simultaneous removal of BOD and phosphate from a liquid containing ammonium, BOD, phosphate and magnesium, the method comprising: feeding the liquid to a reactor containing BOD-oxidising biomass; ensuring that the liquid in the reactor contains an excess to stoichiometry of ammonium and magnesium relative to phosphate, wherein the stoichiometry is related to the stoichiometry of struvite; oxidising at least part of the BOD; adjusting the pH of the liquid in the reactor at a desired value; forming solid material in the reactor, the solid material comprising struvite; separating at least part of the solid material from the reactor effluent; returning a part of the solid material to the reactor. The invention is also directed to a reactor for this process. The advantage of the process and the apparatus is that in one reactor both BOD and phosphate are removed from the liquid.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-09-09
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2010-05-25
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/903 | 210/623 | 210/906 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		J. H. Hunik, J. Tramper, and R. H. Wijffels, A strategy to scale up nitrification processes with immobilized cells of nitrosomonas europaea and nitrobacter agilis, Bioprocess Engineering Publication, 1994, pp. 73-82, vol. 11, The Netherlands. cited by other. | E V. Munch, K. Barr, Controlled Struvite Crystallisation for Removing Phosphorus From Anaerobic Digester Sidestreams, Wat. Res., 2001, pp. 151-159, vol. 35, No. 1, Elsevier Science Ltd., Great Britain. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8246837
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US20020158009 | US20030127379 | US5593590 | US5788842 | US6706521 | US3980556 | US20030201225 | US5126049 | WO2003086990 | EP1496019 | WO2001066475 | WO1998007664 | EP0327184 | DE3732896
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		04077525
+	</str>
+	<str name="Priority Date">
+		2004-09-10
+	</str>
+	<str name="Assignee(s)">
+		PAQUES B.V.
+	</str>
+	<str name="1st Assignee">
+		PAQUES B.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Balk, NL
+	</str>
+	<str name="Assignee(s) Address">
+		Balk, NL
+	</str>
+	<str name="Inventor(s)">
+		ABMA, WIEBE, RUURD | VELLINGA, SJOERD, HUBERTUS, JOSEF | MULDER, RONALD
+	</str>
+	<str name="1st Inventor">
+		ABMA, WIEBE, RUURD
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		De, Wilgen, NL
+	</str>
+	<str name="Inventor(s) Address">
+		De, Wilgen, NL | Tjalleberd, NL | Balk, NL
+	</str>
+	<str name="Agent/Attorney">
+		THE WEBB LAW FIRM
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

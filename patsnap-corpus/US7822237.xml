@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7822237
+	</str>
+	<str name="Application Number">
+		US11068935
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image matching apparatus, image matching method, and image matching program
+	</str>
+	<str name="Abstract">
+		When two images are matched, a partial image S is registered in advance, mutual relative position is obtained when the partial image S and an image I indicate the largest overlap. Based on the relative position, the relative position between the image T and the image I is determined. Thus, it is determined whether or not the image T and the image I match.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-03-02
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2010-10-26
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-10
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/62 | G06F21/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		340/5.83 | 713/186 | 340/5.53 | 382/209 | 382/124
+	</str>
+	<str name="UPC Primary">
+		340/5.83
+	</str>
+	<str name="UPC Class">
+		340
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Japanese Patent Office Notice of Rejection Grounds, mailed Feb. 5, 2008 and issued in corresponding Japanese Patent Application No. 2004-570881. cited by other . | Office Action issued in corresponding Japanese Patent Application No. 2004-570881, mailed on Oct. 16, 2007. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20020041700 | US20040175023 | US5359513 | US20050147282 | US20030007671 | JP2002539683 | JP1994223160 | JP1996110939 | JP1994002174A | JP2001243465 | JP1990245980 | WO2000054494 | JP73540H9 | JP1995037074 | JP1994162174 | JP1994195448
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		FUJII, YUSAKU
+	</str>
+	<str name="1st Inventor">
+		FUJII, YUSAKU
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Agent/Attorney">
+		FUJITSU PATENT CENTER
+	</str>
+	<str name="Primary Examiner">
+		CARTER, AARON W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

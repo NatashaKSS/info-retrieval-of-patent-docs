@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7421097
+	</str>
+	<str name="Application Number">
+		US10446521
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Face identification verification using 3 dimensional modeling
+	</str>
+	<str name="Abstract">
+		A checkpoint screening system uses multiple cameras to provide images at different angles of a person to be screened. Different features extracted from the images at different angles are compared to a profile associated with the person to be screened. In one embodiment, the person first provides an ID, such as a drivers license or other identification, and the profile is retrieved. If a match is detected, the person may continue through the checkpoint. If no match is detected, the person may be directed to a different path through the checkpoint for further verification of identity. A registration process is used to enroll members and obtain a member profile. Three camera angles are utilized to provide a three dimensional image. Each image is independently compared against the profile and the decisions from such comparisons are weighted. The profile is regressively updated and weighted if a match is detected.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-05-27
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-05
+	</str>
+	<str name="Publication Date">
+		2008-09-02
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		G05B19/00 | G06K9/00 | G06K5/00
+	</str>
+	<str name="IPC Primary">
+		G05B19/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G05
+	</str>
+	<str name="IPC Subclass">
+		G05B
+	</str>
+	<str name="IPC Group">
+		G05B19
+	</str>
+	<str name="All UPC">
+		902/3 | 340/5.2 | 235/382 | 382/118 | 902/5
+	</str>
+	<str name="UPC Primary">
+		902/3
+	</str>
+	<str name="UPC Class">
+		902
+	</str>
+	<str name="Family Members">
+		EP1629415A2 | JP2007516503A | DE602004005984D1 | US7421097 | WO2005008570A3 | US20040240711A1 | DE602004005984T2 | EP1629415B1 | WO2005008570A2
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Gordon, G. G., &quot;Face Recognition From Frontal and Profile Views&quot;, The International Workshop on Automatic Face and Gesture Recognition, (1995) 47-52. cited by other. | Beymer, David, et al., &quot;Face Recognition From One Example View&quot;, Proceedings of the Fifth International Conference on Computer Vision, Massachusetts Institute of Technology, Cambridge, Massachusetts, (Jun. 1995), 500-507. cited by other . | &quot;Real-Time Facial Surveillance and Identification System&quot;, Facelt Argus, Product Brochure. Visionics Corporation, Jersey City, NJ, (2002), 5 pages. cited by other . | &quot;FaceVACS&quot;, Cognitec Systems GmbH Website, http://www.congnitec-systems.de/Products.html, 14 pages. cited by other . | Cognitec SmartGate Photograph. cited by other . | &quot;International Search Report for corresponding PCT Application No. PCT/US2004/016486&quot;, (Mar. 2, 2005), 4 pgs. cited by other . | Chellappa, Rama, et al., &quot;Human and Machine Recognition of Faces: A Survey&quot;, Proceedings of the IEEE, 83 (5), (May 1995), 705-741. cited by other . | Liao, Fong-Yuan, et al., &quot;Determining Pose in a Multiple-View Based 3-D Object Recognition System&quot;, Proceedings of 1991 IEEE International Conference on Systems, Man, and Cybernetics, 1, Omni Charlottesville Hotel and the University of Virginia, Charlottesville, Virginia, (Oct. 13-16, 1991), 165-171. cited by other . | &quot;Facial-Recognition Solutions Roudup&quot;, BiometriTech Website, http://www.biometritech.com/features/roundup051502.html, (May 15, 2002), 9 pages. cited by other . | &quot;Cognitec Systems GmbH&quot;, www.cognitec.com, Corporate Information, (Jan. 2003), 11 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cites">
+		US7039221 | US6381346 | US6775397 | US6532011 | US5659625 | US6498970 | US20030059124 | US7272267 | US6181806 | US6504944 | US6160799 | US4975969 | US20030161537 | US6526161 | US6873713 | US5608387 | US6947578 | US6072894 | US20030053662 | US20020048399 | US6111517 | US6094498 | US6608914 | US6002782 | US6356650 | US6301370 | US20050280502 | US20040264745 | US6496594 | US5978100 | US20020039447 | US20010043727 | US6963659 | US6430307 | US6430306 | US6496595 | US6026188 | US5933527 | US6463163 | EP1134691 | WO2003003610 | WO2002009024 | JP1999175718
+	</str>
+	<str name="Cites Count">
+		43
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		44652103
+	</str>
+	<str name="Priority Date">
+		2003-05-27
+	</str>
+	<str name="Assignee(s)">
+		HONEYWELL INTERNATIONAL INC.
+	</str>
+	<str name="1st Assignee">
+		HONEYWELL INTERNATIONAL INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Morristown, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Morristown, NJ
+	</str>
+	<str name="Inventor(s)">
+		HAMZA, RIDA, M. | BAZAKOS, MICHAEL, E. | COOPER, MURRAY, J.
+	</str>
+	<str name="1st Inventor">
+		HAMZA, RIDA, M.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Inver, Grove, Heights, MN
+	</str>
+	<str name="Inventor(s) Address">
+		Inver, Grove, Heights, MN | Bloomington, MN | Minneapolis, MN
+	</str>
+	<str name="Agent/Attorney">
+		FREDRICK, KRIS T.
+	</str>
+	<str name="Primary Examiner">
+		KIM, CHARLES
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

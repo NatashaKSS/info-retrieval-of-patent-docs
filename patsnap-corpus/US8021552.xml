@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8021552
+	</str>
+	<str name="Application Number">
+		US12159388
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process and reactor for anaerobic waste water purification
+	</str>
+	<str name="Abstract">
+		The invention is directed to a process for the anaerobic purification of waste water using a sludge bed system, which process comprises feeding waste water and recycle water to the lower part of an upflow reactor containing mainly granular biomass thus producing biogas in the treatment passing the resulting gas/liquid/solid mixture upward and separating the gas and solid from the liquid in a three phase separator and thereby generating an anaerobic effluent that is withdrawn from the top of the separator, the improvement comprising withdrawing the recycle water separately from the effluent, after the separation of the gas from the liquid, either from the three phase separator or from the top of the reactor outside the three phase separator, and to an upflow reactor suitable for this process.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-05
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2011-09-20
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F3/28
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/603 | 210/260 | 210/616
+	</str>
+	<str name="UPC Primary">
+		210/603
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Written Opinion of the International Searching Authority for PCT/NL2007/000002, issued on Jul. 8, 2008, 4 pages. cited by other . | Nicolella et al., Trends in Biotechnology (2000) 18(7):312-320, Abstract Only. cited by other. | Machine-Assisted English Translation of DE 102004021022, generated on Nov. 2, 2010, http://epo.org. cited by examiner . | International Search Report for PCT/NL2007/000002, mailed on Apr. 17, 2007, 2 pages. cited by other . | Nicolella et al., Journal of Biotechnology (2000) 80:10-12, Abstract Only. cited by other . | Machine-Assisted English Translation of EP 1408008, generated on Nov. 2, 2010, http://epo.org. cited by examiner . | International Preliminary Report on Patentability for PCT/NL2007/000002, issued on Jul. 8, 2008, 5 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6309553 | JP1995308686 | JP1998511893 | JP2005254029 | JP1986174995 | JP1987114699 | JP2006102722 | JP2003033793 | JP1990253898 | JP1997220592 | JP1992341395 | JP1999207384 | JP1986111200 | JP2003039093 | JP2003326294 | JP2000117284 | JP1997248593 | JP1994254588 | DE102004021022 | EP1408008
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		06075015
+	</str>
+	<str name="Priority Date">
+		2006-01-05
+	</str>
+	<str name="Assignee(s)">
+		VEOLIA WATER SOLUTIONS &amp; TECHNOLOGIES SUPPORT
+	</str>
+	<str name="1st Assignee">
+		VEOLIA WATER SOLUTIONS &amp; TECHNOLOGIES SUPPORT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Saint Maurice, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Saint Maurice, FR
+	</str>
+	<str name="Inventor(s)">
+		VERSPRILLE, ABRAHAM, IZAAK | LA, VOS, HENDRIK, RICHARD, PAUL
+	</str>
+	<str name="1st Inventor">
+		VERSPRILLE, ABRAHAM, IZAAK
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Overveen, NL
+	</str>
+	<str name="Inventor(s) Address">
+		Overveen, NL | Ridderkerk, NL
+	</str>
+	<str name="Agent/Attorney">
+		MORRISON &amp; FOERSTER LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

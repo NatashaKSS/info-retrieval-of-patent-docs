@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6400853
+	</str>
+	<str name="Application Number">
+		US09042692
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Image retrieval apparatus and method
+	</str>
+	<str name="Abstract">
+		An image feature amount extraction unit segments an image into a plurality of blocks and calculates the feature amount of each block. A feature amount label string generation unit adds a label to each block in accordance with the feature amount acquired for the block and arranges the labels on the basis of a predetermined block sequence to generate a label string. In retrieval, the similarity between the label string of a specified image and that of an image to be compared is calculated, and an image whose similarity exceeds a predetermined value is output as a retrieval result. In this way, similar image retrieval can be performed in consideration of the arrangement of feature amounts of images, and simultaneously, similar image retrieval can be performed while absorbing any difference due to a variation in photographing condition or the like.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-03-17
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-03
+	</str>
+	<str name="Publication Date">
+		2002-06-04
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-06
+	</str>
+	<str name="All IPC">
+		G06K9/60
+	</str>
+	<str name="IPC Primary">
+		G06K9/60
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		358/403 | 382/195 | 707/2 | 382/305
+	</str>
+	<str name="UPC Primary">
+		358/403
+	</str>
+	<str name="UPC Class">
+		358
+	</str>
+	<str name="Family Members">
+		EP0866409B1 | DE69810369D1 | DE69810369T2 | US6400853 | EP0866409A1
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		21
+	</str>
+	<str name="Other References">
+		Patent Abstracts of Japan, vol. 97, No. 1, Jan. 31, 1997 &amp; JP 08 249349 A (Sakauchi Masao), Sep. 27, 1996. | &quot;An Image Database System with Fast Image Indexing Capability Based on Color Histograms&quot; Proceedings of the Region 10 Annual International Conference (Tenco, Singapore, Aug. 22-26, 1994, vol. 1, No. Conf. 9, Aug. 22, 1994, Chan T K Y, pp. 407-408.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		GB2434933B | GB2434933A | US7023446 | US6819797 | US6691110 | US6704029 | US6876767 | US7711734 | US7852533 | US8014983 | WO2005086810A2 | US7689005 | US8149246 | US6567551 | US6704464
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5913205 | US5159667 | US5805746 | US5129011 | US5606690 | US5652881 | DE4002179 | JP1996249349 | JP1996241335 | EP0643358
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		9066833 | 9190162
+	</str>
+	<str name="Priority Date">
+		1997-03-19 | 1997-07-15
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		SHIIYAMA, HIROTAKA
+	</str>
+	<str name="1st Inventor">
+		SHIIYAMA, HIROTAKA
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Machida, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Machida, JP
+	</str>
+	<str name="Agent/Attorney">
+		FITZPATRICK, CELLA, HARPER &amp; SCINTO
+	</str>
+	<str name="Primary Examiner">
+		BOUDREAU, LEO
+	</str>
+	<str name="Assistant Examiner">
+		SHERALI, ISHRAT
+	</str>
+	<str name="cited by within 3 years">
+		10
+	</str>
+	<str name="cited by within 5 years">
+		21
+	</str>
+</doc>
+

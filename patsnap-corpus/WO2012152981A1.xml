@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2012152981A1
+	</str>
+	<str name="Application Number">
+		PCT/FI2011/050422
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		ARRANGEMENT AND METHOD FOR SOCIAL MEDIA AND SOCIAL NETWORKING
+	</str>
+	<str name="Abstract">
+		A service arrangement (601, 701), such as one or more at least functionally connected electronic devices like servers, comprising a data input entity (602, 706) configured to obtain service-related user input data including data relative to a plurality of users and data relative to a plurality of topics,a community management entity (604, 702, 704, 710) configured to host, based on the user input, a number of groups, wherein each group relates to a predetermined topic of said plurality and contains a number of users of said plurality as members, and to determine the number of members per each group and the activity of the group according to one or more predetermined activity criteria,a user interface (UI) entity (604, 702, 704, 710) configured to determine at least a portion of the UI of the service, wherein each group is represented as a visually distinguishable object (102), preferably a bubble or other circular or rounded shape, positioned in a user-navigable at least two-dimensional space (101, 1a, 201b), and wherein the size of the object indicates the determined number of members and the determined activity in the associated group, and wherein the distance between objects optionally indicates the similarity between the associated groups in terms of users and/or content thereof, and a data output entity (608, 706) configured to transmit service-related output data including UI data indicative of the UI, optionally a web-browser based UI, towards a terminal (612a, 612b) of a service user.A corresponding method is presented.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2011-05-06
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-05
+	</str>
+	<str name="Publication Date">
+		2012-11-15
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-11
+	</str>
+	<str name="All IPC">
+		G06F3/48 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F3/48
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F3
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		KYROL INC
+	</str>
+	<str name="1st Assignee">
+		KYROL INC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		26 91st St Apt 5b, New York, NY 10128-1918, US
+	</str>
+	<str name="Assignee(s) Address">
+		26 91st St Apt 5b, New York, NY 10128-1918, US
+	</str>
+	<str name="Inventor(s)">
+		KYR&#214;L&#196;INEN, JUHO | AVONIUS, LAURA | PAASONEN, JUHO
+	</str>
+	<str name="1st Inventor">
+		KYR&#214;L&#196;INEN, JUHO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Merimiehenkatu, 21, B, 26, FI-00150, Helsinki, FI
+	</str>
+	<str name="Inventor(s) Address">
+		Merimiehenkatu, 21, B, 26, FI-00150, Helsinki, FI | Harjutie, 36, E, FI-02730, Espoo, FI | Taavetti, Laitisen, katu, 9, B, 23, FI-00300, Helsinki, FI
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

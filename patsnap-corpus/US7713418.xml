@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7713418
+	</str>
+	<str name="Application Number">
+		US10590685
+	</str>
+	<str name="Title">
+		Process for recovering organic compounds from aqueous streams containing same
+	</str>
+	<str name="Abstract">
+		A method for a liquid-liquid extraction of hydrophilic organic compounds from aqueous solutions thereof is described. The method generally includes intermixing a sufficient quantity of a specified glycol ether with the aqueous liquor at a first temperature to form a suspension comprising an aqueous raffinate phase and a glycol ether extract phase; separating the glycol ether extract phase from the aqueous raffinate phase; heating the glycol ether extract phase to a second, higher temperature to form a suspension comprising an aqueous extract phase containing a portion of the hydrophilic organic compound and a glycol ether raffinate phase; and separating this glycol ether raffinate phase from the aqueous extract phase. The selected glycol ether has an inverse solubility in water and the partition ratio, value K, for the hydrophilic organic compound is greater than 0.1. This method is useful for recovering valuable hydrophilic organic acids produced via fermentation or produced or used in various manufacturing processes.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-02-18
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-02
+	</str>
+	<str name="Publication Date">
+		2010-05-11
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		C02F1/44 | B01D15/00 | B01D11/04
+	</str>
+	<str name="IPC Primary">
+		C02F1/44
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/639 | 210/634
+	</str>
+	<str name="UPC Primary">
+		210/639
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Allen et al. Use of glycol ethers for selective release of periplasmic proteins from gram-negative bacteria. Biotechnol. Prog. (2007) vol. 23, 1163-1170. cited by examiner . | Christensen, Scott P., et al., &quot;Mutual Solubility and Lower Critical Solution Temperature for Water + Glycol Ether Systems&quot;, J. Chem. Eng. Data 2005, 50, 869-877. cited by other. | Robins, L.A. and R. W. Cusack, &quot;Liquid-Liquid Extraction Operations and Equipment&quot;, Perry's Chemical Engineers' Handbook, 1997, Section 15, 7.sup.th Edition, R.H. Perry and D.W. Green, editors, McGraw-Hill, New York. cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US3556739 | US6229046 | US20090023902 | US4322550 | US4954260 | US6320077 | US5426219 | US20080021204 | US5628906
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Assignee(s)">
+		DOW GLOBAL TECHNOLOGIES INC.
+	</str>
+	<str name="1st Assignee">
+		DOW GLOBAL TECHNOLOGIES INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Midland, MI
+	</str>
+	<str name="Assignee(s) Address">
+		Midland, MI
+	</str>
+	<str name="Inventor(s)">
+		FRANK, TIMOTHY, C. | THYNE, THOMAS, C. | DONATE, FELIPE, A.
+	</str>
+	<str name="1st Inventor">
+		FRANK, TIMOTHY, C.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Midland, MI
+	</str>
+	<str name="Inventor(s) Address">
+		Midland, MI | Midland, MI | Midland, MI
+	</str>
+	<str name="Agent/Attorney">
+		KARADZIC, DRAGAN J. HAYHURST, PAUL D.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="Assistant Examiner">
+		ZALASKY, KATHERINE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

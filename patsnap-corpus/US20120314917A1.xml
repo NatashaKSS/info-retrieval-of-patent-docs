@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120314917A1
+	</str>
+	<str name="Application Number">
+		US13/590354
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Automatic Media Sharing Via Shutter Click
+	</str>
+	<str name="Abstract">
+		A computer-implemented method for automatically sharing media between users is provided. A first image is received depicting a scene with one or more persons. Face detection information is identified for each person in the first image. Identification information for each face detected is obtained without user intervention. The face detection information and the identification information are associated with the first image. The first image including the associated face detection information and identification information is sent to a server hosting a media sharing service. An access link to an event group is received. The event group includes an album of the first image and a first collection of images that share a set of common features with the first image.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2012-08-21
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-08
+	</str>
+	<str name="Publication Date">
+		2012-12-13
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-12
+	</str>
+	<str name="All IPC">
+		G06K9/62 | G06F15/16
+	</str>
+	<str name="IPC Primary">
+		G06K9/62
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		GOOGLE INC.
+	</str>
+	<str name="1st Assignee">
+		GOOGLE INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Mountain View, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Mountain View, CA
+	</str>
+	<str name="Inventor(s)">
+		KIYOHARA, KEITH, SHOJI | BENJAMIN, HENRY | DELAYE, DARREN | CHEN, PING, HSIN | HAN, SIMON | SMILAK, KEVIN | AXE, BRIAN | NOSHADI, HYDUKE | KANITKAR, KEDAR | TSANG, EVAN
+	</str>
+	<str name="1st Inventor">
+		KIYOHARA, KEITH, SHOJI
+	</str>
+	<str name="Number of Inventors">
+		10
+	</str>
+	<str name="1st Inventor Address">
+		Santa, Monica, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Santa, Monica, CA | Sherman, Oaks, CA | San, Francisco, CA | Tustin, CA | Los, Angeles, CA | Redondo, Beach, CA | Portola, Valley, CA | Sherman, Oaks, CA | Los, Angeles, CA | Torrance, CA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

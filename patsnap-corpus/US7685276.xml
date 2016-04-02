@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7685276
+	</str>
+	<str name="Application Number">
+		US12008148
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Automatic, personalized online information and product services
+	</str>
+	<str name="Abstract">
+		A method for providing automatic, personalized information services to a computer user includes the following steps: transparently monitoring user interactions with data during normal use of the computer; updating user-specific data files including a set of user-related documents; estimating parameters of a learning machine that define a User Model specific to the user, using the user-specific data files; analyzing a document to identify its properties; estimating the probability that the user is interested in the document by applying the document properties to the parameters of the User Model; and providing personalized services based on the estimated probability. Personalized services include personalized searches that return only documents of interest to the user, personalized crawling for maintaining an index of documents of interest to the user; personalized navigation that recommends interesting documents that are hyperlinked to documents currently being viewed; and personalized news, in which a third party server customized its interaction with the user. The User Model includes continually-updated measures of user interest in words or phrases, web sites, topics, products, and product features. The measures are updated based on both positive examples, such as documents the user bookmarks, and negative examples, such as search results that the user does not follow. Users are clustered into groups of similar users by calculating the distance between User Models.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-01-08
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-01
+	</str>
+	<str name="Publication Date">
+		2010-03-23
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		G06F15/16
+	</str>
+	<str name="IPC Primary">
+		G06F15/16
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="All UPC">
+		709/223 | 709/224 | 715/736 | 709/228
+	</str>
+	<str name="UPC Primary">
+		709/223
+	</str>
+	<str name="UPC Class">
+		709
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;U.S. Appl. No. 09/597,975, Response filed ar. 4, 2004 to Non Final Office Action mailed Jan. 29, 2004&quot;, 11 pgs. cited by other . | &quot;U.S. Appl. No. 09/597,975, Response filed Sep. 1, 2004 to Final Office Action mailed Jun. 4, 2004&quot;, 6 pgs. cited by other . | Basset, et al., &quot;A Study of Generalization Techniques in Evolutionary Rule Learning&quot;, Paper, (2002), 90 pgs. cited by other . | &quot;U.S. Appl. No. 11/316,785, Non Final Office Action mailed Aug. 22, 2006&quot;, 7 pgs. cited by other . | &quot;U.S. Appl. No. 09/597,975, Response filed Dec. 16, 2003 to Final Office Action mailed Dec. 3, 2003&quot;, 6 pgs. cited by other . | &quot;U.S. Appl. No. 11/316,785, Notice of Allowance mailed Aug. 22, 2006&quot;, 3 pgs. cited by other . | &quot;U.S. Appl. No. 09/597,975, Examiner Interview Summary mailed Dec. 11, 2003&quot;, 2 pgs. cited by other . | &quot;U.S. Appl. No. 09/597,975, Response filed Sep. 4, 2003 to Non Final Office Action mailed 06-04-03&quot;, 10 pgs. cited by other . | &quot;U.S. Appl. No. 11/316,785, Response filed Feb. 15, 2007 to Non Final Office Action mailed Aug. 22, 2006&quot;, 1 pg. cited by other . | &quot;U.S. Appl. No. 09/597,975, Non Final Office Action mailed Nov. 17, 2004&quot;, 30 pgs. cited by other . | Mobasher, B., &quot;Automatic personalization based on web usage mining&quot;, [Online]. Retrieved from the Internet: &lt;URL:maya.cs.depaul.edu/--mobasher/personalization&gt;, 25 pgs. cited by other. | &quot;U.S. Appl. No. 09/597,975, Non Final Office Action mailed Jan. 29, 2004&quot;, 25 pgs. cited by other . | Lecun, Yann, &quot;Machine Learning and Pattern Recognition&quot;, lecture presented at The Courant Institute, New York University, (2004). cited by other . | &quot;U.S. Appl. No. 09/597,975, Response filed Dec. 22, 2004 to Non Final Office Action mailed Nov. 17, 2004&quot;, 24 pgs. cited by other . | &quot;U.S. Appl. No. 09/597,975, Non Final Office Action mailed Jul. 8, 2005&quot;, 14 pgs. cited by other . | &quot;U.S. Appl. No. 09/597,975, Final Office Action mailed Dec. 3, 2003&quot;, 17 pgs. cited by other . | &quot;U.S. Appl. No. 09/597,975, Final Office Action mailed Jun. 4, 2004&quot;, 32 pgs. cited by other . | &quot;U.S. Appl. No. 09/597,975, Notice of Allowance mailed Sep. 22, 2005&quot;, 3 pgs. cited by other . | &quot;U.S. Appl. No. 09/597,975, Response filed Aug. 4, 2005 to Non Final Office Action mailed Jul. 8, 2005&quot;, 7 pgs. cited by other . | Pretschner, Alexander, &quot;Ontology Based Personalized Search&quot;, Master's Thesis, Department of Electrical Engineering and Computer Science, University of Kansas, (1998), 125 pgs. cited by other . | &quot;U.S. Appl. No. 09/597,975, Non Final Office Action mailed Jun. 4, 2003&quot;, 13 pgs. cited by other .
+	</str>
+	<str name="Other References Count">
+		21
+	</str>
+	<str name="Cites">
+		US5867799 | US5704017 | US5999975 | US6647425 | US6732090 | US5991735 | US5964839 | US6828992 | US6230204 | US6029161 | US5918014 | US5754939 | US6915482 | US6564170 | US5983214 | US6567850 | US6006218 | US6981040 | US6182133 | US7320031 | US6687696 | US5933827 | US6606620 | US6041311
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Assignee(s)">
+		PERSONALIZED USER MODEL
+	</str>
+	<str name="1st Assignee">
+		PERSONALIZED USER MODEL
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		New York, NY
+	</str>
+	<str name="Assignee(s) Address">
+		New York, NY
+	</str>
+	<str name="Inventor(s)">
+		KONIG, YOCHAI | TWERSKY, ROY | BERTHOLD, MICHAEL, R.
+	</str>
+	<str name="1st Inventor">
+		KONIG, YOCHAI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		San, Francisco, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Francisco, CA | San, Francisco, CA | Berkeley, CA
+	</str>
+	<str name="Agent/Attorney">
+		SCHWEGMAN, LUNDBERG &amp; WOESSNER, P.A.
+	</str>
+	<str name="Primary Examiner">
+		BAROT, BHARAT N
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

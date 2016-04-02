@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5161204
+	</str>
+	<str name="Application Number">
+		US07533113
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Apparatus for generating a feature matrix based on normalized out-class and in-class variation matrices
+	</str>
+	<str name="Abstract">
+		A method and apparatus under software control for pattern recognition utilizes a neural network implementation to recognize two dimensional input images which are sufficiently similar to a database of previously stored two dimensional images. Images are first image processed and subjected to a Fourier transform which yields a power spectrum. An in-class to out-of-class study is performed on a typical collection of images in order to determine the most discriminatory regions of the Fourier transform. A feature vector consisting of the highest order (most discriminatory) magnitude information from the power spectrum of the Fourier transform of the image is formed. Feature vectors are input to a neural network having preferably two hidden layers, input dimensionality of the number of elements in the feature vector and output dimensionality of the number of data elements stored in the database. Unique identifier numbers are preferably stored along with the feature vector. Application of a query feature vector to the neural network will result in an output vector. The output vector is subjected to statistical analysis to determine if a sufficiently high confidence level exists to indicate that a successful identification has been made. Where a successful identification has occurred, the unique identifier number may be displayed.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1990-06-04
+	</str>
+	<str name="Application Year">
+		1990
+	</str>
+	<str name="Application(Year/Month)">
+		1990-06
+	</str>
+	<str name="Publication Date">
+		1992-11-03
+	</str>
+	<str name="Publication Year">
+		1992
+	</str>
+	<str name="Publication(Year/Month)">
+		1992-11
+	</str>
+	<str name="All IPC">
+		G06K9/66 | G06K9/54 | G06K9/60 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/66
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		708/821 | 382/225 | 382/190 | 382/157
+	</str>
+	<str name="UPC Primary">
+		708/821
+	</str>
+	<str name="UPC Class">
+		708
+	</str>
+	<str name="Family Members">
+		US5161204
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References">
+		&quot;Processing of Multilevel Pictures by Computer--The Case of Photographs of Human Face&quot;, Toshiyuki Sakai &amp; Makoto Nagao, Systms Comp. Contrls (translated from Denshi Tsushia Gakkai Ronbunshi), vol. 54-C, No. 6, 445-452, vol. 2, No. 3, pp. 47-54 (1971). | &quot;When Face Recognition Fails&quot;, K. E. Patterson &amp; A. D. Baddeley, Jrnl. of Experimental Psychology: Human Learning &amp; Memory, vol. 3, No. 4, pp. 406-417 (1977). | &quot;Neural Networks for Planar Shape Classification&quot;, Lalit Gupta and Mohammed R. Sayeh. | &quot;Identification of Human Faces&quot;, A. Jay Goldstein, Leon D. Harmon &amp; Ann B. Lesk, Proceedings of IEEE, vol. 59, No. 5, pp. 748-760 (May, 1971). | &quot;Recognition of Human Faces from Isolated Facial Features: A Developmental Study&quot;, Alvin G. Goldstein &amp; Edmund J. Mackenberg, Psychon. Sci., vol. 6 (4), pp. 149-150 (1966). | &quot;2-D Invariant Object Recognition Using Distributed Associative Memory&quot;, H. Webster, G. L. Zimmerman, IEEE Transactions on Pattern Analysis &amp; Machine Intelligence, vol. 10, No. 6, pp. 811-821 (Nov. 1988). | &quot;To Identify Motorists, the Eye Scanners Have It&quot;, Don Steinberg, PC Week, Connectivity (Jun. 28, 1988). | &quot;JPL Computer Researchers Develop Hardware for Neural Networks&quot;, Breck W. Hendersen, Aviation Week &amp; Space Technology, pp. 129-131 (Oct. 9, 1989). | &quot;A Computer Vision System for the Identification of Individuals&quot;, S. R. Cannon et al., Proc. IECON 1986 Conference, pp. 347-351 (1986). | &quot;`Smart Sensing` in Machine Vision&quot; [Draft], Peter J. Burt, David Sarnoff Research Center, SRI International (Mar. 1987). | &quot;Fast Learning in Artificial Neural Systems: Multilayer Perception Training Using Optimal Estimation&quot;, J. F. Shepanski, TRW, Inc., pp. I-465 through I-472, (undated). | &quot;Automated Quality and Process Control Based on an Optical Fourier/Electronic Neuro Computer Inspection System&quot;, David E. Glover, Globe Holonetics Corp., Intl. Neural Networks Society, pp. 1-12 (Sep. 1988). | &quot;Neural Network Computers Finding Practical Applications at Lockheed&quot;, Breck W. Henderson, Aviation Week &amp; Space Technology, pp. 53-55 (Jan. 15, 1990). | &quot;Evaluation and Enhancement of the AFIT Autonomous Face Recognition Machine&quot;, Thesis by Laurence C. Lambert, Captain, USAF, AFIT/GREENG/87D-35. | &quot;Watch How the Face Fits . . . &quot;, Christine McGourty (c. Mar. 1990). | &quot;The Recognition of Faces&quot;, Leon D. Harmon, Scientific American, pp. 71-82 (undated). | &quot;Digital Signal Processor Accelerators For Neural Network Simulations&quot; by P. Andrew Penz &amp; Richard Wiggins, Texas Instruments. | &quot;Machine Idenification of Human Faces&quot;, L. D. Harmon, M. K. Khan, Richard/Lasch &amp; P. F. Ramig, Pattern Recognition, vol. 13, No. 2, pp. 97-110 (1981). | &quot;Models for the Processing and Identification of Faces&quot;, John L. Bradshaw &amp; Graeme Wallace, Perception &amp; Psychophysics, vol. 9 (5), (1971), pp. 443-448. | &quot;Neurocomputing: Picking the Human Brain&quot;, Robert Hecht-Nielsen, IEEE Spectrum, pp. 36-41 (Mar. 1988). | &quot;Segmentation of Textural Images and Gestalt Organization Using Spatial/Spatial-Frequency Representations&quot;, T. R. Reed &amp; H. Wechsler, IEEE Trans. on Pattern Anlysis &amp; Mach. Intelligence, vol. 12, No. 1, pp. 1-12 (Jan. 1990). | &quot;Technology vs. Terror&quot;, Patrick Flanagan, Electronics, pp. 46-51 (Jul. 1989). | &quot;Generalization in Layered Classification Neural Networks&quot;, Robert J. Marks, II, Les E. Atlas and Seho Oh, Proc. IEEE Intl. Symposium on Circuits &amp; Systems, ISDL Report B-88 (Jun., 1988). | &quot;Parallel Computers, Neural Networks Likely Areas For Advancement in 1990s&quot;, Breck W. Henderson, Aviation Week &amp; Space Technology, pp. 91-95 (Mar. 19, 1990). | &quot;Complete Discrete 2-D Gabor Transforms by Neural Networks for Image Analysis and Compression&quot;, John G. Daugman, IEEE Trans. on Acoustics, Speech &amp; Signal Processing, vol. 36, No. 7, pp. 1169-1179 (Jul. 1988). | &quot;The Effect on Stochastic Interconnects In Artificial Neural Network Classification&quot;, Robert J. Marks, II, Les E. Atlas, Doug C. Park &amp; Seho Oh, IEEE Intl. Conf. on Neural Networks, ISDL Rpt., (Jul. 1988). | &quot;Changing Faces: Visual and Non-Visual Coding Processes in face Recognition&quot;, Vicki Bruce, British Journal of Psychology, 73, pp. 105-116 (1982). | &quot;A Threshold Selection Method from Gray-Level Histograms&quot;, Nobuyuki Otsu, IEEE Transactions on Systems, Man &amp; Cybernetics, vol. SMC-9, No. 1 (Jan. 1979). | &quot;An Introduction to Computing with Neural Nets&quot;, Richard P. Lippmann, IEEE ASSP Mag., pp. 4-22 (Apr. 1987). | &quot;Image Restoration Using a Neural Network&quot;, Yi-tong Zhou, Rama Chellappa, Aseem Vaid &amp; B. Keith Jenkins, IEEE Transactions on Acoustics, Speech, &amp; Signal Processing, vol. 36, No. 7, pp. 1141-1151 (Jul. 1988). | &quot;Not now, dear, the TV might see&quot;, New York Times, (c. Jan. 1990). | &quot;Man-Machine Interaction in Human-face Identification&quot;, A. J. Goldstein, L. D. Harmon &amp; A. B. Lesk, The Bell Systm Tech. Jrnl., vol. 51, No. 2, pp. 399-427 (Feb. 1972). | &quot;Automatic Recognition of Human Face Profiles&quot;, Leon D. Harmon &amp; Willard F. Hunt, Computer Graphics &amp; Image Processing, 6, pp. 135-156 (1977). | &quot;Explorations in Parallel Distributed Processing: A Handbook of Models, Programs and Exercises&quot;, James L. McClelland &amp; David E. Rumelhart, IT Press (1988). | &quot;Neural Networks Primer, Art II&quot;, Maureen Caudill, AI Expert, pp. 55-61 (Dec. 1987). | &quot;Neural Networks Primer, Part I&quot;, Maureen Caudill, AI Expert, pp. 46-52, (Dec. 1987).
+	</str>
+	<str name="Other References Count">
+		36
+	</str>
+	<str name="Cited By">
+		ES2102307A1 | EP0758471B1 | CN101908143B | CN101046680B | US5519805 | US5555317 | US5742522 | US5647058 | US6054268 | US5956701 | US5889578 | US6101264 | US6757666 | US7664719 | US7882106
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US4213183 | US4876731 | US4225850 | US4511918 | US4805225 | US3081379 | US4905286 | US4881270 | US4817176 | US4809331 | US4338626 | US4774677 | US4803736 | US4118730 | US4593367 | US4148061 | US4783754 | US4100370 | US4653109 | US4764973 | US4843631 | US3993976
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		53311390
+	</str>
+	<str name="Priority Date">
+		1990-06-04
+	</str>
+	<str name="Assignee(s)">
+		NEURISTICS, INC.
+	</str>
+	<str name="1st Assignee">
+		NEURISTICS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Milpitas, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Milpitas, CA
+	</str>
+	<str name="Inventor(s)">
+		HUTCHESON, TIMOTHY, L. | OR, WILSON | NARAYANAN, VENKATESH | MOHAN, SUBRAMANIAM | WOHLMUT, PETER, G. | SRINIVASAN, RAMANUJAM | HUNT, BOBBY, R. | RYAN, THOMAS, W.
+	</str>
+	<str name="1st Inventor">
+		HUTCHESON, TIMOTHY, L.
+	</str>
+	<str name="Number of Inventors">
+		8
+	</str>
+	<str name="1st Inventor Address">
+		Los, Gatos, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Los, Gatos, CA | Santa, Clara, CA | Fremont, CA | Sunnyvale, CA | Saratoga, CA | Sunnyvale, CA | Tucson, AZ | Tucson, AZ
+	</str>
+	<str name="Agent/Attorney">
+		LYON &amp; LYON
+	</str>
+	<str name="Primary Examiner">
+		MOORE, DAVID K.
+	</str>
+	<str name="Assistant Examiner">
+		CAMMARATA, MICHAEL
+	</str>
+	<str name="cited by within 3 years">
+		16
+	</str>
+	<str name="cited by within 5 years">
+		35
+	</str>
+</doc>
+

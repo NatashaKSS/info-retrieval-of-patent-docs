@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7833410
+	</str>
+	<str name="Application Number">
+		US12616585
+	</str>
+	<str name="Title">
+		Bio tank/gas replenishment system
+	</str>
+	<str name="Abstract">
+		In systems for treating wastewater liquid by utilizing aerobic biological species, the contaminated wastewater stream is pretreated in a dissolved air flotation system to remove suspended solid waste, including large particles such as fats, grease, and physically emulsified oils. The purified wastewater containing dissolved waste is thereafter gasified and further decontaminated in a bioreactor tank. Biological species in the bioreactor tank consume gas and perform bodily functions that converts dissolved waste into easily removable carbon dioxide and suspend solids. Gas consumed by the biological species is replenished by pumping the wastewater though a liquid-gas mixer. A controller regulates the speed of the pump based on real-time gas concentration measurements provided by a corresponding gas probe disposed within the wastewater in the bioreactor tank.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-11-11
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-11
+	</str>
+	<str name="Publication Date">
+		2010-11-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		B01D17/12
+	</str>
+	<str name="IPC Primary">
+		B01D17/12
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D17
+	</str>
+	<str name="All UPC">
+		210/219 | 366/136 | 366/165.4 | 366/165.5 | 366/152.1 | 366/151.1 | 210/96.1 | 210/206 | 366/165.1 | 366/101 | 210/220 | 366/132 | 210/258 | 210/86 | 210/257.1 | 210/151 | 210/195.1 | 210/512.1 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/219
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6426010 | US6562240 | US6949195 | US6797181 | US6669843 | US6896816 | US6629686 | US5350543 | US6019825 | US6638434 | US7622036 | US2653801 | US6719903
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Inventor(s)">
+		MORSE, DWAIN, E.
+	</str>
+	<str name="1st Inventor">
+		MORSE, DWAIN, E.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Santa, Barbara, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Santa, Barbara, CA
+	</str>
+	<str name="Agent/Attorney">
+		KELLY LOWRY &amp; KELLEY, LLP
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7628927
+	</str>
+	<str name="Application Number">
+		US11302882
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Reactor for removing chemical and biological contaminants from a contaminated fluid
+	</str>
+	<str name="Abstract">
+		A reactor apparatus and method for removing chemical and biological contaminants from a contaminated fluid while minimizing disinfection by-products, sludges, and harmful residue. The reactor has a sequential, multi-stage, reaction vessel with an upper end region and a lower end region. The vessel has a liquid inlet port into which the contaminated fluid may pass. Treated liquid may exit the reactor through a liquid outlet port. A gas inlet port and a gas outlet port are provided. A plurality of stacked reaction chambers have a sieve tray and flange assembly, the sieve tray having holes up through which a gaseous phase may pass. A gas phase electrode, an electrical power supply capable of producing pulsed electrical discharges connected thereto, and a liquid phase electrode are provided. The electrodes create therebetween a pulsed corona discharge for generating reactive species in situ and destroying bacterial contaminants in the liquid. A weir-downcomer tube has an upper portion situated above a level of liquid in the associated chamber. The lower portion is situated below a level of liquid in a reaction chamber next below. The weir-downcomer tube minimizes or prevents back flow of liquid from a reaction chamber to an upstream reaction chamber.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-14
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2009-12-08
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		C01B13/11
+	</str>
+	<str name="IPC Primary">
+		C01B13/11
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C01
+	</str>
+	<str name="IPC Subclass">
+		C01B
+	</str>
+	<str name="IPC Group">
+		C01B13
+	</str>
+	<str name="All UPC">
+		422/216 | 210/742 | 422/144
+	</str>
+	<str name="UPC Primary">
+		422/216
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Members">
+		US20090277775A1 | US7628927
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6695953 | US4602928 | US6027616 | US4695358 | US2000017 | US20020175068 | US6063168 | US5236672 | US2509548 | US3979193 | US5464590 | US1931436 | US6096118 | US6554975 | US4313739 | US6488819 | US5827488 | US5630915 | US6652715 | US6491797 | US6264898 | US20020014400 | US5695619 | US5464513 | US5766447 | US6033565 | US6576202 | US5310955 | US5972076 | US5843383 | US5961693 | US4066526 | US6365112 | US20020170817 | US4650555 | US6193934 | US5549795 | US6455014 | US5855855 | US4481017
+	</str>
+	<str name="Cites Count">
+		40
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		30288205
+	</str>
+	<str name="Priority Date">
+		2005-12-14
+	</str>
+	<str name="Assignee(s)">
+		VESITECH, INC.
+	</str>
+	<str name="1st Assignee">
+		VESITECH, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hancock, MI
+	</str>
+	<str name="Assignee(s) Address">
+		Hancock, MI
+	</str>
+	<str name="Inventor(s)">
+		METSA, JANET, C.
+	</str>
+	<str name="1st Inventor">
+		METSA, JANET, C.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Houghton, MI
+	</str>
+	<str name="Inventor(s) Address">
+		Houghton, MI
+	</str>
+	<str name="Agent/Attorney">
+		BROOKS KUSHMAN P.C.
+	</str>
+	<str name="Primary Examiner">
+		MARCHESCHI, MICHAEL A
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

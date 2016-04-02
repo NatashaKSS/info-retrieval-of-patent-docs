@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100100835A1
+	</str>
+	<str name="Application Number">
+		US12254654
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		VISUALIZING GEOGRAPHIC-AREA CHANGE DETECTED FROM HIGH-RESOLUTION, REMOTELY SENSED IMAGERY
+	</str>
+	<str name="Abstract">
+		A method, system, and medium are provided for presenting aspects of change associated with a geographic area that has been captured by high-resolution, remotely sensed imagery. One embodiment of the method includes receiving a query directed at the geographic area that includes one or more inputs, the query seeking an identification of regions associated with the geographic area that are characterized by aspects of change based on the one or more inputs; applying the query to a dataset of geospatial information that stores imagery associated with the geographic area, wherein the dataset includes information that is sufficient to identify the regions, and wherein the imagery is derived from the high-resolution, remotely sensed imagery, which is characterized by having a resolution of three meters or less per pixel; receiving a first results set that includes a first plurality of keys and corresponding change scores, wherein, (1) each key is useable to identify a certain region, and (2) each change score indicates an amount of change in the certain region from a first state to a second state; and presenting at least a portion of the results set in a viewing application.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2008-10-20
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-10
+	</str>
+	<str name="Publication Date">
+		2010-04-22
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		G06T13/00 | G06K9/68 | G06F3/48
+	</str>
+	<str name="IPC Primary">
+		G06T13/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T13
+	</str>
+	<str name="All UPC">
+		345/473 | 715/810 | 382/219 | 715/765
+	</str>
+	<str name="UPC Primary">
+		345/473
+	</str>
+	<str name="UPC Class">
+		345
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		CURATORS OF THE UNIVERSITY OF MISSOURI
+	</str>
+	<str name="1st Assignee">
+		CURATORS OF THE UNIVERSITY OF MISSOURI
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Columbia,MO,US
+	</str>
+	<str name="Assignee(s) Address">
+		Columbia,MO,US
+	</str>
+	<str name="Inventor(s)">
+		KLARIC MATTHEW NICHOLAS | DAVIS CURTIS HERBERT | SCOTT GRANT JASON | SHYU CHI-REN | CLAYWELL BRIAN CHRISTOPHER
+	</str>
+	<str name="1st Inventor">
+		KLARIC MATTHEW NICHOLAS
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Columbia,MO,US
+	</str>
+	<str name="Inventor(s) Address">
+		Columbia,MO,US | Columbia,MO,US | Columbia,MO,US | Columbia,MO,US | Columbia,MO,US
+	</str>
+	<str name="Agent/Attorney">
+		SHOOK, HARDY &amp; BACON LLP,INTELLECTUAL PROPERTY DEPARTMENT
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

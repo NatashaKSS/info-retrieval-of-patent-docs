@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7413658
+	</str>
+	<str name="Application Number">
+		US10904670
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Separation method
+	</str>
+	<str name="Abstract">
+		The present invention relates to a method for separating products from a mixture by reversed phase high performance liquid chromatography using a column packed with a stationary phase which is hydrophobic and a mobile phase, wherein the loading step, during which the products to be separated are introduced in the column, is carried out with an aqueous phase while applying an overpressure of at least about 0.3 MPa.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-11-22
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-11
+	</str>
+	<str name="Publication Date">
+		2008-08-19
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/198.2 | 210/635 | 210/656
+	</str>
+	<str name="UPC Primary">
+		210/198.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20050133452A1 | US7413658
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Doschi, &quot;A New Highly Stable Polar . . . &quot;, CAST, Sep./Oct. 1999, 5-6. cited by other. | Przybyciel, et al., &quot;Phase Collapse in Reversed-Phase LC,&quot; LC GC Europe, Oct. 2002, 652-657. cited by other . | Zengbiao, et al., &quot;Wetting of Octadecylsilylated Silica . . . &quot;, Analytical Chemistry, vol. 68, No. 1, Jan. 1, 1996, 124-129. cited by other . | Nagae, et al., &quot;Retention Behaviour . . . &quot;, Bunseki Kagaku, 0525-1931, Vol. 49, No. 11, Nov. 2000, 887-893 (abstract). cited by other . | Wolcott, et al., &quot;Lessons in Column Washing&quot;, LC-GC, vol. 17, No. 4, Apr. 1999, 316-321. cited by other . | Majors, et al., &quot;Columns for Reversed-Phase LC . . . &quot;, LC-GC Europe, Dec. 2002, 780-786. cited by other . | Moller, et al., &quot;Wettability Behaviour . . . &quot;, Presentation at &quot;Analysdagarna&quot;, May 2003. cited by other . | Nagae, et al., &quot;The Retention Behaviour . . . &quot;, Presentation at the HPLC 2002 Conference. cited by other . | Snyder (Introduction to Modern Liquid Chromatography, John Wiley, New York 1979, pp. 6-8 and 238-240). cited by examiner . | Herbert et al., &quot;The HPLC Analysis of Polar . . . &quot;, Poster presented at HPLC 2001, Maastricht, Netherlands, Jul. 2001. cited by other . | Enami, et al., &quot;The Retention Behaviour . . . &quot;, LC GC Europe, Jul. 2003, 418-425. cited by other .
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cites">
+		US6841073 | US6926823 | US20050011836 | US5180670 | US5277813 | US7125492 | US20040112815 | US6966992 | US6241891 | EP0269080
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		90467004 | 52369503
+	</str>
+	<str name="Priority Date">
+		2004-11-22 | 2003-11-21
+	</str>
+	<str name="Assignee(s)">
+		AKZO NOBEL N.V.
+	</str>
+	<str name="1st Assignee">
+		AKZO NOBEL N.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Arnhem, NL
+	</str>
+	<str name="Assignee(s) Address">
+		Arnhem, NL
+	</str>
+	<str name="Inventor(s)">
+		WINKEL, PETTERSSON, SYLVIA | PERSSON, BORJE | NYSTROM, MATS
+	</str>
+	<str name="1st Inventor">
+		WINKEL, PETTERSSON, SYLVIA
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Vastra, Frolunda, SE
+	</str>
+	<str name="Inventor(s) Address">
+		Vastra, Frolunda, SE | Agnesberg, SE | Ytterby, SE
+	</str>
+	<str name="Agent/Attorney">
+		SERBIN, DAVID J. MORRISS, ROBERT C.
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

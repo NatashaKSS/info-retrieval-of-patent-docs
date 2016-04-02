@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8369656
+	</str>
+	<str name="Application Number">
+		US12/341953
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Interactively ranking image search results using color layout relevance
+	</str>
+	<str name="Abstract">
+		This disclosure describes various exemplary user interfaces, methods, and computer program products for the interactively ranking image search results refinement method using a color layout. The method includes receiving a text query for an image search, presenting image search results in a structured presentation based on the text query and information from an interest color layout. The process creates image search results that may be selected by the user based on color selection palettes or color layout specification schemes. Then the process ranks the image search results by sorting the results according to similarity scores between color layouts from the image search results and the interest color layout from a user based on the color selection palettes and the color layout specification schemes.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-12-22
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-12
+	</str>
+	<str name="Publication Date">
+		2013-02-05
+	</str>
+	<str name="Publication Year">
+		2013
+	</str>
+	<str name="Publication(Year/Month)">
+		2013-02
+	</str>
+	<str name="All IPC">
+		G06K9/60
+	</str>
+	<str name="IPC Primary">
+		G06K9/60
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/305 | 382/162
+	</str>
+	<str name="UPC Primary">
+		382/305
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Bamidele, et al., &quot;An Attention Based Approach to Content Based Image Retrieval&quot;, retrieved on May 26, 2010 at &lt;&lt;http://muscle.ercim.org/images/DocumentPDF/MP.sub.--220.sub.--BTT- J.sub.--paper.sub.--book%20-%20final.pdf&gt;&gt;, Kluwer Academic Publishers, BT Technology Journal, vol. 22, No. 3, Jul. 2004, pp. 151-160. cited by applicant | Guntzer, et al., &quot;Optimizing Multi-Feature Queries for Image Databases&quot;, retrieved on May 26, 2010 at &lt;&lt;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.9882&amp;- rep=rep1&amp;type=pdf&gt;&gt;, Morgan Kaufmann Publishers, VLDB Endowment, Proceedings of Conference on Very Large Data Bases, Cairo, EG, 2000, pp. 419-428. cited by applicant | PCT/US2006/066150 Search Report, dated Jun. 16, 2010, 10 pages. cited by applicant | Aigrain, et al., &quot;Content-based Representation and Retrieval of Visual Media: A State-of-the-Art Review&quot;, retrieved on Nov. 12, 2008 at &lt;&lt;http://paigrain.debatpublic.net/docs/MTAP.pdf&gt;&gt;, pp. 1-26. cited by applicant | Cui, et al., &quot;IntentSearch: Interactive On-line Image Search Re-ranking&quot;, retrieved on Nov. 12, 2008 at &lt;&lt;http://www.stanford.edu/.about.jycui/data/Jingyu.sub.--Cui.sub.--- MM08e.pdf&gt;&gt;, ACM, MM 2008, Vancouver, British Columbia, Canada, Oct. 26-31, 2008, 2 pages. cited by applicant | Cui, et al., &quot;Real Time Google and Live Image Search Re-ranking&quot;, retrieved on Nov. 12, 2008 at &lt;&lt;http://www.stanford.edu/.about.jycui/data/Jingyu.sub.--Cui.sub.--- MM08de.pdf&gt;&gt;, ACM, MM 2008, Vancouver, British Columbia, Canada, Oct. 26-31, 2008, 4 pages. cited by applicant | Jacobs, et al., &quot;Fast Multiresolution Image Querying&quot;, retrieved on Nov. 12, 2008 at &lt;&lt;http://grail.cs.washington.edu/projects/query/mrquery.pdf&gt;&gt;- , Department of Computer Science and Engineering, University of Washington, Seattle, Washington, 10 pages. cited by applicant | Lin, et al., &quot;Web Image Retrieval Re-Ranking with Relevance Model&quot;, retrieved on Nov. 12, 2008 at &lt;&lt;http://www.informedia.cs.cmu.edu/documents/wi03.pdf&gt;&gt;, 7 pages. cited by applicant | Valova, et al., &quot;Retrieval by Color Features in Image Databases&quot;, retrieved on Nov. 12, 2008 at &lt;&lt;http://www.sztaki.hu/conferences/ADBIS/17-Valova.pdf&gt;&gt;, 16 pages. cited by applicant | Veltkamp, et al., &quot;Content-Based Image Retrieval Systems: A Survey&quot;, retrieved on Nov. 12, 2008 at &lt;&lt;http://give-lab.cs.uu.nl/cbirsurvey/cbir-survey.pdf&gt;&gt;, Oct. 28, 2002, pp. 1-62. cited by applicant | Wang, et al. &quot;Layout-Sensitive Image Search&quot;, Microsoft Research Asia, University of Science and Technology of China, Dec. 17, 2008, 10 pages. cited by applicant | Worring, et al., &quot;Interactive Retrieval of Color Images&quot;, retrieved on Nov. 12, 2008 at &lt;&lt;www.science.uva.nl/research/reports-isis/2001/ISISreport2001-08.p- s&gt;&gt;, 2001, 2 title pages and 1-30. cited by applicant | Yang, et al., &quot;Semantic Image Browser: Bridging Information Visualization with Automated Intelligent Image Analysis&quot;, retrieved on Nov. 12, 2008 at &lt;&lt;http://www.viscenter.uncc.edu/TechnicalReports/CVC-UNCC-06-02.pdf- &gt;&gt;, 8 pages. cited by applicant | Flickner, et al., &quot;Query by Image and Video Content: The QBIC System&quot;, IEEE Computer Society, Computer, vol. 28, Issue 9, Sep. 1995, pp. 23-32. cited by applicant | Office Action for U.S. Appl. No. 12/700,613, mailed on Jan. 13, 2012, Xian-Sheng Hua, &quot;Smart Interface for Color Layout Sensitive Image Search&quot;, 20 pgs. cited by applicant | Office action for U.S. Appl. No. 12/700,613, mailed on Sep. 18, 2012, Hua et al., &quot;Smart Interface for Color Layout Sensitive Image Search&quot;, 22 pages. cited by applicant | Chinese Office Action mailed Sep. 24, 2012 for Chinese patent application No. 200980152978.7, a counterpart foreign application of U.S. Appl. No. 12/341,953, 9 pages. cited by applicant.
+	</str>
+	<str name="Other References Count">
+		17
+	</str>
+	<str name="Cites">
+		US5802361 | US5893095 | US6181818 | US6519360 | US6567814 | US6968366 | US7657100 | US20030109940 | US20030160824 | US20030187844 | US20070019864 | US20070223811 | US20070288432 | US20080046410 | US20080118151 | US20080162469 | US20080222560 | US20090254455 | US20090254539 | US20090313294 | CN1926575 | CN101154290 | EP0713186 | KR20060068877
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond, WA
+	</str>
+	<str name="Inventor(s)">
+		WANG, JINGDONG | LI, SHIPENG | HUA, XIAN-SHENG | ZHAO, YINGHAI
+	</str>
+	<str name="1st Inventor">
+		WANG, JINGDONG
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Beijing, CN
+	</str>
+	<str name="Inventor(s) Address">
+		Beijing, CN | Beijing, CN | Beijing, CN | Hefei, Anhui, CN
+	</str>
+	<str name="Agent/Attorney">
+		LEE &amp; HAYES, PLLC
+	</str>
+	<str name="Primary Examiner">
+		REPKO, JASON M
+	</str>
+	<str name="Assistant Examiner">
+		HARANDI, SIAMAK
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

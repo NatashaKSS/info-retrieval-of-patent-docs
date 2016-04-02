@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7497956
+	</str>
+	<str name="Application Number">
+		US10497059
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for stabilizing and conditioning urban and industrial wastewater sludge
+	</str>
+	<str name="Abstract">
+		The invention concerns a method for stabilizing and conditioning wastewater sludge. The invention is characterized in that it consists in treating sludge in an acid environment (3.0.ltoreq.pH.ltoreq.5.0), with an inorganic acid and two oxidizing agents, that is a ferric iron salt and hydrogen peroxide. The ferric iron salt is used in such an amount as to obtain a concentration ranging between 5 and 40 kg of Fe per ton of dry sludge; the hydrogen peroxide is used in such an amount as to obtain a concentration ranging between 5 and 40 kg of H.sub.2O.sub.2 per ton of dry sludge; mixing the treated sludge for a time interval sufficient to stabilize the sludge and improve its dehydrability; then flocculating the stabilized sludge by adding an organic polymer; then dehydrating the flocculated sludge. Said method enables to significantly improve the dehydrability properties of the sludge while increasing the dry solid content during its mechanical dehydration.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-11-29
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-11
+	</str>
+	<str name="Publication Date">
+		2009-03-03
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		C02F11/14
+	</str>
+	<str name="IPC Primary">
+		C02F11/14
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F11
+	</str>
+	<str name="All UPC">
+		210/928 | 210/737 | 210/727 | 210/725 | 210/721
+	</str>
+	<str name="UPC Primary">
+		210/928
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		AU2002221407A1 | JP2005510354A | CA2468714A1 | EP1461292A1 | WO2003045851A1 | WO2003045852A1 | US7497956 | US20050077245A1 | AU2002349219A1
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References">
+		Everett, Wat. Res., 1974, vol. 8, pp. 899-906. cited by other . | Dollerer et al., Wat. Sci. Technol., 1993, vol. 28, No. 1, pp. 243-248. cited by other . | Karlsson et al., Wat. Sci. Technol., 1993, vol. 27, No. 5/6, pp. 449-456. cited by other . | Modell, Mater. Techno., 1993, vol. 8, No. 7/8, p. 131-141. cited by other.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		US7947105 | US8202342 | US8192519 | US7947104
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		US4221661 | US7166227 | US4853208 | US5051191 | US6855256 | US4377486 | US6248148 | JP1978110964 | JP1993104100 | CA1074925 | WO1999037585 | WO2002004358
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		CA
+	</str>
+	<str name="Priority Number">
+		PCT/CA01/01709
+	</str>
+	<str name="Priority Date">
+		2001-11-29
+	</str>
+	<str name="Assignee(s)">
+		CORPORATION BIOLIX
+	</str>
+	<str name="1st Assignee">
+		CORPORATION BIOLIX
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Quebec, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Quebec, CA
+	</str>
+	<str name="Inventor(s)">
+		BLAIS, JEAN-FRANCOIS | MERCIER, GUY | DROGUI, PATRICK
+	</str>
+	<str name="1st Inventor">
+		BLAIS, JEAN-FRANCOIS
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Beauport, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Beauport, CA | Quebec, CA | Sainte-Foy, CA
+	</str>
+	<str name="Agent/Attorney">
+		GOUDREAU GAGE DUBUC
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		3
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

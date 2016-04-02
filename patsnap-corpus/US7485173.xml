@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7485173
+	</str>
+	<str name="Application Number">
+		US11300775
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Cross-linkable and cross-linked mixed matrix membranes and methods of making the same
+	</str>
+	<str name="Abstract">
+		The present invention is for novel high performance cross-linkable and cross-linked mixed matrix membranes and the use of such membranes for separations such as for CO.sub.2/CH.sub.4, H.sub.2/CH.sub.4 and propylene/propane separations. More specifically, the invention involves the preparation of cross-linkable and cross-linked mixed matrix membranes (MMMs). The cross-linkable MMMs were prepared by incorporating microporous molecular sieves or soluble high surface area microporous polymers (PIMs) as dispersed microporous fillers into a continuous cross-linkable polymer matrix. The cross-linked MMMs were prepared by UV-cross-linking the cross-linkable MMMs containing cross-linkable polymer matrix such as BP-55 polyimide. Pure gas permeation test results demonstrated that both types of MMMs exhibited higher performance for CO.sub.2/CH.sub.4 and H.sub.2/CH.sub.4 separations than those of the corresponding cross-linkable and cross-linked pure polymer matrices.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-15
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2009-02-03
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		B01D71/76 | B01D53/22
+	</str>
+	<str name="IPC Primary">
+		B01D71/76
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D71
+	</str>
+	<str name="All UPC">
+		96/14 | 96/13 | 210/640 | 96/10 | 96/12 | 95/51 | 95/50 | 96/8 | 95/54 | 95/55 | 96/4 | 95/45
+	</str>
+	<str name="UPC Primary">
+		96/14
+	</str>
+	<str name="UPC Class">
+		96
+	</str>
+	<str name="Family Members">
+		US20090031897A1 | US7485173
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		10
+	</str>
+	<str name="Other References">
+		&quot;Polymers of Instrinsic Microporosity (PIMs): Bridging the Void Between Microporous and Polymeric Materials&quot; by N.B. McKeown et al., Chem. Eur. J. 2005, 11, 2610-2620. cited by other . | &quot;Microporous Polymeric Materials&quot; by P.M. Budd et al., Materials Today, Apr. 2004, 40-46. cited by other . | &quot;Porphyrin-Based Nanoporous Network Polymers&quot; by N.B. McKeown et al., Chem. Commun., 2002, 2782-2783, 2002. cited by other . | McKeown et al., Chem. Commun., 2782 (2002). cited by other . | &quot;Solution-Processed, Organophilic Membrane Derived from a Polymer of Intrinsic Microporosity&quot; by P.M. Budd et al., Adv. Mater. 2004, 16, 456, No. 5, Mar. 5. cited by other . | &quot;Phthalocyanine-Based Nanoporous Network Polymers&quot; by N.B. McKeown et al., Chem. Commun., 2002, 2780-2781, 2002. cited by other . | &quot;Polymers of Intrinsic Microporosity (PIMs): Robust, Solution-Processable, Organic Nanoporous Materials&quot; by P.M. Budd et al., Chem. Commun., 2004, 230-231. cited by other . | McKeown et al., Chem. Commun., 2780 (2002). cited by other . | Budd et al., J. Mater. Chem., 13: 2721 (2003). cited by other . | Budd et al., Chem. Commun., 230 (2004). cited by other . | McKeown et al., Chem. Eur. J., 11:2610 (2005). cited by other. | &quot;A Nanoporous Network Polymer Derived from Hexaazatrinaphthylene with Potential as an Adsorbent and Catalyst Support&quot; by P.M. Budd et al., J. Mater. Chem., 2003, 13, 2721-2726. cited by other . | Budd et al., Adv. Mater., 16:456 (2004). cited by other .
+	</str>
+	<str name="Other References Count">
+		13
+	</str>
+	<str name="Cited By">
+		US7897207 | US7846496 | US7943543 | US8132677 | US8127936 | US7810652 | US8241501 | US7819944 | US8132678 | US8127937
+	</str>
+	<str name="Cited By Count">
+		10
+	</str>
+	<str name="Cites">
+		US4880442 | US6503294 | US6503295 | US20050230305 | US5104532 | US20040107830 | US6740143 | US7109140 | US3567632 | US5507856 | US4705540 | US5538536 | US6585802 | US6726744 | US7138006 | US20050043167 | US7166146 | US5431864 | US4740219 | US6508860 | US4728345 | US6248682 | US20020053284 | US6048388 | US6626980 | US6946015 | US6500233 | US4717393 | US6663805 | US5127925 | US5085676 | US4968430 | US7025804 | US5447559 | US4230463 | US20070137477 | US6755900 | US20060117949 | US5288304 | US20040147796 | US20050139066 | US20030220188 | US20050268782 | US6997971 | US4925459 | US6562110 | US20070022877 | US6863983 | US6579343 | US6517606 | US6932859 | US20060107830 | US6605140 | WO2007007051 | WO2005012397 | EP11188477
+	</str>
+	<str name="Cites Count">
+		56
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		30077505
+	</str>
+	<str name="Priority Date">
+		2005-12-15
+	</str>
+	<str name="Assignee(s)">
+		UOP LLC
+	</str>
+	<str name="1st Assignee">
+		UOP LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Des Plaines, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Des Plaines, IL
+	</str>
+	<str name="Inventor(s)">
+		LIU, CHUNQING | CHIOU, JEFFREY, J. | WILSON, STEPHEN, T.
+	</str>
+	<str name="1st Inventor">
+		LIU, CHUNQING
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Schaumburg, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Schaumburg, IL | Irvine, CA | Libertyville, IL
+	</str>
+	<str name="Agent/Attorney">
+		GOLDBERG, MARK
+	</str>
+	<str name="Primary Examiner">
+		GREENE, JASON M
+	</str>
+	<str name="cited by within 3 years">
+		6
+	</str>
+	<str name="cited by within 5 years">
+		6
+	</str>
+</doc>
+

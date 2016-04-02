@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7501064
+	</str>
+	<str name="Application Number">
+		US11030542
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Integrated electro-pressure membrane deionization system
+	</str>
+	<str name="Abstract">
+		An integrated treatment system using electrodialysis and pressure-driven membranes for deionizing and decontaminating liquids to a near-pure quality for use or reuse in industrial or municipal operations. The integrated system includes steps of pre-filtering contaminated feed liquids blending the filtered liquids in preparation for treating the mixed liquids in parallel or sequential treatment steps utilizing nanofiltration or reverse osmosis, proceeded by or followed by an integrated electrodialysis treatment. A control means selectively directs mixed liquids to each of the treatment units for treatment in parallel or in series depending on the conductivity and residual contaminants in the mixed liquids. In comparison with nanofiltration or reverse osmosis only systems, or electrodialysis only systems, the integrated system provides improved efficiencies for treatment, requires less energy to operate, and reduces maintenance and capital costs.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-01-06
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-01
+	</str>
+	<str name="Publication Date">
+		2009-03-10
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		C25D17/00 | B01D61/00 | B01D63/00
+	</str>
+	<str name="IPC Primary">
+		C25D17/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C25
+	</str>
+	<str name="IPC Subclass">
+		C25D
+	</str>
+	<str name="IPC Group">
+		C25D17
+	</str>
+	<str name="All UPC">
+		210/641 | 210/257.2 | 204/523 | 210/653 | 204/522 | 210/652 | 204/524 | 210/195.2 | 204/526
+	</str>
+	<str name="UPC Primary">
+		210/641
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1846143A4 | WO200806074259A3 | CA2595961A1 | AU2006204032A1 | EP1846143A2 | US20060144787A1 | WO2006074259A2 | US7501064
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7820024 | US8206589 | US8182693 | US8252171 | US8277627 | US8114259
+	</str>
+	<str name="Cited By Count">
+		6
+	</str>
+	<str name="Cites">
+		US6755951 | US6117297 | US6620327 | US6649037 | US6274020 | US6187197 | US7083730 | US6030535 | US5057197 | US6461491 | US6537436 | US6056878 | US6187201 | US6190556 | US6365023
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		3054205
+	</str>
+	<str name="Priority Date">
+		2005-01-06
+	</str>
+	<str name="Assignee(s)">
+		EET
+	</str>
+	<str name="1st Assignee">
+		EET
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Harriman, TN
+	</str>
+	<str name="Assignee(s) Address">
+		Harriman, TN
+	</str>
+	<str name="Inventor(s)">
+		SCHMIDT, ERNST | SFERRAZZA, ALOIS, F. | WILLIAMS, MICHAEL, E.
+	</str>
+	<str name="1st Inventor">
+		SCHMIDT, ERNST
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Knoxville, TN
+	</str>
+	<str name="Inventor(s) Address">
+		Knoxville, TN | Knoxville, TN | Albany, KY
+	</str>
+	<str name="Agent/Attorney">
+		PITTS &amp; BRITTIAN PC
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

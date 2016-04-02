@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1034507A2
+	</str>
+	<str name="Application Number">
+		EP1998960565
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		THREE-DIMENSIONAL FACE IDENTIFICATION SYSTEM
+	</str>
+	<str name="Abstract">
+		A three-dimensional (3-D) facial imaging system is disclosed for generating facial images (3420), indexing those images by composite codes (3404, 3405) and for searching for similar two-dimensional (2-D) facial images (3406). The 3-D images of human faces are generated from a data repository of 3-D facial feature surface shapes. These shapes are organized by facial feature parts. By assembling a shape for each facial part (3408), a 3-D facial image is formed. Human facial images may be represented with a composite code (facial feature part code and shape code). A 3-D image of any face may be generated using the code to select the proper facial feature shapes from the stored repository of shapes.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-12-01
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-12
+	</str>
+	<str name="Publication Date">
+		2000-09-13
+	</str>
+	<str name="Publication Year">
+		2000
+	</str>
+	<str name="Publication(Year/Month)">
+		2000-09
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="Family Members">
+		CA2312315A1 | AU1613599A | EP1034507A2 | WO1999027838A2 | WO1999027838A3
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		See references of WO     9927838A2
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		67065
+	</str>
+	<str name="Priority Date">
+		1997-12-01
+	</str>
+	<str name="Assignee(s)">
+		ERASLAN, ARSEV H.
+	</str>
+	<str name="1st Assignee">
+		ERASLAN, ARSEV H.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		ERASLAN, ARSEV, H.
+	</str>
+	<str name="1st Inventor">
+		ERASLAN, ARSEV, H.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

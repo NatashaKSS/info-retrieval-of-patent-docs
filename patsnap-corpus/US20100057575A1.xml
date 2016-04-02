@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100057575A1
+	</str>
+	<str name="Application Number">
+		US12204176
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Content Detection and Payment System
+	</str>
+	<str name="Abstract">
+		Systems and techniques for detecting presentations of sponsored content and identifying persons bearing the content. A set of sponsored content items is identified for which a bearer presenting the content item in qualifying ways may receive payment, and a group of participating users is established, with information being stored for the users so as to allow for identification of a user presenting a content item in order to direct proper credit to the user making the presentation. A plurality of video feeds are identified and monitored and any video feed in which a sponsored logo appears is further examined to identify a bearer of the content item. Upon identification of the bearer, presentation of the content item is evaluated and appropriate payment is calculated. Details of content item presentations and payments may be stored in connection with users and evaluated to provide insight into the circumstances surrounding and influencing presentations.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2008-09-04
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-09
+	</str>
+	<str name="Publication Date">
+		2010-03-04
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		G06Q90/00 | G06Q30/00 | G06Q20/00
+	</str>
+	<str name="IPC Primary">
+		G06Q90/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06Q
+	</str>
+	<str name="IPC Group">
+		G06Q90
+	</str>
+	<str name="All UPC">
+		705/400 | 705/14.66
+	</str>
+	<str name="UPC Primary">
+		705/400
+	</str>
+	<str name="UPC Class">
+		705
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		AT&amp;T LABS, INC.
+	</str>
+	<str name="1st Assignee">
+		AT&amp;T LABS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Austin,TX,US
+	</str>
+	<str name="Assignee(s) Address">
+		Austin,TX,US
+	</str>
+	<str name="Inventor(s)">
+		BEGEJA LEE | GIBBON DAVID C. | VAN VLECK PAUL
+	</str>
+	<str name="1st Inventor">
+		BEGEJA LEE
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Gillette,NJ,US
+	</str>
+	<str name="Inventor(s) Address">
+		Gillette,NJ,US | Lincroft,NJ,US | Austin,TX,US
+	</str>
+	<str name="Agent/Attorney">
+		AT &amp; T LEGAL DEPARTMENT - PG
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

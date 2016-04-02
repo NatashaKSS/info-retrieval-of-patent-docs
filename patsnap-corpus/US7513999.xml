@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7513999
+	</str>
+	<str name="Application Number">
+		US11880694
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Ozonation of wastewater for reduction of sludge or foam and bulking control
+	</str>
+	<str name="Abstract">
+		A system and method for the ozone treatment of wastewater is disclosed. The disclosed wastewater treatment system includes a high selectivity reactor coupled to an activated sludge treatment basin. The high selectivity reactor is adapted to receive a stream containing sludge diverted directly or indirectly from the activated sludge treatment basin. The disclosed wastewater treatment system and method is adapted to inject a chemical agent, such as ozone-enriched gas, into the diverted stream for treatment within the high selectivity reactor for purposes of sludge reduction, foam control, or bulking control. The treated stream is then returned to the activated sludge treatment basin.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-07-24
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-07
+	</str>
+	<str name="Publication Date">
+		2009-04-07
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/625 | 210/627 | 210/760
+	</str>
+	<str name="UPC Primary">
+		210/625
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080105614A1 | US7513999
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		&quot;Sludge Disintegration: Reducing bio sludge by means of ozone by 40 to 80%&quot; Translation of Air Liquide's press release of May 2006 (2 pages). cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US8062525
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6942801 | US4370235 | US6146521 | US6592767 | US20050133445 | US6126842 | US20060086661 | US6086766 | US6773597 | US4178239 | EP1361198 | WO2002008803 | JP1997150182 | FR2845682 | EP0645347 | JP1996132100 | EP0835845
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		US | EP | US
+	</str>
+	<str name="Priority Number">
+		88069407 | 07004392 | 59189406
+	</str>
+	<str name="Priority Date">
+		2007-07-24 | 2007-03-02 | 2006-11-02
+	</str>
+	<str name="Assignee(s)">
+		PRAXAIR TECHNOLOGY, INC.
+	</str>
+	<str name="1st Assignee">
+		PRAXAIR TECHNOLOGY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Danbury, CT
+	</str>
+	<str name="Assignee(s) Address">
+		Danbury, CT
+	</str>
+	<str name="Inventor(s)">
+		FABIYI, MALCOLM, EZEKIEL | NOVAK, RICHARD
+	</str>
+	<str name="1st Inventor">
+		FABIYI, MALCOLM, EZEKIEL
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Lagrange, Park, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Lagrange, Park, IL | Naperville, IL
+	</str>
+	<str name="Agent/Attorney">
+		HAMPSCH, ROBERT J.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

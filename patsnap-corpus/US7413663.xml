@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7413663
+	</str>
+	<str name="Application Number">
+		US11847015
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water treatment apparatus and method
+	</str>
+	<str name="Abstract">
+		A water treatment apparatus includes a housing comprising multiple housing portions and a plurality of treatment sections disposed within the housing, each treatment section comprising at least one distinct particulate layer. The apparatus is designed so that no water pressure need be applied to force the water through the apparatus, as gravity pulls the water down through the filtering layers. Water may also be force fed through the treatment apparatus; when the water is force fed, the housing portions need not be vertically stacked, but may be configured in any suitable arrangement. The treatment sections are distributed through the various housing portions in logical groups to perform various kinds of filtering. The housing portions are detachable and sealably stackable in multiple configurations, thus passing water through more or fewer treatment layers, depending on the quality of the incoming water.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-08-29
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2008-08-19
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/284 | 210/266 | 210/683 | 210/682 | 210/290 | 210/688 | 210/242.4 | 210/694 | 210/283 | 210/282
+	</str>
+	<str name="UPC Primary">
+		210/284
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7413663 | US20080041790A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		USD620304 | US7638047
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US5338458 | US4368123 | US1730581 | US4198296 | US5275737 | US5211851 | US5269919 | US6572769 | US3319791 | US5407573 | US4382862 | US5427683 | US5064534 | US5405526 | US5126044 | US5308482 | US5401399 | US3342340 | US5061367 | US5415770 | US3250703 | US5635063 | US4769143 | US2087442 | US5110479 | US7276161 | US4999109 | US5830360 | US5106501 | US5273649 | US5205932 | US2334802 | US5190643 | US0260106 | US5707514 | US5149437 | US4995976 | US5211973 | US5059317 | US4904382 | US5271837 | US5569380 | US5399260 | US4800018 | US4944875 | US4855046 | US5215657 | US4606823 | US4430226 | US4264451 | US5240620 | US4749481 | US4894154 | US5078874 | US4025426
+	</str>
+	<str name="Cites Count">
+		55
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		84701507 | 40865803 | 95147901 | 86791097 | 31194394
+	</str>
+	<str name="Priority Date">
+		2007-08-29 | 2003-04-08 | 2001-09-14 | 1997-06-03 | 1994-09-26
+	</str>
+	<str name="Assignee(s)">
+		ZERO TECHNOLOGIES, INC.
+	</str>
+	<str name="1st Assignee">
+		ZERO TECHNOLOGIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Bensalem, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Bensalem, PA
+	</str>
+	<str name="Inventor(s)">
+		RAJAN, RAJAN, G. | RAJAN, MATHU, G.
+	</str>
+	<str name="1st Inventor">
+		RAJAN, RAJAN, G.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Bensalum, PA
+	</str>
+	<str name="Inventor(s) Address">
+		Bensalum, PA | Bensalum, PA
+	</str>
+	<str name="Agent/Attorney">
+		NIXON PEABODY, LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

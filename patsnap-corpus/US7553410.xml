@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7553410
+	</str>
+	<str name="Application Number">
+		US12/151049
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Septage treatment system
+	</str>
+	<str name="Abstract">
+		The present invention generally includes a septage treatment system comprising: (a) a primary treatment process system comprising: (1) a receiving station to pump the septage from a vehicle; (2) equalization tank(s) to receive septage from the receiving station; and (3) two or more mixing and odor control tanks to generate waste activated sludge; (b) a primary settling tank to generate waste activated sludge; (c) a secondary treatment process system comprising: (1) aeration tank(s) to receive waste activated sludge from the primary treatment process system and to generate water effluent; and (d) a tertiary treatment process system comprising: (1) wetland ditch(es) to receive water effluent from the aeration tank and to generate filtered water effluent; (2) wetland pond(s) to receive filtered water effluent from the wetland ditch(es) and to generate filtered water effluent; and (3) an aquaculture hydroponics and sand bed greenhouse to generate filtered water effluent.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-05-02
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-05
+	</str>
+	<str name="Publication Date">
+		2009-06-30
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/150 | 210/151 | 210/221.2 | 210/253 | 210/258 | 210/259 | 210/260 | 210/261 | 210/263 | 210/532.1
+	</str>
+	<str name="UPC Primary">
+		210/150
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7553410
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8065815
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US0228542 | US0986180 | US1381802 | US1536894 | US3770623 | US3892666 | US4209388 | US4333837 | US4342830 | US4394270 | US4540495 | US4554002 | US4655925 | US4678582 | US4781842 | US4829678 | US4839051 | US4844351 | US4852269 | US4902431 | US4919814 | US4933076 | US4956926 | US4974781 | US4975195 | US4989344 | US4999103 | US5013458 | US5078882 | US5110459 | US5116363 | US5119994 | US5135664 | US5137625 | US5174897 | US5186840 | US5190226 | US5196043 | US5229011 | US5253764 | US5275733 | US5288146 | US5300438 | US5337496 | US5346616 | US5361994 | US5401402 | US5405536 | US5407809 | US5417861 | US5427650 | US5433844 | US5540391 | US5543050 | US5554279 | US5556445 | US5618442 | US5679262 | US5681481 | US5744041 | US5783073 | US5843507 | US5851404 | US5853450 | US5916448 | US5960810 | US5972227 | US6015496 | US6036918 | US6126827 | US6315903 | US6397492 | US6406627 | US6447682 | US6558550 | US6558555 | US6582156 | US6652743 | US6776914 | US6811700 | US6830688 | US6863816 | US6881338 | US6896805 | US6991728 | US7029586 | US7070693 | US7087169 | US7097762 | US7128839 | US7147778 | US7169306 | US7214317 | US7320752 | US20020127317 | US20020162795 | US20020164405 | US20020185456 | US20030070460 | US20030136165 | US20040250700 | US20050035032 | US20050059849 | US20060086662 | US20060222463 | US20080093292
+	</str>
+	<str name="Cites Count">
+		106
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		15104908
+	</str>
+	<str name="Priority Date">
+		2008-05-02
+	</str>
+	<str name="Assignee(s)">
+		EASTWOOD RESEARCH, INC.
+	</str>
+	<str name="1st Assignee">
+		EASTWOOD RESEARCH, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Huron, OH
+	</str>
+	<str name="Assignee(s) Address">
+		Huron, OH
+	</str>
+	<str name="Inventor(s)">
+		CHENNAULT, DERRICK, O.
+	</str>
+	<str name="1st Inventor">
+		CHENNAULT, DERRICK, O.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Huron, OH
+	</str>
+	<str name="Inventor(s) Address">
+		Huron, OH
+	</str>
+	<str name="Agent/Attorney">
+		GILCREST, ROGER A.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

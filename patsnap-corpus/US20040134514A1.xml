@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20040134514A1
+	</str>
+	<str name="Application Number">
+		US10341425
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Megasonic cleaning system with buffered cavitation method
+	</str>
+	<str name="Abstract">
+		A wafer cleaning method and system including a combined high frequency signal, a low frequency signal, and in one embodiment a biased voltage signal, allows cleaning particles and impurities off of fine-structured wafers, through application of an acoustic field to the wafer through a cleaning liquid which fosters micro-bubble formation for effective cleaning while buffering micro-bubble growth which would otherwise damage the wafer.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-01-10
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-01
+	</str>
+	<str name="Publication Date">
+		2004-07-15
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-07
+	</str>
+	<str name="All IPC">
+		B08B3/12
+	</str>
+	<str name="IPC Primary">
+		B08B3/12
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		134/201 | 134/184 | 310/322 | 134/34 | 134/1.3 | 134/1 | 310/324
+	</str>
+	<str name="UPC Primary">
+		134/201
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		US20040134514A1 | US20060260641A1 | US7104268
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		5
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8202369
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		34142503
+	</str>
+	<str name="Priority Date">
+		2003-01-10
+	</str>
+	<str name="Inventor(s)">
+		YI WU | COLE S. FRANKLIN | BRIAN FRASER | THOMAS NICOLOSI
+	</str>
+	<str name="1st Inventor">
+		YI WU
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Irvine,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Irvine,CA,US | San Clemente,CA,US | Los Angeles,CA,US | Mission Viejo,CA,US
+	</str>
+	<str name="Agent/Attorney">
+		COZEN O'CONNOR, P.C.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

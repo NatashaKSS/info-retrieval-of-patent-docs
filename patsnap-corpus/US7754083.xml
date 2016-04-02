@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7754083
+	</str>
+	<str name="Application Number">
+		US12114315
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Solid hollow fiber cooling crystallization systems and methods
+	</str>
+	<str name="Abstract">
+		A solid hollow fiber cooling crystallizer and method for crystallizing aqueous and organic solutions are provided. The solid hollow fiber crystallizer (SHFC) for carrying out cooling crystallization of inorganic/organic microsolutes/macrosolutes from solution generally includes a bundle of non-porous hollow fibers mounted within a shell where a feed solution for crystallization flows through the lumen side of the hollow fibers and a cooling solution flows through the shell side to form nuclei and subsequently crystals in the feed solution at a temperature below its saturation temperature. The solid hollow fiber crystallizer may be combined with a mixing device, such as a completely stirred tank or static mixer, to further effectuate crystallization. The solid hollow fiber crystallizer may be operated in a number of modes including feed recycle mode, once through mode, SHFC-in-line static mixer in series mode, and SHFC-CST in series mode. The advantages of solid hollow fiber cooling crystallization in comparison to conventional crystallization processes include improved temperature control between crystallizing solution and coolant, higher nucleation rates, improved control of crystal size and crystal size distribution, smaller crystal size, capability for decoupling crystal nucleation and crystal growth, decreased fouling of process equipment, and improved process scale-up.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-05-02
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-05
+	</str>
+	<str name="Publication Date">
+		2010-07-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-07
+	</str>
+	<str name="All IPC">
+		C02F5/00 | B01D11/00 | B01D61/00
+	</str>
+	<str name="IPC Primary">
+		C02F5/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F5
+	</str>
+	<str name="All UPC">
+		210/321.8 | 210/198.2 | 210/645 | 210/635 | 210/656
+	</str>
+	<str name="UPC Primary">
+		210/321.8
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Zarkadas et al., Solid Hollow Fiber Cooling Crystallization, Sep. 29, 2004, American Chemical Society, Ind. Eng. Chem. Res. 2004, 43, pp. 7163-7180. cited by other. | Helt, et al., Effects of Temperature on the Crystallization of Potassium Nitrate by Direct Measurement of Supersaturation, AIChE Journal, Nov. 1977, vol. 23, pp. 822-830. cited by other . | Phillips, Mineral Optics Principles and Techniques, Table of Contents, Jan. 1971, 6 sheets. cited by other . | Blandin, Kinetcs Identification of Salicylic Acid Precipitation Through Experiments in a Batch Stirred Vessel and a T-Mixer, Chemical Engineering Journal, 2001, vol. 81, pp. 91-100. cited by other . | Tavare, et al., Precipitation of Salicylic Acid: Hydrotropy and Reaction, Ind. Eng. Chem. Res., 1991, vol. 30, pp. 722-728. cited by other . | Junaszek, et al., Influence of Fines Dissolving on Crystal Size Distribution in an MSMPR Crystallizer, AIChE Journal, Jul. 1977, vol. 23, pp. 460-468. cited by other . | Rolfs, Crystallization of Potassium Nitrate (KNO.sub.3) In Aqueous Solution, Journal of Crystal Growth, 1997, vol. 171, pp. 174-182. cited by other . | Miller, Modeling and quality Control Strategies for Batch Cooling Crystallizers, The University of Texas at Austin, May 1993. cited by other .
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cites">
+		US6986847 | US6623545 | US5034105 | US3874439 | US6613504 | US3918916 | US20010037976 | US6022477 | US20050061149 | US4348371 | US20070119561 | US6478966 | US20090000080 | US20070107861 | US6156096 | US6355173 | US20070289105 | US20030215377 | US4404038 | US20070068640 | US20010033816 | US20020090582 | US5523064 | US6838069
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Assignee(s)">
+		NEW JERSEY INSTITUTE OF TECHNOLOGY
+	</str>
+	<str name="1st Assignee">
+		NEW JERSEY INSTITUTE OF TECHNOLOGY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Newark, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Newark, NJ
+	</str>
+	<str name="Inventor(s)">
+		SIRKAR, KAMALESH, K. | ZARKADAS, DIMITRIOS
+	</str>
+	<str name="1st Inventor">
+		SIRKAR, KAMALESH, K.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Bridgewater, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		Bridgewater, NJ | Kearny, NJ
+	</str>
+	<str name="Agent/Attorney">
+		MCCARTER &amp; ENGLISH, LLP
+	</str>
+	<str name="Primary Examiner">
+		RAO, G. NAGESH
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

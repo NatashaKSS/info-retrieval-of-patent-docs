@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080099051A1
+	</str>
+	<str name="Application Number">
+		US11892405
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Washing machine and washing control method of the same
+	</str>
+	<str name="Abstract">
+		A washing machine and a washing control method of the same that is capable of controlling laundry to be effectively washed with bubbles depending upon load of the washing machine. The washing control method includes supplying wash water and detergent into a water tub, heating concentrated detergent liquid including the wash water and the detergent mixed with each other, generating and supplying bubbles into the water tub when the temperature of the heated concentrated detergent liquid reaches a predetermined bubble generation temperature, and washing laundry with the supplied bubbles.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-08-22
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2008-05-01
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		D06F33/00 | D06F37/00 | B08B3/10
+	</str>
+	<str name="IPC Primary">
+		D06F33/00
+	</str>
+	<str name="IPC Section">
+		D
+	</str>
+	<str name="IPC Class">
+		D06
+	</str>
+	<str name="IPC Subclass">
+		D06F
+	</str>
+	<str name="IPC Group">
+		D06F33
+	</str>
+	<str name="All UPC">
+		134/25.1 | 68/12.05 | 68/12.12 | 134/18
+	</str>
+	<str name="UPC Primary">
+		134/25.1
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		KR1020080039646A | US20080099051A1 | CN101173452A | EP1918442A2 | RU2007132751A | RU2355835C1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020060107214
+	</str>
+	<str name="Priority Date">
+		2006-11-01
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-si,KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-si,KR
+	</str>
+	<str name="Inventor(s)">
+		KIM HYUN SOOK | OAK SEONG MIN | PYO SANG YEON | KIM SUNG HOON | LEE BO RAM
+	</str>
+	<str name="1st Inventor">
+		KIM HYUN SOOK
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Suwon-si,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Suwon-si,KR | Masan-si,KR | Suwon-si,KR | Suwon-si,KR | Youngin-si,KR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

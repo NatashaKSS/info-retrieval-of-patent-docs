@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP0878767A1
+	</str>
+	<str name="Application Number">
+		EP1998108090
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Image retrieving method and apparatus
+	</str>
+	<str name="Abstract">
+		By sequentially inputting images for each frame, sequentially extracting features from the input frame images, converting the features sequentially extracted into a feature series corresponding to the input frame image series, compressing the feature series in the direction of the time axis, storing the compressed feature series in the storage, sequentially extracting features separately from the images to be retrieved for each input frame, sequentially comparing the features of the images to be retrieved for each frame with the stored compressed feature series, storing the progress state of this comparison, updating the stored progress state of the comparison on the basis of a comparison result with the frame features of the succeeding images to be retrieved, and retrieving image scenes matching with the updated progress state from the images to be retrieved on the basis of the comparison result between the updated progress state and the features of the images to be retrieved for each frame, the present invention can retrieve video images on the air or video images in the data base at high speed and enables self organisation of video to be classified and arranged on the basis of the identity of partial images of video.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-05-04
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-05
+	</str>
+	<str name="Publication Date">
+		1998-11-18
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-11
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="Family Members">
+		US6400890 | JP1998320400A | JP3780623B2 | EP0878767A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		30
+	</str>
+	<str name="Other References">
+		SHINJI ABE ET AL:  &quot;SCENE RETRIEVAL METHOD FOR VIDEO DATABASE APPLICATIONS USING TEMPORAL CONDITION CHANGES&quot; PROCEEDINGS INTERNATIONAL WORKSHOP ON INDUSTRIAL APPLICATIONS OF MACHINE INTELLIGENCE AND VISION, 10-12 APRIL 1989, TOKYO, JP,  1 January 1989, pages 355-359, XP000472779 | ZHANG H J ET AL:  &quot;VIDEO PARSING, RETRIEVAL AND BROWSING: AN INTEGRATED AND CONTENT- BASED SOLUTION&quot; PROCEEDINGS OF ACM MULTIMEDIA '95, SAN FRANCISCO, NOV. 5 - 9, 1995,  5 November 1995, ASSOCIATION FOR COMPUTING MACHINERY, pages 15-24, XP000599025 | TONOMURA Y ET AL:  &quot;VIDEOMAP AND VIDEOSPACELCON: TOOLS FOR ANATOMIZING VIDEO CONTENT&quot; BRIDGES BETWEEN WORLDS, AMSTERDAM, APR. 24 - 29, 1993,  no. -, 24 April 1993, ASHLUND S;MULLET K; HENDERSON A; HOLLNAGEL E; WHITE T, pages 131-136, XP000473758 | DIMITROVA N. ET AL: 'Content-based video retrieval by example video clip' SPIE vol. 3022, 13 February 1997, US, pages 59 - 70
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		FR2826539A1 | EP1244025A1 | FR2815151A1 | FR2843212A1 | WO2003009296A1 | CN101031040A | EP1185106A1 | EP1162844A2 | EP1081960A1 | EP1067786A1 | EP1195692A1 | EP1006464A2 | EP1056048A2 | EP1560130A2 | WO2004015590A2
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		12670497
+	</str>
+	<str name="Priority Date">
+		1997-05-16
+	</str>
+	<str name="Assignee(s)">
+		HITACHI, LTD.
+	</str>
+	<str name="1st Assignee">
+		HITACHI, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		NAGASAKA, AKIO | MIYATAKE, TAKAFUMI
+	</str>
+	<str name="1st Inventor">
+		NAGASAKA, AKIO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		11
+	</str>
+	<str name="cited by within 5 years">
+		14
+	</str>
+</doc>
+

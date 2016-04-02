@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7862786
+	</str>
+	<str name="Application Number">
+		US11928229
+	</str>
+	<str name="Title">
+		Selective precipitation of metal sulfides
+	</str>
+	<str name="Abstract">
+		A method for recovering zinc ions by selective zinc sulfide precipitation from an aqueous solution comprising zinc ions and metal ions of a metal that precipitates as a metal sulfide at a pH lower than a pH at which zinc ions precipitate as a zinc sulfide.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-10-30
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2011-01-04
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-01
+	</str>
+	<str name="All IPC">
+		C01G9/00
+	</str>
+	<str name="IPC Primary">
+		C01G9/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C01
+	</str>
+	<str name="IPC Subclass">
+		C01G
+	</str>
+	<str name="IPC Group">
+		C01G9
+	</str>
+	<str name="All UPC">
+		423/106 | 210/601 | 423/146 | 423/43
+	</str>
+	<str name="UPC Primary">
+		423/106
+	</str>
+	<str name="UPC Class">
+		423
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;Hydroxide Precipitation&quot;, Hoffland Environmental Inc., Internet, Nov. 21, 2007, 3 pages, &lt;http://www.hoffland.net/src/tks/3.xml&gt;. cited by other . | Ayres, D. et al., &quot;Removing Heavy Metals from Wastewater&quot;, Engineering Research Center Report, University of Maryland, pp. 1-21, Aug. 1994. cited by other . | Fathi Habashi, Hydrolytic and Ionic Precipitation, A Textbook of Hydrometallurgy, Metallurgie Extractive Quebec (1999), p. 624-625. cited by examiner . | &quot;Precipitation--General Discussion and Theory&quot;, Engineering Manual, pp. 1-7, vol. EM 1110-1-4012, Nov. 15, 2001. cited by other . | Pugsley et al., &quot;Removal of Heavy Metals from Mine Drainage in Colorado by Precipitation&quot;, Chemical Engineering Progress Symposium Series, 1971, vol. 67, No. 107, pp. 75-89. cited by other . | Abstract of JP63045130; Feb. 26, 1988. cited by other . | Habashi, F., A Textbook of Hydrometallurgy, &quot;Chapter 24: Hydrolytic and Ionic Precipitation&quot;, 1999, pp. 623-625, Metallurgie Extractive Quebec, Sainte-Foy, Quebec. cited by other . | Amer, S., &quot;Treating Metal Finishing Wastewater&quot;, Aquachem Inc., pp. 1-7, Mar./Apr. 1998. cited by other . | International Search Report, PCT/CA2007/001930, dated Feb. 13, 2008, 5 pages. cited by other . | Tabak et al., &quot;Advances in biotreatment of acid mine drainage and biorecovery of metals: 1. Metal precipitation for recovery and recycle&quot;, Biodegradation, 2003, vol. 14, pp. 423-436. cited by other . | Pugsley, Removal of Heavy Metals from Mine Drainage in Colorado by Precipitation, Chemical Engineering Progress Symposium Series (1971), vol. 67, No. 107, pp. 75-89. cited by examiner . | Abstract of JP2002121624; Apr. 26, 2002. cited by other . | Written Opinion of the International Searching Authority, PCT/CA2007/001930, dated Feb. 13, 2008, 7 pages. cited by other. | &quot;In-Situ Remediation of Heavy Metals&quot; FAST-TEK, Internet, Nov. 21, 2007, 2 pages, &lt;http://www.fast-tek.com/TM107.pdf&gt;. cited by other .
+	</str>
+	<str name="Other References Count">
+		14
+	</str>
+	<str name="Cites">
+		US4405570 | US6153108 | US6843976 | US4024218 | US5587079 | US5762807 | US3421850 | US3964901 | US20020094564 | US6103204 | US4073860 | US6991593 | US4049770 | US7018605 | US6395242 | US4572822 | CA2147554 | JP1988045130 | JP2002121624 | EP0262964
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Assignee(s)">
+		BARRICK GOLD CORPORATION
+	</str>
+	<str name="1st Assignee">
+		BARRICK GOLD CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Toronto Ontario, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Toronto Ontario, CA
+	</str>
+	<str name="Inventor(s)">
+		CHOI, YEONUK | KONDOS, PETER | MCMULLEN, JACQUES
+	</str>
+	<str name="1st Inventor">
+		CHOI, YEONUK
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Oakville, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Oakville, CA | Toronto, CA | Oakville, CA
+	</str>
+	<str name="Agent/Attorney">
+		SENNIGER POWERS LLP
+	</str>
+	<str name="Primary Examiner">
+		MAYES, MELVIN C
+	</str>
+	<str name="Assistant Examiner">
+		STALDER, MELISSA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

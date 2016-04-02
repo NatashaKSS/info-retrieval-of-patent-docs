@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7636455
+	</str>
+	<str name="Application Number">
+		US10161778
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Digital image edge detection and road network tracking method and system
+	</str>
+	<str name="Abstract">
+		A system and method for finding edge orientation and magnitude, and extracting a road path from an image. An image is segmented into at least a first window and a second window. A first road segment having plural parameters within the first window is specified. Plural road segments are identified, each having plural parameters, in the second window. The orientation of plural line segments in the second window are determined, and paired, based on their orientation. The line segment orientations are determined by receiving a plurality of edge orientation estimates, transforming a portion of them, and aggregating the transformed portion into an edge orientation estimate. A stochastic process is performed on the plural parameters of the plural road segments to identify a second road segment having the maximum correlation with the plural parameters of the first road segment.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-06-04
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-06
+	</str>
+	<str name="Publication Date">
+		2009-12-22
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		G06K9/00 | H04N7/00 | G05D1/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/104 | 348/118 | 382/190 | 701/28
+	</str>
+	<str name="UPC Primary">
+		382/104
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20030223615A1 | WO2004001672A8 | WO200304001672A1 | US7636455
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Jang, B.-K., et al.: `Analysis of thinning Algorithms Using Mathematical Morphology`, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 12, No. 6. Jun. 1990, pp. 113-125. cited by other . | Tupin, F., et al.: `Detection of Linear Features in SAR Images: Application to Road Network Extraction`, IEEE Transactions on Geoscience and Remote Sensing, vol. 36, No. 2, Mar. 1998, pp. 434-453. cited by other . | Nevatia, R., et al.: `Linear Feature Extraction and Description`, University of Southern California, Los Angeles, CA 90007--Computer Science Department and Image Processing Institute, Computer Graphics and Image Processing 13, pp. 257-269, 1980. cited by other . | Vanderbrug, G. J.: `Line Detection in Satellite Imagery`, IEEE Transactions on Geoscience Electronics, vol. GE-14, No. 1, Jan. 1976, pp. 37-44. cited by other. | Trinder, J. C., et al.: `Automatic Rod Extraction from Aerial Images`, The University of New South Wales, School of Geomatic Engineering, Sydney, New South Wales 2052, Australia, Digital Signal Processing 8, Article No. SP980322, pp. 215-224, 1998. cited by other . | Barzohar, M., et al.: `Automatic Finding of Main Roads in Aerial Images by Using Geometric-Stochastic Models and Estimation`, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 18, No. 7, Jul. 1996, pp. 707-720. cited by other . | McKeown Jr., D. M., et al.: `Cooperative Methods for Road Tacking in Aerial Imagery`, Carnegie-Mellon University--Digital Mapping Laboratory Department of Computer Science, Pittsburgh, PA 15213, 1988 IEEE, pp. 662-672. cited by other . | Steger, C.: `An Unbiased Detector of Curvilinear Structures`, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 20, No. 2, Feb. 1998, pp. 113-125. cited by other . | Fischler, M.A., et al.: `Detection of Roads and Linear Structures in Low-Resolution Aerial Imagery Using a Multisource Knowledge Integration Technique`, Artificial Intelligence Center, Computer Science and Technology Division, SRI Int'l, 333 Ravenswood Avenue, Menlo Park, CA 94025, Computer Graphics and Image Processing 15, pp. 201-223, 1981. cited by other . | Groch, W.-D.; `Extraction of Line Shaped Objects from Aerial Images Using a Special Operator to Analyze the Profiles of Functions`, Research Institute for Information Processing and Pattern Recognition, FIM, Breslauer Str. 48, D-7500 Karlsruhe 1, West Germany, Computer Graphics and Image Processing 18, pp. 347-358, 1982. cited by other . | Proikli, F., et al.: `An Unsupervised Road Extraction Algorithm for Very Low-Resolution Satellite Imagery`, Proceedings of 1st Intern. Workshop on Pattern Recognition in Remote Sensing (PRRS), Technical Committee 7 (TC7) of the Recognition (IAPE), ISNG 1 901725 12X, Sep. 1, 2000, XP002255081 Andorra cited in the Application throughout. cited by other .
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cites">
+		US6466684 | US20060149780 | US20020031242 | US6683969 | US6141619 | US6807287
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		16177802
+	</str>
+	<str name="Priority Date">
+		2002-06-04
+	</str>
+	<str name="Assignee(s)">
+		RAYTHEON COMPANY
+	</str>
+	<str name="1st Assignee">
+		RAYTHEON COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Waltham, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Waltham, MA
+	</str>
+	<str name="Inventor(s)">
+		KEATON, PATRICIA, A. | JIANG, QIN | PORIKLI, FATIH
+	</str>
+	<str name="1st Inventor">
+		KEATON, PATRICIA, A.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Woodland, Hills, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Woodland, Hills, CA | Woodland, Hills, CA | New, Providence, NJ
+	</str>
+	<str name="Agent/Attorney">
+		ALKOV, LEONARD A.
+	</str>
+	<str name="Primary Examiner">
+		KIM, CHARLES
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

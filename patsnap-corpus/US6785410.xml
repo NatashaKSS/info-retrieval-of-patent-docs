@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6785410
+	</str>
+	<str name="Application Number">
+		US09990090
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image reporting method and system
+	</str>
+	<str name="Abstract">
+		A method and system are provided to report the findings of an expert's analysis of image data. The method and system are based on a reporting system that forms the basis of an image management system that can efficiently and systematically generate image reports, facilitate data entry into searchable databases for data mining, and expedite billing and collections for the expert's services. The expert identifies a significant finding on an image and attaches a location:description code to the location of that finding in order to create a significant finding and an entry into a database. Further descriptions of that finding, such as dimensional measurements, may be automatically appended to the finding as secondary attributes. After the evaluation, the system sorts the findings in the database and presents the findings by prioritized categories. The expert edits and approves a multimedia report which may be delivered by electronic means to an end-user.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-11-21
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-11
+	</str>
+	<str name="Publication Date">
+		2004-08-31
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-08
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/128 | 382/305
+	</str>
+	<str name="UPC Primary">
+		382/128
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20050147284A1 | US6819785 | US20020131625A1 | US6785410
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		31
+	</str>
+	<str name="Other References">
+		Poon, A.D., et al., &quot;PEN-Ivory: The Design and Evaluation of a Pen-Based Computer System for Structured Data Entry&quot;, Stanford University School of Medicine, Journal of the American Medical Informatics Assoc., 1994; (Symposium Supplement) 447-451. | Pendergrass, et al., &quot;An On-Line Computer Facility for Systematized Input of Radiology Reports&quot;, Radiology 1969; 92:709-713. | Leeming, et al., &quot;Advances in Radiologic Reporting with Computerized Language Information Processing&quot;, Radiology 133:349-353, Nov. 1979. | Vining, et al., &quot;New Paradigm for Virtual Colonoscopy Processing and Reporting&quot;, and &quot;New Paradigm for Digital Image Reporting&quot;, 1999 Scientific Program Radiological Society of North America 85.sup.th Scientific Assembly and Annual Meeting, Supplement Nov. 1999, v213(p), p577 and p579. | Jost, &quot;Radiology Reporting&quot;, Radiologic Clinics of North America -vol. 24, No. 1, Mar. 1986. | Brolin, &quot;MEDELA: An Electronic Data-Processing System for Radiological Reporting&quot;, Radiology 103:249-255, May 1972. | Puerta, A., et al., &quot;Towards a General Computational Framework for Model-Based Interface Development Systems&quot;, Stanford University, Proceeding of the International Conference on Intelligent User Interface Design, Calif. 1999. | Chronaki, C. et al., &quot;I2Cnet Medical Image Annotation Service&quot;, Medical Informatics, Online!, vol. 22, No. 4, 1997, pp. 337-347. | Barnhard, et al., &quot;Computer Autocoding, Selecting and Correlating of Radiologic Diagnostic Cases&quot;, Apr. 1966, pp. 854-863. | Bluemke, et al., &quot;An Automated Radiology Reporting System That Uses HyperCard&quot;, Computers in Radiology, AJR 1993; 160: 185-87 0361-803X/93/1601-0185 American Roentgen Ray Society, Jul. 23, 1992. | Bell, et al., &quot;Experiments in Concept Modeling for Radiographic Image Reports&quot;, J Am Med Informatics Assoc., 1994, 1:249-262. | Langlotz, &quot;Enhancing the Expressiveness of Structured Reporting Systems&quot;, Journal of Digital Imaging, vol. 13, No.2, Suppl. 1 (May), 2000: pp. 49-53. | Dietrich, &quot;Knowledge-Based Computer-Assisted Diagnosis of Chest Radiographs&quot;, Radiologic Clinics of North America -vol. XVI, No. 3, Dec. 1978. | Hundt, W., et al., &quot;A Computer-based reporting system in radiology of the chest&quot;, European Radiology, 8, 1002-1008 (1998), Springer-Verlag 1998, 8:1002-1008. | Friedman, C., et al., &quot;A Schema for Representing Medical Language Applied to Clinical Radiology&quot;, Journal of the American Medical Informatics Assoc., vol. 1, No. 3, May./Jun. 1994, 1:233-248. | Kahn, Jr., et al., &quot;Structured Entry of Radiology Reports Using World Wide Web Technology&quot;, RadioGraphics 1996; 16:683-691, RSNA, 1996. | Mani, et al., &quot;A Computer-Assisted Radiologic Reporting System&quot;, Radiology 108:587-596, Sep. 1973. | Wheeler, et al., &quot;The John Hopkins Radiology Reporting System&quot;, Radiology 119:315-319, May 1976. | Campbell, K.E., et al., &quot;A Computer-Based Tool for Generation of Progress Notes&quot;, 1993; Symposium Supplement 284-288. | Dockray, Karl T., &quot;Solo Practice Management: Value of a Computerized Reporting System&quot;, Computers in Radiology, JR 1994, 162:1439-1441. | Vining, et al., &quot;Freeflight&quot;, Digestive Disease Week and the 100.sup.th Annual Meeting of the Gastroenterological Assoc., May 16-19, 1999, Orlando, FL, program v116, N4, p. 2. | &quot;The ACR Breast Imaging Reporting and Data System (BI-RADS.RTM.)&quot;, Copyright .COPYRGT. 1994 -2002 American College of Radiology, Revised Jun. 1, 2000. | Bell, D.S.., et al., &quot;Evaluation of UltraSTAR: Performance of a Collaborative Structured Data Entry System&quot;, 1994, AMIA, Inc.; Symposium Supplement, pp. 216-222.
+	</str>
+	<str name="Other References Count">
+		23
+	</str>
+	<str name="Cited By">
+		US7639782 | US7413543 | US7106329 | US7327864 | US7296239 | US7899232 | US7835560 | US8365087 | US8055324 | US7756563 | US8111884 | US7955255 | US7995823 | US7813590 | US7734481
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US6252979 | US4315309 | US5920317 | US6058322 | US6551243 | US6117073 | US5463548 | US5740267 | US5267155 | US6032678 | US5986662 | US5587833 | US5506984 | US6630937 | US6014581 | US5825928 | US5452416 | US5704367 | US20020004798 | US5782762 | US6415048 | US5793969 | US5878746 | US5666400 | US5148366 | US5715449 | US5437278 | US5115501 | US5528492 | US6282305 | US6490370 | US5762608 | US5807256 | US5779634 | US6366683 | US6317617 | US6292577 | US5581460 | US5235510 | US5542003
+	</str>
+	<str name="Cites Count">
+		40
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		99009001 | 63551500 | 14791499
+	</str>
+	<str name="Priority Date">
+		2001-11-21 | 2000-08-09 | 1999-08-09
+	</str>
+	<str name="Assignee(s)">
+		WAKE FOREST UNIVERSITY HEALTH SCIENCES
+	</str>
+	<str name="1st Assignee">
+		WAKE FOREST UNIVERSITY HEALTH SCIENCES
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Winston-Salem, NC
+	</str>
+	<str name="Assignee(s) Address">
+		Winston-Salem, NC
+	</str>
+	<str name="Inventor(s)">
+		VINING, DAVID, J. | GE, YAORONG | AHN, DAVID, K. | STELTS, DAVID, R.
+	</str>
+	<str name="1st Inventor">
+		VINING, DAVID, J.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Winston-Salem, NC
+	</str>
+	<str name="Inventor(s) Address">
+		Winston-Salem, NC | Winston-Salem, NC | Winston-Salem, NC | Rock, Hill, SC
+	</str>
+	<str name="Agent/Attorney">
+		PIPER, JR., DONALD R.DANN, DORFMAN, HERRELL &amp; SKILLMAN, PC
+	</str>
+	<str name="Primary Examiner">
+		JOHNS, ANDREW W.
+	</str>
+	<str name="Assistant Examiner">
+		NAKHJAVAN, SHERVIN
+	</str>
+	<str name="cited by within 3 years">
+		40
+	</str>
+	<str name="cited by within 5 years">
+		47
+	</str>
+</doc>
+

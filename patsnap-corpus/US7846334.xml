@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7846334
+	</str>
+	<str name="Application Number">
+		US11991927
+	</str>
+	<str name="Title">
+		Method for the treatment of ammonia-containing waste water
+	</str>
+	<str name="Abstract">
+		A method for treating ammonium-containing waste water by means of a single sludge system in an SBR reactor, in which ammonium is converted to nitrite in a first reaction and ammonium and nitrite are converted into molecular nitrogen in a second reaction carried out in parallel, the oxygen concentration in the reactor being maintained at a low level. A robust process is achieved by providing that the pH-value of the system is controlled and kept at a target value by controlled intermittent aeration, the fluctuation range of the pH-value amounting to 0.05 at most, and preferably 0.02 at most, and the O2-concentration being kept between 0.2 mg/l and 0.4 mg/l, and preferably between 0.25 mg/l and 0.35 mg/l.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-09-20
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-09
+	</str>
+	<str name="Publication Date">
+		2010-12-07
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-12
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/743 | 210/620
+	</str>
+	<str name="UPC Primary">
+		210/743
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5160621 | US6485646 | US7494588 | US4537682 | US5863435 | US6383390 | WO2000005176 | EP0751098
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		AT
+	</str>
+	<str name="Priority Number">
+		A1550/2005
+	</str>
+	<str name="Priority Date">
+		2005-09-20
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITAT INNSBRUCK INSTITUT FUR UMWELTTECHNIK
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITAT INNSBRUCK INSTITUT FUR UMWELTTECHNIK
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Innsbruck, AT
+	</str>
+	<str name="Assignee(s) Address">
+		Innsbruck, AT
+	</str>
+	<str name="Inventor(s)">
+		WETT, BERNHARD
+	</str>
+	<str name="1st Inventor">
+		WETT, BERNHARD
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Innsbruck, AT
+	</str>
+	<str name="Inventor(s) Address">
+		Innsbruck, AT
+	</str>
+	<str name="Agent/Attorney">
+		DYKEMA GOSSETT PLLC
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

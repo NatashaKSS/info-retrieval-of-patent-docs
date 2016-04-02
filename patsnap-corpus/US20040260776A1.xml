@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20040260776A1
+	</str>
+	<str name="Application Number">
+		US10601741
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Advanced spam detection techniques
+	</str>
+	<str name="Abstract">
+		The subject invention provides for an advanced and robust system and method that facilitates detecting spam. The system and method include components as well as other operations which enhance or promote finding characteristics that are difficult or the spammer to avoid and finding characteristics in non-spam that are difficult for spammers to duplicate. Exemplary characteristics include examining origination features in pairs analyzing character and/or number sequences, strings, and sub-strings, detecting various entropy levels of one or more character sequences, strings and/or sub-strings as well as analyzing message and/or feature sizes.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-06-23
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-06
+	</str>
+	<str name="Publication Date">
+		2004-12-23
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-12
+	</str>
+	<str name="All IPC">
+		G06F15/16
+	</str>
+	<str name="IPC Primary">
+		G06F15/16
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="All UPC">
+		709/206
+	</str>
+	<str name="UPC Primary">
+		709/206
+	</str>
+	<str name="UPC Class">
+		709
+	</str>
+	<str name="Family Members">
+		KR1020050000309A | EP1492283A3 | SI1696619T1 | AT556519T | KR101045452B1 | JP2005018745A | DE602004013492D1 | EP1492283B1 | DK1696619T3 | JP4546761B2 | EP1696619B1 | CN1573782A | US20040260776A1 | EP1492283A2 | AT394862T | EP1696619A1
+	</str>
+	<str name="Family Member Count">
+		16
+	</str>
+	<str name="Family Members Cited By Count">
+		8
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8194564
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		60174103
+	</str>
+	<str name="Priority Date">
+		2003-06-23
+	</str>
+	<str name="Inventor(s)">
+		BRYAN T. STARBUCK | ROBERT L. ROUNTHWAITE | DAVID E. HECKERMAN | JOSHUA T. GOODMAN | ELIOT C. GILLUM | NATHAN D. HOWELL | KENNETH R. ALDINGER
+	</str>
+	<str name="1st Inventor">
+		BRYAN T. STARBUCK
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Duvall,WA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Duvall,WA,US | Fall City,WA,US | Bellevue,WA,US | Redmond,WA,US | Los Gatos,CA,US | Seattle,WA,US | Redmond,WA,US
+	</str>
+	<str name="Agent/Attorney">
+		AMIN &amp; TUROCY, LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

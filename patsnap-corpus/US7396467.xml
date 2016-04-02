@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7396467
+	</str>
+	<str name="Application Number">
+		US10964269
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of preparing a chromatography matrix
+	</str>
+	<str name="Abstract">
+		The present invention relates to a method of preparing a porous cross-linked polysaccharide chromatography matrix, which comprises to provide an aqueous solution of a gellable polysaccharide, wherein part of the hydroxyl groups are substituted with groups which are not susceptible to nucleophilic attack; to provide essentially spherical droplets of the substituted polysaccharide solution; to form a gel of the substituted polysaccharide solution; and to cross-link the gel by adding a cross-linking agent. The invention also encompasses a chromatography column packed with a matrix so produced as well as use thereof in e.g. protein purification.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-10-13
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-10
+	</str>
+	<str name="Publication Date">
+		2008-07-08
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-07
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/198.2 | 210/635 | 210/656 | 210/502.1
+	</str>
+	<str name="UPC Primary">
+		210/198.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060060534A1 | US7396467 | CN100537022C | CN101031356A | SE0402322D0
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Gel Filtration--Principles and Methods; Handbook from Pharmacia LKB Biotechnology, 5th Edition, 1991, pp. 41-42. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US8298657
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US3956273 | US6689715 | US6602990 | US5135650 | US4973683 | US6635174 | US5998606 | US5728457 | US5541255 | US5143646
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		SE
+	</str>
+	<str name="Priority Number">
+		0402322
+	</str>
+	<str name="Priority Date">
+		2004-09-22
+	</str>
+	<str name="Assignee(s)">
+		GE HEALTHCARE BIO-SCIENCES AB
+	</str>
+	<str name="1st Assignee">
+		GE HEALTHCARE BIO-SCIENCES AB
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Uppsala, SE
+	</str>
+	<str name="Assignee(s) Address">
+		Uppsala, SE
+	</str>
+	<str name="Inventor(s)">
+		BERG, HANS | BUCKLEY, DAVID | BRANNHOLM, MARIA | HAGVALL, ANDERS | IHRE, HENRIK | HOLMGREN, EVA | LARSSON, ANDERS | LINDSTROM, DAG
+	</str>
+	<str name="1st Inventor">
+		BERG, HANS
+	</str>
+	<str name="Number of Inventors">
+		8
+	</str>
+	<str name="1st Inventor Address">
+		Uppsala, SE
+	</str>
+	<str name="Inventor(s) Address">
+		Uppsala, SE | Uppsala, SE | Uppsala, SE | Uppsala, SE | Sundbyberg, SE | Uppsala, SE | Bromma, SE | Vattholma, SE
+	</str>
+	<str name="Agent/Attorney">
+		JI, YONGGANG
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

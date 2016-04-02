@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100037661A1
+	</str>
+	<str name="Application Number">
+		US12588548
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Washing machine to wash laundry with bubbles
+	</str>
+	<str name="Abstract">
+		A washing machine including a rotational drum into which laundry is input, a water tub to perform a washing operation using bubbles, a water supply device to supply water, a detergent liquid supply device to supply detergent liquid, an air supply device to supply air required for the generation of the bubbles, and a controller to control the water supply device and the detergent liquid supply device to supply the water and the detergent liquid into a space between the rotational drum and the tub, to control the air supply device to generate the bubbles by supplying air to detergent water as a mixture of the water and the detergent liquid, to supply the bubbles into the laundry, and to perform the washing operation using the bubbles.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2009-10-19
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-10
+	</str>
+	<str name="Publication Date">
+		2010-02-18
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-02
+	</str>
+	<str name="All IPC">
+		D06F29/00
+	</str>
+	<str name="IPC Primary">
+		D06F29/00
+	</str>
+	<str name="IPC Section">
+		D
+	</str>
+	<str name="IPC Class">
+		D06
+	</str>
+	<str name="IPC Subclass">
+		D06F
+	</str>
+	<str name="IPC Group">
+		D06F29
+	</str>
+	<str name="All UPC">
+		68/17.R | 68/17R
+	</str>
+	<str name="UPC Primary">
+		68/17.R
+	</str>
+	<str name="UPC Class">
+		68
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR | KR
+	</str>
+	<str name="Priority Number">
+		200654933 | 200684407
+	</str>
+	<str name="Priority Date">
+		2006-06-19 | 2006-09-01
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-si,KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-si,KR
+	</str>
+	<str name="Inventor(s)">
+		OAK SEONG MIN | KIM HYUN SOOK | KIM SUNG HOON
+	</str>
+	<str name="1st Inventor">
+		OAK SEONG MIN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Masan-si,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Masan-si,KR | Suwon-si,KR | Suwon-si,KR
+	</str>
+	<str name="Agent/Attorney">
+		STAAS &amp; HALSEY LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

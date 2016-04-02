@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6549644
+	</str>
+	<str name="Application Number">
+		US09442243
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Face-image processing apparatus
+	</str>
+	<str name="Abstract">
+		A means 9 for extracting the characteristic of the multi-value image causes an extracting filter to perform spiral retrieval so as to extract a nostril region from an image of the face input by a CCD camera 2 so as to cause the nostril region to be stored in the binarized image memory 10. The eye retrieving range is specified by using, as a reference, the position of the nostrils which is an intermediate point of the positions of the centers of gravity of the nostrils in the binarized nostril region stored in the binarized image memory 10. Then, an extracting filter is used to extract an eye region from the image of the face so as to store the eye region in the binarized image memory 10. The opening/closing determining means 11 determines opening/closing of the eyes in accordance with the binarized eye region.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1999-11-17
+	</str>
+	<str name="Application Year">
+		1999
+	</str>
+	<str name="Application(Year/Month)">
+		1999-11
+	</str>
+	<str name="Publication Date">
+		2003-04-15
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-04
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/117 | 382/118
+	</str>
+	<str name="UPC Primary">
+		382/117
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP2000331158A | JP3636927B2 | US6549644
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6055323 | US5119439 | JP1996175218
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		11137702
+	</str>
+	<str name="Priority Date">
+		1999-05-18
+	</str>
+	<str name="Assignee(s)">
+		MITSUBISHI DENKI KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		MITSUBISHI DENKI KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		YAMAMOTO, TAKAYUKI
+	</str>
+	<str name="1st Inventor">
+		YAMAMOTO, TAKAYUKI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		AU, AMELIA M.
+	</str>
+	<str name="Assistant Examiner">
+		LAROSE, COLIN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

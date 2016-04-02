@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080159614A1
+	</str>
+	<str name="Application Number">
+		US11888683
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Validation template for valuable media of multiple classes
+	</str>
+	<str name="Abstract">
+		A technique for use in automatic validation of a media item involves accessing a template that comprises multiple one-class classifiers, each corresponding to one of multiple classes to which the media item might belong, and then applying each of the one-class classifiers to an image of the media item to generate a result set for each of the multiple classes. The result set for each media class is then analyzed to assess whether the media item belongs to that class.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-08-02
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2008-07-03
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-07
+	</str>
+	<str name="All IPC">
+		G06K9/64
+	</str>
+	<str name="IPC Primary">
+		G06K9/64
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/225 | 382/224 | 382/135
+	</str>
+	<str name="UPC Primary">
+		382/225
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP2008181507A | US20080159614A1 | CN101226655A
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		88868307 | 87783906
+	</str>
+	<str name="Priority Date">
+		2007-08-02 | 2006-12-29
+	</str>
+	<str name="Assignee(s)">
+		NCR CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NCR CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		HE CHAO | ROSS GARY A.
+	</str>
+	<str name="1st Inventor">
+		HE CHAO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Dundee,GB
+	</str>
+	<str name="Inventor(s) Address">
+		Dundee,GB | Edinburgh,GB
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

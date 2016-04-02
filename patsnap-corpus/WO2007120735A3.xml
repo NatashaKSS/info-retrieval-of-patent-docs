@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2007120735A3
+	</str>
+	<str name="Application Number">
+		PCT/US2007/008984
+	</str>
+	<str name="Kind Code">
+		A3
+	</str>
+	<str name="Title">
+		PRESSURIZING-DEPRESSURIZING CYCLES FOR REMOVAL OF CONTAMINANTS IN ENVIRONMENTAL SAMPLES
+	</str>
+	<str name="Abstract">
+		A method of removing contaminants from slurry samples is set forth. The method includes the utilization of repeated pressurizing and depressurizing steps to disrupt solidified particles in solid-containing slurries thereby increasing decontamination efficiency. An expansion fluid is injected into the slurry sample sufficient to create microbubbles when the slurry sample is depressurized. The micro bubbles mechanically disrupt the solidified particles increasing contaminant exposure. The microbubbles also provide for increased interfacial regions where contaminants can accumulate at gas-liquid thin films that are in close proximity to and can be effectively removed using a suitable expansion fluid and optional decontamination agents.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2007-04-11
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-04
+	</str>
+	<str name="Publication Date">
+		2007-10-25
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-10
+	</str>
+	<str name="All IPC">
+		B08B7/04 | B08B7/02
+	</str>
+	<str name="IPC Primary">
+		B08B7/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B7
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		60/818,474
+	</str>
+	<str name="Priority Date">
+		2006-07-03
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF UTAH RESEARCH FOUNDATION | HONG, P.K.
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF UTAH RESEARCH FOUNDATION
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		Salt Lake City, UT 84108, 84108, US
+	</str>
+	<str name="Assignee(s) Address">
+		Salt Lake City, UT 84108, 84108, US | Andy, Salt Lake City, UT 84124, 84124, US
+	</str>
+	<str name="Agent/Attorney">
+		WESTERN, M., WAYNE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

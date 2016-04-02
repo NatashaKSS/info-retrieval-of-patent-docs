@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7695675
+	</str>
+	<str name="Application Number">
+		US11079934
+	</str>
+	<str name="Title">
+		Method of inactivating microorganisms in a fluid using ultraviolet radiation
+	</str>
+	<str name="Abstract">
+		A method of inactivating microorganisms such as viruses within a fluid such as a biological fluid is disclosed. The method includes the steps of providing a UV reactor, which may take the form of an elongated generally annular reaction chamber surrounding at least one elongated UV lamp, moving the fluid within the reaction chamber in a primary flow directed along the length of the UV lamp, and inducing a circulating secondary flow within the fluid with the secondary flow being superimposed on the primary flow. As the fluid moves through the reaction chamber in the primary flow, it is circulated repeatedly toward and away from the UV lamp in the circulating secondary flow to provide uniform and controllable exposure of the entire volume of fluid to ultraviolet radiation. Microorganisms such as viruses are thus inactivated while desirable components in the fluid, such as proteins, are preserved without the use of a free radical scavenger.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-03-14
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2010-04-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		B01J19/08 | B08B17/00 | G01N23/00 | B01D63/00 | B01D21/26 | A61L2/00
+	</str>
+	<str name="IPC Primary">
+		B01J19/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01J
+	</str>
+	<str name="IPC Group">
+		B01J19
+	</str>
+	<str name="All UPC">
+		422/186 | 422/905 | 210/319 | 422/24 | 210/320 | 250/455.11 | 422/44 | 210/321.63 | 422/1 | 250/432R | 422/6 | 435/302.1 | 210/512.3
+	</str>
+	<str name="UPC Primary">
+		422/186
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8324595
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5466425 | US4321919 | US6570167 | US4769131 | WO1995015294
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Assignee(s)">
+		BAYER HEALTHCARE LLC (TARRYTOWN, NY), BAYER AKTIENGESELLSCHAFT
+	</str>
+	<str name="1st Assignee">
+		BAYER HEALTHCARE LLC (TARRYTOWN, NY), BAYER AKTIENGESELLSCHAFT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Leverkusen, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Leverkusen, DE
+	</str>
+	<str name="Inventor(s)">
+		KAISER, KLAUS | HENZLER, HANS-JUERGEN | KAULING, JOERG | TRECKMANN, ROLF | REMINGTON, KATHRYN | GALLOWAY, CYNTHIA, J.
+	</str>
+	<str name="1st Inventor">
+		KAISER, KLAUS
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Cologne, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Cologne, DE | Solingen, DE | Cologne, DE | Cary, NC | Cary, NC | Garner, NC
+	</str>
+	<str name="Agent/Attorney">
+		NORRIS, MCLAUGHLIN &amp; MARCUS PA
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		CHORBAJI, MONZER R
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

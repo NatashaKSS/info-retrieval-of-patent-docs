@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20040024758A1
+	</str>
+	<str name="Application Number">
+		US10619497
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Image classification method, image feature space displaying method, program, and recording medium
+	</str>
+	<str name="Abstract">
+		A classification method for classifying all images in an image database is disclosed. The method includes the steps of extracting a query image from a plurality of images in an image database, searching, according to a predetermined similarity level, for a representative image resembling the query image in a representative image classification database in which groups of images are represented by respective representative images, registering the query image as a new representative image in the representative image classification database when no resembling representative image is found as a result of the search according to the predetermined similarity level, and adding the query image into a group represented by the resembling representative image found as a result of the search according to the predetermined similarity level.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-07-16
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-07
+	</str>
+	<str name="Publication Date">
+		2004-02-05
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-02
+	</str>
+	<str name="All IPC">
+		G06F7/00
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		707/3
+	</str>
+	<str name="UPC Primary">
+		707/3
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Members">
+		EP1387303A2 | EP1387303A3 | US20040024758A1 | JP2004062804A
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2002223944
+	</str>
+	<str name="Priority Date">
+		2002-07-31
+	</str>
+	<str name="Inventor(s)">
+		MASAJIRO IWASAKI
+	</str>
+	<str name="1st Inventor">
+		MASAJIRO IWASAKI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa,JP
+	</str>
+	<str name="Agent/Attorney">
+		DICKSTEIN SHAPIRO MORIN &amp; OSHINSKY LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7604740
+	</str>
+	<str name="Application Number">
+		US12012362
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Waste activated sludge stripping to remove internal phosphorus
+	</str>
+	<str name="Abstract">
+		A method of treating a mixture of microorganisms containing phosphorus and magnesium, by first inducing the mixture microorganisms to release phosphorus and magnesium which is then tapped off as the mixture is thickened, to produce phosphorus and magnesium-rich liquid and phosphorus and magnesium-reduced treated mixture. This treated mixture is placed in an anaerobic digester where ammonia is formed but combines very little with phosphorus or magnesium as these elements have been greatly reduced in concentration. Next the high-ammonia mixture is dewatered, to produce an ammonia-rich liquid, which is combined with the phosphorus and magnesium-rich liquid. In one preferred embodiment a useable struvite product is harvested from this combination. Additionally, the production of nuisance struvite in the anaerobic digester is greatly reduced, in comparison with prior art waste treatment methods.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-02-01
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-02
+	</str>
+	<str name="Publication Date">
+		2009-10-20
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		C02F11/04 | C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F11/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F11
+	</str>
+	<str name="All UPC">
+		210/630 | 210/609 | 210/601 | 210/906
+	</str>
+	<str name="UPC Primary">
+		210/630
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20090194476A1 | US7604740 | WO2009097160A1 | CA2686114A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		International Search Report for Int'l Appl. No. PCT/US09/00689; Int'l Searching Authority; Mar. 23, 2009; 13 pages. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20030217968 | US5360546 | US6464875 | US20070000836 | US6663777 | US6706185 | US6776816 | US20030172697 | US20070209998 | US7264715 | US20060124541 | US20010045390 | JP2003334584 | JP1997262599 | JP2005161158
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		1236208
+	</str>
+	<str name="Priority Date">
+		2008-02-01
+	</str>
+	<str name="Assignee(s)">
+		CLEAN WATER SERVICES
+	</str>
+	<str name="1st Assignee">
+		CLEAN WATER SERVICES
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hillsboro, OR
+	</str>
+	<str name="Assignee(s) Address">
+		Hillsboro, OR
+	</str>
+	<str name="Inventor(s)">
+		BAUR, ROBERT, JAMES
+	</str>
+	<str name="1st Inventor">
+		BAUR, ROBERT, JAMES
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Lake, Oswego, OR
+	</str>
+	<str name="Inventor(s) Address">
+		Lake, Oswego, OR
+	</str>
+	<str name="Agent/Attorney">
+		ATER WYNNE LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

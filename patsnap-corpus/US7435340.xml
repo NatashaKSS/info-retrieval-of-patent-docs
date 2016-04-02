@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7435340
+	</str>
+	<str name="Application Number">
+		US11864410
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Wastewater treatment system
+	</str>
+	<str name="Abstract">
+		This disclosure describes wastewater treatment systems and methods of treating wastewater. In one exemplary method, a wastewater is split into first and second wastewater fractions. The first fraction is delivered to a membrane bioreactor, which may produce an effluent with a low pollutant concentration, and the second fraction is delivered to a biological wastewater treatment system, which may yield a higher pollution concentration yet have a shorter solids retention time. Some implementations of the invention can routinely meet or even exceed pollution discharge standards quite economically during normal operation, yet retain significant flexibility for handling seasonal or sudden variations in the flow rate of wastewater into the system. In select adaptations, waste activated sludge containing heterotrophs, autotrophs, and (optionally) polyphosphate accumulating organisms is delivered from the membrane bioreactor to the biological wastewater treatment system.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-09-28
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2008-10-14
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		B01D21/24
+	</str>
+	<str name="IPC Primary">
+		B01D21/24
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D21
+	</str>
+	<str name="All UPC">
+		210/97 | 210/102 | 210/138 | 210/137 | 210/143
+	</str>
+	<str name="UPC Primary">
+		210/97
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060113244A1 | CN1789165A | US7279102 | US7435340 | US20080047896A1
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		Kos, P., &quot;Short SRT (Solids Retention Time) Nitrification Process/ Flowsheet,&quot; Wat. Sci. Tech., vol. 38, No. 1, pp. 23-29 (1998). cited by other . | Constantine, T., et al., &quot;The Evaluation of Nitrifier Bioaugmentation Process Configurations,&quot; Apr. 2002, 13 pages. cited by other. | U.S. Environmental Protection Agency, &quot;Process Design Manual for Nitrogen Control,&quot; EPA/625/R-93010, Cincinnati, Ohio (1993). cited by other . | Crawford, et al. (2000) Proceedings of the 29th WEAO Conference and Technical Symposium, Hamilton, Ontario. cited by other . | Daigger, et al., &quot;Process and Kinetic Analysis of Nitrification in Coupled Trickling Filter/Activated Sludge Processes,&quot; Water Environment Research, vol. 65, pp. 679-685 (1993). cited by other . | Cartoon, Italy, 2003, 1 page. cited by other . | Tendaj-Xavier, &quot;Biological Treatment of Sludge Water from Centrifugation of Digested Sludge,&quot; Dissertation a the Royal Technical University (1983). cited by other . | Constantine, T., et al., &quot;New Nitrifier Bioaugmentation Process Configuration to Achieve Year Round Nitrification At low SRTs,&quot; Canada, Oct. 2001, 20 pages. cited by other . | Constantine (1996) Masters Thesis, McMaster University, &quot;Bioaugmentation To Achieve Nitrification In Activated Sludge Systems,&quot; p. 3. cited by other . | Grady, et al., Biological Wastewater Treatment, Second Edition, Marcel Dekker, New York (1999). cited by other . | Constantine, T., et al., &quot;New Process Configuration To Achieve Year Round Nitrification At Low SRTs,&quot; Canada, Apr. 2001, 12 pages. cited by other . | Anthonisen, et al., &quot;Inhibition of nitrification by ammonia and nitrous acid,&quot; Journal of the Water Pollution Control Federation, vol. 48, pp. 835-852 (1976). cited by other . | Bidstrup, et al. (1988) Journal WPCF 60:351-361. cited by other .
+	</str>
+	<str name="Other References Count">
+		13
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7279102 | US6723244 | US6808628 | US5811009 | US6312599 | US5480548
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		86441007 | 99934504
+	</str>
+	<str name="Priority Date">
+		2007-09-28 | 2004-11-30
+	</str>
+	<str name="Assignee(s)">
+		CH2M HILL, INC. (ENGLEWOOD, CO), CH2M HILL CANADA, LTD.
+	</str>
+	<str name="1st Assignee">
+		CH2M HILL, INC. (ENGLEWOOD, CO), CH2M HILL CANADA, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Toronto, ON, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Toronto, ON, CA
+	</str>
+	<str name="Inventor(s)">
+		JOHNSON, BRUCE, R. | DAIGGER, GLEN, T. | CRAWFORD, GEORGE, V.
+	</str>
+	<str name="1st Inventor">
+		JOHNSON, BRUCE, R.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Boise, ID
+	</str>
+	<str name="Inventor(s) Address">
+		Boise, ID | Englewood, CO | Toronto, CA
+	</str>
+	<str name="Agent/Attorney">
+		PERKINS COIE LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

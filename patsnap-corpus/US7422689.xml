@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7422689
+	</str>
+	<str name="Application Number">
+		US11769945
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Membrane-cleaning method for membrane bioreactor process
+	</str>
+	<str name="Abstract">
+		A method of cleaning a membrane in a membrane separation activated-sludge process. By the method, deposits adherent to the surface of a membrane used in a membrane separation activated-sludge process can be effectively scratched off and the membrane filtration rate can be prevented from decreasing. Membrane-cleaning particles (4) in which the surface to be in contact with the water to be treated has been hydrophilized and has a surface roughness of 100-2,500 .mu.m are introduced into a bioreactor (1). The particles are caused to flow by the lifting effect of air bubbles ejected from an aerator (3) or by the fluidizing effect of a fluidizing means to thereby cause the particles to scratch off deposits adherent to the surface of a separation membrane element (2). In one embodiment, membrane-cleaning particles (4) which are non-porous or have closed cells are used. In another embodiment, membrane-cleaning particles (4) having an antibacterial ingredient, such as copper or silver, supported on the surface or in inner parts thereof are used. In a still another embodiment, the membrane-cleaning particles (4) are periodically brought into an anaerobic condition to remove microorganisms from the particle surface.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-06-28
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-06
+	</str>
+	<str name="Publication Date">
+		2008-09-09
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/355
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1852175A1 | US20080105615A1 | US7422689 | WO2006090469A1 | EP1852175A4 | CN100563798C | CN101119790A
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		5
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5180402 | JP2001104980 | JP2002191361 | JP2000084378 | JP1993115899 | JP1997136021 | JP1979032181 | JP2001062477 | JP2001205285 | JP1981024005 | JP1993339809 | JP1990043994 | JP1999309477 | JP2005074357 | JP1993339115 | JP1999197685 | JP1986021789 | JP2002263673 | JP2002113484 | JP1990122892
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2005003131
+	</str>
+	<str name="Priority Date">
+		2005-02-25
+	</str>
+	<str name="Assignee(s)">
+		NGK INSULATORS, LTD.
+	</str>
+	<str name="1st Assignee">
+		NGK INSULATORS, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Nagoya, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Nagoya, JP
+	</str>
+	<str name="Inventor(s)">
+		NOGUCHI, MOTOHARU
+	</str>
+	<str name="1st Inventor">
+		NOGUCHI, MOTOHARU
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Handa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Handa, JP
+	</str>
+	<str name="Agent/Attorney">
+		BURR &amp; BROWN
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

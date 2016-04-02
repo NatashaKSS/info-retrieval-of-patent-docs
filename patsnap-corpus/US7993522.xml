@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7993522
+	</str>
+	<str name="Application Number">
+		US12161846
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Conditioning system for activated sludge wastewater treatment processes
+	</str>
+	<str name="Abstract">
+		Wastewaters are treated by an activated sludge process that includes combining wastewater with bacteria-laden sludge in an activated sludge tank to form a mixed liquor, separating the mixed liquor into a clear effluent and activated sludge stream, pretreating at least a portion of the activated sludge stream in a conditioning tank, transferring at least a portion of the activated sludge stream in the conditioning tank to an interchange bioreactor operating in batch or continuous flow mode, processing the activated sludge stream within the interchange bioreactor by selecting desired growth conditions to cultivate at least one type of bacteria in the activated sludge stream, and returning at least a portion of the activated sludge stream in the bioreactor to the activated sludge tank. The process may further include a sidestream reactor to remove phosphates from the activated sludge stream leaving the interchange bioreactor.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-24
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2011-08-09
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/607 | 210/621 | 210/620 | 210/623 | 210/622 | 210/625 | 210/624 | 210/626
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Dong Hyun Chon, &quot;Performance and Mechanisms of Excess Sludge Reduction in the Cannibal(TM) Process,&quot; Mar. 30, 2005, M.S. Thesis, Virginia Polytechnic Univ., Blacksburg, VA. cited by examiner . | Ruth Roxburgh, et al., &quot;Sludge Minimization Technologies--Doing More to Get Less,&quot; WEFTEC(R) 06, 2006, p. 506-525. cited by examiner . | International Search Report dated Jul. 2, 2008 for Application No. PCT/US07/01815. cited by other.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7520980 | US5733455 | US4407717 | US6585895 | US5853588 | US3047492 | US5094752 | US4999111 | US5246585 | US7163629 | US6015496 | US5356537 | US4790939 | US5288405 | US4279753 | US6383387 | US6113788 | US4159944 | US3756946 | US5128040 | US5013442
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Priority Country">
+		WO
+	</str>
+	<str name="Priority Number">
+		PCT/US2007/001815
+	</str>
+	<str name="Priority Date">
+		2006-07-18
+	</str>
+	<str name="Assignee(s)">
+		SIEMENS INDUSTRY, INC.
+	</str>
+	<str name="1st Assignee">
+		SIEMENS INDUSTRY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Alpharetta, GA
+	</str>
+	<str name="Assignee(s) Address">
+		Alpharetta, GA
+	</str>
+	<str name="Inventor(s)">
+		CURTIS, BETTY-ANN | KUTCHER, THOMAS | ROEHL, MARC, E.
+	</str>
+	<str name="1st Inventor">
+		CURTIS, BETTY-ANN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Waukesha, WI
+	</str>
+	<str name="Inventor(s) Address">
+		Waukesha, WI | Milford, OH | Mukwonago, WI
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

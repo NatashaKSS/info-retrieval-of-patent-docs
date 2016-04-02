@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7520990
+	</str>
+	<str name="Application Number">
+		US11711310
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Anaerobic wastewater treatment system and method
+	</str>
+	<str name="Abstract">
+		An anaerobic wastewater treatment system includes a recycle tank, a bioreactor tank and a bioselector for recapturing anaerobic microbial consortia particles escaping from the bioreactor tank and returning them to the bioreactor tank. The bioreactor tank receives recycled wastewater feed from a recycle tank and discharges via an overflow outlet treated wastewater and microbial consortia particles to a bioselector. The bioselector is adapted to separate entrained microbial consortia particles and return a feed to the bioreactor tank which including some of the treated wastewater received from the bioreactor tank and the microbial consortia particles received from the bioreactor tank. The bioselector provides a recycle feed to the recycle tank. Overflow from the bioselector provides an effluent of treated wastewater leaving the system.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-02-27
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-02
+	</str>
+	<str name="Publication Date">
+		2009-04-21
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F3/28
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/195.1 | 210/188 | 210/603 | 210/512.1 | 210/617
+	</str>
+	<str name="UPC Primary">
+		210/195.1
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080142437A1 | US7520990 | WO2008106100A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5534159 | US6372139 | US4469599 | US4582600 | US4940546 | US4707254 | US5336398 | US5855785 | US5972219 | US5976868 | US5254253 | US6616833 | US4915841 | US5972216 | US4536286 | US6126827 | US3371033 | US4613434 | US6159380 | US4411780 | US5230794 | US6790359 | US3920550 | US6767464 | US5030353 | US6758886 | US4622147 | US5417937 | US5205935 | US5096579 | US5755973 | US5985150 | US3300402 | US5961830 | US3956128 | US6309553 | US6221652 | US4160724 | US5328105 | US6139730 | US5773526 | US4627917 | US6156205 | US5565098 | US5126238 | US4659460 | US4534864 | US4609460 | US6623640 | US4561974 | US5338447 | JP1997070599 | CA2080030 | DE19532802 | CA2084090 | CA1295058 | CA2022232 | CA1334036 | KR00152172 | KR00183432 | CA2104433 | CA2160373
+	</str>
+	<str name="Cites Count">
+		62
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		71131007 | 77758606
+	</str>
+	<str name="Priority Date">
+		2007-02-27 | 2006-02-28
+	</str>
+	<str name="Assignee(s)">
+		ICM, INC.
+	</str>
+	<str name="1st Assignee">
+		ICM, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Colwich, KS
+	</str>
+	<str name="Assignee(s) Address">
+		Colwich, KS
+	</str>
+	<str name="Inventor(s)">
+		RUOCCO, JOSEPH, J. | KOHL, SCOTT, DENNIS
+	</str>
+	<str name="1st Inventor">
+		RUOCCO, JOSEPH, J.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Colwish, KS
+	</str>
+	<str name="Inventor(s) Address">
+		Colwish, KS | Wichita, KS
+	</str>
+	<str name="Agent/Attorney">
+		BLINN, ROBERT O.
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

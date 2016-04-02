@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7429330
+	</str>
+	<str name="Application Number">
+		US11014892
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for removing contaminants from fluid streams
+	</str>
+	<str name="Abstract">
+		A method and recyclable magnetic adsorbent are provided for removing contaminants from a fluid stream that has by-products. The method includes providing an adsorbent material that has incorporated at least one ferromagnetic material. Contacting the ferromagnetic adsorbent material to at least a portion of contaminated stream to adsorb the contaminant. The contaminated adsorbent is then separated from the by-products using a magnetic separation process. The adsorbent is recovered from the solid by-products and reusable in the present method.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-12-16
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-12
+	</str>
+	<str name="Publication Date">
+		2008-09-30
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		C02F1/42
+	</str>
+	<str name="IPC Primary">
+		C02F1/42
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/667
+	</str>
+	<str name="UPC Primary">
+		210/667
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20050155934A1 | US20050247635A1 | US7429330
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References">
+		Raven, K.P. et al., Arsenite and Arsenate Adsorption on Ferrihydrite: Kinetics, Eqilibrium, and Adsorption Envelopes, Environmental Science &amp; Technology, vol. 32, No. 3, pp. 344-349, 1998. cited by other . | Orhan Ozdemir, Bahri Ersoy and Mehmet S. Celik, Separation of Pozzolonic Material from Lignitic Fly Ash of Tuncbilek Power Station, 2001 International Ash Utilization Symposium, Center for Applied Research, University of Kentucky, Paper #45. cited by other . | Valuable products From Utility Fly Ash, Sep. 1, 1995 through Aug. 31, 1996, Final Technical Report, ICCI Project No. 95-1/3.1A-15, Principal Investigator Joseph A. DeBarr, ISGS, Other Investigators: David M. Rapp, Massoud Rostam-Abadi, Joseph M. Lytle, ISGS, Mark J. Rood, UIUC, Project Manager: Den Banerjee, ICCI. cited by other . | Seco, A. et al., Adsorption of Heavy Metals from Aqueous Solutions onto Activated Carbon in Single Cu and Ni Systems and in Binary Cu-Ni, Cu-Cd and Cu-Zn Systems, J. Chem. Tech. Bbiotechol., vol. 68, pp. 23-30, 1997. cited by other . | Reed, B.E. et al., Effect of pH, Empty Bed Contact Time and Hydraulic Loading Rate on Lead Removal by Granular Activated Carbon Columns, Water Environment Research, vol. 68, No. 5, pp. 877-882, Jul./Aug. 1996. cited by other . | Edwards, M., Chemistry of Arsenic: Removal During Coagulation and Fe-Mn Oxidation, Arsenic: The Quest for Answers, pp. 64-78, Sep. 1994. cited by other . | Brian E. Reed, Ronald Vaughan, and Liquiang Jiang, As(III), As(V), Hg, and Pb Removal by Fe-Oxide Impregnated Activated Carbon, Journal of Environmental Engineering, Sep. 2000, vol. 126, No. 9, pp. 869-873. cited by other . | Jekel, M. et al., Comparison of Conventional and New Techniques for the Removal of Arsenic in a Full Scale Water Treatment Plant, Department of Water Quality Control, Technical Unversity of Berlin, Germany, 2000 (abstract). cited by other . | Patoczka, J. et al., Trace Heavy Metals Removal with Ferric Chloride, Presented at Water Environment Federation Industrial Wastes Technical Conference, Nashville, TN, 1998. cited by other . | Ljubinka V. Rajakovic, The Sorption of Arsenic onto Activated Carbon Impregnated With Metallic Silver and Copper, Separation Science and Technology, vol. 27, No. 11, 1992, pp. 1423-1433. cited by other . | Database WPI/Derwent, XP-002315619, 1986. cited by other . | Singh, D.K. et al., Removal of Toxic Metals Ions from Wastewater by Coal-Based Adsorbent, Wat. Res. vol. 11 No. 1, pp. 37-42, 1992. cited by other . | Prasad, S.C. et al., Arsenic (III) Removal by Sorption on Coconut Shell, Department Civil Engineering, M N Regional Engineering College, Motihari, India, 1995 (abstract). cited by other . | Cheng, J. et al., Adsorption of Low Levels of Lead (II) by Granular Activated Carbon, J. Environ. Sci. Health, A28 (1), pp. 51-71, 1993. cited by other . | Gajghate, D.G. et al., Kinetics of Adsorption of Lead by Active Carbon from Aqueous Solution, Indian J. Environ. Hlth., vol. 32, No. 4, pp. 369-436, 1990. cited by other . | Database WPI/Derwent, XP-002327536, 1998. cited by other . | Nerac, Inc., Arsenic Removal from Water by Adsorption, Feb. 5, 2001 (abstract). cited by other . | Huang, C.P. et al., Treatment of Arsenic(V)-containing Water by the Activated Carbon Process, Journal WPCF, vol. 56, No. 3, pp. 233-242, Mar. 1984. cited by other . | Epa Office of Water, Arsenic in Drinking Water: Treatment Technologies: Removal, Oct. 1995. cited by other . | Abdel-Fattah, T.M. et al., Screening of Low-Cost Adsorbents for Arsenic Removal, Division of Environmental Chemistry, vol. 4 No. 1, pp. 422-425, Mar. 2000. cited by other . | Carriere, P. et al., Effect of Influent Pb Concentration and Empty Bed Contact Time (EBCT) on Pb Removal by Granular Activated Carbon (GAC) Columns, pp. 619-626. cited by other . | Lorenzen, L. et al., Factors Affecting the Mechanism of the Adsorption of Arsenic Species on Activated Carbon, Minerals Engineering, vol. 8, Nos. 4-5, pp. 557-569, 1995. cited by other . | Arulanantham, A. et al., Coconut Shell Carbon for Treatment of Cadmium and Lead-Containing Wastewater, Metal Finishing, pp. 51-55, Nov. 1989. cited by other . | Daug, B. et al., Sorption Materials for Arsenic Removal from Water: A Comparative Study, Water Research, vol. 28, pp. 2948-2954, 2004. cited by other . | Abdel-Shafy, H.I. et al., Removal of Cadium and Lead from Water by Activated Carbon, Environment Protection Engineering, vol. 15, Nos. 1-2, pp. 63-78, 1989. cited by other . | B. Petrusevski, J. Boere, S.M. Shadhidullah, S.K. Sharma and J.C. Schippers, Adsorbent-based point-of-use system for arsenic removal in rural areas, Journal of Water Supply, Research &amp; Technology-AQUA, 2002, pp. 135-144. cited by other . | Kuenne, R.W. et al., Removal of Lead in Drinking Water by a Point-of-Use Granular Activated Carbon Fixed Bed Adsorber, Proc. Ann. Conf. Am. Waterworks Assoc., pp. 1451-1493, 1989. cited by other . | Ferro-Garcia, M.A. et al., Removal of Lead from Water by Activated Carbons, Carbon, vol. 28, No. 4, pp. 545-552, 1990. cited by other . | Uranowski, L.J. et al., The Effect of Surface Metal Oxides on Activated Carbon Adsorption of Phenolics, Wat. Res. vol. 32, No. 6, pp. 1841-1851, 1998. cited by other. | Hathaway, S.W. et al., Removing Arsenic From Drinking Water, J. AWWA, vol. 79, No. 8, pp. 61-65, 1987. cited by other . | Gajghate, D.G. et al., Removal of Lead from Aqueous Solution by Active Carbon, Indian J. Environ. Hlth., vol. 33, No. 3, pp. 374-379, 1991. cited by other . | Database WPI/Derwent, XP-002315607, 1975. cited by other . | Tan, T.C. et al., Combined Effect of Carbon Dosage and Initial Adsorbate Concentration on the Adsorption Isotherm of Heavy Metals on Activated Carbon, Wat. Res. vol. 21, No. 10. pp. 1183-1188, 1987. cited by other . | Gupta, S.K. et al., Arsenic Removal by Adsoprtion, Journal WPCF, vol. 50, No. 3, pp. 493-505, Mar. 1978. cited by other . | Database WPI/Derwent, XP-002327650, 2002. cited by other . | Huang, C.P., et al., Enhancing As.sup.5+ Removal by a Fe.sup.2+ -treated Activated Carbon, Journal WPCF, vol. 61, No. 9, pp. 1596-1603, Sep. 1989. cited by other . | Twidwell, L.G. et al., Technologies and Potential Technologies for Removing Arsenic from Process and Mine Wastewater, REWAS, Global Symp. Recycl., Waste Treat. Clean Technol., pp. 1715-1726, 1999. cited by other . | Toxecon Retrofit for Mercury and Multi-Pollutant Control on Three 90 MW Coal-Fired Boilers, U.S. Department of Energy, Office of Fossil Energy, National Energy Technology Laboratory, Clean Coal power Initiative, Sep. 2004. cited by other . | Bellack, E., Arsenic Removal from Potable Water, J. AWWA, vol. 65, pp. 454-458, 1971. cited by other . | Netzer, A. et al., Adsorption of Copper, Lead and Cobalt by Activated Carbon, Water Res., vol. 18, No. 8, pp. 927-933, 1984. cited by other . | Diamadopoloulos, E. et al., As(V) Removal from Aqueous Solutions by Fly Ash, Wat. Res., vol. 27, No. 12, pp. 1773-1777, 1993. cited by other .
+	</str>
+	<str name="Other References Count">
+		41
+	</str>
+	<str name="Cited By">
+		US7879136 | US8066874 | US8349764 | US8252087
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		US2987408 | US20040076557 | US5432077 | US5158580 | US6030537 | US20040108275 | US5227047 | US5114592 | US5908557 | US5556545 | US4201831 | US6146539 | US6599429 | US5965483 | US6383981 | US5378366 | US6077809 | US6540088 | US20040089608 | US4284511 | US6475386 | US4877920 | US20030154865 | US5047145 | US4319893 | US20020195407 | US20030196966 | US5369072 | US4532115 | US6027551 | JP1979089994 | DE10152671 | DE10333824 | JP2001340873 | FR2839507 | WO2004064078 | JP1987187931 | DE20309296 | EP0719584 | RU2082496 | WO2004026464 | JP1974033896 | CA1067627
+	</str>
+	<str name="Cites Count">
+		43
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		1489204 | 94017801 | 0339925 | 608404 | 582504
+	</str>
+	<str name="Priority Date">
+		2004-12-16 | 2001-08-27 | 2003-12-16 | 2004-12-07 | 2004-12-07
+	</str>
+	<str name="Assignee(s)">
+		CALGON CARBON CORPORATION
+	</str>
+	<str name="1st Assignee">
+		CALGON CARBON CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Inventor(s)">
+		VO, TOAN, PHAN | VENKATESH, K., RAMAN
+	</str>
+	<str name="1st Inventor">
+		VO, TOAN, PHAN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Niskayuna, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Niskayuna, NY | Wallingford, CT
+	</str>
+	<str name="Agent/Attorney">
+		COHEN &amp; GRIGSBY, P.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

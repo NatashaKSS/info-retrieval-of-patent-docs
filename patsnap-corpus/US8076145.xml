@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8076145
+	</str>
+	<str name="Application Number">
+		US13/064793
+	</str>
+	<str name="Title">
+		Method and apparatus for analyzing vitamin E in lipoproteins
+	</str>
+	<str name="Abstract">
+		A method of analyzing vitamin E components in a lipoprotein by subjecting a lipoprotein-containing sample to ion exchange chromatography to separate the lipoprotein, reacting the separated lipoprotein to a pretreating solution containing an organic solvent and a surfactant to liberate vitamin E components, and then subjecting the liberated vitamin E components to reverse phase chromatography. Also described is a method of judging various pathological conditions such as the pathological conditions of diabetes, the risks of coronary artery diseases, and the pathological conditions of myocardial infarction using levels of vitamin E components in the lipoprotein as an index.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2011-04-15
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-04
+	</str>
+	<str name="Publication Date">
+		2011-12-13
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		G01N30/14 | G01N33/92 | G01N30/02
+	</str>
+	<str name="IPC Primary">
+		G01N30/14
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N30
+	</str>
+	<str name="All UPC">
+		436/161 | 210/662 | 436/71 | 436/174 | 210/660 | 436/177 | 436/93 | 210/656
+	</str>
+	<str name="UPC Primary">
+		436/161
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Granado et al, &quot;Carotenoids, Retinol and Tocopherols in Patients with Insulin-Dependent Diabetes Mellitus and Their Immediate Relatives&quot;, Clinical Since, Biochemical Society and the Medical Research Society, London, GB, vol. 94, No. 2, Feb. 1, 1988, pp. 189-195, XP009085796. cited by other . | Olmedilla et al, &quot;Reference values for retinol, tocopherol, and main carotenoids in serum of control and insulin-dependent diabetic Spanish subjects&quot;, Clinical Chemistry Jun. 1997, vol. 43, No. 6 Pt 1, Jun. 1997, pp. 1066-1071, XP002574562. cited by other . | Hirowatari, Yuji et al., &quot;Measurement of Cholesterol of Major Serum Lipoprotein Classes by Anion-Exchange HPLC with Perchlorate Ion-Containing Eluent&quot;, Journal of Lipid Research, vol. 44, No. 7, (Jul. 2003), pp. 1404-1412. cited by other . | Extended European Search Report in EP 07 74 4531 dated Apr. 9, 2010. cited by other . | Cooper, J.D.H. et al., &quot;Determination of Vitamin E in Human Plasma by High-Performance Liquid Chromatography&quot;, Journal of Chromatography B., vol. 690, No. 1/2, (Mar. 7, 1997), pp. 355-358. cited by other . | Knekt et al, &quot;Low vitamin E status is a potential risk factor for insulin-dependent diabetes mellitus&quot;, Journal of Internal Medicine, Jan. 1999, vol. 245, No. 1, pp. 99-102, XP002574563. cited by other . | Yasuda, Kazuto et al., &quot;Tonyobyo to Vitamin E Taisha&quot;, The Japanese Journal of Clinical Pathology, vol. 29, No. 6, (1981 Nen 6 Gatsu), pp. 586-589. cited by other . | Schneider et al, Diabetes, vol. 53, Oct. 2004, pp. 2633-2639. cited by other. | Hirowatari, Yuji et al., &quot;Analysis Method for Lipoproteins by High-Performance Liquid Chromatography with Sulfopropyl-Ligand Column and Magnesium Ion-Containing Eluents&quot;, Analytical Biochemistry, vol. 308, No. 2, (2002), pp. 336-342. cited by other . | Vatassery et al, &quot;Vitamin E in Plasma and Platelets of Human Diabetic Patients and Control Subjects&quot;, American Journal of Clinical Nutrition, vol. 37, No. 4, Apr. 1983, pp. 641-644, XP002574564. cited by other . | Sobszak et al, Journal of Chromatogaphy B, vol. 730, 1999, pp. 265-271. cited by other . | Williamson et al, Abstract No. 120.2 Experimental Biology 2006: Meeting Abstracts, Mar. 6, 2006, pp. A144-A145. cited by other . | Haidari et al, Clinical Chemistry, vol. 47, No. 7, 2001, pp. 1234-1240. cited by other . | Caye-Vaugien, Colette et al., &quot;Determination of .alpha.-Tocopherol in Plasma, Platelets and Erythrocytes of Type I and Type II Diabetic Patients by High-Performance Liquid Chromatophraphy&quot;, Vitamin and Nutrition Research, vol. 60, No. 4, (1990), pp. 324-330. cited by other . | International Search Report for PCT/JP2007/061143, mailed Sep. 4, 2007. cited by other .
+	</str>
+	<str name="Other References Count">
+		15
+	</str>
+	<str name="Cites">
+		JP2000214150 | JP2004101477
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2006144843
+	</str>
+	<str name="Priority Date">
+		2006-05-25
+	</str>
+	<str name="Assignee(s)">
+		TOSOH CORPORATION
+	</str>
+	<str name="1st Assignee">
+		TOSOH CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Shunan-shi, Yamaguchi, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Shunan-shi, Yamaguchi, JP
+	</str>
+	<str name="Inventor(s)">
+		HIROWATARI, YUJI
+	</str>
+	<str name="1st Inventor">
+		HIROWATARI, YUJI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Hadano, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Hadano, JP
+	</str>
+	<str name="Agent/Attorney">
+		NIXON &amp; VANDERHYE P.C.
+	</str>
+	<str name="Primary Examiner">
+		WALLENHORST, MAUREEN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

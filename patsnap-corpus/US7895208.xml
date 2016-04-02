@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7895208
+	</str>
+	<str name="Application Number">
+		US12037091
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Device, system, and method of creating virtual social networks based on web-extracted features
+	</str>
+	<str name="Abstract">
+		Device, system, and method of creating virtual social networks based on web-extracted features. For example, a method for creating virtual social networks based on web-extracted data includes: accessing through a global communication network a first content item and a second content item, wherein each one of the first and second content items is selected from the group consisting of: an image, a video, text, and metadata; extracting data corresponding to a first feature from the first content item; extracting data corresponding to a second feature from the second content item; and based on a common attribute of the first and second features, clustering into a cluster a first identifier of a first user associated with the first content item and a second identifier of a second user associated with the second content item.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-02-26
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-02
+	</str>
+	<str name="Publication Date">
+		2011-02-22
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		G06F7/00 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		707/738 | 707/748 | 707/749 | 707/741
+	</str>
+	<str name="UPC Primary">
+		707/738
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20090164301 | US20060294134 | US20070168216 | US20060123127 | US20080201225 | US20070299737 | US20070214097 | US20070156636 | US7707246 | US20070112761 | US20090154899 | US20070208729 | WO2007103482
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Assignee(s)">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Armonk, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Armonk, NY
+	</str>
+	<str name="Inventor(s)">
+		KONOPNICKI, DAVID
+	</str>
+	<str name="1st Inventor">
+		KONOPNICKI, DAVID
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Haifa, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Haifa, IL
+	</str>
+	<str name="Primary Examiner">
+		BREENE, JOHN E
+	</str>
+	<str name="Assistant Examiner">
+		HERSHLEY, MARK E
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

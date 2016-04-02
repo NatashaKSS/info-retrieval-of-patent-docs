@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7452466
+	</str>
+	<str name="Application Number">
+		US11261997
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for anaerobic digestion of biomasses and generation of biogas
+	</str>
+	<str name="Abstract">
+		A method and apparatus for an anaerobic digestion of biomasses with generation of biogas and sludge, wherein a hydrolyzation phase and a following fermentation of the biomass are included, wherein a hydrolyzation phase (5) and at least two following fermentation phases (7,8,9) are included and wherein the hydrolyzation (5) as well as the following fermentations (7,8,9) are performed in separate containers with specific measurement and control of the temperature, of the mixing degree, of the pH value and of the pressure.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-10-28
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-10
+	</str>
+	<str name="Publication Date">
+		2008-11-18
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		C02F11/04 | C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F11/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F11
+	</str>
+	<str name="All UPC">
+		210/603 | 210/614 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/603
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1473279A1 | US20040262220A1 | US20060060526A1 | US7452466
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US4318993 | US6663777 | US4442006 | US5630942 | US5529692 | US4652374 | US5525229 | US4597872 | DE19623163
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		IL
+	</str>
+	<str name="Priority Number">
+		BZ2003A0024
+	</str>
+	<str name="Priority Date">
+		2003-04-30
+	</str>
+	<str name="Inventor(s)">
+		BINNING, RUPERT | MODINGER, FRITZ | GASSER, PAUL
+	</str>
+	<str name="1st Inventor">
+		BINNING, RUPERT
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		D-54341, Fell, DE
+	</str>
+	<str name="Inventor(s) Address">
+		D-54341, Fell, DE | I-39040, Naz, Sciaves, IL | I-99040, Naz, Sciaves, IL
+	</str>
+	<str name="Agent/Attorney">
+		KASPER, HORSI M.
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

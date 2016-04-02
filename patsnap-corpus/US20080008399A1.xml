@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080008399A1
+	</str>
+	<str name="Application Number">
+		US11718601
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Three-Dimensional Shape Estimation System And Image Generation
+	</str>
+	<str name="Abstract">
+		A 3D shape estimation system has a storage device, a relative shape analysis module, a feature point location search module and an absolute shape analysis module. The storage device stores first and second learning data which represent illumination bases and 3D shapes of objects, respectively. The relative shape analysis module calculates an &quot;illumination basis&quot; of an object based on a 2D image of the object and the first learning data, calculates a &quot;relative shape function&quot; that is partial differential of a &quot;shape function&quot; indicating a 3D shape of the object from the illumination basis, and outputs a relative shape data indicating the relative shape function. The feature point location search module extracts a plurality of feature points from the input 2D face image based on the 2D image and the relative shape data, and outputs a feature point location data indicating locations of the feature points. The absolute shape analysis module receives the relative shape data and the feature point location data, converts the relative shape function into the shape function by referring to the second learning data and the locations of the feature points, and outputs a 3D absolute shape data indicating the shape function.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-11-01
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2008-01-10
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-01
+	</str>
+	<str name="All IPC">
+		G06T15/50 | G06K9/36
+	</str>
+	<str name="IPC Primary">
+		G06T15/50
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T15
+	</str>
+	<str name="All UPC">
+		382/285
+	</str>
+	<str name="UPC Primary">
+		382/285
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP4284664B2 | WO2006049147A1 | US20080008399A1 | EP1808810A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2004321159
+	</str>
+	<str name="Priority Date">
+		2004-11-04
+	</str>
+	<str name="Assignee(s)">
+		NEC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NEC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		7-1, Shiba 5-chome,Minato-Ku,Toyota,108-8001,JP
+	</str>
+	<str name="Assignee(s) Address">
+		7-1, Shiba 5-chome,Minato-Ku,Toyota,108-8001,JP
+	</str>
+	<str name="Inventor(s)">
+		MARUGAME ATSUSHI | IMAOKA HITOSHI
+	</str>
+	<str name="1st Inventor">
+		MARUGAME ATSUSHI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo,JP | Tokyo,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

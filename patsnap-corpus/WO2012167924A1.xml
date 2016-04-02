@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2012167924A1
+	</str>
+	<str name="Application Number">
+		PCT/EP2012/002408
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		A PERSONAL INFORMATION DISPLAY SYSTEM AND ASSOCIATED METHOD
+	</str>
+	<str name="Abstract">
+		A system for identification and/or authentication of a user in a travel terminal, the system comprising: a multiuser interactive screen having one or more interaction zones, with which a user can interact; an image generation system for generating information on the interaction zone to provide information to the user with which the user can interact and; an image capture system which generates a captured image of any item in contact with the interaction zone; a recognition system for recognising one or more features from the captured image to enable identification and/or authentication of the user; a communication system for communicating with the user by means of the image generation means to confirm identification or request additional information.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2012-06-06
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-06
+	</str>
+	<str name="Publication Date">
+		2012-12-13
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-12
+	</str>
+	<str name="All IPC">
+		G06F3/48
+	</str>
+	<str name="IPC Primary">
+		G06F3/48
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F3
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		11305701.2
+	</str>
+	<str name="Priority Date">
+		2011-06-07
+	</str>
+	<str name="Assignee(s)">
+		AMADEUS S.A.S.
+	</str>
+	<str name="1st Assignee">
+		AMADEUS S.A.S.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		485 route du Pin Montard, Sophia Antipolis, F-06410 Biot, FR
+	</str>
+	<str name="Assignee(s) Address">
+		485 route du Pin Montard, Sophia Antipolis, F-06410 Biot, FR
+	</str>
+	<str name="Inventor(s)">
+		BEZINE, BENJAMIN | RUFFIER, BENJAMIN | SAVORNIN, RICHARD | ROTHE, INGOLF-TOBIAS
+	</str>
+	<str name="1st Inventor">
+		BEZINE, BENJAMIN
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		1, place, Nationale, F-06600, Antibes, FR
+	</str>
+	<str name="Inventor(s) Address">
+		1, place, Nationale, F-06600, Antibes, FR | R&#233;sidence, Ch&#226;teauneuf, B&#226;t, A, 12, rue, Laurent, Gandolphe, F-06210, Mandelieu, FR | 1785, Route, de, Biot, F-06560, Valbonne, FR | Dorfstr., 32, 09306, Koettwitzsch, DE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20130044944A1
+	</str>
+	<str name="Application Number">
+		US13/209901
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		CLOTHING SEARCH IN IMAGES
+	</str>
+	<str name="Abstract">
+		Methods, systems, and computer readable media with executable instructions, and/or logic are provided for clothing search in images. An example method of clothing search in images can include characterizing clothing within a plurality of reference images using a processor, and characterizing clothing within a query image using a processor. A number of the plurality of reference images having clothing with similar color features as clothing of the query image is identified using a processor. A subset of the identified number of the plurality of reference images having clothing with predefined non-color attributes as clothing of the query image are selected using a processor.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2011-08-15
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-08
+	</str>
+	<str name="Publication Date">
+		2013-02-21
+	</str>
+	<str name="Publication Year">
+		2013
+	</str>
+	<str name="Publication(Year/Month)">
+		2013-02
+	</str>
+	<str name="All IPC">
+		G06F17/30 | G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		382/165 | 707/769 | 707/E17.014
+	</str>
+	<str name="UPC Primary">
+		382/165
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Inventor(s)">
+		WANG, XIANWANG | ZHANG, TONG
+	</str>
+	<str name="1st Inventor">
+		WANG, XIANWANG
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Palo, Alto, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Palo, Alto, CA | San, Jose, CA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

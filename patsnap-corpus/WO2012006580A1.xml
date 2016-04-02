@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2012006580A1
+	</str>
+	<str name="Application Number">
+		PCT/US2011/043441
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		FEEDBACK TO IMPROVE OBJECT RECOGNITION
+	</str>
+	<str name="Abstract">
+		A database for object recognition is modified based on feedback information received from a mobile platform. The feedback information includes information with respect to an image of an object captured by the mobile platform. The feedback information, for example, may include the image, features extracted from the image, a confidence level for the features, posterior probabilities of the features belonging to an object in the database, GPS information, and heading orientation information. The feedback information may be used to improve the database pruning, add content to the database or update the database compression efficiency. The information feedback to the server by the mobile platform may be determined based on a search of a portion of the database performed by the mobile platform using features extracted from a captured query image.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2011-07-08
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-07
+	</str>
+	<str name="Publication Date">
+		2012-01-12
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-01
+	</str>
+	<str name="All IPC">
+		G06K9/46 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		12/832,918
+	</str>
+	<str name="Priority Date">
+		2010-07-08
+	</str>
+	<str name="Assignee(s)">
+		QUALCOMM INC. | BAHETI, PAWAN K. | SWAMINATHAN, ASHWIN | SPINDOLA, SERAFIN DIAZ | CHARI, MURALI RAMASWAMY
+	</str>
+	<str name="1st Assignee">
+		QUALCOMM INC.
+	</str>
+	<str name="Number of Assignees">
+		5
+	</str>
+	<str name="1st Assignee Address">
+		International IP Administration, 5775 Morehouse Drive, San Diego, California , 92121-1714, US
+	</str>
+	<str name="Assignee(s) Address">
+		International IP Administration, 5775 Morehouse Drive, San Diego, California , 92121-1714, US | 5775 Morehouse Drive, San Diego, California, 92121-1714, US | 5775 Morehouse Drive, San Diego, California, 92121-1714, US | 5775 Morehouse Drive, San Diego, California, 92121-1714, US | 5775 Morehouse Drive, San Diego, California, 92121-1714, US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

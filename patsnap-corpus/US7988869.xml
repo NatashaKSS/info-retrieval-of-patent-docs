@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7988869
+	</str>
+	<str name="Application Number">
+		US12066122
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Reactor and method for anoxic treatment of a material in a fluid reaction medium
+	</str>
+	<str name="Abstract">
+		A reactor for treating with pressurized water a material in a fluid reaction medium. It comprises a body (2) delimiting a reaction area (10), an inlet (48) for the material to be treated in the reaction area (10), a point (46) for introducing an oxidant into the reaction area (10), at least one outlet for the treated material outside the reaction area (10), the material to be treated follows a path defined in the reaction area between its inlet and its outlet. The point (46) for introducing the oxidant in the reaction area (10) is located downstream from the inlet (48) for the material and is spaced apart from the latter by a certain distance so as to define an anoxic area (20) comprised between the inlet for the material to be treated and the point for introducing the oxidant, an area in which the fluid medium is in anoxia.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-09-26
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-09
+	</str>
+	<str name="Publication Date">
+		2011-08-02
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		C02F1/72
+	</str>
+	<str name="IPC Primary">
+		C02F1/72
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/758 | 422/226 | 210/178 | 210/179 | 366/291 | 422/184.1
+	</str>
+	<str name="UPC Primary">
+		210/758
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Foy et al., &quot;Reduction of Nitrate and Nitrite Salts Under Hydrothermal Conditions,&quot; Proceedings of the 12th International Conference on the Properties of Water and Steam, Sep. 1994. cited by examiner . | Examination report for PCT/EP2006/066724 dated Sep. 2008. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US5421998 | US5536385 | US3206287 | US5552039 | US5008085 | US4564458 | US6090291 | US3649534 | FR2814967
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0552926
+	</str>
+	<str name="Priority Date">
+		2005-09-28
+	</str>
+	<str name="Assignee(s)">
+		COMMISSARIAT A L'ENERGIE ATOMIQUE
+	</str>
+	<str name="1st Assignee">
+		COMMISSARIAT A L'ENERGIE ATOMIQUE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		FR
+	</str>
+	<str name="Assignee(s) Address">
+		FR
+	</str>
+	<str name="Inventor(s)">
+		TURC, HUBERT-ALEXANDRE | JOUSSOT-DUBIEN, CHRISTOPHE
+	</str>
+	<str name="1st Inventor">
+		TURC, HUBERT-ALEXANDRE
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Les, Angles, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Les, Angles, FR | Rochefort, du, Gard, FR
+	</str>
+	<str name="Agent/Attorney">
+		BAKER HOSTETLER, LLP
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="Assistant Examiner">
+		STELLING, LUCAS
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

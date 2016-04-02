@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2001066054A1
+	</str>
+	<str name="Application Number">
+		PCT/US2000/005825
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		SYSTEM TO BLOCK UNWANTED SOUND WAVES AND ALERT WHILE SLEEPING
+	</str>
+	<str name="Abstract">
+		A cordless, wireless headset to block unwanted sound waves and/or noise from entering the ears of a user. The headset contains an electronic receiver, an audible tone/alert generator, volume control/switch and battery (wire headset electronics). The wireless headset would permit freedom of movement during sleep without danger of being entangled by cords/wires. The wireless headset would be secured to the ears and head of the user while sleeping by a Top head-strap(5A), and Chinstrap (5D). Referencing (Figure-1), the wireless headset will receive and interpret signals from remote sound sensor(s) and/or motion detection sensor(s). Remote sensor(s) would transmit radio signal(s) to the headset when an unwanted sound or motion is detected. The signal would be received in the wireless headset and an audible tone would be generated in the ear of the user, to alert of an important event.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-03-06
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-03
+	</str>
+	<str name="Publication Date">
+		2001-09-13
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-09
+	</str>
+	<str name="All IPC">
+		A61F11/06 | H04R5/02 | H04R1/10
+	</str>
+	<str name="IPC Primary">
+		A61F11/06
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61F
+	</str>
+	<str name="IPC Group">
+		A61F11
+	</str>
+	<str name="Family Members">
+		US6035047 | WO2001066054A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5287102 | US4682159
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		0005825 | 85164097 | 1738396
+	</str>
+	<str name="Priority Date">
+		2000-03-06 | 1997-05-06 | 1996-05-08
+	</str>
+	<str name="Assignee(s)">
+		LEWIS, MARK
+	</str>
+	<str name="1st Assignee">
+		LEWIS, MARK
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Henry, 814 East 94th Street, Los Angeles, CA 90002-1909, US
+	</str>
+	<str name="Assignee(s) Address">
+		Henry, 814 East 94th Street, Los Angeles, CA 90002-1909, US
+	</str>
+	<str name="Agent/Attorney">
+		TYSON, TIMOTHY, T., ET AL, FREILICH, HORNBAKER &amp; ROSEN, SUITE 1220, 10960 WILSHIRE BOULEVARD, LOS ANGELES, CA 90024, US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

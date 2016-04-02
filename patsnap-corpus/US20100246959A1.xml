@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100246959A1
+	</str>
+	<str name="Application Number">
+		US12711863
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS AND METHOD FOR GENERATING ADDITIONAL INFORMATION ABOUT MOVING PICTURE CONTENT
+	</str>
+	<str name="Abstract">
+		An apparatus and method for generating additional information about moving picture content, including: comparing image feature information about each image frame in moving picture content with image feature information about each image frame in web information, searching for an image frame in the moving picture content, the image frame matching the image frame in the web information, determining location information about the found image frame in the moving picture content, and generating additional information by use of the determined location information and the web information.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-02-24
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-02
+	</str>
+	<str name="Publication Date">
+		2010-09-30
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-09
+	</str>
+	<str name="All IPC">
+		G06K9/34 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/34
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/176 | 382/225 | 382/190
+	</str>
+	<str name="UPC Primary">
+		382/176
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020090026619
+	</str>
+	<str name="Priority Date">
+		2009-03-27
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-si,KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-si,KR
+	</str>
+	<str name="Inventor(s)">
+		CHOI YOON-HEE | CHOI IL-HWAN | PARK HEE-SEON
+	</str>
+	<str name="1st Inventor">
+		CHOI YOON-HEE
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Suwon-si,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Suwon-si,KR | Yongin-si,KR | Seoul,KR
+	</str>
+	<str name="Agent/Attorney">
+		NORTH STAR INTELLECTUAL PROPERTY LAW, PC
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

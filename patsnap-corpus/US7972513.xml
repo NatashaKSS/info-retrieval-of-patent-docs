@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7972513
+	</str>
+	<str name="Application Number">
+		US12588273
+	</str>
+	<str name="Title">
+		Process for treating nitrogenous wastewater with simultaneous autotrophic denitrification, hetertrophic denitrification and COD removal
+	</str>
+	<str name="Abstract">
+		A process for treating nitrogenous wastewater contains an autotrophic denitrification reaction, a heterotrophic denitrification reaction and a COD removal reaction simultaneously and mixedly taking place in a single reactor. The nitrification reaction is caused by nitrifying bacteria, in which ammonium is oxidized into nitrite. The autotrophic denitrification reaction is caused by autotrophic denitrifying bacteria, in which ammonium used as electron donor and nitrite used as electron acceptor are converted into nitrogen gas and nitrate. The heterotrophic denitrification reaction is caused by heterotrophic denitrifying bacteria, in which nitrate and COD are consumed. It is not necessary to build two separate reactors for aerobic nitrification and anaerobic denitrification, thereby effectively reducing the fabrication and operation cost.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-10-09
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-10
+	</str>
+	<str name="Publication Date">
+		2011-07-05
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/630 | 210/903
+	</str>
+	<str name="UPC Primary">
+		210/630
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		K.A. Third, A. Olav Sliekers, J.G. Kuenen, and M.S.M. Jetten (2001) The Canon System (Completely Autotrophic Nitrogen-removal Over Nitrite) Under Ammonium Limitation . . . . cited by other. | Mike S. M. Jetten, Svein J. Horn, and Mark C. M. van Loosdrecht (1997) Towards a More Sustainable Municipal Wastewater Treatment System. Wai. Sci. Tech. vol. 35, No. 9, . . . . cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5078884 | US20080245730 | US20100219125 | JP2006055739 | JP2004097974
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Assignee(s)">
+		LEADERMAN &amp; ASSOCIATES CO., LTD. (TW), NATIONAL CHIAO TUNG UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		LEADERMAN &amp; ASSOCIATES CO., LTD. (TW), NATIONAL CHIAO TUNG UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		TW
+	</str>
+	<str name="Assignee(s) Address">
+		TW
+	</str>
+	<str name="Inventor(s)">
+		LEE, DER-MING | CHIANG, MING-KUEI | CHEN, CHIN-TE | SUNG, KENG-CHUAN | LIN, JIH-GAW | WANG, CHIH-CHENG
+	</str>
+	<str name="1st Inventor">
+		LEE, DER-MING
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Taipei, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Taipei, TW | Taipei, TW | Taipei, TW | Taipei, TW | Hsinchu, TW | Kaohsiung, County, TW
+	</str>
+	<str name="Agent/Attorney">
+		BACON &amp; THOMAS, PLLC
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

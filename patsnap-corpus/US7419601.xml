@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7419601
+	</str>
+	<str name="Application Number">
+		US11111736
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Nanomesh article and method of using the same for purifying fluids
+	</str>
+	<str name="Abstract">
+		Disclosed herein are articles for removing contaminants from a fluid, such as a liquid or gas, the article comprising carbon nanotubes, which comprise at least one molecule or cluster attached thereto or located therein, wherein the carbon nanotubes are present in the article in an amount sufficient to reduce the concentration of contaminants in fluid that come into contact with the article. A method of making the nanomesh material used in such articles is also disclosed, as are methods of purifying fluids using these articles.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-04-22
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-04
+	</str>
+	<str name="Publication Date">
+		2008-09-02
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		B01D53/02 | C02F1/42
+	</str>
+	<str name="IPC Primary">
+		B01D53/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D53
+	</str>
+	<str name="All UPC">
+		210/683 | 210/685 | 210/687 | 95/133 | 210/679 | 210/688 | 95/134 | 95/143 | 95/132 | 977/700 | 95/57 | 210/691 | 95/903 | 95/138 | 210/748 | 95/90 | 95/81
+	</str>
+	<str name="UPC Primary">
+		210/683
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		JP2006524177A | ES2291859T3 | DE602004007898D1 | EP1603662B1 | US20050263456A1 | US7419601 | DE602004007898T2 | EP1603662A1 | WO2004080578A1 | AT368505T
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		European Search Report for EP 07014878, 2007. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US6495258 | US20010024633 | US20030116503 | US6346189 | US6099965 | US6495116 | US20010003082 | US6967013 | US6797167 | US6852219 | US20020106958 | US20030181328 | US20020167782 | US6432866 | US20040178135 | US6346136 | US20030217928 | US20030044339 | US6838005 | US6824689 | US20030154865 | US7138100 | US20030082979 | US20030215903 | US6113819 | US5424054 | US6921575 | US7250074 | US20030042205 | US5985112 | US20030111404 | US6692715 | US6413487 | US20030098518 | US6511527 | US20030118727 | US20030119034 | US20030147802 | US6331265 | US20030147801 | US20040131881 | US20020056686 | US6536605 | US20030029718 | US20030129119 | US6521321 | US20030155143 | US20050150832 | US20050040090 | US6432177 | US20030148086 | US20040251122 | US20030092342 | US20020193030 | US6420293 | US20030129122 | US20030020024 | US20040118287 | US5846658 | US6099960 | US6713519 | US20040118285 | US5458784 | US6673392 | US20020172639 | US20020150524 | US20020148776 | US5968650 | US20020063093 | US20030164427 | US20030037675 | US6455021 | US20050067346 | US20050074479 | US20020085968 | US20040173506 | US6090363 | US20030102222 | US7014952 | US20030118907 | US6818821 | US20050096509 | US6538262 | US6514413 | US7105596 | US20040256311 | US6841075 | US5691054 | US20030000538 | US7214360 | US6673136 | US20020092613 | US6471936 | US20040007528 | US6746469 | US6203814 | US20020023874 | US6468930 | US6333016 | US6157043 | US20020136683 | US20030180472 | US20030024884 | US5698175 | US5800706 | US6702875 | US6749826 | US20030127393 | US6350488 | US20030075682 | JP2003181288 | EP1092680 | WO2004080578 | WO1997032571 | JP2004148305 | JP2004066009 | EP1439147 | WO2005005687 | WO2005001021
+	</str>
+	<str name="Cites Count">
+		119
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		11173605 | 79405604 | 45253003 | 46810903 | 49937503
+	</str>
+	<str name="Priority Date">
+		2005-04-22 | 2004-03-08 | 2003-03-07 | 2003-05-06 | 2003-09-03
+	</str>
+	<str name="Assignee(s)">
+		SELDON TECHNOLOGIES, LLC
+	</str>
+	<str name="1st Assignee">
+		SELDON TECHNOLOGIES, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Windsor, VT
+	</str>
+	<str name="Assignee(s) Address">
+		Windsor, VT
+	</str>
+	<str name="Inventor(s)">
+		COOPER, CHRISTOPHER, H. | CUMMINGS, ALAN, G. | STAROSTIN, MIKHAIL, Y. | HONSINGER, CHARLES, P.
+	</str>
+	<str name="1st Inventor">
+		COOPER, CHRISTOPHER, H.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Windsor, UT
+	</str>
+	<str name="Inventor(s) Address">
+		Windsor, UT | So, Woodstock, UT | Hanover, NH | Windsor, UT
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp; DUNNER
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

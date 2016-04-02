@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8002988
+	</str>
+	<str name="Application Number">
+		US12150446
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Removal of contaminants from water using sugar based surfactant enhanced ultrafiltration
+	</str>
+	<str name="Abstract">
+		Embodiments of the present invention relate to the removal of contaminants from water using sugar based surfactant enhanced ultrafiltration. Embodiments of the present invention are directed to a process for removal of an at least slightly water-soluble organic compound from an organic-contaminated water solution to provide a purified water solution, including: adding a surfactant to the organic-contaminated water solution in sufficient quantity to achieve at least a critical micellar concentration of the surfactant in the organic-contaminated water solution, wherein the surfactant comprises an alkylglycoside, to provide a micellar water solution comprising micelles comprising the surfactant and the organic compound; contacting an ultrafiltration membrane with the micellar water solution under pressure and temperature conditions sufficient for liquid flow through the ultrafiltration membrane to take place; and collecting liquid permeating the ultrafiltration membrane to provide the purified water solution.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-04-28
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-04
+	</str>
+	<str name="Publication Date">
+		2011-08-23
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		B01D24/00 | B01D15/00
+	</str>
+	<str name="IPC Primary">
+		B01D24/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D24
+	</str>
+	<str name="All UPC">
+		210/639
+	</str>
+	<str name="UPC Primary">
+		210/639
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Zhang et al., Journal of Colloid and Interface Science, 256, 16-22, 2002. cited by examiner. | Adamczak et al., Ultrafiltration of Micellar Solutions Containing Phenols, 1999, Journal of Colloid and Interface Science, 218, 359-368. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US20060021938
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Assignee(s)">
+		THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK
+	</str>
+	<str name="1st Assignee">
+		THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		New York, NY
+	</str>
+	<str name="Assignee(s) Address">
+		New York, NY
+	</str>
+	<str name="Inventor(s)">
+		SOMASUNDARAN, PONISSERIL | LU, SHAOHUA
+	</str>
+	<str name="1st Inventor">
+		SOMASUNDARAN, PONISSERIL
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Nyack, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Nyack, NY | New, York, NY
+	</str>
+	<str name="Agent/Attorney">
+		SCHWEGMAN, LUNDBERG &amp; WOESSNER, P.A.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="Assistant Examiner">
+		GIONTA, ALLISON
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

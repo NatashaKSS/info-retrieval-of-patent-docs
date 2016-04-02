@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7703285
+	</str>
+	<str name="Application Number">
+		US11728653
+	</str>
+	<str name="Title">
+		System and method for generating electricity from super critical water oxidation process
+	</str>
+	<str name="Abstract">
+		Systems and method for generating electricity using heat from a SCWO reaction. The system may comprise a pump that pumps the mixture undergoing the SCWO reaction to a pressure above the critical pressure point for the mixture. The pressurized mixture is heated, by a heating system, above the critical temperature point for the mixture. The SCWO reaction occurs in a reaction chamber. The reaction chamber is in thermal communication with a vessel that holds water such that the heat from the mixture heats the water into steam. The steam powers a steam turbine, which is connected to an electrical generator to thereby generate electricity.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-03-27
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2010-04-27
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		F01K23/06 | F01K13/00 | C02F1/68
+	</str>
+	<str name="IPC Primary">
+		F01K23/06
+	</str>
+	<str name="IPC Section">
+		F
+	</str>
+	<str name="IPC Class">
+		F01
+	</str>
+	<str name="IPC Subclass">
+		F01K
+	</str>
+	<str name="IPC Group">
+		F01K23
+	</str>
+	<str name="All UPC">
+		60/670 | 210/765 | 60/645 | 210/761
+	</str>
+	<str name="UPC Primary">
+		60/670
+	</str>
+	<str name="UPC Class">
+		60
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5252224 | US5543057 | US6467273 | US6519926 | US5723045 | US6951106 | US5558783 | US7017347 | US5888389 | US5433868 | US6031972 | US6321540 | US5384051
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Assignee(s)">
+		CHROMALOX, INC.
+	</str>
+	<str name="1st Assignee">
+		CHROMALOX, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Inventor(s)">
+		MOLNAR, CHRISTOPHER, J
+	</str>
+	<str name="1st Inventor">
+		MOLNAR, CHRISTOPHER, J
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Coraopolis, PA
+	</str>
+	<str name="Inventor(s) Address">
+		Coraopolis, PA
+	</str>
+	<str name="Agent/Attorney">
+		K&amp;L GATES LLP
+	</str>
+	<str name="Primary Examiner">
+		DENION, THOMAS E
+	</str>
+	<str name="Assistant Examiner">
+		JETTON, CHRISTOPHER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

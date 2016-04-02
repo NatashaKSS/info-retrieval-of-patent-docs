@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2008060919A2
+	</str>
+	<str name="Application Number">
+		PCT/US2007/083935
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		IMAGE RECOGNITION SYSTEM FOR USE IN ANALYSING IMAGES OF OBJECTS AND APPLICATIONS THEREOF
+	</str>
+	<str name="Abstract">
+		Embodiments programmatically analyze each of a plurality of images in order to determine one or more visual characteristics about an item shown in each of the plurality of images. Data is stored corresponding to the one or more visual characteristics. An interface in is provided for which a user is able to specify one or more search criteria. In response to receiving the one or more search criteria, a search operation is performed to identify one or more items that have a visual characteristic that satisfies at least some of the one or more search criteria.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-11-07
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-11
+	</str>
+	<str name="Publication Date">
+		2008-05-22
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		G06F7/06 | G06K9/62 | G06Q30/00 | G06K9/42 | G06F3/48 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F7/06
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="Family Members">
+		WO2008060919A3 | EP2092444A4 | EP2092444A2 | US20080082426A1 | WO2008060919A2 | CA2669046A1 | WO2008060919A9
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US2003028451A1 | US2002107718A1 | US2003063779A1 | US2004264810A1 | US2006227992A1 | US2006133699A1 | US2005271304A1 | US2006173560A1
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		77789407 | 86478106 | 90941407
+	</str>
+	<str name="Priority Date">
+		2007-07-13 | 2006-11-07 | 2007-03-30
+	</str>
+	<str name="Assignee(s)">
+		RIYA INC. | GOKTURK, SALIH BURAK | SUMENGEN, BARIS | VU, DIEM | DALAL, NAVNEET | CHIAO, DAN | PHILLIPS, JACQUIE | MORAN, MARK | VANHOUCKE, VINCENT | KHAN, AZHAR | LIN, XIAOFAN | SHAH, MUNJAL | MILLER, ANDREW | ANGUELOV, DRAGOMIR
+	</str>
+	<str name="1st Assignee">
+		RIYA INC.
+	</str>
+	<str name="Number of Assignees">
+		14
+	</str>
+	<str name="1st Assignee Address">
+		San Mateo, CA 94403, 94403, US
+	</str>
+	<str name="Assignee(s) Address">
+		San Mateo, CA 94403, 94403, US | Mountain View, CA 94041, 94041, TR | San Francisco, CA 94019, 94019, TR | San Jose, CA 95112, 95112, VN | Bangalore - 560038 India, IN | San Francisco, CA 94080, 94080, US | San Francisco, CA 94117, 94117, US | Oakland, CA 94618, 94618, US | Menlo Park, CA 94025, 94025, FR | San Francisco, CA 94114, 94114, US | Sunnyvale, CA 94087, 94087, CN | Los Altos, CA 94024, 94024, US | Mountain View, CA 94040, 94040, US | San Francisco, CA 94114, 94114, BG
+	</str>
+	<str name="Agent/Attorney">
+		MAHAMEDI, VAN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

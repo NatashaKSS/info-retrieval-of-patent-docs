@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7531098
+	</str>
+	<str name="Application Number">
+		US11/411560
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Integrated automatic blood processing unit
+	</str>
+	<str name="Abstract">
+		A system for automatically processing blood components is described. The system includes a console, which contains all motors, pumps, sensors, valves and control circuitry, and a unique disposable set that includes a cassette supporting a centrifuge with an improved design, pump interfaces with an improved design, component and solution bags, and tubing. Various processes are implemented using a specific disposable set for each process which allows automatic identification of the process to be performed the console.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-04-26
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-04
+	</str>
+	<str name="Publication Date">
+		2009-05-12
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		B01D21/26
+	</str>
+	<str name="IPC Primary">
+		B01D21/26
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D21
+	</str>
+	<str name="All UPC">
+		210/787 | 210/102 | 210/103 | 210/109 | 210/134 | 210/143 | 210/194 | 210/252 | 210/257.1 | 210/258 | 210/295 | 210/313 | 210/512.1 | 210/85 | 210/86 | 210/87 | 210/90 | 210/94 | 210/97 | 494/1 | 494/10 | 494/36 | 494/37 | 494/43 | 604/28 | 604/408 | 604/6.09 | 604/6.1 | 604/6.11
+	</str>
+	<str name="UPC Primary">
+		210/787
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		AU2003228582A1 | EP1497645A2 | WO2004089926A3 | US7531098 | US20060226057A1 | US7037428 | WO2003089926A2
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		17
+	</str>
+	<str name="Other References">
+		Herschel, L.H. et al., &quot;An automated prototype device to glycerolize red cells at collection,&quot; Transfusion, 39(10):Supp. 14S (1999). cited by other | Valeri, R.C. et al., &quot;A multicenter study of in vitro and in vivo values in human RBCs frozen with 40-percent (wt/vol) glycerol and stored after deglycerolization for 15 days at 4oC in AS-3: assessment of RBC processing in the ACP 215,&quot; Transfusion, 41:933-39 (2001). cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8207651 | US8251907 | US8323492 | US8329030 | US8139207
+	</str>
+	<str name="Cited By Count">
+		5
+	</str>
+	<str name="Cites">
+		US3634228 | US3655123 | US3951148 | US3957197 | US3982691 | US4007871 | US4010894 | US4056224 | US4086924 | US4091989 | US4114802 | US4285464 | US4303193 | US4304357 | US4330080 | US4342420 | US4344560 | US4356958 | US4379452 | US4381072 | US4386730 | US4387848 | US4416654 | US4419089 | US4439178 | US4447221 | US4464167 | US4531932 | US4636193 | US4637813 | US4647279 | US4668214 | US4680025 | US4696666 | US4708712 | US4710161 | US4734089 | US4747952 | US4790807 | US4806252 | US4834890 | US4850995 | US4897185 | US4940543 | US4985153 | US5053127 | US5076911 | US5104526 | US5147290 | US5186844 | US5217426 | US5217427 | US5217618 | US5242384 | US5273517 | US5281342 | US5298016 | US5298171 | US5311908 | US5318512 | US5322620 | US5386734 | US5387187 | US5394732 | US5403272 | US5427695 | US5437598 | US5437624 | US5445506 | US5445593 | US5462416 | US5478479 | US5141486 | US5482440 | US5494578 | US5494592 | US5501840 | US5514069 | US5527472 | US5547453 | US5549834 | US5571068 | US5573678 | US5580465 | US5581687 | US5607579 | US5607830 | US5614106 | US5628915 | US5632893 | US5637082 | US5641414 | US5649903 | US5651766 | US5653887 | US5658240 | US5670060 | US5686238 | US5693232 | US5702357 | US5704887 | US5704888 | US5704889 | US5712798 | US5720716 | US5722946 | US5728060 | US5730883 | US5733253 | US5738644 | US5738796 | US5741428 | US5746708 | US5750025 | US5759147 | US5769811 | US5769839 | US5779660 | US5783085 | US5785869 | US5792038 | US5792372 | US5795317 | US5807492 | US5817042 | US5837150 | US5849203 | US5853382 | US5865785 | US5870805 | US5876321 | US5879280 | US5882289 | US5891080 | US5904645 | US5906570 | US5913768 | US5919154 | US5921950 | US5941842 | US5956023 | US5961842 | US5980757 | US5980760 | US5989177 | US5996634 | US6007509 | US6022306 | US6027657 | US6051147 | US6059979 | US6068970 | US6071421 | US6071423 | US6099491 | US6102883 | US6113554 | US6129656 | US6135940 | US6179801 | US6186752 | US6196987 | US6197579 | US6200287 | US6228017 | US6231537 | US6241649 | US6254784 | US6270673 | US6277060 | US6280375 | US6280406 | US6309606 | US6315707 | US6322488 | US6325775 | US6334842 | US6344020 | US6348156 | US6379322 | US6387263 | US6409696 | US6419822 | US6440372 | US6451203 | US6464624 | US6475175 | US6481980 | US6524231 | US7008393 | US20010000185 | US20010037078 | US20020028155 | US20020032398 | US20020033370 | US20020062100 | US20020077241 | US20020090319 | US20020099319 | US20020128582 | US20020128583 | US20020128584 | US20020131891 | US20020142909 | US20030106861 | EP0214803 | EP0987039 | GB1451859 | GB1509667 | GB1511819 | WO1988005691 | WO1989000084 | WO1993012888 | WO1994008691 | WO1998022165 | WO2000023140
+	</str>
+	<str name="Cites Count">
+		216
+	</str>
+	<str name="Priority Country">
+		US | US | US | US
+	</str>
+	<str name="Priority Number">
+		41156006 | 41849003 | 17992002 | 37414102
+	</str>
+	<str name="Priority Date">
+		2006-04-26 | 2003-04-18 | 2002-06-24 | 2002-04-19
+	</str>
+	<str name="Assignee(s)">
+		TERUMO MEDICAL CORPORATION
+	</str>
+	<str name="1st Assignee">
+		TERUMO MEDICAL CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Somerset, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Somerset, NJ
+	</str>
+	<str name="Inventor(s)">
+		ROBINSON, THOMAS, C. | ROBINSON, THOMAS, P. | D'ELIA, RICHARD | EIBE, PAUL | SAHINES, THOMAS
+	</str>
+	<str name="1st Inventor">
+		ROBINSON, THOMAS, C.
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		San, Francisco, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Francisco, CA | Encinitas, CA | San, Mateo, CA | Oakland, CA | Milpitas, CA
+	</str>
+	<str name="Agent/Attorney">
+		PILLSBURY WINTHROP SHAW PITTMAN LLP
+	</str>
+	<str name="Primary Examiner">
+		KIM, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		5
+	</str>
+	<str name="cited by within 5 years">
+		5
+	</str>
+</doc>
+

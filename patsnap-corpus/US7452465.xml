@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7452465
+	</str>
+	<str name="Application Number">
+		US10494985
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Incubation treatment of sludge for pathogen reduction prior to digestion
+	</str>
+	<str name="Abstract">
+		A method of treating sewage sludge comprises a pathogen reduction stage in which raw sludge is incubated for a predetermined incubation period at a temperature in the mesophilic temperature range. The sludge is incubated in a plurality of sequential vessels (1a,1b,1c) comprising an upstream vessel (1a) which receives the raw sludge to be incubated and a downstream vessel (1c) which discharges the incubated sludge. The sludge is fed from the upstream vessel (1a) to the downstream vessel (1c), via any intermediate vessels (1b), and subsequently discharged after spending a predetermined residence time in each vessel, the total residence time being said predetermined incubation period.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-09-18
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-09
+	</str>
+	<str name="Publication Date">
+		2008-11-18
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		C02F11/04 | C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F11/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F11
+	</str>
+	<str name="All UPC">
+		435/262.5 | 210/603 | 210/613
+	</str>
+	<str name="UPC Primary">
+		435/262.5
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		US20050077236A1 | JP2005507779A | US7452465 | JP4260014B2 | GB0126963D0 | EP1441990A1 | WO2003040047A1
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7879236
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5725770 | US6325935 | US20040025715 | US2198737 | US2315577 | US4022665 | US4983298 | US6214228 | US4429043 | US4503154 | US6755972 | US6929744 | US4372856 | US6077548 | US20040011718 | US4214985 | DE3905228 | WO1995025071 | WO2001085627 | JP1993123693 | DE4000834 | EP0203467 | DE3248703
+	</str>
+	<str name="Cites Count">
+		23
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		0126963.8
+	</str>
+	<str name="Priority Date">
+		2001-11-09
+	</str>
+	<str name="Assignee(s)">
+		UNITED UTILITIES PLC
+	</str>
+	<str name="1st Assignee">
+		UNITED UTILITIES PLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Cheshire, GB
+	</str>
+	<str name="Assignee(s) Address">
+		Cheshire, GB
+	</str>
+	<str name="Inventor(s)">
+		LE, SON
+	</str>
+	<str name="1st Inventor">
+		LE, SON
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Cheshire, GB
+	</str>
+	<str name="Inventor(s) Address">
+		Cheshire, GB
+	</str>
+	<str name="Agent/Attorney">
+		MICHAEL BEST &amp; FRIEDRICH LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

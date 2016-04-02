@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7384555
+	</str>
+	<str name="Application Number">
+		US08309868
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Process for biological treatment of aqueous organic wastes
+	</str>
+	<str name="Abstract">
+		A process and an apparatus for an aerobic biological treatment of aqueous organic wastes, in which the aqueous organic waste is supplied to an aeration tank for an aerobic biological treatment in the presence of a biosludge composed essentially of aerobic microorganisms. The aerated aqueous suspension in the aeration tank is subjected to solid/liquid, separation, the so-separated liquid phase is removed as treated water, at least a portion of the separated sludge is recycled to the aeration tank, a part of the aqueous suspension in the aeration tank or of the separated sludge is treated with ozone at a pH of 5 or lower, and the ozonized suspension or sludge is recycled to the step of aerobic biological treatment. The biosludge is transformed into BOD components using a decreased amount of ozone to thereby decrease the amount of excess sludge and, in some cases, even reduce it to zero.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1994-09-21
+	</str>
+	<str name="Application Year">
+		1994
+	</str>
+	<str name="Application(Year/Month)">
+		1994-09
+	</str>
+	<str name="Publication Date">
+		2008-06-10
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All UPC">
+		210/605 | 210/607 | 210/627
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7384555
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References">
+		Patent Abstract of Japan--JP-A-04 298 290, published Oct. 1992, vol. 17, No. 113 (Matsushita Electric). cited by other . | Brock, T.O., Biology of Microorganisms, Prentice Hall,Inc , NJ, 1970 , pp. 202-204 and 214 and 215. cited by examiner . | Patent Abstract of Japan--JP-A-01 293 103, published Nov. 1989, vol. 14, No. 74 (Kurita Water Ind. Ltd.). cited by other. | Patent Abstract of Japan--JP-A-61 129 094, published Jun. 1986, vol. 10, No. 318 (Nitto Electric Ind. Co. Ltd.). cited by other . | Sotelo et al., Ind. Eng. Chem. Res. 1987, 26 pp. 39-43. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By">
+		US7867397 | US7842185 | US8329455
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US4225431 | US5362395 | US4370235 | US3772188 | US3236766 | US4487699 | US5484549 | US4178239 | US5520888 | US4136023 | US4834872 | US4936983 | US3300402 | US5215554 | US3235487 | US3591491 | US4200524 | US6086766 | JP1993023688 | JP1985118299 | JP19924225900 | GB1417573 | JP1982019100 | FR2668765 | FR2490208 | CH521293
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP | JP | JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		5236533 | 5240088 | 5240089 | 5265227 | 6025626 | 6141956 | 6157404
+	</str>
+	<str name="Priority Date">
+		1993-09-22 | 1993-09-27 | 1993-09-27 | 1993-10-22 | 1994-02-23 | 1994-06-23 | 1994-07-08
+	</str>
+	<str name="Assignee(s)">
+		KURITA WATER INDUSTRIES LTD.
+	</str>
+	<str name="1st Assignee">
+		KURITA WATER INDUSTRIES LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		YASUI, HIDENARI | SHIBATA, MASAHIDE
+	</str>
+	<str name="1st Inventor">
+		YASUI, HIDENARI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		FLYNN, THIEL, BOUTELL &amp; TANIS, P.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

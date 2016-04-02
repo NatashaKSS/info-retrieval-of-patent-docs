@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7914663
+	</str>
+	<str name="Application Number">
+		US10590293
+	</str>
+	<str name="Title">
+		Structure, porous body, sensor, process of structure and detecting method for specimen
+	</str>
+	<str name="Abstract">
+		A mesoporous silica structure having a plurality of mesopores includes a dendritic framework having mesopores. 90% or more of the mesopores observable in a 500 nm.times.500 nm area pass through the framework in a direction perpendicular to a longitudinal direction of the framework.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-06-01
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-06
+	</str>
+	<str name="Publication Date">
+		2011-03-29
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+	<str name="All IPC">
+		C12Q1/68 | B01D24/00 | C12Q1/26 | G01N27/327 | G01N33/543
+	</str>
+	<str name="IPC Primary">
+		C12Q1/68
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12Q
+	</str>
+	<str name="IPC Group">
+		C12Q1
+	</str>
+	<str name="All UPC">
+		210/500.1 | 435/26 | 204/403.01 | 435/25 | 205/778 | 422/50 | 436/518
+	</str>
+	<str name="UPC Primary">
+		210/500.1
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		S. Shio, et al., &quot;Morphological Control of Ordered Mesoporous Silica: Formation of Fine and Rod-Like Mesoporous Powders from Completely Dissolved Aqueous Solutions of Sodium Metasilicate and Cationic Surfactants&quot;, XP-002397874, Chem. Commun., pp. 2461-2462 (1998). cited by other . | D. Zhao, et al., &quot;Triblock Copolymer Syntheses of Mesoporous Silica with Periodic 50 to 300 Angstrom Pores&quot;, XP-002397876, Science Coden, vol. 279, No. 23, pp. 548-552 (Jan. 23, 1998). cited by other. | H. Zhang, et al., &quot;Unusual Mesoporous SBA-15 with Parallel Channels Running Along the Short Axis&quot;, XP-002397875, Journal of the American Chemical Society, vol. 126, No. 24, pp. 7440-7441 (2004). cited by other . | Online Merriam-Webster dictionary definition of &quot;dendritic&quot; , which was downloaded on Oct. 25, 2010. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cites">
+		US6699382 | US5964993 | US5624875 | US6958480 | US20050063890 | US7001669 | US6733828 | US20040122121 | US6696258 | US4945125 | JP1994265534 | WO2003002458 | JP2002080216
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2005166754
+	</str>
+	<str name="Priority Date">
+		2005-06-07
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		MURATA, YUSUKE
+	</str>
+	<str name="1st Inventor">
+		MURATA, YUSUKE
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Yokohama, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Yokohama, JP
+	</str>
+	<str name="Agent/Attorney">
+		FITZPATRICK, CELLA, HARPER &amp; SCINTO
+	</str>
+	<str name="Primary Examiner">
+		NOGUEROLA, ALEX
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

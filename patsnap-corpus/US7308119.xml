@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7308119
+	</str>
+	<str name="Application Number">
+		US10982802
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image retrieval apparatus and method, and image display apparatus and method thereof
+	</str>
+	<str name="Abstract">
+		Image data containing the face image of a person is retrieved from a plurality of images, the retrieved image data is displayed, face image data, which is for image retrieval, is extracted from the displayed image data, and the extracted face image data is registered as reference face image data. Specified reference face image data in the registered reference face image data is designated and image data that contains the reference face image data is retrieved.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-11-08
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-11
+	</str>
+	<str name="Publication Date">
+		2007-12-11
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-12
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/219 | 382/118 | 382/190 | 382/282
+	</str>
+	<str name="UPC Primary">
+		382/219
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20050157952A1 | US7308119 | CN1321392C | CN1622116A
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		Laurenz Wiskott, et al., &quot;Face Recognition by Elastic Bunch Graph Matching,&quot; IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 19, No. 7, pp. 775-779 (Jul. 1997). cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US7783084
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5546598 | US6345109 | US6417969 | US20030179213 | US6698653 | US6054999 | US6460764 | US5412738 | US6624843 | US6919892 | US6697502 | US6035074 | US6445810 | US5835616 | US5842194 | US6611613 | US5432866 | JP2003099777 | CN1445696 | JP1998334213 | JP2003076990 | JP2002183734 | JP2001357067 | JP1999282873
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2003395735 | 2003402031
+	</str>
+	<str name="Priority Date">
+		2003-11-26 | 2003-12-01
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		GOHDA, MAKOTO | OKA, HIROTO
+	</str>
+	<str name="1st Inventor">
+		GOHDA, MAKOTO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		FITZPATRICK, CELLA, HARPER &amp; SCINTO
+	</str>
+	<str name="Primary Examiner">
+		KASSA, YOSEF
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

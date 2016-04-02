@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7862784
+	</str>
+	<str name="Application Number">
+		US12799932
+	</str>
+	<str name="Title">
+		Apparatus and method for variably sterilizing aqueous liquids
+	</str>
+	<str name="Abstract">
+		A flow through aqueous liquid sterilization apparatus which employs substantially fixed temperatures and pressures and variable flow rates through the apparatus for controllably processing aqueous liquids to achieve predetermined values of SALs.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-05-05
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-05
+	</str>
+	<str name="Publication Date">
+		2011-01-04
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-01
+	</str>
+	<str name="All IPC">
+		A61L2/04 | B01D33/82 | A61L2/24 | G05D16/00 | C02F1/02
+	</str>
+	<str name="IPC Primary">
+		A61L2/04
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61L
+	</str>
+	<str name="IPC Group">
+		A61L2
+	</str>
+	<str name="All UPC">
+		210/103 | 210/149 | 422/307 | 210/175 | 210/90 | 210/134
+	</str>
+	<str name="UPC Primary">
+		210/103
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6579494 | US20050063885
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Inventor(s)">
+		BOWEN, JOHN, GUY
+	</str>
+	<str name="1st Inventor">
+		BOWEN, JOHN, GUY
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Chino, Valley, AZ
+	</str>
+	<str name="Inventor(s) Address">
+		Chino, Valley, AZ
+	</str>
+	<str name="Agent/Attorney">
+		THOME, GALE H.
+	</str>
+	<str name="Primary Examiner">
+		SMITH, DUANE
+	</str>
+	<str name="Assistant Examiner">
+		DURAND, PAUL J.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

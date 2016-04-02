@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7927082
+	</str>
+	<str name="Application Number">
+		US11295128
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Highly efficient durable fluid pump and method
+	</str>
+	<str name="Abstract">
+		A highly efficient fluid pump and pumping method are disclosed. The pump includes a cylinder, a piston in the cylinder defining a first and second volume in the cylinder, and a motive actuator for driving reciprocatively a rod attached to the piston at a rate of substantially sin.sup.mx for x=0 to .pi., where m is a number greater than one, during a power stroke of that piston.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-12-05
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2011-04-19
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-04
+	</str>
+	<str name="All IPC">
+		F04B9/02 | F04B7/00
+	</str>
+	<str name="IPC Primary">
+		F04B9/02
+	</str>
+	<str name="IPC Section">
+		F
+	</str>
+	<str name="IPC Class">
+		F04
+	</str>
+	<str name="IPC Subclass">
+		F04B
+	</str>
+	<str name="IPC Group">
+		F04B9
+	</str>
+	<str name="All UPC">
+		417/539 | 417/271 | 417/53 | 210/134 | 417/415
+	</str>
+	<str name="UPC Primary">
+		417/539
+	</str>
+	<str name="UPC Class">
+		417
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Wikipedia, Epicycloid, http://en.wikipedia.org/wiki/Epicycloid (as of May 2, 2009, 00:21 GMT). cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US8277653
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US3459056 | US5993174 | US4595495 | US4302163 | US5852231 | US4687426 | US6579451 | USR32144 | US4145844 | US5589066 | US6470683 | US4434056 | US5109814 | US3825122 | US4304533 | US20040151594 | US6017200 | US5755561 | US6841076
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Assignee(s)">
+		GTH WATER SYSTEMS, INC.
+	</str>
+	<str name="1st Assignee">
+		GTH WATER SYSTEMS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		La Jolla, CA
+	</str>
+	<str name="Assignee(s) Address">
+		La Jolla, CA
+	</str>
+	<str name="Inventor(s)">
+		HAUDENSCHILD, CHRIS
+	</str>
+	<str name="1st Inventor">
+		HAUDENSCHILD, CHRIS
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		La, Jolla, CA
+	</str>
+	<str name="Inventor(s) Address">
+		La, Jolla, CA
+	</str>
+	<str name="Agent/Attorney">
+		KLEINKE, BERNARD L. DUCKOR SPRADLING METZGER &amp; WYNNE
+	</str>
+	<str name="Primary Examiner">
+		KRAMER, DEVON C
+	</str>
+	<str name="Assistant Examiner">
+		WEINSTEIN, LEONARD J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

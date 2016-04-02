@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7740752
+	</str>
+	<str name="Application Number">
+		US11890815
+	</str>
+	<str name="Title">
+		Fluid remediation system
+	</str>
+	<str name="Abstract">
+		A system for separating suspended and dissolved materials in a fluid having a pH offset from neutral is disclosed. It employs a plurality of stacked, generally flat treatment beds each having a surface angled downward for receiving the fluid. Since the fluid is spread over a large surface, its velocity slows causing suspended materials to drop out of the fluid as a sludge. A pH correction device may add an agent to the flowing fluid which will bring the pH closer to neutral thereby causing said dissolved materials to precipitate out and into the sludge. Atmospheric oxygen may also be used to effect the precipitation. Portions of the beds may be isolated and the sludge collected resulting in a fluid having substantially less suspended and dissolved materials at a pH and temperature closer to normal. Energy may be produced from the movement of liquid through the system or from the heat energy of the fluid. Magnetics may be utilized to improve the precipitation of solids. The effluent discharge outlet may be connected to polishing ponds and/or to a water treatment facility. This invention is especially useful for remediating acid mine drainage.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-08-08
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2010-06-22
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		B01D21/24
+	</str>
+	<str name="IPC Primary">
+		B01D21/24
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D21
+	</str>
+	<str name="All UPC">
+		210/519 | 210/523 | 210/218 | 210/96.1 | 210/206 | 210/207 | 210/223 | 210/522 | 210/521 | 210/538 | 210/532.1 | 210/85 | 210/540 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/519
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4482459 | US4049553 | US2948677 | US5326474 | US5589064 | US3940337 | US2118157 | US2342024 | US4710290 | US4944873 | US4855061 | US4085041 | US20080006566 | US2757797 | US3675779 | US3963624 | US4151084 | US7422692 | US5779908
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Inventor(s)">
+		GILLIS, CHRISTOPHER, S.
+	</str>
+	<str name="1st Inventor">
+		GILLIS, CHRISTOPHER, S.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Shavertown, PA
+	</str>
+	<str name="Inventor(s) Address">
+		Shavertown, PA
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

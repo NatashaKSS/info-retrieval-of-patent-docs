@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2012050672A2
+	</str>
+	<str name="Application Number">
+		PCT/US2011/049601
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		IMAGE IDENTIFICATION AND SHARING ON MOBILE DEVICES
+	</str>
+	<str name="Abstract">
+		Captured images are analyzed to identify portrayed individuals and/or scene elements therein. Upon user confirmation of one or more identified individuals and/or scene elements entity information is accessed to determine whether there are any available communication addresses, e.g., email addresses, SMS-based addresses, websites, etc., that correspond with or are otherwise linked to an identified individual or scene element in the current captured image. A current captured image can then be automatically transmitted, with no need for any other user effort, to those addresses located for an identified individual or scene element.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2011-08-29
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-08
+	</str>
+	<str name="Publication Date">
+		2012-04-19
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-04
+	</str>
+	<str name="All IPC">
+		G06F15/16 | G06K9/20 | H04W4/00
+	</str>
+	<str name="IPC Primary">
+		G06F15/16
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		12/901,575
+	</str>
+	<str name="Priority Date">
+		2010-10-11
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		One Microsoft Way, Redmond, Washington, 98052-6399, US
+	</str>
+	<str name="Assignee(s) Address">
+		One Microsoft Way, Redmond, Washington, 98052-6399, US
+	</str>
+	<str name="Inventor(s)">
+		AKBARZADEH, AMIR | BAKER, SIMON, J. | FYNN, SCOTT | NISTER, DAVID, PER, ZACHRIS
+	</str>
+	<str name="1st Inventor">
+		AKBARZADEH, AMIR
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Microsoft, Corporation, LCA, -, International, Patents, One, Microsoft, Way, Redmond, Washington, 98052-6399, US
+	</str>
+	<str name="Inventor(s) Address">
+		Microsoft, Corporation, LCA, -, International, Patents, One, Microsoft, Way, Redmond, Washington, 98052-6399, US | Microsoft, Corporation, LCA, -, International, Patents, One, Microsoft, Way, Redmond, Washington, 98052-6399, US | Microsoft, Corporation, LCA, -, International, Patents, One, Microsoft, Way, Redmond, Washington, 98052-6399, US | Microsoft, Corporation, LCA, -, International, Patents, One, Microsoft, Way, Redmond, Washington, 98052-6399, US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

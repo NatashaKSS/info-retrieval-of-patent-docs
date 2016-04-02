@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6521370
+	</str>
+	<str name="Application Number">
+		US09505912
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Battery pack, battery loading device, power supplying device and electronic equipment
+	</str>
+	<str name="Abstract">
+		A battery pack includes structures which prevent it from being improperly loaded in a battery loading device. The batter pack includes a battery cell, a casing for housing the battery cell, and output terminals for outputting the power of the battery cell. The bottom surface of the battery pack includes a discriminating recess formed in the bottom surface and control recesses formed at the intersection of its bottom and front surfaces. These recesses are sized and shaped to accept corresponding projections on selected battery loading devices so that the battery pack may be loaded onto these battery loading devices. However, the recesses do not accept the corresponding projections on other battery loading devices, thereby preventing the battery packs from being assembled to these other battery loading devices.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-02-17
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-02
+	</str>
+	<str name="Publication Date">
+		2003-02-18
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-02
+	</str>
+	<str name="All IPC">
+		H01M2/10
+	</str>
+	<str name="IPC Primary">
+		H01M2/10
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M2
+	</str>
+	<str name="All UPC">
+		429/123 | 429/99 | 439/500 | 439/504 | 429/96 | 429/97
+	</str>
+	<str name="UPC Primary">
+		429/123
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		DE60039739D1 | DE60043315D1 | JP2000243361A | JP4110656B2 | CN1160808C | CN1545155A | CN1881657A | US6521370 | EP1030386A1 | CN1282261C | CN1272697A | EP1030386B1 | HK1032148A1
+	</str>
+	<str name="Family Member Count">
+		13
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5399446 | US4810204 | US5415947 | US5672441 | US5626979 | EP0588728 | EP0676819 | EP0836311
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		11039290
+	</str>
+	<str name="Priority Date">
+		1999-02-17
+	</str>
+	<str name="Assignee(s)">
+		SONY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SONY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		JP
+	</str>
+	<str name="Assignee(s) Address">
+		JP
+	</str>
+	<str name="Inventor(s)">
+		TAKESHITA, TOSHIO | HANZAWA, MASAKI
+	</str>
+	<str name="1st Inventor">
+		TAKESHITA, TOSHIO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa, JP | Chiba, JP
+	</str>
+	<str name="Agent/Attorney">
+		LERNER, DAVID, LITTENBERG, KRUMHOLZ &amp; MENTLIK, LLP
+	</str>
+	<str name="Primary Examiner">
+		LE, HOA VAN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

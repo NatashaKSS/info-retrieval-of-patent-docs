@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7531268
+	</str>
+	<str name="Application Number">
+		US10/817108
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Battery locking apparatus for electronic device
+	</str>
+	<str name="Abstract">
+		A locking apparatus for a battery (10) having locking portions (11) includes a base (20), a resilient member (85) secured to the base, and a first lock member (40). The resilient member includes a stop portion (86). The first lock member defines a first recess (43) and a second recess (42), and includes at least one post (51). The at least one post is engaged in the locking portions of the battery. The first lock member is slidable between a first position and a second position. When the first lock member is slid to the first position, the stop potion of the resilient member abuts the first lock member in the first recess to secure the battery to the base. When the first lock member is slid to the second position, the stop potion abuts the first lock member in the second recess to release the battery from the base.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-04-01
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-04
+	</str>
+	<str name="Publication Date">
+		2009-05-12
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		H01M2/10
+	</str>
+	<str name="IPC Primary">
+		H01M2/10
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M2
+	</str>
+	<str name="All UPC">
+		429/97 | 429/96
+	</str>
+	<str name="UPC Primary">
+		429/97
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		US20040214077A1 | US7531268 | TW563908U
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5608612 | US5716730 | US5895729
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		TW
+	</str>
+	<str name="Priority Number">
+		92206593U
+	</str>
+	<str name="Priority Date">
+		2003-04-25
+	</str>
+	<str name="Assignee(s)">
+		HON HAI PRECISION INDUSTRY CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		HON HAI PRECISION INDUSTRY CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tu-Cheng, Taipei Hsien, TW
+	</str>
+	<str name="Assignee(s) Address">
+		Tu-Cheng, Taipei Hsien, TW
+	</str>
+	<str name="Inventor(s)">
+		HUANG, TIE-AN
+	</str>
+	<str name="1st Inventor">
+		HUANG, TIE-AN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tu-Chen, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Tu-Chen, TW
+	</str>
+	<str name="Agent/Attorney">
+		CHUNG, WEI TE
+	</str>
+	<str name="Primary Examiner">
+		RYAN, PATRICK
+	</str>
+	<str name="Assistant Examiner">
+		MERCADO, JULIAN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7815804
+	</str>
+	<str name="Application Number">
+		US11/609659
+	</str>
+	<str name="Title">
+		Method for treating wastewater or produced water
+	</str>
+	<str name="Abstract">
+		A method or process for treating wastewater containing high organics, silica, boron, hardness, and suspended and dissolved solids. The method includes degasifying the wastewater for the removal of dissolved gases and thereafter chemically softening the wastewater. After the chemical softening step, the wastewater is directed through a media filter or membrane which removes additional solids and precipitants. Thereafter the wastewater is directed through a sodium ion exchange that further softens the wastewater. The effluent from the ion exchange is directed through a cartridge filter and the effluent from the cartridge filter is directed through one or more reverse osmosis units. At a selected phase of the process, prior to the wastewater reaching the reverse osmosis unit or units, the pH of the wastewater is raised and maintained such that the pH of the wastewater reaching a reverse osmosis unit is at a pH greater than 10.5.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-12-12
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-12
+	</str>
+	<str name="Publication Date">
+		2010-10-19
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-10
+	</str>
+	<str name="All IPC">
+		C02F5/06 | C02F1/52 | C02F1/44 | C02F1/42
+	</str>
+	<str name="IPC Primary">
+		C02F5/06
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F5
+	</str>
+	<str name="All UPC">
+		210/638 | 166/267 | 210/639 | 210/652 | 210/666 | 210/667 | 210/669 | 210/687 | 210/712 | 210/713 | 210/718 | 210/725 | 210/727 | 210/738
+	</str>
+	<str name="UPC Primary">
+		210/638
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Vandeventer, Larry W., Ford, Bruce R., Vera, Michael W., Innovative Processes Provide Cogeneration Power Plant with the Ability to Utilize Oil Field Water, 50th Annual Meeting International Water Conference, Pittsburgh, PA, Oct. 23-25, 1989, pp. 1-7. cited by other | Tao, F.T., Curtice, Stanley, Hobbs, R.D., Sides, J.L., Weiser, J.D., Dyke, C.A., Tuohey, David, Pilfer, P. F., &quot;Conversion of Oilfield Produced Water Into an Irrigation/Drinking Quality Water,&quot; Society of Petroleum Engineers, Inc., 1993, pp. 571-578. cited by other | Bradley, Bob, &quot;Pilot Testing High Efficiency Reverse Osmosis on Gas Well Produced Water,&quot; Hydrometrics, Incorporated, Houston, Texas, 5 pages. cited by other | Funston, Roger, Ganesh, Rajagopalan, Leong, Lawrence Y.C., &quot;Evaluation of Technical and Economic Feasibility of Treating Oilfield Produced Water to Create a &quot;New&quot; Water Resource,&quot; pp. 1-14. cited by other.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		US8012358 | US8147696
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US4462713 | US4539120 | US5174901 | US5266210 | US5573662 | US5609765 | US5871648 | US5879562 | US6059974 | US6113797 | US6267891 | US6296773 | US6372143 | US6440310 | US6582605 | US6919031 | US7048852 | US7438129 | US7520993 | JP1997122690 | JP1999104696
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Assignee(s)">
+		OTV SA S.A.
+	</str>
+	<str name="1st Assignee">
+		OTV SA S.A.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Saint-Maurice Cedex, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Saint-Maurice Cedex, FR
+	</str>
+	<str name="Inventor(s)">
+		NAGGHAPPAN, LNSP
+	</str>
+	<str name="1st Inventor">
+		NAGGHAPPAN, LNSP
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Inventor(s) Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Agent/Attorney">
+		COATS &amp; BENNETT, P.L.L.C.
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

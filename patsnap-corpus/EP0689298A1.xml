@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP0689298A1
+	</str>
+	<str name="Application Number">
+		EP1995303868
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Portable radio package
+	</str>
+	<str name="Abstract">
+		A portable radio package comprises a radio unit (12) consisting of a WLAN radio, a controller and, where necessary, an auxiliary battery, mounted in a box which is held in a portable case (13). The case also receives a coupling means (20), which may be a flat PCMCIA plug, for coupling the radio unit to a computer (21) (e.g a palm-top or personal digital assistant computer). The case may comprise front and back leaves (14, 15) hinged together, the rear leaf (15) serving to hold the radio unit and the front leaf (14) serving to receive the coupling means in, for example, a credit-card -sized pocket (22). The coupling means is attached to the radio unit by cable (19) and is meant for insertion into a personal computer when the radio is in use. One or more antennae may be mounted on the back leaf as flat antennae, or along one or more sides of the box as dipole antennae. The case may be a padded leather case, preferably a standard diary case, which is small enough to be stored in a jacket pocket when the radio is not in use. When it is desired to use the radio, the case is taken out and opened up and the plug is removed from the front leaf and inserted into the computer. Data may then be typed or written into the computer and transmitted by the radio at will.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-06-06
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-06
+	</str>
+	<str name="Publication Date">
+		1995-12-27
+	</str>
+	<str name="Publication Year">
+		1995
+	</str>
+	<str name="Publication(Year/Month)">
+		1995-12
+	</str>
+	<str name="All IPC">
+		A45C15/00 | H04B1/38
+	</str>
+	<str name="IPC Primary">
+		A45C15/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A45
+	</str>
+	<str name="IPC Subclass">
+		A45C
+	</str>
+	<str name="IPC Group">
+		A45C15
+	</str>
+	<str name="Family Members">
+		GB2291764A | GB9412380D0 | EP0689298A1 | JP1996079124A
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References">
+		None
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		WO2004107141A1 | EP0961413A2
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		EP0570325A1 | EP0571998A1
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		9412380
+	</str>
+	<str name="Priority Date">
+		1994-06-21
+	</str>
+	<str name="Assignee(s)">
+		PLESSEY SEMICONDUCTORS LIMITED
+	</str>
+	<str name="1st Assignee">
+		PLESSEY SEMICONDUCTORS LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		STOCKWIN, PAUL, ALAN
+	</str>
+	<str name="1st Inventor">
+		STOCKWIN, PAUL, ALAN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

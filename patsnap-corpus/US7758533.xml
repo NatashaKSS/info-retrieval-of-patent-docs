@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7758533
+	</str>
+	<str name="Application Number">
+		US11934978
+	</str>
+	<str name="Title">
+		Hemofiltration systems, methods and devices for treatment of chronic and acute diseases
+	</str>
+	<str name="Abstract">
+		A hemofiltration system and method to treat an Inflammatory Mediator Related Disease in a mammal, including chronic and acute diseases, include a hemofilter and an adsorptive device. The hemofilter removes ultrafiltrate from a blood stream extracted from the mammal to create a filtered blood stream and an ultrafiltrate stream. The adsorptive device may include one or more adsorbent materials and may be used to adsorb inflammatory mediators from the ultrafiltrate stream received from the hemofilter to create a post adsorption ultrafiltrate stream. The post adsorption ultrafiltrate stream may be selectively combined with the filtered blood stream and together with the filtered blood stream may be returned to the mammal.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-11-05
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-11
+	</str>
+	<str name="Publication Date">
+		2010-07-20
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-07
+	</str>
+	<str name="All IPC">
+		A61M1/34 | A61K38/00 | B01D61/00 | A61M1/14
+	</str>
+	<str name="IPC Primary">
+		A61M1/34
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61M
+	</str>
+	<str name="IPC Group">
+		A61M1
+	</str>
+	<str name="All UPC">
+		514/1 | 604/5.01 | 514/2 | 210/651 | 210/650 | 210/660 | 422/44 | 604/4.01 | 210/195.2 | 210/321.6 | 604/6.11 | 604/5.04 | 604/6.09
+	</str>
+	<str name="UPC Primary">
+		514/1
+	</str>
+	<str name="UPC Class">
+		514
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Sporn, et al. &quot;Continuous Pump Driven Hemofiltration (CPDHF) in Septic Renal Failure,&quot; First Vienna Shock Forum, Part B: Monitoring and Treatment of Shock, pp. 225-233 (1987). cited by other . | Bellomo et al., &quot;Hemofiltration and Hemoperfusion on Sepsis and Septic Shock,&quot; Acute Dialysis Quality Initiative, 3rd International Consensus Conference, Workgroup 1 (2003) (Date of Conference obtained from ADQI Newsletter found at www.adqi.net/#background). cited by other . | Sanz-Moreno, et al. &quot;Hemodiafiltration in Two Chambers Without Replacement Fluid: a Clinical Study&quot;, Artificial Organs, vol. 19, No. 5, 1995. cited by other . | Hinshaw et al., &quot;Staphylococcus Aureus-Induced Shock: A Pathyphysiologic Study&quot; Circulatory Shock 26:257-265 (1988). cited by other . | Lee et al., &quot;Continuous Arteriovenouse Hemofiltration (CAVH) Therapy for Sepsis-Induced Acute Lung Injury in Immature Swine&quot;, FASEB J., 1990 4(4) SUPPL: A953. cited by other . | Honore et al., &quot;Prospective evaluation of short-term, high-volume isovolemic hemofiltration on the homodynamic course and outcome in patients with intractable circulatory failure resulting from septic shock&quot;, Crit. Care Med 2000 vol. 28, No. 11, pp. 3581-3587. cited by other . | Honore et al.; &quot;Hemofiltration, absorption, sieving and the challenge of sepsis therapy design&quot;, Critical Care, Oct. 2006, vol. 6, No. 5. cited by other . | Nagaki,et al. &quot;In vitro plasma perfusion through adsorbets and plasma ultrafiltration to remove endotoxin and cytokines&quot;, Cir. Schock, vol. 38, No. 3, pp. 182-188, Nov. 1992. cited by other . | International Search Report for PCT/US02/23603 dated Apr. 15, 2003, 5 pages. cited by other . | Rifai, et al. &quot;Prometheus.RTM. - a New Extracorporeal System for the Treatment of Liver Failure&quot;, Journal of Hepatology, vol. 39, pp. 984-990, 2003. cited by other . | Colton, &quot;Analysis of Membrane Processes for Blood Purification,&quot; In-Depth Review 5:202-251 (1987). cited by other . | F. Coraim; R. Fasol; F. Stellwag; E. Wolner; Continuous Arteriovenous Hemofiltration (CAVH) After Cardiac Surgery; Clinic for Anesthesia and General Intensive Care Medicine and 2nd Surgical Clinic, University of Vienna Austria. Continuous Arteriovenous Hemofiltration (CAVH); Int. conf. on CAVH, Aachen 1984, pp. 116-124 (Karger, Basel 1985). (9 pages). cited by other . | International Search Report for PCT/US/99/15426 dated Jan. 20, 2000. cited by other . | Tetta, et al. &quot;Removal of cytokines and activated complement components in an experimental model of continuous plasma filtration coupled with sorbent adsorption&quot;, Nephrol Dial. Transplant, vol. 13, No. 6, pp. 1458-1464, Jun. 1998. cited by other . | Honore et al., &quot;High Volume and High Permeability Haemofiltration for sepsis: the evidence and the key issues&quot;, Care of the Critical III, Jun. 2003, vol. 19, No. 3. cited by other . | Matson et al; &quot;Blood filtration: new opportunities and the implications of systems biology&quot;, Critical Care and resuscitation 2004; 6:209-217. cited by other . | Bellomo et al.; &quot;An Introduction to Continuous Renal Replacement Therapy&quot;, Atlas of Hemofiltration, p. 1-9, 2002. cited by other . | Lee et al., &quot;Effects of filter pore size on efficacy of continuous arteriovenous hemofiltration therapy for Staphylococcus aures-induced septicemia in immature swine&quot;, Crit Care Med 1998, vol. 26, No. 4 (pp. 730-737). cited by other . | Michie et al., &quot;Detection of Circulating Tumor Necrosis Factor After Endotoxin Administration,&quot; New Eng. Journal of Medicine 318:1481-1486 (Jun. 1988). cited by other . | Falkenhagen, et al. &quot;Fractionated Plasma Separation and Adsorption System: A Novel System for Blood Purification to Remove Albumin Bound Substances&quot;, Artificial Organs, vol. 23, No. 1, pp. 81-86, 1999. cited by other . | Bende, et al. &quot;Elimination of endotoxin from the blood by extracorporeal activated charcoal hemopefusion in experimental canine entoxin shock&quot;, Circ. Shock, vol. 19, No. 2, pp. 239-244, 1986. cited by other . | Evenepoel, et al. &quot;Detoxifying Capacity and Kinetics of Prometheus.RTM. -A New Extracorporeal System for the Treatment of Liver Failure&quot; Blood Purification, vol. 23, pp. 349-358, 2005. cited by other . | Weinstein et al., &quot;The Clinical Significance of Positive Blood Cultures: A Comprehensive Analysis of 500 Episodes of Bacteremia and Fungemia in Influencing Prognosis&quot; Reviews of Infectious Disease 5:1 (Jan. - Feb. 1983). cited by other. | Patrice A. Lee PhD; James R. Matson, Md; Robert W. Pryor, MD, FCCM; Lerner B. Hinshaw, PhD, FCCM; Continuous arteriovenous hemofiltration therapy for Staphylococcus aureus-induced septicemia in immature swine; Critical Care Medicine 1993; vol. 21, No. 6. (11 pages). cited by other . | &quot;A Dangerous Error in the Dilution of 25 Percent Albumin&quot;, the New England Journal of Medicine, vol. 338, No. 17, pp. 1226-1227, http://content.nejm.org/cgi/content/extract/338/1711226, 2 pages, Apr. 23, 1998. cited by other . | Nagaki,et al. &quot;Removal of endotoxin and cytokines by adsorbents and the effect of plasma protein binding&quot;, Int. Journal of Artificial Organs, vol. 14, No. 1, pp. 43-50, Jan. 1991. cited by other . | &quot;The Prometheus.RTM. System&quot;,http://www.biotec-systems.at/en/Prometheus.html, Biotec Systems Krems.GmbH. (Undated). cited by other . | Frigon et al., &quot;Hemofilter Solute Sieving Is Not Governed by Dynamically Polarized Protein,&quot; Trans Am. Soc. Artif. Intern, Organs vol. XXX (1984). cited by other . | Pusey, et al. &quot;Experimental models of plasma perfusion&quot;, Journal of Clin. Apheresis, vol. 6, No. 2, pp. 99-102, 1991. cited by other . | European Patent Office; Official Action in European Patent Application No. 02750294.7, dated Aug. 21, 2007, 3 pages. cited by other . | Parsonett et al., &quot;Induction of Interleukin-1 by Strains of Staphylococcus arueus from Patients with Nonmenstrual Toxic Shock Syndrome&quot;, Journal of Infectious Diseases 124:1 (Jul. 1986). cited by other . | Mochizuki, et al. &quot;Dextran transport through asymmetric ultra-filtration membranes: Comparison with Hydrodynamic Models&quot;, Journal of Membrane Science, vol. 68, pp. 21-41, 1992. cited by other . | Bellomo et al., &quot;Extracorporeal blood treatment (EBT) methods in SIRS/Sepsis&quot;; The International Journal of Artificial Of Artificial Organs, 2005, vol. 28, No. 5, pp. 450-458. cited by other . | Bellomo, et al. &quot;Nomenclature for Continuous Renal Replacement Therapy Atlas of Hemofiltration&quot;, pp.11-14, 2002. cited by other . | European Patent Office; Official Action in European Patent Application No. 02750294.7, dated Sep. 24, 2008, 3 pages. cited by other . | International Search Report for PCT/US03/07784 dated Jul. 17, 2003, 6 pages. cited by other . | Vienken and Christmann &quot;How Can Liver Toxins be Removed? Filtration and Adsorption With the Prometheus System&quot;, Therapeutic Aphoresis and Dialysis, vol. 10, No. 2,. pp. 125-131, 2006. cited by other . | Tetta, et al. &quot;Continuous plasma filtration coupled with sorbents&quot;, Kidney Int. Suppl., vol. 53, pp. S186-189, May 1998. cited by other . | Konstantin, et al. &quot;Artificial Liver&quot;, Artificial Organs, International Society for Artificial Organs, vol. 16, pp. 235-242, 1992. cited by other . | Official Action in European Patent Application No. 02750294.7 dated Aug. 21, 2007 (2 pages). cited by other . | Hinshaw et al. &quot;Extracorporeal Perfusion Without, Exogenous Anticoagulations: Its Protective Role in Endotoxin Shock&quot; Circulatory Shock 9:281-295 (1982). cited by other . | Harris et al. &quot;Manifestations of Sepsis&quot; arch. Intern. Med. vol. 147 (Nov. 1987). cited by other . | Matson et al.; &quot;Evolving concepts of therapy for sepsis and septic shock and the sue of hypermeable membranes&quot;, Curr Opin Crit Care 2000, 6:432-436. cited by other . | Honore et al.; &quot;Short-Term High-Volume Hemofiltration in Sepsis: Perhaps the Right Way is to Start With. . . &quot;, Letters to the Editor, Crit Care Med 2002, vol. 20, No. 7 (pp. 1673-1677). cited by other . | Fong et al., &quot;Endotoxemia Elicits Increased Circulating .beta.IFN/IL-6 in Man,&quot; Journal of Immunology vol. 142, 2321-2324, No. 7 (Apr. 1989). cited by other . | Todd et al., &quot;Recovery From Endotoxin Shock After Extracorporeal Perfusing Without Anticoagulation,&quot; Circulatory Shock 6:261-269 (1979). cited by other . | Leypoldt, et al., &quot;Dextran Sieving Coefficients of Hemofiltration Membranes&quot; Trans. Am. Soc. Artif. Inter. Organs vol. XXX (1983). cited by other . | Nagaki, et al. &quot;Clearance and tissue distribution of staphylococcal enterotoxin a rat and potential use of adsorbents for removal from plasma&quot;, Journal of Med. Microbiology, vol. 38, No. 5, pp. 354-359, May 1993. cited by other . | W.F. Koller; H.M. Benzer; G.F. Pauser; CAVH in Acute Respiratory Failure; Research Center for Intensive Care medicine, 2nd Surgical Clinic, University of Vienna, Vienna, Austria; Continuous Arteriovenous Hemofiltration (CAVH); Int. Conf. On CAVH, Aachen 1984; pp. 96-102 (Karger, Basel 1985). (7 pages). cited by other . | Honore et al., &quot;Extracorporeal removal for sepsis: Acting at the tissue level - The beginning of a new era for this treatment modality in septic shock&quot;, Crit Care Med 2004, Vo. 32, No. 3 (pp. 896-897). cited by other . | Shumak and Rock, &quot;Therapeutic Plasma Exchange&quot; New Eng. Journal of Medicine 213:12 (Mar. 1984). cited by other . | Albumin (Human) USP, 25%, Albuminar-25, RX Only, 7 pgs, Aug. 2004. cited by other . | Sheagren, &quot;Staphylococcus Areus the Persistent Pathogen&quot; New Eng. Journal of Medicine 310:21 (May 1984). cited by other . | Geiger, et al. &quot;Biochemical assessment and clinical evaluation of bilirubin adsorbent col. (BR 350) in critically ill patients with intractable jaundice&quot;, Int. Journal of Artificial Organs, vol. 15, No. 1, pp. 35-39, Jan. 1992. cited by other . | G. Zobel; E. Ring; M. Kutting; H.M. Grubbauer; Five years experience with continuous extracorporeal renal support in paediatric intensive care; (Received 1990; Accepted Feb. 3, 1991; Department of Paediatrics, University of Graz, Austria); Intensive Care Medicine; 1993 17:315-319. (5 pages). cited by other . | Hughes, et al. &quot;Use of sorbent columns and haemofiltration in fulminant hepatic failure&quot;, Blood Purif., vol. 11, No. 3, pp. 163-169, 1993. cited by other . | Chung et al., &quot;Continuous venovenous hemofiltration in severely burned patients with acute kidney injury: a cohort study&quot;, Critical Care 2009, 13:R62 (doi: 10.1186/cc7801) (Available online at http://ccforum.com/content/13/3/R62). cited by other .
+	</str>
+	<str name="Other References Count">
+		57
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7520992 | US4581141 | US4668399 | US6039946 | US6620382 | US5211850 | US4596779 | US5855782 | US4313831 | US4350156 | USR31668 | US6595943 | US6280632 | US4000072 | US5661124 | US20060129082 | US4191182 | US6667299 | US3579441 | US6008199 | US6287516 | US5744042 | US4872983 | US5571418 | US5162102 | US4614513 | US7524420 | US20040173530 | US4402940 | US6736972 | US4781068 | US4900720 | US5536412 | US5858238 | US6787040 | US4362155 | US4559034 | US7291122 | US20010051106 | US4618343 | US4874522 | US6156734 | US6193681 | US4648974 | US5450516 | US20090204050 | US4248736 | US4863609 | US6497675 | US4172071 | US4350594 | US5578233 | US5931802 | US5683584 | US5851394 | US5905141 | US4355906 | US4397747 | US20040182783 | US5919369 | US5808181 | US5762798 | US4966709 | US4685900 | US4229291 | US5945337 | US20050277863 | US6231536 | US5783085 | US6342157 | US20060163138 | US4897189 | US4968432 | US5846419 | US5919444 | US6022477 | US6042784 | US20080110830 | US6042783 | US5286449 | US20040060866 | US6191114 | US4844810 | US5523096 | US6620120 | US5986062 | US5730713 | US6213536 | US6730266 | US5044901 | US4708799 | US4784974 | US2682268 | US20050029193 | US5944684 | US6905688 | US20040228829 | US4180460 | US20040199099 | EP0990444 | WO1991015253 | FR2585251 | EP0222709 | WO2000002603 | DE3147377 | EP0451429 | EP0232884 | EP0111696 | WO2004056460 | DE206076 | EP0098392 | DE2017473 | EP0958839 | WO1995018671 | GB2124511 | WO1983004559 | WO2004112869 | EP0739234 | EP0787500 | WO1984000112 | WO1996028198 | WO2004014315 | CA2495459 | WO2004091694
+	</str>
+	<str name="Cites Count">
+		124
+	</str>
+	<str name="Assignee(s)">
+		IMMUNOCEPT, L.L.C.
+	</str>
+	<str name="1st Assignee">
+		IMMUNOCEPT, L.L.C.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Dallas, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Dallas, TX
+	</str>
+	<str name="Inventor(s)">
+		MATSON, JAMES, R.
+	</str>
+	<str name="1st Inventor">
+		MATSON, JAMES, R.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Dallas, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Dallas, TX
+	</str>
+	<str name="Agent/Attorney">
+		SONNENSCHEIN NATH &amp; ROSENTHAL LLP
+	</str>
+	<str name="Primary Examiner">
+		KIM, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

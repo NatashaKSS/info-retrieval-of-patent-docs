@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8012352
+	</str>
+	<str name="Application Number">
+		US12982060
+	</str>
+	<str name="Title">
+		Optimized nutrient removal from wastewater
+	</str>
+	<str name="Abstract">
+		Methods and systems are provided for reducing ammonia partially by a denitrification process. A stream containing ammonia is contacted with oxygen to form a first product stream in low dissolved oxygen conditions. The ratio of oxygen to nitrogen is about 2.28 g O.sub.2/g N--NH.sub.3 (2.28 grams of oxygen per gram of nitrogen in ammonia) or less. The first product stream is then exposed to organic matter in an amount of 0.57 g COD/g N--NH.sub.3 (0.57 grams of chemical oxygen demand per gram of nitrogen in ammonia). This microbial reaction ultimately produces nitrogen gas, water, and carbon dioxide.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-12-30
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-12
+	</str>
+	<str name="Publication Date">
+		2011-09-06
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/623 | 210/906
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Daubert, Isabelle et al., 'Why and How Membrane Bioreactors with Unsteady Filtration Conditions Can Improve the Efficiency of Biological Processes, Ann. NY Acad. Sci. 984: p. 420-435, 2003. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20070193949 | US6602417 | US6712970 | US7252765 | US7326343 | US6857162 | US20070235385 | US5863433 | US7261811 | US20080110827 | US7172699 | US6946073 | US7279100 | US20080116130 | US7674379 | US6485645 | US4867883 | US6406629 | US5540840 | US20020040871 | DE19501260 | JP1986249597
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Assignee(s)">
+		AMERICAN WATER WORKS COMPANY, INC.
+	</str>
+	<str name="1st Assignee">
+		AMERICAN WATER WORKS COMPANY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Voorhees, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Voorhees, NJ
+	</str>
+	<str name="Inventor(s)">
+		GIRALDO, EUGENIO | LIU, YANJIN | MUTHUKRISHNAN, SWARNA
+	</str>
+	<str name="1st Inventor">
+		GIRALDO, EUGENIO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Robbinsville, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		Robbinsville, NJ | Marlton, NJ | Dayton, NJ
+	</str>
+	<str name="Agent/Attorney">
+		SHOOK HARDY &amp; BACON LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

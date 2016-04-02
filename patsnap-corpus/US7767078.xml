@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7767078
+	</str>
+	<str name="Application Number">
+		US12202007
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System for treating produced water
+	</str>
+	<str name="Abstract">
+		A system and method were used to treat produced water. Field-testing demonstrated the removal of contaminants from produced water from oil and gas wells.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-08-29
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-08
+	</str>
+	<str name="Publication Date">
+		2010-08-03
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-08
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/416.1 | 210/269 | 210/150 | 210/151 | 210/220
+	</str>
+	<str name="UPC Primary">
+		210/416.1
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report for PCT/US08/80262, International Searching Authority, May 5, 2009, pp. 1-9. cited by other. | Sullivan et al., &quot;Water Treatment Technology for Oil and Gas Produced Water,&quot; 2004, pp. 216-225. cited by other . | In-Soung Chang et al.; 2002; &quot;Air sparging of a submerged MBR for municipal wastewater treatment&quot;; Process Biochemistry 37 (2002) 915-920. cited by examiner . | Brookes, et al., &quot;Fouling of Membrane Bioreactors During Treatment of Produced Water,&quot; Proceedings of International Membrane Science and Technology Conference; Sydney, Australia, 2003, pp. 1-7. cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20070210006 | US20040108274 | US20070181502 | US5254253 | US4457854 | US20070102359
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Assignee(s)">
+		LOS ALAMOS NATIONAL SECURITY, LLC
+	</str>
+	<str name="1st Assignee">
+		LOS ALAMOS NATIONAL SECURITY, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Los Alamos, NM
+	</str>
+	<str name="Assignee(s) Address">
+		Los Alamos, NM
+	</str>
+	<str name="Inventor(s)">
+		SULLIVAN, ENID, J. | KATZ, LYNN | KINNEY, KERRY | BOWMAN, ROBERT, S. | KWON, SOONDONG
+	</str>
+	<str name="1st Inventor">
+		SULLIVAN, ENID, J.
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Los, Alamos, NM
+	</str>
+	<str name="Inventor(s) Address">
+		Los, Alamos, NM | Austin, TX | Austin, TX | Lemitar, NM | Kyungbuk, KR
+	</str>
+	<str name="Agent/Attorney">
+		BORKOWSKY, SAMUEL L. FREUND, SAMUEL M.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

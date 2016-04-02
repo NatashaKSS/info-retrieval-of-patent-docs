@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080038763A1
+	</str>
+	<str name="Application Number">
+		US11611497
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		METHOD FOR ANALYZING BLOOD FOR LIPOPROTEIN COMPONENTS
+	</str>
+	<str name="Abstract">
+		A new lipoprotein analysis procedure based on the CDC gold standard, analytical ultra centrifugation, having dramatically reduced the time and cost to obtain a result with a self generating continuous gradient. The method allows quantification of the risk factors of cardiovascular disease based on particle numbers of the particles of various groups and subgroups of lipoproteins.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-12-15
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-12
+	</str>
+	<str name="Publication Date">
+		2008-02-14
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-02
+	</str>
+	<str name="All IPC">
+		G01N33/92 | C12Q1/60
+	</str>
+	<str name="IPC Primary">
+		G01N33/92
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N33
+	</str>
+	<str name="All UPC">
+		436/71 | 435/11
+	</str>
+	<str name="UPC Primary">
+		436/71
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Members">
+		US20080038762A1 | US20080038763A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		61149706 | 46404406
+	</str>
+	<str name="Priority Date">
+		2006-12-15 | 2006-08-11
+	</str>
+	<str name="Assignee(s)">
+		SPECTRACELL LABORATORIES, INC.
+	</str>
+	<str name="1st Assignee">
+		SPECTRACELL LABORATORIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		TROUP JAN M.
+	</str>
+	<str name="1st Inventor">
+		TROUP JAN M.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		The Woodlands,TX,US
+	</str>
+	<str name="Inventor(s) Address">
+		The Woodlands,TX,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

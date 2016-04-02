@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5446783
+	</str>
+	<str name="Application Number">
+		US08189568
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Cellular phone with infrared battery pack
+	</str>
+	<str name="Abstract">
+		A cellular phone has, in addition to an antenna, speaker and microphone, a device interface capable of transmitting electronic information between the cellular phone and an electronic device, such as a computer or modem, when the device is physically connected to the cellular phone. The cellular phone also has a battery pack. The battery pack has, in addition to a battery for powering the cellular phone, an infrared port for transmitting infrared information between the cellular phone and an electronic device with infrared capability. The infrared port is connected to an infrared converter, which is connected to the device interface. The infrared converter converts electronic information to infrared information for transmission between the cellular phone and the device over the infrared port. Existing cellular phones can be upgraded to obtain the ability to communicate with electronic devices over an infrared port by replacing the conventional battery pack contained in the existing cellular phone with an infrared battery pack of the type shown in the various embodiments of the invention.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1994-01-31
+	</str>
+	<str name="Application Year">
+		1994
+	</str>
+	<str name="Application(Year/Month)">
+		1994-01
+	</str>
+	<str name="Publication Date">
+		1995-08-29
+	</str>
+	<str name="Publication Year">
+		1995
+	</str>
+	<str name="Publication(Year/Month)">
+		1995-08
+	</str>
+	<str name="All IPC">
+		H04Q7/22 | H04M11/00
+	</str>
+	<str name="IPC Primary">
+		H04Q7/22
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04Q
+	</str>
+	<str name="IPC Group">
+		H04Q7
+	</str>
+	<str name="All UPC">
+		379/440 | 379/433.05 | 429/7 | 455/572 | 379/56.3 | 379/433.08 | 455/557
+	</str>
+	<str name="UPC Primary">
+		379/440
+	</str>
+	<str name="UPC Class">
+		379
+	</str>
+	<str name="Family Members">
+		SG66219A1 | EP0665655A2 | EP0665655B1 | EP0665655A3 | DE69526272D1 | DE69526272T2 | US5446783 | JP1995226807A
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		30
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US5907418 | US5999798 | US5797102 | US5835862 | DE19538842A1 | US5781321 | US6901241 | US6880761 | DE19614556A1 | US7387383 | WO2001005125A1 | WO2001048648A1 | WO2003039118A1 | US6073031 | US6131017
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5249218 | US5201067 | US5206097 | US5241410 | US5251329 | US4903325 | DE3806463 | EP0423733
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		18956894
+	</str>
+	<str name="Priority Date">
+		1994-01-31
+	</str>
+	<str name="Assignee(s)">
+		HEWLETT-PACKARD COMPANY
+	</str>
+	<str name="1st Assignee">
+		HEWLETT-PACKARD COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Palo Alto, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Palo Alto, CA
+	</str>
+	<str name="Inventor(s)">
+		MAY, GREGORY, J.
+	</str>
+	<str name="1st Inventor">
+		MAY, GREGORY, J.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Corvallis, OR
+	</str>
+	<str name="Inventor(s) Address">
+		Corvallis, OR
+	</str>
+	<str name="Agent/Attorney">
+		ROSE, CURTIS G., LOGAN, BRENT F.
+	</str>
+	<str name="Primary Examiner">
+		KUNTZ, CURTIS
+	</str>
+	<str name="Assistant Examiner">
+		TROST, WILLIAM G.
+	</str>
+	<str name="cited by within 3 years">
+		23
+	</str>
+	<str name="cited by within 5 years">
+		31
+	</str>
+</doc>
+

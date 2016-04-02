@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20040208343A1
+	</str>
+	<str name="Application Number">
+		US10841926
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Apparatus and method for creating a record using biometric information
+	</str>
+	<str name="Abstract">
+		An identification record for an animal (human, livestock, game, companion/pets, etc.) is created by gathering/collecting biometric information (such as, extracting information from an image acquired of the retinal vasculature of the animal of interest) and pairing it with geographic data received. A biometric measurement results in information such as audio data, visual data, a description of the animal, birth date, death date, cause of death, genetic breeding data, production data, veterinary/medical records, data pertaining to a vaccination event, feed formulas, feedlot locations, border crossings, shipping data, data pertaining to current ownership and transfers in interest, livestock or range animal purchase information, a code or other designation assigned to the animal (whether digitally encrypted), a photo, image, or other graphic record of one or more features of the animal, microchip implant data implanted (for example, tagging, insertion, embedding, impressing, and injection), and so on. If the biometric measurement is an acquired image, the process can further include: digitizing the image; determining if useful/satisfactory; storing; and analyzing for unique anatomical landmarks. The image and data extracted therefrom to create an identification record may be stored in a database for retrieval and comparison against other identification records to identify the animal. The receiver is adapted to `stamp` the image (or other information) with time, date, general time of day (a.m., p.m.) and/or location as part of the identification record.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-05-07
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-05
+	</str>
+	<str name="Publication Date">
+		2004-10-21
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-10
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/117 | 382/110
+	</str>
+	<str name="UPC Primary">
+		382/117
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20030048929A1 | US20040208343A1 | US6766041
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		17
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8214299 | US8256381
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		84192604 | 75397301 | 9915337 | 9221398 | 9244598
+	</str>
+	<str name="Priority Date">
+		2004-05-07 | 2001-01-03 | 1999-07-07 | 1998-07-09 | 1998-07-10
+	</str>
+	<str name="Assignee(s)">
+		COLORADO STATE UNIVERSITY RESEARCH FOUNDATION
+	</str>
+	<str name="1st Assignee">
+		COLORADO STATE UNIVERSITY RESEARCH FOUNDATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		BRUCE L. GOLDEN | BERNARD E. ROLLIN | RALPH V. SWITZER JR. | CARLTON R. COMSTOCK JR.
+	</str>
+	<str name="1st Inventor">
+		BRUCE L. GOLDEN
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Loveland,CO,US
+	</str>
+	<str name="Inventor(s) Address">
+		Loveland,CO,US | Fort Collins,CO,US | Fort Collins,CO,US | Chester,VT,US
+	</str>
+	<str name="Agent/Attorney">
+		JEAN M. MACHELEDT
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

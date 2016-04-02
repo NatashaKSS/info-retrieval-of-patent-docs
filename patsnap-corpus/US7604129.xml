@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7604129
+	</str>
+	<str name="Application Number">
+		US10529409
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Lyotropic liquid crystal nanofiltration membranes
+	</str>
+	<str name="Abstract">
+		The invention provides composite nanofiltration membranes (FIG. 5) with lyotropic liquid crystal (LLC) polymer porous membranes (30) attached to a porous support (20). The LLC membranes are prepared from LLC monomers which form the inverted hexagonal or bicontinuous cubic phase. The arrangement, size, and chemical properties of the pores can be tailored on the molecular level. The composite membrane of the invention is useful for separation processes involving aqueous and nonaqueous solutions as well as gases. Methods for making and using the composite nanofiltration membranes of the inventions are also provided.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-10-03
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-10
+	</str>
+	<str name="Publication Date">
+		2009-10-20
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		C25D1/08 | B01D29/00 | B01D39/00
+	</str>
+	<str name="IPC Primary">
+		C25D1/08
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C25
+	</str>
+	<str name="IPC Subclass">
+		C25D
+	</str>
+	<str name="IPC Group">
+		C25D1
+	</str>
+	<str name="All UPC">
+		210/500.27 | 205/67 | 210/500.38 | 264/41 | 210/500.41 | 210/490
+	</str>
+	<str name="UPC Primary">
+		210/500.27
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060096922A1 | US7604129
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Gu et al. (Jun. 2001) &quot;A Nanostructured, Scandium-Containing Polymer for Heterogeneous Lewis Acid Catalysis in Water,&quot; Chem. Mater. 13(6):1949-1951. cited by other . | Gin et al. (Oct. 2001) &quot;Polymerized Lyotropic Crystal Assemblies for Materials Applications,&quot; Acc. Chem. Res. 34:973-980. cited by other . | Clark et al. (1999) &quot;Polymerization of Organized Polymer Assemblies,&quot; Curr. Opin. Colloid Interface Sci. 4:122-129. cited by other . | Paleos, C.M. (1992) &quot;Polymerization of Micelle-Forming Monomers,&quot; In; Polymerizations in Organized Media, Gordon and Breach, Philadelphia, pp. 183-214. cited by other . | Smith et al. (1997) &quot;Ordered Poly-(p-phenylenevinylene) Matrix Nanocomposites via Lyotropic Liquid-Crystalline Monomers,&quot; J. Am. Chem. Soc. 119:4092-4093. cited by other . | DePierro et al. (2004) &quot;Generation and Control of Polymer Nanostructures Through Photopolymerization in Lyotropic Liquid Crystalline Media,&quot; Radtech Rep. :11-21. cited by other . | International Search Report for PCT/US0331429. cited by other . | Gray et al. (1998) &quot;Polymerizable Lyotropic Liquid Crystals Containing Transition-Metal Ions as Building Blocks for Nanostructured Polymers and Composites,&quot; Chem. Mater. 10(7):1827-1832. cited by other . | Gin et al. (1999) &quot;Polymerizable Liquid Crystals as Building Blocks for Functional, Nanostructured Materials,&quot; Synthetic Lett. 10:1509-1522. cited by other . | Lee et al. (1995) &quot;Polymerization of Non-Lamellar Assemblies,&quot; J. Am. Chem. Soc. 177:5573-5578. cited by other . | Gankema et al. (1996), &quot;Gel Template Leaching: An approach to Functional Nanoporous Membranes,&quot; Macromol. Symp., 102, 301. cited by other . | Liu et al. (2000) &quot;Nanofiltration Membranes Prepared by Direct Microemulsion Copolymerization Using Poly(Ethylene Oxide) Macromonomer as a Polymerizable Surfactant,&quot; J. Appl. Polym. Sci. 77:2785-2794. cited by other . | Beginn, U. (1998) &quot;Supramolecular Templates as Porogenes,&quot; Adv. Mater. 10(16):1391-1394. cited by other . | McGrath, K.M. (1996) &quot;Polymerization of Liquid Crystalline Phases in Binary Surfactant/Water Systems. Part 2. .omega.-undecenyltrimethylammonium Bromide,&quot; Colloid Polym. Sci. 274:399-409. cited by other . | Miller et al. (1999) &quot;Nanostructured Materials Based on Polymerizable Amphipliles,&quot; Curr. Opin. Colloid Interface Sci. 4:338-347. cited by other . | Srisiri et al. (1997) &quot;Polymerization of the Inverted Hexagonal Phase,&quot; J. Am. Chem. Sic. 119:4866-4873. cited by other . | Liu et al. (1998) &quot;Diblock Thin Film with Densely Hexagonally Packed Nanochannels,&quot; Adv. Mater. 10:69-. cited by other . | Eastoe et al. (2000) &quot;Control Over Phase Curvature Using Mixtures of Polymerizable Surfactants,&quot; Chem. Mater. 12:3533-3537. cited by other . | Pindzola et al. (2000), &quot;Lyotropic Liquid-Crystalline Phase Behavior of Some Alkyltrimethylphosphonium Bromides&quot;, Langmuir, 16, 6750-6753. cited by other . | Jung et al. (Feb. 2001) &quot;Polymerization in Lyotropic Liquid-Crystalline Phases of Dioctadecyldimethylammonium Bromide,&quot; Colloid Polym. Sci. 279:105-113. cited by other . | Zhou et al. (2005) &quot;Supported Lyotropic Liquid-Crystal Polymer Membranes: Promising Materials for Molecular-Size-Selective Aqueous Nanofiltration,&quot; Adv. Mater. 17(15), 1850-1853. cited by other . | Resel et al. (2000) &quot;Structural Properties of Polymerized Lyotropic Liquid Crystal Phases of 3,4,5-Tris(.omega.-acryloxyaclkoxy)benzoate Salts,&quot; Macromol. Chem. Phys. 201(11):1128-. cited by other . | Pindzola et al. (2001) &quot;Polymerization of Phosphonium-Diene Based Gemini Surfactants in the Regular Hexagonal and Bi-Continuous Cubic Phases,&quot; Abstracts of Papers of the Am. Chem. Soc. 22.sup.nd National Meeting, Aug. 26-30, Chicago, Il. cited by other . | Pindzola et al. (Apr. 2001) &quot;Polymerization of a Phosphonium Diene Amphile in the Regular Hexagonal Phase with Retention of Microstructure,&quot; J. Am. Chem. Soc. 123(19):4617-4618. cited by other . | O'Brien et al. (1998) &quot;Polymerization of Preformed Self-Organized Assemblies,&quot; Acc. Chem. Res. 31:861-868. cited by other . | Deng et al. (1998) &quot;Polymerizable Lyotropic Liquid Crystals Containing Transition-Metal and Lanthenide Ions: Architectural Control and Introduction of New Properties into Nanostructured Polymers,&quot; J. Am. Chem. Soc. 120(14):3522-3523. cited by other . | Pindzola et al. (Feb. 2003) &quot;Cross-Linked Normal Hexagonal and Bicontinuous Cubic Assemblies via Polymerizable Gemini Amphiphiles,&quot; J. Am. Chem. Soc., 125, 2940-2949. cited by other . | Beginn et al. (2000) &quot;Functional Membranes Containing Ion-Selective Matrix Fixed Supramolecular Channels,&quot; Adv. Mater. 12:510-516. cited by other . | Miller et al. (1999) &quot;Heterogeneous Catalysis with Cross-Linked Lyotropic Liquid Crystal Assemblies: Organic Analogues to Zeolites and Mesoporous Sieves,&quot; Angew. Chem. Int. Ed. 38(20):3021-3026. cited by other . | Beginn et al. (2000) &quot;Membranes Containing Oriented Supramolecular Transport Channels,&quot; Adv. Mater. 12:513-516. cited by other . | Zhou et al. (2007) &quot;New Type of Membrane Material for Water Desalination Based on a Cross-Linked Bicontinuous Cubic Lyotropic Liquid Crystal Assembly&quot;, J. Am. Chem. Soc., 129 (31), 9574-9575. cited by other. | Thundathil et al. (1980) &quot;Polymerization in Lyotropic Crystals. I. Change of Structure During Polymerization,&quot; J. Polym. Sci. Polym. Chem. Ed. 18:2629-2640. cited by other .
+	</str>
+	<str name="Other References Count">
+		32
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7371887 | US6054111 | US7090788 | US5849215 | US6264741 | US20080319202 | US4614524 | US20060194927 | US6586561 | US6696113 | US5238992 | US5238613 | US6503382 | US20080029735 | US5900292 | US7166161 | US5670051 | WO1998030318
+	</str>
+	<str name="Cites Count">
+		18
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		52940905 | 41607702 | 0331429
+	</str>
+	<str name="Priority Date">
+		2005-08-22 | 2002-10-03 | 2003-10-03
+	</str>
+	<str name="Assignee(s)">
+		THE REGENTS OF THE UNIVERISTY OF COLORADO, A BODY CORPORATE
+	</str>
+	<str name="1st Assignee">
+		THE REGENTS OF THE UNIVERISTY OF COLORADO, A BODY CORPORATE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Denver, CO
+	</str>
+	<str name="Assignee(s) Address">
+		Denver, CO
+	</str>
+	<str name="Inventor(s)">
+		GIN, DOUGLAS, L. | ZHOU, MEIJUAN | NOBLE, RICHARD, D.
+	</str>
+	<str name="1st Inventor">
+		GIN, DOUGLAS, L.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Longmont, CO
+	</str>
+	<str name="Inventor(s) Address">
+		Longmont, CO | Boulder, CO | Boulder, CO
+	</str>
+	<str name="Agent/Attorney">
+		GREENLEE, WINNER &amp; SULLIVAN, P.C.
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

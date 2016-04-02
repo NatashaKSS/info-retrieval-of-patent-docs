@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7473363
+	</str>
+	<str name="Application Number">
+		US10492465
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Organic waste treatment
+	</str>
+	<str name="Abstract">
+		A method of treatment of sewage comprising adding at least one cell signalling chemical (CSC) to a sewage substrate, wherein the at least one CSC regulates activity of a microbial population in the sewage substrate. In particular, methods of reducing odor in sewage treatment systems, preventing corrosion in sewage treatment systems, enhancing microbial digestion of sewage, managing methane gas production in a sewage treatment system, enhancing digestion of sewage sludge, resuscitating dormant microbes or microbes that are in a starvation or stationary phase in a sewage substrate and controlling the bacteria responsible for oxidation or reduction of nitrogenous compounds in a sewage substrate, are provided.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-10-17
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-10
+	</str>
+	<str name="Publication Date">
+		2009-01-06
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/606 | 210/610 | 210/611
+	</str>
+	<str name="UPC Primary">
+		210/606
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		JP2005505419A | IL161401D0 | AUPR833301D0 | CN1330590C | CN1589239A | US20040251197A1 | EP1436234A1 | WO2003033418A1 | US7473363
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		&quot;Ithaca--Wastewater Treatment Process,&quot; http://www.cityofithaca.org/index.asp?Type=B.sub.--BASIC&amp;SEC={D02CB1EB-06- A9-4F31-AB8F-D47922E38C06}&amp;DE={2FE0E75D-6F65-4EF9-847B-7273512DA5C7}, (undated), downloaded Mar. 4, 2008. cited by examiner . | Kleerebezem, M. et al., &quot;Quorum sensing by peptide pheromones and two-component signal-transduction systems in Gram-positive bacteria,&quot; Mol Microbiol, Jun. 1997, 24(5): 895-904. cited by other . | Derwent Abstract Accession No. 87-2582383/37. Abstract of EP-236989, Sep. 16, 1987. cited by other . | Biological Abstracts Accession No. 199800501362. Buchenauer, H., &quot;Biological control of soil-borne diseases by rhizobacteria,&quot; Zeitschrift-fuer-Pflanzenkrankheiten-und-Pflanzenschutz, Jul. 1998, 105(4):329-348 Abstract, 1 page. cited by other . | Derwent Abstract Accession No. 2002-003153/01. Abstract of JP-A-2001252686, Sep. 18, 2001. cited by other . | de Nys, R. et al., &quot;Cross-talk in bacterial extracellular signalling systems,&quot; Microbial Biosystems: New Frontiers, Proceedings of the 8.sup.th International Symposium on Microbial Ecology, Bell, Brylinsky, Johnson-Green (Ed), Atlantic Canada Society for Microbial Ecology, Halifax, Canada, 1999, 6 pages. cited by other . | &quot;Procedures for Chemical Waste Disposal,&quot; Chemical and Laboratory Safety, Cornell University, published at http://www.ehs.cornell.edu/chem.sub.--lab.sub.--safety/chem.sub.--manual.- cfm (Dec. 2000), downloaded from web on Mar. 3, 2008. cited by examiner . | Lazazzera, B. et al., &quot;The ins and outs of peptide signaling,&quot; Trends Microbiol, Jul. 1998, 6(7): 288-94. cited by other . | Salmond, G. P. C. et al., &quot;The bacterial `enigma`: cracking the code of cell-cell communication,&quot; Mol Microbiol, May 1995, 16(4): 615-24. cited by other . | Derwent Abstract Accession No. 94-307284/38. Abstract of JP-A-06233994, Aug. 23, 1994. cited by other . | Derwent Abstract Accession No. 88-327514/46. Abstract of JP-A-63242393, Oct. 7, 1988. cited by other . | Kazlauskas, R. et al., &quot;A new class of halogenated lactones from the red alga Delisea fimbriata,&quot; Tetrahedron Letters, 1997, No. 1, pp. 37-40. cited by other. | Graphic attachment to &quot;Ithaca--Wastewater Treatment Process&quot; showing process performance, http://www.ci.ithaca.ny.us/vertical/Sites/{5DCEB23D-5BF8-4AFF-806D-68E7C1- 4DEB0D}/uploads/{3B0224F4-EE1A-4A2C-9668-5315F0740E18}.JPG (undated), downloaded Mar. 4, 2008. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		13
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5015385 | US20020037260 | US5527465 | US6455031 | US6060046 | US6129104 | CN1195649 | JP2001252686 | CN1273946 | EP0236989 | JP1994233994 | EP0650931 | AU2002753329 | JP1988242393 | CN1287976
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		AU
+	</str>
+	<str name="Priority Number">
+		PR8333
+	</str>
+	<str name="Priority Date">
+		2001-10-17
+	</str>
+	<str name="Assignee(s)">
+		ADVANCED ENVIRONMENTAL TECHNOLOGIES PTY LTD.
+	</str>
+	<str name="1st Assignee">
+		ADVANCED ENVIRONMENTAL TECHNOLOGIES PTY LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		AU
+	</str>
+	<str name="Assignee(s) Address">
+		AU
+	</str>
+	<str name="Inventor(s)">
+		CHANDLER, ROSS
+	</str>
+	<str name="1st Inventor">
+		CHANDLER, ROSS
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Victoria, AU
+	</str>
+	<str name="Inventor(s) Address">
+		Victoria, AU
+	</str>
+	<str name="Agent/Attorney">
+		WOODCOCK WASHBURN LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

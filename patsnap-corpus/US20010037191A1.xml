@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20010037191A1
+	</str>
+	<str name="Application Number">
+		US09808207
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Three-dimensional beauty simulation client-server system
+	</str>
+	<str name="Abstract">
+		It is an object of the invention to provide a three-dimensional beauty simulation client-server system which is capable of handling a users face in a three-dimensional fashion and of providing more realistic beauty simulations. This system comprises a shop-based client that obtains and transmits three-dimensional shape data regarding a user, and a server comprising a makeup simulation unit that receives and stores the three-dimensional shape data from the shop-based client and carries out makeup simulation based on the three-dimensional shape data in response to requests from the user, and a data control unit that analyzes the users operation record and generates administrative information.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-03-15
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-03
+	</str>
+	<str name="Publication Date">
+		2001-11-01
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-11
+	</str>
+	<str name="All IPC">
+		G06F9/455
+	</str>
+	<str name="IPC Primary">
+		G06F9/455
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F9
+	</str>
+	<str name="All UPC">
+		703/6
+	</str>
+	<str name="UPC Primary">
+		703/6
+	</str>
+	<str name="UPC Class">
+		703
+	</str>
+	<str name="Family Members">
+		EP1134701A3 | JP2001268594A | US20010037191A1 | EP1134701A2
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2000072088
+	</str>
+	<str name="Priority Date">
+		2000-03-15
+	</str>
+	<str name="Assignee(s)">
+		INFINITEFACE INC.
+	</str>
+	<str name="1st Assignee">
+		INFINITEFACE INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		New York,NY
+	</str>
+	<str name="Assignee(s) Address">
+		New York,NY
+	</str>
+	<str name="Inventor(s)">
+		HIMA FURUTA | TAKEO MIYAZAWA
+	</str>
+	<str name="1st Inventor">
+		HIMA FURUTA
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Minato-Ku,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Minato-Ku,JP | Mitaka-Shi,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

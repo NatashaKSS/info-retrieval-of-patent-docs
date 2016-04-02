@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7879000
+	</str>
+	<str name="Application Number">
+		US10750143
+	</str>
+	<str name="Title">
+		Method, system and machine for collecting a biological fluid to which a selected ratio of solution is added
+	</str>
+	<str name="Abstract">
+		The invention concerns a method of collecting a biological fluid, in particular blood, with an anticoagulant and/or preservation solution added, in which the biological fluid is collected by natural flow and the anticoagulant and/or preservation solution is added by pumping, the method making provision for measuring the flow of fluid collected and slaving the pumping speed to the measured flow, so as to obtain continuously during collection a given ratio between the quantity of fluid collected and the quantity of anticoagulant and/or preservation solution added. The invention also concerns a collection machine and bag system for implementing the method.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-12-31
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-12
+	</str>
+	<str name="Publication Date">
+		2011-02-01
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		B01D11/00 | B01D61/00 | C02F1/44 | A61M37/00
+	</str>
+	<str name="IPC Primary">
+		B01D11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		604/6.01 | 604/4.01 | 604/6.15 | 210/645 | 210/647 | 210/646 | 604/6.07
+	</str>
+	<str name="UPC Primary">
+		604/6.01
+	</str>
+	<str name="UPC Class">
+		604
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5910252 | US20040186408 | US4258723 | US4267837 | US6113554 | US4582598 | US7503901 | FR2808693 | EP0583148 | EP1442759 | EP1442758
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0301195
+	</str>
+	<str name="Priority Date">
+		2003-02-03
+	</str>
+	<str name="Assignee(s)">
+		MACOPHARMA
+	</str>
+	<str name="1st Assignee">
+		MACOPHARMA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Mouvaux, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Mouvaux, FR
+	</str>
+	<str name="Inventor(s)">
+		BEHAGUE, MAURICE | GOUDALIEZ, FRANCIS | VERPOORT, THIERRY
+	</str>
+	<str name="1st Inventor">
+		BEHAGUE, MAURICE
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Linselles, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Linselles, FR | Faches-Thunesnil, FR | Halluin, FR
+	</str>
+	<str name="Agent/Attorney">
+		BAKER BOTTS L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		HAND, MELANIE J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

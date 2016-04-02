@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7615195
+	</str>
+	<str name="Application Number">
+		US10558757
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Photocatalyst water treating apparatus
+	</str>
+	<str name="Abstract">
+		A photocatalytic water-processing system decomposes organic and inorganic materials present in water. The system includes a reservoir for storing the water to be processed, a main unit formed separately and connected to the reservoir, an inlet pipe for guiding the water from the reservoir to the main unit, an outlet pipe for returning the water to the reservoir, and a pump for guiding the water from the reservoir to the main unit and returning the water. The reservoir has an electrode unit therein for electrolyzing the water so as to flocculate and precipitate the inorganic materials in the reservoir, and a filter is arranged within the main unit. Also, a photocatalytic processing device is arranged within the main unit at a downstream side of the filter for decomposing the organic material in the absence of scale formed of the inorganic materials.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-03-24
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-03
+	</str>
+	<str name="Publication Date">
+		2009-11-10
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		B01J19/08 | C02F1/461
+	</str>
+	<str name="IPC Primary">
+		B01J19/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01J
+	</str>
+	<str name="IPC Group">
+		B01J19
+	</str>
+	<str name="All UPC">
+		204/275.1 | 204/237 | 422/186.3
+	</str>
+	<str name="UPC Primary">
+		204/275.1
+	</str>
+	<str name="UPC Class">
+		204
+	</str>
+	<str name="Family Members">
+		EP1640343A1 | JP2005000858A | US7615195 | WO2004110937A1 | EP1640343A4 | US20070020158A1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US7396459 | US6627053 | JP2001137843 | JP2000334448 | JP1996147687 | JP2000336493 | JP1996332499 | JP1998202256 | JP1993228475 | JP1999138172 | JP2002102845 | JP1999057698
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2003169208
+	</str>
+	<str name="Priority Date">
+		2003-06-13
+	</str>
+	<str name="Assignee(s)">
+		REIKEN INC.
+	</str>
+	<str name="1st Assignee">
+		REIKEN INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KURAMOTO, HIKARU | HASHIMOTO, SHIGEKI
+	</str>
+	<str name="1st Inventor">
+		KURAMOTO, HIKARU
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Toride, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Toride, JP | Toride, JP
+	</str>
+	<str name="Agent/Attorney">
+		KANESAKA, MANABU
+	</str>
+	<str name="Primary Examiner">
+		MAYEKAR, KISHOR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7520982
+	</str>
+	<str name="Application Number">
+		US10565908
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Cucurbituril-containing polymer, stationary phase and column using the same
+	</str>
+	<str name="Abstract">
+		Provided is a cucurbituril-containing polymer. The cucurbituril-containing polymer may be used in removal, separation, or purification of air pollutants, water contaminants, biological substances, organic or inorganic substances, alkaline metals, heavy metals, ionic or water-soluble biological substances. The cucurbituril-containing polymer may be a stationary phase that may be used for column chromatography.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-07-24
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-07
+	</str>
+	<str name="Publication Date">
+		2009-04-21
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/198.2 | 210/635 | 210/656 | 210/502.1
+	</str>
+	<str name="UPC Primary">
+		210/198.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1651685A4 | EP1651685A1 | JP2007500763A | US20060201862A1 | KR1020050013018A | DE602004018504D1 | US7520982 | WO2005010058A1 | EP1651685B1 | AT417865T
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Liu et al., Preparation and characterization of perhydroxyl-cucurbit[6]uril bonded silica stationary phase for hydrophilic-interaction chromatography. Talanta 2004, vol. 64, pp. 929-934, XP-002404747. cited by other . | &quot;Amberlite XAD Polymeric Resins&quot; Product Information, Sigma-Aldrich, Mar. 20, 1998, 3 pages. cited by other . | Snyder (Introduction to Modern Liquid Chromatography, John Wiley&amp;Sons, Inc. New York, 1979, pp. 177-183). cited by examiner . | Kellersberger, K.A., et al. &quot;Encapsulation of N.sub.2, O.sub.2 Methanol, or Acetonitrile by Decamethylcucurbit[5]uril(NH.sub.4+).sub.2 Complexes in the Gas Phase: Influence of the Guest on `Lid` Tightness&quot;, J. Am. Chem. Soc. 2001, 123, pp. 11316-11317. cited by other . | Clennan, E.L., et al., &quot;Additions of Singlet Oxygen to Alkoxy-Substituted Butadienes. An Unexpectedly Large s-Cis/s-Trans Ratio in an (E,Z)-Diene or a Kinetic Anomeric Effect?&quot;, J. Org. Chem. 1986, 51, pp. 1440-1446. cited by other . | Nagarajan et al., &quot;Cucurbituril anchored silica gel&quot; Tetrahedron Letters, 2006, vol. 47, pp. 2073-2075. cited by other . | Lee et al., &quot;Cucurbituril Homologues and Derivatives: New Opportunities in Supramolecular Chemistry,&quot; Acc. Chem. Res., vol. 36, No. 8, 2003, pp. 621-630. cited by other.
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20070224403 | US20040147396 | US6365734 | US5276062 | US20060201862 | US5516766 | US5403898 | US6398962 | US6042723 | US4539399 | US6869466 | WO2002096553 | KR00263872 | WO2000068232 | AU20032002302117 | JP1999217557 | WO2005096553 | EP1094065 | WO2003055888
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020030051840
+	</str>
+	<str name="Priority Date">
+		2003-07-26
+	</str>
+	<str name="Assignee(s)">
+		POSTECH FOUNDATION
+	</str>
+	<str name="1st Assignee">
+		POSTECH FOUNDATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pohang, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Pohang, KR
+	</str>
+	<str name="Inventor(s)">
+		KIM, KIMOON | OH, DONG, HYUN | NAGARAJAN, ERUMAIPATTY, RAJAGOUNDER | KO, YOUNG, HO | SAMAL, SHASHADHAR
+	</str>
+	<str name="1st Inventor">
+		KIM, KIMOON
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Pohang, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Pohang, KR | Pohang, KR | Pohang, KR | Pohang, KR | Pohang, KR
+	</str>
+	<str name="Agent/Attorney">
+		ROTHWELL, FIGG, ERNST &amp; MANBECK, P.C.
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2012095867A2
+	</str>
+	<str name="Application Number">
+		PCT/IN2012/000029
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		AN INTEGRATED INTELLIGENT SERVER BASED SYSTEM AND METHOD/SYSTEMS ADAPTED TO FACILITATE FAIL-SAFE INTEGRATION AND /OR OPTIMIZED UTILIZATION OF VARIOUS SENSORY INPUTS
+	</str>
+	<str name="Abstract">
+		Integrated intelligent system adapted for any operating system and/or multi-OS computing environment seamlessly having sensory input/data acquisition cum recording server group and /or analytics server group enabling fail-safe integration and /or optimized utilization of various sensory inputs for various utility applications. Also disclosed as added advancements include intelligent method/system for cost-effective and efficient band adaptive transferring /recording sensory data from single or multiple data sources to network accessible storage devices, fail safe and self sufficient server group based method for sensory input recording and live streaming in a multi-server environment, intelligent and unified method of colour coherent object analysis, face detection in video images and the like, resource allocation for analytical processing involving multi channel environment, multi channel join-split mechanism adapted for low and /or variable bandwidth network link, enhanced multi-colour and/or mono-colour object tracking and also an intelligent automated traffic enforcement system.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2012-01-10
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-01
+	</str>
+	<str name="Publication Date">
+		2012-07-19
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-07
+	</str>
+	<str name="All IPC">
+		G06F21/22
+	</str>
+	<str name="IPC Primary">
+		G06F21/22
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F21
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		IN
+	</str>
+	<str name="Priority Number">
+		33/KOL/2011
+	</str>
+	<str name="Priority Date">
+		2011-01-12
+	</str>
+	<str name="Assignee(s)">
+		VIDEONETICS TECHNOLOGY PRIVATE LIMITED
+	</str>
+	<str name="1st Assignee">
+		VIDEONETICS TECHNOLOGY PRIVATE LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Plot - 5, Block - BP, Sector &#8211; V, Salt Lake, Kolkata 700 091, IN
+	</str>
+	<str name="Assignee(s) Address">
+		VIDEONETICS TECHNOLOGY PRIVATE LIMITED
+	</str>
+	<str name="Inventor(s)">
+		ACHARYA, TINKU | BHATTACHARYYA, DIPAK | BOSE, TUHIN | DALAL, TUTAI, KUMAR | DAS, SAWAN | DHAR, SOUMYADEEP | MAITY, SOUMYADIP
+	</str>
+	<str name="1st Inventor">
+		ACHARYA, TINKU
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		E-375, Baishnabghata, -, Patuli, Township, Kolkata, 700, 091, West, Bengal, IN
+	</str>
+	<str name="Inventor(s) Address">
+		E-375, Baishnabghata, -, Patuli, Township, Kolkata, 700, 091, West, Bengal, IN | 16/839, Kishori, Bagan, Mearber, Pirtala, Chinsurah, Hooghly, 712, 101, West, Bengal, IN | BE-1/14/1, Peyara, Bagan, Deshbandhu, Nagar, Kolkata, 700, 059, West, Bengal, IN | Khirpai, -, Hattala, (WD, -, 4), Paschim, Medinipur, 721, 232, West, Bengal, IN | 16, Green, View, Garia, Kolkata, 700, 084, West, Bengal, IN | Purbayan, Appartment, Tarasankaar, Road, By, Lane, Desbandhu, Para, Siliguri, Darjeeling, 734, 404, IN | Purba, Medinipur, Dumardari, 721, 425, West, Bengal, IN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

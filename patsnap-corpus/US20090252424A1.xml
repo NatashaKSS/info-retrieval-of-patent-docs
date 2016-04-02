@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090252424A1
+	</str>
+	<str name="Application Number">
+		US12416303
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		COMPUTER-AIDED IMAGE INTERPRETATION METHOD AND DEVICE
+	</str>
+	<str name="Abstract">
+		A computer-aided image interpretation method and a device thereof to easily obtain an accurate image interpretation result are provided. An automatic classification means of the image interpretation device performs automatic classification by one of spectral characteristics, radiometric characteristics, diffuse characteristics, textures and shapes, or combinations thereof and accumulates data to an interpretation result database, for plural features of the same kind obtained by interpreting a remote sensing image obtained with an observation sensor. A means for extracting candidate of modification of interpretation result extracts the candidate of modification of interpretation result by comparing likelihoods that are the automatic classification results. A reinterpretation is performed for the candidate of modification of interpretation, and an interpretation result database is updated by an interpretation result update means. As a result, modification of the interpretation work can be efficiently performed.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2009-04-01
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-04
+	</str>
+	<str name="Publication Date">
+		2009-10-08
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		G06K9/62
+	</str>
+	<str name="IPC Primary">
+		G06K9/62
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/224
+	</str>
+	<str name="UPC Primary">
+		382/224
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP2009251793A | US20090252424A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2008097127
+	</str>
+	<str name="Priority Date">
+		2008-04-03
+	</str>
+	<str name="Assignee(s)">
+		HITACHI, LTD.
+	</str>
+	<str name="1st Assignee">
+		HITACHI, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		MINE RYUJI | KAZAMA YORIKO | ISHIMARU NOBUHIRO
+	</str>
+	<str name="1st Inventor">
+		MINE RYUJI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kokubunji,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kokubunji,JP | Kokubunji,JP | Tokyo,JP
+	</str>
+	<str name="Agent/Attorney">
+		ANTONELLI, TERRY, STOUT &amp; KRAUS, LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

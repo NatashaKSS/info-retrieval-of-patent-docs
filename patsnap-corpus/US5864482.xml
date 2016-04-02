@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5864482
+	</str>
+	<str name="Application Number">
+		US08690084
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Apparatus and method for managing distributing design and manufacturing information throughout a sheet metal production facility
+	</str>
+	<str name="Abstract">
+		An apparatus and method is provided for managing and distributing design and manufacturing information throughout a factory in order to facilitate the production of components, such as bent sheet metal components. In accordance with an aspect of the present invention, the management and distribution of critical design and manufacturing information is achieved by storing and distributing the design and manufacturing information associated with each job. By replacing the traditional paper job set-up or work sheet with, for example, an electronically stored job sheet that can be accessed instantaneously from any location in the factory, the present invention improves the overall efficiency of the factory. In addition, through the various aspects and features of the invention, the organization and accessibility of part information and stored expert knowledge is improved.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-07-31
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-07
+	</str>
+	<str name="Publication Date">
+		1999-01-26
+	</str>
+	<str name="Publication Year">
+		1999
+	</str>
+	<str name="Publication(Year/Month)">
+		1999-01
+	</str>
+	<str name="All IPC">
+		G06F15/00
+	</str>
+	<str name="IPC Primary">
+		G06F15/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="All UPC">
+		700/95 | 700/182 | 715/502
+	</str>
+	<str name="UPC Primary">
+		700/95
+	</str>
+	<str name="UPC Class">
+		700
+	</str>
+	<str name="Family Members">
+		US5864482 | US6065857 | EP0978073A1 | WO1997042587A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		31
+	</str>
+	<str name="Other References">
+		An International Search Report mailed Oct. 1, 1997 with Application No. PCT/US 97/07471. | Foley et al., James D.The Systems Programming Series: Fundamentals of Interactive Computer Graphics, (Title Page &amp; Table of Contents), Addison-Wesley Publishing Co., Reading, Massachusetts (Mar. 1983). | Bourne, David A., &quot;Intelligent Manufacturing Workstrations&quot;, Knowledge-Based Automation of Processes, Session at the 1992 ASME Winter Annual Meeting (Nov. 1992). | Chiang, Kuorong, Automatic Generation of Type Abstraction Hierarchies For Cooperative Query Answering (A dissertation submitted as part of the requirements for the degree of Doctor of Philosophy in Computer Science), University of California, Los Angeles, pp. 1-98 (Jun. 1995). | An English Language Abstract of JP 5-216525. | Amada Windows Unfold: Manual For Cadkey, Table of Contents &amp; pp. 1-13, U.S. Amada, Ltd., Buena Park, California (Nov. 1995). | Wang, Cheng-Hua, &quot;A Parallel Design System For Sheet Metal Parts&quot;, Mechanical Engineering Report, presented to the Mechanical Engineering Department, Carnegie Mellon University, Pittsburgh, Philadelphia, pp. 1-31 (May 1992). | Wang et al., Cheng-Hua, &quot;Concurrent Product/Process Design With Multiple Representations Parts&quot;, IEEE, No. 1050-4729/93, pp.298-304 Dec. 1993. | Amacom: AP60 Literature, Amada Co., Ltd., Japan (Jul. 1996). | Papanikolopoulos, Nikolaos P., &quot;FORS: A System For Flexible Design,&quot; Conference Proceedings: 1990 IEEE International Conference On Systems, Man, And Cybernetics, Nov. 4-7, 1990, Los Angeles, California, pp. 724-726. | Mantyla, Martti, An Introduction To Solid Modeling (Title Page &amp; Table of Contents), Computer Science Press, Inc. Rockville, Maryland. Dec. 1988. | An International Search Report mailed Nov. 6, 1997 with Application No. PCT/US97/07473. | Patent Abstracts of Japan, vol. 18, No. 689 (P-1850), Dec. 26, 1994. | Open GL Reference Manual (Title Page &amp; Table of Contents), Release 1,Open GL Architecture Review Board, Addison-Wesley Publishing Co., Reading, Massachusetts (Jan. 1995). | An International Search Report issued with PCT App. No. PCT/US 97/07474. dated Feb. 20, 1998. | 2D-3D: UNKEI/Solid and UNKEI/ Drawing Check &amp; Projection/Reconstruction System, Sales Brochure, Toyo Engineering Corp. (TEC), Tokyo, Japan, Dec. 1993. | An English Language Abstract of JP 1-309727. | Amada Windows Unfold: Manual For Cadkey, Table of Contents, pp. 1-35, &amp; Index, U.s. Amada, Ltd., Buena Park California (Nov. 1995). | RenderWare, API Reference Manual (Title Page &amp; Table of Contents), V2.0, Criterion Software Ltd., United Kingdom (Oct. 1995). | An English Language Abstract of JP 2-15827. | &quot;Medical Image Retrieval by Spatial Features&quot;, Hou et al., Proceedings of the Systems, Man, and Cybernetics 1992 Intl. Conference, pp. 1364-1369, IEEE, Aug. 1992. | An International Search Report mailed Oct. 1, 1997 with Application No. PCT/US 97/07472. | An International Search Report mailed Nov. 4, 1997 with Application No. PCT/US97 07474. | Tseng et al., Yuan-Jye, &quot;Recognizing Multiple Interpretations Of Interacting Machining Features&quot;, Computer-Aided Design, vol. 26, No. 9, pp. 667-688 (Sep. 1994). | &quot;The Integration of Inspection into the CIM Environment&quot;, Radack et al., Proceedings of the Systems Sciences 1990 Intl. Confereence, pp. 455-462, IEEE, Nov. 1990. | Bending Soft, Literature on the Amacom AP40, No. 9112-01, Amada Co., Ltd., Japan (Publication Date Unknown). | Open GL Programming Guide (Title Page &amp; Table of Contents),Release 1,Open GL Architecture Review Board, Addison-Wesley Publishing Co., Reading, Massachusetts (Jun. 1995). | Aomura, Shigeru, &quot;Recent Trends and Future Prospect of Research and Practical Use (Automatic Reconstruction of 3D Solid From Drawings&quot;, JSME, No. 586-61, pp. 2180-2187, Japan Dec. 1995. | GU et al., P. &quot;Product Modelling Using STEP&quot;, Computer-Aided Design, vol. 27, No. 3, pp. 163-179 (Mar. 1995). | &quot;Method For Understanding Drawing Attributes For 3D Models&quot;, IBM Technical Disclosure Bulletin, vol. 37, No. 07, pp. 99-104 (Jul. 1994). | Amada Unfold: Manual For Autocad, Table of Contents, Index &amp; pp. 1-18, U.S. Amada, Ltd., Buena Park, California (May 1994). | Naessens, Diederik, &quot;Flexible Automation on Press Brakes&quot;, American Machinist, pp. 36-39 (Jun. 1994). | Chu et al., Wesley W., Cooperative Query Answering Via Type Abstraction Heirarchy, Computer Science Department Technical Report, CSD-900032, Department of Computer Science, University of California, Los Angeles, pp. 1-28 (Oct. 1990). | Amacom: AP40 Literature, Version 4, Amada Co., Ltd., Japan (Jul. 1996). | An English Language Abstract of JP 2-15828. | An English Language Abstract of JP 63-154220 which corresponds to JP 7-121418. | An English Language Abstract of JP 1-309728. | Wesley et al., M.A., &quot;Fleshing Out Projections&quot;, IBM J. Res. Develop., vol. 25, No. 6, pp. 934-954 (Nov. 1981). | Amacom: AP200 Literature, Amada Co., Ltd., Japan (Jul. 1996). | Mortenson, Michael E., Geometric Modeling (Title Page &amp; Table of Contents), John Wiley &amp; Sons,New York, Dec. 1988. | Amada Unfold: Manual For Cadkey, Table of Contents, Index &amp; pp.1-18, U.S. Amada, Ltd., Buena Park California (May 1994). | Aomura et al., Shigeru, &quot;Creating Solid Model With Machine Drawings&quot;, The Sixth Computational Mechanics Conference, JSME, No. 930-71, pp. 497-498, Japan (1983). Dec. 1983. | Wysong Literature, The Perfect Forming Touch: New, PH Plus Series, DNC Press Brakes, Cat. PHP-1, Wysong &amp; Miles Company, Greensboro, North Carolina, Dec. 1993.
+	</str>
+	<str name="Other References Count">
+		43
+	</str>
+	<str name="Cited By">
+		EP1067479A1 | EP1067479B1 | FR2811439A1 | US8326448 | US6502002 | US6643561 | US6694203 | US7225050 | US7813901 | WO2001050404A1 | WO2006010059A2 | EP1178438A1 | US6493603 | US6583786 | US6792397
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US4912644 | US5453933 | US5429682 | US5276606 | US5434791 | US5089970 | US5687094 | US5115400 | US5532933 | US5485390 | US5029462 | US5237647 | US5297054 | US5587914 | JP1995121418 | EP0402475 | JP1990015827 | JP1990015828 | JP1989309727 | EP0664186 | EP0419013 | JP1989309728 | EP0397904 | EP0290809 | EP0485766 | JP1993216525
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		69008496 | 1695896
+	</str>
+	<str name="Priority Date">
+		1996-07-31 | 1996-05-06
+	</str>
+	<str name="Assignee(s)">
+		AMADASOFT AMERICA, INC.
+	</str>
+	<str name="1st Assignee">
+		AMADASOFT AMERICA, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Lamirada, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Lamirada, CA
+	</str>
+	<str name="Inventor(s)">
+		HAZAMA, KENSUKE | HWANG, YEARN-TZUO | SAKAI, SATOSHI
+	</str>
+	<str name="1st Inventor">
+		HAZAMA, KENSUKE
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Yorba, Linda, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Yorba, Linda, CA | Norwalk, CA | Newport, Coast, CA
+	</str>
+	<str name="Agent/Attorney">
+		GREENBLUM &amp; BERNSTEIN, P.L.C.
+	</str>
+	<str name="Primary Examiner">
+		BLACK, THOMAS G.
+	</str>
+	<str name="Assistant Examiner">
+		ALAM, HOSAIN T.
+	</str>
+	<str name="cited by within 3 years">
+		31
+	</str>
+	<str name="cited by within 5 years">
+		36
+	</str>
+</doc>
+

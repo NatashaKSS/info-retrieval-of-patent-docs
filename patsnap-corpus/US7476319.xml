@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7476319
+	</str>
+	<str name="Application Number">
+		US11570651
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for continuously controlling denitrification in variable nitrogen loads in wastewater
+	</str>
+	<str name="Abstract">
+		The invention is a method and an apparatus for continuously controlling denitrification in wastewater purification in a sewage treatment plant having at least one denitrification stage under varying nitrogen loads comprising the steps a) provision of excess sludge, b) treatment of the excess sludge according to running parameters determined in advance, c) separation of the treated excess sludge into an organic fraction and an inorganic fraction, d) measurement of actual values for dissolved organic carbon (DOC) in the organic fraction, e) recirculation of the organic fraction to one of the denitrification stages, f) comparison of actual values with predetermined setpoint values for DOC fractions and, in the event of difference between actual values and setpoint values, determination of altered running parameters for treatment of the excess sludge in step b), g) repetition of steps a), to f).
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-06-16
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-06
+	</str>
+	<str name="Publication Date">
+		2009-01-13
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/743 | 210/197 | 210/739 | 210/623 | 210/627 | 210/760 | 210/220
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		DE102004029539A1 | US20080017583A1 | US7476319 | WO2005123611A1 | EP1763491A1 | NO20070215A
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4370235 | US6337020 | US6589432 | US6015496 | DE19942184 | DE10215413 | EP0645347 | DE3605962 | EP1254865 | JP2001232390 | DE4119144
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102004029539
+	</str>
+	<str name="Priority Date">
+		2004-06-18
+	</str>
+	<str name="Assignee(s)">
+		BAYER HEALTHCARE AG
+	</str>
+	<str name="1st Assignee">
+		BAYER HEALTHCARE AG
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Leverkusen, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Leverkusen, DE
+	</str>
+	<str name="Inventor(s)">
+		KAHLERT, JURGEN | NIEMEYER, FRANK | SCHMIDT, MATTHAUS
+	</str>
+	<str name="1st Inventor">
+		KAHLERT, JURGEN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Siegburg, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Siegburg, DE | Wuppertal, DE | Leichlingen, DE
+	</str>
+	<str name="Agent/Attorney">
+		NORRIS MCLAUGHLIN &amp; MARCUS
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

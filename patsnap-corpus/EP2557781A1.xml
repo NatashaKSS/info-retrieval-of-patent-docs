@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2557781A1
+	</str>
+	<str name="Application Number">
+		EP20110765643
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		CONTENT PROCESSING DEVICE, METHOD, AND PROGRAM
+	</str>
+	<str name="Abstract">
+		The present invention relates to a content processing apparatus and method, and a program capable of more easily grasping details of content of a moving image. A metadata extracting unit 22 extracts metadata such as information of a representative image from content supplied from a content input unit 21 and accumulates the metadata in a metadata database 24. An image feature quantity extracting unit 23 extracts an image feature quantity from the content and accumulates the image feature quantity in an image feature quantity database 25 and also extracts an image feature quantity from a retrieval image. A retrieving unit 27 compares the image feature quantity of the image feature quantity database 25 with the image feature quantity of the retrieval image and specifies a still image similar to the retrieval image. An output unit 28 reads the metadata of content and generates display data for displaying in timeline.
+	</str>
+	<str name="Document Types">
+		EP | EPA
+	</str>
+	<str name="Application Date">
+		2011-03-30
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-03
+	</str>
+	<str name="Publication Date">
+		2013-02-13
+	</str>
+	<str name="Publication Year">
+		2013
+	</str>
+	<str name="Publication(Year/Month)">
+		2013-02
+	</str>
+	<str name="All IPC">
+		G06F17/30 | H04N5/76 | H04N5/91 | H04N5/93 | H04N7/173
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP | WO
+	</str>
+	<str name="Priority Number">
+		20100090607 | 2011JP58021
+	</str>
+	<str name="Priority Date">
+		2010-04-09 | 2011-03-30
+	</str>
+	<str name="Assignee(s)">
+		SONY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SONY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		TANAKA, KAZUMAS | TANAKA, KENJ | TAKAHASHI, YOSHIHIRO
+	</str>
+	<str name="1st Inventor">
+		TANAKA, KAZUMAS
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

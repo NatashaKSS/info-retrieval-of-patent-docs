@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7736511
+	</str>
+	<str name="Application Number">
+		US12249001
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Feedback system for enhancing elimination of biomass in sewage sludge
+	</str>
+	<str name="Abstract">
+		Already-treated sludge is fed back into incoming sewage, and is effective to supply nutrients needed for the microbiological breakdown of the sludge. The feedback sludge has a solids content of 10% or more, and has been sheared and heated to drive its viscosity down to 10,000 cP or less. In sludge done that way, nutrients are preserved and presented to the sewage to be treated in highly liquidized and solubilized form, whereby the nutrients are very bio-available to the microbes in the sewage. Large improvements in the elimination of biomass can result.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-10-10
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-10
+	</str>
+	<str name="Publication Date">
+		2010-06-15
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/630 | 210/603 | 210/623 | 210/613
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7915749 | US8154138
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US20050040103 | US5851404 | US6808636 | US20020185456 | US4460470 | US5846425 | US4443337
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Assignee(s)">
+		LYSTEK INTERNATIONAL INC.
+	</str>
+	<str name="1st Assignee">
+		LYSTEK INTERNATIONAL INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Waterloo, Ontario, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Waterloo, Ontario, CA
+	</str>
+	<str name="Inventor(s)">
+		LUGOWSKI, ANDREW, JERRY | NAKHLA, GEORGE, FOUAD | SINGH, AJAY | WARD, OWEN, PATRICK | MOSHER, FREDERICK, ALAN
+	</str>
+	<str name="1st Inventor">
+		LUGOWSKI, ANDREW, JERRY
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Toronto, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Toronto, CA | Woodbridge, CA | Milton, CA | Waterloo, CA | Petersburg, CA
+	</str>
+	<str name="Agent/Attorney">
+		ANTHONY ASQUITH CORP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

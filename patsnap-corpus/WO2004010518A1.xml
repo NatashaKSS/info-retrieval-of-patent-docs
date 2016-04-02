@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2004010518A1
+	</str>
+	<str name="Application Number">
+		PCT/EP2002/013105
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		SMALL-SCALE ELECTRICAL UNIT, ESPECIALLY A TOOTHBRUSH
+	</str>
+	<str name="Abstract">
+		The invention relates to a small-scale electrical unit for personal use, especially a toothbrush, comprising an electronic module, especially a drive, a switch for switching the electrical component on and off, and a battery compartment for receiving a battery or an accumulator for supplying energy to the electrical component. The inventive electrical unit is provided with an automatic switching device which forces said switch into its switching-on position when the battery is inserted into the battery compartment. The drive or the corresponding electrical component is immediately actuated, independently of the initial position of the switch, such that, before the battery compartment is closed, it can be immediately established whether the battery has been successfully inserted. According to the invention, the switching device is embodied in such a way that the switch is only actuated when the battery is inserted with the correct polarity.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-11-22
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-11
+	</str>
+	<str name="Publication Date">
+		2004-01-29
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-01
+	</str>
+	<str name="All IPC">
+		A61C17/22 | H01H9/02 | H01M2/34 | H01H3/16
+	</str>
+	<str name="IPC Primary">
+		A61C17/22
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61C
+	</str>
+	<str name="IPC Group">
+		A61C17
+	</str>
+	<str name="Family Members">
+		DE10233544A1 | WO2004010518A1 | AU2002352092A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		None
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		EP2015389A1
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4690878 | US5631098
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		10233544.3
+	</str>
+	<str name="Priority Date">
+		2002-07-23
+	</str>
+	<str name="Assignee(s)">
+		BRAUN GMBH
+	</str>
+	<str name="1st Assignee">
+		BRAUN GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Frankfurter Strasse 145, 61476 Kronberg, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Frankfurter Strasse 145, 61476 Kronberg, DE
+	</str>
+	<str name="Inventor(s)">
+		FRITSCH, THOMAS | HARMS, MICHAEL | HILFINGER, PETER | SCHWARZ-HARTMANN, ARMIN
+	</str>
+	<str name="1st Inventor">
+		FRITSCH, THOMAS
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Hollergewann, 12, 65817, Eppstein, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Hollergewann, 12, 65817, Eppstein, DE | Freiligrathstrasse, 41, 61440, Oberursel, DE | Gartenfeldstrasse, 83, 61350, Bad, Homburg, DE | Bahnhofstrasse, 46, 55234, Wendelsheim, DE
+	</str>
+	<str name="Agent/Attorney">
+		BRAUN GMBH, FRANKFURTER STRASSE 145, 61476 KRONBERG, DE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

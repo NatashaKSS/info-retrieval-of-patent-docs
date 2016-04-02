@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090268039A1
+	</str>
+	<str name="Application Number">
+		US12111349
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS AND METHOD FOR OUTPUTTING MULTIMEDIA AND EDUCATION APPARATUS BY USING CAMERA
+	</str>
+	<str name="Abstract">
+		An apparatus and method for outputting multimedia and an education apparatus by using camera are disclosed, wherein an object is photographed by a camera, feature points are extracted from images of the photographed object and multimedia corresponding to images that accords the most with the feature points are outputted from a database, such that an output speed of the multimedia can be increased.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-04-29
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-04
+	</str>
+	<str name="Publication Date">
+		2009-10-29
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		H04N5/225 | G06K9/34
+	</str>
+	<str name="IPC Primary">
+		H04N5/225
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04N
+	</str>
+	<str name="IPC Group">
+		H04N5
+	</str>
+	<str name="All UPC">
+		348/373 | 348/E05.026 | 382/177 | 348/207.1 | 348/E5.024 | 348/E05.024 | 348/E5.026
+	</str>
+	<str name="UPC Primary">
+		348/373
+	</str>
+	<str name="UPC Class">
+		348
+	</str>
+	<str name="Family Members">
+		US20090268039A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		11134908
+	</str>
+	<str name="Priority Date">
+		2008-04-29
+	</str>
+	<str name="Inventor(s)">
+		YI MAN HUI
+	</str>
+	<str name="1st Inventor">
+		YI MAN HUI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Seoul,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul,KR
+	</str>
+	<str name="Agent/Attorney">
+		LEE, HONG, DEGERMAN, KANG &amp; WAIMEY
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

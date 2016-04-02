@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7540958
+	</str>
+	<str name="Application Number">
+		US11/074067
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Device for controlling blood circulation for a single needle circuit
+	</str>
+	<str name="Abstract">
+		Device for extracorporeal treatment of blood 1 intended to operate in a mode with a single needle 2, comprising: a treatment unit 3 having a first compartment 4 and a second compartment 5, which are separated by a semipermeable membrane 6, an extracorporeal blood circuit comprising a single needle 2, an intake line 7 in fluid communication with the first compartment 4 of the treatment unit 3, the first compartment 4, and a return line 8 in fluid communication with the first compartment 4 of the treatment unit 3, a purge line 9 at the outlet of the second compartment 5, a closure means (10, 11) acting on at least the intake line 7 and the return line 8 in order to generate the alternate sequence of blood intake and return, at least a first chamber 12 which is in fluid communication with the extracorporeal blood circuit and defines a first additional blood volume, the first chamber 12 having a variable total content; the first chamber 4 being rigid and including at least one wall capable of being moved, the device including a means 19 acting on the chamber 12 in order to modify the volume of the chamber 12, making it possible to store blood during the arterial phase and release blood during the venous phase.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-03-08
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2009-06-02
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		B01D61/28 | B01D61/18
+	</str>
+	<str name="IPC Primary">
+		B01D61/28
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/258 | 210/102 | 210/103 | 210/104 | 210/252 | 210/257.2 | 210/321.6 | 210/645 | 210/646 | 210/650 | 210/85 | 210/86 | 210/87 | 210/90 | 210/96.1 | 210/97 | 604/5.01 | 604/65 | 604/67
+	</str>
+	<str name="UPC Primary">
+		210/258
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7540958 | US20050205476A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		International Preliminary Report on Patentability of International Application No. PCT/IB2005/000468. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US7914049
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4758336 | US4940455 | US5015226 | US5227049 | US5318511 | US5910252 | US6645166 | DE3720664 | EP0071951 | EP0392304 | EP0462422 | EP1184046 | FR2548906 | FR2632360 | FR2672217 | FR2672219 | WO2001008557
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0402381
+	</str>
+	<str name="Priority Date">
+		2004-03-08
+	</str>
+	<str name="Assignee(s)">
+		GAMBRO LUNDIA AB
+	</str>
+	<str name="1st Assignee">
+		GAMBRO LUNDIA AB
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		SE
+	</str>
+	<str name="Assignee(s) Address">
+		SE
+	</str>
+	<str name="Inventor(s)">
+		CHEVALLET, JACQUES | ROMARIE, JEAN-LOUIS | FRUGIER, ALAIN
+	</str>
+	<str name="1st Inventor">
+		CHEVALLET, JACQUES
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Serezin, du, Rhone, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Serezin, du, Rhone, FR | Decines, Charpieu, FR | Tignieu, FR
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp; DUNNER L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		KIM, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7381310
+	</str>
+	<str name="Application Number">
+		US10492509
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Installation used to obtain salt-free sea water at a low temperature with continuous operation and enthalpy recovery
+	</str>
+	<str name="Abstract">
+		A sea water desalination installation that employs an evaporation-condensation system which operates continuously at a low temperature and which enables the recovery of energy released. The installation includes a cylindrical evaporator having a large evaporation surface and a concentric condenser with a large surface area. Sea water is used to cool the condenser and said water is subsequently sent to the evaporator. A static high-pressure ventilator is used to: (i) drive the vapor/air in a closed circuit between the evaporator and the condenser and (ii), using a calibrated nozzle, create a pressure gradient that is equivalent to the pressure of the saturated vapor at working temperature between said two zones. The aforementioned evaporator and condenser are thermally insulated in relation to one another and to the external environment.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-10-11
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-10
+	</str>
+	<str name="Publication Date">
+		2008-06-03
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All IPC">
+		B01D3/02 | C02F1/04 | B63J1/00
+	</str>
+	<str name="IPC Primary">
+		B01D3/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D3
+	</str>
+	<str name="All UPC">
+		203/DIG.18 | 202/176 | 203/DIG.17 | 203/40 | 159/DIG.2 | 159/43.1 | 202/201 | 202/203 | 202/187 | 202/197 | 202/189 | 202/185.4 | 203/22 | 203/10 | 203/27
+	</str>
+	<str name="UPC Primary">
+		203/DIG.18
+	</str>
+	<str name="UPC Class">
+		203
+	</str>
+	<str name="Family Members">
+		US20050011743A1 | ES2185514B1 | ES2185514A1 | US7381310 | WO2003033412A1 | EP1443025A1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References">
+		International Search Report for Patent Application No. PCT/ES02/00484, dated Jan. 16, 2003. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US8353341 | US7897019 | US8083902 | US8252092 | US8292272
+	</str>
+	<str name="Cited By Count">
+		5
+	</str>
+	<str name="Cites">
+		US4269663 | US4863567 | US4441963 | US5951825 | US4880504 | US20050045466 | US20020011075 | US5111856 | US1966938 | US3619378 | US3190817 | DE3712785 | ES2087819 | ES2155758
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		ES
+	</str>
+	<str name="Priority Number">
+		200102272
+	</str>
+	<str name="Priority Date">
+		2001-10-13
+	</str>
+	<str name="Inventor(s)">
+		HERNANDEZ, HERNANDEZ, MARIA, FERNANDO | FERNADNEZ, DE, MAZARAMBROZ, BERNABEU, FRANCISCO
+	</str>
+	<str name="1st Inventor">
+		HERNANDEZ, HERNANDEZ, MARIA, FERNANDO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		E-28400, Collado, Villalba, ES
+	</str>
+	<str name="Inventor(s) Address">
+		E-28400, Collado, Villalba, ES | E-28230, Las, Rozas, ES
+	</str>
+	<str name="Agent/Attorney">
+		KIRKPATRICK &amp; LOCKHART PRESTON GATES ELLIS LLP
+	</str>
+	<str name="Primary Examiner">
+		MANOHARAN, VIRGINIA
+	</str>
+	<str name="cited by within 3 years">
+		4
+	</str>
+	<str name="cited by within 5 years">
+		4
+	</str>
+</doc>
+

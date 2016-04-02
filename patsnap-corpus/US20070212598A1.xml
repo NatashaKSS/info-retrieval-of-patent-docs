@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070212598A1
+	</str>
+	<str name="Application Number">
+		US11714380
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Apparatus for controlling temperature of secondary battery, vehicle battery pack, and computer-readable medium storing program for controlling temperature of secondary battery
+	</str>
+	<str name="Abstract">
+		A battery ECU reduces temperature variations and voltage variations, which would otherwise be caused at the time of heating of a secondary battery. The battery ECU activates a heater, to thus perform heating, when the temperature of the secondary battery is lower than a predetermined lower-limit temperature. The battery ECU calculates temperature variations .DELTA.T or open circuit voltage variations .DELTA.V achieved after heating operation, and compares the variations with a predetermined allowable threshold value. When the temperature variations .DELTA.T or the voltage variations .DELTA.V exceed a predetermined allowable threshold value, the battery ECU stops heating operation of the heater or commands so as to diminish the amount of heat to be generated, thereby attempting to render the temperature uniform.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-03-05
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2007-09-13
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-09
+	</str>
+	<str name="All IPC">
+		H01M1/50 | G05D23/00
+	</str>
+	<str name="IPC Primary">
+		H01M1/50
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M1
+	</str>
+	<str name="All UPC">
+		429/120 | 700/299 | 429/62 | 165/287
+	</str>
+	<str name="UPC Primary">
+		429/120
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		US20070212598A1 | JP2007244050A
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		200660683
+	</str>
+	<str name="Priority Date">
+		2006-03-07
+	</str>
+	<str name="Assignee(s)">
+		PANASONIC EV ENERGY CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		PANASONIC EV ENERGY CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kosai-shi,JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kosai-shi,JP
+	</str>
+	<str name="Inventor(s)">
+		IIDA TAKUMA | TSUTSUMI MASATERU | MATSUKAWA YASUSHI
+	</str>
+	<str name="1st Inventor">
+		IIDA TAKUMA
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kadoma-shi,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kadoma-shi,JP | Toyohashi-shi,JP | Toyohashi-shi,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

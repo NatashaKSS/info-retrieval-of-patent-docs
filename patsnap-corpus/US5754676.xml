@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5754676
+	</str>
+	<str name="Application Number">
+		US08418183
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Image classification apparatus
+	</str>
+	<str name="Abstract">
+		An image classification apparatus includes an image input device for inputting image data. A filing device stores the input image data and performs a read, retrieval, or edit operation on the data in accordance with a predetermined instruction. A normalizing unit corrects variations in various image input conditions or variations in image input devices to make the input conditions in execution agree with those in learning. A feature extracting unit extracts a feature amount effective for classification. A classification determination unit performs a classification determination operation on the basis of the feature amount obtained by the feature extracting unit. A display unit synthesizes a result of the classification determination operation with the input image, and displays the synthesized result. A learning control unit controls the feature extracting unit and the classification determination unit on the basis of the predetermined learning data. Accordingly, the classification apparatus classifies a portion of the input image which is difficult to extract by binarization or three-dimensional display alone, and displays the classified portion in an easily recognizable visual form.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-04-07
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-04
+	</str>
+	<str name="Publication Date">
+		1998-05-19
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-05
+	</str>
+	<str name="All IPC">
+		G06K9/62
+	</str>
+	<str name="IPC Primary">
+		G06K9/62
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/170 | 382/132 | 382/155
+	</str>
+	<str name="UPC Primary">
+		382/170
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP3974946B2 | JP1995284090A | US5754676
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Image Labo, Feb. 1993, pp. 19-24, Japan. No translation or author given. | Konica Technical Report, vol. 6, 1993, pp. 55-57, Konica Corp., Japan. Hitoshi et al. | Image Analysis Handbook, pp. 656-658, Miki Takagi e al, Jan., 1993, Japan.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US5497430 | US5343390 | US5465308 | US5239594 | US5031228 | US5319549
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		6070919
+	</str>
+	<str name="Priority Date">
+		1994-04-08
+	</str>
+	<str name="Assignee(s)">
+		OLYMPUS OPTICAL CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		OLYMPUS OPTICAL CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KOMIYA, YASUHIRO | NAGASAKI, TATSUO | KIMURA, XIAOHUI | WADA, TOSHIAKI | ITO, KOICHI | OMATA, YOSHINOBU
+	</str>
+	<str name="1st Inventor">
+		KOMIYA, YASUHIRO
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Hachioji, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Hachioji, JP | Yokohama, JP | Matsudo, JP | Tama, JP | Tokyo, JP | Hachioji, JP
+	</str>
+	<str name="Agent/Attorney">
+		FRISHAUF, HOLTZ, GOODMAN, LANGER &amp; CHICK
+	</str>
+	<str name="Primary Examiner">
+		BOUDREAU, LEO
+	</str>
+	<str name="Assistant Examiner">
+		KELLEY, CHRIS
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

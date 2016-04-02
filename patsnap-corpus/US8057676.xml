@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8057676
+	</str>
+	<str name="Application Number">
+		US12/303510
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Drainage water-treating method
+	</str>
+	<str name="Abstract">
+		Drainage water containing an organofluorine compound is introduced into a raw tank (1) and then filtered through a filtration device (4). Next, a microorganism, a micro-nanobubbling auxiliary agent and a nutrient are added thereto in a first transit tank (5) while micro-nanobubbles are generated thereinto by a micro-nanobubbling machine (7), thereby giving treated water. This treated water is then fed into an active carbon column (14) and then the above-described organofluorine compound contained in the treated water is decomposed by the microorganism as described above.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-05-17
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-05
+	</str>
+	<str name="Publication Date">
+		2011-11-15
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/620 | 210/618 | 210/694 | 210/617 | 210/616 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6228267 | US3763040 | US4983299 | US6056876 | US5254253 | US20030085172 | US20060054205 | US5057221 | JP2001302551 | GB2381794 | JP2003136087 | JP2007075723 | JP2003334548 | JP1988054998 | JP2004321959 | JP2004267869 | JP2003080290 | JP1995051686 | JP1998015348 | JP2004121962 | JP1999267677
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2006157955
+	</str>
+	<str name="Priority Date">
+		2006-06-07
+	</str>
+	<str name="Assignee(s)">
+		SHARP KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		SHARP KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Osaka, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s)">
+		YAMASAKI, KAZUYUKI | SAKATA, KAZUYUKI | CHUHJOH, KAZUMI | KATAOKA, MASAKI
+	</str>
+	<str name="1st Inventor">
+		YAMASAKI, KAZUYUKI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Hiroshima, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Hiroshima, JP | Fukuyama, JP | Takamatsu, JP | Sakai, JP
+	</str>
+	<str name="Agent/Attorney">
+		BIRCH, STEWART, KOLASCH &amp; BIRCH, LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7927848
+	</str>
+	<str name="Application Number">
+		US10524190
+	</str>
+	<str name="Title">
+		Method and apparatus for production of biogas from an organic material
+	</str>
+	<str name="Abstract">
+		In a method of producing biogas by anaerobic digestion of organic matter, organic matter is dried to a dry solids content of at least 50% by weight TS and pelletized and then mixed with a liquid to form a slurry. The slurry is contacted with biogas-producing bacteria for digestion under anaerobic conditions in a reactor (102) while producing biogas.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-07-07
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-07
+	</str>
+	<str name="Publication Date">
+		2011-04-19
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-04
+	</str>
+	<str name="All IPC">
+		C12P1/04 | C12P1/00 | C12P39/00 | B01D33/48 | C02F3/00 | C12P5/02
+	</str>
+	<str name="IPC Primary">
+		C12P1/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12P
+	</str>
+	<str name="IPC Group">
+		C12P1
+	</str>
+	<str name="All UPC">
+		210/600 | 435/166 | 210/603 | 435/170 | 435/41 | 435/42
+	</str>
+	<str name="UPC Primary">
+		210/600
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Angelidaki, I., et al., &quot;Methods for increasing the biogas potential from the recalcitrant organic matter contained in manure,&quot; Water Science and Technology, vol. 41, No. 3, pp. 189-194, 2000. cited by other . | Office Action dated Jul. 14, 2009 in corresponding U.S. Appl. No. 10/524,192. cited by other . | Fox et al., In &quot;Fermentation and Biochemical Engineering Handbook Principles, Process Design, and Equipment&quot;, Second Edition, Vogel et al (Eds.) 1997, Noyes Publications, Westwood, New Jersey, USA, pp. 706-733. cited by examiner . | Britannica Online Encyclopedia, http://www.britannica.com/EBchecked/topic/130867/concentrate Jul. 1, 2010. cited by examiner . | International Search Report for Corresponding PCT Application PCT/SE 03/01177 dated Sep. 9, 2003. cited by other . | Hills et al. 1981. Anaerobic Digestion of Dairy Manure and Field Crop Residues. Agricultural Wastes, vol. 3, pp. 179-189. cited by examiner . | Svenska Renhallningsverks--Foreningen, Publ 91:10, &quot;Biologisk Forgasning Av Hushallsavfall&quot;, Naturvardsverket Rapport 3982; 1991; ISBN 91-620-3982-2 and Partial Translation. cited by other . | Vasudevan et al., &quot;Advances in solid state anaerobic digestion of organic wastes&quot;, Nat. Acad. Sci. Letters, vol. 20, No. 7 &amp; 8, 1997. cited by other . | Brummeler et al., &quot;Dry Anaerobic Batch Digestion of the Organic Fraction of Municipal Solid Waste&quot;, J. Chem. Tech. Biotechnol. 1991, 50, 191-209. cited by other . | Hills, D. et al., &quot;Effects of Particle Size on Anaerobic Digestion of Tomato Solid Wastes,&quot; Agricultural Wastes, vol. 0141-4607, pp. 285-295, 1984. cited by other. | Nelson et al. 1939. Effect of Temperature of Digestion, Chemical Composition, and Size of Particles on Production of Fuel Gas From Farm Wastes. Journal of Agricultural Research, vol. 53, pp. 273-287. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cites">
+		US5554410 | US20020102673 | US6296766 | US4386159 | US4652374 | US4666605 | US4252901 | JP1997290239 | RO83589 | JP1978124510 | DE3227562 | JP1985183099 | JP2002192191
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		SE
+	</str>
+	<str name="Priority Number">
+		02024271
+	</str>
+	<str name="Priority Date">
+		2002-08-14
+	</str>
+	<str name="Assignee(s)">
+		TEKNISKA VERKEN I LINKOPING AB
+	</str>
+	<str name="1st Assignee">
+		TEKNISKA VERKEN I LINKOPING AB
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Linkoping, SE
+	</str>
+	<str name="Assignee(s) Address">
+		Linkoping, SE
+	</str>
+	<str name="Inventor(s)">
+		HOLM, STIG | EJLERTSSON, JORGEN | CARLSON, BERTIL
+	</str>
+	<str name="1st Inventor">
+		HOLM, STIG
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Linkoping, SE
+	</str>
+	<str name="Inventor(s) Address">
+		Linkoping, SE | Rimforsa, SE | Linkoping, SE
+	</str>
+	<str name="Agent/Attorney">
+		HARNESS, DICKEY &amp; PIERCE, P.L.C.
+	</str>
+	<str name="Primary Examiner">
+		WEBER, JON P
+	</str>
+	<str name="Assistant Examiner">
+		SRIVASTAVA, KAILASH C
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

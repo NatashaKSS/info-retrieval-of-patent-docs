@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5765997
+	</str>
+	<str name="Application Number">
+		US08596440
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Bubble generator for a washing machine
+	</str>
+	<str name="Abstract">
+		A bubble generator includes a body with an inlet passage and outlet passages. Pumping means which comprises a pair of bellows, a plurality of first check plates, a plurality of second check plates, a pair of permanent magnets and a pair of electromagnets are disposed between the inlet passage and the outlet passages for pressurizing the air that flows through the inlet passage into the bellows and discharges it through the outlet passages. Noise-reducing means which comprises a first pipe having the same inner diameter as that of the outlet passage, a second pipe disposed concentrically with and in the first pipe, and a plurality of ribs supporting the second pipe at the first pipe are disposed in the middle of the outlet passages, for reducing noises caused by the pressurized air which is periodically pressurized by the pumping means and discharged into the outlet passages, by dispersing the pressurized air inside the outlet passages.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-02-02
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-02
+	</str>
+	<str name="Publication Date">
+		1998-06-16
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-06
+	</str>
+	<str name="All IPC">
+		F04B39/00
+	</str>
+	<str name="IPC Primary">
+		F04B39/00
+	</str>
+	<str name="IPC Section">
+		F
+	</str>
+	<str name="IPC Class">
+		F04
+	</str>
+	<str name="IPC Subclass">
+		F04B
+	</str>
+	<str name="IPC Group">
+		F04B39
+	</str>
+	<str name="All UPC">
+		417/413.1 | 181/229 | 417/312
+	</str>
+	<str name="UPC Primary">
+		417/413.1
+	</str>
+	<str name="UPC Class">
+		417
+	</str>
+	<str name="Family Members">
+		US5765997 | JP3863588B2 | IN187263A1 | JP1996299656A
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		WO2000037730A1 | US6662600 | US8327673
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US4923035 | US4294330 | US5205719 | US4924966 | US5232353 | US5137432 | US3700069 | US3171506 | US5164552 | GB2039613
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		KR | KR
+	</str>
+	<str name="Priority Number">
+		959055 | 959056
+	</str>
+	<str name="Priority Date">
+		1995-04-29 | 1995-04-29
+	</str>
+	<str name="Assignee(s)">
+		DAEWOO ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		DAEWOO ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Seoul, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s)">
+		YOU, HAE-SANG
+	</str>
+	<str name="1st Inventor">
+		YOU, HAE-SANG
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Incheon, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Incheon, KR
+	</str>
+	<str name="Agent/Attorney">
+		BEVERIDGE, DEGRANDI, WEILACHER &amp; YOUNG LLP
+	</str>
+	<str name="Primary Examiner">
+		THORPE, TIMOTHY
+	</str>
+	<str name="Assistant Examiner">
+		KURYTNYK, PETER G.
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

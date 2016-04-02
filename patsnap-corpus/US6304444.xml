@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6304444
+	</str>
+	<str name="Application Number">
+		US09643582
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Underground centralized power supply/battery vault
+	</str>
+	<str name="Abstract">
+		An underground equipment vault for power and electronic equipment includes an airflow system in combination with an above ground forced air source. The airflow courses through separate first and second chambers including a first chamber for power supplies and a second chamber for energy storage equipment. This airflow, sequentially traversing both chambers, dissipates heat from the equipment and further dispels hydrogen gases from the batteries to the outside air. An airflow system, utilizing fans, provides positive pressure to force the desired airflow through the chambers. The vault is closed with a dual lid structure to supply supporting strength and also supply a secure seal for closing the vault. The dual construction provides an insulating space for further insulating the vault from ambient conditions.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-08-22
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-08
+	</str>
+	<str name="Publication Date">
+		2001-10-16
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-10
+	</str>
+	<str name="All IPC">
+		H05K7/20
+	</str>
+	<str name="IPC Primary">
+		H05K7/20
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		174/16.1 | 361/695 | 361/678 | 165/80.3
+	</str>
+	<str name="UPC Primary">
+		174/16.1
+	</str>
+	<str name="UPC Class">
+		174
+	</str>
+	<str name="Family Members">
+		US6304444
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US3360752 | US6006944 | US6164369
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		64358200 | 15061599
+	</str>
+	<str name="Priority Date">
+		2000-08-22 | 1999-08-24
+	</str>
+	<str name="Assignee(s)">
+		AT&amp;T CORP.
+	</str>
+	<str name="1st Assignee">
+		AT&amp;T CORP.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		New York, NY
+	</str>
+	<str name="Assignee(s) Address">
+		New York, NY
+	</str>
+	<str name="Inventor(s)">
+		COMBS, CHARLES, D. | COX, LARRY, ERNEST | HANLON, GEORGE, L.
+	</str>
+	<str name="1st Inventor">
+		COMBS, CHARLES, D.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Buffalo, MO
+	</str>
+	<str name="Inventor(s) Address">
+		Buffalo, MO | Colleyville, TX | Monroe, CT
+	</str>
+	<str name="Primary Examiner">
+		TOLIN, GERALD
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8029674
+	</str>
+	<str name="Application Number">
+		US12457107
+	</str>
+	<str name="Title">
+		Biological filter for oxidizing ammonia in drinking water treatment
+	</str>
+	<str name="Abstract">
+		A process for treatment of water to convert ammonia to nitrate including: feeding water containing dissolved ammonia, as an influent introducing water to be treated, into a packed column containing filter media as packing; introducing air through a diffuser at the bottom of the packed column to maintain the water saturated with oxygen throughout the packed column; establishing colonies of bacteria converting ammonia to nitrate within the column; and removing an ammonia-free and nitrite-fee effluent from the column.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-06-01
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-06
+	</str>
+	<str name="Publication Date">
+		2011-10-04
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		C02F3/06
+	</str>
+	<str name="IPC Primary">
+		C02F3/06
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/903 | 210/620 | 210/617
+	</str>
+	<str name="UPC Primary">
+		210/903
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4179374 | US5019268 | US7022233 | US4800021 | US6159364 | US3773660 | US5525230 | US6413427 | US4696747
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Assignee(s)">
+		THE UNITED STATES OF AMERICA AS REPRESENTED BY THE ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY
+	</str>
+	<str name="1st Assignee">
+		THE UNITED STATES OF AMERICA AS REPRESENTED BY THE ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Washington, DC); N/A
+	</str>
+	<str name="Assignee(s) Address">
+		Washington, DC); N/A
+	</str>
+	<str name="Inventor(s)">
+		LYTLE, DARREN, ALAN
+	</str>
+	<str name="1st Inventor">
+		LYTLE, DARREN, ALAN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Hamilton, OH
+	</str>
+	<str name="Inventor(s) Address">
+		Hamilton, OH
+	</str>
+	<str name="Primary Examiner">
+		UPTON, CHRISTOPHER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

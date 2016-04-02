@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7844905
+	</str>
+	<str name="Application Number">
+		US11393277
+	</str>
+	<str name="Title">
+		Information display system
+	</str>
+	<str name="Abstract">
+		A system and a method for information display that is well adapted to marketing in the current, rapidly changing digital transmission communications setting is described. The invention provides a viewer interface that can be embodied in an inexpensive portable information storage media, such as a compact disc, a mini-compact disc, a business card cut CD, a flash memory card, a DVD, or other such portable information storage devices. When the viewer interface is used with a communications link, such as an interne connection, the interface establishes a connection to an interface management program located on a remote computer. The interface management system enables the user who provided the portable information storage media for the viewer to control the content of the information displayed to the viewer, and change that content without modifying or storing any information on the viewer's display device or changing the content of the viewer interface.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-03-30
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-03
+	</str>
+	<str name="Publication Date">
+		2010-11-30
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		G06F3/14 | G06F3/00
+	</str>
+	<str name="IPC Primary">
+		G06F3/14
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F3
+	</str>
+	<str name="All UPC">
+		709/201 | 715/733 | 715/744 | 715/765
+	</str>
+	<str name="UPC Primary">
+		709/201
+	</str>
+	<str name="UPC Class">
+		709
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20040107356 | US20020114465 | US20060161635 | US20060031632 | US7334720 | US20050091338
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Inventor(s)">
+		BATEMAN, MICHAEL
+	</str>
+	<str name="1st Inventor">
+		BATEMAN, MICHAEL
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Spring, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Spring, TX
+	</str>
+	<str name="Agent/Attorney">
+		MCGREGOR, MARTIN L.
+	</str>
+	<str name="Primary Examiner">
+		BAUTISTA, X. L
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

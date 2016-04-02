@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8083069
+	</str>
+	<str name="Application Number">
+		US12/533180
+	</str>
+	<str name="Title">
+		High throughput magnetic isolation technique and device for biological materials
+	</str>
+	<str name="Abstract">
+		The present application discloses a process for the high throughput separation of at least one distinct biological material from a sample using magnetic tags and a magnetic separation set up capable of processing at least about 10.sup.6 units/second. A magnetic field gradient is used to deflect target material bearing a magnet tag from one laminar flow stream to another so that the magnetically tagged target material exits a separation chamber via a different outlet than the rest of the sample. The process is applicable to isolating several distinct biological materials by directing each via magnetic deflection to its own unique outlet. The application also discloses a system for performing the process and a kit that includes the system and the magnetic tags.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-07-31
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-07
+	</str>
+	<str name="Publication Date">
+		2011-12-27
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		B03C1/00 | B07C5/02
+	</str>
+	<str name="IPC Primary">
+		B03C1/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B03
+	</str>
+	<str name="IPC Subclass">
+		B03C
+	</str>
+	<str name="IPC Group">
+		B03C1
+	</str>
+	<str name="All UPC">
+		209/214 | 209/8 | 209/158 | 210/222 | 209/232
+	</str>
+	<str name="UPC Primary">
+		209/214
+	</str>
+	<str name="UPC Class">
+		209
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Handgretinger, et al., &quot;Biology and Plasticity of CD 133 Hematopoietic Stem Cells&quot;, Annals of New York Academy of Sc., 2003, 996:141-151. cited by other . | Zborowski, M., et al.,&quot;Continuous cell separation using novel magnetic quadrupole flow sorter&quot;, J. Magn. Magn. Mater., 1999, 194:224-230. cited by other . | Gupta, A.K., et al., &quot;Receptor-Mediated Targeting of Magnetic Nanoparticles Using Insulin as a Surface Ligand to Prevent Endocytosis&quot;, IEEE Trans. on Nanobioscience, 2003, 2:255-261. cited by other . | Zborowski, M., et al., &quot;Magnetic Cell Sorting Immunochemical Protocols&quot;, 2005, 295:291-300. cited by other. | Takayasu, M., et al., &quot;Continuous Magnetic Separation of Blood Components from Whole Blood&quot;, IEEE Trans. Appl. Superconductivity, 2000, 10:927-930. cited by other . | Busch, et al., &quot;Enrichment of Fetal Cells From Maternal Blood by High Gradient Magnetic Cell Sorting (Double Macs) For PCR-Based Genetic Analysis&quot;, Prenatal Diagn, 1994; 14:1129-1140. cited by other . | Giddings, J.C., &quot;Field-Flow Fractionation: Analysis of Macromolecular, Colloidal, and Particulate Materials&quot;, Science, vol. 260, 1993, pp. 1456-1465. cited by other . | Pamme, N. et al., &quot;Continous sorting of magnetic cells via on-chip free-flow magnetophoresis&quot;, Lab Chip, 2006, 6:974-980. cited by other . | Gupta, P.K. et al., &quot;Magnetically Controlled Targeted Micro-Carrier Systems&quot;, Life Sci., 1989, 44:175-186. cited by other . | Schmitz, J., et al., &quot;Optimizing follicular dendritic cell isolation by discontinuous gradient centrifugation and use of the magnetic cell sorter (MACS)&quot;, Journal of Immunological Methods, 159 (1993) 189-196. cited by other . | Seidl, J., et al., &quot;Evaluation of Membrane Physiology Following Fluorescence Activated or Magnetic Cell Separation&quot;, Cytometry, 1999, 36:102-111. cited by other . | de Wynter, E. W., et al., &quot;Comparison of Purity and Enrichment of CD34' Cells from Bone Marrow, Umbilical Cord and Peripheral Blood (Primed for Apheresis) Using Five Separation Systems&quot;, Stem Cells, 1995, 13:524-532. cited by other . | Kato, K. et al., &quot;Isolation and Characterization of CD34 + Hematopoietic Stem Cells From Human Peripheral Blood by High-Gradient Magnetic Cell Sorting&quot;, Cytometry, 1993, 14:384-392. cited by other . | Fuh, C. B., et al., &quot;Development of magnetic split-flow thin fractionation for continuous particle separation&quot;, Anal. Chim Acta, 2003, 497:115-122. cited by other . | Leary, J.F., &quot;Ultra High-Speed Sorting&quot;, Cytometry A, 2005, 67A:76-85. cited by other . | Happel, J. et al., &quot;Low Reynolds Number Hydrodynamics&quot;, Prentice Hall Inc. Publisher, Englewood Cliffs, NJ, US, pp. 273-285 (1965). cited by other . | Krishnamurthy, H., et al., &quot;Quantification of Apoptotic Testicular Germ Cells in Normal and Methoxyacetic Acid-Treated Mice as Determined by Flow Cytometry&quot;, J Androl, 1998, 19:710-717. cited by other . | Weissman, I. L., &quot;Translating Stem and Progenitor Cell Biology to the Clinic: Barriers and Opportunities&quot;, Science, 2000, 287:1442-1446. cited by other . | Adams, J. D., et al., &quot;Multitarget magnetic activated cell sorter&quot;, Proc. National Academy of Sciences, 2008, 105:18165-18170. cited by other . | Semple, J.W., et al., &quot;Rapid Separation of CD4 + and CD19 + Lymphocyte Populations From Human Peripheral Blood by a Magnetic Activated Cell Sorter (MACS)&quot;, Cytometry 1993, 14:955-960. cited by other . | Zborowski, M, et al., &quot;Red Blood Cell Magnetophoresis&quot;, Biophysical J., 2003, 84:2638-2645. cited by other . | Schmitz, B., et al., &quot;Magnetic activated cell sorting (MACS)--a new imrnunomagnetic method for megakaryocytic cell isolation: Comparison of different separation techniques&quot;, Eur J Haematol 1994; 52:267-275. cited by other . | Hartig, R., et al., &quot;Preparative continuous separation of biological particles by means of free-flow magnetophoresis in a free-flow electrophoresis chamber&quot;, Electrophoresis, 1992, 13:674-676. cited by other . | Powles, R., et al., &quot;Allogeneic blood and bone-marrow stem-cell transplantation in haematological malignant diseases: a randomised trial&quot;, Lancet, 2000, 355:1231-1237. cited by other . | Hansel, T.T., et al., &quot;An improved immunomagnetic procedure for the isolation of highly purified human blood eosinophils&quot;, J Immunol Methods, 1991, 145:105-110. cited by other .
+	</str>
+	<str name="Other References Count">
+		25
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6413420 | US20090047297 | US20080124779 | US5981297 | US20040065593 | US6120735 | US3463319 | US5543289 | US20090139908 | US20040108253 | US6929750 | US4375407 | US5976369 | US20050110176 | US7179391 | US20040219066 | US6432630 | US6241894 | US20090197329 | US6020210 | US7332352 | US20020000398 | US5693539 | US4913883 | US4941969 | US20020137226 | US20020166800 | US6417011 | US20090220932 | US6126835 | US4816143 | US6297061 | US3970518 | US20090078614 | US7360657 | US20080152939 | US6597176 | US6013188 | US6437563 | US6713299 | US20050013741 | US6337215 | US4769130 | US5514340 | US20020146848 | US20020162798 | US5411863 | US6657713 | US20020074266 | US20050035030 | US20050274650 | US20030052426 | US20080283792 | US6849186 | US20090044619 | US20030186465 | US7232691 | US7226537 | US20090092837 | US5458785 | US20040235196 | WO1991011716 | WO1991012079 | WO2008127292 | DE3827252
+	</str>
+	<str name="Cites Count">
+		65
+	</str>
+	<str name="Assignee(s)">
+		GENERAL ELECTRIC COMPANY
+	</str>
+	<str name="1st Assignee">
+		GENERAL ELECTRIC COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Niskayuna, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Niskayuna, NY
+	</str>
+	<str name="Inventor(s)">
+		MURTHY, SUNIL, SRINIVASA | DULGAR-TULLOCH, AARON, JOSEPH | BRAY, JAMES, WILLIAM | CHANDRASEKARAN, SHANKAR | TIWARI, ARVIND, KUMAR
+	</str>
+	<str name="1st Inventor">
+		MURTHY, SUNIL, SRINIVASA
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Bangalore, IN
+	</str>
+	<str name="Inventor(s) Address">
+		Bangalore, IN | Ballston, Spa, NY | Niskayuna, NY | Chennai, IN | Bangalore, IN
+	</str>
+	<str name="Agent/Attorney">
+		HAECKL, JENIFER E.
+	</str>
+	<str name="Primary Examiner">
+		RODRIGUEZ, JOSEPH C
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

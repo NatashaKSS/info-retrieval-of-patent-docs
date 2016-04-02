@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7722820
+	</str>
+	<str name="Application Number">
+		US11285531
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and device for sample preparation
+	</str>
+	<str name="Abstract">
+		The invention provides extraction columns for the purification of an analyte (e.g., a biological macromolecule, such as a peptide, protein or nucleic acid) from a sample solution, as well as methods for making and using such columns. The columns typically include a bed of extraction media positioned in the column, often between two frits. In some embodiments, the extraction columns employ modified pipette tips as column bodies. In some embodiments, the invention provides methods characterized by the use of hydrophobic and/or hydrophilic membranes as frits, and/or by the inclusion of a wad of fibrous material to act as a wicking agent.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-11-21
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2010-05-25
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		436/161 | 422/100 | 210/198.2 | 422/101 | 436/178 | 436/177 | 210/656
+	</str>
+	<str name="UPC Primary">
+		436/161
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8148168
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6416716 | US5437979 | US7482169 | US4131544 | US20040072375 | US6482362 | US20030178370 | US6770246 | US20020110495 | US5368729 | US5833927 | US5863428 | US6045757 | US6200474 | US5595653 | US6479300 | US5443734 | US5171537 | US5512168 | US5849249 | US6566145 | US20030007897 | US6048457 | US6117394 | US5556598 | US20020009809 | US5187990 | WO2004007081 | WO1998009201 | WO1998037949 | EP1095703 | WO2001007162 | EP1139087
+	</str>
+	<str name="Cites Count">
+		33
+	</str>
+	<str name="Assignee(s)">
+		PHYNEXUS, INC.
+	</str>
+	<str name="1st Assignee">
+		PHYNEXUS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Jose, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Jose, CA
+	</str>
+	<str name="Inventor(s)">
+		GJERDE, DOUGLAS, T. | BURGE, ALLEN | JONES, RONALD | ABEL, MARK
+	</str>
+	<str name="1st Inventor">
+		GJERDE, DOUGLAS, T.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Saratoga, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Saratoga, CA | Sunnyvale, CA | Morgan, Hill, CA | San, Jose, CA
+	</str>
+	<str name="Agent/Attorney">
+		KALMAN, SUE S.
+	</str>
+	<str name="Primary Examiner">
+		HILL, JR., ROBERT J
+	</str>
+	<str name="Assistant Examiner">
+		GERIDO, DWAN A
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

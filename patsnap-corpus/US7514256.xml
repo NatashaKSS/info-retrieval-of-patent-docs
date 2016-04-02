@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7514256
+	</str>
+	<str name="Application Number">
+		US11056725
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Bioreactor for selectively controlling the molecular diffusion between fluids
+	</str>
+	<str name="Abstract">
+		A diffusion controlling bioreactor that selectively controls the molecular diffusion between fluids through a microchannel in fluid communication with a reaction reservoir. The length and cross-sectional area are selected to obtain a predetermined rate of molecular diffusion between fluids. When the fluids are liquids, flow through the microchannel is laminar and the capillary action of the microchannel and fluid is such that the fluid does not flow into the reaction reservoir unless the pressure of the fluid is increased by an external source, thereby minimizing contamination of the bioreactor. The instant invention may also utilize at least one microchannel and reagent reservoir to regulate, rather than prevent, the passage of various molecules into the bioreactor. A pressure equalizing vent operating on similar principles to the microchannel may have a structure configured to minimize the chances of fluid leakage from the bioreactor, even if the bioreactor is turned in various directions.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-02-11
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-02
+	</str>
+	<str name="Publication Date">
+		2009-04-07
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		C12M3/00
+	</str>
+	<str name="IPC Primary">
+		C12M3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12M
+	</str>
+	<str name="IPC Group">
+		C12M3
+	</str>
+	<str name="All UPC">
+		435/286.6 | 210/120 | 210/150 | 435/293.1 | 435/289.1 | 210/206 | 210/436 | 435/294.1
+	</str>
+	<str name="UPC Primary">
+		435/286.6
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		EP1855776A2 | US7514256 | WO200806086552A3 | US20060180529A1 | WO2006086552A2
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Fujitani/Kasai/Ohtani/Nishimura/Yamada/Utsumi, Effect of Oxygen Concentration and Free Radicals on In Vitro Development of In Vitro-Produced Bovine Embryos, J. Anim. Sci. 1997. cited by other . | Watson/Watson/Warnes/Walker/Armstrong/Seamark, Preimplantation Development of In Vitro-Matured and In Vitro-Fertilized Ovine Zygotes, Biology of Reproduction 1994. cited by other . | Dumoulin/Meijers/Bras/Coonen/Geraedts/Evers, Effect of Oxygen Concentration on Human in-vitro Fertilization and Embryo Culture, Human Reproduction 1999, vol. 14/No. 2. cited by other . | Lewus/Ford, Temperature-Sensitive Motility of SUlfolobus acidocaldarius Influences Population Distribution in Extreme Environments, Journal of Bacteriology Jul. 1999, vol. 181. cited by other . | International Search Report and Written Opinion of the International Searching Authority for International Application No. PCT/US06/04578, mailed Apr. 8, 2008, 5 pages. cited by other. | Shioi/Dang/Taylor, Oxygen As Attractant and Repellent in Bacterial Chemotaxis, Journal of Bacteriology Jul. 1987, vol. 169/No. 7. cited by other . | Liu/Papadopoulos, Unidirectional Motility of Escherichia coli in Restrictive Cpillaries, Applied and Environmental Microbiology Oct. 1995, vol. 61. cited by other . | Hoyle/'Alcantara/Costerton, Pseudomonas aeruginosa Biofilm as a Diffusion Barrier to Piperacillin, Antimicrobial Agents and Chemotherapy Sep. 1992. cited by other . | Rancourt/Keng/Helt/O'Reilly, The Role of p21 in Growth of Epithelial Cells Exposed to Hyperoxia, Am J Physiol Lung Cell Mol Physiol 2001. cited by other . | Satnoianu/Maini/Garduno/Armitage, Travelling Waves in a Nonlinear Degerate Diffusion Model, Discrete and Continuous Dynamical Systems Aug. 2001, vol. 1/No. 3. cited by other . | Nikaido, Hiroshi, Prevention of Drug Access to Bacterial Targets: Permeability Barriers and Active Flux, Science Apr. 15, 1994, vol. 264. cited by other . | Eisenbach, Michael, Bacterial Chemotaxis, Encyclopedia of Life Sciences 2001. cited by other . | Pool, Thomas B., Recent Advances in the Production of Viable Human Embryos in vitro, Reproductive BioMEdicine Online Feb. 11, 2002, vol. 4/No. 3. cited by other . | Bauwens/Yin/Dang/Peerani/Zandstra, Development of a Perfusion Fed Bioreactor for Embryonic Stem Cell-Derived Cardiomyocyte Generation, Wiley InterScience Mar. 18, 2005. cited by other .
+	</str>
+	<str name="Other References Count">
+		14
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4495289 | US5686301 | US4296205 | US6043079 | US5622857 | US5554536 | US20040005699 | US6811968 | US6334968 | US5707869 | US4537860 | US5686304 | US3732149 | US4546083 | US5710043 | US20030064507 | US5256570 | US6114165 | US5736399 | US5443985 | US5523236 | US4676274 | US5801054 | US4208483 | US5398837 | US6312952 | US4178209 | US5254471 | US3827943 | US20020187564 | US6303375 | US5972369 | US6010633 | US6037171 | US20020076350 | US20020072113 | US4220725 | US5283187 | US20040112751 | US5026650 | US4242459 | US6271027 | US5010013 | US4012288 | US4184916 | US4680266 | US3853712 | US4321330 | US6455310 | US5672507 | US4514499 | US6228636 | US4657867 | US5639423 | US4995974 | US5800785 | US5785964 | US3948732 | US5272084 | US5290700 | US6150159 | US5166067 | US4377639 | US4349632 | US20020172621 | US6329195 | US5928936 | US4242460 | US5416022 | US20020058329 | US5958762 | US4317886 | US20020052049 | US6293162 | US4435508 | US5702945 | US4661458 | US5932100 | US6284451 | USD243705 | US6001643 | US4391912 | US5079168 | US4670398 | US4426451 | US20040029266 | US5863792 | US5587128 | US4639422 | US5240854 | US4241187 | US5858721 | EP0878539 | WO2002042419 | WO2002038460 | WO2002042421 | WO2002041969
+	</str>
+	<str name="Cites Count">
+		97
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		5672505
+	</str>
+	<str name="Priority Date">
+		2005-02-11
+	</str>
+	<str name="Inventor(s)">
+		BARBERA-GUILLEM, EMILIO
+	</str>
+	<str name="1st Inventor">
+		BARBERA-GUILLEM, EMILIO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Powell, OH
+	</str>
+	<str name="Inventor(s) Address">
+		Powell, OH
+	</str>
+	<str name="Agent/Attorney">
+		GALLAGHER, MICHAEL J. DAWSEY, DAVID J. GALLAGHER &amp; DAWSEY CO., LPA
+	</str>
+	<str name="Primary Examiner">
+		BEISNER, WILLIAM H
+	</str>
+	<str name="Assistant Examiner">
+		HOBBS, MICHAEL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

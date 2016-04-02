@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20060045348A1
+	</str>
+	<str name="Application Number">
+		US11256454
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Method and apparatus for automated cellular bioinformatics
+	</str>
+	<str name="Abstract">
+		An automated system that conducts, monitors, and validates a cell-line-based biological experiment including one or more treatment compounds or other external stimuli. In one preferred embodiment, the system comprises two principal subsystems, and optionally accessory subsystems. A first principal subsystem is an automated laboratory experiment manager for designing the biological experiment, for constructing an assay plate used to conduct the biological experiment, and for managing one or more of the processes that constitute the biological experiment. A second principal subsystem is an automated data analysis manager for analyzing images, for instance produced by the image production system, to detect image data including biological markers and objects, for analyzing the resulting image data to produce biological data, and for analyzing the biological data to produce biological phenotypes and treatment compound signatures.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-10-19
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-10
+	</str>
+	<str name="Publication Date">
+		2006-03-02
+	</str>
+	<str name="Publication Year">
+		2006
+	</str>
+	<str name="Publication(Year/Month)">
+		2006-03
+	</str>
+	<str name="All IPC">
+		G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/190
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20040117124A1 | US20060045348A1 | US6999607
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US | US | US
+	</str>
+	<str name="Priority Number">
+		25645405 | 46718304 | 0205266 | 27031401
+	</str>
+	<str name="Priority Date">
+		2005-10-19 | 2004-01-12 | 2002-02-20 | 2001-02-20
+	</str>
+	<str name="Assignee(s)">
+		CYTOKINETICS, INC. A DELAWARE CORPORATION
+	</str>
+	<str name="1st Assignee">
+		CYTOKINETICS, INC. A DELAWARE CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		KIROS ESKINDER | LING PING | MULLER ROBERT | VENKAT RAMESH | ZINK WESLEY
+	</str>
+	<str name="1st Inventor">
+		KIROS ESKINDER
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		San Jose,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		San Jose,CA,US | San Bruno,CA,US | San Francisco,CA,US | Fremont,CA,US | San Francisco,CA,US
+	</str>
+	<str name="Agent/Attorney">
+		BEYER WEAVER &amp; THOMAS LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

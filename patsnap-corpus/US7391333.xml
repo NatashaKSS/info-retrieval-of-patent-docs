@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7391333
+	</str>
+	<str name="Application Number">
+		US11236088
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System for monitoring quality of water system
+	</str>
+	<str name="Abstract">
+		A monitoring, detection and alarm for water systems includes a plurality of sensing components for detecting the presence of target contaminants in water and for measuring the overall quality of the water. The apparatus contains water sensing components, a database for storing sensor data and processors for data analysis using artificial intelligence. The apparatus provides control logic to take responsive action based on the results of the detection of the target contaminants. Responsive action includes, but is not limited to, generation of reports and alarm signals that are delivered in near real-time to users of the system.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-09-27
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2008-06-24
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All IPC">
+		G08B21/00 | G01N33/00
+	</str>
+	<str name="IPC Primary">
+		G08B21/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G08
+	</str>
+	<str name="IPC Subclass">
+		G08B
+	</str>
+	<str name="IPC Group">
+		G08B21
+	</str>
+	<str name="All UPC">
+		210/739 | 73/61.41 | 340/603
+	</str>
+	<str name="UPC Primary">
+		210/739
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		CA2581707A1 | EP1794583A1 | US20070257806A1 | US7391333 | WO2006036929A1
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20050043059 | US20030236649 | US6591166 | US6560543 | US4323992 | US4246101 | US6954701 | WO1995026008 | EP0707247 | WO1997026606 | EP0334113 | DE29912126 | JP1989315393
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		23608805 | 61361904
+	</str>
+	<str name="Priority Date">
+		2005-09-27 | 2004-09-27
+	</str>
+	<str name="Assignee(s)">
+		SOURCE SENTINEL, LLC
+	</str>
+	<str name="1st Assignee">
+		SOURCE SENTINEL, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Syracuse, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Syracuse, NY
+	</str>
+	<str name="Inventor(s)">
+		MADDEN, TERRANCE, P. | CAMPBELL, CHRISTOPHER | MURPHY, CORNELIUS | BROWER, MICHAEL, R.
+	</str>
+	<str name="1st Inventor">
+		MADDEN, TERRANCE, P.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Syracuse, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Syracuse, NY | Rome, NY | Syracuse, NY | Syracuse, NY
+	</str>
+	<str name="Agent/Attorney">
+		MCGUIRE, GEORGE R. BOND SCHOENECK &amp; KING, PLLC
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D.
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

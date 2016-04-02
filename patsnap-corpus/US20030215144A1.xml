@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20030215144A1
+	</str>
+	<str name="Application Number">
+		US10438074
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Additional image extraction apparatus and method for extracting additional image
+	</str>
+	<str name="Abstract">
+		A synthetic image print system has an additional image extraction function for extracting additional images based on extraction criteria. An additional image extraction program, the data of each additional image, and an additional image feature information file listing features of each additional image are stored on storage. Of all additional images, the additional images with the feature information corresponding with the extraction criteria are extracted. The features of a photographed image, a search keyword inputted by a user, the user profile information and the like are used as the extraction criteria.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-05-15
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-05
+	</str>
+	<str name="Publication Date">
+		2003-11-20
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-11
+	</str>
+	<str name="All IPC">
+		G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/190
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20030215144A1 | JP2003333319A
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2002141981
+	</str>
+	<str name="Priority Date">
+		2002-05-16
+	</str>
+	<str name="Assignee(s)">
+		FUJI PHOTO FILM CO., LTD. | HITACHI SOFTWARE ENGINEERING CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		FUJI PHOTO FILM CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		EIICHI KITO | SHINJI ITO | HIROAKI NAKAMURA | KAZUYUKI TANAKA | TSUYOSHI OTA
+	</str>
+	<str name="1st Inventor">
+		EIICHI KITO
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa,JP | Kanagawa,JP | Kanagawa,JP | Kanagawa,JP | Tokyo,JP
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

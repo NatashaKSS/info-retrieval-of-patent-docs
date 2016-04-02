@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7404899
+	</str>
+	<str name="Application Number">
+		US10988758
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water treatment system
+	</str>
+	<str name="Abstract">
+		The process for irrigation of a man-made landscaped area, such as a golf course, playing field or agricultural area, involves monitoring a sample of reclaimed water, a sample of soil containing reclaimed water, or both from a supply of reclaimed water, and treating it when necessary to avoid harmful effects to plantlife, and irrigating with the treated water via a subterranean distribution system. The sample is tested with monitors for water quality characteristics, including: total organic carbon compounds; pH; residual chlorine; chlorides; and, sodium. These results are inputted to a computerized data handling system for data collection, storage and analysis for comparison to predetermined acceptable ranges to show deviation from acceptable ranges. Either alarms are set off or treatment occurs or both, when deviations are observed. Treatment may include a dechlorination system, an oxidation system, reverse osmosis system. Other monitors may be for hardness; turbidity; alkalinity; conductivity and nitrates.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-11-15
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-11
+	</str>
+	<str name="Publication Date">
+		2008-07-29
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-07
+	</str>
+	<str name="All IPC">
+		B01D61/12
+	</str>
+	<str name="IPC Primary">
+		B01D61/12
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/652 | 210/749 | 210/739 | 210/806 | 405/37
+	</str>
+	<str name="UPC Primary">
+		210/652
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7404899 | US20050127010A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References">
+		Internet Document: &quot;Shortland wastewater treatment plant&quot; brochure; Mar. 31, 2000. cited by examiner . | &quot;Wastewater Technology Fact Sheet, Dechlorination,&quot;, United States Environment Protection Agency, Office of Water Washington, D.C. , EPA-832-F-00-022, Sep. 2000, downloaded from the internet Nov. 27, 2007. cited by examiner. | Internet Document: &quot;Sewage monitoring&quot;, Jennifer M. Larson from LLNL Environment Report for 1995. cited by examiner . | Internet Document: &quot;Journal Environment Monitoring,2 pages 161-163 by Edward Urbansky et al, Article entitled&quot;Ascorbic acid reduction of active chlorine prior to deteremining mutagenicity of chlorinated narural organic matter (NOM) published 2000. cited by examiner . | Internet Document: Managing Sewage Discharges to Inland Waters:, EPA Publication 473 of Dec. 1995, EPA Victoria, 1995. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By">
+		US8191307 | US7572378
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US5893975 | US5997745 | US6620329 | US5944444 | US6214607 | US6421953 | US5863433 | US5120158 | US6132138 | US6200466 | US5975800 | US5590980 | US6221257 | US6117335 | US6136186 | US6472223 | US5958241 | US6955765 | US4867192 | US5792336
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Priority Country">
+		US | US | US | US
+	</str>
+	<str name="Priority Number">
+		98875804 | 41774003 | 46433003 | 2256801
+	</str>
+	<str name="Priority Date">
+		2004-11-15 | 2003-04-17 | 2003-06-18 | 2001-12-13
+	</str>
+	<str name="Assignee(s)">
+		TURF SENTRY, INC.
+	</str>
+	<str name="1st Assignee">
+		TURF SENTRY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Scottsdale, AZ
+	</str>
+	<str name="Assignee(s) Address">
+		Scottsdale, AZ
+	</str>
+	<str name="Inventor(s)">
+		ROSEN, PETER, L. | HODGES, ROBERT, D.
+	</str>
+	<str name="1st Inventor">
+		ROSEN, PETER, L.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Costa, Mesa, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Costa, Mesa, CA | Birch, Bay, WA
+	</str>
+	<str name="Agent/Attorney">
+		GLYNN, ESQ., KENNETH P.
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

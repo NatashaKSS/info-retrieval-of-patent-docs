@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1287490A2
+	</str>
+	<str name="Application Number">
+		EP2001900058
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		AUTOMATIC PERSONALIZED MEDIA CREATION SYSTEM
+	</str>
+	<str name="Abstract">
+		An automatic personalized media creation system provides a capture area for a user. A performance of the user is automatically captured. The video and/or audio of the performance is recorded using a video camera that is automatically adjusted to the user's physical dimensions and position. The performance is analyzed for acceptability and the user is asked to re-perform the desired actions if the performance is unacceptable. The desired footage of the acceptable performance is automatically composited or edited onto pre-recorded and/or dynamic media template footage and is rendered and stored for later delivery. The user selects the media template footage from a set of footage templates. An interactive display area is provided outside of the capture area where the user reviews the rendered footage and specifies the delivery medium.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-01-03
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-01
+	</str>
+	<str name="Publication Date">
+		2003-03-05
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-03
+	</str>
+	<str name="All IPC">
+		G06T1/00
+	</str>
+	<str name="IPC Primary">
+		G06T1/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T1
+	</str>
+	<str name="Family Members">
+		TW544615B | WO2002050416A3 | JP2003529975A | AU2300801A | TW482985B | TW487887B | TW484108B | TW482987B | TW482986B | EP1287490A2 | WO2001050416A2
+	</str>
+	<str name="Family Member Count">
+		11
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		See references of WO     0150416A2
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		174214P
+	</str>
+	<str name="Priority Date">
+		2000-01-03
+	</str>
+	<str name="Assignee(s)">
+		AMOVA.COM
+	</str>
+	<str name="1st Assignee">
+		AMOVA.COM
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		DAVIS, MARC, E. | WILLIAMS, BRIAN, F
+	</str>
+	<str name="1st Inventor">
+		DAVIS, MARC, E.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

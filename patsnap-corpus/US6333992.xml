@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6333992
+	</str>
+	<str name="Application Number">
+		US08967015
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Defect judgement processing method and apparatus
+	</str>
+	<str name="Abstract">
+		A defect judgement processing method and apparatus which can optimize image processing and defect judgement parameters for a detection image cut out by each inspection window to avoid erroneous judgement and defect missing and to realize reliable defect judgement. An image data generator cuts out ranges indicated by a plurality of predesignated inspection windows from a detected image and stores them in a memory, a window data generator generates window data having inspection conditions attached thereto with respect to the plurality of inspection windows and stores them in the memory, a feature extractor reads out detection images of the ranges indicated by the inspection windows from the memory and extracts a structural feature parameter therefrom on the basis of an image processing parameter conforming to the inspection condition obtained by the window data, and a defect judger performs its defect judging operation over the extracted structural feature parameter on the basis of a defect judgement parameter conforming to the inspection condition.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1997-11-10
+	</str>
+	<str name="Application Year">
+		1997
+	</str>
+	<str name="Application(Year/Month)">
+		1997-11
+	</str>
+	<str name="Publication Date">
+		2001-12-25
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-12
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		348/126 | 382/149
+	</str>
+	<str name="UPC Primary">
+		348/126
+	</str>
+	<str name="UPC Class">
+		348
+	</str>
+	<str name="Family Members">
+		EP0841558A3 | JP1998143660A | US6333992 | EP0841558A2
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US4448532 | US5822449 | US5058178 | US4953100 | US5761337 | EP0687901A1 | EP0277502A1 | EP0718623A2
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		8298713
+	</str>
+	<str name="Priority Date">
+		1996-11-11
+	</str>
+	<str name="Assignee(s)">
+		HITACHI, LTD. (TOKYO, JP), SIEMENS AKTIENGESELLSCHAFT
+	</str>
+	<str name="1st Assignee">
+		HITACHI, LTD. (TOKYO, JP), SIEMENS AKTIENGESELLSCHAFT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Munich, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Munich, DE
+	</str>
+	<str name="Inventor(s)">
+		YAMAMURA, HISAE | MATSUYAMA, YUKIO | HONDA, TOSHIFUMI | LISTL, LUDWIG
+	</str>
+	<str name="1st Inventor">
+		YAMAMURA, HISAE
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Yokohama, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Yokohama, JP | Tochigi-ken, JP | Funabashi, JP | Munich, DE
+	</str>
+	<str name="Agent/Attorney">
+		ANTONELLI, TERRY, STOUT &amp; KRAUS, LLP
+	</str>
+	<str name="Primary Examiner">
+		MEHTA, BHAVESH
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

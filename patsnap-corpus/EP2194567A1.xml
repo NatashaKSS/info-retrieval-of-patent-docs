@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2194567A1
+	</str>
+
+	<str name="Application Number">
+		EP2009014689
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		Cleaning method of semiconductor wafer
+	</str>
+
+	<str name="Abstract">
+		Problem
+To provide a removal method of wax capable of uniformly removing the wax adhering to a wafer surface and reducing the problems of re-adhesion of particles and filter clogging of a cleaning bath during cleaning.
+Means for solving the problem
+A cleaning method of a semiconductor wafer of removing wax, which is adhering to a wafer surface, by using cleaning liquid, the cleaning method is characterized in that the cleaning liquid contains microbubbles.
+	</str>
+
+	<str name="Document Types">
+		EP | EPA
+	</str>
+
+	<str name="Application Date">
+		2009-11-25
+	</str>
+
+	<str name="Application Year">
+		2009
+	</str>
+
+	<str name="Application(Year/Month)">
+		2009-11
+	</str>
+
+	<str name="Publication Date">
+		2010-06-09
+	</str>
+
+	<str name="Publication Year">
+		2010
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+
+	<str name="All IPC">
+		B08B3/00 | H01L21/02
+	</str>
+
+	<str name="IPC Primary">
+		B08B3/00
+	</str>
+
+	<str name="IPC Section">
+		B
+	</str>
+
+	<str name="IPC Class">
+		B08
+	</str>
+
+	<str name="IPC Subclass">
+		B08B
+	</str>
+
+	<str name="IPC Group">
+		B08B3
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		JP
+	</str>
+
+	<str name="Priority Number">
+		2008309283
+	</str>
+
+	<str name="Priority Date">
+		2008-12-04
+	</str>
+
+	<str name="Assignee(s)">
+		SILTRONIC AG
+	</str>
+
+	<str name="1st Assignee">
+		SILTRONIC AG
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		Hanns-Seidel-Platz 4, 81737 M&#252;nchen, DE
+	</str>
+
+	<str name="Assignee(s) Address">
+		Hanns-Seidel-Platz 4, 81737 M&#252;nchen, DE
+	</str>
+
+	<str name="Inventor(s)">
+		HAIBARA, TERUO
+	</str>
+
+	<str name="1st Inventor">
+		HAIBARA, TERUO
+	</str>
+
+	<str name="Number of Inventors">
+		1
+	</str>
+
+	<str name="1st Inventor Address">
+		7-32-9, Mitsui, Hikari, 743-0011, Hikari, Yamaguchi, JP
+	</str>
+
+	<str name="Inventor(s) Address">
+		7-32-9, Mitsui, Hikari, 743-0011, Hikari, Yamaguchi, JP
+	</str>
+
+	<str name="Agent/Attorney">
+		KILLINGER, ANDREAS
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

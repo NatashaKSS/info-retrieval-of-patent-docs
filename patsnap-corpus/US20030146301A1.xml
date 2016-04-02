@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20030146301A1
+	</str>
+	<str name="Application Number">
+		US10072027
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Vortex twin-fluid nozzle with self-cleaning pintle
+	</str>
+	<str name="Abstract">
+		A nozzle for discharging finely atomized fluids comprises a vortex-mixing-module with a mixing chamber along with at least one liquid inlet tangentially communicating with the chamber and at least one gas inlet axially communicating with the liquid inlet prior to their injection into the mixing chamber, wherein the mixed fluid of liquid/gas from the liquid inlet is setting vortex flow, re-mixing with each other and forming bubble-laden fluid. An impingement member positioned at the downstream of a substantially concentric-mounted pintle stem of the module provides the function of metering flow and forming the spray angle while maintaining the flow distribution to be axial-symmetric in both mass and velocity plus forming a flow field with non-disturbed angular momentum. A gas passage prepared in the pintle stem and exiting to the downstream side of the deflector provides the feature of cleaning the pintle surface, which eliminates the coarse drops on the pintle surface, stops any undesired residual hard layer from accumulation, and provides surface cooling for required high temperature applications.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-02-07
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-02
+	</str>
+	<str name="Publication Date">
+		2003-08-07
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-08
+	</str>
+	<str name="All IPC">
+		B05B7/10
+	</str>
+	<str name="IPC Primary">
+		B05B7/10
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05B
+	</str>
+	<str name="IPC Group">
+		B05B7
+	</str>
+	<str name="All UPC">
+		239/518 | 239/399
+	</str>
+	<str name="UPC Primary">
+		239/518
+	</str>
+	<str name="UPC Class">
+		239
+	</str>
+	<str name="Family Members">
+		US20030146301A1 | US6669115 | DE10304386A1 | DE10304386B4
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		11
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | DE
+	</str>
+	<str name="Priority Number">
+		7202702 | 10304386
+	</str>
+	<str name="Priority Date">
+		2002-02-07 | 2003-02-03
+	</str>
+	<str name="Inventor(s)">
+		TAI-YEN SUN | SHU-HSIEN WEI
+	</str>
+	<str name="1st Inventor">
+		TAI-YEN SUN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		South Euclid,OH,US
+	</str>
+	<str name="Inventor(s) Address">
+		South Euclid,OH,US | South Euclid,OH,US
+	</str>
+	<str name="Agent/Attorney">
+		TAI-YEN SUN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

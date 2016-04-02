@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7638057
+	</str>
+	<str name="Application Number">
+		US11876509
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of treating water using petroleum coke
+	</str>
+	<str name="Abstract">
+		A process for treating water containing dissolved organics, for example, oil sands process-affected water, using petroleum coke is provided, comprising: removing petroleum coke from a coking operation; forming a petroleum coke/water slurry by adding the water to be treated to the petroleum coke; and mixing the slurry for a sufficient time in a carbon adsorption reactor to allow the petroleum coke to adsorb a substantial portion of the dissolved organics from the water.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-10-22
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2009-12-29
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/690 | 210/663 | 210/631 | 210/661 | 210/694 | 210/691
+	</str>
+	<str name="UPC Primary">
+		210/690
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20090101574A1 | US7638057
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Scott, A. C., M.D. MacKinnon, and P.M. Fedorak. 2005. Naphthenic acids in Athabasca oil sands tailings waters are less biodegradable than commercial naphthenic acids. Environ. Sci. Technol., 2005, 39, 8388-8394. cited by other . | Effects of oil sands process-affected waters and naphthenic acids of yellow perch (Perca flavescens) and Japanese medaka (Orizias latipes) embryonic development, Lisa E. Peters, M. MacKinnon, T. Van Meer, M. R. van den Heuvel and D. G. Dixon, Chemosphere, Abstract, vol. 67, Issue 11, May 2007, pp. 2177-2183. cited by other . | Chung, K. H., L.C.G. Janke, R. Dureau, E. Furimsky. 1996. Leachability of cokes from Syncrude stockpiles. Environ. Sci. Engg., Mar. 1996, 3: 50-53. cited by other . | Production of activated carbon from petroleum coke and its application in water treatment for the removal of metals and phenol, RM Ramirez Zamora, R. Schouwenaars, A, Duran Moreno and G, Buitron, Abstract, Water Science &amp; Technology, vol. 42, Nos. 5-6, p. 119-126 (2000). cited by other.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		US8343337
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US7037434 | US4082694 | US6932956 | US4230602 | US20070199867 | US4743357 | US4053396 | US6733636 | US4036750
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		87650907
+	</str>
+	<str name="Priority Date">
+		2007-10-22
+	</str>
+	<str name="Assignee(s)">
+		SYNCRUDE CANADA LTD.
+	</str>
+	<str name="1st Assignee">
+		SYNCRUDE CANADA LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Fort McMurray, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Fort McMurray, CA
+	</str>
+	<str name="Inventor(s)">
+		ZUBOT, WARREN | MACKINNON, MICHAEL | CHUNG, KENG
+	</str>
+	<str name="1st Inventor">
+		ZUBOT, WARREN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Edmonton, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Edmonton, CA | Edmonton, CA | Edmonton, CA
+	</str>
+	<str name="Agent/Attorney">
+		BENNETT JONES LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

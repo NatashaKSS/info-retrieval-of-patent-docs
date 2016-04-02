@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7497949
+	</str>
+	<str name="Application Number">
+		US11881845
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System and method for oxygenating an aerobic sludge digester
+	</str>
+	<str name="Abstract">
+		A system and method for oxygenating an aerobic sludge digester is provided. The disclosed embodiments include an aerobic sludge digester tank or vessel having a mechanically agitated contactor disposed therein, an oxygen injection subsystem adapted to inject oxygen into the digester tank proximate the mechanically agitated contactor. The embodiments of the mechanically agitated contactor include an agitator or impeller disposed within the draft tube which makes the draft tube the primary site for the gas-liquid mixing. In particular, the agitator or impeller is adapted to create gas bubbles having an average diameter between about 0.3 mm and 3.0 mm which are then dispersed into the aerobic digester. The mass transfer efficiency associated with the present system and method is enhanced from the combined effect of oxygen dissolution into the sludge and greater bubble residence time.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-07-30
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-07
+	</str>
+	<str name="Publication Date">
+		2009-03-03
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/150 | 210/620 | 210/220
+	</str>
+	<str name="UPC Primary">
+		210/150
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080116132A1 | US7497949
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4455232 | US4256839 | US5451348 | US3666103 | US4454077 | US4263143 | US3865721 | US20050258094 | US4192740 | US3092678 | US20040007523 | US3827679 | US7329351 | US5916491 | US3452966 | US6245237 | US4919849 | US7413656 | US6863817 | US6135430 | US6761797 | US4136023 | US5925290 | US3043433 | US6461500 | US3210053 | US6145815 | US5874003 | US3439807 | US6464384 | US3206176 | US6123446 | JP1989258732
+	</str>
+	<str name="Cites Count">
+		33
+	</str>
+	<str name="Priority Country">
+		US | EP | US
+	</str>
+	<str name="Priority Number">
+		88184507 | 07004390 | 60251906
+	</str>
+	<str name="Priority Date">
+		2007-07-30 | 2007-03-02 | 2006-11-21
+	</str>
+	<str name="Assignee(s)">
+		PRAXAIR TECHNOLOGY, INC.
+	</str>
+	<str name="1st Assignee">
+		PRAXAIR TECHNOLOGY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Danbury, CT
+	</str>
+	<str name="Assignee(s) Address">
+		Danbury, CT
+	</str>
+	<str name="Inventor(s)">
+		FABIYI, MALCOLM, EZEKIEL | NOVAK, RICHARD, A.
+	</str>
+	<str name="1st Inventor">
+		FABIYI, MALCOLM, EZEKIEL
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Lagrange, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Lagrange, IL | Naperville, IL
+	</str>
+	<str name="Agent/Attorney">
+		HAMPSCH, ROBERT J.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

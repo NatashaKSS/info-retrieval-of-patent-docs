@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7713421
+	</str>
+	<str name="Application Number">
+		US10582314
+	</str>
+	<str name="Title">
+		Sorption method, device, and system
+	</str>
+	<str name="Abstract">
+		The invention relates to a method of separating components of a fluid mixture comprising the steps of providing a fluid, providing a sorbent structure (120), sorbing a first component of the fluid, desorbing the first component, and electrokinetically biasing the first component in a direction other than the vector of the fluid mixture.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-12-08
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-12
+	</str>
+	<str name="Publication Date">
+		2010-05-11
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		C02F1/42
+	</str>
+	<str name="IPC Primary">
+		C02F1/42
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/663 | 210/264 | 210/669
+	</str>
+	<str name="UPC Primary">
+		210/663
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Fuhr, G. et al., &quot;Travelling Wave-Driven Microfabricated Electrohydrodynamic Pumps for Liquids&quot;, J. Micromech. Microeng, 1994, 217-226. cited by other . | Gitlin, I. et al., &quot;Pumping Based on Transverse Electrokinetic Effects&quot;, Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA, U.S.A. 15 pages. cited by other . | Feng, C., et al., &quot;Breakthrough and desorption characteristics of a microtrap,&quot; J. of Microcolumn Separation, 2000, 12(4), 267-275. cited by other . | Boscolo, I. et al., &quot;Application of Ferroelectric Cathodes to Enhance the ION Yield in the Caesar Source at LNS&quot;, Proceedings of EPAC, 2000, 1631-1633. cited by other . | Wang, R.Z. et al., &quot;Adsorption Mechanism and Improvements of the Adsorption Equation for Adsorption Refrigeration Pairs&quot;, International Journal of energy Research, 1999, 23, 887-898. cited by other . | Hubble, J., &quot;Biochemical Separations--Adsorption and chromatographic separations,&quot; www.bath.ac.uk/.about.cesjh/adsorb.htm, downloaded from the Internet on Oct. 6, 2006, 1-32. cited by other . | Modi, A., et al., &quot;Miniaturized gass ionization sensors using carbon manotubes,&quot; Nature, 2003, 424, 171-174 (1 page Abstract). cited by other. | Collins, P. et al., &quot;Creating High Performance Conductive Composites with Carbon Nanotubes&quot;, www.Hyperioncatalysis.com, Materials Managers Symposium, Jun. 2004, 8 Pages. cited by other . | Dean, K.A., et al., &quot;Current saturation mechanisms in carbon nanotube field emitters,&quot; J. Appl. Physics Lett., 2000, 76(3), 375-377. cited by other . | Kong, M.G. et al., &quot;Wave Form to Produce most Efficiency Discharges&quot;, Dept. of Electronic and Electrical Engineering, http:/www.ee.ualberta.ca/icops2002/programest/1A.htm, Apr. 20, 2004, 1 page. cited by other . | Roth, J.R., &quot;Subsonic Plasma Aerodynamics Using Paraelectric and Peristaltic Electrohydrodynamic (EHD) Effects&quot;, Department of Electrical and Computer Engineering, University of Tennessee, Knoxville, Presented at the 29.sup.th IEEE International Conference on Plasma Science, May 26-30, 2002. cited by other . | Curtis, F.W., High-Frequency Induction Heating, Lindsay Publications, 1987, 12-15 and 218-220 (Chapter IX). cited by other . | Ter Brake, H.J.M. et al., &quot;Vibration Free 5K Sorption Cooler&quot; for ESA's Darwin Mission, University of Twente, Faculty of Applied Physics, MESA Research Institute, Cryogenics, Feb. 2002, 42(2), 14 pages. cited by other . | Judkins, R.R. et al., &quot;CO2 Removal from Gas Streams using a Carbon Fiber Composite Molecular Sieve&quot;, 8.sup.th Conference on Fundamentals of Absorption, May 2004, 14 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		14
+	</str>
+	<str name="Cites">
+		US4316233 | US5590538 | US3359707 | US4322394 | US20030196885 | US20030089228 | US6019882 | US20040107831 | US4114380 | US5396775 | US20010008212 | US5505825 | US3730885 | US6013164 | US6692626 | US20040097371 | US5842356 | US20010000889 | US7077891 | US20020023453 | US5490398 | US5728457 | US3463944 | US5535817 | US3727375 | US4964889 | US6271509 | US3771234 | US4011306 | US5441716 | US6434955 | US6733645 | US20030019238 | US4094652 | US20020170436 | US6374909 | US20030015092 | US6512215 | US4038050 | US20030131729 | US6200539 | US20020122728 | US5669583 | US20030167921 | US5972077 | US4954320 | US5335510 | US20040118287 | US20030116016 | US5085780 | US20040069144
+	</str>
+	<str name="Cites Count">
+		51
+	</str>
+	<str name="Assignee(s)">
+		SEPARATION DESIGN GROUP, LLC
+	</str>
+	<str name="1st Assignee">
+		SEPARATION DESIGN GROUP, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Waynesburg, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Waynesburg, PA
+	</str>
+	<str name="Inventor(s)">
+		GALBRAITH, STEPHEN, DOUGLAS
+	</str>
+	<str name="1st Inventor">
+		GALBRAITH, STEPHEN, DOUGLAS
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Holbrook, PA
+	</str>
+	<str name="Inventor(s) Address">
+		Holbrook, PA
+	</str>
+	<str name="Agent/Attorney">
+		KILPATRICK STOCKTON LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

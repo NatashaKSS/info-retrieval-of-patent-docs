@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8012351
+	</str>
+	<str name="Application Number">
+		US12817734
+	</str>
+	<str name="Title">
+		Fluid concentrator
+	</str>
+	<str name="Abstract">
+		A concentrator is used for concentrating a fluid, particularly a plasma component out of blood, for treatment of a patient. The concentrator apparatus includes a main housing defining a centrifuge chamber, that also holds the filter. The concentrator allows viewing of the fluid after centrifuging, with an outlet port positionable at a height corresponding to the level of the fraction of the fluid to be further concentrated. Once the fluid is centrifuged, a portion of the fluid is drawn through the outlet, and then pressured past the filter to further concentrate the fluid using the same vessel as used for centrifuging. The same plunger is preferably used to draw centrifuged fluid from the centrifuge chamber as to pressure the centrifuged fluid past the filter.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-06-17
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-06
+	</str>
+	<str name="Publication Date">
+		2011-09-06
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		B01D61/22 | B01D61/14 | B01D24/32 | B01D63/02 | B01D61/18
+	</str>
+	<str name="IPC Primary">
+		B01D61/22
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/321.67 | 210/500.23 | 210/321.68 | 210/378 | 210/321.79 | 210/360.1 | 210/321.88 | 210/360.2 | 210/782 | 210/781
+	</str>
+	<str name="UPC Primary">
+		210/321.67
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Spectrum Labs.Com., 2002 &quot;The ABCs of Filtration and Bioprocessing for the Third Millennium&quot;, &quot;The ABCs of Filtration&quot;. cited by other. | Harvest Technologies Corp., 2002, Developing Technologies for Accelerating Healing, Naturally, 6 pages. cited by other . | Medtronic Biologic Therapeutics &amp; Diagnostics, 2002, Magellan Autologous Platelet Separator, 6 pages. cited by other . | Cell Factor Technologies, Inc., 2004, GPS Platelet Concentration System, 10 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20040132003 | US6063297 | US20060060521 | US3669789 | US6010627 | US6524568 | US5733545 | US7740760 | US6132613 | US4886597 | US6106727 | US20040182795 | US6342157 | US4230564 | US5165938 | US6027655 | US5891347
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Assignee(s)">
+		CIRCLE BIOLOGICS, INC.
+	</str>
+	<str name="1st Assignee">
+		CIRCLE BIOLOGICS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Minneapolis, MN
+	</str>
+	<str name="Assignee(s) Address">
+		Minneapolis, MN
+	</str>
+	<str name="Inventor(s)">
+		COULL, THOMAS | KYLE, MATTHEW, R. | KIDDER, LOUIS, S.
+	</str>
+	<str name="1st Inventor">
+		COULL, THOMAS
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Rancho, Palos, Verdes, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Rancho, Palos, Verdes, CA | Plymouth, MN | Edina, MN
+	</str>
+	<str name="Agent/Attorney">
+		MERCHANT &amp; GOULD P.C.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

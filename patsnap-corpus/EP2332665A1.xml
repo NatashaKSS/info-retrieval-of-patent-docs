@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2332665A1
+	</str>
+
+	<str name="Application Number">
+		EP2010193984
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		Method for treating electrophotographic carrier, method for producing electrophotographic carrier, core material and carrier
+	</str>
+
+	<str name="Abstract">
+		A method for treating an electrophotographic carrier, including treating with supercritical pure water the electrophotographic carrier containing at least a core material and a coating layer, so that the coating layer is separated from the core material, wherein the supercritical pure water is obtained by bringing into a supercritical state pure water having an electrical conductivity at 25&#176;C of 1 &#181;S&#183;cm or lower.
+	</str>
+
+	<str name="Document Types">
+		EP | EPA
+	</str>
+
+	<str name="Application Date">
+		2010-12-07
+	</str>
+
+	<str name="Application Year">
+		2010
+	</str>
+
+	<str name="Application(Year/Month)">
+		2010-12
+	</str>
+
+	<str name="Publication Date">
+		2011-06-15
+	</str>
+
+	<str name="Publication Year">
+		2011
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+
+	<str name="All IPC">
+		G03G9/08 | B08B7/00 | B01D11/02 | G03G9/113
+	</str>
+
+	<str name="IPC Primary">
+		G03G9/08
+	</str>
+
+	<str name="IPC Section">
+		G
+	</str>
+
+	<str name="IPC Class">
+		G03
+	</str>
+
+	<str name="IPC Subclass">
+		G03G
+	</str>
+
+	<str name="IPC Group">
+		G03G9
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By">
+		EP1125647A4
+	</str>
+
+	<str name="Cited By Count">
+		1
+	</str>
+
+	<str name="Priority Country">
+		JP
+	</str>
+
+	<str name="Priority Number">
+		2010074363
+	</str>
+
+	<str name="Priority Date">
+		2010-03-29
+	</str>
+
+	<str name="Assignee(s)">
+		RICOH COMPANY LTD.
+	</str>
+
+	<str name="1st Assignee">
+		RICOH COMPANY LTD.
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		3-6, Nakamagome 1-chome Ohta-ku, Tokyo 143-8555, JP
+	</str>
+
+	<str name="Assignee(s) Address">
+		3-6, Nakamagome 1-chome Ohta-ku, Tokyo 143-8555, JP
+	</str>
+
+	<str name="Inventor(s)">
+		OHTAKI, KAZUMI | YAGI, SHINICHIRO | YASHIRO, MASAKAZU | KAKIMOTO, MASAYUKI | SHIMIZU, TAKAYUKI
+	</str>
+
+	<str name="1st Inventor">
+		OHTAKI, KAZUMI
+	</str>
+
+	<str name="Number of Inventors">
+		5
+	</str>
+
+	<str name="1st Inventor Address">
+		Ricoh, Company, Ltd., 3-6, Nakamagome, 1-chome, Ohta-ku, Tokyo, 143-8555, JP
+	</str>
+
+	<str name="Inventor(s) Address">
+		Ricoh, Company, Ltd., 3-6, Nakamagome, 1-chome, Ohta-ku, Tokyo, 143-8555, JP | Ricoh, Company, Ltd., 3-6, Nakamagome, 1-chome, Ohta-ku, Tokyo, 143-8555, JP | Ricoh, Company, Ltd., 3-6, Nakamagome, 1-chome, Ohta-ku, Tokyo, 143-8555, JP | Ricoh, Company, Ltd., 3-6, Nakamagome, 1-chome, Ohta-ku, Tokyo, 143-8555, JP | Ricoh, Company, Ltd., 3-6, Nakamagome, 1-chome, Ohta-ku, Tokyo, 143-8555, JP
+	</str>
+
+	<str name="Agent/Attorney">
+		BARZ, PETER
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

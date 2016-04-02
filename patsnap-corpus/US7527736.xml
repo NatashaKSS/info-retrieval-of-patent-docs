@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7527736
+	</str>
+	<str name="Application Number">
+		US11/685681
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for generating fracturing water
+	</str>
+	<str name="Abstract">
+		Systems and methods have been developed for reclaiming water contaminated with the expected range of contaminants typically associated with produced water in order to produce a treated water having a quality adequate for reuse as a fracturing water. The system includes anaerobically digesting the contaminated water, followed by aerating the water to enhance biological digestion. After aeration, the water is separated using a flotation operation that effectively removes the spent friction reducing agents and allows the treated water to be reclaimed and reused as fracturing water, even though it retains levels of contaminants, including boron and methanol, that would prevent its discharge to the environment under existing standards. The treated water has had a sufficient amount of the gellation-inhibiting contaminants, such as acrylamide friction reducing compounds, removed to allow the treated water to be an economically viable fracturing water.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-03-13
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2009-05-05
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/620 | 210/621 | 210/622 | 210/630 | 210/631
+	</str>
+	<str name="UPC Primary">
+		210/620
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080058576A1 | US7527736
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References">
+		Funston, R., et al., Kennedy/Jenks Consultants, 200 New Stine Road, Suite 205, Bakersfield, CA 93309, &quot;Evaluation of Technical and Economic Feasiblity of Treating Oilfield Produced Water to Create a &quot;New&quot; Water Resource,&quot; pp. 1-14. cited by other | Huang, F., et al., &quot;Feasibility of Using Produced Water for Crosslinked Gel-Based Hydraulic Fracturing,&quot; 2005 SPE Production and Operations Symposium, Oklahoma City, OK, U.S.A., Apr. 17-19, 2005. cited by other | Lawrence, A.W., et al., &quot;Evaluation of produced water management option in the natural gas production industry,&quot; the SPEC/EPA Exploration and Production Environmental Conference, San Antonio, TX, USA, Mar. 7-10, 1993, pp. 581-595. cited by other | Morales, M., et al., &quot;Desalination of Produced Water Using Reverse Osmosis,&quot; GasTips, vol. 8, No. 3, pp. 13-15, Summer 2002. cited by other | Nable, Ross. O., et al., Plant and Soil, 193: 181-198, 1997. cited by other | Novachis, Lawrence, &quot;Design and Operation of Membrane Bioreactor Technology for Industrial and Municipal Wastewater Treatment,&quot; WEFTEC 1998 Pre-Conference Workshop, Membrane Technology: Physical and Biological Treatment of Industrial Wastewaters, pp. 1-13. cited by other | Tsang, Patrick B., et al., &quot;Economic Evaluation of Treating Oilfield Produced Water for Potable Use,&quot; SPE International Thermal Operations and Heavy Oil Symposium and Western Regional Meeting, Bakersfield, CA, U.S.A., Mar. 16-18, 2004. cited by other | BJ Services Company, Material Safety Data Sheet, &quot;MSDS for FRW-14&quot;, pp. 1-4. [Date unknown]. cited by other | Borax.TM., Agronomy Notes [online]. Borax, 2005, &quot;Relative Plant Tolerance to Available Boron Supply&quot;. [retrieved on the internet on Nov. 9, 2007] &lt;http://www.borax.com/agriculture/files/an406.pdf&gt;. cited by other | Dow Chemical Company.TM., Product Information Sheet, Form No. 177-01997-1103, &quot;XUS-43594.00 A Uniform Particle Size Weak Base Anion Exchange Resin for Selective Boron Removal&quot;, pp. 1-2. [Date unknown]. cited by other | Purolite Ion Exchange Resins, (flyer) &quot;S-108 Boron Selective Anion Exchange Resin (for the removal of boron salts from aqueous solutions)&quot;, Form S108.sub.--TB/0599, pp. 1-4. [Date unknown]. cited by other | Sybron Chemicals Inc., a Lanxess Company, Sybron Chemical Products, Product Information, Lewatit.TM. MK 51, [retrieved online on Nov. 9, 2007] &lt;http://www.sybronchemicals.com/products/selective/index.html&gt;- ;. cited by other | USDA, Agricultural Research Service, US Salinity Laboratory, &quot;Boron Tolerance Limits for Agricultural Crops&quot; [online]. [retrieved on the internet on Nov. 9, 2007] &lt;http://www.ussl.ars.usda.gov/pls/caliche/BOROT46&gt;. cited by other | Zenon Environmental Inc., &quot;The ZeeWeed.TM. Process Description&quot;, Section 1, pp. 1-6, Mar. 18, 2003. cited by other | ZeroNet Perspective, Produced Water Project, San Juan Generating Station, power point presentation. [Date unknown]. cited by other.
+	</str>
+	<str name="Other References Count">
+		15
+	</str>
+	<str name="Cited By">
+		US7763173
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US3254719 | US4152274 | US4889638 | US4983297 | US5006249 | US5656173 | US20040031742 | US20070051513 | US20070102359 | WO2006110574
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		68568107 | 76757406
+	</str>
+	<str name="Priority Date">
+		2007-03-13 | 2006-09-01
+	</str>
+	<str name="Assignee(s)">
+		ANTICLINE DISPOSAL, LLC
+	</str>
+	<str name="1st Assignee">
+		ANTICLINE DISPOSAL, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rapid City, SD
+	</str>
+	<str name="Assignee(s) Address">
+		Rapid City, SD
+	</str>
+	<str name="Inventor(s)">
+		SHAFER, LEE, L. | JAMES, JOHN, W. | RATH, RICHARD, D. | EUBANK, JESSE
+	</str>
+	<str name="1st Inventor">
+		SHAFER, LEE, L.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Big, Piney, WY
+	</str>
+	<str name="Inventor(s) Address">
+		Big, Piney, WY | Boulder, WY | Larkspur, CO | LaBarge, WY
+	</str>
+	<str name="Agent/Attorney">
+		MERCHANT &amp; GOULD, P.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

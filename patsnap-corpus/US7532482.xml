@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7532482
+	</str>
+	<str name="Application Number">
+		US11/376367
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Remote enclosure systems and methods of production thereof
+	</str>
+	<str name="Abstract">
+		Remote enclosure systems have now been designed and are described herein that meet the following goals: a) consolidate electrical terminations in one system; b) pre-terminate AC and DC equipment loads before site installation; c) provide multiple access points for facilitating equipment repair and installation; d) are easily configurable and expanded through the use of a modular frame design that accommodates a variety of customized side panels or the attachment of a variety of expansion cabinets; e) are aesthetically functional given the cable entry and routing structure; f) provide exceptional thermal management and g) reduce problems inherent in conventional electronic setups. Remote enclosure systems contemplated generally include: a) a frame system further comprising at least two side panels; b) at least one door coupled to the frame system; c) a cable management top assembly coupled to the frame system; d) at least one removable radiofrequency (RF) management system, such as at least one RF port plate, at least one RF port, at least one RF cable or any other suitable system for managing RF signals and a combination thereof, coupled to at least one of the side panels, coupled to and/or located within the cable management top assembly and/or coupled to and/or located within the frame system or a combination thereof and e) a bottom panel coupled to the frame system. The remote enclosure system may also comprise any number of components suitable for electronics, wireless and cable-based data and telecommunications applications, including air conditioner exhaust member, an air conditioner unit, a battery pack, a meter base, a power receptacle box, an alarm system or alarm device, an expansion cabinet, a coupling device or system, a pre-wiring system and/or a demarcation component.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-03-15
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-03
+	</str>
+	<str name="Publication Date">
+		2009-05-12
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		H05K5/00
+	</str>
+	<str name="IPC Primary">
+		H05K5/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K5
+	</str>
+	<str name="All UPC">
+		361/752 | 361/800 | 361/816
+	</str>
+	<str name="UPC Primary">
+		361/752
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US7532482 | US20060268533A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US4321654 | US4616177 | US5001602 | US5292189 | US5319520 | US5784249 | US6185098 | US6307750 | US6330152 | EP1073285 | WO2001062015
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		37636706 | 79361904 | 48130604 | 0234800 | 37948002
+	</str>
+	<str name="Priority Date">
+		2006-03-15 | 2004-03-04 | 2004-06-08 | 2002-10-30 | 2002-05-10
+	</str>
+	<str name="Assignee(s)">
+		PURCELL SYSTEMS, INC.
+	</str>
+	<str name="1st Assignee">
+		PURCELL SYSTEMS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Spokane Valley, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Spokane Valley, WA
+	</str>
+	<str name="Inventor(s)">
+		MILLER, WILLIAM | JOHNSON, KELLY
+	</str>
+	<str name="1st Inventor">
+		MILLER, WILLIAM
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Liberty, Lake, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Liberty, Lake, WA | Spokane, WA
+	</str>
+	<str name="Primary Examiner">
+		BUI, HUNG S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

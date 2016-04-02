@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6327338
+	</str>
+	<str name="Application Number">
+		US08560948
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Replaceable carbridge for an ECR x-ray source
+	</str>
+	<str name="Abstract">
+		A small, low cost, low power, and portable x-ray source that produces an x-ray flux that is sufficient to produce high quality x-ray images on suitable x-ray sensitive films. The source includes a vacuumated chamber that is filled with a heavy atomic weight gas at low pressure and an x-ray emitter. The chamber is in a magnetic field and an oscillating electric field and generates an Electron Cyclotron Resonance (ECR) plasma having a ring of energetic electrons inside the chamber. The electrons bombard the x-ray emitter which in turn produces x-ray radiation in a given direction. A pair of magnetic members generate an axisymmetric magnetic mirror trap inside the chamber. The chamber may be nested within a microwave resonant cavity and between the magnets, or the chamber and microwave cavity may be a single composite structure. The source is useful to make x-ray photographs virtually anywhere and may be battery powered.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-11-20
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-11
+	</str>
+	<str name="Publication Date">
+		2001-12-04
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-12
+	</str>
+	<str name="All IPC">
+		H01J35/00
+	</str>
+	<str name="IPC Primary">
+		H01J35/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01J
+	</str>
+	<str name="IPC Group">
+		H01J35
+	</str>
+	<str name="All UPC">
+		378/119 | 378/122
+	</str>
+	<str name="UPC Primary">
+		378/119
+	</str>
+	<str name="UPC Class">
+		378
+	</str>
+	<str name="Family Members">
+		US6327338
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		8
+	</str>
+	<str name="Other References">
+		Blumenthal, &quot;Food Irradiation Toxic to Bacteria, Safe for Humans,&quot; FDA Consumer, Nov. 1990, pp. 11-15.* | Popov, &quot;Electron Cyclotron Resonance Sources for Wide and Narrow Plasma Streams,&quot; rev. Sci. Instrum., 61(1), Jan. 1990, pp. 303-305.* | Shapoval et al., &quot;Cubic Boron Nitride Films Deposited by Electron Cyclotron Resonance Plasma,&quot; Appl. Phys. Lett. 57(18), Oct. 29, 1990.* | Lagunas-Solar &quot;New Considerations for Radiation Technology Transfer Programmes for Developing Countries,&quot; Food Irradiation Symposium Proceedings, Mar. 4-8, 1985, pp. 499-506. | Food Irradiation, World Health Organization 1988, pp. 18-43.* | Popov, &quot;Electron Cyclotron Resonance Plasmas Excited by Rectangular and Circular Microwave Modes,&quot; J. V. Sci. Technical A, 8 (3) May/Jun. 199?, pp. 2909-2912.* | Popov et al., &quot;Electron Cyclotron Resonance Plasma Stream Source for Plasma Enhanced Chemical Vapor Deposition,&quot; J. Vac. Technol. A., 7 (3) May/Jun. 1989, pp. 914-917.* | Popov et al., &quot;Microwave Plasma Source for Remote Low Energy Ion Stream,&quot; Rev. Sci. Instrum., 61 (1), Jan. 1990, pp. 300-302.* | Popov, &quot;An Electron Cyclotron Plasma Stream Source for Low Pressure Thin Film Production,&quot; Surface and Coatings Technology, 36 (1988) pp. 917-925.* | Brynjolfsson, &quot;Factors Influencing Economic Evaluation of Irradiation Processing,&quot; Factors Influencing the Economical Application of Food Irradiation Symposium Proceedings, Jun. 14-18, 1971, 1973, pp. 13-35.* | Product Literature for ECR System 9200, Plasma Stream Sources Models 904, 904GR, 906, 906GR, 908. ECRI on Miler Model 1M601 ECRJr. Research System, by Microscience, five single pages and one tri-fold document.* | Balmashnov et al., &quot;Passivation of GaAs by Atomic Hydrogen Flow Produced by the Crossed Beams Method,&quot; Semicond. Sci. Technol., 5 (1990), pp. 242-245.* | Omeljanovsky et al., &quot;Hydrogen Passivation of Defects and Impurities GaAs and InP,&quot; J. Electronic Materials, vol. 18, No. 6, 1989, pp. 659-670.* | Garner et al., &quot;An Inexpensive X-ray Source Based on an Electron Cyclotron,&quot; Rev. Sci. Instrum. 61(2), Feb. 1990, pp. 724-727.* | Cleland et al., &quot;Electrons Versus Gamma Ray-Alternative Sources for Irradiation Process,&quot; Food Irradiation Processing Symposium Proceedings, Mar. 4-8, 1985, pp. 397-406.* | Klinger et al., &quot;Feed Radicidation in Israel--An Update,&quot; Food Irradiation Processing Symposium Proceedings, Mar. 4-8, 1985, pp. 117-126.* | Krishnamurthy et al., &quot;Design Considerations for Food Irradiators in Developing Countries,&quot; Food Irradiation Processing Symposium Proceedings, Mar. 4-8, 1985, pp. 353-363.*
+	</str>
+	<str name="Other References Count">
+		17
+	</str>
+	<str name="Cited By">
+		EP1774568A1 | US7496178 | EP1902459A1 | EP1869695A2 | US6775353 | US7447298 | US6728337 | US7224769
+	</str>
+	<str name="Cited By Count">
+		8
+	</str>
+	<str name="Cites">
+		US5323442 | US4553256 | US4952273 | US4538291
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		56094895 | 28579994 | 93552892
+	</str>
+	<str name="Priority Date">
+		1995-11-20 | 1994-08-04 | 1992-08-25
+	</str>
+	<str name="Assignee(s)">
+		RUXAN INC.
+	</str>
+	<str name="1st Assignee">
+		RUXAN INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		GOLOVANIVSKY, KONSTANTIN, S. | DUGAR-ZHABON, VALERI, D.
+	</str>
+	<str name="1st Inventor">
+		GOLOVANIVSKY, KONSTANTIN, S.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Grenoble, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Grenoble, FR | Moscow, RU
+	</str>
+	<str name="Agent/Attorney">
+		ORRICK, HERRINGTON &amp; SUTCLIFFE
+	</str>
+	<str name="Primary Examiner">
+		CHURCH, CRAIG E.
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		8
+	</str>
+</doc>
+

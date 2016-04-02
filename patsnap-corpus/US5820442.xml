@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5820442
+	</str>
+	<str name="Application Number">
+		US08761841
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Super sound engine/transmission sound enhancer
+	</str>
+	<str name="Abstract">
+		The present invention relates to an electronic engine sound duplicator simulator used in combination with an internal combustion motor, a battery, and an alternator. The sound duplicator simulator includes a motor rpm sensor, a sound duplicator microprocessor, an amplifier, a sound trim adjuster and a switch. When the internal combustion engine is powered, the microprocessor converts the rpm signal into a frequency modulated electric signal which generates a sound simulating that of a high performance vehicle. The sound trim adjuster prevents the frequency modulated electrical signal from being transmitted to the speaker means when there is a predetermined low motor rpm. The stitch is mounted on the dashboard of a vehicle for turning the microprocessor and amplifier on and off.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-12-09
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-12
+	</str>
+	<str name="Publication Date">
+		1998-10-13
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-10
+	</str>
+	<str name="All IPC">
+		A63H5/00 | H03G3/00
+	</str>
+	<str name="IPC Primary">
+		A63H5/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A63
+	</str>
+	<str name="IPC Subclass">
+		A63H
+	</str>
+	<str name="IPC Group">
+		A63H5
+	</str>
+	<str name="All UPC">
+		340/441 | 381/61 | 446/404
+	</str>
+	<str name="UPC Primary">
+		340/441
+	</str>
+	<str name="UPC Class">
+		340
+	</str>
+	<str name="Family Members">
+		US5820442
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5237617 | US4325199 | US5314372 | US5088955
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		76184196
+	</str>
+	<str name="Priority Date">
+		1996-12-09
+	</str>
+	<str name="Inventor(s)">
+		HELDER, GLENN, R.
+	</str>
+	<str name="1st Inventor">
+		HELDER, GLENN, R.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		60, Roseville, Ave., Saint, James, NY, 11780
+	</str>
+	<str name="Inventor(s) Address">
+		60, Roseville, Ave., Saint, James, NY, 11780
+	</str>
+	<str name="Agent/Attorney">
+		KROLL, MICHAEL I.
+	</str>
+	<str name="Primary Examiner">
+		HAFER, ROBERT A.
+	</str>
+	<str name="Assistant Examiner">
+		FOSSUM, LAURA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

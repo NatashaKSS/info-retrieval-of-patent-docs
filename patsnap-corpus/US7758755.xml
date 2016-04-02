@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7758755
+	</str>
+	<str name="Application Number">
+		US12343337
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water treatment by dendrimer-enhanced filtration
+	</str>
+	<str name="Abstract">
+		Described herein are compositions and methods useful for the purification of water using dendritic macromolecules. The process involves using dendritic macromolecules (dendrimers) to bind to contaminants, and a filtration step to produce water from which contaminants have been removed or modified. Examples of dendrimers that may be used in the process include cation-binding dendrimers, anion-binding dendrimers, organic compound-binding dendrimers, redox-active dendrimers, biological compound-binding dendrimers, catalytic dendrimers, biocidal dendrimers, viral-binding dendrimers, multi-functional dendrimers, and combinations thereof. The process is readily scalable and provides many options for customization.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-12-23
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-12
+	</str>
+	<str name="Publication Date">
+		2010-07-20
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-07
+	</str>
+	<str name="All IPC">
+		B01D61/00 | C02F1/42 | B01D61/16
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/257.2 | 210/665 | 210/650 | 210/702 | 210/696 | 210/260 | 210/666 | 210/644 | 210/668
+	</str>
+	<str name="UPC Primary">
+		210/257.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6908496 | US7297298 | US6749756 | US7048864 | US5938934 | US5182023 | US5556545 | US20040168981 | US20060157418 | US6380276 | US4207183 | US20040188359 | US20060157427 | US6338803 | DE19809713
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Assignee(s)">
+		CALIFORNIA INSTITUTE OF TECHNOLOGY
+	</str>
+	<str name="1st Assignee">
+		CALIFORNIA INSTITUTE OF TECHNOLOGY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pasadena, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Pasadena, CA
+	</str>
+	<str name="Inventor(s)">
+		DIALLO, MAMADOU, S.
+	</str>
+	<str name="1st Inventor">
+		DIALLO, MAMADOU, S.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Pasadena, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Pasadena, CA
+	</str>
+	<str name="Agent/Attorney">
+		NIXON PEABODY LLP RITCHIE, DAVID B.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

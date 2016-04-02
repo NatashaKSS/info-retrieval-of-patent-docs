@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7883622
+	</str>
+	<str name="Application Number">
+		US11906403
+	</str>
+	<str name="Title">
+		Water treatment methods and systems using combinations of ozone and chlorine generators
+	</str>
+	<str name="Abstract">
+		Methods and apparatus for efficient implementation and control of water treatment bypass loops combining ozone and chlorine injection are disclosed. Combined use of ozone and chlorine exploits high oxidation potential of ozone while retaining longer lived residual effectiveness of chlorine for high efficacy against contaminants, particularly biological and organic. Embodiments including automated monitoring and control of chlorine concentrations in presence of high oxidation potentials from ozone are disclosed, as is an inexpensive circuit for using a signal from a redox sensor for controlling output from an electrolysis cell. Also disclosed is a multipurpose enclosure that may be used, with different inserts, to implement an electrolysis cell, an ultraviolet ozone generator, an advanced oxidation unit, or an erosion feeder for adding dissolved salt to water for use in an electrolysis cell. The multipurpose enclosure helps reduce cost associated with maintaining inventories of different components used in water purification systems.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-10-02
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2011-02-08
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		E04H4/12 | C02F1/76 | C02F1/78
+	</str>
+	<str name="IPC Primary">
+		E04H4/12
+	</str>
+	<str name="IPC Section">
+		E
+	</str>
+	<str name="IPC Class">
+		E04
+	</str>
+	<str name="IPC Subclass">
+		E04H
+	</str>
+	<str name="IPC Group">
+		E04H4
+	</str>
+	<str name="All UPC">
+		210/416.2 | 210/167.11 | 210/198.1 | 210/206 | 210/143
+	</str>
+	<str name="UPC Primary">
+		210/416.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4804449 | US6340736 | US6517713 | US20070207053 | US4283263 | US5334383 | US4761208 | US6551518 | US4820408 | US4724059 | US4059522 | US6814877 | US5008087 | US6692645 | US4781810 | US5061343 | US7329343 | US5037519 | US5451318 | US6368472 | US3474817 | US4613415 | US6491811 | US4361471 | US3326747 | US4201651 | US5395537 | US4596648 | US5094734 | US5314589 | US6007726 | US6984295 | US3361663 | US6132629 | JP1987176594 | JP1992156994 | JP1991181390
+	</str>
+	<str name="Cites Count">
+		37
+	</str>
+	<str name="Inventor(s)">
+		BARNES, RONALD, L.
+	</str>
+	<str name="1st Inventor">
+		BARNES, RONALD, L.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Owens, Crossroads, AL
+	</str>
+	<str name="Inventor(s) Address">
+		Owens, Crossroads, AL
+	</str>
+	<str name="Agent/Attorney">
+		CLODFELTER, MARK
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

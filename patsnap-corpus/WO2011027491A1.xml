@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2011027491A1
+	</str>
+
+	<str name="Application Number">
+		PCT/JP2010/003165
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		SECONDARY BATTERY AND PORTABLE ELECTRONIC DEVICE
+	</str>
+
+	<str name="Abstract">
+		Disclosed is a secondary battery wherein a laminated film is used for a battery container and a good balance is achieved between high energy density and high strength of the battery itself. Specifically disclosed is a secondary battery which comprises an electric power generating element (1) and a packaging material for sealing the electric power generating element (1). The packaging material comprises a first multilayer composite sheet (2) having a first metal layer that is composed of stainless steel and a first plastic layer, and a second multilayer composite sheet (3) having a second metal layer that is mainly composed of aluminum and a second plastic layer. The second multilayer composite sheet (3) is provided with a recess that serves as a container portion for housing the electric power generating element (1). The first plastic layer of the first multilayer composite sheet (2) and the second plastic layer of the second multilayer composite sheet (3) are heat-welded with each other, so that the electric power generating element (1) is sealed within the packaging material.
+	</str>
+
+	<str name="Document Types">
+		WO
+	</str>
+
+	<str name="Application Date">
+		2010-05-10
+	</str>
+
+	<str name="Application Year">
+		2010
+	</str>
+
+	<str name="Application(Year/Month)">
+		2010-05
+	</str>
+
+	<str name="Publication Date">
+		2011-03-10
+	</str>
+
+	<str name="Publication Year">
+		2011
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+
+	<str name="All IPC">
+		H01M2/10 | H01M2/02
+	</str>
+
+	<str name="IPC Primary">
+		H01M2/10
+	</str>
+
+	<str name="IPC Section">
+		H
+	</str>
+
+	<str name="IPC Class">
+		H01
+	</str>
+
+	<str name="IPC Subclass">
+		H01M
+	</str>
+
+	<str name="IPC Group">
+		H01M2
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		JP
+	</str>
+
+	<str name="Priority Number">
+		2009202644
+	</str>
+
+	<str name="Priority Date">
+		2009-09-02
+	</str>
+
+	<str name="Assignee(s)">
+		&#12497;&#12490;&#12477;&#12491;&#12483;&#12463;&#26666;&#24335;&#20250;&#31038;
+	</str>
+
+	<str name="1st Assignee">
+		&#12497;&#12490;&#12477;&#12491;&#12483;&#12463;&#26666;&#24335;&#20250;&#31038;
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		&#12306;5718501 &#22823;&#38442;&#24220;&#38272;&#30495;&#24066;&#22823;&#23383;&#38272;&#30495;&#65297;&#65296;&#65296;&#65302;&#30058;&#22320; Osaka &#12306;5718501 JP
+	</str>
+
+	<str name="Assignee(s) Address">
+		&#12497;&#12490;&#12477;&#12491;&#12483;&#12463;&#26666;&#24335;&#20250;&#31038;
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

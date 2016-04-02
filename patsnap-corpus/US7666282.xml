@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7666282
+	</str>
+	<str name="Application Number">
+		US11320206
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for providing ethanol
+	</str>
+	<str name="Abstract">
+		The invention is a process for the purification of ethanol. In one embodiment the process includes boiling a degassed beer feed (106) in a pre-boiler (110) to provide a vapor by-pass fraction (112) that by-passes the conventional beer column and is fed into the rectifier column (124). The process allows free capacity in the rectifier column of new or established plants to be filled by ethanol-water vapor and/or condensate streams that do not originate from the beer column.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-12-28
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2010-02-23
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-02
+	</str>
+	<str name="All IPC">
+		C07C29/80 | B01D3/10 | C07C31/08 | B01D3/06 | B01D3/14
+	</str>
+	<str name="IPC Primary">
+		C07C29/80
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C07
+	</str>
+	<str name="IPC Subclass">
+		C07C
+	</str>
+	<str name="IPC Group">
+		C07C29
+	</str>
+	<str name="All UPC">
+		426/494 | 203/19 | 210/664 | 203/91 | 203/41 | 568/916 | 435/161 | 203/88 | 568/913 | 203/87 | 203/73
+	</str>
+	<str name="UPC Primary">
+		426/494
+	</str>
+	<str name="UPC Class">
+		426
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Michael R. Ladisch et al., Cornmeal Adsorber for Dehydrating Ethanol Vapors, I&amp;EC Process Design &amp; Development, 1984, vol. 23:437. cited by other . | P. W. Madson et al., Fuel Ethanol Production in Fuel Alcohol Textbook, Alltech Inc., 1999, Chapter 17, pp. 257-268. cited by other . | S. Skouras et al., Time (Energy) Requirements in Closed Batch Distillation Arrangements, Computers &amp; Chemical Engineering, vol. 28:829-837, 2004. cited by other. | Aden et al., Lignocellulosic Biomass to Ethanol Process Design and Economics Utilizing Co-Current Dilute ACD Prehydrolysis and Enzymatic Hydrolysis for Corn Stover, NREL Report No. TP-510-32438, Section II.5, p. 36-39. cited by other . | D. R. Garg et al., Molecular Sieve Dehydration Cycle for High Water Content Streams, CEP, Apr. 1983, pp. 60-65. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cites">
+		US7297236 | US4422903 | US5955135 | US4983304 | US4217178 | US4867997 | US4568356 | RO112503 | BR8703445 | WO2004088230
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Assignee(s)">
+		E.I. DU PONT DE NEMOURS &amp; COMPANY
+	</str>
+	<str name="1st Assignee">
+		E.I. DU PONT DE NEMOURS &amp; COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Wilmington, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Wilmington, DE
+	</str>
+	<str name="Inventor(s)">
+		SYLVESTER, ROBERT, G. | BRESKE, STEPHEN, THOMAS | CULVER, DAVID, A. | VRANA, BRUCE, M.
+	</str>
+	<str name="1st Inventor">
+		SYLVESTER, ROBERT, G.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Newark, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Newark, DE | Wilmington, DE | Salem, NJ | Hockessin, DE
+	</str>
+	<str name="Primary Examiner">
+		MANOHARAN, VIRGINIA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7981294
+	</str>
+	<str name="Application Number">
+		US12243094
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for the extraction of components made from organic material
+	</str>
+	<str name="Abstract">
+		The present invention relates to a process for extracting constituents from organic material, comprising the step of extracting with a monophasic mixture of 50% by volume to 90% by volume of methanol and 50 to 10% by volume of water and optionally 0% by volume to 40% by volume of a further solvent or solvent mixture.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-10-01
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-10
+	</str>
+	<str name="Publication Date">
+		2011-07-19
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		B01D11/00 | B01D11/04
+	</str>
+	<str name="IPC Primary">
+		B01D11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		436/63 | 436/161 | 210/749 | 436/178 | 210/806 | 210/656 | 210/634
+	</str>
+	<str name="UPC Primary">
+		436/63
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;Experiments and Gene Fusions&quot;, eds. Thomas J. Silhavy, Michael L. Berman and Lynn W. Enquist, Cold Spring Harbor Laboratory Press, (1984), (inside cover pages with Table of Contents). cited by other . | Fiehn, O., et al,, &quot;Identification of Uncommon Plant Metabolites Based on Calculation of Elemental Compositions Using Gas Chromatography and Quadrupole Mass Spectrometry&quot;, Anal. Chem., vol. 72, (2000), pp. 131-142. cited by other . | Bligh, E.G., et al., &quot;A Rapid Method of Total Lipid Extraction and Purification&quot;, Can. J. Biochem. Physiol., vol. 37, (1959), pp. 911-917. cited by other . | Fiehn, O., at al., &quot;Metabolite Profiling for Plant Functional Genomics&quot;, Nature Biotechnology, vol. 18, (2000), pp. 1157-1161. cited by other . | &quot;Biomedical Pathways: An Atlas of Biochemistry and Molecular Biology&quot;, ed. Gerhard Michal, John Wiley &amp; Sons, Inc., NY, NY, (1999), (inside cover pages with Table of Contents). cited by other . | Strand, A., at al., &quot;Acclimation of Arabidopsis Leaves Developing at Low Temperatures, Increasing Cytoplasmic Volume Accompanies Increased Activities of Enzymes in the Calvin Cycle and in the Sucrose-Biosynthesis Pathway&quot;, Plant Physiology, vol. 119, (1999), pp. 1387-1397. cited by other . | Gilmour, S.J., at al., &quot;Overexpress of the Arabidopsis CBF3 Transcriptional Activator Mimics Multiple Biochemical Changes Associated with Cold Acclimation&quot;, Plant Physiology, vol. 124, (2000), pp. 1854-1865. cited by other . | Katona, Z.F., et al., &quot;Simultaneous Determination of Sugars, Sugar Alcohols, Acids and Amino Acids in Apricots by Gas Chromatography-Mass Spectrometry&quot;, Chromatography, vol. 847, (1999), pp. 91-102. cited by other . | &quot;RoLexikon Biotechnologie&quot;, eds. Prof. Dr. Hanswerner Dellweg, Prof. Dr. Rolf D. Schmid and Prof. Dr. Wolfgang E. Tommer, Teorg Thieme Verlag Stuttgart, (1992), (inside cover pages and pp. 4-5). cited by other . | Kellner, R., et al., &quot;Liquid Chromatography&quot;, Analytical Chemistry, Weinheim, (1998), p. 195. cited by other . | Ezzell, J.L., et al., &quot;A Comparison of Accelerated Solvent Extraction with Conventional Solvent Extraction for Organophosphorus Pesticides and Herbicides&quot;, LC-GC, vol. 13, No. 5, (1995), pp. 390-398. cited by other . | Sauter, H. et al., &quot;Metabolic Profiling of Plants: A New Diagnostic Technique&quot;, ACS Symposium Series 1991, (Synth. Chem. Agrochem, II, American Chemical Society, Washington, D.C.), vol. 443, (1991), pp. 288-299. cited by other . | Richter, B.E., et al., &quot;An Accelerated Solvent Extraction System for the Rapid Preparation of Environmental Organic Compounds in Soil&quot;, American Lab, vol. 27, (1995), pp. 24-28. cited by other . | Kyoto Encyclopedia of Genes and Genomes, Institute of Chemical Res. at Kyoto University, Japan, (1995), pp. 359-360. cited by other. | Bjorklund, E., et al., &quot;Pressurized Liqud Extraction of Persistent Organic Pollutants in Environmental Analysis&quot;, Trends in Analytical Chemistry, vol. 19, No. 7, (2000), pp. 434-445. cited by other . | Roessner, U., at al., &quot;Simultaneous Analysis of Metabolites in Potato Tuber by Gas Chromatography-Mass Spectrometry&quot;, The Plant Journal, vol. 23, (2000), pp. 131-142. cited by other . | Trethewey, R.N., et al., &quot;Commentary: Metabolic Profiling: a Rosetta Stone for Genomics?&quot;, Curr. Opin, Plant. Biol., vol. 2, (1999), pp. 83-85. cited by other .
+	</str>
+	<str name="Other References Count">
+		17
+	</str>
+	<str name="Cited By">
+		US8349186
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4496426 | US2154713 | US3243451 | US6395178 | US5562755 | US3579539 | US4460504 | US6790669 | US7431841 | US4429049 | US7311838 | US5843311 | US20070020662 | US3996132 | US3966410 | US6071410 | US3153055 | US3207744 | US20040262221 | US3153054 | US4283199 | DE4343625 | EP0290156 | WO2001004622
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Priority Country">
+		DE | DE
+	</str>
+	<str name="Priority Number">
+		10155517 | 10203551
+	</str>
+	<str name="Priority Date">
+		2001-11-13 | 2002-01-29
+	</str>
+	<str name="Assignee(s)">
+		METANOMICS GMBH &amp; CO. KGAA
+	</str>
+	<str name="1st Assignee">
+		METANOMICS GMBH &amp; CO. KGAA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		DE
+	</str>
+	<str name="Assignee(s) Address">
+		DE
+	</str>
+	<str name="Inventor(s)">
+		HEROLD, MICHAEL, MANFRED | DOSTLER, MARTIN | LOOSER, RALF | WALK, TILMANN, B. | FEGERT, ACHIM | KLUTTIG, MARTIN | LEHMANN, BRITTA | HEIDEMANN, SILKE | HENNIG, ANNETTE | KOPKA, JOACHIM
+	</str>
+	<str name="1st Inventor">
+		HEROLD, MICHAEL, MANFRED
+	</str>
+	<str name="Number of Inventors">
+		10
+	</str>
+	<str name="1st Inventor Address">
+		Berlin, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Berlin, DE | Henningsdorf, DE | Berlin, DE | Berlin, DE | Berlin, DE | Berlin, DE | Berlin, DE | Berlin, DE | Mahlow, DE | Berlin, DE
+	</str>
+	<str name="Agent/Attorney">
+		CONNOLLY BOVE LODGE &amp; HUTZ LLP
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

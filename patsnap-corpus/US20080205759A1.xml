@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080205759A1
+	</str>
+	<str name="Application Number">
+		US11679648
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Distortion Correction of a Scanned Image
+	</str>
+	<str name="Abstract">
+		Disclosed are embodiments of systems and methods for eliminating or reducing the distortion in a scanned image. In embodiments, the image is segmented into foreground and background pixels. Foreground pixels may be grouped into &quot;letters.&quot; Using index-based searching, &quot;letters&quot; may be grouped into &quot;words&quot; and &quot;words&quot; may be grouped into baselines. One or more dominant baselines may be selected and the characteristics of the dominant baseline or baselines may be used to unwarp the image.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-02-27
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-02
+	</str>
+	<str name="Publication Date">
+		2008-08-28
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		G06K9/34
+	</str>
+	<str name="IPC Primary">
+		G06K9/34
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/177 | 358/2.99
+	</str>
+	<str name="UPC Primary">
+		382/177
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20080205759A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		67964807
+	</str>
+	<str name="Priority Date">
+		2007-02-27
+	</str>
+	<str name="Inventor(s)">
+		ZANDIFAR ALI | BHATTACHARJYA ANOOP K.
+	</str>
+	<str name="1st Inventor">
+		ZANDIFAR ALI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Cupertino,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Cupertino,CA,US | Campbell,CA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7371567
+	</str>
+	<str name="Application Number">
+		US10802726
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Bioreactor, particularly for bioartificial organs
+	</str>
+	<str name="Abstract">
+		A bioreactor for bioartificial organs, comprising a closed and substantially tubular body inside which there is a containment cavity; an animal and/or human cell culture and support structure, accommodated in the cavity and suitable to be crossed by a fluid to be processed; a port for the inflow of the fluid to be processed, which is formed in the body upstream of the structure; a port for the outflow of the processed fluid, which is formed in the body downstream of the structure; a first chamber for collecting the fluid to be processed, which is formed in the cavity upstream of the structure and is connected to the outside of the body by means of the inflow port; a second chamber for collecting the processed fluid, which is formed in the cavity downstream of the structure and is connected to the outside of the body by means of the outflow port; a first bundle of hollow capillary fibers for the inflow of the fluid to be processed, which is accommodated in the cavity and is interposed between the first collection chamber and the structure, and a second bundle of hollow capillary fibers for the outflow of the processed fluid, which is accommodated in the cavity and is interposed between the structure and the second collection chamber, the flow of the fluid being substantially parallel to the longitudinal axis of the bioreactor.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-03-18
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-03
+	</str>
+	<str name="Publication Date">
+		2008-05-13
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		C12M3/06
+	</str>
+	<str name="IPC Primary">
+		C12M3/06
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12M
+	</str>
+	<str name="IPC Group">
+		C12M3
+	</str>
+	<str name="All UPC">
+		435/299.1 | 210/321.87 | 435/297.4
+	</str>
+	<str name="UPC Primary">
+		435/299.1
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		EP1460127A1 | US20050142530A1 | US7371567 | ITMO20030081D0
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8266791
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5516691 | US20020168758 | US6372495 | US4720462 | EP0419234 | WO2002018535 | EP0356785 | EP0909811 | DE4123125
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		IT
+	</str>
+	<str name="Priority Number">
+		MO2003A0081
+	</str>
+	<str name="Priority Date">
+		2003-03-21
+	</str>
+	<str name="Assignee(s)">
+		RAND S.R.L.
+	</str>
+	<str name="1st Assignee">
+		RAND S.R.L.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Medolla, IT
+	</str>
+	<str name="Assignee(s) Address">
+		Medolla, IT
+	</str>
+	<str name="Inventor(s)">
+		GALAVOTTI, DANIELE
+	</str>
+	<str name="1st Inventor">
+		GALAVOTTI, DANIELE
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Mirandola, IT
+	</str>
+	<str name="Inventor(s) Address">
+		Mirandola, IT
+	</str>
+	<str name="Agent/Attorney">
+		COLLARD &amp; ROE, P.C.
+	</str>
+	<str name="Primary Examiner">
+		BEISNER, WILLIAM H.
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

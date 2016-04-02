@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7808531
+	</str>
+	<str name="Application Number">
+		US11594217
+	</str>
+	<str name="Title">
+		Method and apparatus for auto white controlling
+	</str>
+	<str name="Abstract">
+		An auto white controlling method and apparatus are provided. The method includes providing a plurality of feature points having color features of an image if the image includes an object having dominant chroma; detecting a first illuminant according to the feature points; calculating a mean chroma of data showing a chroma difference within a threshold value with a chroma of the first illuminant among data constituting the image; and providing a second illuminant by mapping the mean chroma to an illuminant locus. The apparatus includes a feature-analyzing module that provides a plurality of feature points having color features of an image; and an illuminant-detecting module that detects a first illuminant by using the feature points, calculates a mean chroma of data showing the color difference within a threshold value with the chroma of the first illuminant, and provides a second illuminant by mapping the mean chroma to an illuminant locus.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-11-08
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-11
+	</str>
+	<str name="Publication Date">
+		2010-10-05
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-10
+	</str>
+	<str name="All IPC">
+		G06K9/00 | H04N7/68 | H04N9/73 | H04N9/77
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/162 | 348/655 | 348/663 | 348/225.1 | 348/234 | 348/223.1
+	</str>
+	<str name="UPC Primary">
+		382/162
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		D. H. Marimont et al., &quot;Linear models of surface and illuminant spectra&quot;, J. Opt. Soc. Am. A, vol. 9, No. 11, pp. 1905-1913 (1992). cited by examiner . | D Qian et al , &quot;An automatic light spectrum compensation method for CCD white balance measurement&quot;, IEEE Transactions on Consumer Electronics, vol. 43, No. 2, pp. 216220 (1997). cited by examiner . | M. abe et al., &quot;A method to estimate correlated color temperatures of illuminants using a color video camera&quot;, IEEE Transactions on Instrumentation and Measurement, vol. 40, No. 1, pp. 28-33 (1991). cited by examiner.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US7643068 | US20080266417 | US5659357 | US6639628 | US20050286097 | US7356180 | US20030052978 | US6965401 | US7158174 | US20080297620 | US6952225 | US7218344 | US20040095478 | US20050122408 | US6791606 | JP2000092509 | JP2003259389 | KR020010076835 | JP1994323908
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Priority Country">
+		KR | KR
+	</str>
+	<str name="Priority Number">
+		1020050123514 | 1020060041702
+	</str>
+	<str name="Priority Date">
+		2005-12-14 | 2006-05-09
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-si, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-si, KR
+	</str>
+	<str name="Inventor(s)">
+		KIM, SUNG-SU | LEE, HO-YOUNG | OH, HYUN-HWA | LEE, SEONG-DEOK
+	</str>
+	<str name="1st Inventor">
+		KIM, SUNG-SU
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Yongin-si, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Yongin-si, KR | Suwon-si, KR | Yongin-si, KR | Suwon-si, KR
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		HO, TUAN
+	</str>
+	<str name="Assistant Examiner">
+		CAMARGO, MARLY
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

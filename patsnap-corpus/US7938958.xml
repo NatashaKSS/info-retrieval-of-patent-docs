@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7938958
+	</str>
+	<str name="Application Number">
+		US12371948
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		De-aeration system
+	</str>
+	<str name="Abstract">
+		A de-aeration system for a fuel system, the fuel system having a housing for containing a fuel filter element, a fuel inlet and a fuel outlet is disclosed. The de-aeration system includes a de-aeration valve having a valve inlet in a lower face of the valve for connection to the housing for purging the air trapped in the housing. The de-aeration valve also includes a valve outlet in an upper face of the valve and a ball. The ball is configured to lift between the lower face and the upper face in response to an air pressure differential acting on the ball. This opens the valve to purge air trapped in the housing. The ball is further configured to close the valve by sealing against the valve outlet in the upper face in response to a pressure differential across the ball created by unfiltered fuel entering the valve.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-02-17
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-02
+	</str>
+	<str name="Publication Date">
+		2011-05-10
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-05
+	</str>
+	<str name="All IPC">
+		B01D35/01 | B01D19/00 | B01D35/147 | B01D27/10
+	</str>
+	<str name="IPC Primary">
+		B01D35/01
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D35
+	</str>
+	<str name="All UPC">
+		123/510 | 210/188 | 210/137 | 96/219 | 96/162 | 210/133 | 96/165 | 96/163 | 210/130 | 96/156 | 210/129 | 210/472 | 210/436 | 210/128
+	</str>
+	<str name="UPC Primary">
+		123/510
+	</str>
+	<str name="UPC Class">
+		123
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Siebels, Karl H; Machine Translation of EP-0207739-A2 (German version submitted by applicant as prior art). cited by examiner . | DE 10345225 A1--English Machine Translation. cited by examiner . | Notification of Transmittal of the International Search Report and The Written Opinion of the International Searching Authority, or the Declaration dated Mar. 6, 2008 in corresponding International Application No. PCT/GB2007/003130. cited by other . | Examination Report under Section 18(3) of the UK Intellectual Property Office dated Oct. 7, 2010 in corresponding Great Britain Application No. GB0616515.3. cited by other . | Schachtrup, Ludger et al.; Machine Translation of FR-2830284-A1 (French version referenced above). cited by examiner . | International Preliminary Report on Patentability dated Oct. 30, 2008 of the European Patent Office in corresponding International Application No. PCT/GB2007/003130. cited by other.
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20050011497 | US20040103883 | US6520162 | DE20118185 | FR2830284 | DE10345225 | EP0307739 | DE4015551
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Assignee(s)">
+		PARKER HANNIFIN (UK) LIMITED
+	</str>
+	<str name="1st Assignee">
+		PARKER HANNIFIN (UK) LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Dewsbury, GB
+	</str>
+	<str name="Assignee(s) Address">
+		Dewsbury, GB
+	</str>
+	<str name="Inventor(s)">
+		CORE, PHIL | ASHTON, JAMES | WILSON, STEVEN
+	</str>
+	<str name="1st Inventor">
+		CORE, PHIL
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		West, Yorkshire, GB
+	</str>
+	<str name="Inventor(s) Address">
+		West, Yorkshire, GB | South, Yorkshire, GB | York, GB
+	</str>
+	<str name="Agent/Attorney">
+		HUNTER, CHRISTOPHER H.
+	</str>
+	<str name="Primary Examiner">
+		SMITH, DUANE
+	</str>
+	<str name="Assistant Examiner">
+		DURAND, PAUL J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

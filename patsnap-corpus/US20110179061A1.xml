@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20110179061A1
+	</str>
+	<str name="Application Number">
+		US12/818718
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Extraction and Publication of Reusable Organizational Knowledge
+	</str>
+	<str name="Abstract">
+		An analysis module, when triggered by a synchronization framework when a new data item is added to a project data store, runs a series of analysis feature extractors on the new content. An analysis may be conducted, and features of interest may be extracted from the data item. The analysis utilizes natural language processing, as well as other technologies, to provide an automatic or semi-automatic extraction of information. The extracted features of interest are saved as metadata within the project data store, and are associated with the data item from which it was extracted. The analysis module may be utilized to discover additional information that may be gleaned from content that is already in the project data store.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-06-18
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-06
+	</str>
+	<str name="Publication Date">
+		2011-07-21
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/769 | 707/705 | 707/E179 | 707/E17.014
+	</str>
+	<str name="UPC Primary">
+		707/769
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond,WA,US
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond,WA,US
+	</str>
+	<str name="Inventor(s)">
+		CHILAKAMARRI VENKAT PRADEEP | CALDWELL NICHOLAS | AZZAM SALIHA | CAI YIZHENG | CHILDS BENJAMIN EDWARD | CHITRAPU ARUN | DIMMICK STEVEN | GAMON MICHAEL | KOHLMEIER BERNHARD SJ | KUO SHIUN-ZU | LUDWIG JONATHAN C. | MANIS KIMBERLY | O'KEEFE COURTNEY ANNE | PEREZ DEL CARPIO DIEGO | PHAN TU HUY | POWELL KEVIN | SHAH JIGNESH | SHARMA ASHISH | TER HORST PAULUS WILLEM | WALVEKAR MUKTA PRAMOD | WANG YE-YI
+	</str>
+	<str name="1st Inventor">
+		CHILAKAMARRI VENKAT PRADEEP
+	</str>
+	<str name="Number of Inventors">
+		21
+	</str>
+	<str name="1st Inventor Address">
+		Redmond,WA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Redmond,WA,US | Bellevue,WA,US | Redmond,WA,US | Sammamish,WA,US | Seattle,WA,US | Seattle,WA,US | Mill Creek,WA,US | Seattle,WA,US | Woodinville,WA,US | Bothell,WA,US | Kirkland,WA,US | Seattle,WA,US | Bellevue,WA,US | Redmond,WA,US | Redmond,WA,US | Kirkland,WA,US | Bellevue,WA,US | Bellevue,WA,US | Bothell,WA,US | Sammamish,WA,US | Redmond,WA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

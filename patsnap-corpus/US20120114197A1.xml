@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120114197A1
+	</str>
+	<str name="Application Number">
+		US12/942284
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		BUILDING A PERSON PROFILE DATABASE
+	</str>
+	<str name="Abstract">
+		Names of entities, such as people, in an image may be identified automatically. Visually similar images of entities are retrieved, including text proximate to the visually similar images. The collected text is mined for names of entities, and the detected names are analyzed. A name may be associated with the entity in the image, based on the analysis.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-11-09
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-11
+	</str>
+	<str name="Publication Date">
+		2012-05-10
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-05
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond,WA,US
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond,WA,US
+	</str>
+	<str name="Inventor(s)">
+		ZHANG LEI | WANG XIN-JING | MA WEI-YING
+	</str>
+	<str name="1st Inventor">
+		ZHANG LEI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Beijing,CN
+	</str>
+	<str name="Inventor(s) Address">
+		Beijing,CN | Beijing,CN | Beijing,CN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

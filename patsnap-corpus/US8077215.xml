@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8077215
+	</str>
+	<str name="Application Number">
+		US12/101766
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus for detecting blinking state of eye
+	</str>
+	<str name="Abstract">
+		A state-of-eye distinguishing means calculates a feature value that represents a state of an eye, for an eye-area based on pixel data of pixels that constitute the eye-area. A threshold value setting means calculates a first threshold value representing a feature value at a first transition point from an open state to a closed state and a second threshold value representing a feature value at a second transition point from the closed state to the open state, based on a feature value calculated for a targeted eye when the targeted eye is open. A blinking state detection means detects the blinking state of the eye corresponding to the eye-area, by sequentially comparing feature values which are sequentially calculated for a series of frame images by the state-of-eye distinguishing means with one of the first threshold value and the second threshold value.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-04-11
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-04
+	</str>
+	<str name="Publication Date">
+		2011-12-13
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G08B23/00 | H04N5/235
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/117 | 348/222.1 | 340/575
+	</str>
+	<str name="UPC Primary">
+		382/117
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8208035
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6571002 | US20060204042 | US5878156 | US7202792 | US20070237421 | US20060210121 | JP2006163496 | JP2003338952 | JP2005039365 | JP2001067459
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2007105580
+	</str>
+	<str name="Priority Date">
+		2007-04-13
+	</str>
+	<str name="Assignee(s)">
+		FUJIFILM CORPORATION
+	</str>
+	<str name="1st Assignee">
+		FUJIFILM CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		NAKAMURA, TOMOKAZU
+	</str>
+	<str name="1st Inventor">
+		NAKAMURA, TOMOKAZU
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kurokawa-gun, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kurokawa-gun, JP
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		DIEP, TRUNG
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

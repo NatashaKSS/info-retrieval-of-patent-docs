@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7704373
+	</str>
+	<str name="Application Number">
+		US10243418
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Waste fluid or waste water treatment method and its apparatus
+	</str>
+	<str name="Abstract">
+		A method for electrochemical oxidation decomposition of difficult to decompose compounds such as aromatic compounds, organic chlorine compounds, agricultural chemicals, dioxin, PCB's and water soluble polymers that are contained in waste fluid, such as print developing waste fluids, factory waste water and industrial waste water, and landfill soil seeping waste water by carrying out electrolysis at a high current density to eliminate and purify difficult to decompose substances in the waste fluid. Waste fluid containing difficult to decompose substances is introduced into an electrolytic chamber having a ferrite electrode anode, electrolysis is performed at a high current density of 10 A/dm.sup.2 or higher, hypohalogenous acid and active oxygen are generated in the waste fluid along with a strong anode oxidation action being brought about, and the oxidation decomposition is repeated by re-circulating the waste fluid through a filter, electrolyzer and an intermediate collecting chamber.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2002-09-13
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-09
+	</str>
+	<str name="Publication Date">
+		2010-04-27
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		C02F1/461
+	</str>
+	<str name="IPC Primary">
+		C02F1/461
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		204/275.1 | 204/276 | 205/751 | 205/742
+	</str>
+	<str name="UPC Primary">
+		204/275.1
+	</str>
+	<str name="UPC Class">
+		204
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3616355 | US6106691 | US5972196 | US6966995 | US6235186 | JP2000079395 | JP1998043745 | JP2001340881 | JP1998085753 | JP2002143642 | JP2000301153 | JP1999128942 | JP2001347270 | JP1996192162 | JP1999256398
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2001323356
+	</str>
+	<str name="Priority Date">
+		2001-10-22
+	</str>
+	<str name="Assignee(s)">
+		OMEGA CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		OMEGA CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		JP
+	</str>
+	<str name="Assignee(s) Address">
+		JP
+	</str>
+	<str name="Inventor(s)">
+		NAKAMURA, SHINICHI | FUKUZUKA, KUNIHIKO
+	</str>
+	<str name="1st Inventor">
+		NAKAMURA, SHINICHI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Osaka, JP | Habikino, JP
+	</str>
+	<str name="Agent/Attorney">
+		HAYES SOLOWAY P.C.
+	</str>
+	<str name="Primary Examiner">
+		PHASGE, ARUN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

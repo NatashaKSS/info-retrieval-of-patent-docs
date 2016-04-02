@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6170303
+	</str>
+	<str name="Application Number">
+		US09188210
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Washing machine equipped with an air bubble generator having contraction/enlargement exhaust nozzles
+	</str>
+	<str name="Abstract">
+		Outlets of a contraction/enlargement exhaust nozzle type are formed in an air bubble-generating plate from which fine air bubbles are generated. The outlets are constituted with outer outlets and inner outlets. The outer outlets are formed along edge portions of the air bubble-generating plate and the inner outlets are formed in the inner portions of the air bubble-generating plate. Each of the outlets has a flow-in portion, a contraction portion, and a flow-out portion which are aligned in a coaxial line and have different diameters, so that each of the outlets are formed in a shape of a contraction/enlargement exhaust nozzle type. A diameter of the flow-out portion is smaller than a diameter of the flow-in portion, but larger than a diameter of the contraction portion. A height of the contraction portion is larger than a height of the flow-out portion, but smaller than a height of the flow-in portion. The diameters of contraction portions of the outer outlets are smaller than those of contraction portions of the inner outlets. Fine air bubbles are generated from an air bubble generator having outlets of a contraction/enlargement exhaust nozzle type.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-11-09
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-11
+	</str>
+	<str name="Publication Date">
+		2001-01-09
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-01
+	</str>
+	<str name="All IPC">
+		D06F39/02
+	</str>
+	<str name="IPC Primary">
+		D06F39/02
+	</str>
+	<str name="IPC Section">
+		D
+	</str>
+	<str name="IPC Class">
+		D06
+	</str>
+	<str name="IPC Subclass">
+		D06F
+	</str>
+	<str name="IPC Group">
+		D06F39
+	</str>
+	<str name="All UPC">
+		134/102.2 | 68/183 | 68/207
+	</str>
+	<str name="UPC Primary">
+		134/102.2
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		US6170303 | JP3734969B2 | JP2000140478A
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		BE1014422A5 | EP1302585A1 | CN100504126C | CN101144545A | US6662600 | US6868701 | US8327673
+	</str>
+	<str name="Cited By Count">
+		7
+	</str>
+	<str name="Cites">
+		US2750950 | US5253380 | US5307649 | US2025800 | US0920171 | US2241337 | US5295373 | US4727896 | GB458451 | DE2907562 | FR1120249 | JP1985055996 | GB6486 | EP0495168 | JP1990149293 | GB13226 | EP0735178
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		US | JP
+	</str>
+	<str name="Priority Number">
+		18821098 | 31354698
+	</str>
+	<str name="Priority Date">
+		1998-11-09 | 1998-11-04
+	</str>
+	<str name="Assignee(s)">
+		DAEWOO ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		DAEWOO ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Seoul, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s)">
+		HONG, DAE-YEONG | LIM, MOO-SAENG
+	</str>
+	<str name="1st Inventor">
+		HONG, DAE-YEONG
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Incheon, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Incheon, KR | Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		SMITH, GAMBRELL &amp; RUSSELL, LLP
+	</str>
+	<str name="Primary Examiner">
+		STINSON, FRANKIE L.
+	</str>
+	<str name="cited by within 3 years">
+		4
+	</str>
+	<str name="cited by within 5 years">
+		4
+	</str>
+</doc>
+

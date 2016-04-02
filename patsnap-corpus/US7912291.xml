@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7912291
+	</str>
+	<str name="Application Number">
+		US10705544
+	</str>
+	<str name="Title">
+		Features for retrieval and similarity matching of documents from the JPEG 2000-compressed domain
+	</str>
+	<str name="Abstract">
+		A method and apparatus for image processing is described. In one embodiment, the method comprises accessing header data from a multi-resolution codestream of compressed data of a first document image, deriving one or more retrieval attributes from the header information, and performing image analysis between the first document image and a second document image based on the one or more retrieval attributes.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-11-10
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-11
+	</str>
+	<str name="Publication Date">
+		2011-03-22
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+	<str name="All IPC">
+		G06K9/36 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/36
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/173 | 382/232 | 382/190 | 382/224 | 382/191 | 382/218
+	</str>
+	<str name="UPC Primary">
+		382/173
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Srihari, S.N., et al.: &quot;Analysis of Textual Images Using the Hough Transform,&quot; Department of Computer Science, SUNY at Buffalo, NT, USA; Machine Vision and Applications (1989) vol. 2, pp. 141-153 (13 pages). cited by other . | ITU-T Rec. T.800 (2000 FCDV1.0)/ ISO/IEC FCD15444-1:2000 (V1.0, Mar. 16, 2000) &quot;JPEG 2000 Image Coding System,&quot; http://www.jpeg.org/public/fcd15444-1.pdf (205 pgs.). cited by other. | Neelamani, R. et al., &quot;Multiscale Image Segmentation Using Joint Texture and Shape Analysis,&quot; SPIE's 44.sup.th Annual Meeting, International Symposium on Optical Science and Technology, Aug. 2000, San Diego, CA, (14 pgs.). cited by other . | Cattoni, R. et al., &quot;Geometric Layout Analysis Techniques for Document Image Understanding: a Review,&quot; ITC-IRST, Trento, Italy, Jan. 1998, pp. 1-68. cited by other . | European Search Report, Application No. EP 04 25 6975, dated Feb. 2, 2006, (4 pp.). cited by other . | H. S. Baird, et al., &quot;Global-to-Local Layout Analysis,&quot; from Series in Computer Science, vol. 19, Structural Pattern Analysis, workshop by IAPR Technical Committee on Syntactic and Structural Pattern Recognition, Pont-a-Mousson, France, Sep. 1988. (18 pgs.). cited by other . | Gao, Jiang, et al., &quot;An Adaptive Algorithm for Text Detection from Natural Scenes&quot;, Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, Kauai, HI, USA, Dec. 8-14, 2001, (6 pages). cited by other . | Veltcamp, R. D. et al., &quot;Content-Based Image Retrieval Systems: A Survey,&quot; Technical Report UU-CS-200-34, Department of Computing Science, Utrecht University, Oct. 2000, (62 pgs.). cited by other . | Ziyou Xiong, et al., Wavelet-Based Texture Features can be Extracted Efficiently from Compressed-Domain for JPEG 2000 Coded Images, Proceedings 2002, Int'l. Conference on Image Processing, NY, US, vol. 2 of 3, Sep. 22, 2002, (pp. 481-484) XP010607365. cited by other . | Text of Chinese Office Action for CN Appln No. CN 200410090496.2 (12 pages). cited by other . | Choi, H. et al., &quot;Multiscale Texture Segmentation Using Wavelet-Domain Hidden Markov Models,&quot; in Proc. 32.sup.nd Asilomar Conf. on Signals, Systems and Computers, Pacific Grove, CA, Nov. 1-4, 1998, pp. 1287-1291 (5 pgs.). cited by other . | Cheng, H. et al., &quot;Trainable Context Model for Multiscale Segmentation,&quot; in Proc. IEEE Int'l. Conf. on Image Proc.--ICIP '98, Chicago, IL, Oct. 4-7, 1998 pp. 610-614 (5 pgs.). cited by other . | Ramesh Neelamani, et al., &quot;Adaptive Representation of JPEG 2000 Images Using Header-Based Processing&quot;, Proceedings 2002 Int'l. Conference of Image Processing (ICIP), Rochester, NY, US, Sep. 22-25, 2002, IEEE, ICIP, New York, NY, US, vol. 2 of 3, Sep. 22, 2002 (pp. 381-384) XP010607340. cited by other . | Duda, R. O. et al., &quot;Pattern Classification,&quot; Chapter 1--Introduction, copyright 2001, 2.sup.nd Edition, by John Wiley &amp; Sons, New York, ISBN O-471-05669-3 (22 pgs.). cited by other . | Chinese Office Action for CN Appln No. CN 200410090496.2 (12 pages). cited by other . | Ricardo L. De Queiroz, et al., &quot;Fast Segmentation of the JPEG Compressed Documents&quot;, Journal of Electronic Imaging, SPIE + IS&amp;T, US, vol. 7, No. 2, Apr. 1, 1998, pp. 367-377, XP000750393. cited by other . | European Patent Office (Munich, Germany) Registered Letter for Application No. 04 256 975.6-2001, mailed Mar. 18, 2008, (4 pages). cited by other . | Marco Aiello, et al., &quot;Document Understanding for a Broad Class of Documents,&quot; IJDAR 5: 1-16 (2002), (16 pgs.). cited by other . | Shin, C .K. et al., &quot;Classification of Document Page Images Based on Visual Similarity of Layout Structures,&quot; Proc. SPIE, vol. 3967, Document Recognition and Retrieval VII, pp. 182-190, San Jose, CA, 2000, (9 pgs.). cited by other . | Jiang, Jianmin et al., &quot;Extracting Shape Features in JPEG-2000 Compressed Images,&quot; Lecture Notes in Computer Science vol. 2457, Springer Verlag, Berlin 2002, (10 pgs.). cited by other . | Yong Rui, et al., &quot;Image Retrieval: Current Techniques, Promising Directions, and Open Issues&quot;, Journal of Visual Communication and Image Representation, Academic Press, Inc., US, vol. 10, No. 1, Mar. 1999, (pp. 39-62) XP002252610. cited by other .
+	</str>
+	<str name="Other References Count">
+		21
+	</str>
+	<str name="Cites">
+		US20060077408 | US7236637 | US20040109608 | US20030113027 | US20010004739 | US6363381 | US20040047615 | US20050271281 | US5933823 | US20020044691 | US7474795 | US20030165273 | US20040204965 | US20050084132 | US20030219162 | EP1329847
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Assignee(s)">
+		RICOH CO., LTD
+	</str>
+	<str name="1st Assignee">
+		RICOH CO., LTD
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		BERKNER, KATHRIN | BOLIEK, MARTIN
+	</str>
+	<str name="1st Inventor">
+		BERKNER, KATHRIN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Menlo, Park, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Menlo, Park, CA | San, Francisco, CA
+	</str>
+	<str name="Agent/Attorney">
+		BLAKELY, SOKOLOFF, TAYLOR &amp; ZAFMAN
+	</str>
+	<str name="Primary Examiner">
+		AHMED, SAMIR A.
+	</str>
+	<str name="Assistant Examiner">
+		BAYAT, ALI
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

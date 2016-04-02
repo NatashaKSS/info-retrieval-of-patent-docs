@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7641797
+	</str>
+	<str name="Application Number">
+		US11665732
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of treating waste liquid from production plant for hydrocarbons or oxygen-containing compounds
+	</str>
+	<str name="Abstract">
+		A method for treating a formaldehyde-containing waste liquid, which is formed as a byproduct in a plant for the production of hydrocarbons or oxygen-containing compounds, containing the steps of: subjecting formaldehyde in the liquid to chemical treatment; and treating the resulting waste liquid, while being aerated, by using a membrane bioreactor that is composed of a microorganism or enzyme and a separation membrane.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-10-21
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-10
+	</str>
+	<str name="Publication Date">
+		2010-01-05
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/606 | 210/749 | 210/764 | 210/908
+	</str>
+	<str name="UPC Primary">
+		210/606
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7641797 | WO2006043726A1 | CN101044099A | US20070289923A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		5
+	</str>
+	<str name="Other References">
+		English language Abstract of JP JP2003260449 A. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6268204 | US4824577 | US4338196 | US6126830 | US6946073 | JP1997253696 | JP2003136087 | JP2003024991 | JP1999019686 | JP1996024885 | JP1999019685 | JP1978144149 | JP1976145168 | JP1995232178 | JP2003260449
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2004307813
+	</str>
+	<str name="Priority Date">
+		2004-10-22
+	</str>
+	<str name="Assignee(s)">
+		TOYO ENGINEERING CORPORATION (TOKYO, JP), WATER RE-USE PROMOTION CENTER
+	</str>
+	<str name="1st Assignee">
+		TOYO ENGINEERING CORPORATION (TOKYO, JP), WATER RE-USE PROMOTION CENTER
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		IKEBE, HIROAKI | UCHIDA, MASAYUKI | BETCHAKU, HITOSHI
+	</str>
+	<str name="1st Inventor">
+		IKEBE, HIROAKI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Narashino, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Narashino, JP | Narashino, JP | Funabashi, JP
+	</str>
+	<str name="Agent/Attorney">
+		FLYNN, THIEL, BOUTELL &amp; TANIS, P.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7620893
+	</str>
+	<str name="Application Number">
+		US10814835
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Aiding a user in using a software application
+	</str>
+	<str name="Abstract">
+		A method of aiding a user in using features of a software application comprises receiving from a user a selection of layout. The layout is to be used in creating an informational display for displaying results of a data repository query. At least one input field and an image are displayed to the user. The image is of a sample informational display that is based on the selected layout. The at least one input field is displayed in association with at least one feature shown in the displayed sample image. A user input is received via the input field. The user input is to be used in modifying the at least one feature in the new informational display. That least one input field may be displayed on top of the displayed sample image, in close proximity to the shown feature.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-03-31
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-03
+	</str>
+	<str name="Publication Date">
+		2009-11-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		G06F3/00
+	</str>
+	<str name="IPC Primary">
+		G06F3/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F3
+	</str>
+	<str name="All UPC">
+		715/221 | 717/109 | 715/223 | 715/222 | 715/780 | 717/115 | 717/113 | 717/105 | 717/106 | 715/274 | 717/110 | 715/705 | 715/709
+	</str>
+	<str name="UPC Primary">
+		715/221
+	</str>
+	<str name="UPC Class">
+		715
+	</str>
+	<str name="Family Members">
+		EP1582976A3 | EP1582976A2 | US20050223355A1 | US7620893
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Screenshots from Crystal Reports 8.5, printed on Mar. 31, 2004, 11 pages. cited by other . | Pages available under the heading, &quot;Create the report,&quot; in Crystal Reports Online Help, available from Seagate Software IMG Holdings, Inc., Mk:@MSITStore:C:\unzipped\CR8.5HELP.sub.--En\En\crw.chm::/04.sub.--quick1- 1.html, printed on Mar. 31, 2004, 19 pages. cited by other . | &quot;Personalized Reporting with Oracle Developer Release 6i&quot;, An Oracle Technical White Paper, Apr. 2000. cited by other.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6031625 | US7000182 | US20020152189 | US20040205707 | US20040003341 | US20020133488 | US5890175 | US20030025732 | WO2001088703 | EP1280055
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		81483504
+	</str>
+	<str name="Priority Date">
+		2004-03-31
+	</str>
+	<str name="Assignee(s)">
+		SAP AG
+	</str>
+	<str name="1st Assignee">
+		SAP AG
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Walldorf, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Walldorf, DE
+	</str>
+	<str name="Inventor(s)">
+		FORSTMANN, GERD | HEUER, CARSTEN
+	</str>
+	<str name="1st Inventor">
+		FORSTMANN, GERD
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Nussloch, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Nussloch, DE | Schriesheim, DE
+	</str>
+	<str name="Agent/Attorney">
+		MINTZ, LEVIN, COHN, FERRIS, GLOVSKY &amp; POPEO, P.C.
+	</str>
+	<str name="Primary Examiner">
+		LO, WEILUN
+	</str>
+	<str name="Assistant Examiner">
+		HASSAN, RASHEDUL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

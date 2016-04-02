@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7438817
+	</str>
+	<str name="Application Number">
+		US10899326
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System and method for treatment of acidic wastewater
+	</str>
+	<str name="Abstract">
+		A wastewater treatment system comprising separation unit operations inhibits or promotes the formation and precipitation of species by controlling the pH of wastewater to be treated entering into the separation unit operations. The separation unit operations include first and second reverse osmosis devices. The first reverse osmosis device treats wastewater having pH that is less than about 3.5 and the second reverse osmosis device treats wastewater, from the first reverse osmosis device, having a pH that is about 6 or higher.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-07-26
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-07
+	</str>
+	<str name="Publication Date">
+		2008-10-21
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		B01D61/04
+	</str>
+	<str name="IPC Primary">
+		B01D61/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/266 | 210/652 | 210/754 | 210/202 | 210/806 | 210/702 | 210/764 | 210/639 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/266
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		AU2004259768B2 | AU2004259768A1 | US20050051488A1 | US7438817 | WO2005009908A3 | US20080290030A1 | RU2006105497A | EP1651573A2 | WO2005009908A2 | BRPI0412848A | MXPA06000839A | CA2533628A1 | RU2342330C2
+	</str>
+	<str name="Family Member Count">
+		13
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Norton, Michael; &quot;King County Water Reuse Demonstration Project Sets the Stage for Wide-Scale, Satellite Reuse&quot;; Waterscapes, vol. 14, No. 2, Summer 2003, 2 total pages. cited by other . | &quot;Water Reuse Program Update,&quot; King County Wastewater Treatment Division, Seattle, Washington, accessed at http://dnr.metrokc.gov/wtd/reuse/reuse-0110.pdf. cited by other . | Norton, &quot;King County Water Reuse Demonstration Project Sets the Stage for Wide-Scale, Satellite Reuse,&quot; Waterscapes, Summer 2003, pp. 3-4, vol. 14, No. 2, The Water Group of HDR, accessed at http://www.hdrinc.com/assets/documents/publications/waterscapes/summer200- 3/waterscapes.sub.--summer2003.pdf. cited by other . | Desjardins, Christian; Koudjonou, Boniface; Desjardins, Raymond; &quot;Laboratory Study of Ballasted Flocculation&quot;, Water Research 36 (2002) pp. 744-754. cited by other. | &quot;Water Reuse Program Update&quot;, King County Wastewater Treatment Division, 4 total pages. cited by other . | Desjardins et al., &quot;Laboratory Study of Ballasted Flocculation,&quot; Water Research, Feb. 2002, pp. 744-754, vol. 36, No. 3, Pergamon Press, Oxford, Great Britain. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cites">
+		US5766479 | US6649037 | US4574049 | US6277285 | US3252855 | US6537456 | US6267891 | US3249498 | US5707514 | US20030080067 | US6113797 | US6338803 | US6398965 | US6071413 | WO2002068338 | WO2003008336
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		89932604 | 48985303
+	</str>
+	<str name="Priority Date">
+		2004-07-26 | 2003-07-24
+	</str>
+	<str name="Assignee(s)">
+		OTU SA
+	</str>
+	<str name="1st Assignee">
+		OTU SA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		FR
+	</str>
+	<str name="Assignee(s) Address">
+		FR
+	</str>
+	<str name="Inventor(s)">
+		NAGGHAPPAN, LNSP | HELWICK, ROBERT, P.
+	</str>
+	<str name="1st Inventor">
+		NAGGHAPPAN, LNSP
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Inventor(s) Address">
+		Pittsburgh, PA | Mckees, Rocks, PA
+	</str>
+	<str name="Agent/Attorney">
+		COATS &amp; BENNETT, P.L.L.C.
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

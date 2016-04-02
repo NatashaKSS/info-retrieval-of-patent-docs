@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2011096863A1
+	</str>
+
+	<str name="Application Number">
+		PCT/SE2010/050140
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		BATTERY ASSEMBLY
+	</str>
+
+	<str name="Abstract">
+		The invention concerns a battery assembly (1),comprising: at least a first block(4) of rechargeable battery cell members (3) that are arranged side by side in at least one row and that are electrically configured in parallel, wherein each cell member (3) has a first and a second electrode terminal (24, 25); a printed circuit board (PCB) (10) provided with an electronic circuit (11) configured to monitor, control and/or balance said first block (4) of cell members (3); and interconnecting means (6, 7, 8, 17, 18, 20, 28) arranged to connect the first electrode terminals (24) electrically to each other and to the PCB (10). The invention is characterized in that the interconnecting means comprises a first supporting metal plate (6) that: extends along said at least one row of cell members (3); is mechanically fixed to the first block (4) of cell members (3); is electrically connected to the first electrode terminal (24) of each of the cell members (3) in the first block (4) of cell members; and that is mechanically fixed to the PCB (10) via a mechanical fixation that also provides an electric connection between the first metal plate (6) and the PCB (10). The invention also concerns a battery system comprising a plurality of battery assemblies of the above type.
+	</str>
+
+	<str name="Document Types">
+		WO
+	</str>
+
+	<str name="Application Date">
+		2010-02-05
+	</str>
+
+	<str name="Application Year">
+		2010
+	</str>
+
+	<str name="Application(Year/Month)">
+		2010-02
+	</str>
+
+	<str name="Publication Date">
+		2011-08-11
+	</str>
+
+	<str name="Publication Year">
+		2011
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+
+	<str name="All IPC">
+		H01M10/525 | H01M2/20 | H01M2/10 | H01M10/48
+	</str>
+
+	<str name="IPC Primary">
+		H01M10/525
+	</str>
+
+	<str name="IPC Section">
+		H
+	</str>
+
+	<str name="IPC Class">
+		H01
+	</str>
+
+	<str name="IPC Subclass">
+		H01M
+	</str>
+
+	<str name="IPC Group">
+		H01M10
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Assignee(s)">
+		ALELION BATTERIES AB | TORELL, MAGNUS | TORSTENSSON
+	</str>
+
+	<str name="1st Assignee">
+		ALELION BATTERIES AB | TORSTENSSON
+	</str>
+
+	<str name="Number of Assignees">
+		2 | 1
+	</str>
+
+	<str name="1st Assignee Address">
+		R&#195;&#182;djans v&#195;&#164;g 23 S-449 34 N&#195;&#182;dinge SE | R&#195;&#182;djans v&#195;&#164;g 23 S-449 34 N&#195;&#182;dinge SE
+	</str>
+
+	<str name="Assignee(s) Address">
+		R&#195;&#182;djans v&#195;&#164;g 23 S-449 34 N&#195;&#182;dinge SE | Per-&#195;&#8230;ke, Klassikergatan 9 S-422 41 Hisings-Backa SE | Knektv&#195;&#164;gen 2 S-444 41 Stenungsund SE | TORSTENSSON
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7695973
+	</str>
+	<str name="Application Number">
+		US11672467
+	</str>
+	<str name="Title">
+		Determination of glycated protein
+	</str>
+	<str name="Abstract">
+		The present invention provides methods for quantitation of glycated protein in a biological sample using a solid support matrix by making a first bound protein measurement total bound protein under conditions where both glycated and non-glycated protein bind to the support in making a second bound protein measurement under conditions where glycated protein is bound to the support and non-glycated protein is not substantially bound. Diagnostic devices and kits comprising the methods of the present invention are also provided.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-02-07
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-02
+	</str>
+	<str name="Publication Date">
+		2010-04-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		G01N33/00 | G01N33/573
+	</str>
+	<str name="IPC Primary">
+		G01N33/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N33
+	</str>
+	<str name="All UPC">
+		530/369 | 435/188 | 436/46 | 436/174 | 436/175 | 436/178 | 435/803 | 436/825 | 435/180 | 435/181 | 436/177 | 435/805 | 435/7.92 | 210/500.29 | 422/70 | 436/815 | 435/14 | 210/663 | 435/962 | 435/179 | 436/810 | 210/660 | 530/385 | 436/501 | 435/815 | 436/129 | 435/817 | 210/668 | 530/416 | 530/417 | 210/500.38 | 530/413 | 436/87 | 210/500.35 | 530/415 | 435/288.3 | 436/88 | 436/131 | 210/500.42 | 600/477 | 436/805 | 435/288.7 | 435/970 | 436/151 | 435/7.6 | 435/7.7 | 435/7.4 | 435/973 | 435/7.8 | 530/403 | 435/7.9 | 530/395 | 356/40 | 422/56 | 422/57 | 435/287.7 | 435/287.9 | 356/39 | 435/967 | 436/161 | 436/162 | 436/14 | 436/15 | 436/16 | 436/18 | 436/169 | 436/166 | 436/67 | 436/66
+	</str>
+	<str name="UPC Primary">
+		530/369
+	</str>
+	<str name="UPC Class">
+		530
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Penn, S.G. et al. Direct analysis of sugar alcohol borate complexes in plant extracts by matrix-assisted laser desorption/ionization fourier transform mass spectrometry. Anal. Chem. 1997;69:2471-2477. cited by other . | Matrisian L.M., et al., Stromelysian/transin and tumor progression, Cancer Biology, vol. 1 (1990):pp. 107-115. cited by other . | Sartobind.RTM. Product Literature, Sartorius AG, Publication Nos. SL-1513-e05043, SL-2014-e03082, SL-2018-e06054, relevant website and documents included in application file history, available at http://www.sartorius.com (last updated Jul. 7, 2006). cited by other . | American Diabetes Association, Tests of Glycemia in Diabetes, Diabetes Care, vol. 20, Supp 1 (Jan. 1997) pp. S18-S20. cited by other . | Diabetes Control and Complications Trial Research Group, The Effect of Intensive Treatment of Diabetes on the Development and Progression of Long-Term Complications in Insulin-Dependent Diabetes Mellitus, New England Journal of Medicine, 329(14):977-986(1993). cited by other . | Szulc, M. et al. Detection in liquid chromatography. Method Enzymol. 1996;270:175-200. cited by other . | Yan, J. et al. The relationship among pKa, PH, and binding constants in the interactions between boronic acids and diols--it is not as simple as it appears. Tetrahedron. 2004;60:11205-11209. cited by other. | Shapiro, R. et al. Sites of nonenzymatic glycosylation of human hemoglobin A. J. Biol. Chem. 1980;255:3120-3127. cited by other . | Ackloo, S.Z. et al. Structural analysis of diols by electrospray mass spectrometry on boric acid complexes. Rapid Commun. Mass Spectrom. 1999;13:2406-2415. cited by other . | Mao, Q. &amp; Pawliszyn, J. Capillary isoelectric focusing with whole column imaging detection for analysis of proteins and peptides. J. Biochem. Biophys. Methods. 1999;39:93-110. cited by other . | Kikuchi, S. et al. Glucose-sensing electrode coated with polymer complex gel containing phenylboronic acid. Anal. Chem. 1996;68:823-828. cited by other . | Tang, Z. et al. Effects of pH on glucose measurements with handheld glucose meters and a portable glucose analyzer for point-of-care testing. Arch.Pathol.Lab.Med 2000;124:577-582. cited by other . | Dicesare, N. &amp; Lakowicz, J.R. Fluorescent probe for monosaccharides based on a functionalized boron-dipyrromethene (BODIPY) with a boronic acid group. Tetrahedron Lett. 2001;42:9105-9108. cited by other . | Khym, J.X. The use of the borate complex. Methods Enzymol. 1967;12:93-101. cited by other . | Liu, X.C. &amp; Scouten, W.H. Studies on oriented and reversible immobilization of glycoprotein using novel boronate affinity gel. J. Molec. Recognit. 1996;9:462-467. cited by other . | Freitag, R. et al. Controlled mixed-mode interaction chromatography on membrane adsorbers. J. Chromatogr. A. 1996;728:129-137. cited by other . | Wu, J. &amp; Pawliszyn, J. Protein analysis by isoelectric focusing in a capillary array with an absorption imaging detector. J. Chromatogr. B. 1995;669:39-43. cited by other .
+	</str>
+	<str name="Other References Count">
+		17
+	</str>
+	<str name="Cited By">
+		US8093057
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5529915 | US6766183 | US5919708 | US6984526 | US6562581 | US5384239 | US5506144 | US5242842 | US4269605 | US5298410 | US4861728 | US5763238 | US5389381 | US5695949 | US6020203 | US6711423 | US4298500 | US7078480 | US5064866 | US6054039 | US5801053 | US4678757 | US6743908 | US5661020 | US5985121 | US7018843 | US6330464 | US5959076 | US5963335 | US4917685 | US5536382 | US6653141 | US5843788 | US5807747 | US6927246 | US6682938 | US6083653 | US5718895 | US5739318 | US5532150 | US4409335 | US5719053 | US6304766 | US5877025 | US6743896 | US6387672 | US6174734 | US5773645 | US4925545 | US3226380 | US7045361 | US5589393 | US5439591 | US5110745 | US5846741 | US6121050 | US4407961 | US5800602 | US6818416 | US4820636 | US6399293 | US5179005 | US6673625 | US6627177 | US6677158 | US5585216 | US5763203 | US4371374 | US4130470 | US6740257 | US5725774 | US6323322 | US5284777 | US4477575 | GB2206411 | GB2024829 | DE37270736 | WO1998040750 | JP1985058936 | WO1996003657 | EP0455225
+	</str>
+	<str name="Cites Count">
+		81
+	</str>
+	<str name="Assignee(s)">
+		SCRIPPS LABORATORIES, INC.
+	</str>
+	<str name="1st Assignee">
+		SCRIPPS LABORATORIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Diego, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Diego, CA
+	</str>
+	<str name="Inventor(s)">
+		MCCROSKEY, RALPH, P. | MELTON, CAMERON, E.
+	</str>
+	<str name="1st Inventor">
+		MCCROSKEY, RALPH, P.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		San, Diego, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Diego, CA | Nine, Mile, Falls, WA
+	</str>
+	<str name="Agent/Attorney">
+		KNOBBE, MARTENS, OLSON &amp; BEAR LLP
+	</str>
+	<str name="Primary Examiner">
+		JUNG, UNSU
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7713417
+	</str>
+	<str name="Application Number">
+		US11966267
+	</str>
+	<str name="Title">
+		Method for wastewater treatment with resource recovery and reduced residual solids generation
+	</str>
+	<str name="Abstract">
+		A wastewater treatment system is provided including an aerobic membrane bioreactor and an anaerobic digester system connected to receive wasted solids continuously from the aerobic membrane bioreactor and also connected to return effluent from the anaerobic digester system continuously to the aerobic membrane bioreactor. Further, a process is provided for treating wastewater including the step of wasting a volume fraction of organic cell mass from an aerobic membrane bioreactor to an anaerobic digester system and maintaining a solids retention time (SRT) in the bioreactor that is (1) greater than a time needed to achieve growth of organisms suitable for converting carbonaceous biochemical oxygen demand (CBOD) into cell mass and (2) less than a time at which substantial decay of the organisms occurs. The system and process may further include optional pretreatment and/or phosphorus and/or nitrogen removal downstream of the membrane bioreactor system.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-12-28
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-12
+	</str>
+	<str name="Publication Date">
+		2010-05-11
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/630 | 210/624
+	</str>
+	<str name="UPC Primary">
+		210/630
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Ghosh, S., et al., &quot;Removal of carbonaceous and nitrogenous pollutants from a synthetic wastewater using membrane-coupled bioreactor&quot;, J. of Indust. Microbiol. Biotechnol., 2004, pp. 353-361, vol. 31, issue 8, Springer Berlin (Abstract only). cited by other . | International Search Report dated Oct. 6, 2008, application No. PCT/US2008/003452. cited by other . | Adam, C., &quot;Enhanced elimination of phosphorus and nitrogen from wastewaters employing a membrane activated sludge process with downstream denitrification&quot;, Fortschr.-Ber. VDI, Reihe 15, 2004, pp. I-X, 1-123, vol. 250 (Abstract only). cited by other . | Zhang Daijun, et al., &quot;The integration of methanogensis with simultaneous nitrification and denitrification in a membrane bioreactor&quot;, Process Biochem, 2005, pp. 541-547, vol. 40, issue 2, Elsevier Ltd. (Abstract only). cited by other . | Drews, A., et al., &quot;Process improvement by application of membrane bioreactors&quot;, Chem. Eng. Res. Des., 2005, pp. 276-284, vol. 83, issue A3, Institution of Chemical Engineers (w/Abstract). cited by other . | International Preliminary Report on Patentability and Written Opinion in PCT/US2008/003452, dated Oct. 1, 2009 (8 pages), The International Bureau of WIPO. cited by other. | Wang Ying, et al., &quot;Nitrogen and carbon removals from food processing wastewater by an anoxic/aerobic membrane bioreactor&quot;, Process Biochem., 2005, pp. 1733-1739, vol. 40, issue 5, Elsevier Ltd. (Abstract only). cited by other . | Atkinson, S., &quot;Novel membrane-based technologies to treat water&quot;, Membrane Technology, 2005, pp. 9-10, issue 10, Elsevier Ltd. (w/Abstract). cited by other . | Ng, How Y., et al., &quot;Membrane fouling of submerged membrane bioreactors: impact of mean cell residence time and the contributing factors&quot;, Environ. Sci. Technol., 2006, pp. 2706-2713, vol. 40, issue 8, ACS Publications (w/Abstract). cited by other .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cited By">
+		US8216459 | US8202500
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US6039873 | US3959125 | US20070012620 | US6605219 | US6758972 | US7172699 | US20060096918 | US5942108 | US20050045557 | US7147778 | US7147777 | US5254253 | US6235196 | US5254254 | US4885094 | US6730225 | US20050016919 | US5500123 | US20060169636 | US6585895 | US6863817 | US5116506 | US6893566 | US20060272198 | US5861095 | US20050011829 | US5558774 | US6444124 | US7005068 | US20060000785 | US20060249449 | US6709593 | US20050023202 | US7087170 | US6926830 | US6517723 | US6444125 | US6936170 | US20020185435 | US6723244 | US5736047 | US20050194311 | US6030533 | US20050274668 | US4321141 | US4781836 | US20050131086 | US4042494 | US6592763 | US6558549 | US6673243 | US20030178364 | US6743362 | US6692642 | US20060201876 | US5527464 | US20040144728 | US4029575 | US6491820 | US5776344 | US4246099 | US20040065611 | US20060163155 | US20060243664 | US5744037 | US5057220 | WO2005100265 | WO2004050566 | JP2006088014 | WO2002010077
+	</str>
+	<str name="Cites Count">
+		70
+	</str>
+	<str name="Assignee(s)">
+		ENVIROGEN TECHNOLOGIES, INC.
+	</str>
+	<str name="1st Assignee">
+		ENVIROGEN TECHNOLOGIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ewing, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Ewing, NJ
+	</str>
+	<str name="Inventor(s)">
+		SUTTON, PAUL, M.
+	</str>
+	<str name="1st Inventor">
+		SUTTON, PAUL, M.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Enfield, NH
+	</str>
+	<str name="Inventor(s) Address">
+		Enfield, NH
+	</str>
+	<str name="Agent/Attorney">
+		RATNERPRESTIA
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

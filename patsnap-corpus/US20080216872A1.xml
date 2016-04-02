@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080216872A1
+	</str>
+	<str name="Application Number">
+		US10546508
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Carburetor, Method of Vaporizing Material Solution, and Method of Washing Carburetor
+	</str>
+	<str name="Abstract">
+		There is obtained an MOCVD oriented vaporizer which eliminates a phenomenon that thin-film materials are adhered to a portion of the vaporizer near and around a spout thereof. A carrier gas/small amount oxidizing gas supply part supplies a carrier gas, which is supplied through an internally formed gas passage and which contains a material solution, to a vaporization part; a bubble prevention/material solution supply part supplies a material for preventing generation of bubbles of the carrier gas containing the material solution, and the material solution, into the carrier gas; a solvent vaporization restricting/cooling system restricts vaporization of a solvent; and a swirl flow preventing gas supply part supplies a gas for preventing occurrence of swirl flows near a gas outlet of the vaporization part. An atomizing part causes the carrier gas, which contains the material solution and which is ejected from the vaporizer, to be formed into a finely atomized state; and a complete vaporization oriented high performance vaporization tube completely vaporizes the carrier gas ejected from the vaporizer and containing the material solution. This enables long-term usage without clogging and the like, and enables a stable material supply to a reaction part.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-02-18
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-02
+	</str>
+	<str name="Publication Date">
+		2008-09-11
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		B08B5/00 | B08B3/08 | C23C16/448 | B05B15/02
+	</str>
+	<str name="IPC Primary">
+		B08B5/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B5
+	</str>
+	<str name="All UPC">
+		239/8 | 134/21 | 118/715 | 134/22.14 | 134/22.11 | 261/78.1 | 134/22.12
+	</str>
+	<str name="UPC Primary">
+		239/8
+	</str>
+	<str name="UPC Class">
+		239
+	</str>
+	<str name="Family Members">
+		EP1596426A1 | KR1020050096979A | JP2004265938A | EP1596426A4 | JP4192008B2 | WO2004075271A1 | CN1751380A | US20080216872A1
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2003040421
+	</str>
+	<str name="Priority Date">
+		2003-02-18
+	</str>
+	<str name="Inventor(s)">
+		YAMOTO HISAYOSHI | SAKAI RYOICHI | SHOJI MASAFUMI | AKUTO KAZUYA | NAGAOKA KEN | WATANUKI HIROSHI
+	</str>
+	<str name="1st Inventor">
+		YAMOTO HISAYOSHI
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo,JP | Tokyo,JP | Tokyo,JP | Tokyo,JP | Tokyo,JP | Tokyo,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

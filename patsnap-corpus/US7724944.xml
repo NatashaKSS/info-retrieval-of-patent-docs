@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7724944
+	</str>
+	<str name="Application Number">
+		US11597612
+	</str>
+	<str name="Title">
+		Image retrieval method and image retrieval device
+	</str>
+	<str name="Abstract">
+		Each of an image retrieval method and an image retrieval device in accordance with the present invention is provided with a means for extracting a color layout feature quantity, a dominant color feature quantity, a region division feature quantity, and a shape feature quantity from a query image which is a key of retrieval, and a means for specifying a region of interest of the image by carrying out mutual use of the above-mentioned feature quantities.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-08-19
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2010-05-25
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/62 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/162 | 382/164 | 382/209 | 382/165 | 382/190 | 382/203
+	</str>
+	<str name="UPC Primary">
+		382/162
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Yamada, Eizo Joho Media Gakkaisha, vol. 55, No. 11, The Institute of Image Information and Television Engineers, Nov. 1, 2001, pp. 1391-1393. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		JP2004192121 | JP2004361987 | JP2002133412 | JP1999167634 | JP2003323602 | JP1995095385 | JP2004021430 | JP2000207420 | JP2001273493
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Assignee(s)">
+		MITSUBISHI ELECTRIC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MITSUBISHI ELECTRIC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KUDO, DAIKI | NISHIKAWA, HIROFUMI | KATO, YOSHIAKI
+	</str>
+	<str name="1st Inventor">
+		KUDO, DAIKI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		BIRCH, STEWART, KOLASCH &amp; BIRCH, LLP
+	</str>
+	<str name="Primary Examiner">
+		STREGE, JOHN B
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

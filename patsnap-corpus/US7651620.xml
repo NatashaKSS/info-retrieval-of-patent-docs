@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7651620
+	</str>
+	<str name="Application Number">
+		US12465868
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Pressurised water releasing nozzle for generating microbubbles in a flotation plant
+	</str>
+	<str name="Abstract">
+		The inventive nozzle comprises a first releasing stage (1) for producing a pre-release by absorbing from 5 to 20% of available pressure, a second releasing stage (2) wherein a substantial release is carried out and the pressurised water passes from a saturation pressure to an output nozzle pressure, an intermediate chamber (3) in the form of a transition chamber in which the pressurised water approaches the saturation pressure by absorbing from 5 to 30% of the available pressure and an outlet tube (3) consisting of a sudden release and cavitation confinement tube whose minimum length (1) substantially corresponds to a distance separating the end of said tube on the second release stage side from a readhesion point of jets to the tube wall at the angle of divergence (alpha) thereof ranging from 3 to 12 DEG before readhesion.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2009-05-14
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-05
+	</str>
+	<str name="Publication Date">
+		2010-01-26
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		C02F1/24
+	</str>
+	<str name="IPC Primary">
+		C02F1/24
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		261/76 | 210/707 | 261/122.1 | 210/703
+	</str>
+	<str name="UPC Primary">
+		261/76
+	</str>
+	<str name="UPC Class">
+		261
+	</str>
+	<str name="Family Members">
+		FR2860735A1 | EP1680213B1 | EP1680213A1 | ES2267418T3 | ES2267418T1 | KR1020060122827A | RU2324531C2 | US20070119987A1 | FR2860735B1 | DE04791465T1 | US20090218293A1 | AT355889T | DE602004005230D1 | CA2540866A1 | DE602004005230T2 | HK1093460A1 | US7651620 | AU2004280269A1 | WO2005035105A1 | DK1680213T3 | CN100413569C | CN1867393A | RU2006115380A | BRPI0415137A
+	</str>
+	<str name="Family Member Count">
+		24
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20030071372 | US4790944 | US2573982 | US5505881 | US5154351 | US5332100 | US3784111 | US2585429 | GB1444026 | WO2003064326 | WO2002074440 | EP0659690 | EP0241167
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0311910
+	</str>
+	<str name="Priority Date">
+		2003-10-10
+	</str>
+	<str name="Assignee(s)">
+		DEGREMONT
+	</str>
+	<str name="1st Assignee">
+		DEGREMONT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rueil-Malmaison, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Rueil-Malmaison, FR
+	</str>
+	<str name="Inventor(s)">
+		VION, PATRICK
+	</str>
+	<str name="1st Inventor">
+		VION, PATRICK
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Houilles, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Houilles, FR
+	</str>
+	<str name="Agent/Attorney">
+		CONNOLLY BOVE LODGE &amp; HUTZ LLP
+	</str>
+	<str name="Primary Examiner">
+		LITHGOW, THOMAS M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

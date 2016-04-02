@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7507391
+	</str>
+	<str name="Application Number">
+		US11837141
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process and apparatus for the production of sulphur oxides
+	</str>
+	<str name="Abstract">
+		Sulphur oxides are generated from a liquid stream of hydrogen sulphide by feeding the liquid stream to a vacuum stripper where the stream is contacted with a stripping gas including steam under reduce pressure. Hydrogen sulphide is transferred to the stripping gas, whereby a loaded stripping gas is obtained. Water in the loaded stripping gas is condensed producing a H2S rich stream. The H2S is then burned in the stream to produce a stream rich in oxides of sulphur.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-08-10
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2009-03-24
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		C01B17/74 | C01B17/48 | C13K1/02 | C12P7/10 | C01B17/52 | C01B17/50
+	</str>
+	<str name="IPC Primary">
+		C01B17/74
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C01
+	</str>
+	<str name="IPC Subclass">
+		C01B
+	</str>
+	<str name="IPC Group">
+		C01B17
+	</str>
+	<str name="All UPC">
+		423/539 | 423/540 | 127/37 | 435/165 | 423/542 | 210/916 | 423/532
+	</str>
+	<str name="UPC Primary">
+		423/539
+	</str>
+	<str name="UPC Class">
+		423
+	</str>
+	<str name="Family Members">
+		EA200701700A1 | CU23442A3 | EP1690827A1 | KR1020070112788A | US20080038184A1 | US7507391 | JP2008529947A | WO2006085764A1 | CN101155754A | CA2597556A1 | AU2006213185A1 | MX2007009731A | AP200704123D0 | EA011834B1 | NO20074156A
+	</str>
+	<str name="Family Member Count">
+		15
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		von Sivers and Zacchi, &quot;Ethanol from Lignocellulosics: A Review of the Economy,&quot; Bioresource Technology, 56:131-140, (1996). cited by other. | English abstract of DE 43 04 143 (Aug. 18, 1994). cited by examiner .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US3821110 | US2675297 | US4241040 | US4288286 | US5928620 | DE4304143 | EP1127850 | DE0376633
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		05075351
+	</str>
+	<str name="Priority Date">
+		2005-02-11
+	</str>
+	<str name="Assignee(s)">
+		NEDERLANDSE ORGANISATIE VOOR TOEGEPAST-NATUURWETENSCHAPPELIJK ONDERZOEK TNO
+	</str>
+	<str name="1st Assignee">
+		NEDERLANDSE ORGANISATIE VOOR TOEGEPAST-NATUURWETENSCHAPPELIJK ONDERZOEK TNO
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Delft, NL); N/A
+	</str>
+	<str name="Assignee(s) Address">
+		Delft, NL); N/A
+	</str>
+	<str name="Inventor(s)">
+		HAZEWINKEL, JACOB, HENDRIK, OBBO | VAN, GROENESTIJN, JOHANNES, WOUTERUS | MEESTERS, KOEN, PETER, HENRI
+	</str>
+	<str name="1st Inventor">
+		HAZEWINKEL, JACOB, HENDRIK, OBBO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Zoetermeer, NL
+	</str>
+	<str name="Inventor(s) Address">
+		Zoetermeer, NL | Apeldoorn, NL | Amersfoort, NL
+	</str>
+	<str name="Agent/Attorney">
+		BANNER &amp; WITCOFF, LTD.
+	</str>
+	<str name="Primary Examiner">
+		VANOY, TIMOTHY C
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

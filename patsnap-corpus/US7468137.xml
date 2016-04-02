@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7468137
+	</str>
+	<str name="Application Number">
+		US11267277
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Wastewater treatment process
+	</str>
+	<str name="Abstract">
+		A wastewater treatment process for treating wastewater comprising a water-based dispersion containing a surfactant, a colorant and silica, as well as other solid matter, wherein the wastewater is treated using a polysilicato-iron coagulant.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-11-07
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2008-12-23
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-12
+	</str>
+	<str name="All IPC">
+		C02F1/52
+	</str>
+	<str name="IPC Primary">
+		C02F1/52
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/727 | 210/725 | 210/917 | 210/724 | 210/705
+	</str>
+	<str name="UPC Primary">
+		210/727
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		DE602005012489D1 | KR1020060132441A | JP2006346610A | US20060283806A1 | CN100484887C | CN1880240A | US7468137 | EP1734009A1 | EP1734009B1
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References">
+		Excerpt of the 5.sup.th Edition of &quot;Technology and Regulations for Pollution Prevention (Water Resources Edition)&quot;, edited by the environmental Protection and Industrial Location Bureau, Ministry of International Trade and Industry, published 2001 (p. 140-153 and 182 &amp; 183) with Partial English Translations. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US7767092 | US7967988 | US7972517
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US6190561 | US5069893 | US5662826 | US5415808 | US2217466 | JP216478A11 | JP1995136408 | JP1997225474
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2005177361
+	</str>
+	<str name="Priority Date">
+		2005-06-17
+	</str>
+	<str name="Assignee(s)">
+		FUJI XEROX CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		FUJI XEROX CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KOJIMA, HITOSHI | KAWASHIMA, SHINICHIRO | MORI, KAZUYA | YAMAHASHI, ATSUSHI | MASUDA, YUJI
+	</str>
+	<str name="1st Inventor">
+		KOJIMA, HITOSHI
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Minamiashigara, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Minamiashigara, JP | Minamiashigara, JP | Minamiashigara, JP | Minamiashigara, JP | Minamiashigara, JP
+	</str>
+	<str name="Agent/Attorney">
+		OLIFF &amp; BERRIDGE, PLC
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

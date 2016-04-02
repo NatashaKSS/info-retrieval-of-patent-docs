@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7837959
+	</str>
+	<str name="Application Number">
+		US11663681
+	</str>
+	<str name="Title">
+		Synergistic solvent extraction process
+	</str>
+	<str name="Abstract">
+		A process for separating one or more metal ions forming a first group of metal ions such as copper, zinc and ferric ions, from one or more other metal ions forming a second group of metal ions such as cobalt and nickel, comprising: contacting an aqueous solution comprising said first and second groups of metal ions with an organic solution comprising a phosphinic acid and a hydroxyoxime to extract one of said groups of metal ions into the organic phase, and separating the organic and aqueous phases.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-09-23
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2010-11-23
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		B01D11/00
+	</str>
+	<str name="IPC Primary">
+		B01D11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		423/99 | 423/140 | 423/122 | 210/639 | 423/139 | 210/634 | 423/24
+	</str>
+	<str name="UPC Primary">
+		423/99
+	</str>
+	<str name="UPC Class">
+		423
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Cheng, Purification of synthetic laterite leach solution by solvent extraction using D2EHPA, Mar. 21, 2000, Hydrometallurgy, 56, 369-386. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US7157003 | US5470553 | US20020012621 | US6210647 | JP1996092665 | JP1994264156 | KR0407372 | JP2004307983
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		AU
+	</str>
+	<str name="Priority Number">
+		2004905512
+	</str>
+	<str name="Priority Date">
+		2004-09-24
+	</str>
+	<str name="Assignee(s)">
+		COMMONWEALTH SCIENTIFIC &amp; INDUSTRIAL RESEARCH ORGANISATION
+	</str>
+	<str name="1st Assignee">
+		COMMONWEALTH SCIENTIFIC &amp; INDUSTRIAL RESEARCH ORGANISATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Campbell ACT, AU
+	</str>
+	<str name="Assignee(s) Address">
+		Campbell ACT, AU
+	</str>
+	<str name="Inventor(s)">
+		CHENG, CHU, YONG | URBANI, MARK, DANIEL
+	</str>
+	<str name="1st Inventor">
+		CHENG, CHU, YONG
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		South, Lake, AU
+	</str>
+	<str name="Inventor(s) Address">
+		South, Lake, AU | Wattle, Grove, AU
+	</str>
+	<str name="Agent/Attorney">
+		MERCHANT &amp; GOULD P.C.
+	</str>
+	<str name="Primary Examiner">
+		BOS, STEVEN
+	</str>
+	<str name="Assistant Examiner">
+		DARJI, PRITESH
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

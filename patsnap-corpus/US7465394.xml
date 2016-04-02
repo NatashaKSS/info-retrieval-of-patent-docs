@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7465394
+	</str>
+	<str name="Application Number">
+		US11470184
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Wastewater treatment system
+	</str>
+	<str name="Abstract">
+		Disclosed is a system for treating wastewater. The system includes a microorganism clad structure positioned in a body of wastewater such that the microorganism clad structure is at least partially submerged in the body of wastewater. The apparatus also includes an aeration device, such as a propeller-type, surface mounted aeration device, supplying a horizontal flow of oxygenated water to the microorganisms attached to the microorganism clad structure such that the microorganisms may carry out a biological process.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-09-05
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-09
+	</str>
+	<str name="Publication Date">
+		2008-12-16
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-12
+	</str>
+	<str name="All IPC">
+		C02F3/06
+	</str>
+	<str name="IPC Primary">
+		C02F3/06
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/926 | 210/242.2 | 210/150 | 210/903 | 210/194 | 210/629 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/926
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080053898A1 | US20090071899A1 | US7465394 | WO2008030870A3 | WO2008030870A2
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Korkut et al., &quot;Wastewater Treatment with Biomass Attached to Porous Geotextile Baffles&quot;, Journal of Environemtnal Engineering, Feb. 2006, pp. 284-288. cited by other . | Ripple, &quot;Nitrification of a Lagoon Effluent Using Fixed Film Media: Pilot Study Results&quot;, Newea Annual Conference, Jan. 2002,10 pgs. cited by other . | LagoonGuard for industrial and municipal wastewater treatment:, AnoxKaldnes AS Fact Sheet, 2 pgs., prior to Sep. 5, 2006. cited by other . | MBBR Biofilm Technology, &quot;An Introduction to biofilm wastewater treatment&quot;, AnoxKaldnes AS Fact Sheet, 4 pgs, prior to Sep. 5, 2006. cited by other . | &quot;AIRE -O2 Surface Aspirating Aerator, Pioneers in Wastewater Technology&quot;, Aeration Industries International, Inc. brochure, 8 pgs., no date. cited by other . | &quot;Nitrogen reduction in Advanced Wastewater Treatment Processes&quot;, AnoxKaldnes AS Fact Sheet, 2 pgs, prior to Sep. 5, 2006. cited by other . | &quot;Klippan Waste Water Treatment Plant&quot;, Article, 1 pg., Nov. 10, 2005. cited by other . | Infiniti System Article, AutoGenomics, 1 pg., Nov. 10, 2005. cited by other. | &quot;Retrofitting Into The Hybas Process&quot; Article, 1 pg., Nov. 10, 2005. cited by other . | &quot;Better Technologies. Better Water. Because life depends on clean water.&quot;, Aeration Industries International Inc. brochure, 29 pgs., no date. cited by other .
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6348147 | US5389247 | US5326475 | US5122266 | US6231766 | US5344557 | US6821426 | US4818391 | US3235234 | US5211847 | US3846292 | US5972212 | US20040245173 | US4741825 | US20050242015 | US5554291 | US5078923 | US6942788 | US5507950 | US5545327 | US4818404 | US5316671 | US4190543 | US5846425 | US5861095 | US6007720 | US5160620 | US5421999 | US5954451 | US4954295 | US4288394 | US4842732 | US5681471 | US4240990 | US5500112 | US5531894 | US4370234 | US5076929 | US3904525 | US4882099 | US5626755 | US5863435 | US4293169 | US20050269262 | US4806251 | US4308221 | US6022476 | US7101483 | US5326459 | US5702604 | US4479876 | US4279753 | US4280911 | US4350589 | US5514278 | US4051035 | US5228998 | US5707562 | US4415454 | US20050284811 | US3984323 | US4632758 | US7008539 | US3768788 | US3739912 | US5185080 | US5744072 | US5651892 | US5556536 | US20040211723 | USD401547 | US4774031 | US4409100 | DE102005032123 | EP0123404 | JP1982197090 | EP0949209 | WO2001094266
+	</str>
+	<str name="Cites Count">
+		78
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		47018406
+	</str>
+	<str name="Priority Date">
+		2006-09-05
+	</str>
+	<str name="Assignee(s)">
+		AERATION INDUSTRIES INTERNATIONAL, INC.
+	</str>
+	<str name="1st Assignee">
+		AERATION INDUSTRIES INTERNATIONAL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Chaska, MN
+	</str>
+	<str name="Assignee(s) Address">
+		Chaska, MN
+	</str>
+	<str name="Inventor(s)">
+		DURDA, DANIEL | BROWN, G., SHAWN | MORTENSON, CORY
+	</str>
+	<str name="1st Inventor">
+		DURDA, DANIEL
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Tonka, Bay, MN
+	</str>
+	<str name="Inventor(s) Address">
+		Tonka, Bay, MN | Waconia, MN | Chaska, MN
+	</str>
+	<str name="Agent/Attorney">
+		CROMPTON, SEAGER &amp; TUFTE LLC
+	</str>
+	<str name="Primary Examiner">
+		UPTON, CHRISTOPHER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

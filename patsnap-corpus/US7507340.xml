@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7507340
+	</str>
+	<str name="Application Number">
+		US10302471
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Ion processing element with composite media
+	</str>
+	<str name="Abstract">
+		An ion processing element employing composite media disposed in a porous substrate, for facilitating removal of selected chemical species from a fluid stream. The ion processing element includes a porous fibrous glass substrate impregnated by composite media having one or more active components supported by a matrix material of polyacrylonitrile. The active components are effective in removing, by various mechanisms, one or more constituents from a fluid stream passing through the ion processing element. Due to the porosity and large surface area of both the composite medium and the substrate in which it is disposed, a high degree of contact is achieved between the active component and the fluid stream being processed. Further, the porosity of the matrix material and the substrate facilitates use of the ion processing element in high volume applications where it is desired to effectively process a high volume flows.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-11-21
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-11
+	</str>
+	<str name="Publication Date">
+		2009-03-24
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		B01D39/20
+	</str>
+	<str name="IPC Primary">
+		B01D39/20
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D39
+	</str>
+	<str name="All UPC">
+		210/505 | 210/508 | 210/509 | 210/502.1
+	</str>
+	<str name="UPC Primary">
+		210/505
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20030138563A1 | US6514566 | US7507340 | US20020108899A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		Sebesta et al, Acta Polytech., 38(3), pp. 119-120, 1998. cited by other . | Brewer et al, Czech. J. Phus., 49, pp. 959-964, 1999. cited by other . | Miller et al, Sep. Sci. Technol., 32(1-4), pp. 37-50, 1997. cited by other . | John et al, NATO Sci. Ser., Ser. 2, 53, pp. 155-168, 1999. cited by other . | Brewer. K.N. et al., &quot;AMP-PAN Column Tests for the Removal of 137Cs From Actual and Simulated INEEL High-Activity Wastes,&quot; Czech. J. Phys., 49, pp. 959-964. 1999. cited by examiner . | PCT International Search Report, dated Apr. 19, 2002 for PCT/US01/50702. cited by other.
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3644251 | US6436294 | US6103122 | US4443339 | US5454946 | US5788826 | US4548790 | US20020121470 | US4826604 | US6034149 | US4683124 | US5445732 | US5891559 | US5989434 | US6395830 | US4239516 | US5637506 | US6312598 | US5518707 | US6514566 | US4835107 | US3960762 | US3019127 | US5667695 | US5169609 | US5486292 | US5906734 | US5268097 | US3622268 | CS273369
+	</str>
+	<str name="Cites Count">
+		30
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		30247102 | 3932001 | 24173600
+	</str>
+	<str name="Priority Date">
+		2002-11-21 | 2001-10-19 | 2000-10-19
+	</str>
+	<str name="Assignee(s)">
+		BATTELLE ENERGY ALLIANCE, LLC
+	</str>
+	<str name="1st Assignee">
+		BATTELLE ENERGY ALLIANCE, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Idaho Falls, ID
+	</str>
+	<str name="Assignee(s) Address">
+		Idaho Falls, ID
+	</str>
+	<str name="Inventor(s)">
+		MANN, NICK, R. | TRANTER, TROY, J. | TODD, TERRY, A. | SEBESTA, FERDINAND
+	</str>
+	<str name="1st Inventor">
+		MANN, NICK, R.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Blackfoot, ID
+	</str>
+	<str name="Inventor(s) Address">
+		Blackfoot, ID | Idaho, Falls, ID | Aberdeen, ID | Prague, CZ
+	</str>
+	<str name="Agent/Attorney">
+		TRASK BRITT
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

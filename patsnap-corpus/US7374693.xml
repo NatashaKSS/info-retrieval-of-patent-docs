@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7374693
+	</str>
+	<str name="Application Number">
+		US11287056
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Water decontamination apparatus and method
+	</str>
+	<str name="Abstract">
+		A process and apparatus for water purification has a stationary electrode opposing a movable electrode which are positioned about a passageway for the water to be purified. The stationary electrode and movable electrode form an arc gap, and the arc gap is fed with a voltage from a pulsatile power supply. The arc gap is reduced when the current is below a first threshold and increased when the current is above a second threshold, and the arc gap change is realized by controlling a motor attached to feeder rollers coupled to the movable electrode. The apparatus causes the formation of oxide nano-particles providing durable bactericidal action.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-11-25
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2008-05-20
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		A61K9/14
+	</str>
+	<str name="IPC Primary">
+		A61K9/14
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61K
+	</str>
+	<str name="IPC Group">
+		A61K9
+	</str>
+	<str name="All UPC">
+		210/748 | 424/489 | 205/560
+	</str>
+	<str name="UPC Primary">
+		210/748
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7374693 | US7413667
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8268136
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US20020037320 | US20020056674 | US20060237643 | US5126524
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		28705605
+	</str>
+	<str name="Priority Date">
+		2005-11-25
+	</str>
+	<str name="Inventor(s)">
+		ROUTBERG, RUTBERG, ALEXANDER, F. | KOLIKOV, VICTOR, ANDREEVICH | GRIGOREVICH, RUTBERG, PHILIP | NIKOLAEVICH, BZATSEV, ALEXANDZ
+	</str>
+	<str name="1st Inventor">
+		ROUTBERG, RUTBERG, ALEXANDER, F.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Huntsville, AL
+	</str>
+	<str name="Inventor(s) Address">
+		Huntsville, AL | 191014, Saint, Petersburg, RU | 194356, Saint, Petersburg, RU | 198152, Saint-Petersburg, RU
+	</str>
+	<str name="Agent/Attorney">
+		CHESAVAGE, JAY A.
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D.
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

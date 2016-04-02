@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7662290
+	</str>
+	<str name="Application Number">
+		US10565523
+	</str>
+	<str name="Title">
+		Integrated water decontamination plant and well pump arrangement
+	</str>
+	<str name="Abstract">
+		The present invention removes contaminants from well water without creating the problem of large volumes of waste liquid disposal. It uses double-cone devices as pressure amplifiers which due to their lack of moving parts avoid the risk of additional contamination of the well and provide a prolonged lifetime. For toxic contaminants, a periodic purging of the concentrated contaminants is required. In the case of (sea) salt contamination, there is no waste brine to be continuously handled at all and the system may be run without interruption over an extended period. In this case, the brine is dumped into the well simply by periodically stopping the plant. The brine pours out of the double-cone unit(s) and due to its higher density, sinks down in the well without disturbing the operation of the purification plant.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-07-21
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-07
+	</str>
+	<str name="Publication Date">
+		2010-02-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-02
+	</str>
+	<str name="All IPC">
+		B01D65/00
+	</str>
+	<str name="IPC Primary">
+		B01D65/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D65
+	</str>
+	<str name="All UPC">
+		210/321.66 | 210/652 | 210/321.65 | 166/267 | 166/265 | 210/806 | 210/137 | 210/805 | 417/244 | 210/257.2 | 210/258 | 417/76 | 210/257.1 | 417/87 | 166/75.11 | 210/167.01 | 417/151 | 210/747 | 210/195.2 | 210/739 | 210/195.1 | 417/53 | 166/105
+	</str>
+	<str name="UPC Primary">
+		210/321.66
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		European International Search Report PCT/CH2004/000461 dated Oct. 18, 2004. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US7865338
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US7128092 | US4341629 | US6036870 | US7077207 | US5147530 | US4603735 | US5695643 | US6547965 | US3616912 | US6701960 | US4366063 | US4792284 | US2682225 | US6540487 | US20020066568 | EP0055981 | GB02363741 | EP1161981 | EP1243748 | WO2001016493 | WO2000075510
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Priority Country">
+		WO
+	</str>
+	<str name="Priority Number">
+		PCT/CH03/00499
+	</str>
+	<str name="Priority Date">
+		2003-07-22
+	</str>
+	<str name="Assignee(s)">
+		DCT DOUBLE-CONE TECHNOLOGY AG
+	</str>
+	<str name="1st Assignee">
+		DCT DOUBLE-CONE TECHNOLOGY AG
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		CH
+	</str>
+	<str name="Assignee(s) Address">
+		CH
+	</str>
+	<str name="Inventor(s)">
+		STARK, JOHN
+	</str>
+	<str name="1st Inventor">
+		STARK, JOHN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Wattenwil, CH
+	</str>
+	<str name="Inventor(s) Address">
+		Wattenwil, CH
+	</str>
+	<str name="Agent/Attorney">
+		OSTROLENK FABER LLP
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

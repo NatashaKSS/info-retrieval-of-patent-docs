@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7743928
+	</str>
+	<str name="Application Number">
+		US10658447
+	</str>
+	<str name="Title">
+		Integrated apparatus and methods for treating liquids
+	</str>
+	<str name="Abstract">
+		A passive self energized, liquid device operates entirely on capillary action. A microfilter fractionates nanoliter volumes of suspension such as whole blood into suspended particles or cells and liquid fractions. Blood, for example, is fractionated with minimal cell lysis, and the filtrate (plasma) flux is dependent upon design parameters similar to factors controlling blood filtration in microporous membranes, i.e. active filter area, fluid velocity and microfilter geometry. Weir-style filters communicate with a blood flow channel to separate plasma from blood moving by capillary action. An expanded downstream channel with multiple parallel capillary blood flow path provides continuing movement of blood past the filters. Lysing is controlled by the size of the filter pores and the duration of adherence of the red blood cells to the pores. The controlled lysis or prevention of lysis of red blood cells is accomplished by manipulating the significant capillary forces generated in the filters. Filtration, cell lysis and microchannel blood flow models are integrated into an overall microfilter design useful for fabricating microfilter devices for lab-on-a-chip clinical applications where they can be coupled with on-chip electrical and electro-optical devices.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-09-08
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-09
+	</str>
+	<str name="Publication Date">
+		2010-06-29
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		B01D61/00 | B01D35/00 | G01N33/48
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/767 | 422/68.1 | 422/101 | 210/321.6 | 210/433.1 | 422/50 | 210/644
+	</str>
+	<str name="UPC Primary">
+		210/767
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Crowley et al., &quot;Design of a Passive BioSeparation Microfluidic Device,&quot; JALA vol. 8 No. 2 78-80 (Apr. 2003). cited by other. | Rand, R.P., &quot;Mechanical Properties of the Red Cell Membrane,&quot; Biophysical Journal 4, 303-316 (1964). cited by other . | Moorthy et al., &quot;InSitu Fabricated Porous Filters for Microsystems,&quot; Lab Chip, 3, 62-66, (2003). cited by other . | Sonksen et al., &quot;Home Monitoring of Blood-Glucose,&quot; The Lancet 729-732 (Apr. 8, 1978). cited by other . | Lichtenberg et al., &quot;Sample Pretreatment on Microfabricated Devices,&quot; Talanta 56, 233-266 (2002). cited by other . | Dintenfass, L., &quot;Clinical Applications of Blood Viscosity Factors and Functions,&quot; Biorheology 15 (5-6) 486, 1978. cited by other . | Brody et al., &quot;A Planar Microfabricated Fluid Filter,&quot; U of Washington Technology Center, 54, 704-708, (1996). cited by other . | Zydney, et al., &quot;Continuous Flow Membrane Plasmapheresis: Theoretical . . . ,&quot; Transactions of the American Society for Aritificial Internal Organs 28, 408-412 (1982). cited by other .
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6391541 | US4753776 | US6090251 | US6106779 | US6455287 | US6387290 | US5726026 | US6156576 | US5635358 | US4212742 | US6448047 | US6544734 | US6488896 | US4735722 | US4797211 | US20040248167 | US5204525 | US5922210 | US5587128 | US6534295
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Inventor(s)">
+		CROWLEY, TIMOTHY | PIZZICONI, VINCENT, B.
+	</str>
+	<str name="1st Inventor">
+		CROWLEY, TIMOTHY
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Phoenix, AZ
+	</str>
+	<str name="Inventor(s) Address">
+		Phoenix, AZ | Phoenix, AZ
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

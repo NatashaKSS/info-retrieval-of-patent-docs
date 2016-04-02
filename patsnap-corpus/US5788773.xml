@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5788773
+	</str>
+	<str name="Application Number">
+		US08731245
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Substrate spin treating method and apparatus
+	</str>
+	<str name="Abstract">
+		A baffle is placed in a position opposed to discharge openings of a treating solution supply nozzle and between the discharge openings and the surface of a substrate. The baffle intercepts a treating solution discharged from the discharge openings, whereby the treating solution is supplied evenly to the surface of the substrate by flowing over a surface of the baffle and falling from an edge of the baffle to the substrate, instead of falling from the discharge openings directly to the substrate. No microbubbles are formed in the treating solution on the substrate, which would cause an unevenness of treatment. The discharge openings may be defined by a plurality of circular bores formed in the supply nozzle. Each circular bore may have a diameter at least equal to a spacing between an adjacent pair of circular bores.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-10-11
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-10
+	</str>
+	<str name="Publication Date">
+		1998-08-04
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-08
+	</str>
+	<str name="All IPC">
+		B08B3/00 | B05B13/04
+	</str>
+	<str name="IPC Primary">
+		B08B3/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		134/902 | 118/320 | 118/52 | 118/319 | 134/153 | 134/154
+	</str>
+	<str name="UPC Primary">
+		134/902
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		KR100221699B1 | US5788773
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US6048399 | US7798764 | US7819079 | US7925377 | US7208262 | US7699021 | US7625692 | US6033134 | US7651306 | US6527861 | US6689215 | US6669779 | US6746826 | US6284043 | US7255975
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		JP1991136232
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		7302061 | 7353151
+	</str>
+	<str name="Priority Date">
+		1995-10-25 | 1995-12-29
+	</str>
+	<str name="Assignee(s)">
+		DAINIPPON SCREEN MFG. CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		DAINIPPON SCREEN MFG. CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		JP
+	</str>
+	<str name="Assignee(s) Address">
+		JP
+	</str>
+	<str name="Inventor(s)">
+		OKUDA, SEIICHIRO | SUGIMOTO, KENJI | YOSHII, HIROSHI
+	</str>
+	<str name="1st Inventor">
+		OKUDA, SEIICHIRO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kyoto, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kyoto, JP | Kyoto, JP | Kyoto, JP
+	</str>
+	<str name="Agent/Attorney">
+		OSTROLENK, FABER, GERB &amp; SOFFEN, LLP
+	</str>
+	<str name="Primary Examiner">
+		EDWARDS, LAURA
+	</str>
+	<str name="Assistant Examiner">
+		PADGETT, CALVIN
+	</str>
+	<str name="cited by within 3 years">
+		5
+	</str>
+	<str name="cited by within 5 years">
+		6
+	</str>
+</doc>
+

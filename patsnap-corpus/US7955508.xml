@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7955508
+	</str>
+	<str name="Application Number">
+		US12402489
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Supercritical fluid biomass conversion systems
+	</str>
+	<str name="Abstract">
+		Disclosed herein are supercritical fluid biomass conversion machines, systems, and methods for converting a wide range of biomass materials into a plurality of reaction products including fermentable sugars and various aromatic substances. In one embodiment, a method is disclosed that comprises the steps of: providing an extruder; conveying a mixture of the selected biomass material and water through the extruder and into a supercritical fluid biomass conversion zone; heating and further pressurizing the mixture within the supercritical fluid biomass conversion zone to yield at least supercritical water, wherein heat energy is supplied by means of an induction heating coil positioned circumferentially about the supercritical fluid biomass conversion zone; retaining the mixture within the supercritical fluid biomass conversion zone for a period of time sufficient to yield the plurality of reaction products; and separating the plurality of reaction products into at least a water soluble fraction and an organic solvent soluble fraction.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-03-11
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-03
+	</str>
+	<str name="Publication Date">
+		2011-06-07
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+	<str name="All IPC">
+		C10L8/00 | B01D57/00
+	</str>
+	<str name="IPC Primary">
+		C10L8/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C10
+	</str>
+	<str name="IPC Subclass">
+		C10L
+	</str>
+	<str name="IPC Group">
+		C10L8
+	</str>
+	<str name="All UPC">
+		422/199 | 219/600 | 422/198 | 210/806 | 210/774 | 210/808 | 219/618 | 554/23 | 44/307 | 422/208 | 44/605 | 210/749 | 210/761
+	</str>
+	<str name="UPC Primary">
+		422/199
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Hiroki Ando, Tsuyoshi Sakaki, Tetsuro Kokusho, Masao Shibata, Yoshimitsu Uemura, and Yasuo Hatate &quot;Decomposition Behavior of Plant Biomass in Hot-Compressed Water&quot; Ind. Eng. Chem. Res., 2000, 39 (10), pp. 3688-3693 Publication Date (Web): Aug. 23, 2000 (Article). cited by other . | Gerald E. Bennett and Keith P. Johnston &quot;UV-visible absorbance spectroscopy of organic probes in supercritical water&quot; The Journal of Physical Chemistry, Publication Date (Web) May 1, 2002. cited by other . | Yukihiko Matsumura, Mitsuru Sasaki, Kazuhide Okuda, Seiichi Takami, Satoshi Ohara, Mitsuo Umetsu, and Tadafumi Adschiri &quot;Supercritical Water Treatment of Biomass for Energy and Material Recovery&quot; Combustion Science and Technology in vol. 178, Nos. 1-3, No. 1-3/Jan. 2006 pp. 509-536. cited by other . | Xiaodong Xu, Yukihiko Matsumura, Jonny Stenberg, and Michael Jerry Antal, Jr. &quot;Carbon-Catalyzed Gasification of Organic Feedstocks in Supercritical Water&quot; Ind. Eng. Chem. Res., 1996, 35 (8), pp. 2522-2530 Publication Date (Web): Aug. 8, 1996 (Article) DOI: 10.1021/ie950672b. cited by other . | Z. Fang, T. Minowa, R.L. Smith, Jr., T. Ogi and J.A. Kozinski &quot;Liquefaction and Gasification of Cellulose with Na2CO3 and Ni in Subcritical Water at 350.degree. C &quot; Ind. Eng. Chem. Res., 2004, 43 (10), pp. 2454-2463 Publication Date (Web): Apr. 16, 2004 (Article). cited by other . | B.M. Kabyemela, M. Takigawa, T. Adschiri, R.M. Malaluan, and K. Arai &quot;Mechanism and Kinetics of Cellobiose Decomposition in Sub- and Supercritical Water&quot; Ind. Eng. Chem. Res., 1998, 37 (2), pp. 357-361 Publication Date (Web): Jan. 9, 1998 (Article) DOI: 10.1021/ie9704408. cited by other . | Ali Sinag, Andrea Kruse, and Jens Rathert &quot;Influence of the Heating Rate and the Type of Catalyst on the Formation of Key Intermediates and on the Generation&quot; of Gases During Hydropyrolysis of Glucose in Supercritical Water in a Batch Reactor Ind. Eng. Chem. Res., 2004, 43 (2), pp. 502-508 Publication Date (Web): Dec. 23, 2003 (Article). cited by other . | Michael Jerry Antal, Jr., Stephen Glen Allen, Deborah Schulman, and Xiaodong Xu, Robert J. Divilio &quot;Biomass Gasification in Supercritical Water&quot; Ind. Eng. Chem. Res., 2000, 39 (11), pp. 4040-4053 Publication Date (Web): Oct. 14, 2000 (Article). cited by other . | Douglas C. Elliot, L. John Sealock Jr., and Eddie G. Baker &quot;Chemical processing in high-pressure aqueous environments. 2. Development of catalysts for gasification&quot; Ind. Eng. Chem. Res., 1993, 32 (8), pp. 1542-1548 Publication Date: Aug. 1993 (Article) DOI: 10.1021/ie00020a002. cited by other . | Phillip E. Savage &quot;Organic Chemical Reactions in Supercritical Water&quot; University of Michigan, Chemical Engineering Department, Ann Arbor, Michigan 48109-2136 Chem. Rev., 1999, 99 (2), pp. 603-622 DOI: 10.1021/cr9700989 Publication Date (Web): Jan. 5, 1999. cited by other . | Bernard M. Kabyemela, Tadafumi Adschiri, Roberto Malaluan, and Kunio Arai &quot;Degradation Kinetics of Dihydroxyacetone and Glyceraldehyde in Subcritical and Supercritical Water&quot; Ind. Eng. Chem. Res., 1997, 36 (6), pp. 2025-2030 Publication Date (Web): Jun. 2, 1997 (Article) DOI: 10.1021/ie960747r. cited by other . | Andrea Kruse, Danny Meier, Pia Rimbrecht, and Michael Schacht &quot;Gasification of Pyrocatechol in Supercritical Water in the Presence of Potassium Hydroxide&quot; Ind. Eng. Chem. Res., 2000, 39 (12), pp. 4842-4848 Publication Date (Web): Nov. 16, 2000 (Article) DOI: 10.1021/ie0001570. cited by other . | M. Goto, M. Sasaki, T. Hirose &quot;Reactions of polymers in supercritical fluids for chemical recycling of waste plastics&quot; Journals of Materials Science vol. 41 No. 5, Mar. 2006 p. 1509-1515. cited by other. | Masaru Watanabe, Hiroshi Inomata, Mitsumasa Osada, Takafumi Sato, Tadafumi Adschiri, and Kunio Arai &quot;Catalytic effects of NaOH and ZrO2 for partial oxidative gasification of n-hexadecane and lignin in supercritical water&quot; Fuel, vol. 82, Issue 5, Mar. 1, 2003, pp. 545-552. cited by other . | Takuya Yoshida, Yoshito Oshima, and Yukihiko Matsumura &quot;Gasification of biomass model compounds and real biomass in supercritical water&quot; Biomass and Bioenergy, vol. 26, Issue 1, Jan. 2004, pp. 71-78. cited by other . | Christine J. Wu, Laurence E. Fried, Lin H. Yang, Nir Goldman and Sorin Bastea &quot;Catalytic behaviour of dense hot water&quot; Nature Chemistry Vol. 1, Apr. 2009 published online: Mar. 19, 2009. cited by other . | K. Ehara and S. Saka &quot;Chemical Conversion of Cellulose by Batch-Type and Flow-Type Supercritical Water Systems&quot; 12th European Conference on Biomass for energy, Industry and Climate Protection, Jun. 17-21, 2002, Amsterdam, The Netherlands, (2002) pp. 801-804. cited by other . | A. Kruse and A. Gawlik &quot;Biomass Conversion in Water at 330-410.degree. C and 30-50 MPa. Identification of Key Compounds for Indicating Different Chemical Reaction Pathways&quot; Ind. Eng. Chem. Res., 2003, 42 (2), pp. 267-279 Publication Date (Web): Dec. 18, 2002 (Article). cited by other . | Mitch Jacoby &quot;Chemicals from the Garden&quot; Chemical &amp; Engineering News, Jul. 6, 2009 vol. 87, No. 27 p. 10 p. 26-28. cited by other . | Misuru Sasaki, Bernard Kabyemela, Roberto Malaluan, Satoshi Hirose, Naoko Takeda, Tadafumi Adschiri, and Kunio Arai &quot;Cellulose hydrolysis in subcritical and supercritical water&quot; The Journal of Supercritical Fluids vol. 13 Issues 1-3, pp. 261-268 (1998). cited by other . | A. Kruse, T. Henningsen, A. Sinag and J. Pfeiffer &quot;Biomass Gasification in Supercritical Water: Influence of the Dry Matter Content and the Formation of Phenols&quot; Ind. Eng. Chem. Res., 2003, 42 (16), pp. 3711-3717 Publication Date (Web): Jul. 11, 2003 (Article) DOI: 10.1021/ie0209430. cited by other . | Shiro Saka and Tomonori Ueno &quot;Chemical conversion of various celluloses to glucose and its derivatives in supercritical water&quot; Cellulose, vol. 6, No. 3, Sep. 1999 , pp. 177-191(15) Publisher: Springer. cited by other . | Bernard M. Kabyemela, Tadafumi Adschiri, Roberto Malaluan, and Kunio Arai &quot;Kinetics of Glucose Epimerization and Decomposition in Subcritical and Supercritical Water&quot; Ind. Eng. Chem. Res., 1997, 36 (5), pp. 1552-1558 Publication Date (Web): May 5, 1997 (Article) DOI: 10.1021/ie960250h. cited by other . | Mitsumasa Osada, Takafumi Sato, Masaru Watanabe, Masayuki Shirai, and Kunioi Arai &quot;Catalytic Gasification of Wood Biomass in Subcritical and Supercritical Water&quot; Combustion Science and Technology in vol. 178, Nos. 1-3, No. 1-3/Jan. 2006 pp. 537-552. cited by other . | Tao Xiang and Keith P. Johnston &quot;Acid-Base of Behavior of Organic Compounds in Supercritical Water&quot; The Journal of Physical Chemistry, Publication Date (Web) May 1, 2002. cited by other . | Bernard M. Kabyemela, Tadafumi Adschiri, Roberto M. Malaluan, Kunio Arai, and Hiroshi Ohzeki &quot;Rapid and Selective Conversion of Glucose to Erythrose in Supercritical Water&quot; Ind. Eng. Chem. Res., 1997, 36 (12), pp. 5063-5067 Publication Date (Web): Dec. 1, 1997 (Article). cited by other . | Douglas C. Elliot, M.R. Phelps, L. John Sealock Jr., and Eddie G. Baker &quot;Chemical Processing in High-Pressure Aqueous Environments. 4. Continuous-Flow Reactor Process Development Experiments for Organics Destruction&quot; Ind. Eng. Chem. Res., 1994, 33 (3), pp. 566-574 Publication Date: Mar. 1994 (). cited by other . | Mitsuru Sasaki, Zhen Fang, Yoshiko Fukushima, Tadafumi Adschiri, and Kunio Arai &quot;Dissolution and Hydrolysis of Cellulose in Subcritical and Supercritical Water&quot; Ind. Eng. Chem. Res., 2000, 39 (8), pp. 2883-2890 Publication Date (Web): Aug. 7, 2000 (Article) DOI: 10.1021/ie990690j. cited by other . | Takuya Yoshida and Yukihiko Matsumura &quot;Gasification of Cellulose, Xylan, and Lignin Mixtures in Supercritical Water&quot; Ind. Eng. Chem. Res., 2001, 40 (23), pp. 5469-5474 Publication Date (Web): Oct. 18, 2001 (Article) DOI: 10.1021/ie0101590. cited by other . | B. Potic, L. Van De Beld, D. Assink, W. Prins and W.P.M. Van Swaaij &quot;Gasification of Biomass in Supercritical Water&quot; paper University of Twente, Faculty of Chemical Technology circa 2006. cited by other . | Shiro Saka, Katsunobu Ehara, Seiya Sakaguchi, and Kei Yoshida &quot;Useful Products from Lignocellulosics by Supercritical Water Technologies&quot; delivered at the 2nd Joint International Conference on &quot;Sustainable Energy and Environment (SEE 2006)&quot; Nov. 1-23, 2006, Bangkok, Thailand. 5 pages. cited by other . | K. Ehara, S. Saka and H. Kawamoto &quot;Chemical Conversion of Woody Biomass by Supercritical Water--Degradation of Lignin--&quot; 12th European Conference on Biomass for energy, Industry and Climate Protection, Jun. 17-21, 2002, Amsterdam, The Netherlands, (2002) pp. 805-808. cited by other . | Mitsuru Sasaki, Momoko Furukawa, Kimitaka Minami, Tadafumi Adschiri, and Kunio Arai &quot;Kinetics and Mechanism of Cellobiose Hydrolysis and Retro-Aldol Condensation in Subcritical and Supercritical Water&quot; Ind. Eng. Chem. Res., 2002, 41 (26), pp. 6642-6649 Publication Date (Web): Nov. 19, 2002 (Article). cited by other . | Katsunobu Ehara, Shiro Saka, and Haruo Kawamoto &quot;Characterization of the Lignin-derived Products from Wood as Treated in Supercritical Water&quot; J Wood Sci (2002) vol. 48 No. 1 pp. 320-325. cited by other . | Phillip E. Savage, Sudhama Gopalan, Tahmid I.Mizan, Christopher J. Martino, and Eric E. Brock. &quot;Reactions at Supercritical Conditions: Applications and Fundamentals&quot; AlChE Journal Jul. 1995 vol. 41, No. 7 p. 1723-1778. cited by other .
+	</str>
+	<str name="Other References Count">
+		35
+	</str>
+	<str name="Cites">
+		US6107532 | US20020148575 | US20060283995 | US20070161095 | US5405533 | US5707673 | US20080196299 | US5216149 | US7189306 | US5558783 | US5670614 | US20060141584 | US20050242464 | US4744926 | US6602064 | US6409841 | US20080020437 | US6966874 | US5324904 | US4237226 | US4849554 | US6569640 | US20050009935 | US7070743 | US5278282 | US4642287 | US6884377 | US6180845 | US5411594 | US7318713 | US6504068 | US20080229653 | US7722690 | US5386055 | US6090595 | US4747948 | US20070110837 | US6083409 | US20040094144 | CN200610011585 | CN200610011584
+	</str>
+	<str name="Cites Count">
+		41
+	</str>
+	<str name="Assignee(s)">
+		XTRUDX TECHNOLOGIES, INC.
+	</str>
+	<str name="1st Assignee">
+		XTRUDX TECHNOLOGIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Auburn, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Auburn, WA
+	</str>
+	<str name="Inventor(s)">
+		ALLAN, GRAHAM | LOOP, THOMAS, E. | FLYNN, JAMES, D.
+	</str>
+	<str name="1st Inventor">
+		ALLAN, GRAHAM
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kenmore, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Kenmore, WA | Seattle, WA | Auburn, WA
+	</str>
+	<str name="Agent/Attorney">
+		LOOP, THOMAS E. GRAYBEAL JACKSON LLP
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

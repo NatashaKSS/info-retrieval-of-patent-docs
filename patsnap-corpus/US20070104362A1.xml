@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070104362A1
+	</str>
+	<str name="Application Number">
+		US11593596
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Face recognition method, and system using gender information
+	</str>
+	<str name="Abstract">
+		A face recognition method, medium, and system using gender. According to the method, the gender of different faces can be classified in a query facial image and a current target facial image. A training model can be selected depending on the gender classification result, and a feature vector of the query facial image and a feature vector of the current target facial image may be obtained using the selected training model. Next, the similarity between the feature vectors is measured and similarities are obtained for a plurality of target facial images, and the person of a target image having a largest similarity among the obtained similarities is recognized as the querier.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-11-07
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-11
+	</str>
+	<str name="Publication Date">
+		2007-05-10
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-05
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/62
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118 | 382/159
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		KR1020070049501A | US20070104362A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8160309 | CN101159015B
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020050106673
+	</str>
+	<str name="Priority Date">
+		2005-11-08
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-si,KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-si,KR
+	</str>
+	<str name="Inventor(s)">
+		HWANG WONJUN | KEE SEOKCHEOL | PARK GYUTAE | LEE JONGHA | RAN HAIBING
+	</str>
+	<str name="1st Inventor">
+		HWANG WONJUN
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Seoul,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul,KR | Seoul,KR | Anyang-si,KR | Hwaseong-si,KR | Beijing,CN
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+	
+
+</doc>
+

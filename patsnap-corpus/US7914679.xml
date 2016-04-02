@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7914679
+	</str>
+	<str name="Application Number">
+		US11912077
+	</str>
+	<str name="Title">
+		Method for extracting at least one compound from a liquid phase comprising a functionalized ionic liquid, and microfluidic system for implementing said method
+	</str>
+	<str name="Abstract">
+		A method for extracting at least one chemical or biological compound from a liquid phase including at least one functionalized ionic liquid, via a liquid extracting fluid that is miscible with the ionic liquid, and a microfluidic system implementing the method. The extraction method includes moving, on one surface of a microfluidic system, at least one microdrop of the liquid phase into an extraction solution that includes the extracting fluid and that is localized on the surface to obtain in output of the solution, under effect of an electric field, an extract moving away from the surface that is rich in extracting fluid and enriched in the at least one compound, and a raffinate moving on the surface that is rich in ionic liquid and deleted in the at least one compound.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-04-06
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-04
+	</str>
+	<str name="Publication Date">
+		2011-03-29
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+	<str name="All IPC">
+		B01D11/04
+	</str>
+	<str name="IPC Primary">
+		B01D11/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		210/643 | 210/638 | 210/634
+	</str>
+	<str name="UPC Primary">
+		210/643
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Washizu, Masao, &quot;Electrostatic Actuation of Liquid Droplets for Microreactor Applications&quot;, IEEE Transactions on Industry Application, vol. 34, No. 4, pp. 732-737, 1998. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		WO1996012541 | EP1466894 | WO1999054730
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0503887
+	</str>
+	<str name="Priority Date">
+		2005-04-19
+	</str>
+	<str name="Assignee(s)">
+		COMMISSARIAT A L'ENERGIE ATOMIQUE
+	</str>
+	<str name="1st Assignee">
+		COMMISSARIAT A L'ENERGIE ATOMIQUE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Paris, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Paris, FR
+	</str>
+	<str name="Inventor(s)">
+		DELAPIERRE, GUILLAUME | SARRUT, NICOLAS | MARCHAND, GILLES
+	</str>
+	<str name="1st Inventor">
+		DELAPIERRE, GUILLAUME
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Vif, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Vif, FR | Seyssinet-Pariset, FR | Pierre, Chatel, FR
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEUSTADT, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		KIM, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

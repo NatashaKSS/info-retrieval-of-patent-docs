@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7771380
+	</str>
+	<str name="Application Number">
+		US10589353
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Pressure sensing
+	</str>
+	<str name="Abstract">
+		A biological fluid device (703) comprises a pressure sensor (702), which is arranged on the device. The pressure sensor comprises a compressible container, the compression of which is indicative of the pressure, and is capable of wireless communication.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-02-11
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-02
+	</str>
+	<str name="Publication Date">
+		2010-08-10
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-08
+	</str>
+	<str name="All IPC">
+		G01L7/10 | A61M37/00 | C02F1/00
+	</str>
+	<str name="IPC Primary">
+		G01L7/10
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01L
+	</str>
+	<str name="IPC Group">
+		G01L7
+	</str>
+	<str name="All UPC">
+		604/5.01 | 604/6.01 | 73/729.2 | 604/5.04 | 210/741 | 210/645
+	</str>
+	<str name="UPC Primary">
+		604/5.01
+	</str>
+	<str name="UPC Class">
+		604
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report for International Application No. PCT/SE2005/000184, dated May 17, 2005. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US5756900 | US20020115920 | US20020007137 | US6484586 | US5807258 | US20040082867 | US5873840 | US20060144155 | US7059195 | US6272930 | DE20113789 | DE20121388 | WO2002022187 | WO2000072747 | DE20121938
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		SE
+	</str>
+	<str name="Priority Number">
+		0400330
+	</str>
+	<str name="Priority Date">
+		2004-02-12
+	</str>
+	<str name="Assignee(s)">
+		GAMBRO LUNDIA AB
+	</str>
+	<str name="1st Assignee">
+		GAMBRO LUNDIA AB
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Lund, SE
+	</str>
+	<str name="Assignee(s) Address">
+		Lund, SE
+	</str>
+	<str name="Inventor(s)">
+		JONSSON, LENNART | DROTT, JOHAN | HERTZ, THOMAS
+	</str>
+	<str name="1st Inventor">
+		JONSSON, LENNART
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Furrulund, SE
+	</str>
+	<str name="Inventor(s) Address">
+		Furrulund, SE | Lund, SE | Lund, SE
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp; DUNNER, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		DEAK, LESLIE R
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7131597
+	</str>
+	<str name="Application Number">
+		US10658250
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Atomization technique for producing fine particles
+	</str>
+	<str name="Abstract">
+		This disclosure relates to a novel process for atomizing a liquid material or a mixture of liquid materials. More specifically, this disclosure advances the art by utilizing the inertial forces created in an elevated acceleration environment to further miniaturize and enhance the characteristics of particles resulting from atomization. The key to this disclosure is to subject a melt material to an elevated acceleration and pass a fluid over the surface of the melt. The purpose of the elevated acceleration is to elevate the relative importance of gravitational forces in the melt thus miniaturizing any gravity influenced disturbance. This elevated acceleration environment leads to miniaturization of gravitationally dependent phenomena thus leading to smaller particle creation. The purpose of the atomizing fluid is to impart kinetic energy onto the melt thereby causing disturbances and to act as a heat transfer media to cool the particles. In other words, this disclosure teaches not only utilizing bursting bubbles, surface waves, and splashes to create fine particles by purposely introducing gas flow on the liquid material(s) to be atomized but further enhancing the process by facilitating that these material(s) are simultaneously at elevated acceleration. The novel aspects of this disclosure significantly enhance the physical characteristics of the resulting particles, by allowing smaller particles to be produced, by cooling the particles more rapidly and by reducing contamination threats by avoiding physical contact between the material(s) being atomized and any refractive materials.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-09-09
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-09
+	</str>
+	<str name="Publication Date">
+		2006-11-07
+	</str>
+	<str name="Publication Year">
+		2006
+	</str>
+	<str name="Publication(Year/Month)">
+		2006-11
+	</str>
+	<str name="All IPC">
+		B05B1/24 | A62C5/02
+	</str>
+	<str name="IPC Primary">
+		B05B1/24
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05B
+	</str>
+	<str name="IPC Group">
+		B05B1
+	</str>
+	<str name="All UPC">
+		239/9 | 239/13 | 239/8 | 239/418 | 239/135 | 239/224 | 239/398 | 75/338 | 75/334 | 239/10 | 75/333
+	</str>
+	<str name="UPC Primary">
+		239/9
+	</str>
+	<str name="UPC Class">
+		239
+	</str>
+	<str name="Family Members">
+		CA2538239A1 | US7131597 | JP2007505218A | WO2005023431A3 | EP1663501A4 | EP1663501A2 | WO2005023431A2 | US20050050993A1
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		German, &quot;Power Metallurgy Scince.&quot; cited by other . | Liu, &quot;Science and Engineering of Droplets.&quot; cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8210453 | US8033483
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US3151971 | US4394332 | US5876794 | US5147448 | US6580051 | US5514349 | US5707419 | US4917852 | US2439772 | US5609919 | US5738705 | US5788738 | US5498446 | US4025249 | US4088429 | US20030126948 | US4355057 | US5935461 | US4343750 | US3617587
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		65825003
+	</str>
+	<str name="Priority Date">
+		2003-09-09
+	</str>
+	<str name="Inventor(s)">
+		SCATTERGOOD, JOHN, R.
+	</str>
+	<str name="1st Inventor">
+		SCATTERGOOD, JOHN, R.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		LaGrange, GA
+	</str>
+	<str name="Inventor(s) Address">
+		LaGrange, GA
+	</str>
+	<str name="Agent/Attorney">
+		THOMAS, KAYDEN, HORSTEMEYER &amp; RISLEY, LLP
+	</str>
+	<str name="Primary Examiner">
+		NGUYEN, DINH Q.
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

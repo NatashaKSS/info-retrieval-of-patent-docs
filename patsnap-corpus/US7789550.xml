@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7789550
+	</str>
+	<str name="Application Number">
+		US10527463
+	</str>
+	<str name="Title">
+		Method of combining materials
+	</str>
+	<str name="Abstract">
+		A method for combining materials (such as impregnating materials with functional materials) uses a combination of supercritical fluid technology and polymer melt processing technology. The functional material is soluble in a near supercritical or supercritical fluid, which dissolves in the matrix/bulk material during melt processing. Controlling the processing conditions facilitates a change of state for the fluid, which results in the precipitation of the functional material in the bulk material. The impregnated bulk material may be shaped using conventional polymer based processing techniques such as extrusion and injection moulding.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-09-12
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-09
+	</str>
+	<str name="Publication Date">
+		2010-09-07
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-09
+	</str>
+	<str name="All IPC">
+		B01F13/00
+	</str>
+	<str name="IPC Primary">
+		B01F13/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01F
+	</str>
+	<str name="IPC Group">
+		B01F13
+	</str>
+	<str name="All UPC">
+		366/107 | 264/328.1 | 264/45.9 | 264/211 | 366/101 | 264/51 | 264/50 | 264/85 | 210/634 | 523/340 | 366/76.6 | 264/101 | 366/348
+	</str>
+	<str name="UPC Primary">
+		366/107
+	</str>
+	<str name="UPC Class">
+		366
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Cooper, A.I., &quot;Polymer synthesis and processing using supercritical carbon dioxide&quot;, J. Mater. Chem, vol. 10, pp. 207-234, (2000). cited by other . | Kazarian, S.G., &quot;Polymer Processing with Supercritical Fluids&quot;, Polymer Science, Series C, vol. 42, No. 1, pp. 78-101, (2000). cited by other . | Cooper, A., &quot;Clean polymer synthesis and processing using scCO.sub.2&quot;, Green Chemistry, pp. G167-G168, (Dec. 1999).a. cited by other.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By">
+		US8177412
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6828363 | US6340722 | US5508060 | US5108799 | US6051174 | US5922833 | US5816700 | US6114414 | US5308648 | WO2003040219 | WO1993006731 | EP0590647 | WO2002047893 | WO2001097584 | WO1996000610 | EP0370268 | WO1994009913
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		0221150.6
+	</str>
+	<str name="Priority Date">
+		2002-09-12
+	</str>
+	<str name="Assignee(s)">
+		SCF PROCESSING LTD.
+	</str>
+	<str name="1st Assignee">
+		SCF PROCESSING LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Drogheda, IE
+	</str>
+	<str name="Assignee(s) Address">
+		Drogheda, IE
+	</str>
+	<str name="Inventor(s)">
+		MATTHEWS, SIOBHAN, OLIVE | MATTHEWS, JOHN
+	</str>
+	<str name="1st Inventor">
+		MATTHEWS, SIOBHAN, OLIVE
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Drogheda, IE
+	</str>
+	<str name="Inventor(s) Address">
+		Drogheda, IE | Drogheda, IE
+	</str>
+	<str name="Agent/Attorney">
+		THE NATH LAW GROUP GOLDBERG, JOSHUA B. JOYNES, ROBERT M.
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

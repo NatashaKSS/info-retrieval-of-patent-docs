@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7351339
+	</str>
+	<str name="Application Number">
+		US10467065
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for the separation of acids from chemical reaction mixtures by means of ionic fluids
+	</str>
+	<str name="Abstract">
+		A process for removing acids from reaction mixtures using an auxiliary base, in which the auxiliary base: combines with the acid to form a salt which is liquid at temperatures at which the product of value does not significantly decompose during the removal of the liquid salt, and the salt of the auxiliary base with the product of value or the solution of the product of value in a suitable solvent forms two immiscible liquid phases.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-01-21
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-01
+	</str>
+	<str name="Publication Date">
+		2008-04-01
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		B01D11/00
+	</str>
+	<str name="IPC Primary">
+		B01D11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		210/749 | 210/639 | 210/638
+	</str>
+	<str name="UPC Primary">
+		210/749
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		BR0306886A | US20040073035A1 | ES2283749T3 | JP2005515246A | JP2005515258A | DE50306900D1 | WO2003062171A3 | WO2003062251A1 | EP1470136B1 | EP1470136A1 | CN1300156C | CN100349833C | CN1622948A | CN1622925A | EP1472201A2 | WO2003062171A2 | US20080083606A1 | US7351339 | US20050020857A1 | CA2473839A1 | CA2473954A1 | MXPA04006695A | AT358134T | NO20043512A
+	</str>
+	<str name="Family Member Count">
+		24
+	</str>
+	<str name="Family Members Cited By Count">
+		21
+	</str>
+	<str name="Other References">
+		E.L. Gefter, Zh. Obshch. Khim., vol. 28, pp. 1398-1399 (1958). cited by other . | Chojnowski, et al., Heteroatom Chemistry, vol. 2, No. 1, pp. 63-70 (1991). cited by other . | K.R. Seddon, J. Chem. Tech. Biotechnol., vol. 68, pp. 351-356 (1997). cited by other. | Hollemann-Wilberg, Lehrbuch der Anorganischen Chemie, 91.-100., Auflage, Walter de Gruyter, Berlin, New York, pp. 235-239 (10985), undated. cited by other . | Derwent Publication, AN 2003-430329 (DE 101 50 281) Apr. 30, 2003 (English abstract only). cited by other . | Derwent Publication, AN 2003-450480 (DE 101 50 285) Apr. 17, 2003 (English abstract only). cited by other . | C. Reichardt, Solvent Effects in Organic Chemistry, Weinheim: VCH, XI (Monographs in Modern Chemistry; 3) ISBN 3-527-25793-4), pp. 241-242 (1979). cited by other . | Derwent Publication, 2002-361923/39 (DE 100 38 387) Aug. 2, 2000 (English abstract only). cited by other . | Derwent Publication, 2002-464340/50 (DE 100 46 025) Sep. 18, 2000 (English abstract only). cited by other . | Derwent Publication, AN 2003-450481 (DE 101 50 286) Apr. 17, 2003 (English abstract only). cited by other . | US. Appl. No. 11/718,518, filed May 3, 2007, Sesing et al. cited by other . | Jerry March, Advance Organic Chemistry, 3.sup.rd Edition, John Wiley and Sons, New York, pp. 294, 334 and 347 (1985). cited by other . | W.T. Dye., Jr., J. Am. Chem. Soc., vol. 70, pp. 2595-2596 (1948). cited by other . | George A. Olah, Friedel-Crafts and Related Reactions, vol. 1, pp. 191-197, 201 and 284-290 (1963). cited by other .
+	</str>
+	<str name="Other References Count">
+		14
+	</str>
+	<str name="Cited By">
+		US7659430 | US7767852 | US8148518 | US8153782 | US8158777 | US8188267 | US8273872 | US8354525 | US7919631 | US8067488
+	</str>
+	<str name="Cited By Count">
+		10
+	</str>
+	<str name="Cites">
+		US4536351 | US3903120 | US5488129 | US4029744 | US4902828 | US20020169331 | US6521778 | US3719617 | US5523453 | US6171996 | US4851550 | US5512695 | US5981772 | US5512696 | US5693843 | US20040073035 | US4014785 | US5859302 | US5959135 | US5821378 | US6440891 | US6197992 | US6403725 | US5856555 | US6380421 | US6242633 | US6020516 | US5847191 | US6127567 | US3860656 | US3773809 | US5723641 | US6130347 | US3779907 | US6355833 | US4855496 | US6096680 | US6054609 | DE19826936 | WO1998027054 | WO2001014392 | DE19850624 | WO1998013983 | WO1999046044 | DE10156292 | WO2001074487 | EP0181078 | DE3502106 | EP1142898 | FR2810668 | EP0838447 | WO2000016902 | WO1999064155 | FR2810666 | DE3248483 | DE10148712 | DE19724884
+	</str>
+	<str name="Cites Count">
+		57
+	</str>
+	<str name="Priority Country">
+		DE | DE | DE | DE
+	</str>
+	<str name="Priority Number">
+		10202838 | 10230222 | 10248902 | 10251140
+	</str>
+	<str name="Priority Date">
+		2002-01-24 | 2002-07-04 | 2002-10-18 | 2002-10-31
+	</str>
+	<str name="Assignee(s)">
+		BASF AKTIENGESELLSCHAFT
+	</str>
+	<str name="1st Assignee">
+		BASF AKTIENGESELLSCHAFT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ludwigshafen, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Ludwigshafen, DE
+	</str>
+	<str name="Inventor(s)">
+		MAASE, MATTHIAS | MASSONNE, KLEMENS | HALBRITTER, KLAUS | NOE, RALF | BARTSCH, MICHAEL | SIEGEL, WOLFGANG | STEGMANN, VEIT | FLORES, MIGUEL | HUTTENLOCH, OLIVER | BECKER, MICHAEL
+	</str>
+	<str name="1st Inventor">
+		MAASE, MATTHIAS
+	</str>
+	<str name="Number of Inventors">
+		10
+	</str>
+	<str name="1st Inventor Address">
+		Speyer, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Speyer, DE | Bad, Duerkheim, DE | Heidelberg, DE | Mannheim, DE | Neustadt, DE | Limburgerhof, DE | Mannheim, DE | Mannheim, DE | Neulussheim, DE | Ludwigshafen, DE
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEUSTADT, P.C.
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH
+	</str>
+	<str name="cited by within 3 years">
+		4
+	</str>
+	<str name="cited by within 5 years">
+		5
+	</str>
+</doc>
+

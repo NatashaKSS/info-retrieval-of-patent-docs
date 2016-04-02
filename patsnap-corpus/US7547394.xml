@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7547394
+	</str>
+	<str name="Application Number">
+		US11/642513
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Wastewater treatment with aerobic granules
+	</str>
+	<str name="Abstract">
+		A wastewater treatment system using aerobic granules has a large number of sequencing batch reactor tanks with high volumetric exchange rate, a variable cycle length and constant batch volume. The batch reactors are operated for C, N removal and P is removed chemically, optionally under BioP enhanced conditions. SS are removed in a downstream separation step.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-12-21
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-12
+	</str>
+	<str name="Publication Date">
+		2009-06-16
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		C02F3/30 | C02F3/08
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/617
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20070181493A1 | US7547394
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		De Kreuk, MK et al., &quot;Aerobic Granule Reactor Technology&quot;, Stowa Report, Jun. 2003, pp. 1-55. cited by other | Liu, Y et al, &quot;State of the Art of Biogranulation Technology for Wastewater Treatment&quot;, Biotechnology Advances, 2004, pp. 533-563. cited by other | Williams, Jon Christopher, &quot;Initial Investigations of Aerobic Granulation in an Annular Gap Bioreactor&quot;, Releigh, 2004, pp. 28-79 and 111-114. cited by other | Tranh, Bui Xuan, &quot;Aerobic Granulation Coupled Membrane Bioreactor&quot;, Asian Institute of Technology, May 2005. cited by other.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4167479 | US4500429 | US4566971 | US4623464 | US5254253 | US5582733 | US5599451 | US5776344 | US5885460 | US5985150 | US6024876 | US6306302 | US6406629 | US6485645 | US6566119 | US6780319 | US6793822 | US7008538 | US7060185 | US20030038080 | US20040178132 | US20040206699 | US20040206700 | US20060032815 | JP1991258395 | JP1993337492 | WO2001005715 | WO2004024638
+	</str>
+	<str name="Cites Count">
+		28
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		64251306 | 75202305
+	</str>
+	<str name="Priority Date">
+		2006-12-21 | 2005-12-21
+	</str>
+	<str name="Assignee(s)">
+		ZENON TECHNOLOGY PARTNERSHIP
+	</str>
+	<str name="1st Assignee">
+		ZENON TECHNOLOGY PARTNERSHIP
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Wilmington, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Wilmington, DE
+	</str>
+	<str name="Inventor(s)">
+		COTE, PIERRE, LUCIEN
+	</str>
+	<str name="1st Inventor">
+		COTE, PIERRE, LUCIEN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Dundas, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Dundas, CA
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070211928A1
+	</str>
+	<str name="Application Number">
+		US11599184
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Discover biological features using composite images
+	</str>
+	<str name="Abstract">
+		An image processing system extracts parts or characteristics of interest from prepared biological samples One suitable use of the image processing system is to find biomarkers. But many other suitable uses are possible. Some components of the system include image preprocessing (data interpolation, retention time alignment, image noise filtering, background estimation, and formation of a composite image); image feature extraction (peaks, isotope groups, and charge groups); and computation of feature characteristics and expression statistics, differential expression, and non-differential expression. Outputs of the system include a candidate list of parts or characteristic of interest for aiding further discovery.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-11-13
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-11
+	</str>
+	<str name="Publication Date">
+		2007-09-13
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-09
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/128
+	</str>
+	<str name="UPC Primary">
+		382/128
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP2009516172T | AT509329T | US8275185B2 | JP2009516172A | US7894650B2 | US20070211928A1 | US20110110569A1 | WO2007059117A2 | CA2632188A1 | WO200907059117A3 | EP1958006B1 | EP1958006A2 | EP1958006A4
+	</str>
+	<str name="Family Member Count">
+		13
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		59918406 | 73569105
+	</str>
+	<str name="Priority Date">
+		2006-11-13 | 2005-11-10
+	</str>
+	<str name="Assignee(s)">
+		ROSETTA INPHARMATICS LLC
+	</str>
+	<str name="1st Assignee">
+		ROSETTA INPHARMATICS LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Seattle,WA,98109,US
+	</str>
+	<str name="Assignee(s) Address">
+		Seattle,WA,98109,US
+	</str>
+	<str name="Inventor(s)">
+		WENG LEE | BONDARENKO ANDREY | VEGA SILVIA | HENLE ERNST | HUNT BRANDON | SPIRIDONOV ALEXANDER
+	</str>
+	<str name="1st Inventor">
+		WENG LEE
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Bellevue,WA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Bellevue,WA,US | Bellevue,WA,US | Seattle,WA,US | Issaquah,WA,US | Bothell,WA,US | Redmond,WA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

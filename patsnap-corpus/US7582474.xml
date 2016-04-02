@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7582474
+	</str>
+	<str name="Application Number">
+		US11481765
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process reactor with layered packed bed
+	</str>
+	<str name="Abstract">
+		Packed bed reactors that have a series of alternating layers of packing. A first packing layer has open body packing elements randomly packed in a layer up to about 10 packing elements deep; and a second packing layer has porous support elements of hydrophobic foam. The porous support elements are randomly packed up to about 10 porous support elements deep. Further, the packing elements of the first layer include substantially cylindrical shapes and the porous support elements of the second layer include substantially rectilinear shapes. In some embodiments, the second layer supports microbial organisms in a biological reactor, and the first layer of open body packing provides fluid flow spaces to facilitate fluid flow and distribution, mass transfer, and to minimize channeling.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-07-06
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-07
+	</str>
+	<str name="Publication Date">
+		2009-09-01
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		C12M1/14
+	</str>
+	<str name="IPC Primary">
+		C12M1/14
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12M
+	</str>
+	<str name="IPC Group">
+		C12M1
+	</str>
+	<str name="All UPC">
+		422/311 | 435/299.1 | 210/150 | 210/263 | 435/293.1 | 422/211 | 422/221 | 210/616 | 422/310
+	</str>
+	<str name="UPC Primary">
+		422/311
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Members">
+		US7582474 | US20070007201A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US4904456 | US5143714 | US4615796 | US6890433 | US4002705 | US4469600 | US5242626 | US6547222 | US6936446 | US4983299 | US6425574 | US5690819 | US5503738 | US6666436 | US4005985 | US5338518 | US5217616 | US4165281 | US4634672 | US5543052 | US3617531 | US5800709 | US4681852 | US6291603 | US6524849 | US5747143 | US4820415 | US5580770 | US20020068026 | US6395522 | US4576718 | US4561974 | NL1018703 | FR2689494 | GB1412590 | EP0116497 | JP1980145589
+	</str>
+	<str name="Cites Count">
+		37
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		48176506 | 69810605
+	</str>
+	<str name="Priority Date">
+		2006-07-06 | 2005-07-11
+	</str>
+	<str name="Assignee(s)">
+		HONEYWELL INTERNATIONAL INC.
+	</str>
+	<str name="1st Assignee">
+		HONEYWELL INTERNATIONAL INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Morristown, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Morristown, NJ
+	</str>
+	<str name="Inventor(s)">
+		LUPTON, FRANCIS, S.
+	</str>
+	<str name="1st Inventor">
+		LUPTON, FRANCIS, S.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Evanston, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Evanston, IL
+	</str>
+	<str name="Agent/Attorney">
+		INGRASSIA, FISHER &amp; LORENZ, P.C.
+	</str>
+	<str name="Primary Examiner">
+		BHAT, N.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

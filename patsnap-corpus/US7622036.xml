@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7622036
+	</str>
+	<str name="Application Number">
+		US11842296
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Bio tank/oxygen replenishment system
+	</str>
+	<str name="Abstract">
+		A system is disclosed herein for treating wastewater liquid by utilizing aerobic biological species. The contaminated wastewater stream is pretreated in a dissolved air flotation system to remove suspended solid waste, including large particles such as fats, grease, and physically emulsified oils. The purified wastewater containing dissolved waste is thereafter oxygenated and further decontaminated in a bioreactor tank. Biological species in the bioreactor tank consume oxygen and perform bodily functions that converts dissolved waste into easily removable carbon dioxide and suspend solids. Oxygen consumed by the biological species is replenished by pumping the wastewater though a liquid-oxygen mixer. A controller regulates the speed of the pump based on real-time oxygen concentration measurements provided by a corresponding oxygen probe disposed within the wastewater in the bioreactor tank.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-08-21
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2009-11-24
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		B01D17/12
+	</str>
+	<str name="IPC Primary">
+		B01D17/12
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D17
+	</str>
+	<str name="All UPC">
+		261/75 | 366/136 | 366/165.5 | 210/96.1 | 366/151.2 | 366/165.1 | 366/153.1 | 366/101 | 210/220 | 366/132 | 210/101 | 210/221.2 | 210/86 | 210/150
+	</str>
+	<str name="UPC Primary">
+		261/75
+	</str>
+	<str name="UPC Class">
+		261
+	</str>
+	<str name="Family Members">
+		US7622036 | WO2008024735A3 | WO2008024735A2 | EP2057097A2 | CN101506102A | US20080041773A1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7833410
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6896816 | US6629686 | US6638434 | US6949195 | US6719903 | US6562240 | US6797181
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		84229607 | 82300306
+	</str>
+	<str name="Priority Date">
+		2007-08-21 | 2006-08-21
+	</str>
+	<str name="Assignee(s)">
+		WORLD WATER TECHNOLOGIES, LLC
+	</str>
+	<str name="1st Assignee">
+		WORLD WATER TECHNOLOGIES, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Santa Barbara, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Santa Barbara, CA
+	</str>
+	<str name="Inventor(s)">
+		MORSE, DWAIN, E
+	</str>
+	<str name="1st Inventor">
+		MORSE, DWAIN, E
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Santa, Barbara, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Santa, Barbara, CA
+	</str>
+	<str name="Agent/Attorney">
+		KELLY LOWRY &amp; KELLEY, LLP
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

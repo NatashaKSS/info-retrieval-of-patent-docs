@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7959802
+	</str>
+	<str name="Application Number">
+		US12189968
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water purification system
+	</str>
+	<str name="Abstract">
+		A water purification system performs a water purification process through physical sterilization, and at least includes a compression device and a decompression device. Water is converted into a high-pressure liquid through the compression device, and then is converted into a high-speed fluid by controlling the cross-sectional area of a spout of the decompression device, thus generating physical effects such as pressure drop and shear stress, so as to damage cell walls of bacteria in the liquid to die-off the bacteria. Therefore, purified water is obtained.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-08-12
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-08
+	</str>
+	<str name="Publication Date">
+		2011-06-14
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+	<str name="All IPC">
+		B01D36/00
+	</str>
+	<str name="IPC Primary">
+		B01D36/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D36
+	</str>
+	<str name="All UPC">
+		210/258 | 210/199 | 210/335 | 210/257.1 | 210/748.02 | 210/203 | 422/127 | 210/206 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/258
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20090162271 | US5937906 | US5494585 | US7247244 | US6221260 | US4990260 | US3165266 | US20020096456 | US7291267 | US4476225 | CN1702048 | CN101549927 | CN2727152
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		TW
+	</str>
+	<str name="Priority Number">
+		97109943A
+	</str>
+	<str name="Priority Date">
+		2008-03-20
+	</str>
+	<str name="Assignee(s)">
+		INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE
+	</str>
+	<str name="1st Assignee">
+		INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hsinchu, TW
+	</str>
+	<str name="Assignee(s) Address">
+		Hsinchu, TW
+	</str>
+	<str name="Inventor(s)">
+		WU, TUNG-CHUAN | TSAI, JEN-HUI | CHOU, TA-HSIN
+	</str>
+	<str name="1st Inventor">
+		WU, TUNG-CHUAN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Hsinchu, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Hsinchu, TW | Hsinchu, TW | Hsinchu, TW
+	</str>
+	<str name="Agent/Attorney">
+		RABIN &amp; BERDO, P.C.
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

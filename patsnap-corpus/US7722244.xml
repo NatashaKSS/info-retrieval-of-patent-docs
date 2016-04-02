@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7722244
+	</str>
+	<str name="Application Number">
+		US10537964
+	</str>
+	<str name="Title">
+		Process for operating a water recovery plant
+	</str>
+	<str name="Abstract">
+		A process for operating a water recovery plant comprising charging a storage tank with water contaminated with solids water recovered from a manufacturing or construction process, determining a parameter associated with the concentration of one or more selected contaminants in the storage tank, diluting the water contaminated with solids whereby the concentration of the one or more selected contaminants in the storage tank is at or below a desired level, and utilizing water from the storage tank in the manufacturing process.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-12-10
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-12
+	</str>
+	<str name="Publication Date">
+		2010-05-25
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		B28C7/04
+	</str>
+	<str name="IPC Primary">
+		B28C7/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B28
+	</str>
+	<str name="IPC Subclass">
+		B28C
+	</str>
+	<str name="IPC Group">
+		B28C7
+	</str>
+	<str name="All UPC">
+		210/747 | 366/8 | 366/17 | 210/740
+	</str>
+	<str name="UPC Primary">
+		210/747
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Derwent Abstract Accession No. 82851D/45, Class E36, J03, SU 343568 A (Leontovich), Jul. 10, 1981, 1 page. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US4512811 | US4488815 | US4226542 | US6758590 | US20030006194 | US5178455 | US20040094462 | US20020084226 | US5268111 | CH662774 | DE4244616 | EP0062339 | DE4231238 | JP1998180238 | DE3304193 | DE19738471 | JP2003334568 | DE3027503
+	</str>
+	<str name="Cites Count">
+		18
+	</str>
+	<str name="Priority Country">
+		AU
+	</str>
+	<str name="Priority Number">
+		2002953236
+	</str>
+	<str name="Priority Date">
+		2002-12-10
+	</str>
+	<str name="Assignee(s)">
+		WASTE SAVER PTY LTD
+	</str>
+	<str name="1st Assignee">
+		WASTE SAVER PTY LTD
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Arvndel, AU
+	</str>
+	<str name="Assignee(s) Address">
+		Arvndel, AU
+	</str>
+	<str name="Inventor(s)">
+		PANUCCIO, MARIO
+	</str>
+	<str name="1st Inventor">
+		PANUCCIO, MARIO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Benowa, AU
+	</str>
+	<str name="Inventor(s) Address">
+		Benowa, AU
+	</str>
+	<str name="Agent/Attorney">
+		PATTERSON THUENTE CHRISTENSEN PEDERSEN PA
+	</str>
+	<str name="Primary Examiner">
+		SORKIN, DAVID L
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

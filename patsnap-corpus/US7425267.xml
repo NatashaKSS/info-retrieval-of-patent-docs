@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7425267
+	</str>
+	<str name="Application Number">
+		US11270745
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and equipment for treating microcystin-containing water
+	</str>
+	<str name="Abstract">
+		The method for treating microcystin-containing water which detoxifies microcystin in the microcystin-containing water, the method comprises the step of: bringing the microcystin-containing water into contact with a Sphingomonas bacterium to degrade biologically the microcystin in the microcystin-containing water, wherein: the Sphingomonas bacterium is a strain FERM P-19480 which is deposited as strain MDB1 with International Patent Organism Depositary, National Institute of Advanced Industrial Science and Technology.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-11-10
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2008-09-16
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		C02F3/06 | C02F3/34
+	</str>
+	<str name="IPC Primary">
+		C02F3/06
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/601 | 435/262.5 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/601
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1657223A1 | KR1020060044297A | JP2006136791A | WO2006051871A1 | US20080286846A1 | CN100532294C | CN101597584A | CN1817807A | US20060096915A1 | US7425267
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		M. Watanabe, &quot;Water-bloom,&quot; University of Tokyo Press, 3.2-3.4, pp. 56-68, 1999. cited by other . | Park et al., &quot;Degradation of the cyanobacterial hepatotoxin microcystin by a new bacterium isolated from a hypertrophic lake,&quot; Environmental Toxicology, vol. 16, No. 4, pp. 337-343, 2001. cited by other . | Kenichi Harada, Recent Advances of Toxic Cyanobacteria Researches [in Japanese], Journal Of Health Science, Pharmaceutical Society of Japan, 45(3), 150-165, 1999. cited by other . | Saito et al., &quot;Detection and sequencing of the microcystin lr-degrading gene, mlrA, from new bacteria isolated from Japanese lakes,&quot; FEMS Microbiology Letters, vol. 229, No. 2, pp. 271-276, 2003. cited by other. | Ishii et al., &quot;Characterization of degradation process of cyanobacterial hepatotoxins by gram-negative aerobic bacterium,&quot; Water Research, vol 38, No. 11, pp. 2667-2676, 2004. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By">
+		US8192970
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5595893 | EP0839765 | JP129580P2001 | JP81926P2004 | JP239370A09 | JP033888A08 | JP070395A11
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2004327799
+	</str>
+	<str name="Priority Date">
+		2004-11-11
+	</str>
+	<str name="Assignee(s)">
+		HITACHI PLANT TECHNOLOGIES, LTD.
+	</str>
+	<str name="1st Assignee">
+		HITACHI PLANT TECHNOLOGIES, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		SUMINO, TATSUO | OGASAWARA, TAKAKO | PARK, HO-DONG
+	</str>
+	<str name="1st Inventor">
+		SUMINO, TATSUO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Chiyoda-ku, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Chiyoda-ku, JP | Chiyoda-ku, JP | Matsumoto, JP
+	</str>
+	<str name="Agent/Attorney">
+		OLIFF &amp; BERRIDGE, PLC
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED G.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7867392
+	</str>
+	<str name="Application Number">
+		US12272333
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Magnetic carrier and membrane bioreactor comprising enzyme for inhibiting biofilm formation
+	</str>
+	<str name="Abstract">
+		A technique for inhibiting biofouling caused by biofilms grown on a material surface of a water system where microorganisms exist such as the membrane surface of a membrane bioreactor (MBR) for advanced wastewater treatment is disclosed. Specifically, a magnetic carrier comprising an enzyme for quenching quorum sensing that inhibits biofilm formation, a membrane bioreactor system that can be stably operated without inactivation and loss of enzymes and a method for inhibiting biofilm formation are described.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-11-17
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-11
+	</str>
+	<str name="Publication Date">
+		2011-01-11
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-01
+	</str>
+	<str name="All IPC">
+		B01D35/06
+	</str>
+	<str name="IPC Primary">
+		B01D35/06
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D35
+	</str>
+	<str name="All UPC">
+		210/263 | 210/222
+	</str>
+	<str name="UPC Primary">
+		210/263
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Yeon et al., &quot;Quorum quenching techniques for the performance enhancement of the membrane bioreactor.&quot; (Nov. 21, 2007). cited by other. | Dong et al., &quot;Quenching quorum-sensing-dependent bacterial infection by an N-acyl homoserine lactonase.&quot; Letters to Nature 411(2001): 813-817. cited by other . | Camara et al., &quot;Controlling infection by tuning in and turning down the volume of bacterial small-talk.&quot; The Lancet--Infectious Diseases 2(2002): 667-676. cited by other . | Chang et al., &quot;Membrane filtration characteristics in membrane-coupled activated sludge system--the effect of physiological states of activated sludge on membrane fouling.&quot; Desalination 120(1998): 221-233. cited by other . | Kim et al., &quot;Biofilm structure and extracellular polymeric substances in low and high dissolved oxygen membrane bioreactors.&quot; Separation Science &amp; Technology 41(2006): 1213-1230. cited by other . | Hentzer et al., &quot;Attenuation of Pseudomonas aeruginosa virulence by quorum sensing inhibitors.&quot; The EMBO Journal 22: 15(2003): 3803-3815. cited by other . | Hanft , Susan, &quot;Business opportunity report--C-240--Membrane bioreactors in the changing world water market.&quot; Business Communications Company, Inc. (2006). cited by other . | Baveja et al., &quot;Furanones as potential anti-bacterial coatings on biomaterials.&quot; Biomaterials 25(2004): 5003-5012. cited by other . | Fuqua et al., &quot;Census and consensus in bacterial ecosystems: The LuxR-LuxI family of quorum-sensing transcriptional regulators.&quot; The Annu. Rev. Microbiol. 50(1996): 727-751. cited by other . | Davies et al., &quot;The involvement of cell-to-cell signals in the development of a bacterial biofilm.&quot; Science 280:295(1998): 294-298. cited by other . | Yeon et al., &quot;Correlation between Biofueling and Quorum Sensing in Membrane Bioreactor,&quot; Korean Society on Water Quality &amp; Korean Society of Water and Wastewater (2006). English Abstract Only. cited by other .
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20090324574 | US6777223 | JP1990229545 | JP1995108292
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020070136932
+	</str>
+	<str name="Priority Date">
+		2007-12-24
+	</str>
+	<str name="Assignee(s)">
+		SNU R&amp;DB FOUNDATION
+	</str>
+	<str name="1st Assignee">
+		SNU R&amp;DB FOUNDATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Seoul, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s)">
+		LEE, CHUNG-HAK | YEON, KYUNG-MIN
+	</str>
+	<str name="1st Inventor">
+		LEE, CHUNG-HAK
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul, KR | Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		MERCHANT &amp; GOULD P.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

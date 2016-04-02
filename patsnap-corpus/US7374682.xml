@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7374682
+	</str>
+	<str name="Application Number">
+		US10551818
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for the methane fermentation treatment of wastewater containing sulfur compound
+	</str>
+	<str name="Abstract">
+		A method and apparatus for the anaerobic methane fermentation treatment of a wastewater containing a sulfur compound. An oxidizing agent is added to an organic wastewater to oxidize the sulfur compound contained therein to molecular sulfur before the anaerobic treatment step. The wastewater is then introduced into the anaerobic treatment step for the methane fermentation treatment thereof. The amount of the oxidizing agent to be added to the wastewater is controlled using as an indicator the concentration of the residual oxidizing agent in the water flowing into the anaerobic treatment step and/or the concentration of hydrogen sulfide in a biogas generated. The oxidizing agent may be ozone, hydrogen peroxide, sodium hypochlorite or a bromine based oxidizing agent. When the concentration of hydrogen sulfide in a biogas generated in the anaerobic treatment step is used as said indicator, the oxidizing agent may be suitably added such that the concentration of hydrogen sulfide is 3% or less.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-03-29
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-03
+	</str>
+	<str name="Publication Date">
+		2008-05-20
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		C02F1/72 | C02F1/78 | C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F1/72
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/631 | 210/603 | 210/916
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060243660A1 | US7374682 | WO2004096720A1 | CN1304305C | CN1768008A
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Yasuhiro Honma, entitled Performance of the EGSB Reactor in High-Load Organic Wastewater Treatment , Vol. 27, No. 4, published Jan. 2002 (relevant portions: pp. 52-55). cited by other . | Yasuhiro Honma and Toshihiro Tanaka, entitled &quot;Methane Producing High Efficiency Energy-Saving Organic Wastewater Treatment System&quot;, vol. 68, No. 12, Chemical Engineering Journal, published on Dec. 2004 (relevant portions: pp. 707-710). cited by other . | Yasuhiro Honma; Toshihiro Tanaka and Yuichi Isozaki, entitled &quot;Performance of the EGSB Reactor in High-Load Organic Wastewater Treatment&quot;, (Chemical Apparatus), published Mar. 2003 (relevant portions: Nos. 1 to 4). cited by other . | Yasuhiro Honma; Toshihiro Tanaka and Masahiro Isaka, entitled &quot;Performance of the EGSB Reactor in High-Load Organic Wastewater Treatment&quot;, The 36th Symposium Journal by Japan Society on Water Environment, published Mar. 2003 (relevant portions: p. 476). cited by other . | Sigeaki Numata and Souichi Shibuya, entitled &quot;Chemical Deodorization of the Foul Smelling Sulfur Compounds&quot;, vol. 50, No. 2, Journal of Paper &amp; Pulp Technology Association, published Feb. 1996 (relevant portions: pp. 40-45. cited by other. | Tsuyoshi Imai et al., entitled &quot;Air Stripping--Thermophilic UASB Process for the Treatment of Evaporator Condensate from a Kraft Pulp Mill&quot;, The 5th Symposiuim Journal by Japan Society on Water Environment, Sep. 26, 2002, pp. 145-146. cited by other . | Yasuhiro Honma; Toshihiro Tanaka; Susumu Adachi and Yuichi Isozaki, entitled &quot;Performance of the EGSB Reactor in High-Load Organic Wastewater Treatment&quot;, No. 194, Ebara Journal, published Jan. 2002 (relevant portions: pp. 21-24). cited by other . | Yasuhiro Honma; Toshihiro Tanaka and Kazumasa Kamachi, entitled &quot;Performance of EGSB Reactor in High SS Waste Water Treatment&quot;, The 37th Symposium Journal by Japan Society on Water Environment, published on Mar. 2003 (relevant portions: p. 276). cited by other . | Yuichi Isozaki, entitled &quot;Performance of EGSB Reactor in High-Load Industrial Waste Water Treatment&quot; (Industrial Machinery) published Jun. 2002, (relevant portions: pp. 17-19). cited by other . | Kazushi Yasuda, entitled &quot;Wastewater Treatment by High-Speed UASB Reactor&quot;, Vol. 39, No. 7, Countermeasures for Environmental Resources, published 2003 (relevant portions: pp. 66-67). cited by other . | Yasuhiro Honma; Kazumasa Kamachi and Toshihiro Tanaka, entitled &quot;Start up EGSB Reactor From Anaerobic Digester Sludge&quot;, The 38th Symposium Journal by Japan Society on Water Environment, published on Mar. 2004 (relevant portions: p. 357). cited by other .
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3388057 | US6423229 | US5976373 | US5958238 | JP2002292377 | JP1992341388 | JP1998249383 | JP1976090163 | JP2001232388 | JP1999000689 | JP1989207187 | JP2001079590 | JP1998156385 | WO2003042116 | JP2000263084
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2003094373
+	</str>
+	<str name="Priority Date">
+		2003-03-31
+	</str>
+	<str name="Assignee(s)">
+		EBARA CORPORATION
+	</str>
+	<str name="1st Assignee">
+		EBARA CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KAMACHI, KAZUMASA | HONMA, YASUHIRO | TANAKA, TOSHIHIRO | TSUKAMOTO, TOSHIO
+	</str>
+	<str name="1st Inventor">
+		KAMACHI, KAZUMASA
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		WENDEROTH, LIND &amp; PONACK, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7531080
+	</str>
+	<str name="Application Number">
+		US10/502323
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Mediated electrochemical oxidation used for sterilization/disinfection
+	</str>
+	<str name="Abstract">
+		A medicated electrochemical oxidation process is used for sterilization/disinfection of contaminated instruments and infectious waste. Contaminated instruments and waste are introduced into an apparatus for contacting the infectious waste with an electrolyte containing the oxidized form of one or more reversible redox couples, at least one of which is produced at the anode of an electrochemical cell. The oxidized species of the redox couples oxidize the infectious waste molecules and are themselves converted to their reduced form, whereupon they are reoxidized by either of the aforementioned mechanisms and the redox cycle continues until all oxidizable infectious waste species have undergone the desired degree of oxidation. The entire process takes place at temperatures between ambient and approximately 100 degree celsius. The oxidation process will be enhanced by the addition of reaction of reaction enhancements, such as: ultrasonic energy and/or ultraviolet radiation.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-01-24
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-01
+	</str>
+	<str name="Publication Date">
+		2009-05-12
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		C02F1/46
+	</str>
+	<str name="IPC Primary">
+		C02F1/46
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		205/688 | 204/242 | 204/275.1 | 204/276 | 205/701 | 205/742 | 205/751
+	</str>
+	<str name="UPC Primary">
+		205/688
+	</str>
+	<str name="UPC Class">
+		205
+	</str>
+	<str name="Family Members">
+		US7531080 | US20050000828A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Chiba et al.; Mediated Electrochemical Oxidation as an Alternative to Incineration for Mixed Wastes; Lawrence Livermore National Laboratory Paper (UCRL-JC-119133) prepared for WM95 Synposia, Tucson, AZ, Mar. 1, 1995 (dated Feb. 1995) (12 pages). cited by other | Davidson, L. et al.; Ruthenium-Mediated Electrochemical Destruction of Organic Wastes; Platinum Metal Reviews; 1998; vol. 42, No. 3; pp. 90-98 (Ruthenium). cited by other | Morrison, R. &amp; Boyd, R. (Editors); Organic Chemistry; New York University; Allen &amp; Bacon, Inc.; 1973; (Third Edition); Chapter 1--Structure &amp; Properties; pp. 1-2 (Organic). cited by other | Pletcher, D. &amp; Walsh, F.; Industrial Electrochemistry; 1990; Chapman &amp; Hall; Chapters 1 &amp; 2; pp. 1-172. cited by other | Surma et al.; Catalyzed Electrochemical Oxidation (CEO) of Rocky Flats Contaminated Combustible Materials; Mar. 1996; Report prepared for U.S. Department of Energy, Pacific Northwest National Laboratory, Richland, WA; 25 pages. cited by other | Steward Tony; Electrochemical Oxidation of Hazardous Organics; Sep. 20, 1996; EO Systems, Inc.; 2 pages. cited by other | Whaley, S.; UNR Attacks Hazardous Waste Riddle; Las Vegas Review-Journal Oct. 21, 1997; 3 pages. cited by other | Lewis, R.; Hawley's Condensed Chemical Dictionary; Twelfth Edition; 1993; Van Nostrand--Reinhold; 4 pages. cited by other | Anonymous; Chemical Storage Tank Systems--Good Practice Guide (Summary Guidance Document); CIRIA Publication W002; Classic House, 174-180 Old Street, London, EC1V-9BP, England. 43 pages. cited by other.
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4013552 | US4069371 | US4749519 | US4752364 | US4874485 | US4925643 | US4967673 | US5047224 | US5261336 | US5380445 | US5516972 | US5707508 | US5756874 | US5810995 | US5855763 | US5911868 | US5919350 | US5952542 | US5968337 | US6402932 | DE4113817 | DE4205739 | WO1997015356
+	</str>
+	<str name="Cites Count">
+		23
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		50232304 | 35037802 | 0302153
+	</str>
+	<str name="Priority Date">
+		2004-07-23 | 2002-01-24 | 2003-01-24
+	</str>
+	<str name="Assignee(s)">
+		SCIMIST, INC.
+	</str>
+	<str name="1st Assignee">
+		SCIMIST, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Springfield, VA
+	</str>
+	<str name="Assignee(s) Address">
+		Springfield, VA
+	</str>
+	<str name="Inventor(s)">
+		CARSON, ROGER, W. | BREMER, BRUCE, W.
+	</str>
+	<str name="1st Inventor">
+		CARSON, ROGER, W.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Vienna, VA
+	</str>
+	<str name="Inventor(s) Address">
+		Vienna, VA | Montgomery, Village, MD
+	</str>
+	<str name="Agent/Attorney">
+		WRAY, JAMES CREIGHTON HYRA, CLIFFORD D.
+	</str>
+	<str name="Primary Examiner">
+		PHASGE, ARUN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

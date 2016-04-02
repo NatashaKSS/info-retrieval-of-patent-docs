@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100211397A1
+	</str>
+	<str name="Application Number">
+		US12695185
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		FACIAL EXPRESSION REPRESENTATION APPARATUS
+	</str>
+	<str name="Abstract">
+		An avatar facial expression representation technology is provided. The avatar facial expression representation technology estimates changes in emotion and emphasis in a user's voice from vocal information, and changes in mouth shape of the user from pronunciation information of the voice. The avatar facial expression technology tracks a user's facial movements and changes in facial expression from image information and may represent avatar facial expressions based on the result of the these operations. Accordingly, the avatar facial expressions can be obtained which are similar to actual facial expressions of the user.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-01-28
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-01
+	</str>
+	<str name="Publication Date">
+		2010-08-19
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-08
+	</str>
+	<str name="All IPC">
+		G10L21/06 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G10L21/06
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G10
+	</str>
+	<str name="IPC Subclass">
+		G10L
+	</str>
+	<str name="IPC Group">
+		G10L21
+	</str>
+	<str name="All UPC">
+		704/E21.019 | 704/276 | 382/190 | 382/218
+	</str>
+	<str name="UPC Primary">
+		704/E21.019
+	</str>
+	<str name="UPC Class">
+		704
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020090013530
+	</str>
+	<str name="Priority Date">
+		2009-02-18
+	</str>
+	<str name="Inventor(s)">
+		PARK CHI-YOUN | HWANG YOUNG-KYOO | KIM JUNG-BAE
+	</str>
+	<str name="1st Inventor">
+		PARK CHI-YOUN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Busan-si,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Busan-si,KR | Seoul,KR | Hwaseong-si,KR
+	</str>
+	<str name="Agent/Attorney">
+		NORTH STAR INTELLECTUAL PROPERTY LAW, PC
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

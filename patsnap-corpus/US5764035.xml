@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5764035
+	</str>
+	<str name="Application Number">
+		US08717675
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		System and method for automatically enabling rapid charging of a battery in a portable phone
+	</str>
+	<str name="Abstract">
+		A system and method for automatically enabling rapid charging of a battery in a portable phone when a battery charger is connected to the portable phone is disclosed. The system includes a battery charger circuit having an input for receiving an input voltage from the battery charger, a sense resistor through which a rapid charging current from the battery charger input voltage is generated, a charge switch connected to the sense resistor which receives the battery charger circuit input, a trickle resistor connected in parallel to the charge switch through which a slow charging current from the battery charger input voltage is generated, wherein the rapid charging current is generated when the charge switch is closed and the trickle charging current is generated when the charge switch is open, and an output for supplying the generated charging current to the battery. The system also includes at least one voltage regulator having an input connected to the battery and an output for supplying a voltage to circuitry of the portable phone for controlling the battery charger circuit, as well as a circuit for selectively enabling the voltage regulator depending on the battery voltage. In this system, the rapid charging current may be supplied to the battery from the battery charging circuit only when the voltage regulator is enabled.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-09-23
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-09
+	</str>
+	<str name="Publication Date">
+		1998-06-09
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-06
+	</str>
+	<str name="All IPC">
+		H02J7/00 | H02J7/04
+	</str>
+	<str name="IPC Primary">
+		H02J7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02J
+	</str>
+	<str name="IPC Group">
+		H02J7
+	</str>
+	<str name="All UPC">
+		320/160 | 320/164 | 320/163
+	</str>
+	<str name="UPC Primary">
+		320/160
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Members">
+		WO1998012791A1 | US5764035 | AU4488197A
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US4992720 | US5185565 | US3854082 | US5304917 | US5254931 | US5382893 | US5130634 | US5402055
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		71767596
+	</str>
+	<str name="Priority Date">
+		1996-09-23
+	</str>
+	<str name="Assignee(s)">
+		ERICSSON INC.
+	</str>
+	<str name="1st Assignee">
+		ERICSSON INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Research Triangle Park, NC
+	</str>
+	<str name="Assignee(s) Address">
+		Research Triangle Park, NC
+	</str>
+	<str name="Inventor(s)">
+		LEE, TINA, MAY
+	</str>
+	<str name="1st Inventor">
+		LEE, TINA, MAY
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Raleigh, NC
+	</str>
+	<str name="Inventor(s) Address">
+		Raleigh, NC
+	</str>
+	<str name="Primary Examiner">
+		WONG, PETER S.
+	</str>
+	<str name="Assistant Examiner">
+		SHIN, K.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

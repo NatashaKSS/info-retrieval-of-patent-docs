@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7695622
+	</str>
+	<str name="Application Number">
+		US11930264
+	</str>
+	<str name="Title">
+		System and method for eliminating sludge via ozonation
+	</str>
+	<str name="Abstract">
+		A system and method for the treatment and reduction of sludge via ozonation in a wastewater treatment process is disclosed. The sludge treatment system comprises: a sludge ozonation reactor coupled to an activated sludge treatment basin and adapted to receive a liquid stream of sludge containing biosolids from the activated sludge treatment basin. The sludge treatment system also includes an ozone-enriched gas injection system operatively coupled to the reactor and adapted to inject ozone-enriched gas into the liquid stream at or upstream of the sludge ozonation reactor. The sludge ozonation reactor is configured to allow effective gas-liquid contacting between the ozone-enriched gas and the liquid stream so as to oxidize the biosolids in the liquid stream and initiate bacterial cell lysis thereby reducing the biosolids. Upon reduction of the biosolids, the liquid stream is returned via a return line to the activated sludge basin or other discharge point.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-10-31
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2010-04-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/197 | 210/150 | 210/151 | 210/620 | 210/760 | 210/194
+	</str>
+	<str name="UPC Primary">
+		210/197
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;Sludge Disintegration: Reducing bio sludge by means of ozone by 40 to 80%&quot; Translation of Air Liquide's press release of May 2006 (2 pages). cited by other . | L'utilisation de l'ozone pour le traitement des boues. Proceedings Ozon Fur Schlammbehandlung. IOA--EA.sub.3G Conference. Sep. 14, 2006 (75 pgs). cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8062525
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4370235 | US7147780 | US6146521 | US6592767 | US7309432 | US20060169637 | US4178239 | US6773597 | US6942801 | US20050133445 | US20040004038 | US6126842 | US20060086661 | US6086766 | EP1361198 | WO2002008803 | JP1997150182 | WO2004033371 | FR2845682 | EP0645347 | JP1996132100 | EP0835845 | EP0903325 | WO2003008803
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Assignee(s)">
+		PRAXAIR TECHNOLOGY, INC.
+	</str>
+	<str name="1st Assignee">
+		PRAXAIR TECHNOLOGY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Danbury, CT
+	</str>
+	<str name="Assignee(s) Address">
+		Danbury, CT
+	</str>
+	<str name="Inventor(s)">
+		FABIYI, MALCOLM, EZEKIEL | NOVAK, RICHARD, A.
+	</str>
+	<str name="1st Inventor">
+		FABIYI, MALCOLM, EZEKIEL
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Lagrange, Park, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Lagrange, Park, IL | Naperville, IL
+	</str>
+	<str name="Agent/Attorney">
+		HAMPSCH, ROBERT J.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

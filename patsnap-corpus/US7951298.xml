@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7951298
+	</str>
+	<str name="Application Number">
+		US11852616
+	</str>
+	<str name="Title">
+		Method and device for preventing corrosion in hot water systems undergoing intermittent operations
+	</str>
+	<str name="Abstract">
+		Disclosed is a method of controlling a real-time oxidation-reduction potential in a hot water system undergoing a wet layup sequence to inhibit corrosion in the hot water system. The method includes separating the wet layup sequence into a plurality of phases. Each phase is either short-term or long-term and a subset of the short-term phases is optionally transitional. The method further includes defining one or more zones in the hot water system. At least one of the defined zones is selected for each phase and one or more of the selected zones include at least one ORP probe operable to measure the real-time ORP and communicate with a controller. The ORP probe(s) either intermittently or continuously measure the real-time ORP at operating temperature and pressure at one or more of the selected zones in one or more of the phases and transmit the measured real-time ORP to the controller. The real-time ORP is assessed to determine whether it conforms to an ORP setting for that phase. The invention further includes a multi-component control device for a hot water system undergoing a wet layup sequence.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-09-10
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2011-05-31
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-05
+	</str>
+	<str name="All IPC">
+		C23F15/00 | C02F1/70 | C02F1/72 | C23F11/00 | C02F1/00
+	</str>
+	<str name="IPC Primary">
+		C23F15/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C23
+	</str>
+	<str name="IPC Subclass">
+		C23F
+	</str>
+	<str name="IPC Group">
+		C23F15
+	</str>
+	<str name="All UPC">
+		210/758 | 210/103 | 210/746 | 210/765 | 210/198.1 | 210/757 | 210/739 | 210/742 | 210/167.3 | 422/7 | 210/167.32 | 210/143
+	</str>
+	<str name="UPC Primary">
+		210/758
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Dedekind at al., &quot;Oxygenated Feedwater Treatment at the World's Largest Fossil Fired Power Plant--Beware the Pitfalls--&quot;, Power Plant Chemistry, vol. 3, No. 11, Nov. 2001. cited by other . | Buecker, B., &quot;Water Treatment: The Continuing Battle Against FAC,&quot; Power Engineering, Pennwell Publishing Co., Tulsa, OK, vol. 106, No. 9, Sep. 1, 2002. cited by other . | Niedrach, L W., &quot;Electrodes for Potential Measurements in Aqueous Systems at High Temperatures and Pressures,&quot; Angewandte Chemie--International Edition in English, vol. 26, No. 3, Mar. 1987. cited by other . | Uchino et al., &quot;Study on the Practical Application of a Method for Corrosion Potential Measurement in a Water Quality Monitoring System used During Combined Water Treatment,&quot; PowerPlant Chemistry, vol. 3, No. 9, pp. 511 to 517, 2001. cited by other. | Margulova, T.Kh. et al., &quot;Conditions of dosing oxygen and hydrogen peroxide into the condensate of power units of supercritical parameters (Abstract)&quot;, Teploenergetika, 1977. cited by other . | Haag, J. et al., &quot;On-Line Measurement of Redox and Corrosion Potentials in Water for PWR Steam Generators&quot;, Kraftwerkstechnik, Kraftwerkstechnik GMbH., Essen, DE, vol. 70, No. 3, Mar. 1, 1990, pp. 236-241. cited by other . | Filer, &quot;Power Plant Chemistry Measurement Advancements: Oxidation Reduction Potential&quot;, Ultrapure Water, pp. 53-62, Nov. 1998. cited by other .
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5470484 | US5332494 | US20060157420 | US5422014 | US6587753 | US4775005 | US6350376 | US6620315 | US7141175 | US20060169646 | US4830757 | US6409926 | US4269717 | US20080179179 | US6068012 | US20030004681 | US5348664 | US6077445 | US5855791 | US6813532 | US5268092 | US5236845 | US4648043 | US6609070 | US6391256 | US6402984 | US5342510 | US4574071 | US20060182651 | US5243297 | JP2003254503
+	</str>
+	<str name="Cites Count">
+		31
+	</str>
+	<str name="Assignee(s)">
+		NALCO COMPANY
+	</str>
+	<str name="1st Assignee">
+		NALCO COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Naperville, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Naperville, IL
+	</str>
+	<str name="Inventor(s)">
+		HICKS, PETER, D. | GRATTAN, DAVID, A.
+	</str>
+	<str name="1st Inventor">
+		HICKS, PETER, D.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Aurora, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Aurora, IL | Bolingbrook, IL
+	</str>
+	<str name="Agent/Attorney">
+		YONTER, EDWARD O. MARTIN, MICHAEL B.
+	</str>
+	<str name="Primary Examiner">
+		SMITH, DUANE
+	</str>
+	<str name="Assistant Examiner">
+		DURAND, PAUL J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

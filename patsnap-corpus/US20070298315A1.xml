@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070298315A1
+	</str>
+	<str name="Application Number">
+		US11811708
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Battery cooling device, battery cooling air flow control device, and computer readable medium
+	</str>
+	<str name="Abstract">
+		In a battery cooling device for cooling a battery with cooling air from a cooling unit, such as a cooling fan, the cooling fan is not to be driven more than necessary. A cooling air flow control unit calculates a battery temperature change rate indicating an amount of change in battery temperature over a predetermined time based on the battery temperature, and if the calculated battery temperature change rate satisfies a predetermined suppression control condition, the cooling air flow of the cooling fan is suppressed regardless of whether or not the battery temperature is at or below a reference temperature.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-06-11
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-06
+	</str>
+	<str name="Publication Date">
+		2007-12-27
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-12
+	</str>
+	<str name="All IPC">
+		H01M1/50
+	</str>
+	<str name="IPC Primary">
+		H01M1/50
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M1
+	</str>
+	<str name="All UPC">
+		429/120 | 429/62
+	</str>
+	<str name="UPC Primary">
+		429/120
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		US20070298315A1 | JP2008004386A
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2006172664
+	</str>
+	<str name="Priority Date">
+		2006-06-22
+	</str>
+	<str name="Assignee(s)">
+		PANASONIC EV ENERGY CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		PANASONIC EV ENERGY CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kosai-shi,JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kosai-shi,JP
+	</str>
+	<str name="Inventor(s)">
+		YAMAMOTO TAKAO | YAMABE NORITO
+	</str>
+	<str name="1st Inventor">
+		YAMAMOTO TAKAO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Hirakata-shi,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Hirakata-shi,JP | Toyohashi-shi,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7058223
+	</str>
+	<str name="Application Number">
+		US09950972
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Identifying works for initiating a work-based action, such as an action on the internet
+	</str>
+	<str name="Abstract">
+		A system is described for linking traditional media works, such as print and broadcast media for example, to a more interactive media conduit, such as the Internet. The system avoids the need to modify the media work in anyway. Instead, it employs a passive recognition system that uniquely identifies the specific work, such as a particular television or radio broadcast or printed commercial. The identification may be based in intra-work and/or extra-work information. Several different embodiments/environments are described. The best embodiment may depend, at least in part, on costs of hardware and communication. These costs can change over time. In one embodiment, all of the databases and computation are performed at the user's premises. In another embodiment, all of the databases and computation occur at remote sites that user premise equipment can query using uniquely identifying extra-work information, such as the time, place and station on which the work was broadcast. This second embodiment is most suitable for content that is published, e.g. magazines, newspapers, etc., or broadcasted, e.g. cable, satellite and terrestrial television and radio. Alternative embodiments, in which various operations are performed at both the user's premises and remote locations are also possible.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-09-13
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-09
+	</str>
+	<str name="Publication Date">
+		2006-06-06
+	</str>
+	<str name="Publication Year">
+		2006
+	</str>
+	<str name="Publication(Year/Month)">
+		2006-06
+	</str>
+	<str name="All IPC">
+		G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		707/102 | 382/209 | 382/190 | 707/104.1
+	</str>
+	<str name="UPC Primary">
+		707/102
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Members">
+		US20020032698A1 | US7058223 | US20070041667A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6609105 | US20020032698 | US6374225 | US6598228 | US6173406 | US6973461
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		95097201 | 23261800
+	</str>
+	<str name="Priority Date">
+		2001-09-13 | 2000-09-14
+	</str>
+	<str name="Inventor(s)">
+		COX, INGEMAR, J.
+	</str>
+	<str name="1st Inventor">
+		COX, INGEMAR, J.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		West, Windsor, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		West, Windsor, NJ
+	</str>
+	<str name="Agent/Attorney">
+		STRAUB &amp; POKOTYLO POKOTYLO, JOHN C.
+	</str>
+	<str name="Primary Examiner">
+		BELLA, MATTHEW C.
+	</str>
+	<str name="Assistant Examiner">
+		DESIRE, GREGORY
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

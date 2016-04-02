@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		USR40565
+	</str>
+	<str name="Application Number">
+		US11/869357
+	</str>
+	<str name="Kind Code">
+		E1
+	</str>
+	<str name="Title">
+		Method and device for purifying waste water comprising an additional sludge treatment by ozonation
+	</str>
+	<str name="Abstract">
+		Method for purifying waste water, whereby the waste water is subjected to a biological treatment producing sludge, part of this sludge being recycled towards the biological treatment while being subjected to ozonation combined with mechanical stirring. A mechanical stirring energy is brought in to attack the walls of the microorganisms.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-04-14
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-04
+	</str>
+	<str name="Publication Date">
+		2008-11-11
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		C02F1/34 | C02F1/36 | C02F1/78 | C02F3/02 | C02F3/12
+	</str>
+	<str name="IPC Primary">
+		C02F1/34
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/627 | 210/173 | 210/628 | 210/760
+	</str>
+	<str name="UPC Primary">
+		210/627
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		USR40565
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		G B. Saayman et al. &quot;Chemical Control of Filamentous Sludge Bulking in a Full-scale Biological Nutrient Removal Activated Sludge Plant&quot;, Proceedings of the First Australian Conference of the International Ozone Association, vol. II, pp. III-61-III-81. cited by other | Collignon et al, &quot;Treatment of Bulking by Ozonation Mechanisms of Ozone on Microorganisms&quot;, Tribune de l eau, No. 562-12, pp. 46-57. cited by other | Kunz et al., &quot;Findings and Experiences from the Practical Application of Sewage Sludge Disintegration&quot;, Schlamme, pp. 1289-1298, (Jul. 1996). cited by other.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By">
+		US8062525
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6000551 | US6146524 | DE2546756 | DE4407564 | EP0645347 | FR2490208 | GB1116570 | JP1990222798 | WO1995013990
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		US | FR | US
+	</str>
+	<str name="Priority Number">
+		48502698 | 9801647 | 86935700
+	</str>
+	<str name="Priority Date">
+		1998-07-24 | 1998-07-24 | 2000-04-14
+	</str>
+	<str name="Assignee(s)">
+		SOCIETE DEGREMONT
+	</str>
+	<str name="1st Assignee">
+		SOCIETE DEGREMONT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rueil Malmaison, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Rueil Malmaison, FR
+	</str>
+	<str name="Inventor(s)">
+		THIEBLIN, ERIC | PUJOL, ROGER | HAUBRY, ANDRE
+	</str>
+	<str name="1st Inventor">
+		THIEBLIN, ERIC
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Plaisir, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Plaisir, FR | Chatou, FR | Mezy, sur, Seine, FR
+	</str>
+	<str name="Agent/Attorney">
+		MILLER, MATTHIAS &amp; HULL
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6047085
+	</str>
+	<str name="Application Number">
+		US08765814
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Image identifying apparatus
+	</str>
+	<str name="Abstract">
+		Apparatus and method for identifying the color image of an object. The object's image is digitized and a cut-off portion of the image containing the object is determined. The cut-off portion image data is normalized. Selected pixels of the normalized image are subjected to an averaging process to provide an averaged image containing R, G, and B color components. H, V, and C components of the averaged image data are computed, and their V, c, and d components are computed from the H, V, and C components. A color feature extractor computes from the c and d component data a parameter representative of the object to be identified. This parameter is provided to a memory controller to retrieve from a memory that stores target images one or more images categorized according to the computed parameter. A matching section matches each retrieved target image with the Vcd component data and determines which target image is most similar.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1997-01-17
+	</str>
+	<str name="Application Year">
+		1997
+	</str>
+	<str name="Application(Year/Month)">
+		1997-01
+	</str>
+	<str name="Publication Date">
+		2000-04-04
+	</str>
+	<str name="Publication Year">
+		2000
+	</str>
+	<str name="Publication(Year/Month)">
+		2000-04
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/165 | 382/166
+	</str>
+	<str name="UPC Primary">
+		382/165
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		DE69428293T2 | DE69428293D1 | US6047085 | JP1998503307A | WO1996003716A1 | EP0804777B1 | EP0804777A1 | JP19980503307A
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Andreadis et al., &quot;Image Pixel Classification by Chromaticity Analysis&quot;, Pattern Recognition Letters, 11(1):51-58 (1991). | S. Tominaga, &quot;Color Image Segmentation Using Three Perceptual Attributes&quot;, IEEE Computer society Press, p. 628-630 (1986). | &quot;Interpretation of Natural Scenes using Multi-parameter Default Models &amp; Qualitative Constraints&quot;, Michael Hild et al IEEE, p497-501, 1993.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US5189712 | US4386432 | US5162899 | US4208652 | US4747148 | US5604596 | US5644765 | US4790022 | JP1993176962 | JP1992054681 | EP0194148A3 | JP1993151277
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		9401200
+	</str>
+	<str name="Priority Date">
+		1994-07-21
+	</str>
+	<str name="Assignee(s)">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="1st Assignee">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		SATO, TOSHIO | UNO, TERUHIKO | HIRASAWA, TOSHIO | TAKAHASHI, HIROSHI | NAKAGAWA, KAZUYO
+	</str>
+	<str name="1st Inventor">
+		SATO, TOSHIO
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Yokohama, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Yokohama, JP | Mitaka, JP | Kawasaki, JP | Okegawa, JP | Yokohama, JP
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp; DUNNER, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		AU, AMELIA
+	</str>
+	<str name="Assistant Examiner">
+		AHMED, SAMIR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

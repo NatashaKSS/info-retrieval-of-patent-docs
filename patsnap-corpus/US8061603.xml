@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8061603
+	</str>
+	<str name="Application Number">
+		US12/052051
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Controlling shopper checkout throughput
+	</str>
+	<str name="Abstract">
+		The present invention provides a solution for controlling checkout throughput. Specifically, under the present invention a set of attributes of an item will be obtained. An analysis of the set of attributes will then be performed to determine whether an inconsistency exists based on a tolerance threshold. Such analysis can include, for example, comparing the weight of the item to its expected weight. This can help determine if a mistake has been made or fraud has been committed. Whether an inconsistency is observed is based on a tolerance threshold. For example, a certain deviation (i.e., the tolerance threshold) from an expected value could be allowed to could be allowed to reduce errors during the checkout process and thereby increase checkout throughput. As such, the present invention allows the tolerance threshold to be tuned based on a desired checkout throughput.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-03-20
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-03
+	</str>
+	<str name="Publication Date">
+		2011-11-22
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		G06K15/00
+	</str>
+	<str name="IPC Primary">
+		G06K15/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K15
+	</str>
+	<str name="All UPC">
+		235/383
+	</str>
+	<str name="UPC Primary">
+		235/383
+	</str>
+	<str name="UPC Class">
+		235
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Basit, U.S. Appl. No. 12/037,270, Office Action Communication, Jan. 21, 2011, 13 pages. cited by other . | Reesen, Rick, &quot;Virtual World Technologies to Manage a Grid--A Look at Some Realities, Concepts and Maybe Even the Future&quot;, Virtual Universe Community, Apr. 2, 2008, pp. 1-19. cited by other . | Stanford, U.S. Appl. No. 12/112,318, Office Action Communication, May 3, 2011, 16 pages. cited by other . | Connell II, Office Action Communication, U.S. Appl. No. 11/782,177, Nov. 24, 2009, 16 pages. cited by other . | Bolle, &quot;Veggie Vision: A Produce Recognition System&quot;, Produce Marketing Association, 8 pages. cited by other . | Connell II, &quot;Item Scanning System&quot;, U.S. Appl. No. 11/782,173, filed Jul. 24, 2007. cited by other . | Kim, U.S. Appl. No. 11/756,382, Office Action Communication, Sep. 29, 2010, 26 pages. cited by other . | Connell II, Office Action Communication, U.S. Appl. No. 11/782,173, May 27, 2009, 12 pages. cited by other . | Connell II, Office Action Communication, U.S. Appl. No. 11/782,173, Nov. 27, 2009, 12 pages. cited by other . | Connell II, Office Action Communication, U.S. Appl. No. 12/052,051, Sep. 8, 2008, 19 pages. cited by other . | Connell II et al., U.S. Appl. No. 12/052,046, Office Action Communication, Apr. 2, 2010, 13 pages. cited by other . | Derwent, &quot;Web Based Ordering System for Non-Standardised Goods e.g. Fruit, Vegetables Provides View of Item for Selection and Prints Bar Code on Item for Order Processing&quot;, Jul. 10, 1998, 2 pages. cited by other . | Vo, U.S. Appl. No. 12/037,266, Office Action Communication, Jul. 22, 2011, 18 pages. cited by other. | Stanford, U.S. Appl. No. 12/112,318, Office Action Communication, Nov. 8, 2010, 20 pages. cited by other . | Crosland, U.S. Appl. No. 12/052,046, Notice of Allowance &amp; Fees Due, Oct. 7, 2010, 14 pages. cited by other . | Vo, U.S. Appl. No. 12/037,266, Office Action Communication, Jan. 27, 2011, 31 pages. cited by other . | Connell II, Office Action Communication, U.S. Appl. No. 12/052,051, Jun. 26, 2009, 19 pages. cited by other . | Connell II, et al. U.S. Appl. No. 11/782,173, Examiner's Answer, Apr. 30, 2010, 11 pages. cited by other . | Hai, U.S. Appl. No. 12/037,270, Office Action Communication, Aug. 6, 2010, 19 pages. cited by other . | Connell II, Office Action Communication, U.S. Appl. No. 11/756,391, Dec. 2, 2008, 19 pages. cited by other . | Mehta, &quot;Delta Adds Fee to Tickets Not Bought Online; Airlines: The $2 charge applies to all round-trip domestic flights not booked through its Web site. Travel agens criticize the move.&quot; Los Angeles Times, Jan. 14, 1999, ProQuest LLC, 3 pages. cited by other . | Bolle et al., &quot;Veggie Vision: A Produce Recognition System&quot;, pp. 1-4, WACV 1996. cited by other . | Connell II, et al., U.S. Appl. No. 11/782,177, Final Office Action, Apr. 23, 2010, 18 pages. cited by other . | Connell II, et al. U.S. Appl. No. 11/756,391, Final Office Action, May 6, 2010, 18 pages. cited by other . | Sahai, Akhil, &quot;Towards Distributed and Dynamic Network Management&quot;, Network Operations and Management Symposium, vol. 2, Feb. 15, 1998, pp. 455-464. cited by other . | Basit, U.S. Appl. No. 12/037,270, Office Action Communication, Jun. 15, 2011, 22 pages. cited by other . | Kim, U.S. Appl. No. 11/756,382, Notice of Allowance &amp; Fees Due, Mar. 24, 2011, 11 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		27
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6853400 | US20020110374 | US5811774 | US6310964 | US20060179164 | US20050173527 | US20070107017 | US20070107016 | US6005959 | US6991158 | US20040125396 | US5815200 | US5497314 | US6122409 | US6382357 | US20020194074 | US20060047835 | US5763864 | US20050096855 | US6556276 | US20030167242 | US20070107021 | US6504481 | US20020121547 | US5426282 | US20060290980 | US6434530 | US20060288133 | US20020161658 | US4323772 | US5331455 | US7124058 | US20060010033 | US7334729 | US20030071725 | US20070279244 | US5883968 | US5609223 | US5477379 | US20010045463 | US7159770 | US20090119168 | US5918211 | US20020070861 | US7337960 | US20020004404 | US7422147 | US20060161390 | US20020013837 | US6064469 | US7168618 | US20080141755 | US20080027796 | US5659167 | US5583686 | US5467403 | US6366696 | US20080149725 | US20050211771 | US5631976 | US20050189412 | US5513264 | US5649970 | US20050189411 | US5635697 | US7044370 | US20050200490 | US5546475 | US20060289637 | US6287299 | US20080059281 | US6032128 | US7202780 | US20060032915 | US20050237213 | US7196624 | US20030024982 | US20080142598 | US6606171 | US6726094 | US7118026 | WO2002025506
+	</str>
+	<str name="Cites Count">
+		82
+	</str>
+	<str name="Assignee(s)">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Armonk, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Armonk, NY
+	</str>
+	<str name="Inventor(s)">
+		CONNELL, II, JONATHAN, H. | FLICKNER, MYRON, D. | HAAS, NORMAN | HAMPAPUR, ARUN | OTTO, CHARLES, A. | PANKANTI, SHARATHCHANDRA, U.
+	</str>
+	<str name="1st Inventor">
+		CONNELL, II, JONATHAN, H.
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Cortlandt-Manor, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Cortlandt-Manor, NY | San, Jose, CA | Mount, Kisco, NY | Norwalk, CT | Hawthorne, NY | Norwalk, CT
+	</str>
+	<str name="Agent/Attorney">
+		LINNE, ANNA L. HOFFMAN WARNICK LLC
+	</str>
+	<str name="Primary Examiner">
+		LEE, SEUNG
+	</str>
+	<str name="Assistant Examiner">
+		JOHNSON, SONJI
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7474759
+	</str>
+	<str name="Application Number">
+		US10416560
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Digital media recognition apparatus and methods
+	</str>
+	<str name="Abstract">
+		Physical objects, including still and moving images, sound/audio and text are transformed into more compact forms for identification and other purposes using a method unrelated to existing image-matching systems which rely on feature extraction. An auxiliary construct, preferably a warp grid, is associated with an object, and a series of transformations are imposed to generate a unique visual key for identification, comparisons, and other operations. Search methods are also disclosed for matching an unknown image to one previously represented in a visual key database. Broadly, a preferred search method sequentially examines candidate database images for their closeness of match in a sequential order determined by their a priori match probability. Thus, the most likely match candidate is examined first, the next most likely second, and so forth. With respect to the recognition of video sequences and other information streams, inventive holotropic stream recognition principles are deployed, wherein the statistics of the spatial distribution of warp grid points is used to generate index keys. The invention is applicable to various fields of endeavor, including governmental, scientific, industrial, commercial, and recreational object identification and information retrieval. Extensions of the technology are also disclosed to achieve a uniform distribution of objects over the database search, a consideration which is central to scalability. In particular, a generalized method has been developed based on reticle projection, which greatly enhances the uniformity of object distributions in the collected data Thus, whereas statistical criteria are used with respect to particular embodiments in transforming a construct associated with an image, audio, text or other representation, a reticle projection may alternatively be used in attribute transformation according to alternative embodiments of the invention.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-11-13
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-11
+	</str>
+	<str name="Publication Date">
+		2009-01-06
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/32 | G06K9/36
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/293 | 382/100 | 382/276
+	</str>
+	<str name="UPC Primary">
+		382/293
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20090164213A1 | US20040133927A1 | US7474759
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		J.M. Corridoni; A. Del Bimbo; M. Mugnaini; P. Pala; F. Turco, &quot;Pyramidal Retrieval by Color Perceptive Regions,&quot; IEEE 1997, pp. 205-211. cited by other. | &quot;IBM Unleashes QBIC Image-Content Search,&quot; Seybold Report on Desktop Publishing, vol. 9, No. 1, Apr. 2000. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US5633952 | US4486775 | US5940538 | US5343538 | US5852823 | US5842202 | US5893095 | US5133019 | US4797937 | US5602938 | US5911011 | US6006218 | US4479236 | US5761686 | US5987470 | US5706366 | US6028956 | US5923837 | US5943677 | US5018207 | US4414635 | US5432545 | US5861960 | US5832494 | US5754692 | US5710829 | US5572604 | US5875285 | US5875446 | US5555320 | US5224176 | US4672681 | US5911139 | US5473705 | US5353355 | US6018735 | US5652881 | US6026411 | US5765089 | US5802208 | US6026398 | US5848404 | US5227871 | US5301241 | US5699441 | US5640468 | US6014664 | US6009424 | US5887069 | US5983222 | US5864779 | US5987456 | US5802515 | US6026389 | US5870754 | US5941944
+	</str>
+	<str name="Cites Count">
+		56
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		41656003 | 71149300 | 0148020
+	</str>
+	<str name="Priority Date">
+		2003-05-12 | 2000-11-13 | 2001-11-13
+	</str>
+	<str name="Assignee(s)">
+		PIXEL VELOCITY, INC.
+	</str>
+	<str name="1st Assignee">
+		PIXEL VELOCITY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ann Arbor, MI
+	</str>
+	<str name="Assignee(s) Address">
+		Ann Arbor, MI
+	</str>
+	<str name="Inventor(s)">
+		STERNBERG, STANLEY | DARGEL, WILLIAM | LENNINGTON, JOHN, W | VOILES, THOMAS
+	</str>
+	<str name="1st Inventor">
+		STERNBERG, STANLEY
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Ann, Arbor, MI
+	</str>
+	<str name="Inventor(s) Address">
+		Ann, Arbor, MI | Ann, Arbor, MI | Ann, Arbor, MI | Ann, Arbor, MI
+	</str>
+	<str name="Primary Examiner">
+		COUSO, YON
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

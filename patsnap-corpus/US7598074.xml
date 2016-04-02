@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7598074
+	</str>
+	<str name="Application Number">
+		US10804746
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System and method for cleaning contaminated matter comprising dioxins and preparation for decomposing dioxins
+	</str>
+	<str name="Abstract">
+		A reaction tank (5) holds crushed cells comprising a pellicle of Bacillus midousuji cultured in the presence of a chlorinated aromatic compound such as dioxins and holds wastewater comprising a contaminated matter such as fly ash which comprises dioxins and which is produced by washing of a facility such as an incinerator. Air is supplied by a blower (6) to a matter held in the reaction tank (5). Accordingly, dioxins having three or more chlorine atoms in the contaminated matter can be decomposed, and the contaminated matter can be easily cleaned at a site where dioxins generate such as a washing or dismantling site of an incineration facility.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-03-19
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-03
+	</str>
+	<str name="Publication Date">
+		2009-10-06
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		A62D3/00 | C02F3/34 | A62D3/02 | B09C1/10 | B09B3/00
+	</str>
+	<str name="IPC Primary">
+		A62D3/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A62
+	</str>
+	<str name="IPC Subclass">
+		A62D
+	</str>
+	<str name="IPC Group">
+		A62D3
+	</str>
+	<str name="All UPC">
+		435/299.1 | 435/307.1 | 435/262.5 | 435/304.1 | 435/289.1 | 435/305.1 | 435/309.1 | 435/264 | 435/262 | 435/176 | 210/615
+	</str>
+	<str name="UPC Primary">
+		435/299.1
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		US20050208642A1 | US7598074
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Notice of Reason for Rejection issued May 19, 2009 in Corresponding Japanese Patent Appl. No. 2004-08553 with English translation. cited by other . | Yuichiro Otsuka, et al.; Research on Decomposing Function s of Novel Chlorinated Dioxin-Decomposing Microorganisms; Summary of Annual Meeting of Japan Society for Bioscience, Biotechnology, and Agrochemistry, Mar. 5, 2003; p. 82 (with English translation); vol. 2003; Japan. cited by other. | Masaya Nakamura, Shojiro Hishiyama, Yuichiro Ohtsuka, Takashi Kobayashi, Yoshihiro Katayama; Screening of Dioxin Decomposing Micro-Organism by a Novel Dioxin Analogous Compound; The Journal of Nippon Nogei Kagaku Kai; Mar. 2001; p. 153. cited by other . | Sadayori Hoshina, Midori Kono, Horoshi Goda, Toru Furuichi; Dioxins Decomposition Experiments by Thermophilici Microorganism, and Analysis of Gene Thereof; Proceedings of the 10.sup.th Annual Conference of The Japan Society of Waste Management Experts; Oct. 26-28, 1999; Ohmiya Sonic City. cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5563066 | US6723242 | US6190903 | US6420165 | US6337204 | US6521444 | US4859594 | JP2002301466 | JP1977057389 | JP2002348291 | JP2001090353 | JP2000328815 | JP2002336815 | JP2002028695 | JP1976082781 | JP2002172364
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2003077565
+	</str>
+	<str name="Priority Date">
+		2003-03-20
+	</str>
+	<str name="Assignee(s)">
+		TAKASAGO THERMAL ENGINEERING CO., LTD. (TOKYO, JP), ENGINEERING ADVANCEMENT ASSOCIATION OF JAPAN
+	</str>
+	<str name="1st Assignee">
+		TAKASAGO THERMAL ENGINEERING CO., LTD. (TOKYO, JP), ENGINEERING ADVANCEMENT ASSOCIATION OF JAPAN
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		HOSHINA, SADAYORI | TAKAHASHI, ATSUSHI | IIYAMA, NOBORU | INABA, HITOSHI
+	</str>
+	<str name="1st Inventor">
+		HOSHINA, SADAYORI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Ebina, JP | Toride, JP | Sagamihara, JP
+	</str>
+	<str name="Agent/Attorney">
+		ALSTON &amp; BIRD LLP
+	</str>
+	<str name="Primary Examiner">
+		BEISNER, WILLIAM H
+	</str>
+	<str name="Assistant Examiner">
+		BOWERS, NATHAN A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

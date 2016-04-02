@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6643400
+	</str>
+	<str name="Application Number">
+		US09538735
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Image processing apparatus and method for recognizing specific pattern and recording medium having image processing program recorded thereon
+	</str>
+	<str name="Abstract">
+		The present invention provides an image processing apparatus capable of retrieving a specific pattern from an image at a high speed in an image recognizing processing. The apparatus creates a map image having pixels correspond to block regions of the image by one to one when retrieving a specific pattern from the image. Then, the apparatus labels each pixel of the map image based on feature of each block region of the image, detects a predetermined pattern specifying a region on the map image, specifies a block region on the original image corresponding to a position of the detected predetermined pattern on the map image, and retrieves the specific pattern in the specified block region.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-03-30
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-03
+	</str>
+	<str name="Publication Date">
+		2003-11-04
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-11
+	</str>
+	<str name="All IPC">
+		G06K9/66
+	</str>
+	<str name="IPC Primary">
+		G06K9/66
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/173 | 358/403 | 382/195 | 382/190 | 382/205 | 382/180 | 382/305
+	</str>
+	<str name="UPC Primary">
+		382/173
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US6643400
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6104832 | US6302329 | US5867593 | US5625717 | US5602940 | US5572602 | US4783838 | US6453069 | US6307963 | US6320977 | US5696838 | US4334241
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		11092050 | 11092094
+	</str>
+	<str name="Priority Date">
+		1999-03-31 | 1999-03-31
+	</str>
+	<str name="Assignee(s)">
+		MINOLTA CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		MINOLTA CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Osaka, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s)">
+		MURAKAWA, AKIRA | HASHIMOTO, KEISUKE
+	</str>
+	<str name="1st Inventor">
+		MURAKAWA, AKIRA
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Toyonaka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Toyonaka, JP | Toyokawa, JP
+	</str>
+	<str name="Agent/Attorney">
+		BURNS, DOANE, SWECKER &amp; MATHIS, LLP
+	</str>
+	<str name="Primary Examiner">
+		MARIAM, DANIEL G.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

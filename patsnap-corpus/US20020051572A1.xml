@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20020051572A1
+	</str>
+	<str name="Application Number">
+		US09984688
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Device, method, and computer-readable medium for detecting changes in objects in images and their features
+	</str>
+	<str name="Abstract">
+		A feature pattern (e.g., contours of an object) of an input image to be processed is extracted. A feature pattern (e.g., contours of an object) of a reference image corresponding to the input image is extracted. A comparison is made between the extracted feature patterns of the input and reference images. Their difference is output as the result of the comparison.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-10-31
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-10
+	</str>
+	<str name="Publication Date">
+		2002-05-02
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-05
+	</str>
+	<str name="All IPC">
+		G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/190
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20060188160A1 | JP2002203243A | JP3764364B2 | US20020051572A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2000333211 | 2001303409
+	</str>
+	<str name="Priority Date">
+		2000-10-31 | 2001-09-28
+	</str>
+	<str name="Inventor(s)">
+		NOBUYUKI MATSUMOTO | TAKASHI IDA
+	</str>
+	<str name="1st Inventor">
+		NOBUYUKI MATSUMOTO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki-shi,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki-shi,JP | Kawasaki-shi,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

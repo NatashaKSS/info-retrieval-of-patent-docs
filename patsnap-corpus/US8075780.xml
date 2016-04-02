@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8075780
+	</str>
+	<str name="Application Number">
+		US10/981328
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Purification and concentration of synthetic biological molecules
+	</str>
+	<str name="Abstract">
+		The present invention is an ultrafiltration (UF) membrane having a nominal molecular weight cut off (NMWCO) of from about 0.5 KD to about 10 KD wherein the membrane surfaces have a charge that is either positive or negative. The present invention is also a method of using the charged UF membrane to purify and concentrate synthetic biological molecules by using the charged surface either to repel the synthetic biomolecules retaining them in the retentate or to attract the synthetic biomolecules preferentially for filtration through the membrane.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-11-04
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-11
+	</str>
+	<str name="Publication Date">
+		2011-12-13
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		B01D61/14 | B01D61/18
+	</str>
+	<str name="IPC Primary">
+		B01D61/14
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/654 | 210/653 | 210/500.27 | 210/651 | 204/540 | 210/321.75 | 210/655
+	</str>
+	<str name="UPC Primary">
+		210/654
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Li S-L et al, &quot;Separation of 1-glutamine from fermentation broth by nanofiltration&quot;, Journal of Membrane Science, Elsevier Scientific Publ Co, Amsterdam NL, vol. 222, No. 1-2, Sep. 1, 2003, pp. 191-201. cited by other . | Childress A E et al, &quot;Effect of humic substances and anionic surfactants on the surface charge and performance of reverse osmosis membranes&quot;, Desalination Elsevier Scientific Publishing Co, Amsterdam NL, vol. 118, No. 1-3, Sep. 20, 1998 p. 167-174. cited by other . | Van Reis R et al, &quot;High-performance tangential flow filtration using charged membranes&quot;, Journal of Membrane Science, Elsevier Science, Amsterdam NL, vol. 159, No. 1-2, Jul. 1, 1999, pp. 133-142. cited by other . | European Search Report received for EP Patent Application No. 04257246.1 mailed on Mar. 3, 2005, 4 pages. cited by other. | Japanese Patent Abstract for JP 63185403 A Published on Aug. 1, 1998 to Toray Ind. Inc. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cites">
+		US5997745 | US5049282 | US20030178368 | US4824568 | US5437774 | US7001550 | JP2000513580 | JP2002543971 | JP1983198299 | JP1991193121 | WO1998015681
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Assignee(s)">
+		MILLIPORE CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MILLIPORE CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Billerica, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Billerica, MA
+	</str>
+	<str name="Inventor(s)">
+		PEARCE, RICHARD, JAMES
+	</str>
+	<str name="1st Inventor">
+		PEARCE, RICHARD, JAMES
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Swampscott, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Swampscott, MA
+	</str>
+	<str name="Primary Examiner">
+		PHASGE, ARUN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7793788
+	</str>
+	<str name="Application Number">
+		US11623719
+	</str>
+	<str name="Title">
+		Separating components of aqueous mixtures, suspensions, and solutions
+	</str>
+	<str name="Abstract">
+		Systems and methods are described for separating components of aqueous mixtures, including aqueous solutions and suspensions. In one implementation, an apparatus flows the aqueous mixture over a hydrophilic surface to form a first region of purified water and a second region of at least one concentrated non-aqueous component. The apparatus can draw off either the purified water or the concentrated non-aqueous components. In one implementation, an array of tubules performs the differential extraction. In another implementation, various hydrophilic and/or hydrophobic surfaces are disposed in multiple differential extractors and some effluents may be recycled to perform complex assaying and separation.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-16
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2010-09-14
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-09
+	</str>
+	<str name="All IPC">
+		C02F1/46
+	</str>
+	<str name="IPC Primary">
+		C02F1/46
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/538 | 422/261 | 210/511
+	</str>
+	<str name="UPC Primary">
+		210/538
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Zheng et al., &quot;Long-range forces extending from polymer-gel surfaces&quot;, Physical Review E 68, 031408 (2003), received May 7, 2003; published Sep. 29, 2003. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US20090134090 | US20030185956 | US20020058173
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Inventor(s)">
+		POLLACK, GERALD, H.
+	</str>
+	<str name="1st Inventor">
+		POLLACK, GERALD, H.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Seattle, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Seattle, WA
+	</str>
+	<str name="Agent/Attorney">
+		WIKLOF, CHRISTOPHER A. GRAYBEAL JACKSON LLP
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

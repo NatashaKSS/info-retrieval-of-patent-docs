@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7662289
+	</str>
+	<str name="Application Number">
+		US11623552
+	</str>
+	<str name="Title">
+		Method of cleaning fouled or scaled membranes
+	</str>
+	<str name="Abstract">
+		A method of cleaning a fouled or a scaled RO or NF membrane surface with a solution containing one or more thermo-responsive polymers is disclosed. More specifically, the method comprises: treating the membrane surface in a membrane separation system with a solution containing one or more TRP, wherein said TRP is soluble in said solution and at least an effective amount of said TRP diffuses into a foulant layer on said membrane surface; making insoluble said TRP diffused into said foulant layer; optionally, rinsing the membrane.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-16
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2010-02-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-02
+	</str>
+	<str name="All IPC">
+		B01D65/02
+	</str>
+	<str name="IPC Primary">
+		B01D65/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D65
+	</str>
+	<str name="All UPC">
+		210/732 | 210/733 | 210/652 | 134/22.19 | 210/774 | 210/701 | 210/698 | 210/639 | 210/636
+	</str>
+	<str name="UPC Primary">
+		210/732
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Bunseki Kagaku Abstracts, vol. 52, No. 4, Apr. 2003, Tohru Saitoh, Chiyo Matsubara and Masataka Hiraide, The Japan Society for Analytical Chemistry, pp. 1 and 7. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US8002120 | US7905361
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US6615855 | US6852819 | US20050184008 | US6641754 | US4895658 | GB2124199 | WO2007143448 | WO2002079106 | WO2003057351 | JP2002346560
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Assignee(s)">
+		NALCO COMPANY
+	</str>
+	<str name="1st Assignee">
+		NALCO COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Naperville, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Naperville, IL
+	</str>
+	<str name="Inventor(s)">
+		MUSALE, DEEPAK, A. | ZEIHER, E., H., KELLE
+	</str>
+	<str name="1st Inventor">
+		MUSALE, DEEPAK, A.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Aurora, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Aurora, IL | Naperville, IL
+	</str>
+	<str name="Agent/Attorney">
+		DIMATTIA, PETER A. MARTIN, MICHAEL B.
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

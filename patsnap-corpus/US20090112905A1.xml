@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090112905A1
+	</str>
+	<str name="Application Number">
+		US11/923430
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Self-Compacting Pattern Indexer: Storing, Indexing and Accessing Information in a Graph-Like Data Structure
+	</str>
+	<str name="Abstract">
+		An indexing system uses a graph-like data structure that clusters features indexes together. The minimum atomic value in the data structure is represented as a leaf node which is either a single feature index or a sequence of two or more feature indexes when a minimum sequence length is imposed. Root nodes are formed as clustered collections of leaf nodes and/or other root nodes. Context nodes are formed from root nodes that are associated with content that is being indexed. Links between a root node and other nodes each include a sequence order value that is used to maintain the sequencing order for feature indexes relative to the root node. The collection of nodes forms a graph-like data structure, where each context node is indexed according to the sequenced pattern of feature indexes. Clusters can be split, merged, and promoted to increase the efficiency in searching the data structure.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-10-24
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2009-04-30
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		1/1 | 707/999.102 | 707/E17.044 | 707/102
+	</str>
+	<str name="UPC Primary">
+		1/1
+	</str>
+	<str name="UPC Class">
+		1
+	</str>
+	<str name="Family Members">
+		US20090112905A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		92343007
+	</str>
+	<str name="Priority Date">
+		2007-10-24
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond,WA,US
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond,WA,US
+	</str>
+	<str name="Inventor(s)">
+		MUKERJEE KUNAL | THOMPSON, III R. DONALD | COLE JEFFREY | MEEDER BRENDAN
+	</str>
+	<str name="1st Inventor">
+		MUKERJEE KUNAL
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Redmond,WA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Redmond,WA,US | Sammamish,WA,US | Redmond,WA,US | Redmond,WA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7648631
+	</str>
+	<str name="Application Number">
+		US11468897
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus for wastewater treatment using nitrogen/phosphorus removal and floatation separation
+	</str>
+	<str name="Abstract">
+		A method and an apparatus for wastewater treatment using a nitrogen/phosphorus removal process combined with a floatation separation of sludge that is replaced by the gravity settling secondary clarifier are provided for effectively removing organic substances, nitrogen, phosphorus, granular substances and the like from wastewater. Al or Fe electrode plate is used for generating the micro bubbles so that phosphorus is removed by Al or Fe ions dissolved from the anode. With the method and the apparatus, a concentration of the microorganisms in the bioreactor is maintained high so that the volume and area of the reactor are reduced, that removal efficiency for organic substances, nitrogen, phosphorus is increased, that deterioration of settlability due to sludge bulking or micro floc and deterioration of out-flowing water quality are prevented, that the time required for settling is reduced to increase the processing quantity of wastewater, and that removal efficiency for phosphorus is maximized by simultaneous performances of biological phosphorus removal and chemical phosphorus removal by chemical agglomeration in the solid-liquid floatation separation vessel.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-08-31
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-08
+	</str>
+	<str name="Publication Date">
+		2010-01-19
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		C02F3/12
+	</str>
+	<str name="IPC Primary">
+		C02F3/12
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/221.2 | 210/221.1 | 210/188
+	</str>
+	<str name="UPC Primary">
+		210/221.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080006577A1 | KR100767724B1 | US7648631
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Grady et al. &quot;Biological Wastewater Treatment&quot;, 2.sup.nd Edition, pp. 193-194, Marcel Dekker, Inc., 1999. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20030075502 | US4334975 | US4280886 | US4802962 | JP2004066037
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020060062542
+	</str>
+	<str name="Priority Date">
+		2006-07-04
+	</str>
+	<str name="Assignee(s)">
+		KOREA INSTITUTE OF SCIENCE &amp; TECHNOLOGY
+	</str>
+	<str name="1st Assignee">
+		KOREA INSTITUTE OF SCIENCE &amp; TECHNOLOGY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		KR
+	</str>
+	<str name="Assignee(s) Address">
+		KR
+	</str>
+	<str name="Inventor(s)">
+		CHOI, YONG, SU | LEE, SANG, HYUP | HONG, SEOK, WON | CHUNG, TAI, HAK | KIM, YUN, JUNG | CHOI, YOUNG, GYUN
+	</str>
+	<str name="1st Inventor">
+		CHOI, YONG, SU
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul, KR | Gyounggi, KR | Seoul, KR | Seoul, KR | Seoul, KR | Daegu, KR
+	</str>
+	<str name="Agent/Attorney">
+		OHLANDT, GREELEY, RUGGIERO &amp; PERLE, LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

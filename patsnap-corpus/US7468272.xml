@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7468272
+	</str>
+	<str name="Application Number">
+		US10967394
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Biological soil detector
+	</str>
+	<str name="Abstract">
+		A biological soil detector and a method for detecting bio soil are provided. The biological soil detector has a solid support member; a specific indicator immobilized on the solid support member, the specific indicator having a material sensitive to the presence of blood; and the solid support and specific indicator positioned within or on a retaining member to readily contact a liquid that has been used to contact a surface. In the method for detecting bio soil, the method includes the following steps: contacting the surface with a liquid; after the liquid has contacted the surface, contacting the liquid with the solid support member and the specific indicator of the detector described herein; and inspecting the solid support member for a detectable response to determine whether the specific indicator has interacted with biological soil.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-10-18
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-10
+	</str>
+	<str name="Publication Date">
+		2008-12-23
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-12
+	</str>
+	<str name="All IPC">
+		C12N1/34
+	</str>
+	<str name="IPC Primary">
+		C12N1/34
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12N
+	</str>
+	<str name="IPC Group">
+		C12N1
+	</str>
+	<str name="All UPC">
+		435/288.5 | 435/287.4 | 210/206
+	</str>
+	<str name="UPC Primary">
+		435/288.5
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		WO2005113796A1 | JP2007536556A | EP1756295A1 | AU2005245777A1 | US20050250089A1 | US7468272
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Costa S. A. et al., &quot;Immobilisation of Catalase on the Surface of Biodegradable Starch-Based Polymers as a Way to Chance its Surface Characteristics&quot; Journal of Materials Science: Materials in Medicine; Apr. 2004; pp. 335-342. cited by other . | Klueh U. et al.; &quot;Binding and Orientation of Fibronectin to Silanated Glass Surfaces Using Immobilized Bacterial Adhesin-Related Peptides&quot; Biomaterial; Oct. 2003, pp. 3877-3884. cited by other . | Barer M. R.; &quot;New Possibilities for Bacterial Cytochemistry: Light Microscopical Demonstration of Beta-Galactosidase in Unfixed Immobilized Bacteria&quot; The Histochemical Journal; Nov.-Dec. 1991, vol. 23, No. 11-12, Nov. 1991 pp. 529-533. cited by other . | Ishino Y et al.; &quot;Pitfalls in Endoscope Reprocessing: Brushing of Air and Water Channels is Mandatory for High-Level Disinfection&quot;; Gastrointestinal Endoscopy, Feb. 2001, vol. 53, No. 2, Feb. 2001, pp. 165-168. cited by other . | D Verjat et al., &quot;Fluorescence-assay on Traces of Protein on Re-usable Medical Devices: Cleaning Efficiency&quot;; International Journal of Pharmaceutics; vol. 179, No. 2, Mar. 15, 1999, pp. 267-271. cited by other . | Van Pouke S.O. et al., &quot;Rapid Detection of Fluorescent and Chemiluminescent Total Coliforms and E. coli on Membrane Filters&quot; Journal of Microbiological Methods, vol. 42, pp. 233-244, 2000. cited by other. | Alfa Michelle J. et al.; &quot;Worst-Case Soiling Levels for Patient-Used Flexible Endoscopes Before and After Cleaning&quot;; American Journal of Infection Control, vol. 27, No. 5, Oct. 1999, pp. 392-401. cited by other .
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6428746 | US5368029 | US5340741 | US6596532 | US6867052 | US6551834 | US7193519 | US5004543 | US20030012688 | US20040052679 | US5486459 | US5443987 | US5827675 | US6107097 | US6203496 | US4301115 | US6454874 | US6197599 | US3616251 | US6251618 | US20040142327 | US6506818 | US6268162 | US5552272 | US6494964 | US6447990 | US5132208 | US4702840 | US20050084842 | US4038485 | US20030164182 | US20030064417 | US6516817 | US5928948 | US6394111 | US5096833 | US5128041 | AU199739216 | JP2002355297 | JP2003383599 | WO2001054552 | WO2002009743 | WO2000010476 | WO2001013109 | WO2001003663 | WO2001070641 | WO2003063693 | EP0884115 | EP0269979 | WO2001089654 | JP1998313894 | WO2000045943 | JP1991435234 | EP1213583
+	</str>
+	<str name="Cites Count">
+		54
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		96739404 | 84259904
+	</str>
+	<str name="Priority Date">
+		2004-10-18 | 2004-05-10
+	</str>
+	<str name="Assignee(s)">
+		3M INNOVATIVE PROPERTIES COMPANY
+	</str>
+	<str name="1st Assignee">
+		3M INNOVATIVE PROPERTIES COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		St. Paul, MN
+	</str>
+	<str name="Assignee(s) Address">
+		St. Paul, MN
+	</str>
+	<str name="Inventor(s)">
+		CHANDRAPATI, SAILAJA | GONZALEZ, BERNARD, A. | HOVDE, BONNIE, J. | LANDGREBE, KEVIN, D.
+	</str>
+	<str name="1st Inventor">
+		CHANDRAPATI, SAILAJA
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Woodbury, MN
+	</str>
+	<str name="Inventor(s) Address">
+		Woodbury, MN | St., Paul, MN | Woodbury, MN | Woodbury, MN
+	</str>
+	<str name="Agent/Attorney">
+		ERSFELD, DEAN A
+	</str>
+	<str name="Primary Examiner">
+		GITOMER, RALPH
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

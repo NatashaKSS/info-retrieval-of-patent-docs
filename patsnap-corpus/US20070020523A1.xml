@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070020523A1
+	</str>
+	<str name="Application Number">
+		US11457027
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		BATTERY
+	</str>
+	<str name="Abstract">
+		A battery capable of improving cycle characteristics is provided. An anode contains Si as an element. Where the Li insertion amount per unit area when the anode is fully charged is A, the Li amount capable of being electronically inserted per unit area of the anode is B, and the maximum utilization ratio C % is (A/B).times.100, the maximum utilization ratio C % is in the range from 35% to 85%. The surface roughness Ra value of the anode current collector is 0.2 .mu.m or more.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-07-12
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-07
+	</str>
+	<str name="Publication Date">
+		2007-01-25
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-01
+	</str>
+	<str name="All IPC">
+		H01M1/40 | H01M4/58
+	</str>
+	<str name="IPC Primary">
+		H01M1/40
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M1
+	</str>
+	<str name="All UPC">
+		429/200 | 429/218.1 | 429/231.95
+	</str>
+	<str name="UPC Primary">
+		429/200
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		CN1901269A | CN100524934C | US20070020523A1 | JP2007027008A
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		P2005210622
+	</str>
+	<str name="Priority Date">
+		2005-07-20
+	</str>
+	<str name="Inventor(s)">
+		KAWASE KENICHI | KONISHIIKE ISAMU | IWAMA MASAYUKI | HIROSE TAKAKAZU
+	</str>
+	<str name="1st Inventor">
+		KAWASE KENICHI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Fukushima,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Fukushima,JP | Fukushima,JP | Fukushima,JP | Fukushima,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7875180
+	</str>
+	<str name="Application Number">
+		US11547693
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water treatment apparatus and method
+	</str>
+	<str name="Abstract">
+		An apparatus for the biological treatment of saltwater-based domestic wastewater, the apparatus having an inlet for the introduction of the saltwater-based domestic wastewater, an outlet for the removal of treated wastewater, means for monitoring the salinity level of the saltwater-based domestic wastewater entering or within the apparatus and means for controlling the salinity level of the saltwater-based domestic wastewater entering or within the apparatus such that fluctuations in the salinity level of the saltwater-based domestic wastewater are reduced and the biological treatment of the saltwater-based domestic wastewater is thereby maintained.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-04-07
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-04
+	</str>
+	<str name="Publication Date">
+		2011-01-25
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-01
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/620 | 210/175 | 210/614 | 210/181
+	</str>
+	<str name="UPC Primary">
+		210/620
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Intrasungkha N, et al: &quot;Biological Nutrient Removal Efficiency in Treatment of Saline Wastewater&quot;, Water Science and Technology, vol. 30, No. 6, 1999, pp. 183-190, XP008048385. cited by other. | Panswad T et al:, &quot;Impact of high chloride wastewater on an anaerobic/anoxic/aerobic process with and without inoculation of chloride acclimated seeds&quot;, Water Research, vol. 33, No. 5, Apr. 1999, pp. 1165-1172, XP004182742. cited by other . | &quot;Recommended Design Criteria for Flow Equalization,&quot; http://web.deu.edu.tr/atiksu/ana52/abdtre07.html, downloaded Sep. 15, 2010 (undated). cited by examiner . | Tang, S.L.: &quot;Dual water supply in Hong Kong&quot;, Proceedings of the 26.sup.th WEDC Conference, 'Online! 2000, XP002331462, p. 364-366. cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		US8216455
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5308491 | WO2004002904
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		0407922.4
+	</str>
+	<str name="Priority Date">
+		2004-04-07
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY COLLEGE CARDIFF CONSULTANTS LTD
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY COLLEGE CARDIFF CONSULTANTS LTD
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Cardiff, GB
+	</str>
+	<str name="Assignee(s) Address">
+		Cardiff, GB
+	</str>
+	<str name="Inventor(s)">
+		FRY, JOHN | JONES, GERALD
+	</str>
+	<str name="1st Inventor">
+		FRY, JOHN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Torfaen, GB
+	</str>
+	<str name="Inventor(s) Address">
+		Torfaen, GB | Nr, Swindon, GB
+	</str>
+	<str name="Agent/Attorney">
+		BANNER &amp; WITCOFF, LTD.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

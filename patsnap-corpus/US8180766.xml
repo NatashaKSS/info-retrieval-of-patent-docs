@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8180766
+	</str>
+	<str name="Application Number">
+		US12/235509
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Bayesian video search reranking
+	</str>
+	<str name="Abstract">
+		A general framework for video search reranking is disclosed which explicitly formulates reranking into a global optimization problem from the Bayesian perspective. Under this framework, with two novel pair-wise ranking distances, two effective video search reranking methods, hinge reranking and preference strength reranking, are disclosed. Experiments conducted on the TRECVID dataset have demonstrated that the disclosed methods outperform several existing reranking approaches.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-09-22
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-09
+	</str>
+	<str name="Publication Date">
+		2012-05-15
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-05
+	</str>
+	<str name="All IPC">
+		G06F17/30 | G06F7/00
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/723 | 707/726 | 707/758
+	</str>
+	<str name="UPC Primary">
+		707/723
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Hoi, Steven C. H., et al., &amp;#x201c;A Multimodal and Multilevel Ranking Scheme for Large-Scale Video Retrieval&amp;#x201d;, IEEE Transactions on Multimedia, vol. 10, No. 4, Jun. 2008, pp. 607-619. | Ewerth, Ralph, et al., &amp;#x201c;Adapting Appearance Models of Semantic Concepts to Particular Videos via Transductive Learning&amp;#x201d;, MIR '07, Augsburg, Bavaria, Germany, Sep. 28-29, 2007, pp. 187-195. | Chang, Shih-Fu, et al., &amp;#x201c;Columbia University TRECVID-2005 Video search and High-Level Feature Extraction&amp;#x201d;, TREC Video Retrieval Evaluation Proceedings, Mar. 2006, pp. 1-9. | Liu, Jingjing, et al., &amp;#x201c;Video Search Re-Ranking via Multi-Graph Propagation&amp;#x201d;, MM '07, Augsburg, Bavaria, Germany, Sep. 23-28, 2007, pp. 208-216. | Nasraoui, Olfa, et al., &amp;#x201c;Web Recommender System Implementations in Multiple Flavors: Fast and (Care-)Free for All&amp;#x201d;, OSIR 2006, Seattle, WA, Aug. 10, 2006, pp. 46-53. | Radlinski, Filip, et al., &amp;#x201c;Query Chains: Learning to Rank from Implicit Feedback&amp;#x201d;, KDD '05, Chicago, IL, Aug. 21-24, 2005, pp. 239-248. | Beitzel, Steven M., &amp;#x201c;On Understanding and Classifying Web Queries&amp;#x201d;, Doctor of Philosophy Thesis, Graduate College of the Illinois Institute of Technology, Chicago, IL, May 2006, 96 pages. | Guo, Zhen, et al., &amp;#x201c;Enhanced Max Margin Learning on Multimodal Data mining in a Multimedia Database&amp;#x201d;, KDD '07, San Jose, CA, Aug. 12-15, 2007, pp. 340-349. | Heisele, Bernd, et al., &amp;#x201c;Feature Reduction and Hierarchy of Classifiers for Fast Object Detection in Video Images&amp;#x201d;, CVPR 2001, vol. 2, &amp;#xa9; 2001, pp. 11-18-11-24. | T. V., Ashwin, et al., &amp;#x201c;Leveraging Non-Relevant Images to Enhance Image Retrieval Performance&amp;#x201d;, Multimedia '02, Juan-les-Pins, France, Dec. 1-6, 2002, pp. 331-334. | Burer, Samuel, et al., &amp;#x201c;Rank-Two Relaxation Heuristics for Max-Cut and Other Binary Quadratic Programs&amp;#x201d;, SIAM Journal on Optimization, vol. 12, Issue 2, Nov. 2002, 18 pages. | T. V., Ashwin, et al., &amp;#x201c;Adaptable Similarity Search using Non-Relevant Information&amp;#x201d;, Proc. of the 28th VLDB Conf., Hong Kong, China, &amp;#xa9; 2002, 12 pages. | Patel, Nilesh, et al., &amp;#x201c;2. Multimedia Data Mining: An Overview&amp;#x201d;, Multimedia Data Mining and Knowledge Discovery, Part I, &amp;#xa9; 2007, pp. 14-37. | &amp;#x201c;Trec-10,&amp;#x201d; http://trec.nist.gov/pubs/trec10/appendices/measures.pdf (10 pages), 2010. | &amp;#x201c;TRECVID. TREC Video Retrieval Evaluation,&amp;#x201d; http://www-nlpir.nist.gov/projects/trecvid/ (2 pages) [last accessed Jun. 23, 2008]. | Cao, Zhe et al., &amp;#x201c;Learning to Rank: From Pairwise Approach to Listwise Approach,&amp;#x201d; Microsoft technical report, ICML 2007, ftp://ftp.research.microsoft.com/pub/tr/TR-2007-40.pdf (9 pages). | Carbonell, Jaime et al., &amp;#x201c;Translingual Information Retrieval: A Comparative Evaluation,&amp;#x201d; In Proceedings of the Fifteenth International Joint Conference on Artificial Intelligence, 1997, http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.21.2551 (7 pages). | Cremean, Lars, &amp;#x201c;Stability Analysis of Interconnected Nonlinear Systems under Matrix Feedback,&amp;#x201d; IEEE 2003, vol. 3, pp. 3078-3083, http://ieeexplore.ieee.org/Xplore/login.jsp?url=/iel5/8969/28482/01273096.pdf?tp=&amp;#x26;isnumber=&amp;#x26;arnumber=1273096.(6 pages). | Fergus, R. et al., &amp;#x201c;A Visual Category Filter for Google Images,&amp;#x201d; In proc. ECCV 2004, http://www.robots.ox.ac.uk/&amp;#x2dc;fergus/papers/Fergus&lt;sub&gt;&amp;#x2014;&lt;/sub&gt;ECCV4.pdf (14 pages). | Herbrich, Ralf et al., &amp;#x201c;Large Margin Rank Boundaries for Ordinal Regression in Advances in Large Margin Classifiers,&amp;#x201d; MIT Press, Cambridge, MA, Copyright 2000 (22 pages). | Hoi, Steven et al., &amp;#x201c;A Multimodal and Multilevel Ranking Scheme or Large-Scale Video Retrieval,&amp;#x201d; IEEE Transactions on Multimedia, 2008, pp. 1-13, http://www.cais.ntu.edu.sg/&amp;#x2dc;chhoi/paper&lt;sub&gt;&amp;#x2014;&lt;/sub&gt;pdf/TMM08MMML&lt;sub&gt;&amp;#x2014;&lt;/sub&gt;proof.pdf (13 pages). | Hsu, Winston et al., &amp;#x201c;Reranking Methods for Visual Search,&amp;#x201d; IEEE 2007, pp. 14-22, http://ieeexplore.ieee.org/iel5/93/4287403/04287412.pdf?tp=&amp;#x26;arnumber=4287412&amp;#x26;isnumber=4287403 (9 pages). | Hsu, Winston et al., &amp;#x201c;Video Search Reranking through Random Walk over Document-Level Context Graph,&amp;#x201d; ACM 2007, Augsburg, Bavaria, Germany, http://www.ee.columbia.edu/&amp;#x2dc;lyndon/pubs/acmmm2007-rerank.pdf (10 pages). | Hsu, Winston et al., &amp;#x201c;Video Search Reranking via Information Bottleneck Principle,&amp;#x201d; MM'06, Oct. 23-27, 2006, Santa Barbara, California, USA, (10 pages). | Huang, Timothy et al., &amp;#x201c;Object Identification in a Bayesian Context,&amp;#x201d; In Proceedings of the Fifteenth International Joint Conference on Artificial Intelligence, 1997, http://dli.iiit.ac.in/ijcai/IJCAI-97-VOL2/PDF/070.pdf (8 pages). | Kennedy, Lyndon et al., &amp;#x201c;A Reranking Approach for Context based Concept Fusion in Video Indexing and Retrieval,&amp;#x201d; CIVR'07, Jul. 9-11, 2007, Amsterdam, The Netherlands, http://www.ee.columbia.edu/&amp;#x2dc;lyndon/pubs/civr2007-reranking.pdf (8 pages). | Liu, Jingjing et al., &amp;#x201c;Video Search re-Ranking via Multi-Graph Propagation,&amp;#x201d; Sep. 23-28, 2007, Augsberg, Bavaria, Germany, ACM 2007, pp. 208-217, http://portal.acm.org/citation.cfm?id=1291233.1291279 (10 pages). | Liu, Yuan et al., &amp;#x201c;Learning to video search rerank via pseudo preference feedback,&amp;#x201d; ICME, 2008, pp. 297-300 (4 pages). | Mei, Tao et al., &amp;#x201c;MSRA-USTC-SJTU at TRECVID 2007: High-Level Feature Extraction and Search,&amp;#x201d; MSRA at TRECVID 2007, http://www-nlpir.nist.gov/projects/tvpubs/tv7.papers/msra&lt;sub&gt;&amp;#x2014;&lt;/sub&gt;ustc&lt;sub&gt;&amp;#x2014;&lt;/sub&gt;sjtu.pdf (12 pages). | Natsev, Apostol et al., &amp;#x201c;Semantic Concept-Based Query Expansion and reranking for Multimedia Retrieval,&amp;#x201d; MM'07, Sep. 23-28, 2007, Augsburg, Bavaria, Germany, ACM 2007, pp. 991-1000, http://delivery.acm.org/10.1145/1300000/1291448/p991-natsev.pdf?key1=1291448&amp;#x26;key2=7083124121&amp;#x26;coll=GUIDE&amp;#x26;dl=GUIDE&amp;#x26;CFID=33672323&amp;#x26;CFTOKEN=20701506 (10 pages). | Robertson, S.E. et al., &amp;#x201c;Simple, proven approaches to text retrieval,&amp;#x201d; In Cambridge University Computer Laboratory Technical Report TR356, Dec. 1994, pp. 1-8 (8 pages). | Smeaton, Alan et al., &amp;#x201c;Evaluation Campaigns and Trecvid,&amp;#x201d; MIR'06, Oct. 26-27, 2006, Santa Barbara, USA, ACM 2006, 10 pages, http://www.cdvp.dcu.ie/Papers/mir710-Smeaton.pdf (10 pages). | Stern, David et al., &amp;#x201c;Bayesian Pattern Ranking for Move Prediction in the Game of Go,&amp;#x201d; Proceedings of the 23rd International Conference on Machine Learning, PA, 2006, (8 pages). | Vasconcelos, Nuno et al., &amp;#x201c;A Bayesian Video Modeling Framework for Shot Segmentation and Content Characterization,&amp;#x201d; IEEE 1997, pp. 59-66, http://ieeexplore.ieee.org/iel3/4980/13686/00629721.pdf?tp=&amp;#x26;arnumber=629721&amp;#x26;isnumber=13686 (8 pages). | Yan, R. et al., &amp;#x201c;Co-retrieval A boosted Reranking Approach for Video Retrieval,&amp;#x201d; IEE Proc. Vis, Image Signal Processing, vol. 152, vol. 6, Dec. 2005, pp. 888-895, ieeexplore.ieee.org/iel5/2200/32537/01520877.pdf (8 pages). | Yan, Rong et al., &amp;#x201c;Multimedia Search with Pseudo-Relevance Feedback,&amp;#x201d; International Conference on Image and Video Retrieval, CIVR'03, Urbana, IL, Jul. 24-25, 2003, www.informedia.cs.cmu.edu/documents/CIVR03-RelFeedback&lt;sub&gt;&amp;#x2014;&lt;/sub&gt;Final.pdf (10 pages). | Yang, Liu, &amp;#x201c;Distance metric learning: A comprehensive survey,&amp;#x201d; Department of Computer Science and Engineering, Michigan University, May 19, 2006, pp. 1-51. (51 pages). | Zhou, Dengyong et al., &amp;#x201c;Learning with Local and Global Consistency,&amp;#x201d; Advances in Neural Information Processing Systems 16, 2004, http://books.nips.cc/papers/files/nips16/NIPS2003&lt;sub&gt;&amp;#x2014;&lt;/sub&gt;AA41.pdf (8 pages). | Zhu, Xiaojin et al., &amp;#x201c;Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions,&amp;#x201d; Proceedings of the 20th International Conference on Machine Learning, ICML 2003, Washington DC, 2003, http://learning.eng.cam.ac.uk/zoubin/papers/zgl.pdf (9 pages). | Smola, A.J., &amp;#x201c;pr LOQO,&amp;#x201d; Oct. 1997, http://www.kernel-machines.org/code/prloqo.tar.gz (12 pages).
+	</str>
+	<str name="Other References Count">
+		40
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5802361 | US5893095 | US6243713 | US6275820 | US6412012 | US6738764 | US7262772 | US7313269 | US7349895 | US20020169754A1 | US20040183815A1 | US20050131847A1 | US20060004713A1 | US20060106793A1 | US20060165354A1 | US20070094285A1 | US20070136263A1 | US20070203942A1 | US20070239778A1 | US20070255755A1 | US20080005105A1 | US20080233576A1 | US20090019402A1 | US20100070523A1 | US20110072012A1
+	</str>
+	<str name="Cites Count">
+		25
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond, WA, US
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond, WA, US
+	</str>
+	<str name="Inventor(s)">
+		YANG, LINJUN | WANG, JINGDONG | HUA, XIAN-SHENG | TIAN, XINMEI
+	</str>
+	<str name="1st Inventor">
+		YANG, LINJUN
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Beijing, CN
+	</str>
+	<str name="Inventor(s) Address">
+		Beijing, CN | Beijing, CN | Beijing, CN | Hefei, CN
+	</str>
+	<str name="Agent/Attorney">
+		PERKINS COIE LLP
+	</str>
+	<str name="Primary Examiner">
+		STEVENS, ROBERT, DEPT. 2162
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

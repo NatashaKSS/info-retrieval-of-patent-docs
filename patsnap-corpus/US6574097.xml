@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6574097
+	</str>
+	<str name="Application Number">
+		US09921079
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Battery module for notebook computers
+	</str>
+	<str name="Abstract">
+		A computer includes a body having a module bay formed therein. A module is removably mounted in the bay. A latch actuator is mounted on the module for movement between a first position and a second position. A first movable catch member extends from a first surface of the module into engagement with the body of the computer and a second movable catch member extends from a second surface of the module into engagement with the body of the computer. A first flexible member interconnects the first catch member and the latch actuator. A second flexible member interconnects the second catch member and the latch actuator. As a result, movement of the latch actuator from the first position to the second position, moves the first and second flexible members and retracts the first and second catch members out of engagement with the body of the computer.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-08-02
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-08
+	</str>
+	<str name="Publication Date">
+		2003-06-03
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-06
+	</str>
+	<str name="All IPC">
+		H05K7/18
+	</str>
+	<str name="IPC Primary">
+		H05K7/18
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/816 | 361/683 | 361/681 | 248/581 | 345/168
+	</str>
+	<str name="UPC Primary">
+		361/816
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US20030026071A1 | US6574097
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7196901 | US8210578 | US8032053
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US6212066 | US6442030 | US6392892 | US5580107
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		92107901
+	</str>
+	<str name="Priority Date">
+		2001-08-02
+	</str>
+	<str name="Assignee(s)">
+		DELL PRODUCTS L.P.
+	</str>
+	<str name="1st Assignee">
+		DELL PRODUCTS L.P.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Round Rock, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Round Rock, TX
+	</str>
+	<str name="Inventor(s)">
+		HOOD, III, CHARLES, D. | KOESTER, SCOTT, B.
+	</str>
+	<str name="1st Inventor">
+		HOOD, III, CHARLES, D.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Cedar, Park, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Cedar, Park, TX | Austin, TX
+	</str>
+	<str name="Agent/Attorney">
+		HAYNES &amp; BOONE, LLP
+	</str>
+	<str name="Primary Examiner">
+		SCHUBERG, DARREN
+	</str>
+	<str name="Assistant Examiner">
+		DUONG, HUNG VAN
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

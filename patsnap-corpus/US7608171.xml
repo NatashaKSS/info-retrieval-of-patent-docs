@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7608171
+	</str>
+	<str name="Application Number">
+		US11273318
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Distillation system and process
+	</str>
+	<str name="Abstract">
+		A distillation system for distilling contaminated water includes an evaporation chamber for receiving the contaminated water. The evaporation chamber includes (i) a vessel for absorbing the contaminated water; (ii) a plurality of heat conductive pipes extending through the vessel for delivering the contaminated water to the vessel; and (iii) a heat source for heating the plurality of heat conductive pipes for evaporating the contaminated water absorbed by the vessel and causing the at least one contaminant to be retained by the vessel. A condensation chamber is connected to the evaporation chamber for receiving the evaporated water for condensing and producing purified water in liquid form. A storage device is connected to the condensation chamber for storing the purified liquid water.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-11-14
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2009-10-27
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		B01D3/02 | B01D3/14 | C02F1/14
+	</str>
+	<str name="IPC Primary">
+		B01D3/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D3
+	</str>
+	<str name="All UPC">
+		202/172 | 203/DIG.1 | 202/267.1 | 202/184 | 202/155 | 202/186 | 203/DIG.17 | 202/234 | 203/87 | 203/10 | 203/86
+	</str>
+	<str name="UPC Primary">
+		202/172
+	</str>
+	<str name="UPC Class">
+		202
+	</str>
+	<str name="Family Members">
+		US7608171 | US20070108037A1 | CA2543020A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4525242 | US5316626 | US6165326 | US4957200 | US3856631 | US5628879 | US4373996 | US7258767 | US4822455 | US6158239 | US3875926 | US4421606 | US4184477 | US4091622 | US5728303 | US2490659 | US5181991 | US4459177 | US4953694 | GB2330779 | CA2446829
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		27331805
+	</str>
+	<str name="Priority Date">
+		2005-11-14
+	</str>
+	<str name="Inventor(s)">
+		OTUKOL, SAMUEL, OKWAJA
+	</str>
+	<str name="1st Inventor">
+		OTUKOL, SAMUEL, OKWAJA
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Victoria, British, Columbia, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Victoria, British, Columbia, CA
+	</str>
+	<str name="Agent/Attorney">
+		KROLL, MICHAEL I.
+	</str>
+	<str name="Primary Examiner">
+		MANOHARAN, VIRGINIA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

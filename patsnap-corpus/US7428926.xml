@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7428926
+	</str>
+	<str name="Application Number">
+		US11149070
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water treatment method for heavy oil production
+	</str>
+	<str name="Abstract">
+		A process for treating produced water to generate high pressure steam. Produced water from heavy oil recovery operations is treated by first removing oil and grease. Pretreated produced water is then fed to an evaporator. Up to 95% or more of the pretreated produced water stream is evaporated to produce (1) a distillate having a trace amount of residual solutes therein, and (2) evaporator blowdown containing substantially all solutes from the produced water feed. The distillate may be directly used, or polished to remove the trace residual solutes before being fed to a steam generator. Steam generation in a packaged boiler, such as a water tube boiler having a steam drum and a mud drum with water cooled combustion chamber walls, produces 100% quality high pressure steam for down-hole use.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-06-08
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-06
+	</str>
+	<str name="Publication Date">
+		2008-09-30
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		B01D3/42 | E21B43/24 | B01D1/28 | E21B43/40 | C02F1/04 | C02F9/00
+	</str>
+	<str name="IPC Primary">
+		B01D3/42
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D3
+	</str>
+	<str name="All UPC">
+		203/48 | 166/266 | 203/DIG.16 | 405/129.35 | 210/664 | 166/267 | 166/303 | 166/272.3 | 210/806 | 588/250 | 210/805 | 159/901 | 203/98 | 210/669 | 210/747 | 159/24.1 | 159/47.1 | 203/10 | 159/45 | 203/26
+	</str>
+	<str name="UPC Primary">
+		203/48
+	</str>
+	<str name="UPC Class">
+		203
+	</str>
+	<str name="Family Members">
+		US20090127091A1 | US20050279500A1 | US20060032630A1 | US20090078416A1 | US7428926 | US7438129
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		31
+	</str>
+	<str name="Other References">
+		Heins, W., McNeill, R., Albion, S., World's First SAGD Facility Using Evaporators, Drum Boilers, and Zero Discharge Crystallizers to Treat Produced Water, Canadian International Petroleum Conference, Paper No. 2005-115, Petroleum Society, Jun. 2005. cited by other . | Zalewski, W.; Averill, R.; Arychuk, G., Produced Water Recycyling At BF Resources--Petro Canada's Wolf Lake Plant, Mar. 14, 1991. cited by other. | Smith, Maurice, Bridge Over Troubled Water, Simplifying Water Purification for Increasingly Thirsty Oilsands Extractors, (Web Page); www.ntm.nickles.com/New Technology Magazine, Jul./Aug. 2001 (pp. 37-39). cited by other . | Zaidi, Abbas and Kok, Sandra, Recent Advances in the Treatment of Water from In-Situ Heavy Oil Recovery, Environment Canada, Wastewater Technology Center, Second Canada-China Heavy Oil Technology Symposium Proceedings-Reprint, (1990). cited by other . | Heins, W., and Schooley, K., Achieving Zero Liquid Discharge in SAGD Heavy Oil Recovery, Petroleum Society's Canadian International Petroleum Conference 2002; Calgary, Alberta, Jun. 11-13, 2002. (10 pages). cited by other . | Heins, W., Achieving Zero Liquid Discharge in the Heavy Oil Recovery Industry. Oil Sands Process Water Workshop, May 8, 2001, Fort McMurray, Alberta. cited by other . | Solomon, R.L, and Schooley, K.E., Recycling Oil-field Produced Waters Using Evaporation Technology, American Filtration Society, National Fall Meeting, Oct. 29-30, 1990, Baton Rouge, Louisiana. (11 pages including tables and Figures). cited by other . | Becker, R.F. (Bob);Kresnyak, Steve; A Unique Mechanical Vapour Recompression / Distillation Process for Purifying Water, Colt Engineering Corporation, Calgary, Alberta, Canada, Mar. 3, 1999, (9 pages). cited by other . | Achieving Zero Liquid Discharge in SAGD Heavy Oil Recovery, W. Heims and K Schooley, Petroleum Society'Canadian International Petroleum Conference 2000; Calgary, Alberta, Jun. 11-13, 2002. cited by examiner . | News Release Transmitted by Canadian Corporate News For: Aqua Pure Ventures, Inc., Oct. 14, 1998, CCN Home Page site Map, Mar. 3, 1999, (2 pages). cited by other . | Heins, W.F., Is A Paradigm Shift in Produced Water Treatment Technology Occurring At SAGD Facilities?, Canadian International Petroleum Conference, Paper No. 2007-213, Petroleum Society, Jun. 2007. cited by other . | Smith, Maurice, Watershed Moment, SAGD Operators Embrace New Water Treatment Options, Nickle's New Technology Magazine, Oct. 2007. cited by other . | Kok,S., Zaidi, A., and Solomon, R., Total dissolved Solids Removal From Water Produced During The In Situ Recovery of Heavy Oil and Bitumen, Advances in the Thermal Recovery, The Journal of Canadian Petroleum Technology, vol. 26, No. 1, pp. 100-105, Jan. 1989. cited by other . | Heins, W., and Schooley, K., Achieving Zero Liquid Discharge in SAGD Heavy Oil Recovery, Journal of Canadian Petroleum Technology, Aug. 2004, vol. 43, No. 8. (pp. 37-42). cited by other . | Heins, W., Peterson, D., Use of Evaporation for Heavy Oil Produced Water Treatment, Ionics RCC. Canadian International Petroleum Conference, Paper No. 2003-178 (&quot;This paper is to be presented at the Petroleum Society's Canadian International Petroleum Conference 2003, Calgary, Alberta, Canada, Jun. 10-12, 2003&quot;). cited by other . | Zaidi, Abbas and Kok, Sandra, Recent Advances in the Treatment of Water from In-Situ Heavy Oil Recovery, Environment Canada, Wastewater Technology Center, Second Canada-China Heavy Oil Technology Symposium Proceedings, Oct. 1990, (Presentation). cited by other . | The Aqua Pure System: Pure Water Recovery, (Web Page); http:/www.aqua-pure.com, Mar. 3, 1999, (5 pages). cited by other . | Kok,S., Zaidi, A., and Solomon, R., Total dissolved Solids Removal From Water Produced During the In Situ Recovery of Heavy Oil and Bitumen, Preprint, Petroleum Society of CIM, Paper No. 86-37-64, Jun. 1986, (pp. 367-373). cited by other . | Heins, W.F., Start-Up, Commissioning, and Operational Data From the World's First SAGD Facilities Using Evaporators to Treat Produced Water for Boiler Feedwater, Canadian International Petroleum Conference, Paper No. 2006-183, Petroleum Society, Jun. 2006. cited by other .
+	</str>
+	<str name="Other References Count">
+		19
+	</str>
+	<str name="Cited By">
+		US7749379 | US7758746 | US7967955 | US8167960 | US8176982 | US8147680 | US8147681 | US8158097 | US8209192 | US7867385 | US7785462 | US7862709 | US7771588 | US8062512 | US8097128
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US20050279500 | US5250185 | US4344826 | US4877536 | US4391102 | US3933576 | US3917526 | US6849155 | US5858177 | US4706749 | US3476183 | US6929753 | US20030127400 | US3768558 | US4913236 | US5683587 | US3525675 | US7077201 | US4119149 | US3399975 | US3974039 | US4030985 | US3377273 | US3410345 | US6186232 | US5250151 | US20050022989 | US6733636 | US4090916 | US6074549 | US4576627 | US6205289 | US3963619 | US0896272 | US6365005 | US5783084 | US4548257 | US4370858 | US3968002 | US4054493 | US20060032630 | US4398603 | US2979442 | US4698136 | US7150320 | US5932074 | US4083781 | US4475595 | US5695643 | US5474653 | US4444680 | US3714985 | US3192130 | US6355145 | US20030127226 | US3586090 | US4073644 | US3414507 | US3891394 | US3193009 | US4105556 | US4343691 | US4561965 | US2091898 | US3514376 | US6375803 | US5587054 | US4967837 | US4392959 | US6984292 | US5968312 | US3725268 | US6536523 | US6949192 | US3353593 | US4472355 | US4474011 | US4458520 | US6960301 | US4260461 | US3926739 | US3951752 | US3951753 | CA2345595 | SU632655 | GB935178 | CA2305118 | CA2274258 | WO2004035479 | CA1166531 | WO1998031445 | EP0916622 | WO2005004746
+	</str>
+	<str name="Cites Count">
+		93
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		14907005 | 86874504 | 30725002 | 56662200 | 13317299 | 57881004
+	</str>
+	<str name="Priority Date">
+		2005-06-08 | 2004-06-09 | 2002-11-30 | 2000-05-08 | 1999-05-07 | 2004-06-09
+	</str>
+	<str name="Assignee(s)">
+		GE IONICS, INC.
+	</str>
+	<str name="1st Assignee">
+		GE IONICS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Watertown, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Watertown, MA
+	</str>
+	<str name="Inventor(s)">
+		HEINS, WILLIAM, F.
+	</str>
+	<str name="1st Inventor">
+		HEINS, WILLIAM, F.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Redmond, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Redmond, WA
+	</str>
+	<str name="Agent/Attorney">
+		GOODLOE, JR., R. REAMS
+	</str>
+	<str name="Primary Examiner">
+		SUCHFIELD, GEORGE
+	</str>
+	<str name="cited by within 3 years">
+		15
+	</str>
+	<str name="cited by within 5 years">
+		16
+	</str>
+</doc>
+

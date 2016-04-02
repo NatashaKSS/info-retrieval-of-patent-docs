@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8194939
+	</str>
+	<str name="Application Number">
+		US12/849134
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Using relevance feedback in face recognition
+	</str>
+	<str name="Abstract">
+		Images are searched to locate faces that are the same as a query face. Images that include a face that is the same as the query face may be presented to a user as search result images. Images also may be sorted by the faces included in the images and presented to the user as sorted search result images. The user may provide explicit or implicit feedback regarding the search result images. Additional feedback may be inferred regarding the search result images based on the user-provided feedback, and the results may be updated based on the user-provided and inferred feedback.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-08-03
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-08
+	</str>
+	<str name="Publication Date">
+		2012-06-05
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-06
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118 | 382/305 | 382/224 | 382/190
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Li et al., &amp;#x201c;IRM: Integrated region matching for image retrieval,&amp;#x201d; 2000, ACM, 1-58113-198-4, pp. 147-156. | Office Action issued in U.S. Appl. No. 11/382,657 mailed May 8, 2009, 32 pages. | Scholkopf et al., &amp;#x201c;Comparing Support Vector Machines with Gaussian Kernels to Radial Basis Function Classifiers,&amp;#x201d; Nov. 1997, IEEE Transactions on Signal Processing, vol. 45, No. II, pp. 2758-2765. | PCT International Search Report and Written Opinion issued Dec. 10, 2008, in International Application No. PCT/US07/68647, 12 pages. | K. Porkaew et al: &amp;#x201c;Query refinement for multimedia similarity retrieval in MARS&amp;#x201d;, ICMCS, pp. 747-751, 1999. | A. Holub, M. Everingham, A. Zisserman and P. Perona, &amp;#x201c;Towards Finding Perceptually Similar Faces&amp;#x201d;, Visions Science Society, 1 page, May 10, 2005. | B.T. Bartell, G.W. Cottrell, and R.K. Belew, &amp;#x201c;Optimizing Similarity Using Multi-Query Relevance Feedback&amp;#x201d;, Journal of the American Society for Information Science, 49(8) 742-761, Jun. 1998. | M. Steyvers and T.A. Busey, &amp;#x201c;Predicting Similarity Ratings to Faces Using Physical Descriptions,&amp;#x201d; in &amp;#x201c;Computational, Geometric, and Process Perspectives on Facial Cognition: Context and Challenges,&amp;#x201d; M.J. Wenger and J.T. Townsend eds., Mahwah, New Jersey, pp. 116-145, 2001. | M. Turk and A. Pentland, &amp;#x201c;Eigenfaces for Recognition&amp;#x201d;, Journal of Cognitive Neuroscience, vol. 3, No. 1, pp. 71-86, Winter 1991. | U. Gargi, Y. Deng, and D.R. Tretter, &amp;#x201c;Managing and Searching Personal Photo Collections&amp;#x201d;, Hewlett-Packard Laboratories, Palo Alto, California, 9 pages, Mar. 18, 2002, available at http://www.hpl.hp.com/techreports/2002/HPL-2002-67.html. | P.C. Yuen and C.H. Man, &amp;#x201c;Enhanced Human Face Image Searching System using Relevance Feedback,&amp;#x201d; Proceedings of the Sixth IEEE International Conference on Automatic Face and Gesture Recognition (FGR '04), 6 pages, 2004. | I. Cohen, G. Ashutosh, T.S. Huang, &amp;#x201c;Vision-Based Overhead View Person Recognition&amp;#x201d;, Proceedings of the 15th International Conference on Pattern Recognition, Barcelona, Spain, pp. 1119-1124, 2000. | L. Zhang, L. Chen, M. Li, and H. Zhang, &amp;#x201c;Bayesian Face Annotation in Family Albums&amp;#x201d;, Proceedings of the. International Conference on Computer Vision (ICCV), Nice, France, 2 pages, 2003, available at http://research.microsoft.com/en-us/um/people/leizhang/Paper/ICCV03Demo.pdf. | M. Everingham and A. Zisserman, &amp;#x201c;Regression and Classification Approaches to Eye Localization in Face Images&amp;#x201d;, Proceedings of the 7th International Conference on Automatic Face and Gesture Recognition (FGR '06), Washington, D.C., pp. 441-448, Apr. 10, 2006, available at http://www.fg2006.ecs.sotion.ac.uk/. | &amp;#x201c;Fujifilm Displays Face Recognition and Detection Ability; Available in New Electronic Photo Album&amp;#x201d;, DigitalCameraInfo.com, pp. 1-6, Oct. 20, 2005, available at http://www.digitalcamerainfo.com/content/Fujifilm-Displays-Face-Recognition-and-Detection-Ability-Available-in-new-Electronic-Photo-Book.htm. | &amp;#x201c;Riya Eases Pain of Pile of Pix&amp;#x201d;, Wired News, 4 pages, Nov. 11, 2005, available at http://www.wired.com/news/print/0,1294,69514,00.html.
+	</str>
+	<str name="Other References Count">
+		16
+	</str>
+	<str name="Cites">
+		US5642431 | US5850470 | US5893095 | US6222939 | US6480840 | US6563950 | US6574632 | US6832006 | US7106903 | US20040264780A1 | US20050084154A1 | US20050226509A1 | US20060251292A1
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Assignee(s)">
+		AOL INC.
+	</str>
+	<str name="1st Assignee">
+		AOL INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Dulles, VA, US
+	</str>
+	<str name="Assignee(s) Address">
+		Dulles, VA, US
+	</str>
+	<str name="Inventor(s)">
+		PERLMUTTER, KEREN, O. | PERLMUTTER, SHARON, M. | ALSPECTOR, JOSHUA | EVERINGHAM, MARK | HOLUB, ALEX | ZISSERMAN, ANDREW | PERONA, PIETRO
+	</str>
+	<str name="1st Inventor">
+		PERLMUTTER, KEREN, O.
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Pacific, Palisades, CA, US
+	</str>
+	<str name="Inventor(s) Address">
+		Pacific, Palisades, CA, US | Pacific, Palisades, CA, US | South, Riding, VA, US | Oxford, GB | Pasadena, CA, US | Jericho, GB | Altadena, CA, US
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp;#X26, DUNNER, LLP
+	</str>
+	<str name="Primary Examiner">
+		AHMED, SAMIR, DEPT. 2624
+	</str>
+	<str name="Assistant Examiner">
+		LI, RUIPING
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

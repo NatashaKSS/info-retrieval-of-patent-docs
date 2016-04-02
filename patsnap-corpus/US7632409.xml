@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7632409
+	</str>
+	<str name="Application Number">
+		US11551765
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Cation-exchange displacement chromatography process and cationic organic compounds for use as displacer compounds in cation-exchange displacement chromatography process
+	</str>
+	<str name="Abstract">
+		A displacement chromatography process and displacer compounds used in the process and having the general formula (I): ##STR00001## wherein: each group R.sub.1, R.sub.2, R.sub.3, R'.sub.1, R'.sub.2, and R'.sub.3, independently may be selected from alkyl, aryl, and aralkyl, and in which a ring containing one or more quaternary nitrogen may be formed by any one or more of R.sub.1 and R.sub.2, R.sub.1 and R'.sub.1, R.sub.1 and R.sub.4, R.sub.4 and R'.sub.4, or R.sub.4 and R.sub.5; each R.sub.4, R'.sub.4, R.sub.5 and R'.sub.5 independently may be selected from alkyl, aryl, aralkyl and --(CH.sub.2).sub.a--(CHY).sub.b--(CH.sub.2).sub.c--N.sup.+R.sub.1R.sub.2R-.sub.3 An.sup.-, wherein R.sub.1, R.sub.2 and R.sub.3 are as defined above; each Y independently may be selected from --H, --OH, --OR.sub.6, halo, alkyl, aryl and aralkyl, wherein --R.sub.6 may be alkyl or --(CH.sub.2).sub.a--(CHOH).sub.b--(CH.sub.2).sub.c--N.sup.+R.sub.1R.sub.2-R.sub.3 An.sup.-, wherein R.sub.1, R.sub.2 and R.sub.3 are as defined above; each q and z independently may be any whole number from 0 to about 6, with the proviso that q+z is equal to or less than about 6; each a, b, and c independently may be any whole number from 0 to 2, with the proviso that the sum a+b+c in any fragment is at least 1; and each An.sup.-independently may be one or more organic or inorganic, monovalent or polyvalent anion as needed to obtain a neutral compound.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-10-23
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-10
+	</str>
+	<str name="Publication Date">
+		2009-12-15
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		530/416 | 530/417 | 530/413 | 210/198.2 | 210/659 | 210/635 | 210/656
+	</str>
+	<str name="UPC Primary">
+		530/416
+	</str>
+	<str name="UPC Class">
+		530
+	</str>
+	<str name="Family Members">
+		EP1960077A1 | KR1020080082613A | JP2009515164T | US20070102363A1 | JP2009515164A | CN101346166A | US7632409 | WO2007053235A1 | WO2007055896A1 | CA2628086A1
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Keana et al.; Di, Tri-, Tetra-, and Pentacationic Alkylammonium Salts. Ligands Designed to Prevent the Nonspecific Electrostatic Precipitation of Polyanionic, Functionalized Cyclopentadienyltitanium-Substituted Heteropolytungstate Electron Microscopy Labels with Cationic Biomolecules; J. Org. Chem., 1987, 51, pp. 2571-2576. cited by other . | Tugcu et al.; &quot;Stationary phase effects on the dynamic affinity of low-molecular-mass displacers&quot;; Journal of Chromatography A, 954, 2002, pp. 127-135. cited by other . | International Search Report and Written Opinion of the International Searching Authority, Application No. PCT/US2006/034450, mailed Dec. 29, 2006. cited by other . | Shukla et al.; &quot;Structural characteristics of low-molecular-mass displacers for cation-exchange chromatography&quot;; Journal of Chromatography A, 814, 1998, pp. 83-95. cited by other.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20050194113 | US5545328 | US20070125712 | US5252216 | US6239262 | US4554021 | US6177577 | US5478924 | US6376583 | US5606033 | US6929747 | US5616800 | EP1064312
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		55176506 | 26782305
+	</str>
+	<str name="Priority Date">
+		2006-10-23 | 2005-11-04
+	</str>
+	<str name="Assignee(s)">
+		SACHEM, INC.
+	</str>
+	<str name="1st Assignee">
+		SACHEM, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Austin, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Austin, TX
+	</str>
+	<str name="Inventor(s)">
+		LITTLE, CHARLES | VAN, DE, PAS, VICTOR | HAYMORE, BARRY
+	</str>
+	<str name="1st Inventor">
+		LITTLE, CHARLES
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Austin, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Austin, TX | Zalthommel, NL | Austin, TX
+	</str>
+	<str name="Agent/Attorney">
+		RENNER, OTTO, BOISSELLE &amp; SKLAR, LLP
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

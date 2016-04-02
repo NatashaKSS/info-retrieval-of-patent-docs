@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7856144
+	</str>
+	<str name="Application Number">
+		US11441100
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image retrieving apparatus, image retrieving method, program, and storage medium
+	</str>
+	<str name="Abstract">
+		An image retrieving apparatus that can suitably retrieve a similar image of image data whose density has changed. Image data is inputted from image input unit 12. Image feature amount extraction unit 14 divides normalized image data to plural regions, and extracts a feature amount in units of region. Feature amount label matrixing unit 15 generates a feature amount matrix. The feature amount matrix and image data are stored in image management DB 18 in association with each other. When query image data is designated, pattern matching unit 16 determines a similarity level between a feature amount matrix of the query image data and the feature amount matrix of the image data stored in the image management DB 18.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-05-26
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-05
+	</str>
+	<str name="Publication Date">
+		2010-12-21
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-12
+	</str>
+	<str name="All IPC">
+		G06K9/54 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/54
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/195 | 382/190 | 382/305
+	</str>
+	<str name="UPC Primary">
+		382/195
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6567551 | US6400853 | US20060110073 | US6584223 | JP1999288418
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2005164865 | 2006068273
+	</str>
+	<str name="Priority Date">
+		2005-06-03 | 2006-03-13
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		MATSUSHITA, MASAHIRO
+	</str>
+	<str name="1st Inventor">
+		MATSUSHITA, MASAHIRO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Yokohama, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Yokohama, JP
+	</str>
+	<str name="Agent/Attorney">
+		FITZPATRICK, CELLA, HARPER &amp; SCINTO
+	</str>
+	<str name="Primary Examiner">
+		CHAWAN, SHEELA C
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

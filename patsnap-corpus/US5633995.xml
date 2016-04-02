@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5633995
+	</str>
+	<str name="Application Number">
+		US08618075
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Camera system and methods for extracting 3D model of viewed object
+	</str>
+	<str name="Abstract">
+		A system for extracting a three-dimensional model of an object viewed in a selected scene, includes at least one camera for acquiring scene information, each from a different spatial-temporal aspect of the total scene. A digitizer converts the scene video and directional information to digital data, for at least temporary storage in a mass memory associated with a computer for data processing. An interactive display provides a means by which a human operator can view the stored scene information and select at least one scene object for which the computer will extract a 3D model, for subsequent use by a designated output device.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-03-18
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-03
+	</str>
+	<str name="Publication Date">
+		1997-05-27
+	</str>
+	<str name="Publication Year">
+		1997
+	</str>
+	<str name="Publication(Year/Month)">
+		1997-05
+	</str>
+	<str name="All IPC">
+		G06T17/00
+	</str>
+	<str name="IPC Primary">
+		G06T17/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T17
+	</str>
+	<str name="All UPC">
+		345/420 | 345/419
+	</str>
+	<str name="UPC Primary">
+		345/420
+	</str>
+	<str name="UPC Class">
+		345
+	</str>
+	<str name="Family Members">
+		US5633995
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US4839824 | US5018065
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		61807596 | 71776691
+	</str>
+	<str name="Priority Date">
+		1996-03-18 | 1991-06-19
+	</str>
+	<str name="Assignee(s)">
+		MARTIN MARIETTA CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MARTIN MARIETTA CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		MCCLAIN, RICHARD, A.
+	</str>
+	<str name="1st Inventor">
+		MCCLAIN, RICHARD, A.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Turnersville, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		Turnersville, NJ
+	</str>
+	<str name="Agent/Attorney">
+		MEISE, W. H., KRAUSS, G. H., YOUNG, S. A.
+	</str>
+	<str name="Primary Examiner">
+		JANKUS, ALMIS R.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

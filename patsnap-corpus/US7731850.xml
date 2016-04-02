@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7731850
+	</str>
+	<str name="Application Number">
+		US11753641
+	</str>
+	<str name="Title">
+		Apparatus and method for treating wastewater
+	</str>
+	<str name="Abstract">
+		An apparatus and method for treating wastewater are provided. The method for treating wastewater includes: a pre-treatment step of removing impurities contained in high concentration wastewater and crushing the impurities using a crusher; a first aerobic treatment step of supplying wastewater containing organic acids to a first aerobic tank and injecting air to the first aerobic tank to be aerobically treated; an anaerobic treatment step of supplying the wastewater, from which excess organic acids are removed by the aerobic treatment, to an anaerobic tank to be anaerobically treated; a degassing step of supplying the wastewater treated in the aerobic and anaerobic treatment steps to a degassing tank to remove air and gas; and a post-treatment step of precipitating the wastewater aerobically treated using a solid-liquid separation tank, a pressure floatation tank or a precipitation tank.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-05-25
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-05
+	</str>
+	<str name="Publication Date">
+		2010-06-08
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/603 | 210/612
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20050109697 | US20020104798 | US5141646 | US4246099 | US5492624 | US6723242 | US3930998 | US4173534 | KR00470925 | KR00364601
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020060047713
+	</str>
+	<str name="Priority Date">
+		2006-05-26
+	</str>
+	<str name="Assignee(s)">
+		ECODAYS CO. LTD.
+	</str>
+	<str name="1st Assignee">
+		ECODAYS CO. LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Seoul, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s)">
+		CHOI, HONG-BOK | LEE, JAE-KI | PARK, JU-HYUNG | CHOI, EUN-JU | KIM, JEONG-RAE
+	</str>
+	<str name="1st Inventor">
+		CHOI, HONG-BOK
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul, KR | Seoul, KR | Seoul, KR | Seoul, KR | Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		KELLEHER IP, PLLC KELLEHER, SEAN LIAM
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

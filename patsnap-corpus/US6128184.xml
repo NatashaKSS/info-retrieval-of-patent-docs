@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6128184
+	</str>
+	<str name="Application Number">
+		US09161945
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Electronic device and electronic device battery
+	</str>
+	<str name="Abstract">
+		A portable electronic means including a body and a display portion which is openably and closably mounted with respect to the body, and an electronic device battery. The portable electronic means further includes a pair of hinges (opening-and-closing portions) for openably and closably mounting the display portion to the body, with a battery being mechanically and electrically mounted between the pair of hinges so as to be removable therefrom. The electronic means makes it possible to eliminate all the factors that prevent a reduction in the thickness of the electronic device due to the use of an externally mounting type battery, and has a display portion capable of being opened and closed with respect to its body by more than 180 degrees.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-09-28
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-09
+	</str>
+	<str name="Publication Date">
+		2000-10-03
+	</str>
+	<str name="Publication Year">
+		2000
+	</str>
+	<str name="Publication(Year/Month)">
+		2000-10
+	</str>
+	<str name="All IPC">
+		A47B97/00 | H05K5/00 | H05K7/00 | A47B81/00
+	</str>
+	<str name="IPC Primary">
+		A47B97/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A47
+	</str>
+	<str name="IPC Subclass">
+		A47B
+	</str>
+	<str name="IPC Group">
+		A47B97
+	</str>
+	<str name="All UPC">
+		361/686 | 312/223.1 | 361/683 | 361/681
+	</str>
+	<str name="UPC Primary">
+		361/686
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		EP0905603A3 | EP0905603A2 | KR1020060064582A | KR1020060063836A | DE69825383D1 | DE69837571D1 | HK1080557A1 | EP0905603B1 | TW434476B | CN100381970C | CN100401554C | CN1664746A | CN1599094A | US6128184 | CN1226692A | DE69837571T2 | DE69825383T2 | HK1076328A1
+	</str>
+	<str name="Family Member Count">
+		18
+	</str>
+	<str name="Family Members Cited By Count">
+		10
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US6366459 | US7848094 | US8363824 | US6317315 | US6426784 | US7540806 | US8295039
+	</str>
+	<str name="Cited By Count">
+		7
+	</str>
+	<str name="Cites">
+		US5583744 | US8162576 | US5677827 | US5293300 | US5428350 | US5621613 | US5321580 | US5506749 | US5796578 | US4571456 | US5594617 | US5243549 | US5107401 | EP0396009A2 | EP0355203 | WO1996023399 | GB2309740
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		9263884
+	</str>
+	<str name="Priority Date">
+		1997-09-29
+	</str>
+	<str name="Assignee(s)">
+		SONY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SONY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		ITO, SUSUMU | TANAHASHI, MAKOTO | GOTO, TEIYU | ASAWA, TSUTOMU
+	</str>
+	<str name="1st Inventor">
+		ITO, SUSUMU
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa, JP | Kanagawa, JP | Saitama, JP | Nagano, JP
+	</str>
+	<str name="Agent/Attorney">
+		FROMMER LAWRENCE &amp; HAUG, LLP., FROMMER, WILLIAM S., RYAN, MATTHEW K.
+	</str>
+	<str name="Primary Examiner">
+		PICARD, LEO P.
+	</str>
+	<str name="Assistant Examiner">
+		BUI, TUNG MINH
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

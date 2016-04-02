@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5488842
+	</str>
+	<str name="Application Number">
+		US08293338
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Method for deodorizing and refreshing for dry cleaning and dry cleaning apparatus using such method
+	</str>
+	<str name="Abstract">
+		The present invention provides a method for deodorizing and refreshing petroleum group solvent used in a dry cleaning apparatus, and a dry cleaning apparatus using such a method, which can maintain the circulating solvent in a fresh condition for a long time, eliminate a bad smell of the solvent, provide highly stable cleaning ability and good cleaning finish, and prevent ignition and explosion of the solvent to ensure safety. In the dry cleaning apparatus, the petroleum group solvent in a solvent storage tank 2 is pumped by a circulating pump 5, is supplied to a cleaning bath 8 through a filter 6 and carbon absorbent 7 and then is returned from the cleaning bath 8 to the solvent storage tank 2 through a button trap 3, and an ozone generating device 10 is provided for generating ozone gas and a diffuser 11 for pouring the ozone gas produced by the ozone generating device 10 Into the petroleum group solvent as fine bubbles are arranged to be contacted with a bottom surface of the solvent storage tank 2 or the button trap 3.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1994-08-24
+	</str>
+	<str name="Application Year">
+		1994
+	</str>
+	<str name="Application(Year/Month)">
+		1994-08
+	</str>
+	<str name="Publication Date">
+		1996-02-06
+	</str>
+	<str name="Publication Year">
+		1996
+	</str>
+	<str name="Publication(Year/Month)">
+		1996-02
+	</str>
+	<str name="All IPC">
+		D06F43/08
+	</str>
+	<str name="IPC Primary">
+		D06F43/08
+	</str>
+	<str name="IPC Section">
+		D
+	</str>
+	<str name="IPC Class">
+		D06
+	</str>
+	<str name="IPC Subclass">
+		D06F
+	</str>
+	<str name="IPC Group">
+		D06F43
+	</str>
+	<str name="All UPC">
+		68/18F | 68/209 | 68/18R | 68/13R
+	</str>
+	<str name="UPC Primary">
+		68/18F
+	</str>
+	<str name="UPC Class">
+		68
+	</str>
+	<str name="Family Members">
+		EP0698680B1 | EP0698680A1 | US5488842 | US5511264
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		31
+	</str>
+	<str name="Other References">
+		Patent Abstracts of Japan, vol. 16, No. 265 (C-0951), 1992. | Derwent Abstract: AN: 94-220628.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US6571585 | US7823423 | US7837741 | US7739891 | US6607663 | US7695524 | US8262741 | US7300468 | US5637212 | US7534304 | US7462203 | US7513004 | US7513132 | US7966684
+	</str>
+	<str name="Cited By Count">
+		14
+	</str>
+	<str name="Cites">
+		US3291562 | US4277336 | AU197360074 | JP1994154778 | CH416523 | JP1994134479 | EP0422603A1
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		US | EP | JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		29333894 | 94113235 | 5312394 | 5312494 | 5312594
+	</str>
+	<str name="Priority Date">
+		1994-08-24 | 1994-08-24 | 1994-02-25 | 1994-02-25 | 1994-02-25
+	</str>
+	<str name="Assignee(s)">
+		EBARA CORPORATION
+	</str>
+	<str name="1st Assignee">
+		EBARA CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		NISHIOKA, YUKIKO | KAMIYA, ICHIRO | SHINJO, RYOICHI | ISHII, YOSHIHIRO | KOSAKA, KOICHI
+	</str>
+	<str name="1st Inventor">
+		NISHIOKA, YUKIKO
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa, JP | Tokyo, JP | Kanagawa, JP | Kanagawa, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		ARMSTRONG, WESTERMAN, HATTORI, MCLELAND &amp; NAUGHTON
+	</str>
+	<str name="Primary Examiner">
+		COE, PHILIP R.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

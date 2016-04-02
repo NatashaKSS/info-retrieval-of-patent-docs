@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7416884
+	</str>
+	<str name="Application Number">
+		US10788135
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Bioreactor and methods for tissue growth and conditioning
+	</str>
+	<str name="Abstract">
+		A bioreactor and methods of using same for making tissue constructs and for conditioning tissue-engineered constructs and harvested tissues such as cryopreserved tissues. The bioreactor allows for static and dynamic culture/conditioning. The bioreactor is dual chambered (one chamber above and one below the cells or construct) to allow for application of biochemical and/or biomechanical stimuli to each side of the cells/construct.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-02-26
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-02
+	</str>
+	<str name="Publication Date">
+		2008-08-26
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		C12M3/06 | C12M3/00
+	</str>
+	<str name="IPC Primary">
+		C12M3/06
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12M
+	</str>
+	<str name="IPC Group">
+		C12M3
+	</str>
+	<str name="All UPC">
+		210/321.84 | 623/915 | 435/293.1 | 435/297.2
+	</str>
+	<str name="UPC Primary">
+		210/321.84
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		WO200504076608A3 | US20050009179A1 | US7416884 | WO2004076608A2
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References">
+		Guilak et al., Clin. Orthop., 391S: S295-S305 (2002). cited by other . | Pazzano D, Mercier KA, Moran JM, Fong SS, DiBiasio DD, Rulfs JX, Kohles SS, Bonassar LJ, Comparison of chondrogensis in static and perfused bioreactor culture, Biotechnol Prog. 16(5):893-6 (Sep. 2000). cited by other . | Williams KA, Saini S, Wick TM., Computational fluid dynamics modeling of steady-state momentum and mass transport in a bioreactor for cartilage tissue engineering., Biotechnol Prog. 18(5):951-63 (Sep. 2002). cited by other . | Nackman, G., et al. Surgery 124(2):353-361 (Aug. 1998). cited by other . | Mauck RL, Soltz MA, Wang CC, Wong DD, Chao PH, Valhmu WB, Hung CT, Ateshian GA, Functional tissue engineering of articular cartilage through dynamic loading of chondrocyte-seeded agarose gels, J Biomech Eng. 122(3):252-60 (Jun. 2002). cited by other . | Wang, T. et al., Experimental Hematology 23:26-32 (1995). cited by other . | Levesque, M.J. and R.M. Nerem, The elongation and orientation of cultured endothelial cells in response to shear stress. J Biomech Eng., 107(4):341-7 (1985). cited by other . | Mauck RL, Seyhan SL, Ateshian GA, Hung CT., Influence of seeding density and dynamic deformational loading on the developing structure/function relationships of chondrocyte-seeded agarose hydrogels., Ann Biomed Eng. 30(8):1046-56 (Sep. 2002). cited by other . | Malaviya, P., et al., Fluid-induced shear stresses promote chondrocyte phenotypic alteration. Transactions of the Orthopaedic Research Society, 44th Annual Meeting: p. 228 (1998). cited by other . | Waldman, S.D. et al., J. Bone &amp; Joint Surgery 85A (Supp. 2): 101-105 (2003). cited by other . | Smith, R.L., et al., Effects of fluid-induced shear on articular chondrocyte morphology and metabolism in vitro. J Orthop Res, 13(6):824-31 (1995). cited by other . | Yu et al., Biomaterials, 18:1425-1431 (1997). cited by other. | Vunjak-Novakovic G, Martin I, Obradovic B, Treppo S, Grodzinsky AJ, Langer R, Freed LE, Bioreactor cultivation conditions modulate the composition and mechanical properties of tissue-engineered cartilage, J Orthop Res. 17(1):130-8 (Jan. 1999). cited by other . | Jockenhoevel, S. et al., Cardiovascular Tissue Engineering: A New Laminar Flow Chamber for In Vitro Improvement of Mechanical Tissue Properties ASAIO Journal, 48(1): 8-11 (2002). cited by other . | Malaviya, P. and Nerem, R.M, Steady shear stress stimulates bovine chondrocyte proliferation in monolayer cultures. Transactions of the Orthopaedic Research Society, 45th Annual Meeting: p. 8. (1999). cited by other . | Smith, R., et al., Effects of shear stress on articular cartilage metabolism. Biorheology, 37:95-107 (2000). cited by other . | Adkisson et al., Clin. Orthop., 139S: S280-S294 (2001). cited by other . | Masuda et al., J Ortho Res, 21:139-148 (2003). cited by other . | Riesle, J. et al., Collagen in Tissue-Engineered Cartilage: Types, Structure, and Crosslinks, J. Cell. Biochem. 71:313-327 (1998). cited by other .
+	</str>
+	<str name="Other References Count">
+		19
+	</str>
+	<str name="Cited By">
+		US8176630 | US8266791
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US4762794 | US20030157709 | US6121042 | US4681853 | US2712386 | US6140039 | US5645726 | US5459069 | US4367146 | US6242247 | US5153131 | US5190878 | US5843766 | US5928945 | US5989913
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		78813504 | 45044303
+	</str>
+	<str name="Priority Date">
+		2004-02-26 | 2003-02-26
+	</str>
+	<str name="Assignee(s)">
+		GEORGIA TECH RESEARCH CORPORATION
+	</str>
+	<str name="1st Assignee">
+		GEORGIA TECH RESEARCH CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Atlanta, GA
+	</str>
+	<str name="Assignee(s) Address">
+		Atlanta, GA
+	</str>
+	<str name="Inventor(s)">
+		GEMMITI, CHRISTOPHER, VINSON | GULDBERG, ROBERT, E.
+	</str>
+	<str name="1st Inventor">
+		GEMMITI, CHRISTOPHER, VINSON
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Jonesboro, GA
+	</str>
+	<str name="Inventor(s) Address">
+		Jonesboro, GA | Marietta, GA
+	</str>
+	<str name="Agent/Attorney">
+		LAW OFFICE OF COLLEN A. BEARD, LLC
+	</str>
+	<str name="Primary Examiner">
+		BEISNER, WILLIAM H
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

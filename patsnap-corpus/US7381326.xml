@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7381326
+	</str>
+	<str name="Application Number">
+		US10912143
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Mega flow system
+	</str>
+	<str name="Abstract">
+		An aerated recirculated aquaculture system including a culture tank and an aeration and circulation system. The culture tank houses live aquaculture. The culture tank defines a first flow path. The aeration and circulation system includes an aeration device configured to aerate water. The aeration device defines a second flow path. The first flow path and second flow path at least partially defining a substantially closed flow path sequentially passing through the culture tank and the aeration device. The aeration and circulation system is configured to circulate the water around the substantially closed flow path.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-08-06
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2008-06-03
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All IPC">
+		A01K63/04
+	</str>
+	<str name="IPC Primary">
+		A01K63/04
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A01
+	</str>
+	<str name="IPC Subclass">
+		A01K
+	</str>
+	<str name="IPC Group">
+		A01K63
+	</str>
+	<str name="All UPC">
+		210/221.2 | 119/259 | 210/167.26
+	</str>
+	<str name="UPC Primary">
+		210/221.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1473986A4 | WO2004067966A3 | EP1473986A2 | AU2003206116B2 | AU2003206116A1 | JP2005538688A | WO2003067966A2 | US7381326 | US20050029178A1
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8119859 | US8143051 | US8088614
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US6065430 | US4017735 | US4915059 | US5438959 | US4972801 | US3462360 | US5041217 | US5217609 | US20020148779 | US4545945 | US5450818 | US5494577 | US1643273 | US3794303 | US4863594 | US5055186 | US6117313 | US4940545 | JP229685P2000 | GB2080276 | EP0498397 | JP1987068591
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Priority Country">
+		IL | US | US
+	</str>
+	<str name="Priority Number">
+		0300112 | 35945102 | 91214304
+	</str>
+	<str name="Priority Date">
+		2003-02-13 | 2002-02-15 | 2004-08-06
+	</str>
+	<str name="Assignee(s)">
+		HADDAS, ISRAEL
+	</str>
+	<str name="1st Assignee">
+		HADDAS, ISRAEL
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kfar Saba, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Kfar Saba, IL
+	</str>
+	<str name="Inventor(s)">
+		HADDAS, ISRAEL
+	</str>
+	<str name="1st Inventor">
+		HADDAS, ISRAEL
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kfar, Saba, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Kfar, Saba, IL
+	</str>
+	<str name="Agent/Attorney">
+		FRIEDMAN, MARK M.
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7645389
+	</str>
+	<str name="Application Number">
+		US10518120
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process and compositions for the purification of water
+	</str>
+	<str name="Abstract">
+		Process for water purification and for the separation of beneficial materials that are obtained from an aqueous solution, comprising determining a turbidity index and adding to the water or to said solution a composition comprising one or more natural or mixtures of natural substances, chosen from the group consisting of substances having a cationic molecular charge and substances having an anionic molecular charge, in an amount determined as a function of said turbidity index, thereby, allowing water purification and the aggregation of said beneficial materials.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-06-19
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-06
+	</str>
+	<str name="Publication Date">
+		2010-01-12
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		C02F1/52 | C02F1/56 | C02F1/24
+	</str>
+	<str name="IPC Primary">
+		C02F1/52
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/745 | 210/727 | 210/716 | 210/705 | 210/730 | 210/731
+	</str>
+	<str name="UPC Primary">
+		210/745
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060163163A1 | WO2004000736A3 | US7645389 | AU2003241139A1 | WO200304000736A2 | CA2490076A1 | IL150341D0
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5938970 | US4029578 | US4780214 | US4405464 | US5855789 | WO2001028934 | EP0263090
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		IL
+	</str>
+	<str name="Priority Number">
+		150341
+	</str>
+	<str name="Priority Date">
+		2002-06-20
+	</str>
+	<str name="Assignee(s)">
+		DEAD SEA MEDICA CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		DEAD SEA MEDICA CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		South Wales, GB
+	</str>
+	<str name="Assignee(s) Address">
+		South Wales, GB
+	</str>
+	<str name="Inventor(s)">
+		RONEN, RAZIEL
+	</str>
+	<str name="1st Inventor">
+		RONEN, RAZIEL
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tel, Aviv, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Tel, Aviv, IL
+	</str>
+	<str name="Agent/Attorney">
+		LADAS &amp; PARRY LLP
+	</str>
+	<str name="Primary Examiner">
+		LITHGOW, THOMAS M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

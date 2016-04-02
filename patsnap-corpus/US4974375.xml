@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US4974375
+	</str>
+	<str name="Application Number">
+		US07434982
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Ice particle forming and blasting device
+	</str>
+	<str name="Abstract">
+		A solid surface cleaning device utilizes a jet of ice particles of ultrapure water for removing contaminants from a surface of a solid such as a semiconductor wafer. The electrical resistivity of ultrapure water stored in a tank is reduced by means of a gas such as dry air or carbon dioxide evolving into the water from a bubble tube disposed in the tank. The water whose resistivity is thus reduced is sprayed from a nozzle into an ice-making container which is refrigerated by the vaporization of a refrigerant discharged into the container. The fine ice particles that are thus generated in the container are sprayed and blasted from a jet spray nozzle onto the surface of the cleaned solid supported within a jet spray chamber. The air inside the chamber is exhausted by a blower together with the ice particles that have been ejected from the jet spray nozzle.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1989-11-09
+	</str>
+	<str name="Application Year">
+		1989
+	</str>
+	<str name="Application(Year/Month)">
+		1989-11
+	</str>
+	<str name="Publication Date">
+		1990-12-04
+	</str>
+	<str name="Publication Year">
+		1990
+	</str>
+	<str name="Publication(Year/Month)">
+		1990-12
+	</str>
+	<str name="All IPC">
+		B24C3/22 | B08B7/00 | B24C3/18 | B24C1/00
+	</str>
+	<str name="IPC Primary">
+		B24C3/22
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B24
+	</str>
+	<str name="IPC Subclass">
+		B24C
+	</str>
+	<str name="IPC Group">
+		B24C3
+	</str>
+	<str name="All UPC">
+		451/89 | 451/78 | 261/7 | 261/124 | 451/82
+	</str>
+	<str name="UPC Primary">
+		451/89
+	</str>
+	<str name="UPC Class">
+		451
+	</str>
+	<str name="Family Members">
+		DE3937221A1 | DE3937221C2 | US4974375 | JP1990130921A
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		27
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US5217925 | US5364472 | US5483563 | US5114748 | US5196034 | US5837064 | US5928434 | US5699134 | EP0647170B1 | US6146466 | US6319102 | US5147466 | US5651834 | US6520838 | US7211932
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US4402193 | US4731125 | US3218781 | US3162019 | US4869090 | US2699403 | US4806171 | US4655847 | US4389820 | US4073158 | GB1397102 | JP1986002859 | JP1985067077 | JP1983102674
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		63284921
+	</str>
+	<str name="Priority Date">
+		1988-11-11
+	</str>
+	<str name="Assignee(s)">
+		MITSUBISHI DENKI KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		MITSUBISHI DENKI KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		JP
+	</str>
+	<str name="Assignee(s) Address">
+		JP
+	</str>
+	<str name="Inventor(s)">
+		TADA, MASUO | FUKUMOTO, TAKAAKI | OHMORI, TOSHIAKI
+	</str>
+	<str name="1st Inventor">
+		TADA, MASUO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Yao, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Yao, JP | Itami, JP | Itami, JP
+	</str>
+	<str name="Agent/Attorney">
+		LEYDIG, VOIT &amp; MAYER
+	</str>
+	<str name="Primary Examiner">
+		ROSE, ROBERT A.
+	</str>
+	<str name="Assistant Examiner">
+		WATSON, BRUCE P.
+	</str>
+	<str name="cited by within 3 years">
+		10
+	</str>
+	<str name="cited by within 5 years">
+		17
+	</str>
+</doc>
+

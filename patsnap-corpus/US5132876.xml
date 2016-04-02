@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5132876
+	</str>
+	<str name="Application Number">
+		US07769238
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Built-up notebook computer
+	</str>
+	<str name="Abstract">
+		A built-up notebook computer comprised of a unitary upper cover and keyboard unit, a motherboard, a floppy disk drive, a hard disk drive, a rechargeable battery, a power supply unit, a modem and a flat display, wherein the flat display is pivoted to the upper cover and keyboard unit through plug-in joint; the power supply unit and the modem are set in two chambers on the upper cover and keyboard unit; the motherboard, the floppy disk drive, the rechargeable battery and the hard disk drive are respective connected to the upper cover and keyboard unit at the bottom by hook joint and electrically interconnected; the motherboard, the floppy disk drive, the hard disk drive, the power supply unit and the modem are firmly secured together by two screws.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1991-10-01
+	</str>
+	<str name="Application Year">
+		1991
+	</str>
+	<str name="Application(Year/Month)">
+		1991-10
+	</str>
+	<str name="Publication Date">
+		1992-07-21
+	</str>
+	<str name="Publication Year">
+		1992
+	</str>
+	<str name="Publication(Year/Month)">
+		1992-07
+	</str>
+	<str name="All IPC">
+		H05K5/02 | H05K7/14 | G06F1/00
+	</str>
+	<str name="IPC Primary">
+		H05K5/02
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K5
+	</str>
+	<str name="All UPC">
+		361/685 | 361/681 | 361/680
+	</str>
+	<str name="UPC Primary">
+		361/685
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		GB9116636D0 | GB2258326A | GB2258326B | US5132876
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US4689761 | US4333155 | US4680674 | US4479198 | US4926365
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		76923891
+	</str>
+	<str name="Priority Date">
+		1991-10-01
+	</str>
+	<str name="Inventor(s)">
+		MA, HSI, K.
+	</str>
+	<str name="1st Inventor">
+		MA, HSI, K.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		4F., No., 48, Sec., 2, Chung, Cherng, Rd., Taipei, TW
+	</str>
+	<str name="Inventor(s) Address">
+		4F., No., 48, Sec., 2, Chung, Cherng, Rd., Taipei, TW
+	</str>
+	<str name="Agent/Attorney">
+		BACON &amp; THOMAS
+	</str>
+	<str name="Primary Examiner">
+		PICARD, LEO P.
+	</str>
+	<str name="Assistant Examiner">
+		PHILLIPS, MICHAEL W.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5901035
+	</str>
+	<str name="Application Number">
+		US08672130
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Rotating battery hinge for a notebook computer
+	</str>
+	<str name="Abstract">
+		A very thin portable computer includes a computer housing for holding electronic components and a battery housing movably mounted external to the computer housing, the battery housing adapted for holding batteries for supplying power to the electronic components. The battery housing is rotatably mounted on the computer housing such that the battery housing rotates between a closed position wherein the battery housing covers the rear side of the computer and an open position wherein the battery housing exposes connectors on the computer housing and elevates the rear side of the computer housing to an angle convenient for typing.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-06-27
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-06
+	</str>
+	<str name="Publication Date">
+		1999-05-04
+	</str>
+	<str name="Publication Year">
+		1999
+	</str>
+	<str name="Publication(Year/Month)">
+		1999-05
+	</str>
+	<str name="All IPC">
+		H05K7/00 | H05K7/16
+	</str>
+	<str name="IPC Primary">
+		H05K7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/679 | 361/683 | 200/52R | 429/100
+	</str>
+	<str name="UPC Primary">
+		361/679
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US5594617 | US5901035
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5583744 | US4986763 | US3641288 | US5107401
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		67213096 | 35036994
+	</str>
+	<str name="Priority Date">
+		1996-06-27 | 1994-12-06
+	</str>
+	<str name="Assignee(s)">
+		DIGITAL EQUIPMENT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		DIGITAL EQUIPMENT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Maynard, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Maynard, MA
+	</str>
+	<str name="Inventor(s)">
+		FOSTER, MARK, J. | BOVIO, MICHELE
+	</str>
+	<str name="1st Inventor">
+		FOSTER, MARK, J.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Acton, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Acton, MA | Boston, MA
+	</str>
+	<str name="Agent/Attorney">
+		RODRIGUEZ, MICHAEL A., HUDGENS, RONALD C., FISHER, ARTHUR
+	</str>
+	<str name="Primary Examiner">
+		PICARD, LEO P.
+	</str>
+	<str name="Assistant Examiner">
+		GANDHI, JAYPRAKASH N.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

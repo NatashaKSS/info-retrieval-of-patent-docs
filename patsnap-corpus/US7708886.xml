@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7708886
+	</str>
+	<str name="Application Number">
+		US11957931
+	</str>
+	<str name="Title">
+		Fluid bed expansion and fluidisation
+	</str>
+	<str name="Abstract">
+		Method and apparatus in which a biomass is carried on a substrate that is fluidised. The fluidised substrate has a layer of distributor particles below it, through which the fluidizing medium passes prior to contact with the fluidised substrate and biomass associated therewith. The effect of the distributor layer is that the particles damp out excessive turbulence in the fluidizing medium, thus preventing undue turbulence of the medium within the fluidised layer. The particles may be recycled through the distributor layer to strip excess biofilm from the substrate particles prior to returning the substrate particles to the fluidised bed.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-12-17
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-12
+	</str>
+	<str name="Publication Date">
+		2010-05-04
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		C02F3/06 | C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/06
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/150 | 210/903 | 210/96.1 | 210/617 | 210/194
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Kiared, Larachi, Cassandello and Chaouki, &quot;Flow Structure of the Solids in a Three-Dimensional Liquid Fluidized Bed,&quot; Ind. Eng, Chem. Res., vol. 36, 1997, pp. 4695-4704. cited by other . | Kkumar, Kusakabe and Fan, &quot;Heat Transfer in Three-Phase Fluidized Beds Containing Low-Density Particles,&quot; Chemical Engineering Science, vol. 48, No. 13, 1993, pp. 2407-2418. cited by other . | The International Search Report for PCT Application No. PCT/GB02/04640; Completed Jan. 31, 2003. cited by other . | Cooper and Wheeldon, &quot;Complete treatment of sewage in a two-fluidised bed system&quot;, Biological Fluidised Bed Treatment of Water and Wastewater .COPYRGT. 1981, Market Cross House, West Sussex, England, Chapter 7. cited by other . | Denae, Uzman, Tanaka, and Dunn, &quot;Modeling of Experiments on Biofilm Penetration Effects in a Fluidized Bed Nitrification Reactor&quot;, Biotechnology and Bioengineering, vol. XXV (1983), pp. 1841-1861. cited by other. | Finette, Mao, and Hearn, &quot;Studies on the expansion characteristics of fluidised beds with silica-based adsorbents used in protein purification&quot;, Journal of Chromatography A. 743 (1996), pp. 57-73. cited by other . | Nicolella, Van Loosdrecht and Heijnen, &quot;Wastewater treatment with particulate biofilm reactors&quot;, Journal of Biotechnology, vol. 80 (2000), pp. 1-33. cited by other . | Asif, Kalogerakis and Behie, &quot;Distributor Effects in Liquid Fluidized Beds of Low-Density Particles&quot;, AIChE Journal, Dec. 1991, vol. 37, No. 12, pp. 1825-1832. cited by other . | Nicolella, Felice and Rovatti, &quot;An Experimental Model of Biofilm Detachment in Liquid Fluidized Bed Biological Reactors,&quot; Biotechnology and Bioengineering, vol. 51, 1996, pp. 713-719. cited by other . | Sosa, Ochoa and Perotti, &quot;Modeling of direct recovery of lactic acid from whole broths by ion exchange adsorption,&quot; Bioseparation, vol. 9, 2001, pp. 283-289. cited by other . | Otton, Hihn, Beteau, Delpech and Cheruy, &quot;Axial dispersion of liquid in fluidised bed with external recycling: two dynamic modelling approaches with a view to control&quot;, Biochemical Engineering Journal, vol. 2 (2000), pp. 129-136. cited by other . | Koh, Wang and Wankat, &quot;Ion Exchange of Phenylalanine in Fluidized/Expanded Beds&quot;, Ind. Eng. Chem. Res., 1995, vol. 34, pp. 2700-2711. cited by other . | Coulom, Longeaux, Badard, and Sibony, &quot;A Fluidized-Bed Reactor: The Biolift Process&quot;, Wat. Sci. Tech., vol. 29, No. 10-11 (1994), pp. 329-338. cited by other . | Asif, Kalogerakis and Behie, &quot;Hydrodynamics of Liquid Fluidized Beds Including the Distributor Region,&quot; Chemical Engineering Science, vol. 47, No. 15/16, 1992, pp. 4155-4166. cited by other . | Sutton and Mishra, &quot;Activated Carbon Based Biological Fluidized Beds for Contaminated Water and Wastewater Treatment: A State-of-the-art Review&quot;, Wat. Sci. Tech., vol. 29, No. 10-11 (1994), pp. 309-317. cited by other .
+	</str>
+	<str name="Other References Count">
+		15
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4702891 | US6572773 | US5965016 | US4202774 | US5705057 | US6858144 | US4053396 | US5976365 | US3956129 | US5228997 | US4707252 | US4322296 | US5372712 | US4464262 | US4250033 | US4618418 | US5895576 | US4762612 | US5486291 | US4177144 | US4009098 | US4009099 | US5985149 | US4869815 | US5019268 | US4800021 | US5747311 | US4009105 | US4490258 | US4241021 | US3846289 | US5584996 | US20020038784 | US5849194 | US4933149 | DE4442126 | JP1983199038 | WO2000024682 | GB2149683 | GB1520895 | EP0769478 | GB780406 | EP0861808 | EP0007783 | FR2344801
+	</str>
+	<str name="Cites Count">
+		45
+	</str>
+	<str name="Assignee(s)">
+		ADVANCED BIOPROCESS DEVELOPMENT LIMITED
+	</str>
+	<str name="1st Assignee">
+		ADVANCED BIOPROCESS DEVELOPMENT LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Manchester, GB
+	</str>
+	<str name="Assignee(s) Address">
+		Manchester, GB
+	</str>
+	<str name="Inventor(s)">
+		DEMPSEY, MICHAEL, JOHN
+	</str>
+	<str name="1st Inventor">
+		DEMPSEY, MICHAEL, JOHN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Manchester, GB
+	</str>
+	<str name="Inventor(s) Address">
+		Manchester, GB
+	</str>
+	<str name="Agent/Attorney">
+		ALSTON &amp; BIRD LLP
+	</str>
+	<str name="Primary Examiner">
+		UPTON, CHRISTOPHER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

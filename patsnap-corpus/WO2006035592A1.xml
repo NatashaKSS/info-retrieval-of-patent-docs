@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2006035592A1
+	</str>
+
+	<str name="Application Number">
+		PCT/JP2005/016736
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		PORTABLE RADIO
+	</str>
+
+	<str name="Abstract">
+		A portable radio which can surely prevent static electricity from intruding into a liquid crystal display element. A portable radio (10) is stored in an upper case (11) and is provided with an upper circuit board (17) connected with a liquid crystal display element (16), a lower circuit board (24) stored in a lower case (12), upper and lower connectors (18, 25) provided on the upper and lower circuit boards (17, 24), and a coaxial cable (30) which electrically connects the upper and lower circuit boards (17, 24) by connecting them with each of the connectors (18, 25). A line (31) passing the center of the coaxial cable (30) is used as a signal line and also as an exclusive ground for signals, and an outer coat (32) of the coaxial cable (30) is electrically connected with the upper case (11) and also with a ground (28A) of a battery (28) of the lower case (12).
+	</str>
+
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+
+	<str name="Application Date">
+		2005-09-12
+	</str>
+
+	<str name="Application Year">
+		2005
+	</str>
+
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+
+	<str name="Publication Date">
+		2006-04-06
+	</str>
+
+	<str name="Publication Year">
+		2006
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2006-04
+	</str>
+
+	<str name="All IPC">
+		H05K9/00 | H05F3/02 | H04M1/02 | G02F1/1345
+	</str>
+
+	<str name="IPC Primary">
+		H05K9/00
+	</str>
+
+	<str name="IPC Section">
+		H
+	</str>
+
+	<str name="IPC Class">
+		H05
+	</str>
+
+	<str name="IPC Subclass">
+		H05K
+	</str>
+
+	<str name="IPC Group">
+		H05K9
+	</str>
+
+	<str name="Family Members">
+		US20080051159A1 | JP2006100319A | WO2006035592A1 | EP1802190A1 | CN101032197A
+	</str>
+
+	<str name="Family Member Count">
+		5
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cites">
+		JP2003018264A | JP11185991A | JP5070956U | JP1276794A | JP56105267U
+	</str>
+
+	<str name="Cites Count">
+		5
+	</str>
+
+	<str name="Priority Country">
+		JP
+	</str>
+
+	<str name="Priority Number">
+		2004281083
+	</str>
+
+	<str name="Priority Date">
+		2004-09-28
+	</str>
+
+	<str name="Assignee(s)">
+		MATSUSHITA ELECTRIC INDUSTRIAL CO. LTD. | KOBAYASHI | HIRAI | KOZAI
+	</str>
+
+	<str name="1st Assignee">
+		MATSUSHITA ELECTRIC INDUSTRIAL CO. LTD. | KOBAYASHI
+	</str>
+
+	<str name="Number of Assignees">
+		1 | 3
+	</str>
+
+	<str name="1st Assignee Address">
+		1006, Oaza Kadoma, Kadoma-shi, Osaka, 5718501, 5718501, JP | 1006, Oaza Kadoma, Kadoma-shi, Osaka, 5718501, 5718501, JP
+	</str>
+
+	<str name="Assignee(s) Address">
+		1006, Oaza Kadoma, Kadoma-shi, Osaka, 5718501, 5718501, JP | Masa-aki, &#226;&#8364; | Koutaro, &#226;&#8364; | Shinji, &#226;&#8364; | KOBAYASHI | HIRAI | KOZAI
+	</str>
+
+	<str name="Agent/Attorney">
+		TAKAMATSU, TAKESHI
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

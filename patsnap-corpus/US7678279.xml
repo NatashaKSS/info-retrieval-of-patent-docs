@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7678279
+	</str>
+	<str name="Application Number">
+		US12346546
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Metal compound removal
+	</str>
+	<str name="Abstract">
+		The present invention relates to a process for separating at least one metal compound and/or a component thereof from a mixture, said process comprising contacting the said mixture with a heteropoly acid or heteropoly acid anion, thereby producing a precipitate comprising the heteropoly acid or heteropoly acid anion and the metal compound and/or a component thereof. The present invention further relates to a process for the purification of a mixture containing at least one metal compound, said process comprising contacting the said mixture with a heteropoly acid or heteropoly acid anion, thereby producing a precipitate that is substantially insoluble in the said reaction mixture and recovering the reaction mixture.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-12-30
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-12
+	</str>
+	<str name="Publication Date">
+		2010-03-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		C02F1/62
+	</str>
+	<str name="IPC Primary">
+		C02F1/62
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/912 | 210/702 | 502/24 | 210/723
+	</str>
+	<str name="UPC Primary">
+		210/912
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report for PCT/US03/21439 mailed on Oct. 20, 2003. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6833124 | US4272400 | US4826604 | US3485763 | US4413118 | US4828718 | US2608534 | US5897768 | US7481938 | US4460474 | US4677084 | DE268166 | SU1036775 | EP1080784 | WO2000029107
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Assignee(s)">
+		BASF CATALYSTS LLC
+	</str>
+	<str name="1st Assignee">
+		BASF CATALYSTS LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Florham Park, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Florham Park, NJ
+	</str>
+	<str name="Inventor(s)">
+		BRANDTS, JIM, ALOYSIUS, MARIA | BERBEN, PIETER, HILDEGARDUS
+	</str>
+	<str name="1st Inventor">
+		BRANDTS, JIM, ALOYSIUS, MARIA
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Delft, NL
+	</str>
+	<str name="Inventor(s) Address">
+		Delft, NL | Maarn, NL
+	</str>
+	<str name="Agent/Attorney">
+		KELLER, RAYMOND F.
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

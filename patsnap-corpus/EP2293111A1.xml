@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2293111A1
+	</str>
+	<str name="Application Number">
+		EP2009769926
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		RADIOGRAPHIC IMAGE DETECTOR AND RADIOGRAPHIC IMAGE GENERATION SYSTEM
+	</str>
+	<str name="Abstract">
+		Provided are a portable radiographic image detector capable of transmitting with a smaller number of transmissions the read results of dark reads performed a plurality of times when an offset calibration or the like is carried out, and a radiographic image generation system using the portable radiographic image detector. The portable radiographic image detector (1) comprises: a sensor panel (4) in which a plurality of radiation detector elements (x, y) are disposed in a two-dimensional shape; a storage means (7) for storing dark read values (D.sub.k (x, y)) outputted from the radiation detector elements (x, y) under the condition that radiation is not irradiated; a calculation means (6) for calculating the offset correction value (O (x, y)) for each of the radiation detector elements (x, y), based on a plurality of dark read values (D.sub.k (x, y)) obtained from the outputs of the radiation detector elements (x, y) at every dark read of a plurality of times of dark reads performed in advance; a communication means (3, 13) for transmitting the offset correction value (O(x, y)) for each of the radiation detector elements (x, y) to an external device; and a built-in battery.
+	</str>
+	<str name="Document Types">
+		EP | EPA
+	</str>
+	<str name="Application Date">
+		2009-02-26
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-02
+	</str>
+	<str name="Publication Date">
+		2011-03-09
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+	<str name="All IPC">
+		A61B6/00 | G01T1/24 | H04N5/335 | G03B42/04 | G03B42/02 | G01T1/20 | G01T7/00 | G01T1/17 | H04N5/32
+	</str>
+	<str name="IPC Primary">
+		A61B6/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61B
+	</str>
+	<str name="IPC Group">
+		A61B6
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2008168114
+	</str>
+	<str name="Priority Date">
+		2008-06-27
+	</str>
+	<str name="Assignee(s)">
+		KONICA MINOLTA MEDICAL &amp; GRAPHIC, INC.
+	</str>
+	<str name="1st Assignee">
+		KONICA MINOLTA MEDICAL &amp; GRAPHIC, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		1 Sakura-machi Hino-shi, Tokyo 191-8511, JP
+	</str>
+	<str name="Assignee(s) Address">
+		1 Sakura-machi Hino-shi, Tokyo 191-8511, JP
+	</str>
+	<str name="Inventor(s)">
+		YONEKAWA, HISASHI
+	</str>
+	<str name="1st Inventor">
+		YONEKAWA, HISASHI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		KONICA, MINOLTA, MEDICAL&amp;amp, GRAPHIC, INC., 1, Sakura-machi, Hino-shi, Tokyo, 191-8511, JP
+	</str>
+	<str name="Inventor(s) Address">
+		KONICA, MINOLTA, MEDICAL&amp;amp, GRAPHIC, INC., 1, Sakura-machi, Hino-shi, Tokyo, 191-8511, JP
+	</str>
+	<str name="Agent/Attorney">
+		GILLE HRABAL STRUCK NEIDLEIN PROP ROOS
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

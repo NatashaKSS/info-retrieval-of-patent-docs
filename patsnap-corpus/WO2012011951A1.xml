@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2012011951A1
+	</str>
+	<str name="Application Number">
+		PCT/US2011/001285
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		VEIN SCANNER
+	</str>
+	<str name="Abstract">
+		A portable vein viewer apparatus may be battery powered and hand-held to reveal patient vasculature information to aid in venipuncture processes. The apparatus comprises a first laser diode emitting infrared light, and a second laser diode emitting only visible wavelengths, wherein vasculature absorbs a portion of the infrared light causing reflection of a contrasted infrared image. A pair of silicon PIN photodiodes, responsive to the contrasted infrared image, causes transmission of a corresponding signal. The signal is processed through circuitry to amplify, sum, and filter the outputted signals, and with the use of an image processing algorithm, the contrasted image is projected onto the patient's skin surface using the second laser diode. Revealed information may comprise vein location, depth, diameter, and degree of certainty of vein locations. Projection of vein images may be a positive or a negative image. Venipuncture needles may be coated to provide visibility in projected images.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2011-07-20
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-07
+	</str>
+	<str name="Publication Date">
+		2012-01-26
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-01
+	</str>
+	<str name="All IPC">
+		A61B5/02 | H01S3/00
+	</str>
+	<str name="IPC Primary">
+		A61B5/02
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61B
+	</str>
+	<str name="IPC Group">
+		A61B5
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		12/804,506
+	</str>
+	<str name="Priority Date">
+		2010-07-22
+	</str>
+	<str name="Assignee(s)">
+		ACCUVEIN L.L.C., 40 GOOSE HILL ROAD | WOOD, FRED | GOLDMAN, RON, 42 GOOSE HILL ROAD | LUCIANO, VINCENT
+	</str>
+	<str name="1st Assignee">
+		ACCUVEIN L.L.C., 40 GOOSE HILL ROAD
+	</str>
+	<str name="Number of Assignees">
+		4
+	</str>
+	<str name="1st Assignee Address">
+		d Spring Harbor, NY , 11724, US
+	</str>
+	<str name="Assignee(s) Address">
+		d Spring Harbor, NY , 11724, US | 8 Deering Court, Medford, NY, 11763, US | d Spring Harbor, NY , 11724, US | 3 Royal Way, Shoreham, NY, 11786, US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

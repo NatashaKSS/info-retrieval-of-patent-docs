@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7529748
+	</str>
+	<str name="Application Number">
+		US11/276818
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Information classification paradigm
+	</str>
+	<str name="Abstract">
+		A mechanism to classify source documents into one of two categories, either likely to contain desired information or unlikely to contain desired information. Generally some form of rules based classification in conjunction with deeper analysis using advanced techniques on difficult cases is utilized. The rules based classification is generally good for eliminating cases from further consideration and for identifying documents of interest based on generally discernable relationships between data or based on the presence or absence of data. The deeper analysis is used to uncover more complex relationships between data that may identify documents of interest. Portions of the process may use the entire document while other portions of the process may use only a portion of the document.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-03-15
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-03
+	</str>
+	<str name="Publication Date">
+		2009-05-05
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		1/1 | 707/9993 | 707/9997 | 707/999.01
+	</str>
+	<str name="UPC Primary">
+		1/1
+	</str>
+	<str name="UPC Class">
+		1
+	</str>
+	<str name="Family Members">
+		KR1020080075501A | US20070112756A1 | WO2007059272A1 | US7529748B2 | US7529748 | EP1955220A1 | EP1955220A4
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Liu Hui et al., &quot;An Efficient Centroid Based Chinese Web Page Classifier&quot;, Proceedings of Network Research Workshop in 16th APAN Meetings, 2003, pp. 9-14. cited by other | Oh-Woog Kwon et al., &quot;Web Page Classification Based on k-Nearest Neighbor Approach&quot;, Proceedings of the fifth international workshop on Information retrieval with Asian languages, 2000, pp. 9-15. cited by other | W. W. Cohen, &quot;Improving a Page Classifier with Anchor Extraction and Link Analysis&quot;, Neural Information Processing Systems Foundation, 2002. cited by other | M. Labsky et al., Information Extraction from HTML Product Catalogues: from Source Code and Images for RDF, Proceedings of the 2005 IEEE/WIC/ACM International Conference on Web Intelligence, 2005, pp. 401-404. cited by other | C. J.C. Burges, &quot;A Tutorial on Support Vector Machines for Pattern Recognition&quot;, Data Mining and Knowledge Discovery, 2, 1998, pp. 121-167. cited by other | International Search Report, PCT/US2006/044476 Apr. 24, 2007, pp. 1-11. cited by other.
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cites">
+		US5983246 | US6266664 | US6484149 | US6505195 | US6751614 | US6892191 | US6920609 | US7016895 | US7035841 | US20030046161 | US20030101181 | US20030225763 | US20040111453 | US20040138946 | US20040199430 | US20050066269 | US20050131764 | US20050251536 | US20060026496 | US20060149710 | WO2001027712
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		27681806 | 73667605
+	</str>
+	<str name="Priority Date">
+		2006-03-15 | 2005-11-15
+	</str>
+	<str name="Inventor(s)">
+		WEN, JI-RONG | SUN, YAN-FENG | MA, WEI-YING | NIE, ZAIQING | JIANG, RENKUAN
+	</str>
+	<str name="1st Inventor">
+		WEN, JI-RONG
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Haidian, District, Beijing, CN
+	</str>
+	<str name="Inventor(s) Address">
+		Haidian, District, Beijing, CN | Haidian, District, Beijing, CN | Haidian, District, Beijing, CN | Haidian, District, Beijing, CN | Haidian, District, Beijing, CN
+	</str>
+	<str name="Primary Examiner">
+		CHACE, CHRISTIAN P.
+	</str>
+	<str name="Assistant Examiner">
+		VU, BAI D
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

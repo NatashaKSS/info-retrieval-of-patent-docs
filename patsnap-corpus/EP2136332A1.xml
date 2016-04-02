@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2136332A1
+	</str>
+	<str name="Application Number">
+		EP2008740465
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		ALIGNMENT METHOD, ALIGNMENT DEVICE AND PROGRAM
+	</str>
+	<str name="Abstract">
+		A position alignment method, a position alignment device, and a program in which processing load can be reduced are proposed. A group of some points in a first set of points extracted from an object appearing in one image and a group of some points in a second set of points extracted from an object appearing in another image are used as a reference, and the second set of points is aligned with respect to the first set of points. Thereafter, all the points in the first set of points and all the points in the aligned second set of point are used as a reference, and the second set of points is aligned with respect to the first set of points.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-04-09
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-04
+	</str>
+	<str name="Publication Date">
+		2009-12-23
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		G06F21/20 | G06T7/00
+	</str>
+	<str name="IPC Primary">
+		G06F21/20
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F21
+	</str>
+	<str name="Family Members">
+		JP2008262307A | WO2008126935A1 | EP2136332A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		See references of WO  2008126935A1
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2007103315
+	</str>
+	<str name="Priority Date">
+		2007-04-10
+	</str>
+	<str name="Assignee(s)">
+		SONY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SONY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		1-7-1 Konan Minato-ku, Tokyo 108-0075, JP
+	</str>
+	<str name="Assignee(s) Address">
+		1-7-1 Konan Minato-ku, Tokyo 108-0075, JP
+	</str>
+	<str name="Inventor(s)">
+		ABE, HIROSHI | MOHAMMAD, ABDUL, MUQUIT
+	</str>
+	<str name="1st Inventor">
+		ABE, HIROSHI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		SONY, CORPORATION, 1-7-1, Konan, Minato-ku, Tokyo, 108-0075, JP
+	</str>
+	<str name="Inventor(s) Address">
+		SONY, CORPORATION, 1-7-1, Konan, Minato-ku, Tokyo, 108-0075, JP | SONY, CORPORATION, 1-7-1, Konan, Minato-ku, Tokyo, 108-0075, JP
+	</str>
+	<str name="Agent/Attorney">
+		MILLS, JULIA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7948557
+	</str>
+	<str name="Application Number">
+		US11241797
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for generating a control signal for a film event system
+	</str>
+	<str name="Abstract">
+		An apparatus for generating a control signal for a film event system is described for synchronizing film events with an image reproduction, wherein a film comprises film information applied in a time sequence, and the apparatus comprises a means for storing the film information, wherein a time scale is associated to the stored film information, a means for receiving a section read from the film, a means for comparing the read section to the stored film information and a means for determining the control signal based on the comparison and the time scale.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-09-29
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2011-05-24
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-05
+	</str>
+	<str name="All IPC">
+		H04N9/475 | G06F3/00
+	</str>
+	<str name="IPC Primary">
+		H04N9/475
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04N
+	</str>
+	<str name="IPC Group">
+		H04N9
+	</str>
+	<str name="All UPC">
+		348/516 | 348/512 | 715/723 | 725/116
+	</str>
+	<str name="UPC Primary">
+		348/516
+	</str>
+	<str name="UPC Class">
+		348
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		John J. Karamon; Synchronization of Digital Audio Channels to Analog Soundtrack; San Francisco; Oct. 1992. cited by other . | Jordan, Dr. Frank et al., &quot;Generating Time Code Information from Analog Sources&quot;, Audio Engineering Society Convention Paper 6473, presented at the 118.sup.th Convention, May 28-31, 2005, Barcelona, Spain, XP009070534. cited by other . | Junsong Yuan, Qi Tian, and Surendra Ranganath; Fast and Robust Search Method for Short Video Clips from Large Video Collection; Inst. for Infocomm Research, Singapore ICPR'04. cited by other . | Kunio Kashino, Takayuki Kurozumi, and Hiroshi Murase; A Quick Search Method for Audio and Video Signals Based on Histogram Pruning; Ieee Transactions on Multimedia, vol. 5, No. 3; Sep. 2003. cited by other . | Office Action mailed Jan. 5, 2011 in related Japanese Patent Application No. 2008-517365, 3 pages. cited by other.
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4839733 | US5790236 | US5055939 | US20050022252 | US20040128512 | US20040073916 | US5218486 | US5040081 | US5087980 | EP1519363 | EP0869443 | JP1990029963 | DE10322722 | DE68918270 | JP2002290921 | WO2003009273 | EP0693215 | JP020420H10 | WO1994016442 | EP0838960 | WO2001056277 | JP062298H09
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102005028978
+	</str>
+	<str name="Priority Date">
+		2005-06-22
+	</str>
+	<str name="Assignee(s)">
+		FRAUNHOFER-GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.
+	</str>
+	<str name="1st Assignee">
+		FRAUNHOFER-GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Munich, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Munich, DE
+	</str>
+	<str name="Inventor(s)">
+		SPORER, THOMAS | BECKINGER, MICHAEL
+	</str>
+	<str name="1st Inventor">
+		SPORER, THOMAS
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Fuerth, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Fuerth, DE | Erfurt, DE
+	</str>
+	<str name="Agent/Attorney">
+		GLENN, MICHAEL A. GLENN PATENT GROUP
+	</str>
+	<str name="Primary Examiner">
+		SAFAIPOUR, HOUSHANG
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

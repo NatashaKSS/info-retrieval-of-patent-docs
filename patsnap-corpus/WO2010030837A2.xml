@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2010030837A2
+	</str>
+	<str name="Application Number">
+		PCT/US2009/056596
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		OUTDOOR ENCLOSURE COOLING SYSTEM OPERATING AT OFF-PEAK HOURS
+	</str>
+	<str name="Abstract">
+		A cooling system and method for an outdoor electronics enclosure includes an air conditioner controlled to operate during off-peak hours, so as to pre-cool batteries. The cooled batteries keep the enclosure cool during peak hours so that it is not necessary to run the air conditioner when electricity prices are at their peak. A clock or light sensor determines the time of day. A controller has stored data indicating the peak hours when electricity costs more.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2009-09-11
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-09
+	</str>
+	<str name="Publication Date">
+		2010-03-18
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		H05K7/20
+	</str>
+	<str name="IPC Primary">
+		H05K7/20
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		61/096,239 | 12/427,039
+	</str>
+	<str name="Priority Date">
+		2008-09-11 | 2009-04-21
+	</str>
+	<str name="Assignee(s)">
+		COMMSCOPE INC. OF NORTH CAROLINA | YEH, JOSEPH | HENDRIX, WALTER
+	</str>
+	<str name="1st Assignee">
+		COMMSCOPE INC. OF NORTH CAROLINA
+	</str>
+	<str name="Number of Assignees">
+		3
+	</str>
+	<str name="1st Assignee Address">
+		1100 Commscope Place, Se Hickory, NC 28602 28602 US
+	</str>
+	<str name="Assignee(s) Address">
+		1100 Commscope Place, Se Hickory, NC 28602 28602 US | 7113 Stoddard Lane Plano, TX 75025 75025 US | 2101 Sky Ridge Ck Richardson, TX 75082 75082 US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8018494
+	</str>
+	<str name="Application Number">
+		US12160151
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Color correction device, color correction method, dynamic camera color correction device, and video search device using the same
+	</str>
+	<str name="Abstract">
+		A color correction device (1) including: color set information storage portions (11) which store color set information inclusive of source colors and reference colors; region selection portions (6) which select specific source regions from source images picked up by two cameras 2 respectively; region color decision portions (7) which decide source region colors as colors representative of the source regions; color set update portions (10) which update source colors in color sets by using the source region colors; and color correction portions (8) which calibrate colors in ranges similar to the source colors in the two source images to reference colors by using the color sets. It is possible to eliminate the necessity of holding information of color sets unnecessary for color correction, so that it is possible to reduce the load imposed on calculation and adapt to a change of lighting environment in real time.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-05
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2011-09-13
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		G06K9/00 | H04N5/228
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/103 | 348/208.14
+	</str>
+	<str name="UPC Primary">
+		382/103
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Mathew Price, &quot;Using colour features to classify objects and people in a video surveillance network&quot;, Mar. 31, 2004, Retrived from the Internet: http://www.dip.ee.uct.ac.za/publications/theses/MScMathew.pdf, Retrieved on Jan. 26, 2011. cited by other . | European Search Report for 10195138.2 issued on Feb. 8, 2011. cited by other . | Raja Y. et al, &quot;Tracking and segmenting people in varying lighting conditions using colour&quot;, Automatic Face and Gesture Recognition, 1998. Proceedings. Third IEEE International Conference on Nara, Japan Apr. 14-16, 1998, Los Alamitos, CA, USA, IEEE Comput. SOC, US, Apr. 14, 1998, pp. 228-233. cited by other . | Kim K. et al, &quot;Real-time foreground-background segmentation using codebook model&quot;, Real-time Imaging, Academic Press Limited, GB, vol. 11 No. 3, Jun. 1, 2005, pp. 172-185. cited by other . | Chin-Hao Hsu et al, &quot;Region-Based Color Correction of Images&quot;, Information Technology and Applications, 2005. ICITA 2005. Third Inter National Conference on Sydney, Australia Jul. 4-7, 2005, Piscataway, NJ, USA, IEEE, vol. 1, Jul. 4, 2005, pp. 710-715. cited by other . | Bhandarkar S. M. et al, &quot;Fast and Robust Background Updating for Real-time Traffic Surveillance and Monitoring&quot;, Computer Vision and Pattern Recognition, 2005 IEEE Computer Society Conference ON, IEEE, Piscataway, NJ, USA, Jun. 25, 2005, p. 55. cited by other . | International Search Report Dated Apr. 10, 2007. cited by other. | European Search Report for 07706388.1 issued on Feb. 11, 2011. cited by other . | Shoushtarian B. et al, &quot;A practical adaptive approach for dynamic background subtraction using an invariant colour model and object tracking&quot;, Pattern Recognition Letters, Elsevier, Amsterdam, NL, vol. 26 No. 1, Jan. 1, 2005, pp. 5-26. cited by other .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cites">
+		US4779095 | US4912770 | US4823184 | US20040239762 | JP2005030801 | JP2004178272 | JP2004122653 | JP2004260305 | JP1999186487
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2006002625 | 2006009757
+	</str>
+	<str name="Priority Date">
+		2006-01-10 | 2006-01-18
+	</str>
+	<str name="Assignee(s)">
+		PANASONIC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		PANASONIC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Osaka, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s)">
+		YOKOMITSU, SUMIO | SOTODATE, HIROMICHI | YAN, HAILIN | LEE, CHAK, JOO
+	</str>
+	<str name="1st Inventor">
+		YOKOMITSU, SUMIO
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa, JP | Kanagawa, JP | Singapore, SG | Singapore, SG
+	</str>
+	<str name="Agent/Attorney">
+		PEARNE &amp; GORDON LLP
+	</str>
+	<str name="Primary Examiner">
+		TRAN, SINH
+	</str>
+	<str name="Assistant Examiner">
+		MONK, MARK
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

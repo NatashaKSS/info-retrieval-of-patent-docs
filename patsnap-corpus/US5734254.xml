@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5734254
+	</str>
+	<str name="Application Number">
+		US08759693
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Battery pack and charging system for a portable electronic device
+	</str>
+	<str name="Abstract">
+		A battery pack, adapter and integrated charging system for charging a battery pack of the type used in a portable electronic device such as a notebook computer, a cellular telephone, etc. The battery pack includes a battery coupled through a power converter to a secondary transformer winding. A communication link is provided to the adapter which includes control logic and a power selector. The adapter may be configured to provide DC or AC power to charge a portable electronic device and the processor of a portable electronic device may be used to control charging of an external battery pack.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-12-06
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-12
+	</str>
+	<str name="Publication Date">
+		1998-03-31
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-03
+	</str>
+	<str name="All IPC">
+		H01M10/46
+	</str>
+	<str name="IPC Primary">
+		H01M10/46
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="All UPC">
+		D13/107 | 320/106
+	</str>
+	<str name="UPC Primary">
+		D13/107
+	</str>
+	<str name="UPC Class">
+		D13
+	</str>
+	<str name="Family Members">
+		JP4053121B2 | US5734254 | JP1998174300A
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5455466 | US5327067 | US5200685 | US5483437 | US5367242 | US4998055 | US5206097 | US4942352 | US4873677 | US5600225
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		75969396
+	</str>
+	<str name="Priority Date">
+		1996-12-06
+	</str>
+	<str name="Assignee(s)">
+		HEWLETT-PACKARD COMPANY
+	</str>
+	<str name="1st Assignee">
+		HEWLETT-PACKARD COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Palo Alto, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Palo Alto, CA
+	</str>
+	<str name="Inventor(s)">
+		STEPHENS, CHARLES, S.
+	</str>
+	<str name="1st Inventor">
+		STEPHENS, CHARLES, S.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Corvallis, OR
+	</str>
+	<str name="Inventor(s) Address">
+		Corvallis, OR
+	</str>
+	<str name="Primary Examiner">
+		TSO, EDWARD
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

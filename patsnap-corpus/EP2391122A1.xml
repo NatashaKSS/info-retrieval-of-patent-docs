@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2391122A1
+	</str>
+	<str name="Application Number">
+		EP2010733345
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		DEVICE FOR GENERATING VIDEO DESCRIPTOR
+	</str>
+	<str name="Abstract">
+		The video descriptor generation device includes a first extraction unit, a second extraction unit, and a feature combining unit. The first extraction unit extracts a first feature for each picture which is a frame or a field of a video. The second extraction unit extracts a second feature from a region defined by an edge of an image included in the video. The feature combining unit combines the first feature and the second feature to generate a video descriptor.
+	</str>
+	<str name="Document Types">
+		EP | EPA
+	</str>
+	<str name="Application Date">
+		2010-01-20
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-01
+	</str>
+	<str name="Publication Date">
+		2011-11-30
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		H04N5/76 | H04N5/91 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		H04N5/76
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04N
+	</str>
+	<str name="IPC Group">
+		H04N5
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2009012812
+	</str>
+	<str name="Priority Date">
+		2009-01-23
+	</str>
+	<str name="Assignee(s)">
+		NEC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NEC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		7-1, Shiba 5-chome Minato-ku, Tokyo 108-8001, JP
+	</str>
+	<str name="Assignee(s) Address">
+		7-1, Shiba 5-chome Minato-ku, Tokyo 108-8001, JP
+	</str>
+	<str name="Inventor(s)">
+		OAMI, RYOMA | IWAMOTO, KOTA
+	</str>
+	<str name="1st Inventor">
+		OAMI, RYOMA
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		NEC, Corporation, 7-1, Shiba, 5-chome, Minato-ku, Tokyo, 108-8001, JP
+	</str>
+	<str name="Inventor(s) Address">
+		NEC, Corporation, 7-1, Shiba, 5-chome, Minato-ku, Tokyo, 108-8001, JP | NEC, Corporation, 7-1, Shiba, 5-chome, Minato-ku, Tokyo, 108-8001, JP
+	</str>
+	<str name="Agent/Attorney">
+		BETTEN &amp; RESCH
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

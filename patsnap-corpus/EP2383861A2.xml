@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2383861A2
+	</str>
+	<str name="Application Number">
+		EP2011161352
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		Battery charger for portable electronic equipment
+	</str>
+	<str name="Abstract">
+		There is offered a battery charger for a portable electronic device that has a simple structure and is capable of detecting that the portable electronic device is connected to the battery charger. A first power supply line 13 is connected to a positive terminal (+) of a rechargeable battery 10, while a ground line 15 is connected to a negative terminal (-) of the rechargeable battery 10. An output transistor 11 is connected between the first power supply line 13 and a second power supply line 14. The output transistor 11 is connected to a Vbus terminal of a USB connector 12 through the second power supply line 14. A controller 20 outputs a voltage of an H level to the Vbus terminal to detect a change in a voltage at the Vbus terminal, and judges whether the portable electronic device 30 is connected to the USB connector 12 based on a result of the detection. The controller 20 turns the output transistor 11 on when the portable electronic device 30 is judged to be connected to the USB connector 12.
+	</str>
+	<str name="Document Types">
+		EP | EPA
+	</str>
+	<str name="Application Date">
+		2011-04-06
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-04
+	</str>
+	<str name="Publication Date">
+		2011-11-02
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		H02J7/00
+	</str>
+	<str name="IPC Primary">
+		H02J7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02J
+	</str>
+	<str name="IPC Group">
+		H02J7
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2010087598
+	</str>
+	<str name="Priority Date">
+		2010-04-06
+	</str>
+	<str name="Assignee(s)">
+		ON SEMICONDUCTOR TRADING LTD.
+	</str>
+	<str name="1st Assignee">
+		ON SEMICONDUCTOR TRADING LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		1 Lane Hill Hamma Building 3rd Floor, Hamilton HM 19, BM
+	</str>
+	<str name="Assignee(s) Address">
+		1 Lane Hill Hamma Building 3rd Floor, Hamilton HM 19, BM
+	</str>
+	<str name="Inventor(s)">
+		ARAI, NOBUHIRO | YAMADA, SUSUMU
+	</str>
+	<str name="1st Inventor">
+		ARAI, NOBUHIRO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Sanyo, Semiconductor, Co., Ltd., Law, &amp;amp, IP, Dept., 1-1-1, Sakata, Oizumi-machi, Ora-gun, Gunma, 370-0596, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Sanyo, Semiconductor, Co., Ltd., Law, &amp;amp, IP, Dept., 1-1-1, Sakata, Oizumi-machi, Ora-gun, Gunma, 370-0596, JP | Sanyo, Semiconductor, Co., Ltd., Law, &amp;amp, IP, Dept., 1-1-1, Sakata, Oizumi-machi, Ora-gun, Gunma, 370-0596, JP
+	</str>
+	<str name="Agent/Attorney">
+		GLAWE, DELFS, MOLL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7572352
+	</str>
+	<str name="Application Number">
+		US10536610
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and plant for desalinating salt-containing water
+	</str>
+	<str name="Abstract">
+		Salt-containing water is desalinated by first passing salt-containing water through a heat exchanger disposed in a basin containing solar-heated brine formed by several layers of water lying one above the other in the basin, each of the layers of water forming the brine having a higher salt content than the layer present there above. The heat exchanger is in the lowermost layer of water having a higher temperature than the temperature of the layers of water lying above the lowermost layer of water. The salt-containing water is heated in the basin by solar energy indirect heat exchange with the solar-heated brine to obtain heated salt-containing water. At least part of the heated salt-containing water is evaporated to obtain water vapor, and the water vapor is condensed to obtain desalinated water.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-11-26
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-11
+	</str>
+	<str name="Publication Date">
+		2009-08-11
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-08
+	</str>
+	<str name="All IPC">
+		B01D3/00 | F28D20/00 | C02F1/14
+	</str>
+	<str name="IPC Primary">
+		B01D3/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D3
+	</str>
+	<str name="All UPC">
+		202/176 | 203/DIG.17 | 203/DIG.8 | 202/234 | 202/235 | 159/903 | 159/DIG.32 | 203/DIG.1 | 202/185.3 | 203/23 | 159/47.3 | 126/567 | 203/10 | 203/27
+	</str>
+	<str name="UPC Primary">
+		202/176
+	</str>
+	<str name="UPC Class">
+		202
+	</str>
+	<str name="Family Members">
+		AP200503324D0 | IS7869A | ES2265116T3 | AU2003289681A1 | AU2003289681B2 | GB2411397B | EP1565408A1 | EP1565408B1 | HR20050476A2 | US20060130826A1 | AP1804A | NL1022059C2 | DE60305343D1 | DE60305343T2 | JP2006507925A | US7572352 | WO2004048273A1 | BR0316637A | DK1565408T3 | GB0511694D0 | KR1020050085180A | ZA200504347A | PT1565408E | IS2311B | NO324258B1 | CN100343176C | CN1732130A | MXPA05005693A | AU2003289681A8 | AT326428T | CA2507485A1 | EA008492B1 | MA27531A1 | NO20052582A | NO20052582D0 | HK1082492A1 | NZ540848A | GB2411397A | PL375485A1
+	</str>
+	<str name="Family Member Count">
+		39
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4478685 | US4328788 | US6494995 | US6165326 | US6027607 | US5582690 | US4135985 | DE1022059 | GB2016938
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		NL
+	</str>
+	<str name="Priority Number">
+		1022059
+	</str>
+	<str name="Priority Date">
+		2002-11-28
+	</str>
+	<str name="Inventor(s)">
+		VAN, ELS, HANS, JOSEF
+	</str>
+	<str name="1st Inventor">
+		VAN, ELS, HANS, JOSEF
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		D-40474, Dusseldorf, DE
+	</str>
+	<str name="Inventor(s) Address">
+		D-40474, Dusseldorf, DE
+	</str>
+	<str name="Agent/Attorney">
+		WILFORD, ANDREW
+	</str>
+	<str name="Primary Examiner">
+		MANOHARAN, VIRGINIA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

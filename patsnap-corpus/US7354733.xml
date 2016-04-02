@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7354733
+	</str>
+	<str name="Application Number">
+		US10105628
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for sorting and separating living cells
+	</str>
+	<str name="Abstract">
+		We disclose methods of sorting or separating mixtures of living cells (e.g., eukaryotic, prokaryotic, mammalian, pathogenic, bacterial, viral, etc.). We perform our methods by activating cell-selective photophoric labels, which photosensitize and chemically reduce a photosensitive metal compound to form metal grains, particles or crystals. The metal adheres to the cells and forms the basis for sorting or separating different cell types. Photophoric labels may include chemiluminescent agents such as peroxidase enzymes activated with peroxidase substrates capable of luminescence. Photosensitive metal compounds may be present in a light-sensitive matrix or emulsion containing photosensitizable metal compounds, which form metal grains, particles or crystals upon exposure to a developer solution. Developer solutions are formulated to substantially allow living cells to remain viable after exposure to the developing solution. Our methods are useful in flow cytometry and fluorescence activated cell sorting (FACS) methods, microdissection methods, and for attracting, sedimenting, depositing, layering, attaching, adhering, bonding, binding, trapping or suspending cells on surfaces.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-03-26
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-03
+	</str>
+	<str name="Publication Date">
+		2008-04-08
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		C12Q1/28
+	</str>
+	<str name="IPC Primary">
+		C12Q1/28
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12Q
+	</str>
+	<str name="IPC Group">
+		C12Q1
+	</str>
+	<str name="All UPC">
+		216/100 | 427/404 | 435/7.92 | 435/7.91 | 436/73 | 210/748 | 210/702 | 436/529 | 436/528 | 216/85 | 427/125 | 216/84 | 216/87 | 436/525 | 427/123 | 435/177 | 427/126.1 | 435/178 | 356/36 | 436/182 | 427/126.5 | 435/960 | 427/126.3 | 430/464 | 435/173.2 | 435/173.4 | 435/174 | 435/173.9 | 435/176 | 435/380 | 436/80 | 436/905 | 436/801 | 427/443.1 | 436/539 | 435/7.2 | 435/168 | 435/29 | 210/719 | 427/283 | 435/207 | 435/7.9 | 435/7.72 | 435/30 | 430/264 | 427/595 | 430/16 | 435/968 | 430/8 | 356/38 | 210/723 | 210/721 | 435/308.1 | 216/24 | 427/352 | 427/419.1 | 436/63 | 427/2.11 | 210/758 | 356/317 | 356/311 | 435/194 | 427/2.13 | 435/192 | 210/757 | 427/581 | 435/28 | 436/519 | 435/21 | 435/24 | 250/462.1 | 435/23
+	</str>
+	<str name="UPC Primary">
+		216/100
+	</str>
+	<str name="UPC Class">
+		216
+	</str>
+	<str name="Family Members">
+		US7354733 | US20020198928A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		12
+	</str>
+	<str name="Other References">
+		Lillie, R.D. Metal reduction reactions of the melanins: Histochemical studies. J. Histochem. Cytochem. 1957;5:325-333. cited by examiner . | Merchenthaler, I. et al. A highly sensitive one-step method for silver intensification of the nickel-diaminobenzidine endproduct of peroxidase reaction. J. Histochem. Cytochem. 1989;37:1563-1565. cited by examiner . | Ahern, A.M. &amp; Garrell, R.L. In situ photoreduced silver nitrate as a substrate for surface-enhanced Raman spectroscopy. Anal. Chem. 1987;59:2813-2816. cited by examiner . | Liposits, Z. et al. Ultrastructural analysis of central serotoninergic neurons immunolabeled by silver-gold-intensified diaminobenzidine chromogen. J. Histochem. Cytochem. 1985;33:604-610. cited by examiner . | Smiley, J.F. &amp; Goldman-Rakic, P.S. Silver-enhanced diaminobenzidine-sulfide (SEDS): A technique for high-resolution immunoelectron microscopy demonstrated with monoamine immunoreactivity in monkey cerebral cortex and caudate. J. Histochem. Cytochem. 1993;41:1393-1404. cited by examiner . | Gorcs, T.J. et al. The use of gold-substituted silver-intensified diaminobenzidine (DAB) and non-intensified DAB for simultaneous electron microscopic immunoperoxidase labeling of tyrosine hydroxylase and glutamic acid decarboxylase immunoreactivity in the rat medial preoptic area. J. Histochem. Cytochem. 1986;34:1439-1447. cited by examiner . | Kodak, Inc. Materials Safety Data Sheet, Product code 1901859 (Kodak GBX Developer). cited by examiner . | Gallyas: &quot;supression of the argyrophil III reaction by mercapto compounds (A preequisite for the intesification of certain histochemical reactions by physical developers)&quot; Acta Histochemica, vol. 70, No. 1, 1982, pp. 99-105, XP009062279 abstract p. 103, paragraph 2--p. 105, paragraph 2. cited by other. | Konttinen, Y.T. et al. An immunoperoxidase-autoradiography double labeling method for analysis of lymphocyte activation markers and DNA synthesis. J. Immunol. Methods. 1988;110:19-27. cited by examiner . | Halbhuber, K.J. et al. Reflectance enzyme histochemistry (REH): visualization of cerium-based and DAB primary reaction products of phosphatases and oxidases in cryostat sections by confocal laser scanning microscopy. Histochem. Cell Biol. 1996;105:239-249. cited by examiner . | Mullink, H. et al. Application and comparison of silver intensification methods for the diaminobenzidine and diaminobenzidine-nickel endproduct of the peroxidation reaction in immunohistochemistry and in situ hybridization. J. Histochem. Cytochem. 1992;40:495-504. cited by examiner . | Ilford, Ltd. New photographic emulsions of interest to physicists. J. Sci. Instrum. 1935;12:333-335. cited by examiner . | Gallyas, F. &amp; Merchenthaler, I. Copper-H2O2 oxidation strikingly improves silver intensification of the nickel-diaminobenzidine (Ni-DAB) end-product of the peroxidase reaction. J. Histochem. Cytochem. 1988;36:807-810. cited by examiner . | Van de Sande, CC. Dye diffusion systems in color photography. Angew. Chem. Int. Ed. Engl. 1983;22:191-209. cited by examiner . | Keller, K. et al. Photography. Ullmann's Encyclopedia of Industrial Chemistry, vol. 26, John Wiley &amp; Sons, Inc. (2007). (publisher's online publication date, Jun. 15, 2000). pp. 1-169. cited by examiner . | Green, M.A. et al. Improved method for immunoperoxidase detection of membrane antigens in frozen sections. J. Clin. Pathol. 1989;42:875-880. cited by examiner . | Gallyas, F. &amp; Wolff, J.R. Metal-catalyzed oxidation renders silver intensification selective. J. Histochem. Cytochem. 1986;34:1667-1672. cited by examiner . | Toni, R. &amp; Lechan, R.M. 1-naphthol-pyronin B as a novel substrate for silver intensification: Application to light and electron microscopic immunocytochemistry of neuroendocrine systems. J. Histochem. Cytochem. 1990;38:1209-1214. cited by examiner . | Quinn, B. &amp; Graybiel, A.M. A differentiated silver intensification procedure for the peroxidase-diaminobenzidine reaction. J. Histochem. Cytochem. 1996;44:71-74. cited by examiner . | Vo-Dinh, T. Surface-enhanced Raman spectroscopy using metallic nanostructures. Trends Anal. Chem. 1998;17:557-582. cited by examiner . | Reeves, S.G. &amp; Hall, D.O. Higher plant chloroplasts and grana: general preparative procedures (excluding high carbon dioxide fixation ability chloroplasts. Methods Enzymol. 1980;69:85-94. cited by examiner . | Ilford Q Plates, Fact Sheet (Dec. 2005), Ilford Photo, Harman Technology, Ltd., available at &lt;http://www.ilfordphoto.com&gt; (retrieved Oct. 15, 2007). pp. 1-2. cited by examiner . | Gallyas, F. et al. High-grade intensification of the end-product of the diaminobenzidine reaction for peroxidase histochemistry. J. Histochem. Cytochem. 1982;30:183-184. cited by examiner . | van den Pol, A.N. Tyrosine hydroxylase immunoreactive neurons throughout the hypothalamus receive glutamate decarboxylase immunoreactive synapses: A double pre-embedding immunocytochemical study with particulate silver and HRP. J. Neurosci. 1986;6:877-891. cited by examiner . | International Search Report for PCT/IL02/00256, mailed Dec. 7, 2004. cited by other . | LeBouteiller, P.P. &amp; Asherson, G.L. Detection of radiolabelled bone marrow cells bearing surface immunoglobulins by combined autoradiography and immunoperoxidase. J. Immunol. Methods. 1981;41:173-186. cited by examiner . | Goto, S. et al. A simple enhancement method for the silver-gold-intensified diaminobenzidine reaction in the light microscopic immunoperoxidase technique. J. Histochem. Cytochem. 1992;40:1423-1425. cited by examiner . | Vo-Dinh, T. et al. Surface-enhanced Raman gene probes. Anal. Chem. 1994;66:3379-3383. cited by examiner . | Burton, M.P. et al. Comparison of histologic stains for use in PCR analysis of microdissected, paraffin-embedded tissues (Short technical reports). BIOTECHNIQUES. 1998;24:86-91. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		29
+	</str>
+	<str name="Cited By">
+		US7659486 | US8003377 | US8138437 | US8177069 | US8158902 | US8360347 | US8201692 | US8038964 | WO2007056560A2 | US8288120 | US8360242
+	</str>
+	<str name="Cited By Count">
+		11
+	</str>
+	<str name="Cites">
+		US4472498 | US6060237 | US5064768 | US6340599 | US5618732 | US5536834 | US5672478 | US6316153 | US4313734 | US6162278 | US5037762 | US20060172278 | US5780646 | US5536644 | US6316267 | US6586193 | US5516636 | US6495195 | US6369206 | US5198369 | US7204971 | US3684511 | US5116734 | US5527731 | US7285412 | US5108933 | US6406913 | US4103073 | US6134747 | US4315998 | US5332662 | US4356256 | US5192688 | US6875329 | US4054646 | US5578498 | US6180415 | US7022523 | US6916667 | US4802951 | US20050233442 | US4521522 | US5616719 | US6387707 | US6881589 | US6136182 | US5466575 | US5674755 | US6495340 | US7229842 | US5807675 | US5028339 | US5279936 | US6143514 | US6887703 | US6893850 | US4698302 | US5989923 | US4935147 | US20040053326 | US6303516 | US4732736 | US5176999 | US6897015 | US4690901 | US6258607 | US5269903 | US4659655 | US6770488 | US5432077 | US5602029 | US6127122 | US6368866 | US4666862 | US6087134 | US6177151 | US3600182 | US7071006 | US5593814 | US6576461 | US4420558 | US5221446 | US5340716 | US5206122 | US4912035 | US6613578 | US4385119 | US5595878 | US4582808 | US6905738 | US4713324 | US5521289 | US6194157 | US5752606 | US20050100976 | US4661451 | US6225047 | US5428451 | US5608519 | US20040231988 | US5212382 | US3776730 | US6010888 | US6180354 | US6251516 | US20060134692 | US4434234 | US6159681 | US4687736 | US4084902 | US4634628 | US6159686 | US7074622 | US6159689 | US5076950 | US20030060873 | US5714757 | US6197387 | US4777145 | US3689391 | US4853186 | US4337063 | US4337065 | US6214560 | US20030203002 | US6635489 | US6852425 | US4893886 | US4621063 | US5998129 | US4331444 | US6251691 | US4746607 | US20040265922 | US3694207 | US5637508 | US7060473 | US6501071 | US6703235 | US4404289 | US6958245 | US5705622 | US5093238 | US4135976 | US4857271 | US4677067 | US5202227 | US5045477 | US6767928 | US6251581 | US6670113 | US6204030 | US2666355 | US6645464 | US6955639 | US2289367 | US5439829 | US5709994 | US5932309 | US6514734 | US6444453 | US5141855 | US6541022 | US6692975 | US6139831 | US6547940 | US5306624 | US4966856 | US5366864 | US5567585 | US5922284 | US20040175407 | US4728591 | US5721131 | US4478817 | US6713772 | US5817526 | US3710933 | US6121027 | US4508820 | US4508625 | US3905767 | US7067104 | US5728590 | US6379976 | US4657646 | US6623983 | US5491098 | US4473652 | US6251467 | US4734375 | US5532138 | US5110723 | US4888278 | US3720622 | US6558448 | US20050176068 | US6013532 | US5843644 | US5811311 | US5837454 | US4258001 | US5256271 | US7056748 | US6149789 | US6306594 | US4405711 | US4429050 | US5476796 | US4084967 | US5843657 | US5935779 | US4097278 | US5445944 | US5681755 | US5296111 | US6514771 | US5470739 | US5266498 | US4416998 | US5770388 | US4188538 | US5793485 | US6121425 | US6228248 | US6346384 | US4414325 | US4414323 | US6706479 | US3515551 | WO1997040385 | EP0372352
+	</str>
+	<str name="Cites Count">
+		232
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		10562802 | 27944701
+	</str>
+	<str name="Priority Date">
+		2002-03-26 | 2001-03-29
+	</str>
+	<str name="Assignee(s)">
+		CELLECT TECHNOLOGIES CORP.
+	</str>
+	<str name="1st Assignee">
+		CELLECT TECHNOLOGIES CORP.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tortola, VG
+	</str>
+	<str name="Assignee(s) Address">
+		Tortola, VG
+	</str>
+	<str name="Inventor(s)">
+		BUKSHPAN, SHMUEL | ZILBERSTEIN, GLEB
+	</str>
+	<str name="1st Inventor">
+		BUKSHPAN, SHMUEL
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Ramat, Hasharon, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Ramat, Hasharon, IL | Rehovot, IL
+	</str>
+	<str name="Agent/Attorney">
+		PEARL COHEN ZEDEK LATZER LLP
+	</str>
+	<str name="Primary Examiner">
+		LE, LONG V.
+	</str>
+	<str name="Assistant Examiner">
+		VENCI, DAVID J.
+	</str>
+	<str name="cited by within 3 years">
+		6
+	</str>
+	<str name="cited by within 5 years">
+		6
+	</str>
+</doc>
+

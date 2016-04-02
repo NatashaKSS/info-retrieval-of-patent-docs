@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6459079
+	</str>
+	<str name="Application Number">
+		US09613995
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Shipboard chemical agent monitor-portable (SCAMP)
+	</str>
+	<str name="Abstract">
+		A portable system for sampling the ambient air of a selected environment for the presence of unwanted chemical warfare vapors, such as nerve or blister gases, is disclosed. The excitation for the electrical elements of the system can be originated from a battery or from an ac excitation. The system comprises a detector unit having first and second ion mobility spectrometers which simultaneously detect and monitor for the presence of the chemical agent vapors so as to provide an accurate and quick determination of the unwanted chemical vapor within the selected environment, without false alarming to non-chemical warfare agent vapors, which act as interferents. The system design also allows monitoring in the presence of electromagnetic interference (EMI).
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-07-11
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-07
+	</str>
+	<str name="Publication Date">
+		2002-10-01
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-10
+	</str>
+	<str name="All IPC">
+		H01J49/40
+	</str>
+	<str name="IPC Primary">
+		H01J49/40
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01J
+	</str>
+	<str name="IPC Group">
+		H01J49
+	</str>
+	<str name="All UPC">
+		250/286
+	</str>
+	<str name="UPC Primary">
+		250/286
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		US6459079
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		AU2002320210B2 | US6798637 | US7071465 | US6924477 | DE10310394A1 | US7345276 | US7339164 | US7946150 | US8022360 | US7841906 | WO2005001464A1 | WO2006129101A1 | US8158933 | US7598489 | US7462825
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5455417 | US5162649 | US6064070 | US5083019 | US5491337 | US6239428 | US5227628 | US5723861 | US5952652 | US3668382 | US5965882 | US5736739 | US5587581 | US4445038 | US5300773
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		61399500
+	</str>
+	<str name="Priority Date">
+		2000-07-11
+	</str>
+	<str name="Assignee(s)">
+		THE UNITED STATES AS REPRESENTED BY THE SECRETARY OF THE NAVY
+	</str>
+	<str name="1st Assignee">
+		THE UNITED STATES AS REPRESENTED BY THE SECRETARY OF THE NAVY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Washington, DC
+	</str>
+	<str name="Assignee(s) Address">
+		Washington, DC
+	</str>
+	<str name="Inventor(s)">
+		MACHLINSKI, KEVIN, J. | POMPEII, MICHAEL, A.
+	</str>
+	<str name="1st Inventor">
+		MACHLINSKI, KEVIN, J.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Crofton, MD
+	</str>
+	<str name="Inventor(s) Address">
+		Crofton, MD | Fredericksburg, VA
+	</str>
+	<str name="Agent/Attorney">
+		BECHTEL, ESQ., JAMES B., POWELL, JR., ESQ., RAYMOND H. J.
+	</str>
+	<str name="Primary Examiner">
+		NGUYEN, KIET T.
+	</str>
+	<str name="cited by within 3 years">
+		9
+	</str>
+	<str name="cited by within 5 years">
+		14
+	</str>
+</doc>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7875176
+	</str>
+	<str name="Application Number">
+		US12399487
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Membrane module for fluid filtration
+	</str>
+	<str name="Abstract">
+		Embodiments of the invention provide a membrane module including a first plurality of fibers capable of filtering fluids that are helically wound in layers creating a mono helix. Fluids to be treated can flow radially with respect to a longitudinal axis of the mono helix or parallel to the longitudinal axis of the mono helix. The membrane module can further include a second plurality of fibers that are helically wound with the first plurality of fibers to create a dual helix. The second plurality of fibers can have different properties than the first plurality of fibers in order to achieve different filtering functionalities.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-03-06
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-03
+	</str>
+	<str name="Publication Date">
+		2011-01-25
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-01
+	</str>
+	<str name="All IPC">
+		B01D61/00 | B01D65/00 | B01D63/00 | C02F1/68
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		96/10 | 210/650 | 210/321.8 | 210/500.23 | 210/263 | 210/636 | 210/760 | 210/321.87
+	</str>
+	<str name="UPC Primary">
+		96/10
+	</str>
+	<str name="UPC Class">
+		96
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6890435 | US6695967 | US6821420 | US20070205146 | US5279739 | US5607593 | US6805806 | US5661117 | US7387723 | US7282155 | US7282146 | US6153097 | US6641733 | US7615157 | US7118674 | US20080072754 | US5104546 | US5674433 | US7378024 | US5853582 | US7329344 | US5873998 | US20020070157 | US6026479 | US6524481 | US4937196 | US6660062 | US6787216 | US5620891 | US20070080111 | US5409841 | US5454947 | US6969465 | US20050115899 | US7410580 | US6767455 | US7122121 | US6663745 | US6974554 | US6423537 | US6805730 | US7022231 | US7160454 | US7160455 | US7476322 | US20040256321 | US20070056893 | US5032524 | US6536605 | US6648945 | US7160463 | US6780466 | US20050263456 | US6942799 | US5725949 | US7179370 | US6074718 | US5837033 | US7070721 | US6333088 | US5607586 | US6375014 | US5895572 | US6555005 | US5026479 | US6596167 | US6921483 | US4881955 | US6270674 | US5450516 | US6454943 | US7344645 | CN201143420 | CN201147676 | WO2009012706 | WO2009006850 | CN201168573
+	</str>
+	<str name="Cites Count">
+		77
+	</str>
+	<str name="Assignee(s)">
+		POROUS MEDIA CORPORATION
+	</str>
+	<str name="1st Assignee">
+		POROUS MEDIA CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		St. Paul, MN
+	</str>
+	<str name="Assignee(s) Address">
+		St. Paul, MN
+	</str>
+	<str name="Inventor(s)">
+		ROLCHIGO, PHILIP, M. | BURBAN, JOHN, H. | SHANAHAN, JOHN | CROWDER, ROBERT, O.
+	</str>
+	<str name="1st Inventor">
+		ROLCHIGO, PHILIP, M.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Eden, Prairie, MN
+	</str>
+	<str name="Inventor(s) Address">
+		Eden, Prairie, MN | Lake, Elmo, MN | White, Bear, Lake, MN | Lino, Lakes, MN
+	</str>
+	<str name="Agent/Attorney">
+		GREENBERG TRAURIG, LLP
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7615153
+	</str>
+	<str name="Application Number">
+		US12151559
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Microbial based chlorinated ethene destruction
+	</str>
+	<str name="Abstract">
+		A mixed culture of Dehalococcoides species is provided that has an ability to catalyze the complete dechlorination of polychlorinated ethenes such as PCE, TCE, cDCE, 1,1-DCE and vinyl chloride as well as halogenated ethanes such as 1,2-DCA and EDB. The mixed culture demonstrates the ability to achieve dechlorination even in the presence of high source concentrations of chlorinated ethenes.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-05-07
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-05
+	</str>
+	<str name="Publication Date">
+		2009-11-10
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		435/252.4 | 210/601 | 435/262.5 | 210/908
+	</str>
+	<str name="UPC Primary">
+		435/252.4
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		US20090277831A1 | US7615153
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6403084 | US20050064576 | US6632364 | US4094742 | WO2004110933 | EP0864542
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		15155908
+	</str>
+	<str name="Priority Date">
+		2008-05-07
+	</str>
+	<str name="Assignee(s)">
+		SAVANNAH RIVER NUCLEAR SOLUTIONS, LLC (AIKEN, SC), CLEMSON UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		SAVANNAH RIVER NUCLEAR SOLUTIONS, LLC (AIKEN, SC), CLEMSON UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Clemson, SC
+	</str>
+	<str name="Assignee(s) Address">
+		Clemson, SC
+	</str>
+	<str name="Inventor(s)">
+		BAGWELL, CHRISTOPHER, E. | FREEDMAN, DAVID, L. | BRIGMON, ROBIN, L. | BRATT, WILLIAM, B. | WOOD, ELIZABETH, A.
+	</str>
+	<str name="1st Inventor">
+		BAGWELL, CHRISTOPHER, E.
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Aiken, SC
+	</str>
+	<str name="Inventor(s) Address">
+		Aiken, SC | Clemson, SC | North, Augusta, SC | Atlanta, GA | Marietta, GA
+	</str>
+	<str name="Agent/Attorney">
+		MULLINAX, LLC, J. BENNETT
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7566403
+	</str>
+	<str name="Application Number">
+		US12/004648
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for eliminating nitrogenous organic compounds from salt-containing water
+	</str>
+	<str name="Abstract">
+		The invention relates to a process for eliminating nitrogenous organic compounds from a salt-containing water which contains more than 0.5% by weight of salt in the form of CaCl.sub.2 or NaCl, less than 200 ppm of dissolved carbonic acid or carbonates and more than 50 ppm of nitrogenous organic compounds, by treating the water by wet oxidation at a temperature of below 100.degree. C. with chlorine or a chlorine-containing oxidizing agent and feeding this, preferably after additional oxidation with a gaseous oxidizing agent and/or by adsorption with an adsorbent, to an electrolysis for producing chlorine and/or sodium hydroxide solution.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-12-21
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-12
+	</str>
+	<str name="Publication Date">
+		2009-07-28
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-07
+	</str>
+	<str name="All IPC">
+		C02F1/68
+	</str>
+	<str name="IPC Primary">
+		C02F1/68
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/761
+	</str>
+	<str name="UPC Primary">
+		210/761
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		KR1020080069127A | JP2008173634A | DE102007004164A1 | US20080210640A1 | US7566403 | CN101229941A | EP1947061A1
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		R Munter et al., &quot;Advanced Oxidation Processes (AOPs): Water Treatment Technology for the Twenty-first Century&quot;, Kemia-Kemi vol. 28 (2001) 5. cited by other | J. Fehn, K. Held, Wasser Abwasser, 136 (1995) No. 6. cited by other | R. Hernandez et al., Journal of Hazardous Materials 92 (2002) 33-55. cited by other | &quot;Ullmann's Encyclopedia of Industrial Chemistry&quot;, 2002, Wiley-VCH-Verlag GmbH und Co. KGaA lines 1-15. cited by other | Oliviero R., et al., &quot;Wet Air Oxidation of Nitrogen-Containing Organic Compounds and Ammonia in Aqueous Media&quot;, Applied Catalysis B Environmental, vol. 40, (2003), pp. 163-184. cited by other | Kolaczkowski, S., et al.; &quot;Wet Air Oxidation: A Review of Process Technologies and Aspects in Reactor Design&quot;, Chemical Engineering Journal, vol. 73, (1999), pp. 143-160. cited by other | Luck, F.; &quot;Wet Air Oxidation: Past, Present and Future&quot;, Catalysis Today, vol. 52, (1999), pp. 81-91. cited by other | Mishra, V., &quot;Wet Air Oxidation&quot;, Industrial Engineering Chemical Resources, vol. 34, (1995), pp. 2-48. cited by other.
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cites">
+		US3779909 | US4056469 | US5221486 | US6153151 | US6423236 | EP1243562 | GB1518117 | JP1979042851 | JP1992145997 | WO2000078682
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102007004164
+	</str>
+	<str name="Priority Date">
+		2007-01-22
+	</str>
+	<str name="Assignee(s)">
+		LANXESS DEUTSCHLAND GMBH
+	</str>
+	<str name="1st Assignee">
+		LANXESS DEUTSCHLAND GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Leverkusen, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Leverkusen, DE
+	</str>
+	<str name="Inventor(s)">
+		WEI.BETA., THOMAS | NYSSEN, PETER-ROGER | BERTRAM, HORST | STOLP, GUNTHER | WAGNER, PAUL
+	</str>
+	<str name="1st Inventor">
+		WEI.BETA., THOMAS
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Ilvesheim, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Ilvesheim, DE | Dormagen, DE | Koln, DE | Koln, DE | Dusseldorf, DE
+	</str>
+	<str name="Agent/Attorney">
+		MILLER, MICHAEL A.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

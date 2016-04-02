@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7972511
+	</str>
+	<str name="Application Number">
+		US12591163
+	</str>
+	<str name="Title">
+		Anaerobic treatment method and anaerobic treatment apparatus
+	</str>
+	<str name="Abstract">
+		A method and apparatus of anaerobic treatment which makes it possible to prevent disintegration of granular sludge and perform high-load high-velocity anaerobic treatment stably even in the case where treatment is performed under conditions where the granular sludge is easily disintegrated. In a reaction tank 20 which retains the granular sludge, nitric acid or nitrous acid is adjusted so that they have a certain concentration range. For example, nitric acid is added to the liquid to be treated by connecting the nitric acid addition path 12 to a midway point of the path of the liquid to be treated 31 which introduces the liquid to be treated to the reaction tank 20, and nitric acid is mixed with the liquid to be treated. By introducing nitric acids within the reaction tank 20, denitrifying bacteria etc. can multiply, and disintegration of the granules is prevented.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-11-10
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-11
+	</str>
+	<str name="Publication Date">
+		2011-07-05
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F3/28
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/928 | 210/631 | 210/610 | 435/262.5 | 210/616
+	</str>
+	<str name="UPC Primary">
+		210/928
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report for PCT/JP2008/055003, mailed Jun. 24, 2008. cited by other . | European Search Report dated Apr. 26, 2011 in corresponding European Patent Application 08722397.0. cited by other. | Karim K et al., &quot;Effect of shock and mixed nitrophenolic loadings on the performance of UASB reactors&quot;, Water Research, Elsevier, Amsterdam, NL, vol. 40, No. 5, Mar. 1, 2006, pp. 935-942. cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20060043018 | US20040256317 | US20060191846 | US6015496 | JP2004000955 | JP2001137889 | JP1992007099 | JP1996281284 | JP1992310294 | JP2003024988 | JP1986197096 | JP2563004 | JP2005342588 | JP1995155790 | JP2003039093 | JP2006272252 | JP2000024687 | JP1994154785 | JP1999285696
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Assignee(s)">
+		KURITA WATER INDUSTRIES LTD.
+	</str>
+	<str name="1st Assignee">
+		KURITA WATER INDUSTRIES LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		TOKUTOMI, TAKAAKI | YODA, MOTOYUKI
+	</str>
+	<str name="1st Inventor">
+		TOKUTOMI, TAKAAKI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

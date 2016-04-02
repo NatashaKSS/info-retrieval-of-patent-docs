@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20030063781A1
+	</str>
+	<str name="Application Number">
+		US09966409
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Face recognition from a temporal sequence of face images
+	</str>
+	<str name="Abstract">
+		A system and method for classifying facial images from a temporal sequence of images, comprises the steps of: training a classifier device for recognizing facial images, the classifier device being trained with input data associated with a full facial image; obtaining a plurality of probe images of the temporal sequence of images; aligning each of the probe images with respect to each other; combining the images to form a higher resolution image; and, classifying said higher resolution image according to a classification method performed by the trained classifier device.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-09-28
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-09
+	</str>
+	<str name="Publication Date">
+		2003-04-03
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-04
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		EP1586071A2 | US20030063781A1 | JP2005512172A | WO2005030084A3 | WO2003030084A2 | CN1636226A
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		96640901
+	</str>
+	<str name="Priority Date">
+		2001-09-28
+	</str>
+	<str name="Assignee(s)">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="1st Assignee">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		VASANTH PHILOMIN | MIROSLAV TRAJKOVIC | SRINIVAS GUTTA
+	</str>
+	<str name="1st Inventor">
+		VASANTH PHILOMIN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Briaroliff Manor,NY,US
+	</str>
+	<str name="Inventor(s) Address">
+		Briaroliff Manor,NY,US | Ossining,NY,US | Buchanan,NY,US
+	</str>
+	<str name="Agent/Attorney">
+		CORPORATE PATENT COUNSEL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

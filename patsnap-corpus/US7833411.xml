@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7833411
+	</str>
+	<str name="Application Number">
+		US11882281
+	</str>
+	<str name="Title">
+		Ballast water treatment apparatus
+	</str>
+	<str name="Abstract">
+		The present invention provides a ballast water treatment system including a reaction tank in which raw water and ozone are imported and made to react each other for a predetermined period of time to kill microorganisms existing in raw water, an ozone decomposer in which water containing residual ozone discharged from the reaction tank is imported and the residual ozone is decomposed, and a circulation pump installed between the reaction tank and ozone decomposer, forming a circulation system which removes the residual ozone by means of circulating the water containing the residual ozone between the reaction tank and ozone decomposer. Accordingly, this system dispenses with a deaeration tank which would require a wide space for installation, small cost and is able to be applied to existing ships easily.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-07-31
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-07
+	</str>
+	<str name="Publication Date">
+		2010-11-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-11
+	</str>
+	<str name="All IPC">
+		C02F1/72
+	</str>
+	<str name="IPC Primary">
+		C02F1/72
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/86 | 210/139 | 210/96.1 | 210/931 | 210/760 | 210/172.1
+	</str>
+	<str name="UPC Primary">
+		210/86
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		English Language Machine Translation of JP 2006-213104 A, pp. 1-10. cited by examiner . | &quot;The New Convention: Ballast Water Convention Adopted,&quot; Global Ballast Water Management Programme, http://globallast.imo.org/mepc.htm &lt;last accessed on Oct. 31, 2007&gt;. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20050155539 | US4172786 | US5494576 | US4243523 | US20030015481 | US6106731 | US3660277 | US20040099608 | US4197200 | US20040168989 | US5932112 | US4252654 | JP2004160437 | WO2003003402 | JP2006213104
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Assignee(s)">
+		MITSUI ENGINEERING &amp; SHIPBUILDING CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		MITSUI ENGINEERING &amp; SHIPBUILDING CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		UEKI, SHUJI | SAITO, MASAHIRO | TAKEMURA, NOBORU | KADOMOTO, YUKIROU | NOJIRI, TAKEO | ONISHI, IZUMI | KUWAJIMA, MASAHIRO | MATSUMOTO, MASABUMI
+	</str>
+	<str name="1st Inventor">
+		UEKI, SHUJI
+	</str>
+	<str name="Number of Inventors">
+		8
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		DUANE MORRIS LLP
+	</str>
+	<str name="Primary Examiner">
+		SOOHOO, TONY G
+	</str>
+	<str name="Assistant Examiner">
+		MELLON, DAVID C
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

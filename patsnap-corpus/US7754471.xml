@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7754471
+	</str>
+	<str name="Application Number">
+		US11070142
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for the high recovery efficiency of sulfur from an acid gas stream
+	</str>
+	<str name="Abstract">
+		A process for the recovery of sulfur from an acid gas stream is disclosed. The process includes a Claus sulfur recovery step in combination with a direct reduction step and a biological sulfur recovery step to provide a sweet gas stream having a very low concentration of hydrogen sulfide and sulfur dioxide. The process includes reacting an acid gas steam with oxygen under such oxidation conditions to yield a combustion gas comprising hydrogen sulfide and sulfur dioxide. The combustion gas is reacted under Claus reaction conditions to yield a reaction gas comprising sulfur. Sulfur is recovered from the reaction gas to yield a Claus tail gas comprising hydrogen sulfide and sulfur dioxide. The Claus tail gas is reacted under direct reduction reaction conditions to yield a direct reduction gas comprising sulfur. Sulfur is recovered from the direct reduction reaction gas to yield a tail gas comprising a concentration of hydrogen sulfide. The direct reduction tail gas is contacted with a lean absorbent to thereby remove from the tail gas a portion of the hydrogen sulfide contained therein and to yield a sweet gas and a rich solvent comprising dissolved hydrogen sulfide. The dissolved hydrogen sulfide of the rich solvent is biologically oxidized to elemental sulfur by contacting the rich solvent with sulfur bacteria under suitable biological oxidation conditions.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-03-02
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2010-07-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-07
+	</str>
+	<str name="All IPC">
+		A62D3/00 | C02F3/34 | B09B3/00 | B09C1/10 | C10G32/00 | A61L9/01
+	</str>
+	<str name="IPC Primary">
+		A62D3/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A62
+	</str>
+	<str name="IPC Subclass">
+		A62D
+	</str>
+	<str name="IPC Group">
+		A62D3
+	</str>
+	<str name="All UPC">
+		435/266 | 435/282 | 435/822 | 435/262.5 | 435/262
+	</str>
+	<str name="UPC Primary">
+		435/266
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report for PCT/US2005/006687 of Jan. 30, 2006. cited by other . | &quot;Jacobs Comprimo Introduces EuroClaus--the Extremely Upgraded Reduction Oxidation Claus Process,&quot; Sulphur, The British Sulphur Co., London, GB, No. 270, Sep. 2000 pp. 65-66, 68, 70, 72, XP000968266. cited by other . | &quot;Industrial Applications of New Sulphur Biotechnology,&quot; by A.J.H.Janssen et al., Water Science and Technology, Elmsford, NY, US, vol. 44, No. 8, 2001, pp. 85-90, XP009044626. cited by other . | Written Opinion for PCT/US2005/006687 of Jan. 30, 2006. cited by other.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cites">
+		US4666852 | US4428921 | US4452772 | US6056934 | US5468458 | US6638057 | US6214311 | US6656249 | US5965100 | US6297189 | US6432873 | US3985861 | US5354545 | US5266274 | US7351392 | US6517801 | WO2000010693 | EP0244659 | WO1998057731 | EP0084410
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Assignee(s)">
+		SHELL OIL COMPANY
+	</str>
+	<str name="1st Assignee">
+		SHELL OIL COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Houston, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s)">
+		CHEN, JEN, KAI | HUFFMASTER, MICHAEL, ARTHUR
+	</str>
+	<str name="1st Inventor">
+		CHEN, JEN, KAI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Katy, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Katy, TX | Houston, TX
+	</str>
+	<str name="Agent/Attorney">
+		STEWART, CHARLES W.
+	</str>
+	<str name="Primary Examiner">
+		NAFF, DAVID M.
+	</str>
+	<str name="Assistant Examiner">
+		WARE, DEBBIE K
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

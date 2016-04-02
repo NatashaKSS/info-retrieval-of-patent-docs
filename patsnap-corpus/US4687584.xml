@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US4687584
+	</str>
+	<str name="Application Number">
+		US06767007
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Sludge remover and processor
+	</str>
+	<str name="Abstract">
+		A sludge remover and processor includes a first vessel holding cleaning liquid and a second, phase separating vessel. Cleaning liquid from the first vessel is sprayed against a dirty surface. A vacuum pump keeps the second vessel upper region at a partial vacuum so cleaning liquid and dislodged matter from the dirty surface is sucked into the second vessel. Solids and liquid are pumped from the second vessel into a solids separator where the larger solids are removed for disposal and liquid is pumped into a centrifuge which removes fine solid particles. The fine particles are mixed with a bulk solidification medium for disposal. Oil collection in the vessels is enhanced by the partial vacuum which lowers the boiling point so tiny bubbles are formed to aid separation of the oily and non-oily phases. Passing the liquid through a centrifuge also aids separation of the oily and non-oily phases in the first vessel.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1985-08-19
+	</str>
+	<str name="Application Year">
+		1985
+	</str>
+	<str name="Application(Year/Month)">
+		1985-08
+	</str>
+	<str name="Publication Date">
+		1987-08-18
+	</str>
+	<str name="Publication Year">
+		1987
+	</str>
+	<str name="Publication(Year/Month)">
+		1987-08
+	</str>
+	<str name="All IPC">
+		B01D45/12 | B08B9/93 | B08B9/08
+	</str>
+	<str name="IPC Primary">
+		B01D45/12
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D45
+	</str>
+	<str name="All UPC">
+		210/258 | 210/769 | 210/776 | 210/525 | 210/806 | 210/808 | 210/804 | 210/805 | 210/360.1 | 210/297 | 210/194 | 210/781
+	</str>
+	<str name="UPC Primary">
+		210/258
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		CA1272564A1 | US4687584 | GB2179243A | GB8525622D0
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		10
+	</str>
+	<str name="Other References">
+		Oliver, J. T., Western Electric Technical Digest No. 37, pp. 19-20, Jan. 1975..
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		EP0967001A2 | WO2003049881A1 | US4886607 | US4954267 | US6190566 | US4986903 | US5098584 | US5271851
+	</str>
+	<str name="Cited By Count">
+		8
+	</str>
+	<str name="Cites">
+		US4416767 | US3447545 | US4530131 | US2139096 | US4466154 | US1176774 | US4134174 | US2834359 | US2860785 | US3262571 | US3502215 | US4053399 | US4192746
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		76700785
+	</str>
+	<str name="Priority Date">
+		1985-08-19
+	</str>
+	<str name="Assignee(s)">
+		INDUSTRIAL INNOVATIONS, INC.
+	</str>
+	<str name="1st Assignee">
+		INDUSTRIAL INNOVATIONS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Stockton, CA); [*] Notice: The portion of the term of this patent subsequent to August 21, 2001 has been disclaimed.
+	</str>
+	<str name="Assignee(s) Address">
+		Stockton, CA); [*] Notice: The portion of the term of this patent subsequent to August 21, 2001 has been disclaimed.
+	</str>
+	<str name="Inventor(s)">
+		URBANI, WILLIAM, G.
+	</str>
+	<str name="1st Inventor">
+		URBANI, WILLIAM, G.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Stockton, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Stockton, CA
+	</str>
+	<str name="Agent/Attorney">
+		TOWNSEND &amp; TOWNSEND
+	</str>
+	<str name="Primary Examiner">
+		SEVER, FRANK
+	</str>
+	<str name="cited by within 3 years">
+		3
+	</str>
+	<str name="cited by within 5 years">
+		4
+	</str>
+</doc>
+

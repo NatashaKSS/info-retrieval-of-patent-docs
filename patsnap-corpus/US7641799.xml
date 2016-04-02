@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7641799
+	</str>
+	<str name="Application Number">
+		US11986402
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of separating isotopes
+	</str>
+	<str name="Abstract">
+		A process in which isotopes of the same element belonging to the alkaline earth metals, transition elements and heavy metals having an atomic mass of less than 209, in particular lanthanide metals, are separated in an aqueous medium by treating an aqueous medium.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-11-21
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-11
+	</str>
+	<str name="Publication Date">
+		2010-01-05
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		C01F13/00 | B01D61/00 | C01F17/00
+	</str>
+	<str name="IPC Primary">
+		C01F13/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C01
+	</str>
+	<str name="IPC Subclass">
+		C01F
+	</str>
+	<str name="IPC Group">
+		C01F13
+	</str>
+	<str name="All UPC">
+		210/652 | 210/651 | 423/DIG.7 | 423/2 | 423/1 | 210/638 | 423/21.1 | 210/634
+	</str>
+	<str name="UPC Primary">
+		210/652
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080073272A1 | US7641799
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Whitworth T M et al: &quot;Isotopic Fractionation and Overall Permeation of Lithium by a Thin-Film Composite Polyamide Reverse Osmosis Membrane&quot; Journal of Membrane Science, Elsevier Scientific Publ. Company. Amsterdam, NL vol. 88 No. 2/3, Mar. 16, 1994, pp. 231-241.XP000488346ISSN: 0376-7388. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US2835687 | US5766478 | US5332531 | US4600566 | US6245305 | US7318899 | US6843917 | US5342604 | US5618433 | US3953568 | US6506706 | US6214301 | US7087206 | US6335420 | US5110566 | US5470479 | US6623644 | FR1583034 | FR881316 | EP0142126 | EP0173484 | WO1992000675 | FR2600264 | WO19959600123 | WO19959600124 | FR2214509
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		US | US | FR
+	</str>
+	<str name="Priority Number">
+		98640207 | 25083303 | 0100037
+	</str>
+	<str name="Priority Date">
+		2007-11-21 | 2003-10-29 | 2001-01-05
+	</str>
+	<str name="Assignee(s)">
+		FRAMATOME ANP
+	</str>
+	<str name="1st Assignee">
+		FRAMATOME ANP
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Courbevoie, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Courbevoie, FR
+	</str>
+	<str name="Inventor(s)">
+		LEMAIRE, MARC | FOOS, JACQUES | GUY, ALAIN | CHITRY, FREDERIC | PELLET-ROSTAING, STEPHANE | VIGNEAU, OLIVIER
+	</str>
+	<str name="1st Inventor">
+		LEMAIRE, MARC
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Villeurbanne, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Villeurbanne, FR | Orsay, FR | Pontcarre, FR | Villeurbanne, FR | Villeurbanne, FR | Lyons, FR
+	</str>
+	<str name="Agent/Attorney">
+		DAVIDSON, DAVIDSON &amp; KAPPEL, LLC
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

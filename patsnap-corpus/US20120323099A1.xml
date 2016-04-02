@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120323099A1
+	</str>
+	<str name="Application Number">
+		US13/594482
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		IMPLANTABLE MEDICAL DEVICE ELECTRODE ASSEMBLY
+	</str>
+	<str name="Abstract">
+		An implantable medical device (IMD) includes an electrode that forms a first snap-fit attachment area and an insulator that forms a through-hole, a second snap-fit attachment area and a third snap-fit attachment area. The second snap-fit attachment area mates with the first snap-fit attachment area of the electrode. The IMD further includes a body including an elongated conductive housing and a feedthrough wire extending therefrom. The body forms a fourth snap-fit attachment area on one end that mates with the third snap-fit attachment area of the insulator such that the feedthrough wire extends through the through-hole of the insulator. The housing encloses at least one of a battery, a sensor, and an electronic circuit. The insulator functions to electrically isolate the electrode from the housing of the body.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2012-08-24
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-08
+	</str>
+	<str name="Publication Date">
+		2012-12-20
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-12
+	</str>
+	<str name="All IPC">
+		A61B5/42 | H01R43/00 | A61B5/01 | A61B5/145 | A61B5/215
+	</str>
+	<str name="IPC Primary">
+		A61B5/42
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61B
+	</str>
+	<str name="IPC Group">
+		A61B5
+	</str>
+	<str name="All UPC">
+		600/345 | 29/825 | 600/347 | 600/381
+	</str>
+	<str name="UPC Primary">
+		600/345
+	</str>
+	<str name="UPC Class">
+		600
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		MEDTRONIC, INC.
+	</str>
+	<str name="1st Assignee">
+		MEDTRONIC, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Minneapolis, MN
+	</str>
+	<str name="Assignee(s) Address">
+		Minneapolis, MN
+	</str>
+	<str name="Inventor(s)">
+		MOTHILAL, KAMAL, D. | PATRAS, GEORGE | CINBIS, CAN
+	</str>
+	<str name="1st Inventor">
+		MOTHILAL, KAMAL, D.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Minneapolis, MN
+	</str>
+	<str name="Inventor(s) Address">
+		Minneapolis, MN | Greenfield, MN | Shoreview, MN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

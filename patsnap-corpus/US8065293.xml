@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8065293
+	</str>
+	<str name="Application Number">
+		US11/923430
+	</str>
+	<str name="Title">
+		Self-compacting pattern indexer: storing, indexing and accessing information in a graph-like data structure
+	</str>
+	<str name="Abstract">
+		An indexing system uses a graph-like data structure that clusters features indexes together. The minimum atomic value in the data structure is represented as a leaf node which is either a single feature index or a sequence of two or more feature indexes when a minimum sequence length is imposed. Root nodes are formed as clustered collections of leaf nodes and/or other root nodes. Context nodes are formed from root nodes that are associated with content that is being indexed. Links between a root node and other nodes each include a sequence order value that is used to maintain the sequencing order for feature indexes relative to the root node. The collection of nodes forms a graph-like data structure, where each context node is indexed according to the sequenced pattern of feature indexes. Clusters can be split, merged, and promoted to increase the efficiency in searching the data structure.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-10-24
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-10
+	</str>
+	<str name="Publication Date">
+		2011-11-22
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/746 | 707/802 | 707/739 | 707/711 | 707/740 | 707/741 | 707/742 | 707/743 | 707/744 | 707/696 | 707/745
+	</str>
+	<str name="UPC Primary">
+		707/746
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Youssef et al.; &quot;Disturbance Utilizing Dynamic Time Warping Classifier&quot;; IEEE Transactions on Power Delivery, vol. 19, No. 1, Jan. 2004; pp. 272-278. cited by other. | Lee et al.; &quot;A New Method to Achieve Fast Acoustic Matching for Speech Recognition&quot;; 4 pgs. cited by other . | Moenne-Loccoz et al.; &quot;Local Feature Trajectories for Efficient Event-Based Indexing of Video Sequences&quot;; 10 pgs. cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20070112765 | US7912839 | US6223155 | US5258924 | US6631346 | US20090043575 | US5857196 | US20020164152 | US6778970 | US5675701 | US6006188 | US6018741 | US20070131094 | US6418412 | US6009387 | US7203635 | US6292778 | US20020133348 | US5819224 | US20090015447 | US6347297
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond, WA
+	</str>
+	<str name="Inventor(s)">
+		MUKERJEE, KUNAL | THOMPSON, III, R., DONALD | COLE, JEFFREY | MEEDER, BRENDAN
+	</str>
+	<str name="1st Inventor">
+		MUKERJEE, KUNAL
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Redmond, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Redmond, WA | Sammamish, WA | Redmond, WA | Redmond, WA
+	</str>
+	<str name="Agent/Attorney">
+		MERCHANT &amp; GOULD
+	</str>
+	<str name="Primary Examiner">
+		COBY, FRANTZ
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

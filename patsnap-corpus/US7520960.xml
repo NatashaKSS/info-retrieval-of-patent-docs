@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7520960
+	</str>
+	<str name="Application Number">
+		US11467395
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for reducing slime production and mixture making the same
+	</str>
+	<str name="Abstract">
+		A method for reducing a production of a build-up slime in a papermaking process is provided. The method includes steps of adding a dispersing agent into the papermaking material to obtain a first mixture, mixing and culturing the first mixture, adding an antagonist into the first mixture to obtain a second mixture, mixing and culturing the second mixture for reducing the production of the slime, and re-adding the antagonist into the mixed and cultured second mixture after a specific time period for further reducing the production of the slime.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-08-25
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-08
+	</str>
+	<str name="Publication Date">
+		2009-04-21
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		D21H21/04 | C12N1/20
+	</str>
+	<str name="IPC Primary">
+		D21H21/04
+	</str>
+	<str name="IPC Section">
+		D
+	</str>
+	<str name="IPC Class">
+		D21
+	</str>
+	<str name="IPC Subclass">
+		D21H
+	</str>
+	<str name="IPC Group">
+		D21H21
+	</str>
+	<str name="All UPC">
+		510/421 | 510/247 | 162/161 | 424/93.1 | 422/28 | 210/749 | 162/189 | 210/611 | 162/199 | 422/37
+	</str>
+	<str name="UPC Primary">
+		510/421
+	</str>
+	<str name="UPC Class">
+		510
+	</str>
+	<str name="Family Members">
+		US20040074621A1 | US20060283568A1 | JP3875638B2 | US7520960 | JP2004137650A
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20040084383 | US20040074621 | US3250667 | US6159999 | US5395530 | US4295932 | US2564430 | US3780172 | US5242593 | US3582463 | US5416109 | US2771823 | US3151020 | US3140974 | US3984390 | US20040132095 | US20030155090 | US5702605 | US5624575 | US20060283568 | US2046614 | US4119537 | US4692316 | US5989391 | US5238572 | US4673509 | US6660168 | US4370199 | US2881071 | US6514458 | US2881070 | US3931038 | US5874453 | US5611939 | US5695652 | US2873249 | US6281002 | US4746511 | US3052605 | US4684469 | US4049417 | JP1998096194 | JP2002205902 | EP0372520 | JP2004137650 | EP0338439 | JP1993170602 | JP2001348797 | DE10035547 | EP0255239 | EP1413675 | JP2003020598 | JP2003306893 | WO1999002037
+	</str>
+	<str name="Cites Count">
+		54
+	</str>
+	<str name="Priority Country">
+		TW
+	</str>
+	<str name="Priority Number">
+		91124140A
+	</str>
+	<str name="Priority Date">
+		2002-10-18
+	</str>
+	<str name="Assignee(s)">
+		YUEN FOONG YU PAPER MFG. CO. LTD.
+	</str>
+	<str name="1st Assignee">
+		YUEN FOONG YU PAPER MFG. CO. LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		TW
+	</str>
+	<str name="Assignee(s) Address">
+		TW
+	</str>
+	<str name="Inventor(s)">
+		WANG, JIHN-YUH
+	</str>
+	<str name="1st Inventor">
+		WANG, JIHN-YUH
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Taipei, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Taipei, TW
+	</str>
+	<str name="Agent/Attorney">
+		ALSTON &amp; BIRD LLP
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, JOSE A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2011046128A1
+	</str>
+	<str name="Application Number">
+		PCT/JP2010/067914
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		CLOTHING FEATURE EXTRACTION DEVICE, PERSON RETRIEVAL DEVICE, AND PROCESSING METHOD THEREOF
+	</str>
+	<str name="Abstract">
+		A &quot;person region&quot; is detected from a video image input from a surveillance camera, the direction of the person in the person region is assessed, separability of the clothing of the person is assessed so as to generate clothing portion separation information, and further, a clothing feature indicating a visual feature of the clothing of the person in the person region is extracted taking into account the person&apos;s direction and the clothing portion separation information. The direction of the person is assessed on the basis of the direction of the face of the person, the movement of the person, and the symmetric property of the clothing. The clothing portion separation information is generated on the basis of analysis information regarding the geometric configuration of the person region, and visible portion information which indicates the clothing portion of the person visualized by the person region and the background region. The person is retrieved on the basis of a matching result between a clothing query text which indicates a type and color of the clothing of the person and the extracted clothing feature of the person.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2010-10-13
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-10
+	</str>
+	<str name="Publication Date">
+		2011-04-21
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-04
+	</str>
+	<str name="All IPC">
+		G06T1/00
+	</str>
+	<str name="IPC Primary">
+		G06T1/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T1
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2009239360
+	</str>
+	<str name="Priority Date">
+		2009-10-16
+	</str>
+	<str name="Assignee(s)">
+		&#26085;&#26412;&#38651;&#27671;&#26666;&#24335;&#20250;&#31038; | &#22823;&#32178;&#12288;&#20142;&#30952; | &#24179;&#24029;&#12288;&#24247;&#21490; | &#39640;&#27211;&#12288;&#31056;&#20171;
+	</str>
+	<str name="1st Assignee">
+		&#26085;&#26412;&#38651;&#27671;&#26666;&#24335;&#20250;&#31038;
+	</str>
+	<str name="Number of Assignees">
+		4
+	</str>
+	<str name="1st Assignee Address">
+		&#12306;1088001 &#26481;&#20140;&#37117;&#28207;&#21306;&#33437;&#20116;&#19969;&#30446;&#65303;&#30058;&#65297;&#21495; Tokyo &#12306;1088001 JP
+	</str>
+	<str name="Assignee(s) Address">
+		&#26085;&#26412;&#38651;&#27671;&#26666;&#24335;&#20250;&#31038; | &#22823;&#32178;&#12288;&#20142;&#30952; | &#24179;&#24029;&#12288;&#24247;&#21490; | &#39640;&#27211;&#12288;&#31056;&#20171;
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

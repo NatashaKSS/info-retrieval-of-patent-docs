@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7860320
+	</str>
+	<str name="Application Number">
+		US11426468
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Classifying image regions based on picture location
+	</str>
+	<str name="Abstract">
+		A method of classifying regions in a digital image or video captured by an image capture device includes providing a geographic location determining device associated with the image capture device; using the location determining device to measure the image capture location at substantially the time that the digital image or video was captured; and classifying regions in the captured digital image or video into one or more classes based on the image-capture location.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-06-26
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-06
+	</str>
+	<str name="Publication Date">
+		2010-12-28
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-12
+	</str>
+	<str name="All IPC">
+		G06K9/70
+	</str>
+	<str name="IPC Primary">
+		G06K9/70
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/227
+	</str>
+	<str name="UPC Primary">
+		382/227
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Luo, Jiebo et al., Self-supervised texture segmentation using complementary types of features, Aug. 28, 2000, Pattern Recognition, 34 (2001) 2071-2082. cited by examiner . | Zipf Alexander, &quot;User-adaptive maps for location-based services (LBS) for tourism&quot;, Information and Communication Technologies in Tourism 2002, Proceedings of the International Conference in Innsbruck, Austria, 2002, Wober, Karl W.; Frew, Andrex J.; Hitz, Martin (Eds.), 2002, XIII, 526 p. 108 illus., Softcover, ISBN: 978-3-211-83780-1. cited by examiner . | Luo, Jiebo et al., A Bayesian network-baseedd framework for semantic image understanding, Aug. 9, 2004, Pattern Recognition, 38 (2005) 919-934. cited by examiner . | &quot;Probabilistic Spatial Context Models for Scene Content Understanding&quot; by Amit Singhal et al., Proceedinkgs 2003 IEEE Conference on Computer Vision and Pattern Recognition CVPR 2003. XP010644903. cited by other. | Cox et al., &quot;Chapter 4.4: Use of Geographic Information Systems and Spatial Analysis in Area-Wide Integrated Pest Management Programmes that Integrate the Sterile Insect Technique&quot;, Sterile Insect Technique, Publisher Springer Netherlands, DOI 10.1007/1-4020-4051-2, Copyright 2005, ISBN 978-1-4020-4050-4 (Print) 978-1-4020-4051-1, pp. 453-477. cited by examiner . | &quot;From Context to Content: Leveraging Context to Infer Media Metadata&quot;, by Marc Davis et al., ACM Multimedia, Proceedings of the International Conference, New York, NY, XP002374239. cited by other . | Iwerks et al., &quot;Visualization of dynamic spatial data and query results over time in a GIS using animation&quot;, Visual Information and Information Systems--Visual'00, Lyon, France, Nov. 2000, 166-177, http://www.cs.umd.edu/.about.hjs/pubs.html. cited by examiner . | Boutell, Matthew R, et al., Learning multi-label scene classification, Mar. 4, 2004, Pattern Recognition, 37 (2004) 1757-1771. cited by examiner . | Benz et al., (&quot;Multi-resolution, object-oriented fuzzy analysis of remote sensing data for GIS-ready information&quot;, Definiens Imaging GmbH, Trappentreustr. 1, D-80339, pp. 239-258, Munich, Germany, Available online Dec. 16, 2003, http://www.sciencedirect.com/science?.sub.--ob=ArticleURL&amp;.sub.--udi=B6VF- 4-4B7N7T9-1&amp;.sub.--user=2502287&amp;.sub.--rdoc=1&amp;.sub.--fmt=&amp;.sub.--orig=sear- ch&amp;.sub.--s. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cites">
+		US20070027591 | US5506644 | US20070183497 | US5754676 | US20050105775 | US20050147298 | US7092573 | US6813395 | US5247356 | US6504571 | WO2003094545 | EP1519568
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Assignee(s)">
+		EASTMAN KODAK COMPANY
+	</str>
+	<str name="1st Assignee">
+		EASTMAN KODAK COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rochester, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Rochester, NY
+	</str>
+	<str name="Inventor(s)">
+		LUO, JIEBO | GALLAGHER, ANDREW, C.
+	</str>
+	<str name="1st Inventor">
+		LUO, JIEBO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Pittsford, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Pittsford, NY | Pittsburgh, PA
+	</str>
+	<str name="Agent/Attorney">
+		OWENS, RAYMOND L.
+	</str>
+	<str name="Primary Examiner">
+		MEHTA, BHAVESH M
+	</str>
+	<str name="Assistant Examiner">
+		ANSARI, TAHMINA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

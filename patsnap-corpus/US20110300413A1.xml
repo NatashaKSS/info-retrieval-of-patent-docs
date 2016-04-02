@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20110300413A1
+	</str>
+	<str name="Application Number">
+		US13/013804
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		BATTERY-OPERATED WIRELESS-COMMUNICATION APPARATUS AND METHOD
+	</str>
+	<str name="Abstract">
+		A combined battery and wireless-communications apparatus and method. In some embodiments, the apparatus includes a support, a first conductive layer deposited on a first surface area of the support, a thin-film battery including a cathode layer, a solid-state electrolyte layer, and an anode layer deposited such that either the anode layer or the cathode layer is in electrical contact with the first conductive layer, an antenna mounted to the support structure, and an electronic communications circuit mounted to the support and electrically coupled to the battery and the antenna to transceive radio communications. Other embodiments include an energy-receiving device mounted to the support structure, and an electronic communications circuit mounted to the support structure and including a recharging circuit, the recharging circuit electrically coupled to the battery and the energy-receiving device to recharge the battery using energy received by the energy-receiving device.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2011-01-25
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-01
+	</str>
+	<str name="Publication Date">
+		2011-12-08
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		H01M10/02 | H01M2/00
+	</str>
+	<str name="IPC Primary">
+		H01M10/02
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="All UPC">
+		429/7 | 429/162
+	</str>
+	<str name="UPC Primary">
+		429/7
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		CYMBET CORPORATION
+	</str>
+	<str name="1st Assignee">
+		CYMBET CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Elk River,MN,US
+	</str>
+	<str name="Assignee(s) Address">
+		Elk River,MN,US
+	</str>
+	<str name="Inventor(s)">
+		JACOBS HARLAN THEODORE | JENSON MARK LYNN | KLAASSEN JODY JON | YAN JENN-FENG
+	</str>
+	<str name="1st Inventor">
+		JACOBS HARLAN THEODORE
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Minneapolis,MN,US
+	</str>
+	<str name="Inventor(s) Address">
+		Minneapolis,MN,US | Zimmerman,MN,US | Minneapolis,MN,US | Maple Grove,MN,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

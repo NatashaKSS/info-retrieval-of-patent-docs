@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7239718
+	</str>
+	<str name="Application Number">
+		US10445825
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for high-speed marker-free motion capture
+	</str>
+	<str name="Abstract">
+		A high-speed marker-free motion capture, which is capable of powerfully detecting a body's feature points corresponding to a body's end portions such as a head, hands, feet, trunk, arms and legs at a high speed in an illumination change or background or noises of cameras. The extracted feature points of the body can be directly tracked stably in a 3-dimensional space. The position errors of the feature points due to the change of the illumination conditions or a shadow can be automatically corrected and the feature points can be stably tracked with respect to overlapping and disappearance of the feature points. Further, when coordinates of the middle joints are estimated using 3-dimensional coordinates of the extracted feature points of the body, the present invention restores a human model by estimating the positions of the middle joints of the actor with high accuracy without using a motion database, thereby securing the stability and reality of the 3-dimensional motion data required in the motion capture.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-05-28
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-05
+	</str>
+	<str name="Publication Date">
+		2007-07-03
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-07
+	</str>
+	<str name="All IPC">
+		G06T7/00
+	</str>
+	<str name="IPC Primary">
+		G06T7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T7
+	</str>
+	<str name="All UPC">
+		382/103 | 345/604
+	</str>
+	<str name="UPC Primary">
+		382/103
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		KR1020040055310A | US20040119716A1 | US7239718
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		23
+	</str>
+	<str name="Other References">
+		Koschan et al. Color Active Shape Models for Tracking Non-Rigid Objects. Pattern Recognition Letters. vol. 24. Issue 11. Jul. 2003. p. 1751-1765. cited by examiner. | John Russ (2002). The Image Processing Handbook, 4th edition. CRC Press. cited by examiner . | Brand et al. A Comparative Assessment of Three Approaches to Pixel-level Human Skin-Detection. Proceedings of the International Conference on Pattern Recognition. vol. 1. IEEE Computer Society. 2000. p. 1056-1059. cited by examiner . | Foley et al. Computer Graphics: Principles and Practice. Addison-Wesley Publishing Company, Inc. 1996. p. 237-242. cited by examiner . | C. Bregler &amp; J. Malik (1998). Tracking people with twists and exponential maps. Computer Vision and Pattern Recognition, p. 8-15. cited by examiner . | A. Azarbayejani &amp; A. Pentland (1996). Real-time self-calibrating stereo person tracking using 3-D shape estimation from blob features. Proc. of the 13th International Conf. on Pattern Recognition, vol. 3, p. 6237-6632. cited by examiner . | C Wren, A. Azarbayejani, T. Darrell, A. Pentland (1996). Pfinder: real-time tracking of the human body. Automatic Face and Gesture Recognition, p. 51-56. Discussion of blob-based algorithms. cited by examiner . | Girondel et al. Hands Detection and Tracking for Interactive Multimedia Applications. ICCVG2002. Sep. 2002. p. 1-6. cited by examiner . | D. Coquin, P. Bolon, B. Ionescu (Aug. 2002). Dissimilarity measures in color spaces. Proceedings, 16.sup.th International Conference on Pattern Recognition, vol. 1, p. 612-615. cited by examiner . | A. Albiol, L. Torres, E. Delp (2001). Optimum color spaces for skin detection. Proceedings 2001 International Conference on Image Processing, vol. 1 p. 122-124. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cited By">
+		US7778446 | US8023726 | US8379970 | WO2009032944A2 | US8144148 | US8175326 | US8207967 | US7418112 | US7590261 | US8259109 | US7580546 | US8331625 | US8350861
+	</str>
+	<str name="Cited By Count">
+		13
+	</str>
+	<str name="Cites">
+		US6140997 | US20040179008 | US6554706 | US20030122831 | US6057859 | US6768489 | US20030215130 | US6191798 | US20030091228 | US6674877 | US20050083333 | US6664531 | US20040017372 | US20020130862 | US6937744 | KR20020007576 | KR20010007478 | KR20000004633 | KR20020005386 | KR20020005234 | KR20010002881 | KR20020001851 | JP1998222668
+	</str>
+	<str name="Cites Count">
+		23
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020020081954
+	</str>
+	<str name="Priority Date">
+		2002-12-20
+	</str>
+	<str name="Assignee(s)">
+		ELECTRONICS &amp; TELECOMMUNICATIONS RESEARCH INSTITUTE
+	</str>
+	<str name="1st Assignee">
+		ELECTRONICS &amp; TELECOMMUNICATIONS RESEARCH INSTITUTE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Taejon, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Taejon, KR
+	</str>
+	<str name="Inventor(s)">
+		PARK, CHANG, JOON | LEE, JI, HYUNG | KIM, DO-HYUNG | NAM, SEUNG, WOO | BAEK, SEONG, MIN | LEE, IN, HO
+	</str>
+	<str name="1st Inventor">
+		PARK, CHANG, JOON
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Taejon, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Taejon, KR | Taejon, KR | Taejon, KR | Taejon, KR | Taejon, KR | Taejon, KR
+	</str>
+	<str name="Agent/Attorney">
+		LOWE HAUPTMAN &amp; BERNER LLP
+	</str>
+	<str name="Primary Examiner">
+		CHAUHAN, ULKA J.
+	</str>
+	<str name="Assistant Examiner">
+		PAPPAS, PETER-ANTHONY
+	</str>
+	<str name="cited by within 3 years">
+		7
+	</str>
+	<str name="cited by within 5 years">
+		9
+	</str>
+</doc>
+

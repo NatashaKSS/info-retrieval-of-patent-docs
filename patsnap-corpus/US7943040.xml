@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7943040
+	</str>
+	<str name="Application Number">
+		US12047213
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Wastewater treatment and recycling system
+	</str>
+	<str name="Abstract">
+		A system and process for removing contaminants from wastewater where the wastewater is treated into a cleaned water that can be reused or discharged into the environment. The wastewater is transported through purification sections, depending on the system including several of the following: pre-treatment via screening and weirs to remove debris and certain heavy solids; a second pretreatment via a sump; strainer; conductivity solution injection system and electrolytic coagulation system; polymer injection system; inline mixers for mixing the polymer in the wastewater stream; retention tubes for providing residence time for the polymer to react in the wastewater stream; a multi-stage separation system comprised of a plurality of water separation compartments for consecutively separating contaminants from the wastewater stream by removing contaminants that float and heavy contaminants that settle to the bottom; and an ozone treatment system. Except for the pretreatment sections, each of the treatment sections are contained within an enclosure cabinet that includes controller and control panels as well and feed containers for the conductivity fluid and polymer.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-03-12
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-03
+	</str>
+	<str name="Publication Date">
+		2011-05-17
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-05
+	</str>
+	<str name="All IPC">
+		C02F1/56 | C02F1/78 | C02F1/463
+	</str>
+	<str name="IPC Primary">
+		C02F1/56
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/199 | 210/195.3 | 210/202 | 210/195.1 | 210/182 | 210/521 | 210/205 | 210/167.3 | 210/167.31 | 210/192 | 210/167.32 | 204/660
+	</str>
+	<str name="UPC Primary">
+		210/199
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Cyclonator--Closed Loop Washrack System, http://www.megator.com/cyclonator.htm, pp. 1-2 (visited Aug. 10, 2006). cited by other . | Hydropad Portable Wash Pad, http://www.ecosentry.com.au/hydropad, pp. 1-3 (visited Aug. 10, 2006). cited by other . | Official Action for Canadian Patent Application No. 2,584,947, dated Jul. 16, 2010. cited by other. | Hydropad Portable Wash Pad, http://www.hydroblaster.com/HydropadPortableWashRack.html, pp. 1-11 (visited Aug. 10, 2006). cited by other . | Taylor et al., U.S. Appl. No. 29/260,139, filed May 18, 2006 for Equipment Control Cabinet for Wash Station or the Like.sup.1 . cited by other . | Sheree DiTerlizzi, Introduction to Coagulation and Flocculation of Wastewater, http://www.rpi.edu/dept/chem-eng/Biotech-Environ/COAG/coag.htm (Fall 1994, visited Apr. 6, 2007). cited by other . | Taylor et al., U.S. Appl. No. 12/032,562, filed Feb. 15, 2008 for Wash Pad and Wash Fluid Containment System. cited by other . | EZ Environmental Solutions Corp.--Drive-On Wash Pad, http://www.ezenvironmental.com/product.asp?page=1224, pp. 1-3 (visited Aug. 10, 2006). cited by other . | Danron Enterprises, Electro-Coagulation Treatment (ECT) System Technology Fact Sheet, http://www.etvcanada,ca/F/data/PDF.sub.--Danron.pdf (Mar. 2006, visited Apr. 6, 2007). cited by other . | Oil Trap Inc., Washwater Treatment ElectroPulse Technology, Recycling Product News, Jul./Aug. 2005. cited by other .
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US2765997 | US6932412 | US6663783 | US7066096 | US4561624 | US3831849 | US6301848 | US20060118149 | US6234408 | US5445730 | US6234409 | US6575858 | US6964820 | USD276902 | US5833295 | USD566624 | US6349715 | US6021792 | US6106712 | US7530362 | US4652368 | US6799591 | US3834657 | US6132509 | US20060273622 | US6715517 | US6132599 | US7775221 | US7258749 | US4792274 | US5958240 | US7118633 | USD329996 | US5611487 | US6550692 | US20040099599 | US5695121 | US6641721 | US3908941 | US20080000507 | US5601659 | US6766822 | US3858761 | US5746904 | US5975480 | US4431548 | US4120210 | US5908550 | USD263037 | US4355834 | US6790349 | US5286302 | USD572212 | US7203979 | US6346197 | USD555303 | US5031602 | US6042702 | US7431835 | US6416101 | USD510545 | US3652044 | US7121288 | US20070056510 | US6655396 | US5413128 | US3064486 | US4367145 | US4246982 | US3923658 | US20090062046 | US1602105 | US4306967 | US6495048 | US5498329 | CA2298122
+	</str>
+	<str name="Cites Count">
+		76
+	</str>
+	<str name="Assignee(s)">
+		KARCHER NORTH AMERICA, INC.
+	</str>
+	<str name="1st Assignee">
+		KARCHER NORTH AMERICA, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Englewood, CO
+	</str>
+	<str name="Assignee(s) Address">
+		Englewood, CO
+	</str>
+	<str name="Inventor(s)">
+		TAYLOR, SHANNON, L. | FREDERICK, RICHARD, W. | LARSON, BERNIE, L. | LINTON, PAUL, W.
+	</str>
+	<str name="1st Inventor">
+		TAYLOR, SHANNON, L.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Vancouver, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Vancouver, WA | Vancouver, WA | Vancouver, WA | Camas, WA
+	</str>
+	<str name="Agent/Attorney">
+		SHERIDAN ROSS P.C.
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

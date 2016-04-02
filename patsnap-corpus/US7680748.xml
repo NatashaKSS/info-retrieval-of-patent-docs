@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7680748
+	</str>
+	<str name="Application Number">
+		US11347422
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Creating a model tree using group tokens for identifying objects in an image
+	</str>
+	<str name="Abstract">
+		Object recognition techniques are disclosed that provide both accuracy and speed. One embodiment of the present invention is an identification system. The system is capable of locating objects in images by searching for local features of an object. The system can operate in real-time. The system is trained from a set of images of an object or objects. The system computes interest points in the training images, and then extracts local image features (tokens) around these interest points. The set of tokens from the training images is then used to build a hierarchical model structure. During identification/detection, the system, computes interest points from incoming target images. The system matches tokens around these interest points with the tokens in the hierarchical model. Each successfully matched image token votes for an object hypothesis at a certain scale, location, and orientation in the target image. Object hypotheses that receive insufficient votes are rejected.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-02-02
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-02
+	</str>
+	<str name="Publication Date">
+		2010-03-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		G06N7/00
+	</str>
+	<str name="IPC Primary">
+		G06N7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06N
+	</str>
+	<str name="IPC Group">
+		G06N7
+	</str>
+	<str name="All UPC">
+		706/20 | 706/12 | 706/13
+	</str>
+	<str name="UPC Primary">
+		706/20
+	</str>
+	<str name="UPC Class">
+		706
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Fei-Fei, L. et al., &quot;Learning Generative Visual Models from Few Training Examples: An Incremental Bayesian Approach Tested on 101 Object Categories,&quot; [online] [Retrieved on May 15, 2006] Retrieved from the Internet&lt;URL:http://www.vision.caltech.edu/feifeili/Fei-Fei.sub.--GMBV- 04.pdf&gt;, pp. 1-9. cited by other . | Lowe, D.G., &quot;Object Recognition from Local Scale-Invariant Features,&quot; Proc. Of the International Conference on Computer Vision, Corfu, Sep. 1999, pp. 1-8. cited by other . | Hiesele et al., Bernd, &quot;Feature Reduction and Hierarchy of Classifiers for Fast Object Detection in Video Images&quot;, IEEE, 2001. cited by examiner . | Walther, D. et al., &quot;Selective Visual Attention Enables Learning and Recognition of Multiple Objects in Cluttered Scenes,&quot; Computer Vision and Image Understanding, 2005, pp. 41-63, vol. 100. cited by other . | Dreschler-Fischer, Leonie, &quot;Feature Selection in Colour Images for Token Matching&quot;, 2000. cited by examiner . | Lowe, D.G., &quot;Distinctive Image Features from Scale-Invariant Keypoints,&quot; Accepted for publication in the International Journal of Computer Vision, 2004, pp. 91-110, vol. 60. cited by other . | Fei-Fei, L. et al., &quot;A Bayesian Approach to Unsupervised One-Shot Learning of Object Categories,&quot; [online] [Retrieved on May 15, 2006] Retrieved from the Internet&lt;URL:http://www.vision.caltech.edu/feifeili/Fei-Fei.s- ub.--ICCV03.pdf&gt;, 8 pages. cited by other . | Heisele et al., Bernd, &quot;Hierarchical Classification and Feature Reduction for Fast Face Detection with Support Vector Machines&quot;, Pattern Recognition 36, 2003. cited by examiner . | Torralba, A. et al., &quot;Sharing Visual Features for Multiclass and Multiview Object Detection,&quot; May 12, 2005, [online] [Retrieved on May 15, 2006] Retrieved from the Internet&lt;URL: http://www.cs.ubc.ca/.about.murphyk/Papers/jointBoostPAMI05.sub.--submitt- ed.pdf&gt;, 35 pages. cited by other . | Sudderth, E.B. et al., &quot;Learning Hierarchical Models of Scenes, Objects and Parts,&quot; Proceedings of the 2005 IEEE International Conference on Computer Vision, Oct. 2005, pp. 1331-1338, Vol. II. cited by other . | Bernd Heisele, &quot;Visual Object Recognition with Supervised Learning&quot;, IEEE, 2003. cited by examiner . | Pfeiffer, M., &quot;Unsupervised Learning of Visual Object Categories,&quot; [online] [Retrieved on May 15, 2006] Retrieved from the Internet&lt;URL:http://www.igi.tugraz.at/pfeiffer/documents/UnsupervisedO- bjectClassRecognition.pdf&gt;, 51 pages. cited by other . | Dolan et al., John, &quot;Computing Curvilinear Structure by Token-based Grouping&quot;, IEEE, 1992. cited by examiner . | Hiesele et al., Bernd, &quot;Face Recognition with Support Vector Machines: Global versus Component-based Approach&quot;, IEEE, 2001. cited by examiner . | Glazer, Frank, &quot;Fiber Identification in Microscopy by Ridge Detection and Grouping&quot;, IEEE, 1992. cited by examiner . | PCT International Search Report and Written Opinion, PCT/US07/61522, Oct. 21, 2008, 10 Pages. cited by other. | &quot;Publications by David Lowe,&quot; [online] [Retrieved on May 15, 2006] Retrieved from the Internet&lt;URL:http://www.cs.ubc.ca/spider/lowe/pubs.html&gt;, 6 pages. cited by other . | Kumar, S., &quot;Models for Learning Spatial Interactions in Natural Images for Context-Based Classification,&quot; Thesis for Degree of Doctor of Philosophy, Carnegie Mellon University, Aug. 2005, pp. 192 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		18
+	</str>
+	<str name="Cites">
+		US6466695 | US7106901 | US6035057 | US20050047647 | US20040042661 | GB2409088
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Assignee(s)">
+		HONDA MOTOR CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		HONDA MOTOR CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		HEISELE, BERND | SHARON, YOAV
+	</str>
+	<str name="1st Inventor">
+		HEISELE, BERND
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Cambridge, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Cambridge, MA | Rehovot, IL
+	</str>
+	<str name="Agent/Attorney">
+		FENWICK &amp; WEST LLP DUELL, MARK E.
+	</str>
+	<str name="Primary Examiner">
+		VINCENT, DAVID R
+	</str>
+	<str name="Assistant Examiner">
+		KENNEDY, ADRIAN L
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

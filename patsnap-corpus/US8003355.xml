@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8003355
+	</str>
+	<str name="Application Number">
+		US12760993
+	</str>
+	<str name="Title">
+		Polymer extraction methods
+	</str>
+	<str name="Abstract">
+		A method of separating a polymer from a biomass containing the polymer, includes contacting the biomass with a solvent system, the solvent system including a solvent for the polymer and a precipitant for the polymer, to provide a residual biomass and a solution that includes the polymer, the solvent for the polymer and the precipitant for the polymer; and applying a centrifugal force to the solution and residual biomass to separate at least some of the solution from the residual biomass; where, the polymer is a polyhydroxyalkanoate; the precipitant comprises at least one alkane; the solvent for the polymer is selected from the group consisting of ketones, esters and alcohols and combinations thereof; and the biomass comprises a slurry of the biomass and water.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-04-15
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-04
+	</str>
+	<str name="Publication Date">
+		2011-08-23
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		C12P7/62
+	</str>
+	<str name="IPC Primary">
+		C12P7/62
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12P
+	</str>
+	<str name="IPC Group">
+		C12P7
+	</str>
+	<str name="All UPC">
+		435/249 | 435/244 | 210/702 | 210/773 | 435/135 | 210/770
+	</str>
+	<str name="UPC Primary">
+		435/249
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Decision of Rejection issued in Japanese Patent Application No. 2004-526138 and mailed on Feb. 16, 2010. cited by other . | First Office Action issued in Chinese Patent Application No. 200810125936.1 issued Sep. 14, 2010. cited by other . | Office Action issued in Canadian Patent Application No. 2,494,322 and dated Jun. 30, 2010. cited by other . | Examiner's Report issued in European Patent Application No. 03 766 892.8 and dated May 19, 2011. cited by other. | Final Office Action for U.S. Appl. No. 10/783,995 mailed Jan. 26, 2010. cited by other . | Notice of Allowance issued in U.S. Appl. No. 12/760,972 and mailed Feb. 22, 2011. cited by other . | Second Office Action in Chinese Patent Application No. 200810125936.1 and issued Apr. 25, 2011. (English translation provided). cited by other . | Non-Final Office Action issued in U.S. Appl. No. 12/760,972 and mailed on Sep. 17, 2010. cited by other . | Notice of Allowance issued in U.S. Appl. No. 11/772,574 and mailed on Dec. 23, 2009. cited by other . | Non-final Office Action issued in U.S. Appl. No. 11/772,574 and mailed on Jun. 12, 2009. cited by other . | EP Communication issued in European Patent Application No. 03766892.8 and dated Dec. 2, 2010. cited by other . | Rejection issued in Japanese Patent Application No. 2004-526138 and mailed on Jun. 11, 2009. cited by other . | Final Office Action issued in U.S. Appl. No. 12/760,972 and mailed Jan. 13, 2011. cited by other . | International Search Report for PCT/US03/23034 mailed Mar. 25, 2004. cited by other . | International Preliminary Report for PCT/US03/23034 completed Jun. 2, 2004. cited by other . | Third Office Action for Chinese Patent Application No. 200480042224.3 issued Dec. 4, 2009. cited by other . | Office Action for Canadian Patent Application No. 2,494,322 and dated Oct. 15, 2009. cited by other . | Office Action issued in Canadian Patent Application No. 2,494,322 and dated Jan. 11, 2011. cited by other .
+	</str>
+	<str name="Other References Count">
+		18
+	</str>
+	<str name="Cites">
+		US5821299 | US20020058316 | US7713720 | US4562245 | US5942597 | US4968611 | US6087471 | US6228934 | US6709848 | US6083729 | US5213976 | US5536419 | US6111006 | US7252980 | US5894062 | US6043043 | US6340580 | US20020156128 | JP1999511025 | BRPI93023120 | JP1984205992 | WO1998046782 | WO1997007230 | CA2234965 | WO2001068890
+	</str>
+	<str name="Cites Count">
+		25
+	</str>
+	<str name="Assignee(s)">
+		METABOLIX, INC.
+	</str>
+	<str name="1st Assignee">
+		METABOLIX, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Cambridge, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Cambridge, MA
+	</str>
+	<str name="Inventor(s)">
+		VAN, WALSEM, JOHAN | ZHONG, LUHUA | SHIH, SIMON, S.
+	</str>
+	<str name="1st Inventor">
+		VAN, WALSEM, JOHAN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Acton, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Acton, MA | Woburn, MA | Kirkland, WA
+	</str>
+	<str name="Agent/Attorney">
+		FOLEY &amp; LARDNER LLP
+	</str>
+	<str name="Primary Examiner">
+		LILLING, HERBERT J.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

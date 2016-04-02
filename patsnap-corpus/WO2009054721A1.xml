@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2009054721A1
+	</str>
+
+	<str name="Application Number">
+		PCT/NL2008/050667
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		TRACKING SYSTEM FOR MOVING OBJECTS, USUALLY ANIMALS, MAINLY MIGRATORY BIRDS AND IN PARTICULAR CARRIER PIGEONS
+	</str>
+
+	<str name="Abstract">
+		The invention relates to a tracking system for tracking the position of moving objects, mainly animals and especially migratory birds and in particular carrier pigeons (11). The tracking system is based on an electronic device that is provided with a radio transceiver operating in the GSM network. By this means a unique identification code such as a telephone number or registration number can be atransmitted via the GSM network (16) to the server (15). As energy source, the electronic device uses a zinc-air battery that can be attached to or detached from the electronic device by a snap connection. It is worth noting that the electronic device can be switched on and off with the aid of an incorporated RFID chip when this is activated by an RFID scanner. The electronic device weighs less than 10 grams so that the bearer of the electronic device, for example, a carrier pigeon is hardly weighed down. The electronic device is water-tight. The chips in the electronic device are fabricated on a basis of hafnium and are interconnected by means of a wafer-level packaging technique.
+	</str>
+
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+
+	<str name="Application Date">
+		2008-10-23
+	</str>
+
+	<str name="Application Year">
+		2008
+	</str>
+
+	<str name="Application(Year/Month)">
+		2008-10
+	</str>
+
+	<str name="Publication Date">
+		2009-04-30
+	</str>
+
+	<str name="Publication Year">
+		2009
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+
+	<str name="All IPC">
+		A01K11/00 | A01K35/00 | G07C1/26 | H04W64/00
+	</str>
+
+	<str name="IPC Primary">
+		A01K11/00
+	</str>
+
+	<str name="IPC Section">
+		A
+	</str>
+
+	<str name="IPC Class">
+		A01
+	</str>
+
+	<str name="IPC Subclass">
+		A01K
+	</str>
+
+	<str name="IPC Group">
+		A01K11
+	</str>
+
+	<str name="Family Members">
+		WO2009054721A1 | NL2000949C2
+	</str>
+
+	<str name="Family Member Count">
+		2
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References">
+		ALBRIGHT:  &quot;New cell phones for the songbirds&quot; CORVALLIS GAZETTE TIMES: ARCHIVED ARTICLES, [Online] 16 October 2005 (2005-10-16), XP002482028 Retrieved from the Internet: URL:http://www.gazettetimes.com/articles/2005/10/17/news/top_story/news01.txt&gt; [retrieved on 2008-05-26] cited in the application
+	</str>
+
+	<str name="Other References Count">
+		1
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Cites">
+		JP2004095967A | JP2005005962A | US6278370 | US7123153 | BE1015147A3 | GB2359951A | US6246376
+	</str>
+
+	<str name="Cites Count">
+		7
+	</str>
+
+	<str name="Priority Country">
+		NL
+	</str>
+
+	<str name="Priority Number">
+		2000949
+	</str>
+
+	<str name="Priority Date">
+		2007-10-23
+	</str>
+
+	<str name="Assignee(s)">
+		SIGHTFLIGHT EUROPE B.V. | BOLTEN, JEAN-BAPTISTE
+	</str>
+
+	<str name="1st Assignee">
+		SIGHTFLIGHT EUROPE B.V.
+	</str>
+
+	<str name="Number of Assignees">
+		2
+	</str>
+
+	<str name="1st Assignee Address">
+		NL-1035 JH Amsterdam, NL
+	</str>
+
+	<str name="Assignee(s) Address">
+		NL-1035 JH Amsterdam, NL | NL-1035 JH Amsterdam, NL
+	</str>
+
+	<str name="Agent/Attorney">
+		KUPECZ, ARP&#192;D, NL-1000 HB AMSTERDAM, NL
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

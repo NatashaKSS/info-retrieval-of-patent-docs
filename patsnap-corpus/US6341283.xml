@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6341283
+	</str>
+	<str name="Application Number">
+		US09216711
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Apparatus for data decomposition and method and storage medium therefor
+	</str>
+	<str name="Abstract">
+		The feature quantity selection vectors, indicating which features among those respecting discrete events are to be selected, are fixed. The feature quantity selection spaces taking discrete features as coordinate axes are divided into each segment, and the number of events contained therein is counted. The segments are arranged in order of diminishing event counts contained therein, and the values for functions evaluating the extent of relevance are scanned in the order of segments for which the segments are arranged from the maximum segment counts in the descending order. When the partial situations determined by selection segment counts that are maximum values take evaluation values as their maximum values, even where the feature quantity selection counts are changed, those partial situations are extracted.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-12-21
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-12
+	</str>
+	<str name="Publication Date">
+		2002-01-22
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-01
+	</str>
+	<str name="All IPC">
+		G06F7/00 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		382/181 | 709/243 | 707/101 | 382/209 | 382/190 | 707/5 | 707/203
+	</str>
+	<str name="UPC Primary">
+		382/181
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		EP0959415A3 | EP0959415B1 | JP1999338855A | DE69832470D1 | JP3762835B2 | US6341283 | EP0959415A2 | DE69832470T2
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		11
+	</str>
+	<str name="Other References">
+		J.R. Quinlan and R.L. Rivest, &quot;Inferring Decision Trees Using the Minimum Description Length Principle&quot; Information and Computation, vol. 80, No. 3, pp. 227-248, Mar. 1989. | Hiroshi Yamakawa : &quot;Matchability-Oriented Feature Selection for Recognition Structure Learning&quot;, IEEE Cat. No. 1015-4651, pp. 123-127, 1996.* | J. Rissanen, &quot;Universal Coding, Information, Prediction and Estimation&quot;, IEEE Trans. on IT, vol. IT-30, No. 4, pp. 629-636, Jul. 1984. | Hirotugu Akaike, &quot;A New Look at the Statistical Model Identification&quot;, IEEE Transactional Automatic Control, vol. AC-19, No. 6, Dec. 1974, pp. 716-723. | R. Agrawal et al.: Mining Association Rules between Sets of Items in Large Database, ACM Cat. No. 0-89791-592, pp. 207-216, May. 1993.* | R. Agrawal et al. &quot;Database mining : A performance Perspective&quot;, IEEE Log No. 9212793, Cat. No. 1041-4347, pp. 914-925, Jun. 1993.*
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By">
+		US7027954 | US7805389 | US7739191 | US6907426 | US7225193 | US7152068 | US8103672 | US7313279 | US7496591 | US8090713 | US8380705
+	</str>
+	<str name="Cited By Count">
+		11
+	</str>
+	<str name="Cites">
+		US5983222 | US5870748 | US5713016 | US6189005 | US5758147 | US5794209 | US5615341 | EP0735497 | JP1997134365 | JP1997134363
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		10139831
+	</str>
+	<str name="Priority Date">
+		1998-05-21
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		YAMAKAWA, HIROSHI | OKADA, HIROYUKI | WATANABE, NOBUO
+	</str>
+	<str name="1st Inventor">
+		YAMAKAWA, HIROSHI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa, JP | Kanagawa, JP | Kanagawa, JP
+	</str>
+	<str name="Agent/Attorney">
+		STAAS &amp; HALSEY LLP
+	</str>
+	<str name="Primary Examiner">
+		BLACK, THOMAS
+	</str>
+	<str name="Assistant Examiner">
+		VEILLARD, JACQUES
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

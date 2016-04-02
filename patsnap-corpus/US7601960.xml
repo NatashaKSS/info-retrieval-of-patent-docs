@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7601960
+	</str>
+	<str name="Application Number">
+		US11648193
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Control for UV water disinfection
+	</str>
+	<str name="Abstract">
+		A UV light source water disinfection system includes a UV light source that is driven or controlled by a ballast. Improved start-up scenarios are provided by use of a separate heating wire around the lamp or employing an inductive-coupled system to provide initial high power requirements. The UV lamp is discontinuously operated in order to extend the life of the system, save energy, and periodically dose standing water to prevent regeneration of undesired microorganisms.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-12-29
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-12
+	</str>
+	<str name="Publication Date">
+		2009-10-13
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		C02F1/32 | B01D21/30
+	</str>
+	<str name="IPC Primary">
+		C02F1/32
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		250/504R | 250/436 | 250/372 | 210/85 | 250/365 | 210/748 | 422/24 | 250/432R | 250/461.1 | 356/51
+	</str>
+	<str name="UPC Primary">
+		250/504R
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		US20080156738A1 | US7601960
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20080156738 | US7068361 | US6773584 | US4336223 | US20040027075 | US20030165398 | US20080257272 | US6200466 | US6274988 | US7396459 | US5610477 | US7089763 | US5324423 | US20050000911 | US5230792 | US6057917 | US7373787 | US5187413 | US5859952 | US7462945 | US6583422 | US20090095691
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		64819306
+	</str>
+	<str name="Priority Date">
+		2006-12-29
+	</str>
+	<str name="Assignee(s)">
+		GENERAL ELECTRIC COMPANY
+	</str>
+	<str name="1st Assignee">
+		GENERAL ELECTRIC COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Schenectady, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Schenectady, NY
+	</str>
+	<str name="Inventor(s)">
+		ALBRECHT, ANDY | FISH, LARRY | DUPLESSIS, SAM | CHEN, TIMOTHY, E.
+	</str>
+	<str name="1st Inventor">
+		ALBRECHT, ANDY
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Shaker, Heights, OH
+	</str>
+	<str name="Inventor(s) Address">
+		Shaker, Heights, OH | Prospect, KY | Louisville, KY | Aurora, OH
+	</str>
+	<str name="Agent/Attorney">
+		FAY SHARPE LLP
+	</str>
+	<str name="Primary Examiner">
+		SOUW, BERNARD E
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

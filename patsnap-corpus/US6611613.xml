@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6611613
+	</str>
+	<str name="Application Number">
+		US09607279
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Apparatus and method for detecting speaking person's eyes and face
+	</str>
+	<str name="Abstract">
+		An apparatus for detecting the position of a human face in an input image or video image and a method thereof are provided. The apparatus includes an eye position detecting means for detecting pixels having a strong gray characteristic to determine areas having locality and texture characteristics as eye candidate areas among areas formed by the detected pixels, in an input red, blue, and green (RGB) image, a face position determining means for creating search templates by matching a model template to two areas extracted from the eye candidate areas, and determining an optimum search template among the created search templates by using the value normalizing the sum of a probability distance for the chromaticity of pixels within the area of a search template, and horizontal edge sizes calculated in the positions of the left and right eyes, a mouth and a nose estimated by the search template, and an extraction position stabilizing means for forming a minimum boundary rectangle by the optimum search template, and increasing count values corresponding to the minimum boundary rectangle area and reducing count values corresponding to an area other than the minimum boundary rectangle area, among count values of individual pixels, stored in a shape memory, to output the area in which count values above a predetermined value are positioned, as eye and face areas. The apparatus is capable of accurately and quickly detecting a speaking person's eyes and face in an image, and is tolerant of image noise.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-06-30
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-06
+	</str>
+	<str name="Publication Date">
+		2003-08-26
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-08
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/209 | 382/118
+	</str>
+	<str name="UPC Primary">
+		382/209
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		KR1020010054674A | NL1016006A1 | NL1016006C2 | US6611613 | JP2001175869A
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		17
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7469074 | US7715632 | US6873714 | US6876777 | US7925093 | US8023701 | US8165344 | US8200045 | US8135184 | US7689011 | US7561741 | US7123754 | US6917705 | US6690822 | US6711286
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US6185337 | US6292575 | US5680481 | US6332033 | US5710833 | US6072893 | US5832115 | US6463163
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		199955577
+	</str>
+	<str name="Priority Date">
+		1999-12-07
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		KR
+	</str>
+	<str name="Assignee(s) Address">
+		KR
+	</str>
+	<str name="Inventor(s)">
+		KANG, DONG-JOONG | RYOO, SUNG-GUL | KIM, JI-YEUN | KIM, CHANG-YEONG | SEO, YANG-SEOCK
+	</str>
+	<str name="1st Inventor">
+		KANG, DONG-JOONG
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Suwon, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Suwon, KR | Suwon, KR | Seoul, KR | Euiwang, KR | Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		BURNS DOANE SWECKER &amp; MATHIS, LLP
+	</str>
+	<str name="Primary Examiner">
+		AHMED, SAMIR
+	</str>
+	<str name="cited by within 3 years">
+		16
+	</str>
+	<str name="cited by within 5 years">
+		21
+	</str>
+</doc>
+

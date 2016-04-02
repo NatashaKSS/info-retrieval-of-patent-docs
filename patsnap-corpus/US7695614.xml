@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7695614
+	</str>
+	<str name="Application Number">
+		US11630297
+	</str>
+	<str name="Title">
+		Continuous closed-circuit desalination apparatus without containers
+	</str>
+	<str name="Abstract">
+		An apparatus for continuous closed-circuit consecutive sequential desalination of a salt water solution by reverse osmosis that comprises a closed circuit system comprising one or more desalination modules having their respective inlets and outlets connected in parallel by conducing lines, each of desalination modules comprising of one or more membrane elements, a pressurizing device for creating counter pressure to enable reverse osmosis desalination and replacement of released permeate by fresh, a circulation system for recycling the desalinated solution through the desalination modules, a conducting line systems for permeate collection from the desalination modules, a conducting line system for removing brine effluent a valve system to enable periodic discharge of brine from the closed circuit without stopping desalination, and monitoring and control systems to enable continuous closed circuit desalination of desired recovery proceed in consecutive sequential steps under variable or constant pressure conditions.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-06-23
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-06
+	</str>
+	<str name="Publication Date">
+		2010-04-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		B01D61/12
+	</str>
+	<str name="IPC Primary">
+		B01D61/12
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/110 | 210/195.2 | 210/137 | 210/321.89
+	</str>
+	<str name="UPC Primary">
+		210/110
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Partial Supplementary European Search Report, EP 05754582, dated Jan. 18, 2010. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6299766 | US20040245175 | US6508937 | US5647973 | US4983301 | US6139724 | US4814086 | DE4331102 | WO2003013704 | WO2002098527 | WO2005016830 | DE10112719 | DE19520917 | DE2622461
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Inventor(s)">
+		EFRATY, AVI
+	</str>
+	<str name="1st Inventor">
+		EFRATY, AVI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Har, Adar, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Har, Adar, IL
+	</str>
+	<str name="Agent/Attorney">
+		LERNER, DAVID, LITTENBERG, KRUMHOLZ &amp; MENTLIK, LLP
+	</str>
+	<str name="Primary Examiner">
+		CECIL, TERRY K
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

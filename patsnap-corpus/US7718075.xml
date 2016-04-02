@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7718075
+	</str>
+	<str name="Application Number">
+		US11815962
+	</str>
+	<str name="Title">
+		Method for improving the consolidation and dewatering of suspended particulate matter
+	</str>
+	<str name="Abstract">
+		Methods are provided for treating suspensions of particles to improve the drainage rate and/or the solids content of flocs of the particles. The method includes the steps of (i) providing a suspension which comprises particles in a fluid; (ii) adding a cyclodextrin compound to the suspension; and (iii) dewatering the suspension by removing at least a portion of the fluid to form a cake comprising the particles. The cyclodextrin compound desirably is added in an amount effective to increase the dewatering rate of the flocs, to increase the solids content, or both, over that rate, solids content, or both, that would be obtained without the addition of the cyclodextrin compound. The suspension may be, for example, a biological or non-biological sludge, or a suspension of pulp fibers, such as in a pulping or papermaking process.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-02-14
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-02
+	</str>
+	<str name="Publication Date">
+		2010-05-18
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		C02F11/14 | C02F1/56
+	</str>
+	<str name="IPC Primary">
+		C02F11/14
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F11
+	</str>
+	<str name="All UPC">
+		210/928 | 210/734 | 210/728 | 210/727 | 210/730
+	</str>
+	<str name="UPC Primary">
+		210/928
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Abraham, &quot;Successful Approaches in Avoiding Stickies, Recycling,&quot; Tappi Journal 81(2): pp. 79-84 (1998). cited by other . | Banerjee, et al., &quot;Evaluating the Effectiveness of Chemicals for Stickies Control,&quot; Institute of Paper Science and Technology, Tappi Journal, pp. 1-7 (2000). cited by other . | Hashimoto, et al., &quot;Wet-end Properties of Cationic Graft Terpolymerized Polyacrylamides,&quot; The Japan Wood Research Society, 50: pp. 271-274 (2004). cited by other . | &quot;Cyclodextrin News,&quot; Chemical Reviews, 98: pp. 1751-1753 (1998). cited by other . | Jones, &quot;factiva,&quot; Dow Jones &amp; Reuters, pp. 1-4 (2005). cited by other . | Smith, Paul G., et al., Dictionary of Water and Waste Management, 2nd Edition, pp. 88 and 175, 2005. cited by other. | Christensen, Jimmy Roland, et al., Mechanisms for Overdosing in Sludge Conditioning, Journal of Environmental Engineering, vol. 119, No. 1, Jan./Feb. 1993, pp. 159-171. cited by other . | Koskinen, et al., &quot;A Sensor for Microstickies,&quot; Recycling, pp. 1-9, Aug. 2002. cited by other . | Szejtli, &quot;Introduction and General Overview of Cyclodextrin Chemistry,&quot; Chemical Reviews, 98(5): pp. 1743-1750 (1998). cited by other . | Yang, et al., &quot;Sludge Compaction with Ash,&quot; pp. 1-3 (2005). cited by other . | Pelton, et al., &quot;Flocculation of Polystyrene Latex with Mixtures of Poly (p-vinylphenol) and Poly (ethylene oxide),&quot; Langmuir, 12: pp. 5756-5762 (1996). cited by other . | Banerjee, Sujit, Sludge Dewatering with Cyclodextrins: A New Cost-Effective Approach, Thirteenth International Water Technology Conference, IWTC 13 2009, Hurghada, Egypt, pp. 395-401. cited by other . | Hutten, et al., &quot;Interactions Among Stickies, Fiber, and Water,&quot; Institute of Paper Science and Technology, pp. 1-12 (1995). cited by other . | Xiao, et al., &quot;Cationic-modified Cyclodextrin nanosphere/anionic Polymer as Flocculation/Sorption Systems,&quot; Journal of Colloid and Interface Science, 283: pp. 406-413 (2005). cited by other . | Douek, et al., &quot;Survey of Deposits and Contaminants in Mills Using Recycled Fiber,&quot; Progress in Paper Recycling, 13(1): pp. 12-22 (2003). cited by other .
+	</str>
+	<str name="Other References Count">
+		15
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4956051 | US6521134 | US6977027 | US5626718 | US6808636 | US5376280 | US4781794 | US20020172656 | US3453257 | US20060124266 | US5846433 | US4724045 | US5155219 | US4443323 | US6103064 | US20030146172 | WO2006014563 | EP0599440
+	</str>
+	<str name="Cites Count">
+		18
+	</str>
+	<str name="Assignee(s)">
+		GEORGIA TECH RESEARCH CORPORATION
+	</str>
+	<str name="1st Assignee">
+		GEORGIA TECH RESEARCH CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Atlanta, GA
+	</str>
+	<str name="Assignee(s) Address">
+		Atlanta, GA
+	</str>
+	<str name="Inventor(s)">
+		BANERJEE, SUJIT
+	</str>
+	<str name="1st Inventor">
+		BANERJEE, SUJIT
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Marietta, GA
+	</str>
+	<str name="Inventor(s) Address">
+		Marietta, GA
+	</str>
+	<str name="Agent/Attorney">
+		SUTHERLAND ASBILL &amp; BRENNAN LLP
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

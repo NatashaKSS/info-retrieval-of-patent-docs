@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7662306
+	</str>
+	<str name="Application Number">
+		US09455102
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Polysilicate microgels
+	</str>
+	<str name="Abstract">
+		The present invention generally relates to polysilicate microgels. More specifically, the invention relates to a process for preparing aqueous polysilicate microgels which comprises mixing an aqueous solution of alkali metal silicate with an aqueous phase of silica-based material having a pH of 11 or less, to polysilicate microgels per se and to the use thereof as flocculating agents in paper making and water purification. The invention further relates to a process for the production of paper from a suspension of cellulosic fibers, and optional filler, which comprises adding to the suspension at least one cationic or amphoteric organic polymer and a polysilicate microgel, forming and draining the suspension on a wire.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		1999-12-06
+	</str>
+	<str name="Application Year">
+		1999
+	</str>
+	<str name="Application(Year/Month)">
+		1999-12
+	</str>
+	<str name="Publication Date">
+		2010-02-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-02
+	</str>
+	<str name="All IPC">
+		C01B33/152 | C02F1/52 | C09K3/00 | D21H21/10 | C01B33/155 | C01B33/143
+	</str>
+	<str name="IPC Primary">
+		C01B33/152
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C01
+	</str>
+	<str name="IPC Subclass">
+		C01B
+	</str>
+	<str name="IPC Group">
+		C01B33
+	</str>
+	<str name="All UPC">
+		516/110 | 423/333 | 516/111 | 423/338 | 252/194 | 423/330.1 | 162/181.6
+	</str>
+	<str name="UPC Primary">
+		516/110
+	</str>
+	<str name="UPC Class">
+		516
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Hackh's Chemical Dictionary, edited by Julius Grant, McGraw-Hill Book Co, NY, NY, copyright 1972 (received Dec. 1979), p. 610, silicate entry. cited by examiner . | The PQ Corporation at www online @ &lt;http://www.pqcorp.com/msds/stixso.sub.--rr.sub.--sodium.sub.--silicat- e.pdf&gt;, pp. 5 of 5, Dec. 2007. cited by examiner . | MSDS, J.T.Baker online @ www.jtbaker.com/msds/englishhtml/s4982.htm , pp. 1-7, printed Apr. 24, 2006. cited by examiner . | Abstract, publication No. 60251119, dated Dec. 11, 1985. cited by other . | Microgels, vol. 77, No. 12 Tappi Journal, Moffett R. J. On-site production of a silica-based microparticulate retention and drainage aid, Dec. 1994. cited by other. | OxyChem at www online @ &lt;http://www.chemistrystore.com/ChemicalMSDS/SodSil.pdf&gt;, pp. 12 of 12, Dec. 2007. cited by examiner . | Iler, The Colloid Chemistry of Silica and Silicates, Cornell University Press, Ithica, NY (Jul. 1955), pp. 20-21 &amp; 26-27. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cites">
+		US5470435 | US5368833 | US5571494 | US4980025 | US4285919 | US4554211 | US6361653 | US6361652 | US5312595 | US20010023752 | US4750974 | US20010023753 | US4954220 | US4927498 | US4871694 | US6673208 | US5116418 | US5447604 | US2601235 | US6358364 | US5160455 | US5176891 | US7169261 | US6270627 | US2630410 | US5482693 | US20030024671 | US5626721 | US4954327 | US3857925 | US5543014 | US5503820 | US4961825 | US6083997 | US4963515 | US5240561 | US5279807 | US2727008 | US6372805 | US6200420 | US4388150 | US5846384 | US2750345 | US20010030032 | US6310104 | US5127994 | JP1974039757 | WO1991007351 | JP1987083311 | WO1998056715 | WO1994005596 | EP0359552 | WO1989006637 | WO1991007350
+	</str>
+	<str name="Cites Count">
+		54
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		97850092
+	</str>
+	<str name="Priority Date">
+		1997-06-09
+	</str>
+	<str name="Assignee(s)">
+		AKZO NOBEL NV
+	</str>
+	<str name="1st Assignee">
+		AKZO NOBEL NV
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Arnhem, NL
+	</str>
+	<str name="Assignee(s) Address">
+		Arnhem, NL
+	</str>
+	<str name="Inventor(s)">
+		PERSSON, MICHAEL | TOKARZ, BOZENA, STANISLAWA | DAHLGREN, MAJ-LIS | JOHANSSON-VESTIN, HANS
+	</str>
+	<str name="1st Inventor">
+		PERSSON, MICHAEL
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Goteborg, SE
+	</str>
+	<str name="Inventor(s) Address">
+		Goteborg, SE | Kungalv, SE | Nodinge, SE | Kungalv, SE
+	</str>
+	<str name="Agent/Attorney">
+		MORRISS, ROBERT C. PARKER, LAINIE E. MANCINI, RALPH J.
+	</str>
+	<str name="Primary Examiner">
+		METZMAIER, DANIEL S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

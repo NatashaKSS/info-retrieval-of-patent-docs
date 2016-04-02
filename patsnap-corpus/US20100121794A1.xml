@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100121794A1
+	</str>
+	<str name="Application Number">
+		US12692475
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		USING A MODEL TREE OF GROUP TOKENS TO IDENTIFY AN OBJECT IN AN IMAGE
+	</str>
+	<str name="Abstract">
+		Object recognition techniques are disclosed that provide both accuracy and speed. One embodiment of the present invention is an identification system. The system is capable of locating objects in images by searching for local features of an object. The system can operate in real-time. The system is trained from a set of images of an object or objects. The system computes interest points in the training images, and then extracts local image features (tokens) around these interest points. The set of tokens from the training images is then used to build a hierarchical model structure. During identification/detection, the system computes interest points from incoming target images. The system matches tokens around these interest points with the tokens in the hierarchical model. Each successfully matched image token votes for an object hypothesis at a certain scale, location, and orientation in the target image. Object hypotheses that receive insufficient votes are rejected.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-01-22
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-01
+	</str>
+	<str name="Publication Date">
+		2010-05-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		G06N7/00
+	</str>
+	<str name="IPC Primary">
+		G06N7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06N
+	</str>
+	<str name="IPC Group">
+		G06N7
+	</str>
+	<str name="All UPC">
+		706/20 | 706/12 | 706/13
+	</str>
+	<str name="UPC Primary">
+		706/20
+	</str>
+	<str name="UPC Class">
+		706
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		HONDA MOTOR CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		HONDA MOTOR CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo,JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s)">
+		HEISELE BERND | SHARON YOAV
+	</str>
+	<str name="1st Inventor">
+		HEISELE BERND
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Cambridge,MA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Cambridge,MA,US | Rehovot,IL
+	</str>
+	<str name="Agent/Attorney">
+		HONDA/FENWICK
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

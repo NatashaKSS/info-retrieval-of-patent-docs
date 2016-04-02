@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1261053A1
+	</str>
+
+	<str name="Application Number">
+		EP2002291222
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		Device for thermal management of a vehicle equiped with a fuel cell
+	</str>
+
+	<str name="Abstract">
+		Thermal management system for cooling the ancillaries in a electric vehicle fuel cell comprises independent cooling for traction motor and batteries and location of electronic cooling in main cooling circuit The main cooling liquid is not in chemical contact with the fuel cell and may therefor be a water glycol mixture which does not require a phase separator. The electronic component cooling unit (28) is placed in the main cooling circuit and the battery and motor are separately cooled (50,29). Heat from the fuel cell (1) is used in the first instance to heat the cabin (18), then discharged externally (13) and sent finally to an exchanger (21) and compressor (38). Independent claims are also included for the following: a vehicle equipped with the thermal management system; a method for managing the thermal requirement on a fuel cell vehicle.
+	</str>
+
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+
+	<str name="Application Date">
+		2002-05-17
+	</str>
+
+	<str name="Application Year">
+		2002
+	</str>
+
+	<str name="Application(Year/Month)">
+		2002-05
+	</str>
+
+	<str name="Publication Date">
+		2002-11-27
+	</str>
+
+	<str name="Publication Year">
+		2002
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2002-11
+	</str>
+
+	<str name="All IPC">
+		B60H1/32 | H01M8/04 | F01P7/16 | B60K1/04 | B60H1/00
+	</str>
+
+	<str name="IPC Primary">
+		B60H1/32
+	</str>
+
+	<str name="IPC Section">
+		B
+	</str>
+
+	<str name="IPC Class">
+		B60
+	</str>
+
+	<str name="IPC Subclass">
+		B60H
+	</str>
+
+	<str name="IPC Group">
+		B60H1
+	</str>
+
+	<str name="Family Members">
+		EP1261053A1 | FR2825118B1 | FR2825118A1
+	</str>
+
+	<str name="Family Member Count">
+		3
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cites">
+		EP0999078A1 | FR2805926A1 | US5537956 | EP0741428A1 | FR2792259A1 | EP0919425A1
+	</str>
+
+	<str name="Cites Count">
+		6
+	</str>
+
+	<str name="Priority Country">
+		FR
+	</str>
+
+	<str name="Priority Number">
+		0106888
+	</str>
+
+	<str name="Priority Date">
+		2001-05-25
+	</str>
+
+	<str name="Assignee(s)">
+		RENAULT S.A.S.
+	</str>
+
+	<str name="1st Assignee">
+		RENAULT S.A.S.
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		
+	</str>
+
+	<str name="Assignee(s) Address">
+		
+	</str>
+
+	<str name="Inventor(s)">
+		OLIVIER, G&#201;RARD | OLIVIER, GERARD | OULEFKI, ABDELHAKIM | SAMUEL, SEBASTIEN
+	</str>
+
+	<str name="1st Inventor">
+		OLIVIER, G&#201;RARD
+	</str>
+
+	<str name="Number of Inventors">
+		4
+	</str>
+
+	<str name="1st Inventor Address">
+		
+	</str>
+
+	<str name="Inventor(s) Address">
+		
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

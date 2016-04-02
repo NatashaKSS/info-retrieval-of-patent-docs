@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1114752A2
+	</str>
+	<str name="Application Number">
+		EP2000127518
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		Device for monitoring a battery lead
+	</str>
+	<str name="Abstract">
+		Battery lead monitoring arrangement has evaluation electronics arrangements at either end of electrically conductive screen enclosing lead to detect potential differences and leakage currents The device has an electrically conductive screen (16) enclosing the battery lead that is fully externally insulated and connected to a defined potential and evaluation electronics (18,20) coupled to the screen, whereby the evaluation electronics are designed so that potential differences or leakage currents caused by damage can be detected. Two evaluation electronics arrangements are provided that are arranged at either end of the screen.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-12-15
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-12
+	</str>
+	<str name="Publication Date">
+		2001-07-11
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-07
+	</str>
+	<str name="All IPC">
+		B60R16/02 | H02H5/10
+	</str>
+	<str name="IPC Primary">
+		B60R16/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B60
+	</str>
+	<str name="IPC Subclass">
+		B60R
+	</str>
+	<str name="IPC Group">
+		B60R16
+	</str>
+	<str name="Family Members">
+		EP1114752A3 | EP1114752A2 | EP1114752B1 | ES2273645T3 | DE50013631D1 | DE10000551C1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		PATENT ABSTRACTS OF JAPAN Bd. 1995, Nr. 01, 28. Februar 1995 (1995-02-28) &amp; JP 06 289094 A (HITACHI CABLE LTD), 18. Oktober 1994 (1994-10-18) | PATENT ABSTRACTS OF JAPAN Bd. 014, Nr. 185 (P-1036), 13. April 1990 (1990-04-13) &amp; JP 02 032273 A (MITSUBISHI RAYON ENG CO LTD; others: 01), 2. Februar 1990 (1990-02-02) | PATENT ABSTRACTS OF JAPAN Bd. 015, Nr. 019 (P-1153), 16. Januar 1991 (1991-01-16) &amp; JP 02 262072 A (KANSAI ELECTRIC POWER CO INC:THE; others: 01), 24. Oktober 1990 (1990-10-24)
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		EP0728622A2 | GB191443A | EP0812049A1
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		10000551
+	</str>
+	<str name="Priority Date">
+		2000-01-08
+	</str>
+	<str name="Assignee(s)">
+		BAYERISCHE MOTOREN WERKE AKTIENGESELLSCHAFT
+	</str>
+	<str name="1st Assignee">
+		BAYERISCHE MOTOREN WERKE AKTIENGESELLSCHAFT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		GRIESSBACH, ROBERT | OSSNER, WOLF
+	</str>
+	<str name="1st Inventor">
+		GRIESSBACH, ROBERT
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

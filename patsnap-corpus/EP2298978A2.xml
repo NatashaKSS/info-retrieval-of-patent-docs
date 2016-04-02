@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2298978A2
+	</str>
+
+	<str name="Application Number">
+		EP2010165908
+	</str>
+
+	<str name="Kind Code">
+		A2
+	</str>
+
+	<str name="Title">
+		Washing machine and control method thereof
+	</str>
+
+	<str name="Abstract">
+		A washing machine and a control method thereof to achieve washing performance using bubbles without damage to fiber structures of functional clothes. When a washing course of functional clothes is selected, a motor is frequently rotated at a period of a predetermined time or less, causing the clothes to uniformly adsorb the water. Thereafter, bubbles are generated and applied to the clothes. A drive operation rate of the motor is raised stepwise to wash the clothes to which the bubbles have been applied, so as to effectively remove sweat, contaminants, or the like contained in the clothes.
+	</str>
+
+	<str name="Document Types">
+		EP | EPA
+	</str>
+
+	<str name="Application Date">
+		2010-06-15
+	</str>
+
+	<str name="Application Year">
+		2010
+	</str>
+
+	<str name="Application(Year/Month)">
+		2010-06
+	</str>
+
+	<str name="Publication Date">
+		2011-03-23
+	</str>
+
+	<str name="Publication Year">
+		2011
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+
+	<str name="All IPC">
+		D06F35/00 | D06F33/02
+	</str>
+
+	<str name="IPC Primary">
+		D06F35/00
+	</str>
+
+	<str name="IPC Section">
+		D
+	</str>
+
+	<str name="IPC Class">
+		D06
+	</str>
+
+	<str name="IPC Subclass">
+		D06F
+	</str>
+
+	<str name="IPC Group">
+		D06F35
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		KR
+	</str>
+
+	<str name="Priority Number">
+		20090085296
+	</str>
+
+	<str name="Priority Date">
+		2009-09-10
+	</str>
+
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		416 Maetan-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, KR
+	</str>
+
+	<str name="Assignee(s) Address">
+		416 Maetan-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, KR
+	</str>
+
+	<str name="Inventor(s)">
+		BANG, EUN, SUK | KIM, HYUN, SOOK | YU, SO, JUNG
+	</str>
+
+	<str name="1st Inventor">
+		BANG, EUN, SUK
+	</str>
+
+	<str name="Number of Inventors">
+		3
+	</str>
+
+	<str name="1st Inventor Address">
+		106-704, Sinhan-esbill-1st, Byeongjeom-dong, Hwaseong-si, Gyeonggi-do, KR
+	</str>
+
+	<str name="Inventor(s) Address">
+		106-704, Sinhan-esbill-1st, Byeongjeom-dong, Hwaseong-si, Gyeonggi-do, KR | 232-1802, Hwanggolmaeul-2nd, Apt., Yeongtong-dong, Yeongton-gu, Suwon-si, Gyeonggi-do, KR | 303, 503-7, Gokbanjeong-dong, Gweonseon-gu, Suwon-si, Gyeonggi-do, KR
+	</str>
+
+	<str name="Agent/Attorney">
+		GR&#220;NECKER, KINKELDEY, STOCKMAIR &amp; SCHWANH&#196;USSER ANWALTSSOZIET&#196;T
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

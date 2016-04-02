@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6816633
+	</str>
+	<str name="Application Number">
+		US09633153
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Image retrieval apparatus and method
+	</str>
+	<str name="Abstract">
+		In the retrieval of images that resemble a target image from a plurality of images, the image feature quantity of the target image is calculated when the target image is specified. The feature quantity is calculated upon removing an unnecessary area from the specified target image, and retrieval of resembling images is performed using the feature quantity that has been calculated. The unnecessary area is determined automatically based upon a change in luminance in directions vertically and horizontally of the periphery of the target image. Thus, the calculation of feature quantities from which unnecessary portions in an image have been eliminated can be executed with ease and more effective retrieval of resembling images can be carried out.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-08-04
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-08
+	</str>
+	<str name="Publication Date">
+		2004-11-09
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-11
+	</str>
+	<str name="All IPC">
+		G06K9/54 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06K9/54
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/278 | 358/538 | 382/171 | 707/E17.021 | 382/209 | 707/E17.02 | 382/282 | 358/463 | 382/305 | 358/520
+	</str>
+	<str name="UPC Primary">
+		382/278
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		EP1074953A3 | US6816633B1 | US6816633 | EP1074953A2 | JP2001052011A
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References">
+		W Niblack, &quot;SlideFinder : A Tool For Browsing Presentation Graphics Using Content-Based Retrieval&quot;; Content-Based Access Of Image And Video Libraries, 1999 (Cbaival '99); Proceedings, IEEE Workshop, Fort Collins, CO., USA, Jun. 22, 1999, p. 114-118. . | Seyoon Jeong et al., An Effective Method For Combining Multiple Features Of Image Retrieval: Proceedings of IEEE, IEEE Region 10 Conference, Tencon 99, Multimedia Technology For Asia-Pacific Information Infrastructure (CAT. No. 99CH 37030), pp. 982-985 vol. 2,XP010368443 1999 Piscataway, NJ, IEEE, USA, ISBN 0-7803-0573906. . | Djeraba C. et al., &quot;Digital Information Retrieval&quot;, Proceeding of the 6th Int'l. Conf. on Information And Knowledge Management, CIKM '97, Las Vegas, Nov. 10-14, 1997, pp. 185-192. . | Djeraba C. et al., &quot;Retrieve of Images by Content&quot;, Intelligence And Systems, 1996., IEEE, Int'l. Joint Symposia On Rockville Md. USA, Nov. 4-5, 1996, Los Alamitos, CA, pp. 261-267..
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		US7773128 | US8120674 | US7911510
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US5825922 | US5264838 | US5014330 | US5579471 | US5893095 | US5880858 | US5712474 | US6084978 | US5229589 | US5185809 | EP0287113
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		11224240
+	</str>
+	<str name="Priority Date">
+		1999-08-06
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KUSAMA, KIYOSHI | MATSUMOTO, KENTARO | ENOKIDA, MIYUKI | YAMAMOTO, KUNIHIRO
+	</str>
+	<str name="1st Inventor">
+		KUSAMA, KIYOSHI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP | Higashikurume, JP | Yokohama, JP | Yokohama, JP
+	</str>
+	<str name="Agent/Attorney">
+		FITZPATRICK, CELLA, HARPER &amp; SCINTO
+	</str>
+	<str name="Primary Examiner">
+		MEHTA, BHAVESH M.
+	</str>
+	<str name="Assistant Examiner">
+		KASSA, YOSEF
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

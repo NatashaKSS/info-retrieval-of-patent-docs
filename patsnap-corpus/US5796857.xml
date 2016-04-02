@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5796857
+	</str>
+	<str name="Application Number">
+		US08900918
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Apparatus for fingerprint verification using different verification method in accordance with quality grade data
+	</str>
+	<str name="Abstract">
+		Feature points data and quality grade data of fingerprint images are stored in a data base with a respective register number of each fingerprint as an index for access. A verification method dictionary contains different verification methods for different quality grade data. A verifier unit refers to the verification method dictionary to select a verification method adapted for the quality grade data of the fingerprint to be compared.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1997-07-28
+	</str>
+	<str name="Application Year">
+		1997
+	</str>
+	<str name="Application(Year/Month)">
+		1997-07
+	</str>
+	<str name="Publication Date">
+		1998-08-18
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-08
+	</str>
+	<str name="All IPC">
+		G06K9/66 | G06K9/00 | G06K9/52 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/66
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/190 | 382/206 | 382/125 | 382/124
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US5796857
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References">
+		&quot;Fingerprint Based Person Verification System&quot;, IBM Technical Disclosure Bulletin 17(12): 3741-3743 (1975).
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US6002783 | US7882340 | US7515741 | WO2004061752A2 | US6463165 | US6839845 | US6826000 | US6826667 | US6959874 | US7882032 | US7885437 | US7970678 | US7631193 | US7634117 | US7349560
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US4047154 | US5054090 | US4944021 | US4811414 | US4618988 | US5109428 | US4581760 | US4525859 | JP1984142676 | JP1988150781 | JP1981024675 | GB2278945 | JP1991127192 | JP1989211184
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		5263246
+	</str>
+	<str name="Priority Date">
+		1993-10-21
+	</str>
+	<str name="Assignee(s)">
+		NEC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NEC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		HARA, MASANORI
+	</str>
+	<str name="1st Inventor">
+		HARA, MASANORI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		FOLEY &amp; LARDNER
+	</str>
+	<str name="Primary Examiner">
+		SHALWALA, BIPIN
+	</str>
+	<str name="cited by within 3 years">
+		10
+	</str>
+	<str name="cited by within 5 years">
+		18
+	</str>
+</doc>
+

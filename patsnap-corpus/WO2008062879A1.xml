@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2008062879A1
+	</str>
+	<str name="Application Number">
+		PCT/JP2007/072687
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		MOBILE ELECTRONIC DEVICE
+	</str>
+	<str name="Abstract">
+		Disclosed is a structure for effectively radiating heat from an internal heating part in a small-size, small-thickness mobile electronic device. A mobile terminal device includes: a case; a circuit substrate (7) contained in the case and having one surface on which an electronic part (12) is mounted; a thermal conductive member (6) arranged to oppose to the one surface of the circuit substrate (7); and a battery (13) contained in a battery container formed in the case. The thermal conductive member (6) forms at least a part of the battery container.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-11-22
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-11
+	</str>
+	<str name="Publication Date">
+		2008-05-29
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		H05K9/00 | H04M1/02 | H05K7/20
+	</str>
+	<str name="IPC Primary">
+		H05K9/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K9
+	</str>
+	<str name="Family Members">
+		JP2008131512A | WO2008062879A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		JP2003060369A | JP2005183991A | JP2262724A
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2006316251
+	</str>
+	<str name="Priority Date">
+		2006-11-22
+	</str>
+	<str name="Assignee(s)">
+		KYOCERA CORPORATION | NAKAJIMA, MASAYOSHI | ITO, TAKASHI
+	</str>
+	<str name="1st Assignee">
+		KYOCERA CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		3
+	</str>
+	<str name="1st Assignee Address">
+		6128501, 6128501, JP
+	</str>
+	<str name="Assignee(s) Address">
+		6128501, 6128501, JP | 2248502, 2248502, JP | 2248502, 2248502, JP
+	</str>
+	<str name="Agent/Attorney">
+		SUGIMURA, KENJI
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

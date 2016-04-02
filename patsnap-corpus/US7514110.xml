@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7514110
+	</str>
+	<str name="Application Number">
+		US10381328
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Talaromyces xylanases
+	</str>
+	<str name="Abstract">
+		Novel polypeptides possessing (endo) xylanase activity are disclosed which can degrade cellulose in plant extracts and plant materials. The polypeptides can cleave .beta.-D-xylan polymers at internal (1-4) bonds between adjacent xylopyranosyl units. The amino acid sequence and encoding DNA sequence is given and the polypeptide was used to treat cellulose in the preparation of edible foodstuffs and animal feed. The polypeptides have both arabinoxylanase and xylosidase activity.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-09-21
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-09
+	</str>
+	<str name="Publication Date">
+		2009-04-07
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-04
+	</str>
+	<str name="All IPC">
+		C02F3/34 | C12N9/24 | C07H21/04 | C12N1/15 | A23B7/10 | C12P21/06
+	</str>
+	<str name="IPC Primary">
+		C02F3/34
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		435/267 | 536/23.2 | 435/200 | 426/53 | 435/262
+	</str>
+	<str name="UPC Primary">
+		435/267
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		AU7779800A | JP2004509626A | AU2000277798B2 | US7514110 | WO2002024926A1 | US20080274886A1 | CN1454259A | EP1319079A1 | CN100558898C | CZ20030798A3 | BR0017339A | NZ524814A | CA2422748A1 | SK3482003A3
+	</str>
+	<str name="Family Member Count">
+		14
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Guo et al. Protein tolerance to random amino acid change, Proc Natl Acad Sci U S A, Jun. 22, 2004; 101(25): 9205-10, Epub Jun. 14, 2004. cited by examiner . | Cunningham and Wells, Science (1989) 244:1081-1085. cited by other . | Scheffzyk, Int'l Preliminary Examination Report for PCT/EP00/09257, five pages, completed Sep. 30, 2002. cited by other . | Whisstock et al. Quaterly Reviews of Biophysics, 2003, &quot;Prediction of protein function from protein sequence and structure&quot;, 36(3): 307-340. cited by examiner . | van Zeijl et al., J. of Biotechnol. (1998) 59:221-224. cited by other . | Devereux et al., Nucleic Acids Research (1984) 12:387-395. cited by other . | Karlin and Altschul, Proc. Natl. Acad. Sci. USA (1993) 90:5873. cited by other . | Ford et al., Protein Expression and Purification (1991) 2:95-107. cited by other . | Smith et al., J. Mol. Biol. (1992) 224:899-904. cited by other . | Aleksenko and Clutterbuck, Fungal Genet. Biol. (1997) 21:373-397. cited by other . | Saiki et al., Science (1988) 239:487-491. cited by other . | Wlodaver et al., FEBS Lett. (1992) 309:59-64. cited by other. | Branden et al. Introduction to protein structure, Gerald Publishing Inc., New York, pp. 247, 1991. cited by examiner . | Davies et al., Progress in Industrial Microbiology (1994) 29:527-560. cited by other . | Lever et al., J. Lab. Clin. Med. (1973) 82:649-655. cited by other . | De Vos et al., Science (1992) 255:306-312. cited by other . | Tuohy et al., Biochem. J. (1993) 290:515-523. cited by other . | Lejeune, Int'l Search Report for PCT/EP00/09257, four pages, completed Jul. 31, 2001. cited by other . | Saraswat et al. &quot;Purification, characterization and substrate specificities of xylanase isoenzymes from Melanocarpus albomyces IIS 68&quot; Biosci. Biotechnol. Biochem. 64:1173-1180 and errata, Jun. 2000. cited by other . | Romanos et al., Yeast (1992) 8:423-488. cited by other . | Morales et al. &quot;Purification and characterization of alkaline xylanases from Bacillus polymyxa&quot; Appl. Environ. Microbiol. 59:1376-1382, 1993. cited by other . | Seffernick et al. Melamine deaminase and atrazine chlorohydrolase: 98 percent identical but functionally different, J Bacteriol. Apr. 2001; 183(8):2405-10. cited by examiner . | Altschul, J. Mol. Evol. (1993) 36:290-300. cited by other . | Henikoff and Henikoff, Proc. Natl. Acad. Sci. USA (1992) 89:10915-10919. cited by other . | Raper and Fennell, The Genus Aspergillus, The Williams &amp; Wilkins Company, Baltimore (1965) pp. 293-344. cited by other . | Tuohy et al., Bioresource Technology (1995) 50:37-42. cited by other . | Witkowski et al. Conversion of a beta-ketoacyl synthase to a malonyl decarboxylase by replacement of the active-site cysteine with glutamine, Biochemistry. Sep. 7, 1999;38(36):11643-50. cited by examiner . | Altschul, J. Mol. Biol. (1990) 215:403-410. cited by other .
+	</str>
+	<str name="Other References Count">
+		28
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6228630 | US20040241647 | US5876988 | US6080567 | US4683202 | US5885819 | US6432672 | US6586209 | US6197564 | US5693518 | US5358864 | US5610046 | US5610048 | US7220542 | WO1994021785 | EP0284603 | WO1998030707 | EP0449375 | EP0184433 | EP0301670 | EP0635574 | WO1998004726 | WO1992017573 | EP0096340 | WO2001042433 | WO1998046772 | WO1991019782 | EP0463706 | WO1992001793 | EP0134048 | EP0253455 | WO1999032617
+	</str>
+	<str name="Cites Count">
+		32
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		0009257
+	</str>
+	<str name="Priority Date">
+		2000-09-21
+	</str>
+	<str name="Assignee(s)">
+		BASF AKTIENGESELLSCHAFT
+	</str>
+	<str name="1st Assignee">
+		BASF AKTIENGESELLSCHAFT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		DE
+	</str>
+	<str name="Assignee(s) Address">
+		DE
+	</str>
+	<str name="Inventor(s)">
+		VAN, DEN, HOMBERGH, JOHANNES, PETRUS, THEODORUS, WILHELMUS | VAN, DER, LAAN, JAN-METSKE | DARAN, JEAN-MARC, GEORGES
+	</str>
+	<str name="1st Inventor">
+		VAN, DEN, HOMBERGH, JOHANNES, PETRUS, THEODORUS, WILHELMUS
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		De, Meern, NL
+	</str>
+	<str name="Inventor(s) Address">
+		De, Meern, NL | Breda, NL | Naaldwijk, NL
+	</str>
+	<str name="Agent/Attorney">
+		CONNOLLY BOVE LODGE &amp; HUTZ LLP
+	</str>
+	<str name="Primary Examiner">
+		NASHED, NASHAAT T
+	</str>
+	<str name="Assistant Examiner">
+		CHOWDHURY, IQBAL H
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

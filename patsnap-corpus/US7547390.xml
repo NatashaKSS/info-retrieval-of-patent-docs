@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7547390
+	</str>
+	<str name="Application Number">
+		US11/099389
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System of converting animal wastes to energy and useful by-products
+	</str>
+	<str name="Abstract">
+		A system and method for converting animal waste, in the form of waste slurry, to energy and useful byproducts. A screen mesh filters out large objects from waste slurry and the filtered slurry is chopped and fragmented to reduce binding of fibrous materials. The fragmented slurry is mixed at a rate to maintain solids in the fragmented slurry in suspension while minimizing aeration and turbulence within the mixing unit. A solids recovery unit recovers about 95% of the suspended solids. A polymer is introduced into the solids recovery unit for providing agglomeration of solids particles. The recovered solids are gasified to produce at least methane/ethane gas. The produced gas is provided to an energy production unit to generate electrical and/or heat energy. Liquid remaining after the solids recovery is treated to remove undesirable contaminants to an extent in compliance with water quality standards set for animal waste flushing, animal washing and animal drinking water, as the case may be.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-04-04
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-04
+	</str>
+	<str name="Publication Date">
+		2009-06-16
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		C02F1/54
+	</str>
+	<str name="IPC Primary">
+		C02F1/54
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/173 | 210/202 | 210/251 | 210/257.1 | 48/197R
+	</str>
+	<str name="UPC Primary">
+		210/173
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20050218087A1 | US20090217583A1 | US7547390
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US3537659 | US3838199 | US3973043 | US4198211 | US4250023 | US4857458 | US6083386 | US6190566 | US6299774 | US6470828 | US6521129 | US6863826 | US7005068 | US7015028 | US7105088
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		9938905 | 56040904
+	</str>
+	<str name="Priority Date">
+		2005-04-04 | 2004-04-06
+	</str>
+	<str name="Assignee(s)">
+		AGRICULTURAL WASTE SOLUTIONS, INC.
+	</str>
+	<str name="1st Assignee">
+		AGRICULTURAL WASTE SOLUTIONS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Thousand Oaks, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Thousand Oaks, CA
+	</str>
+	<str name="Inventor(s)">
+		MCCORKLE, STEPHEN, R.
+	</str>
+	<str name="1st Inventor">
+		MCCORKLE, STEPHEN, R.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Westlake, Village, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Westlake, Village, CA
+	</str>
+	<str name="Agent/Attorney">
+		ROMANO, MALCOLM J.
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

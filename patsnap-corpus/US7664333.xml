@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7664333
+	</str>
+	<str name="Application Number">
+		US11302367
+	</str>
+	<str name="Title">
+		Image retrieval device, image retrieval method and storage medium storing similar-image retrieval program
+	</str>
+	<str name="Abstract">
+		An image retrieval device and an image retrieval method are provided which are capable of improving performance of image retrieval, of retrieving images at higher speed with simplified configurations and of retrieving images by simplified calculating processes.The image retrieval device is composed of a first coefficient transforming section to transform a first group of image feature descriptors extracted from image data accumulated in an image database and to generate a second group of image feature descriptors to be used for calculating similarity, second coefficient transforming section to transform the first group of image feature descriptors extracted from image data of an inquired image and to generate a second group of image feature descriptors to be used for calculating similarity and a similarity calculating section to compare the second group of image feature descriptors for each piece of image data produced by the coefficient transforming section with the second group of image feature descriptors for the inquired image transformed by the second coefficient transforming section.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-12-14
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2010-02-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-02
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/209 | 382/251 | 382/276
+	</str>
+	<str name="UPC Primary">
+		382/209
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;High Speed Target Searching of MPEG Video Based on Time Series Evaluation of Low Order DCT Coefficients&quot; Authors: Eiji Kasutani, Akio Yamada, Mutsumi Ohta; Proceedings of the 1999 General Meeting of Electronics, Information and Communications Engineers, Japan, Mar. 8, 1999, No. D-12-7, p. 180. cited by other . | &quot;Proposal for a High-Speed Searching Scheme Using Information in Compressed Video as a Key&quot; Authors: Eiji Kasutani, Keiji Maeda, Hisashi Miyamori, Hideyoshi Tominaga; Abstracts of the 1997 Annual Meeting of the Institute of Image Information and Television Engineers, Japan, Jul. 23, 1997, No. 15-10, pp. 191-192. cited by other . | Article &quot;Estimations of previewed Road Curvatures and Vehicular Motion by a vision-based Data Fusion Scheme&quot; Authors: Jin-Chua n Hsu, Wen-Liang Chen, Ruey-Horng Lin, Edge Chu Yeh, published 1997. cited by other . | Gonzalez et al, &quot;Digital Image Processing&quot; Addison-Wesley Publishing Company, Inc. 1992, pp. 143-145 and 374-380. cited by other . | Yue et al, Texture Image Retrieval by Universal Classification for Wavelet Transmission Coefficients &gt;&gt;, Proc Int Conf. on Image Processing, vol. 3, Oct. 26, 1997, pp. 220-223. cited by other . | &quot;Format-Independent Scheme for High Speed Searching for Similar Video Segments&quot; Authors: Eiji Kasutani, Akio Yamada, Mutsumi Ohta; Proceedings of the 1999 General Meeting of Electronics, Information and Communications Engineers Systems Society Meeting, Japan, Aug. 16, 1999, No. D-12-6, p. 170. cited by other. | &quot;Image Retrieval System using Compact Color Layout Descriptor&quot; Authors: Eiji Kasutani, Akio Yamada, Mutsumi Ohta; Materials of the 4.sup.th Image Media Processing Symposium, Japan, Sep. 29, 1999, IMPS99, pp. 89-90. cited by other .
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By">
+		US8054170
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5555555 | US6870965 | US5793898 | US6192150 | US5699128 | US6681061 | US6345275 | US5915038 | US5473377 | US6665442 | EP0626655 | JP1996249349 | EP05347000
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		1999351657
+	</str>
+	<str name="Priority Date">
+		1999-12-10
+	</str>
+	<str name="Assignee(s)">
+		NEC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NEC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KASUTANI, EIJI
+	</str>
+	<str name="1st Inventor">
+		KASUTANI, EIJI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		KIM, CHARLES
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

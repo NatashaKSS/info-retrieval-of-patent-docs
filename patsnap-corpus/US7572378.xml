@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7572378
+	</str>
+	<str name="Application Number">
+		US11304356
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Recycled irrigation water treatment system including reverse osmosis
+	</str>
+	<str name="Abstract">
+		A process for irrigation involves monitoring reclaimed water, and treating it when necessary. The reclaimed water is tested with monitors to obtain results for water quality characteristics, including: pH; residual chlorine; and, sodium. These results are inputted to a computerized data handling system for data collection, storage and analysis for comparison to predetermined acceptable ranges for water quality characteristic, and to show any deviation from said acceptable ranges. Either alarms are set off or treatment occurs or both, when deviations are observed. Treatment includes a dechlorination system to correct active chlorine, and, optionally, an oxidation system. There is also a reverse osmosis step for reduction of salts, such as sodium. Other monitors may include one or more of hardness; turbidity; alkalinity; conductivity and nitrates.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-15
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2009-08-11
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-08
+	</str>
+	<str name="All IPC">
+		B01D61/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/758 | 210/743 | 210/652 | 210/754 | 210/747 | 210/739 | 210/806 | 405/37
+	</str>
+	<str name="UPC Primary">
+		210/758
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060091046A1 | US7572378
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Internet Document: &quot;Shortland wastewater treatment plant&quot; brochure; Mar. 31, 2000. cited by examiner . | Internet Document: &quot;Wastewater Technology Fact Sheet, Dechlorination,&quot;, United States Environmental Protection Agency, Office of Water, Washington, D.C., EPA-832-F-00-022, Sep. 2000. cited by examiner. | Internet Document: Journal Environmental Monitoring, pp. 161-163 by Edward Urbansky et al, Article entitled Ascorbic acid reduction of active chlorine prior to determining mutagenicity of chlorinated natural organic matter (NOM) published 2000. cited by examiner . | Internet Document: &quot;Sewage Monitoring&quot;, Jennifer M. Larson from LLNL Environmental Report for 1995. cited by examiner . | Internet Document: Managing Sewage Discharges to Inland Waters;, EPA Publication 473 of Dec. 1995, EPA Victoria, 1995. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cites">
+		US5893975 | US6620329 | US6607668 | US6214607 | US6635177 | US4062782 | US5863433 | US5558775 | US6132138 | US6200466 | US5975800 | US6054050 | US6117335 | US6136186 | US5958241 | US6955765 | US4867192 | US5741416 | US5792336 | US7404899
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		30435605 | 46433003 | 2256801
+	</str>
+	<str name="Priority Date">
+		2005-12-15 | 2003-06-18 | 2001-12-13
+	</str>
+	<str name="Assignee(s)">
+		TURF SENTRY, INC.
+	</str>
+	<str name="1st Assignee">
+		TURF SENTRY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Scottsdale, AZ
+	</str>
+	<str name="Assignee(s) Address">
+		Scottsdale, AZ
+	</str>
+	<str name="Inventor(s)">
+		ROSEN, PETER, L. | HODGES, ROBERT, D.
+	</str>
+	<str name="1st Inventor">
+		ROSEN, PETER, L.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Costa, Mesa, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Costa, Mesa, CA | Birch, Bay, WA
+	</str>
+	<str name="Agent/Attorney">
+		GLYNN, ESQ., KENNETH P.
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

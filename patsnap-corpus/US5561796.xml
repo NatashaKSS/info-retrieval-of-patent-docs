@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5561796
+	</str>
+	<str name="Application Number">
+		US08404082
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Apparatus for searching for speech and moving images
+	</str>
+	<str name="Abstract">
+		A speech and moving image search apparatus includes an input section for inputting a command and a label information storage device for storing label information. A label attribute storage device is further included for storing label attributes, as well as a broader term storage device for storing broader terms of labels. A first search section extracts information on the data from the label information storage device. A database is also included for storing speech and moving images. A control section thereafter accesses desired data in the database based on the information extracted by the first search section. Finally, an output section is included for outputting the data.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-03-14
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-03
+	</str>
+	<str name="Publication Date">
+		1996-10-01
+	</str>
+	<str name="Publication Year">
+		1996
+	</str>
+	<str name="Publication(Year/Month)">
+		1996-10
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		386/96 | 707/3 | 707/104.1
+	</str>
+	<str name="UPC Primary">
+		386/96
+	</str>
+	<str name="UPC Class">
+		386
+	</str>
+	<str name="Family Members">
+		US5561796 | JP3171744B2 | JP1995253986A
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7027954 | US7903882 | GB2365552A | GB2365552B | US7225193 | US7038715 | US7152068 | US5828809 | US7974714 | US7639282 | US7143109 | US7082436 | US6411922 | US6400996 | US7327905
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5404435 | US5428774 | US5267351 | US5339166 | US4979050 | US5253361 | US5400436 | US5257185 | US5404295 | JP1993002857
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		6044080
+	</str>
+	<str name="Priority Date">
+		1994-03-15
+	</str>
+	<str name="Assignee(s)">
+		SHARP KABUSHIKI KAISHA (OSAKA, JP), REAL WORLD COMPUTING PARTNERSHIP
+	</str>
+	<str name="1st Assignee">
+		SHARP KABUSHIKI KAISHA (OSAKA, JP), REAL WORLD COMPUTING PARTNERSHIP
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		SAKAMOTO, KENJI | WATANUKI, KEIKO | TOGAWA, FUMIO
+	</str>
+	<str name="1st Inventor">
+		SAKAMOTO, KENJI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Chiba, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Chiba, JP | Toride, JP | Sakura, JP
+	</str>
+	<str name="Primary Examiner">
+		BLACK, THOMAS G.
+	</str>
+	<str name="Assistant Examiner">
+		VON BUHR, MARIA N.
+	</str>
+	<str name="cited by within 3 years">
+		6
+	</str>
+	<str name="cited by within 5 years">
+		12
+	</str>
+</doc>
+

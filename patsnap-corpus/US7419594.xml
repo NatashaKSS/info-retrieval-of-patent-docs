@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7419594
+	</str>
+	<str name="Application Number">
+		US11107946
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for controlling biomass growth in suspended carrier bioreactor
+	</str>
+	<str name="Abstract">
+		A bioreactor configured to contain an aqueous suspension of biomass and media is provided. The invention includes a lift tube disposed within the vessel, the lift tube having an inlet disposed at the bottom region of the vessel and an outlet disposed at the top region of the vessel. Disposed at the bottom of the lift tube is a gas inlet positioned to feed gas into the lift tube at a location proximal to the inlet of the lift tube. An adjustable weir is disposed proximal to the outlet of the lift tube, the weir being adjustable between a lower position and a higher position. Biomass is removed from the weir and the weir height is adjustable to control the removal of biomass from the vessel. Also included as a part of the invention is a method for controlling the removal of biomass from a bioreactor as described.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-04-15
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-04
+	</str>
+	<str name="Publication Date">
+		2008-09-02
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		C02F3/22
+	</str>
+	<str name="IPC Primary">
+		C02F3/22
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/608 | 210/197 | 210/620 | 210/540 | 210/220 | 210/629
+	</str>
+	<str name="UPC Primary">
+		210/608
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		GB2421501A | GB2421501B | US20050077239A1 | US20050178725A1 | CA2541545A1 | GB0606884D0 | US7018534 | US7419594 | WO2005034613A3 | WO2005034613A2
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References">
+		Combined British Search and Examination Report corresponding to GB0607540.2 dated Jun. 30, 2006. cited by other. | Steel and McGhee, &quot;Water Supply and Sewerage&quot;, 1979, pp. 503, 508 and 509. cited by other . | Search Report for claim 19, application No. GB0607540.2, dated Dec. 14, 2006. cited by other . | Search Report for claim 20, application No. GB0607540.2, dated Dec. 15, 2006. cited by other . | Eckenfelder, &quot;Principles of Water Quality Management&quot;, 1980, pp. 216 and 218. cited by other . | Search Report for claim 21, application No. GB0607540.2, dated Dec. 15, 2006. cited by other . | Translation of Japanese patent 10-244295, Sep. 1998. cited by examiner . | Search Report for claim 22, application No. GB0607540.2, dated Dec. 15, 2006. cited by other .
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5372712 | US5942116 | US4839053 | US4810377 | US6077424 | US3224964 | US4137171 | US6168717 | US3043433 | US3152982 | US6616845 | US4454038 | US3182801 | US2638444 | US4452701 | US2024986 | US4521311 | JP2000167579 | JP2002079283 | JP1998244295 | WO2005034613 | JP2003300086 | JP2003154385
+	</str>
+	<str name="Cites Count">
+		23
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		10794605 | 68262403
+	</str>
+	<str name="Priority Date">
+		2005-04-15 | 2003-10-09
+	</str>
+	<str name="Assignee(s)">
+		SHAW ENVIRONMENTAL &amp; INFRASTRUCTURE, INC.
+	</str>
+	<str name="1st Assignee">
+		SHAW ENVIRONMENTAL &amp; INFRASTRUCTURE, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Lawrenceville, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Lawrenceville, NJ
+	</str>
+	<str name="Inventor(s)">
+		FRISCH, SAMUEL
+	</str>
+	<str name="1st Inventor">
+		FRISCH, SAMUEL
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Manalapan, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		Manalapan, NJ
+	</str>
+	<str name="Agent/Attorney">
+		RATNERPRESTIA
+	</str>
+	<str name="Primary Examiner">
+		UPTON, CHRISTOPHER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

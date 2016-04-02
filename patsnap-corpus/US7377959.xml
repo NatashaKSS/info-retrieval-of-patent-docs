@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7377959
+	</str>
+	<str name="Application Number">
+		US11267128
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process and apparatus for decomposition treatment of volatile chlorinated organic compound
+	</str>
+	<str name="Abstract">
+		A large amount of a medium containing a volatile chlorinated organic compound (VOC) with a low concentration is passed through an adsorber filled with an adsorbent which adsorb and desorb the VOC to collect the VOC in the medium in the adsorber; a gas containing water vapor is then brought into contact with the adsorbent to desorb and discharge the VOC from the adsorber; the desorbed gas is cooled to condense the VOC and water; a small amount of the VOC with a high concentration vaporized from the condensate is further irradiated with light in the presence of chlorine to decompose the VOC; and the decomposed product is subsequently treated. This constitution can allow a large amount of the VOC with a low concentration to be irradiated with light in the presence of chlorine to efficiently treat the VOC.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-11-07
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2008-05-27
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		A62D3/00 | C07C19/00 | B01J19/12
+	</str>
+	<str name="IPC Primary">
+		A62D3/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A62
+	</str>
+	<str name="IPC Subclass">
+		A62D
+	</str>
+	<str name="IPC Group">
+		A62D3
+	</str>
+	<str name="All UPC">
+		96/145 | 210/670 | 210/754 | 95/142 | 210/241 | 423/240S | 96/134 | 210/192
+	</str>
+	<str name="UPC Primary">
+		96/145
+	</str>
+	<str name="UPC Class">
+		96
+	</str>
+	<str name="Family Members">
+		JP2006130216A | US20060096850A1 | US7377959
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20050109207 | US5813799 | US5779768 | US6464884 | US6444015 | US5531901 | US5496395 | US5904750 | US5198001 | US6458185 | US6497795 | JP2001137697 | JP2002001062
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2004325098
+	</str>
+	<str name="Priority Date">
+		2004-11-09
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KOZAKI, SHINYA | HOSAKA, AKIHITO | MIYAMURA, KEISUKE
+	</str>
+	<str name="1st Inventor">
+		KOZAKI, SHINYA
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Ayase, JP | Miura-gun, JP
+	</str>
+	<str name="Agent/Attorney">
+		FITZPATRICK, CELLA, HARPER &amp; SCINTO
+	</str>
+	<str name="Primary Examiner">
+		LAWRENCE, FRANK M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

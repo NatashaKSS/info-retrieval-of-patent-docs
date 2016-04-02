@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7393452
+	</str>
+	<str name="Application Number">
+		US10511526
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Compositions and methods for the treatment of wastewater and other waste
+	</str>
+	<str name="Abstract">
+		A method for processing environmental samples to remove or otherwise reduce the level of certain chemical species. In a preferred embodiment, the present invention contemplates a process for reducing the level of inorganic and/or organic chemical species in wastewater or other aqueous or semi-aqueous environments or other waste environments. The present invention further provides compositions of bacteria useful in modulating the redox potential of an environment to generate redox mediator species which facilitate the removal of particular inorganic or organic molecules from the environment or from samples therefrom. The redox potential is preferably modulated through microbial-mediated oxidation or reduction of metal cations under aerobic or anaerobic conditions, respectively. The present invention is further directed to a computer program which facilitates the controlled modulation of the redox potential of an aqueous or semi-aqueous environment or other environments.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-04-11
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-04
+	</str>
+	<str name="Publication Date">
+		2008-07-01
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-07
+	</str>
+	<str name="All IPC">
+		C02F3/34 | C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/34
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/605 | 210/630 | 210/601 | 435/262.5 | 210/903 | 210/904 | 210/909 | 210/906 | 210/905
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		AU2003217159A1 | US7393452 | US20060163154A1 | WO2003093179A1 | SG106658A1
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		International Search Report dated Jul. 3, 2003. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4880740 | US5616241 | US5569596 | US6465706 | US5514278 | US5919367 | US5543049 | JP1982190696 | SU916441 | JP1977130150 | EP0301924 | JP1983034092 | WO1998049106
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		SG
+	</str>
+	<str name="Priority Number">
+		2002021962
+	</str>
+	<str name="Priority Date">
+		2002-04-16
+	</str>
+	<str name="Assignee(s)">
+		NANYANG TECHNOLOGICAL UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		NANYANG TECHNOLOGICAL UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Singapore, SG
+	</str>
+	<str name="Assignee(s) Address">
+		Singapore, SG
+	</str>
+	<str name="Inventor(s)">
+		TAY, JOO, HWA | TAY, STEPHEN, TIONG, LEE | IVANOV, VOLODYMYR | STABNIKOVA, OLENA | WANG, JING-YUAN
+	</str>
+	<str name="1st Inventor">
+		TAY, JOO, HWA
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Singapore, SG
+	</str>
+	<str name="Inventor(s) Address">
+		Singapore, SG | Singapore, SG | Singapore, SG | Singapore, SG | Singapore, SG
+	</str>
+	<str name="Agent/Attorney">
+		CROWELL &amp; MORING LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

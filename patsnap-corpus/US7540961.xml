@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7540961
+	</str>
+	<str name="Application Number">
+		US11/426120
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Methods for manufacturing hydrogen using anaerobic digestion
+	</str>
+	<str name="Abstract">
+		A method for manufacturing a biomass enriched with hydrogen-producing bacteria or spores includes providing a biomass comprising a hydrogen-producing bacteria and a competing bacteria and treating the biomass with a sufficient amount of a chemical agent for a period of time such that the treatment (i) kills, inhibits or injures substantially all of the competing bacteria and (ii) does not kill or inhibit the hydrogen-producing bacteria or causes the hydrogen-producing bacteria to form spores that are not destroyed during the chemical treatment. The method also includes digesting an enriched biomass with a non-sterile organic substrate. The enriched biomass includes hydrogen-producing bacteria or spores that are mixed in sufficient quantities with the organic substrate such that the hydrogen-producing bacteria can overcome the competing bacteria to consume the organic substrate and produce hydrogen.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-06-23
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-06
+	</str>
+	<str name="Publication Date">
+		2009-06-02
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		C02F3/28 | C02F11/04
+	</str>
+	<str name="IPC Primary">
+		C02F3/28
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/603 | 210/613 | 210/631
+	</str>
+	<str name="UPC Primary">
+		210/603
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060289355A1 | US7540961
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		M Okamoto, T. Miyahara, O. Mizuno and T. Noike; Biological hydrogen potential of materials characteristic of the organic fraction of municipal solid wastes; Water Science and Technology, vol. 41 No. 3 pp. 25-32 IWA Publishing 2000. cited by other | Jiunn-Jyi Lay; Modeling and Optimization of Anaerobic Digested Sludge converting Starch to Hydrogen; Biotechnology and Bioengineering, vol. 68, No. 3, pp. 269-278 May 5, 2000. cited by other | Peter Setlow; Resistance of Bacterial Spores; Bacterial Stress Responses, Department of Biochemistry, University of Connecticut Health Center, Farmington, CT 06032, Chapter 14, pp. 217-230 2000 ASM Press, Washington D.C. cited by other.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By">
+		US8246828
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4354936 | US4696746 | US4696747 | US4919813 | US5464539 | US6416993 | US6860996 | US20050064567
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		42612006 | 69371005
+	</str>
+	<str name="Priority Date">
+		2006-06-23 | 2005-06-24
+	</str>
+	<str name="Assignee(s)">
+		UTAH STATE UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		UTAH STATE UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		North Logan, UT
+	</str>
+	<str name="Assignee(s) Address">
+		North Logan, UT
+	</str>
+	<str name="Inventor(s)">
+		HANSEN, CONLY, L. | CHEONG, DAE-YEOL
+	</str>
+	<str name="1st Inventor">
+		HANSEN, CONLY, L.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		North, Logan, UT
+	</str>
+	<str name="Inventor(s) Address">
+		North, Logan, UT | Logan, UT
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7998724
+	</str>
+	<str name="Application Number">
+		US11/796173
+	</str>
+	<str name="Title">
+		Removal of mercury from coal via a microbial pretreatment process
+	</str>
+	<str name="Abstract">
+		A process for the removal of mercury from coal prior to combustion is disclosed. The process is based on use of microorganisms to oxidize iron, sulfur and other species binding mercury within the coal, followed by volatilization of mercury by the microorganisms. The microorganisms are from a class of iron and/or sulfur oxidizing bacteria. The process involves contacting coal with the bacteria in a batch or continuous manner. The mercury is first solubilized from the coal, followed by microbial reduction to elemental mercury, which is stripped off by sparging gas and captured by a mercury recovery unit, giving mercury-free coal. The mercury can be recovered in pure form from the sorbents via additional processing.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-04-27
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-04
+	</str>
+	<str name="Publication Date">
+		2011-08-16
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		A61L9/01 | C12N1/12 | C02F3/34 | C12N1/20 | C12N1/00
+	</str>
+	<str name="IPC Primary">
+		A61L9/01
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61L
+	</str>
+	<str name="IPC Group">
+		A61L9
+	</str>
+	<str name="All UPC">
+		435/262 | 435/266 | 435/822 | 435/832
+	</str>
+	<str name="UPC Primary">
+		435/262
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Klasson et al., &quot;Bio-modification of Coal to Remove Mercury&quot;, Applied Biochemistry and Biotechnology, 129-132: pp. 897-908, 2006. cited by other | Klasson et al., &quot;Removal of Mercury from Coal via Microbial Bioleaching&quot;, U.S. Department of Energy / National Energy Technology Lab. Program Review, 2005. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US4562156 | US4851350 | US4861723 | US4936045 | US5007620 | US5092909 | US5246486 | US5259952 | US5358870 | US5403365 | US5431717 | US5593889 | US5766930 | US5789236 | US5804435 | US5827701 | US6124130 | US6156281 | US6383458 | US6461859 | US6905534 | US7101410 | US7285419 | US20060096166
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Assignee(s)">
+		UT-BATTELLE LLC
+	</str>
+	<str name="1st Assignee">
+		UT-BATTELLE LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		BOROLE, ABHIJEET, P. | HAMILTON, CHOO, Y.
+	</str>
+	<str name="1st Inventor">
+		BOROLE, ABHIJEET, P.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Knoxville, TN
+	</str>
+	<str name="Inventor(s) Address">
+		Knoxville, TN | Knoxville, TN
+	</str>
+	<str name="Agent/Attorney">
+		QUARLES &amp; BRADY, LLP
+	</str>
+	<str name="Primary Examiner">
+		WARE, DEBBIE K
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7862728
+	</str>
+	<str name="Application Number">
+		US11862631
+	</str>
+	<str name="Title">
+		Ultraviolet water purification system
+	</str>
+	<str name="Abstract">
+		An Ultraviolet-C (UVC) based portable water purification system employing a novel array of baffles increases the efficiency per unit energy of irradiating UVC light in the eradication of pathogens in the water. Closed loop feedback allows monitoring the application of UVC light power to ensure high levels of pathogen eradication. This system is capable of eradicating a wide range of waterborne bacteria, viruses, protozoa, helminthes, yeast, and mold found in natural freshwater sources worldwide. By adding pre- or post-filters, the system can remove harmful organic compounds, pesticides, inorganic compounds and heavy metals from the water. The system can also be used to eradicate pathogens in fluids other than water. As a feature of this invention, a communications systems that can reach geographically dispersed populations at low cost without the need to install costly wired communications infrastructure is combined with and powered by the water purification system. In one embodiment, a packet radio system is provided to create nodes in a wireless mesh communications system to provide voice, data, video and internet communications using an array of the water purifiers to create a wireless mesh network.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-09-27
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2011-01-04
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-01
+	</str>
+	<str name="All IPC">
+		C02F1/46
+	</str>
+	<str name="IPC Primary">
+		C02F1/46
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/748.01 | 422/22
+	</str>
+	<str name="UPC Primary">
+		210/748.01
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report dated Jan. 26, 2009 and Written Opinion of the International Searching Authority dated Feb. 15, 2009. cited by other . | US EPA, Guide Standard and Protocol for Testing Microbiological Water Purifiers, Report of Task Force, Submitted Apr. 1996. cited by other . | Aquafine Corporation SL Series Installation, Maintenance, and Operation Manual Part No. 108-1, Revised Oct. 2003. cited by other . | Elster AMCO Water, Inc. Evolution--Migratability, 2007 by Elster. cited by other . | UV Waterworks 2.0: Answers to Ten Commonly Asked Questions about the Design, operation, and economics. Ashok Gadgil, Indoor Environment program Energy &amp; Environment Division Lawrence Berkeley National Laboratory, Nov. 1995. cited by other. | Ajay K. Ray &amp; Antonie A.C.M. Beenackers, Novel Photocatalytic Reactor for Water Purification, Environmental and Energy Engineering, AIChE Journal, Feb. 1998, vol. 44,No. 2, p. 477-483. cited by other . | Cryptosporidium Inactivation by Low-Pressure UV in a Water Disinfection Device, A.C. Drescher, D.M. Greene and A.J. Gadgil, Journal of Environmental Health, Oct. 2001. cited by other .
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cites">
+		US6565803 | US7018544 | US5037618 | US6614039 | US4372860 | US5846437 | US7031849 | US6200466 | US3903000 | US5178758 | US3924139 | US20070051901 | US4629896 | US6144175 | US4899057 | US6126841 | US4909931 | US3836781 | US5683589 | US5785845 | US5418370 | US5030125 | US7081225 | US5227053 | US4471225 | US6974958 | US4849115 | US1200940 | US1307500 | US1196481 | US5516492 | US6976508 | US4609900 | US4952376 | US6461520 | US6533930 | US4482809 | US5504335 | US6875988 | US5635133 | US6099799 | US6015229 | US1473095 | US5208461 | US5707594 | US6083387 | US6773584 | US5655483 | US4336223 | US20050145552 | US6039460 | US5790934 | US4897246 | US5952663 | US5352359 | US6332981 | US4757205 | US5366705 | US5660719 | US4304996 | US4968437 | US6773608 | US6803587 | US6303086 | US4103167 | US5503800 | US6224759 | US6193894 | US6784440 | US6500346 | US2504349 | US5393419 | US6972415 | US6932903 | US4968489 | US7217933 | USR34513 | US5780860 | US3671741 | US6129893 | US4400270 | US7077965 | KR0036720
+	</str>
+	<str name="Cites Count">
+		83
+	</str>
+	<str name="Assignee(s)">
+		WATER OF LIFE, LLC.
+	</str>
+	<str name="1st Assignee">
+		WATER OF LIFE, LLC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Menlo Park, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Menlo Park, CA
+	</str>
+	<str name="Inventor(s)">
+		YENCHO, STEPHEN, A.
+	</str>
+	<str name="1st Inventor">
+		YENCHO, STEPHEN, A.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Menlo, Park, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Menlo, Park, CA
+	</str>
+	<str name="Agent/Attorney">
+		HAYNES &amp; BOONE, LLP
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070235064A9
+	</str>
+	<str name="Application Number">
+		US11317971
+	</str>
+	<str name="Kind Code">
+		A9
+	</str>
+	<str name="Title">
+		Substrate processing apparatus and method
+	</str>
+	<str name="Abstract">
+		Pure water dissolving nitrogen gas and containing microbubbles is supplied to a substrate. Since microbubbles are very minute in size and also have the electrostatic property, they can efficiently adsorb particles on the substrate surface or in the pure water. Further, since pure water dissolving nitrogen gas is unlikely to be charged, the pure water itself never carries new particles from each component of the apparatus. These functions allow efficient particle removal from the substrate surface or the liquid.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-23
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2007-10-11
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-10
+	</str>
+	<str name="All IPC">
+		B08B3/04
+	</str>
+	<str name="IPC Primary">
+		B08B3/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		134/34 | 134/25.4 | 134/94.1 | 134/100.1 | 134/36 | 134/102.1
+	</str>
+	<str name="UPC Primary">
+		134/34
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		US20060137719A1 | US20070235064A9 | US7392814
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		JP2004372959 | JP2004372960
+	</str>
+	<str name="Priority Date">
+		2004-12-24 | 2004-12-24
+	</str>
+	<str name="Assignee(s)">
+		DAINIPPON SCREEN MFG. CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		DAINIPPON SCREEN MFG. CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		HASEGAWA KOJI | TANAKA MASATO | HIGUCHI AYUMI | ARAI KENICHIRO
+	</str>
+	<str name="1st Inventor">
+		HASEGAWA KOJI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Kyoto,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kyoto,JP | Kyoto,JP | Kyoto,JP | Kyoto,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

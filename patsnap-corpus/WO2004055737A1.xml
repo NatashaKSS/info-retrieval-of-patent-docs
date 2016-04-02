@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2004055737A1
+	</str>
+	<str name="Application Number">
+		PCT/NO2003/000420
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS AND METHOD FORMING A BRIDGE BETWEEN BIOMETRICS AND CONVENTIONAL MEANS OF SECURE COMMUNICATION
+	</str>
+	<str name="Abstract">
+		An integrated circuit - IC (1) having an architecture (1) is provided which yields increased security in the bridging of biometrics input into a device and secured communication with other devices. The IC (1) comprises encryption modules (8 or 8A, 8B and 8C ) connected to a high-speed bus (3) for providing encryption or scrambling of information. The processor unit (2) of the IC (1) is adapted to apply the encryption information to the fingerprint data for producing secured data as an output to the high-speed bus (3), interface blocks (9A, 9B 9C, or 9d) for supplying the secured data to external devices or units. Correspondingly, a method of providing increased security in the bridging of biometrics input into a device and secured communication with other devices comprising in a single integrated circuit (IC) (1) is disclosed. A method of creating an audit trail for delegating authority to enroll new delegates or users of a network is also disclosed wherein authentication is performed by biometrics to access such delegation software and where countersigning by biometrics enrolment of new delegate(s) or user(s) to issue privileges to new delegate(s) or user(s) and to validate such enrolment.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-12-17
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-12
+	</str>
+	<str name="Publication Date">
+		2004-07-01
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-07
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G07C9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="Family Members">
+		NO319572B1 | AU2003291778A1 | WO2004055737A1 | NO20026096A | NO20026096D0
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6484260 | EP1168137A1 | EP0924656A2 | WO0201328A2 | EP1241553A1 | US2001027527A1 | US6085976
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		NO
+	</str>
+	<str name="Priority Number">
+		20026096
+	</str>
+	<str name="Priority Date">
+		2002-12-18
+	</str>
+	<str name="Assignee(s)">
+		MATHIASSEN, SVEIN | MATHIASSEN, IVAR
+	</str>
+	<str name="1st Assignee">
+		MATHIASSEN, SVEIN
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		Homansbyveien 4, N-1389 Heggedal, NO
+	</str>
+	<str name="Assignee(s) Address">
+		Homansbyveien 4, N-1389 Heggedal, NO | Gaupeveien 21, N-8515 Narvik, NO
+	</str>
+	<str name="Agent/Attorney">
+		ABC-PATENT, SIVILING. ROLF CHR. B. LARSEN A.S, POSTBOKS 6150 ETTERSTAD, N-0602 OSLO, NO
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

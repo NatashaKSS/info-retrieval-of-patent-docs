@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7438813
+	</str>
+	<str name="Application Number">
+		US11787030
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Ammonia oxidation and pipe denitrification
+	</str>
+	<str name="Abstract">
+		In a biological wastewater treatment system, the addition of an intermittently aerated second bioreactor to accomplish ammonium oxidation to predominately nitrite and then to achieve denitrification by introducing the effluent, containing nitrite, from the second bioreactor into the influent collection system or the head works of a wastewater treatment plant. Denitrification from nitrite occurs in the collection pipe using the influent organics as a carbon source.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-04-13
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-04
+	</str>
+	<str name="Publication Date">
+		2008-10-21
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/610 | 210/620 | 210/603
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7438813
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Hellinga, C., et al.. (1998), The SHARON Process: An Innovative Method For Nitrogen Removal From Ammonium-Rich Waste Water, IAWQ, pp. 135-142. cited by other. | Mulder, J.W., et al. (2001), Full-scale application of the SHARON process for treatment of rejection water of digested sludge dewatering, Water Science and Technology, vol. 43, No. 11, pp. 127-134. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8308944
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US20060032815 | US20040256315 | US5078884 | US5863435 | US6383390 | US6183642 | JP2003126886
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		78703007 | 79172906
+	</str>
+	<str name="Priority Date">
+		2007-04-13 | 2006-04-13
+	</str>
+	<str name="Inventor(s)">
+		PEDROS, PHILIP, B. | DOBIE, KEITH
+	</str>
+	<str name="1st Inventor">
+		PEDROS, PHILIP, B.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Wakefield, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Wakefield, MA | Humarock, MA
+	</str>
+	<str name="Agent/Attorney">
+		MCGONAGLE, JOHN P.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

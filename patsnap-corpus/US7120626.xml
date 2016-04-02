@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7120626
+	</str>
+	<str name="Application Number">
+		US10295668
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Content retrieval based on semantic association
+	</str>
+	<str name="Abstract">
+		A method and system which enable a user to query a multimedia archive in one media modality and automatically retrieve correlating data in another media modality without the need for manually associating the data items through a data structure. The correlation method finds the maximum correlation between the data items without being affected by the distribution of the data in the respective subspace of each modality. Once the direction of correlation is disclosed, extracted features can be transferred from one subspace to another.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-11-15
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-11
+	</str>
+	<str name="Publication Date">
+		2006-10-10
+	</str>
+	<str name="Publication Year">
+		2006
+	</str>
+	<str name="Publication(Year/Month)">
+		2006-10
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		709/203 | 707/3
+	</str>
+	<str name="UPC Primary">
+		709/203
+	</str>
+	<str name="UPC Class">
+		709
+	</str>
+	<str name="Family Members">
+		EP1563410A2 | US20040098376A1 | KR1020050074991A | AU2003274613A1 | JP2006506731A | CN1723455A | US7120626 | WO2004046965A3 | WO2004046965A2
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		W.J. Krzanowski, &quot;Principles of Multivariate Analysis&quot;, 1988, Oxford University Press, New York, USA, XP002282824, considered previously. cite- d by other. | U.S. Appl. No. 10/076,194, filed Feb. 14, 2002. cited by other . | Yao Wang, Zhu Liu and Jin-Cheng Huang, &quot;Multimedia Content Analysis&quot;, IEEE Signal Processing Magazine, Nov. 2000. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US20010028731 | US6411724 | US6598054 | US6343298 | US20020194197 | US20020103799 | US6154754 | US6243713 | EP1120720 | WO2000045307
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		29566802
+	</str>
+	<str name="Priority Date">
+		2002-11-15
+	</str>
+	<str name="Assignee(s)">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="1st Assignee">
+		KONINKLIJKE PHILIPS ELECTRONICS N.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Eindhoven, NL
+	</str>
+	<str name="Assignee(s) Address">
+		Eindhoven, NL
+	</str>
+	<str name="Inventor(s)">
+		LI, DONGGE | DIMITROVA, NEVENKA
+	</str>
+	<str name="1st Inventor">
+		LI, DONGGE
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Palatine, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Palatine, IL | Yorktown, Heights, NY
+	</str>
+	<str name="Primary Examiner">
+		WONG, LESLIE
+	</str>
+	<str name="Assistant Examiner">
+		RAYYAN, SUSAN F.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

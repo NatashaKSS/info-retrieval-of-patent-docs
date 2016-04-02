@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US3600731
+	</str>
+	<str name="Application Number">
+		US04/780805
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		METHOD FOR TREATING TEXTILES
+	</str>
+	<str name="Abstract">
+		In a method for treating textile materials and in particular in a method of beam-dyeing fabrics, a pressurized gas in a finely divided state is introduced into the treating liquid in a ratio of 0.1-10 liters per minute for every 10,000 liters per minute of treating liquid. The size of the gas bubbles are maintained small enough so that they enter between and separate the filaments of the textile material. These gas bubbles, and the treating liquid, are forced through the textile material by a pump, and the surplus gas is removed from the top of the container housing the textile material.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1968-12-03
+	</str>
+	<str name="Application Year">
+		1968
+	</str>
+	<str name="Application(Year/Month)">
+		1968-12
+	</str>
+	<str name="Publication Date">
+		1971-08-24
+	</str>
+	<str name="Publication Year">
+		1971
+	</str>
+	<str name="Publication(Year/Month)">
+		1971-08
+	</str>
+	<str name="All IPC">
+		D06B5/00 | B05C8/02 | D06F17/02
+	</str>
+	<str name="IPC Primary">
+		D06B5/00
+	</str>
+	<str name="IPC Section">
+		D
+	</str>
+	<str name="IPC Class">
+		D06
+	</str>
+	<str name="IPC Subclass">
+		D06B
+	</str>
+	<str name="IPC Group">
+		D06B5
+	</str>
+	<str name="All UPC">
+		8/149.1 | 68/183 | 68/189 | 8/155.1
+	</str>
+	<str name="UPC Primary">
+		8/149.1
+	</str>
+	<str name="UPC Class">
+		8
+	</str>
+	<str name="Family Members">
+		SE308497B | CH528928A | DE1812551A1 | GB1225700A | US3600731 | AT293322B | FR1601785A | CS170110B2 | BE725418A | NO126835B | NL6817414A | CH1830068D | BR6804831D0 | FI44570B | IE32877B1 | IE32877L | ES361345A1 | IL31193A | IL31193D0 | NL139002B
+	</str>
+	<str name="Family Member Count">
+		20
+	</str>
+	<str name="Family Members Cited By Count">
+		5
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US3983723 | US5651276 | US4928338 | US5925192 | US5172443
+	</str>
+	<str name="Cited By Count">
+		5
+	</str>
+	<str name="Cites">
+		US1948568 | US2088465 | US2184477 | DT526622
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		SW
+	</str>
+	<str name="Priority Number">
+		17,133/67
+	</str>
+	<str name="Priority Date">
+		1967-12-13
+	</str>
+	<str name="Assignee(s)">
+		N.V., LUDVIG SVENSSON (HOLLAND)
+	</str>
+	<str name="1st Assignee">
+		N.V., LUDVIG SVENSSON (HOLLAND)
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		NL
+	</str>
+	<str name="Assignee(s) Address">
+		NL
+	</str>
+	<str name="Inventor(s)">
+		BERGHOLTZ, NIELS, RUDOLF
+	</str>
+	<str name="1st Inventor">
+		BERGHOLTZ, NIELS, RUDOLF
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		N/A, SW
+	</str>
+	<str name="Inventor(s) Address">
+		N/A, SW
+	</str>
+	<str name="Primary Examiner">
+		PRICE, WILLIAM I.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

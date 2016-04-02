@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7566432
+	</str>
+	<str name="Application Number">
+		US11/302757
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of synthesizing zirconium phosphate particles
+	</str>
+	<str name="Abstract">
+		Zirconium phosphate particles are synthesized by providing a solution of zirconium oxychloride in an aqueous solvent, adding at least one oxygen-containing additive to the solution, the oxygen-containing additive being selected to form a complex with zirconium ions in the solution of zirconium oxychloride and thereby reduce hydration of the zirconium ions, and combining this solution with phosphoric acid or a phosphoric acid salt to obtain zirconium phosphate particles by sol gel precipitation.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-14
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2009-07-28
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-07
+	</str>
+	<str name="All IPC">
+		C01B25/37 | C02F1/44
+	</str>
+	<str name="IPC Primary">
+		C01B25/37
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C01
+	</str>
+	<str name="IPC Subclass">
+		C01B
+	</str>
+	<str name="IPC Group">
+		C01B25
+	</str>
+	<str name="All UPC">
+		423/305 | 210/645 | 423/308 | 423/309 | 423/311
+	</str>
+	<str name="UPC Primary">
+		423/305
+	</str>
+	<str name="UPC Class">
+		423
+	</str>
+	<str name="Family Members">
+		US7566432 | US20060140840A1 | US20090208399A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Cobe Renal Care, Inc., &quot;Guide to Custom Dialysis,&quot; Product No. 306100-005, Revision E, Sep. 1993, pp. 1-54. cited by other | Cobe Renal Care, Inc., &quot;Sorbent Dialysis Primer,&quot; Production No. 306100-006, Edition 4, Sep. 1993, pp. 1-51. cited by other | International Search Report and Written Opinion for International Patent Application No. PCT/US2005/045252 dated Apr. 24, 2006. cited by other | Jimenez-Jimenez et al., &quot;Surfactant-Assisted Synthesis of a Mesoporous Form of Zircomium Phosphate with Acidic Properties,&quot; Advanced Materials, vol. 10, No. 10, 1998, pp. 812-815. cited by other | Pacheco et al., &quot;Syntheses of Mesoporous Zirconia with Anionic Surfactants,&quot; J. Mater. Chem., vol. 8, No. 1, 1998, pp. 219-226. cited by other | Bogdanov et al., &quot;Structure of Zirconium Phosphate Gels Produced by the Sol-Gel Method,&quot; Journal of Physics: Condensed Matter, vol. 9, 1997, pp. 4031-4039, (abstract only). cited by other | Ferragina et al., &quot;Synthesis and Characterization of Sol-Gel Zirconium Phosphate with Template Surfactants by Different Methods,&quot; Journal of Thermal Analysis and Calorimetry, vol. 71, No. 3, 2003, pp. 1023-1033, (abstract only). cited by other | Sharygin et al., &quot;Sol-Gel Technique for Production of Spherically Granulated Zirconium(IV) Phosphate,&quot; Russian Journal of Applied Chemistry, vol. 78, No. 2, 2005, pp. 229-234, (abstract only). cited by other | Jignasa et al., &quot;A Study on Equilibrium and Kinetics of Ion Exchange of Alkaline Earth Metals Using an Inorganic Cation Exchanger--Zirconium Titanium Phosphate,&quot; Journal of Chemical Science, vol. 118, No. 2, Mar. 2006, pp. 185-189. cited by other | Sun, Zhengfei, &quot;Novel Sol-Gel Nanoporous Materials, Nanocomposites and Their Applications in Bioscience,&quot; Drexel University, Sep. 2005, pp. 27-62. cited by other | Ferragina et al., &quot;Synthesis and Characterization of Sol-Gel Zirconium Phosphate with Template Surfactant&quot;, CNR, IMAI-ICMAT, via Salaria Km. 29.300,00016, (year unknown), (abstract only). cited by other.
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cited By">
+		US7906093
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US3416884 | US4381289 | US4629656 | US4826663 | US5387724 | US5441717 | US6627164 | US6818196 | US6936175 | US7385803 | US20020112609 | US20030103888 | GB1007871 | GB1476641 | JP1984069428 | JP1987226807
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		30275705 | 63974004
+	</str>
+	<str name="Priority Date">
+		2005-12-14 | 2004-12-28
+	</str>
+	<str name="Assignee(s)">
+		RENAL SOLUTIONS, INC.
+	</str>
+	<str name="1st Assignee">
+		RENAL SOLUTIONS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		West Lafayette, IN
+	</str>
+	<str name="Assignee(s) Address">
+		West Lafayette, IN
+	</str>
+	<str name="Inventor(s)">
+		WONG, RAYMOND
+	</str>
+	<str name="1st Inventor">
+		WONG, RAYMOND
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Norman, OK
+	</str>
+	<str name="Inventor(s) Address">
+		Norman, OK
+	</str>
+	<str name="Agent/Attorney">
+		KILYK &amp; BOWERSOX, P.L.L.C.
+	</str>
+	<str name="Primary Examiner">
+		LANGEL, WAYNE
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

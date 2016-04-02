@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120215628A1
+	</str>
+	<str name="Application Number">
+		US13/402747
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Chronostratigraphic Modeling and Mapping System and Method
+	</str>
+	<str name="Abstract">
+		A chronostratigraphic database comprising a plurality of discrete data points, wherein each data point comprises an x, y, z and T value, wherein x, y, and z are Cartesian coordinates describing a position and T is a geologic time event relative to said position; a method to produce a chronostratigraphic database and to utilize the database; and a modeling system wherein the database includes data formatted and arranged for use with a computer-implemented method or web-based method for controlling serving of an advertisement or public service message using its relevancy to a request.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2012-02-22
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-02
+	</str>
+	<str name="Publication Date">
+		2012-08-23
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-08
+	</str>
+	<str name="All IPC">
+		G06F17/30 | G06Q30/02
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		705/14.49 | 707/706 | 707/736 | 707/758 | 707/E17.069
+	</str>
+	<str name="UPC Primary">
+		705/14.49
+	</str>
+	<str name="UPC Class">
+		705
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Inventor(s)">
+		WILLIAMS RALPH A.
+	</str>
+	<str name="1st Inventor">
+		WILLIAMS RALPH A.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Ridgway,PA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Ridgway,PA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

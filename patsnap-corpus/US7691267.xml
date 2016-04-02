@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7691267
+	</str>
+	<str name="Application Number">
+		US12038442
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Multi-gas bioreactor and related methods
+	</str>
+	<str name="Abstract">
+		A bioreactor is for processing a fluid stream. The bioreactor may include a bioreaction chamber for receiving the fluid stream therethrough, a pair of spaced apart gas header assemblies within the bioreaction chamber for coupling to first and second gases, a first plurality of hollow fiber membranes (HFMs) extending between the pair of gas header assemblies for introducing the first gas into the fluid stream within the bioreaction chamber, and a second plurality of HFMs extending between the pair of gas header assemblies for introducing the second gas into the fluid stream within the bioreaction chamber.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-02-27
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-02
+	</str>
+	<str name="Publication Date">
+		2010-04-06
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/758 | 210/631 | 210/150 | 210/500.23 | 210/601 | 210/757 | 210/620
+	</str>
+	<str name="UPC Primary">
+		210/758
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7303677 | US20060096918
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Assignee(s)">
+		DYNAMAC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		DYNAMAC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rockville, MD
+	</str>
+	<str name="Assignee(s) Address">
+		Rockville, MD
+	</str>
+	<str name="Inventor(s)">
+		SMITH, DANIEL, P. | RECTOR, TONY | GARLAND, JAY, L.
+	</str>
+	<str name="1st Inventor">
+		SMITH, DANIEL, P.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Thonotosassa, FL
+	</str>
+	<str name="Inventor(s) Address">
+		Thonotosassa, FL | Broad, Brook, CT | Cocoa, FL
+	</str>
+	<str name="Agent/Attorney">
+		ALLEN, DYER, DOPPELT, MILBRATH &amp; GILCHRIST, P.A. ATTORNEYS AT LAW
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

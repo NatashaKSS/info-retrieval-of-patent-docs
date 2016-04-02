@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7494588
+	</str>
+	<str name="Application Number">
+		US10585908
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Wastewater purification system
+	</str>
+	<str name="Abstract">
+		An object of the present invention is to provide a control method, for a wastewater purification system, where the status of a wastewater purification system employing a batch activated sludge process is accurately understood by analyzing the data waveforms of DO, ORP and pH. In the control method for a wastewater purification system, an aeration device is controlled by a programmable sequencer, a controller acquires respective data waveforms from a first sensor, a second sensor and a third sensor and the control status data of the programmable sequencer, the controller analyzes the data waveform of dissolved oxygen concentration from the first sensor, the data waveform of oxidation-reduction potential from the second sensor, and the data waveform of hydrogen ion concentration from the third sensor, and the controller performs an alarm process when a deviation from a previously fixed normal state is discovered as a result of the analysis.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-04-07
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-04
+	</str>
+	<str name="Publication Date">
+		2009-02-24
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/746 | 210/743 | 210/620 | 210/614
+	</str>
+	<str name="UPC Primary">
+		210/746
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080230472A1 | US7494588 | WO2005068379A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Nakamura, S., Wastewater Purification in Piggery, Toyo-Publication Co., Ltd., Apr. 28, 2003, pp. 69-70 and 188-192 and Information List (Form 1) with English Summary. cited by other. | International Search Report, dated Sep. 7, 2004, corresponding to PCT/JP2004/005023. cited by other . | Patent Abstract of Japan, Publication 2001353493 A, Published Dec. 25, 2001, in the name of Kudo, et al. cited by other . | Patent Abstract of Japan, Publication 2000288574 A, Published Oct. 17, 2000, in the name of Takemura, et al. cited by other . | Patent Abstract of Japan, Publication 05126980 A, Published May 25, 1993, in the name of Matsumoto. cited by other . | Patent Abstract of Japan, Publication 09122681 A, Published May 13, 1997, in the name of Hamamoto, et al. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By">
+		US7846334
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6609070 | US5719559 | US6569336 | US5608171 | US6954701 | JP1997122681 | JP2001353493 | JP1998512077 | JP2000288574 | JP1993126980
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2004005303 | 2004005023
+	</str>
+	<str name="Priority Date">
+		2004-01-13 | 2004-04-07
+	</str>
+	<str name="Assignee(s)">
+		ITOCHU FORESTRY CORP.
+	</str>
+	<str name="1st Assignee">
+		ITOCHU FORESTRY CORP.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		NAKAMURA, SAKUJIRO | YOKOI, SEIJI | KODERA, YASUO
+	</str>
+	<str name="1st Inventor">
+		NAKAMURA, SAKUJIRO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		CHRISTIE, PARKER &amp; HALE, LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

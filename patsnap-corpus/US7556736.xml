@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7556736
+	</str>
+	<str name="Application Number">
+		US11/166930
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process and system for converting biomass materials into energy to power marine vessels
+	</str>
+	<str name="Abstract">
+		The process and system of the invention converts biomass materials into energy to power a large marine vessel without the problematic environmental releases of either liquids to the sea or greenhouse gases to the atmosphere. The biomass is conveyed to an on-board biomass storage facility and converted to synthesis gas in an on-board gasification unit to synthesis gas that is used as fuel for fuel cells to power the marine vessel. A portion of the biomass is sea biomass harvested from the sea and removed from the sea by on-board biomass removal means that strains the biomass from the sea water and flips the biomass into a holding bin before being conveyed to the biomass storage facility. A portion of the synthesis gas is converted to useful products. These products are partially used as fuel for the fuel cells. The remaining products are off-loaded at port facilities where biomass waste materials are loaded on-board and conveyed to the biomass storage to serve as the remaining portion of biomass.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-06-24
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-06
+	</str>
+	<str name="Publication Date">
+		2009-07-07
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-07
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/603 | 210/242.3 | 518/702
+	</str>
+	<str name="UPC Primary">
+		210/603
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7556736 | US20070017864A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3982963 | US5593579 | US5787832 | US6680137 | US20040180971 | US20050113467
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		16693005 | 63112904
+	</str>
+	<str name="Priority Date">
+		2005-06-24 | 2004-11-26
+	</str>
+	<str name="Inventor(s)">
+		PRICE, LESLIE, DEAN | GALLOWAY, TERRY, R. | PERK, H., F., WILLIAM
+	</str>
+	<str name="1st Inventor">
+		PRICE, LESLIE, DEAN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		McLean, VA
+	</str>
+	<str name="Inventor(s) Address">
+		McLean, VA | Berkeley, CA | Carbondale, IL
+	</str>
+	<str name="Primary Examiner">
+		NECKEL, ALEXA D
+	</str>
+	<str name="Assistant Examiner">
+		AKRAM, IMRAN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

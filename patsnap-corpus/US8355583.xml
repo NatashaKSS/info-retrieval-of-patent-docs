@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8355583
+	</str>
+	<str name="Application Number">
+		US12/242344
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image processing apparatus and apparatus for searching operator
+	</str>
+	<str name="Abstract">
+		An image processing apparatus includes an extraction unit configured to extract a feature amount from information recorded on a recording medium, an acquisition unit configured to acquire an identification image identifying an operator of the recording apparatus, a storage unit configured to store the feature amount and the identification image, wherein the identification image is associated with the feature amount, a search unit configured to compare a feature amount extracted from a predetermined medium by the extraction unit with the feature amount stored in the storage unit, wherein, based on a result of the comparison, the identification image associated with the stored feature amount is associated with the predetermined medium, and an output unit configured to output the identification image associated with the predetermined medium.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-09-30
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-09
+	</str>
+	<str name="Publication Date">
+		2013-01-15
+	</str>
+	<str name="Publication Year">
+		2013
+	</str>
+	<str name="Publication(Year/Month)">
+		2013-01
+	</str>
+	<str name="All IPC">
+		G06K9/46 | G06K9/66 | G06K15/00 | H04N1/00 | H04N1/32
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/218 | 358/1.14 | 358/403 | 358/468 | 382/190
+	</str>
+	<str name="UPC Primary">
+		382/218
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6704119 | US7856474 | US20060041719 | US20060174134 | US20070019864 | US20070025722 | JP2005051402 | JP2005084403 | JP2007124431
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2007-258888
+	</str>
+	<str name="Priority Date">
+		2007-10-02
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		MATSUSHITA, MASAHIRO | SHIIYAMA, HIROTAKA | TOJO, HIROSHI | MAGAI, KOICHI | YANO, KOTARO
+	</str>
+	<str name="1st Inventor">
+		MATSUSHITA, MASAHIRO
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Yokohama, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Yokohama, JP | Yokohama, JP | Fuchu, JP | Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		CANON USA INC IP DIVISION
+	</str>
+	<str name="Primary Examiner">
+		JOHNS, ANDREW W
+	</str>
+	<str name="Assistant Examiner">
+		DUNPHY, DAVID F
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

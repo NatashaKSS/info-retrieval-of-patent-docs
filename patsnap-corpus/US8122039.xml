@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8122039
+	</str>
+	<str name="Application Number">
+		US12/729980
+	</str>
+	<str name="Title">
+		Apparatus for multimedia integrated retrieval and storage medium storing a multimedia integrated retrieval program
+	</str>
+	<str name="Abstract">
+		A multimedia integrated retrieval apparatus includes a feature value extracting unit calculating a feature value of single media data; a media information storage unit storing the feature value and storing composite media data in association with the single media data; a retrieval processing unit identifying other pieces of single media data corresponding to the single media data; a retrieval controlling unit, generating structural body data that includes a first node indicative of the single media data, a second node indicative of the another piece of single media data, a first link connecting the first node to the second node, a third node indicative of another composite media data, and a second link connecting the third node to the second node, if the another piece of composite media data including the another piece of single media data is present; and a display unit displaying the structural body data.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-03-23
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-03
+	</str>
+	<str name="Publication Date">
+		2012-02-21
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-02
+	</str>
+	<str name="All IPC">
+		G06F7/00
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		707/758 | 707/802
+	</str>
+	<str name="UPC Primary">
+		707/758
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Anselm, Spoerri &quot;Visual search editor for composing meta searches&quot;, 67th Annual Meeting of the American Society for Information Science and Technology, Nov. 18, 2004. cited by other . | Degi, Y. et al., &quot;A graphical filter/flow representation of boolean queries: A prototype implementation and evaluation&quot;, Journal of the American Society for Information Science, Feb. 1993, p. 327-339. cited by other . | Hansaki, Tomoyuki et al., &quot;Visual Search Interface for Constructing Queries While Confirming Results&quot;, 19th Annual Conference of the Japanese Society for Artificial Intelligence, Jun. 17, 2005. cited by other . | Kazuhisa, Oono et al.,&quot;A Music Retrieval Method Based on Tendencies of Feature Value throughout A Music&quot;, Journal of the Database Society of Japan (DBSJ), vol. 7, No. 1 Jun. 2008, p. 233-238. cited by other . | Kouji, Komatsu &quot;Use of Language Processing Technique in Information Retrieval System&quot;, Keiei Ronsyu, vol. 13, No. 1 Dec. 2003, p. 105-114. cited by other . | Peter, Eades &quot;A Heuristic for Graph Drawing&quot;, Congressus Numerantium, vol. 42 //1984, p. 149-160. cited by other . | Takemochi, Ishii &quot;Video Retrieval Technique--Increasing Need thereof and Technical Innovation&quot;, Techno Current, No. 419 Jun. 1, 2006. cited by other.
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6128649 | US7836110 | US7941739 | US20020103919 | US20060242550 | US20090030926 | JP1994301733 | JP1995105070
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2009077437
+	</str>
+	<str name="Priority Date">
+		2009-03-26
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		ISHIHARA, MASAKI | BABA, TAKAYUKI | ENDO, SUSUMU | SHIITANI, SHUICHI | UEHARA, YUSUKE | MASUMOTO, DAIKI | NAGATA, SHIGEMI
+	</str>
+	<str name="1st Inventor">
+		ISHIHARA, MASAKI
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP | Kawasaki, JP | Kawasaki, JP | Kawasaki, JP | Minato, JP | Kawasaki, JP | Kawasaki, JP
+	</str>
+	<str name="Agent/Attorney">
+		FUJITSU PATENT CENTER
+	</str>
+	<str name="Primary Examiner">
+		VY, HUNG T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

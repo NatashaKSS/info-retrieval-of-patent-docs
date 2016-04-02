@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6200468
+	</str>
+	<str name="Application Number">
+		US08272527
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Aeration system apparatus with source of in situ cleaning agent and pressure monitoring connection for submerged diffuser
+	</str>
+	<str name="Abstract">
+		A liquid treatment apparatus comprising a gas distribution network in a water impound; a device for introducing treating gas into the network; a source of cleaning agent; a device for intermittently introducing the cleaning agent into the network alone or in admixture with the treating gas; a plurality of synthetic thermoplastic or thermoset resin plenums; a plurality of a least ten diffusion elements sealingly engaged and in communication with the plenums for receiving the treating gas and cleaning agent, the elements having air diffusion pores extending therethrough, but being free of through-holes other than air diffusion pores, the pores defining paths for discharge of the treating gas and cleaning agent and which exhibit an increase in dynamic wet pressure and/or bubble release pressure as a result of deposition of foulants; retaining ring engaging the diffusion elements about their peripheries for securing the elements to the plenums; sealing device adjacent the peripheries of the diffusion elements for preventing leakage of air from the plenums past the peripheries of the elements; and measuring device for monitoring the operation of the liquid treatment apparatus by measuring changes in operating parameters of the apparatus that indicate dynamic wet pressure changes across the diffusion elements with sufficient precision for initiating the flow of cleaning agent with sufficient frequency for maintaining the dynamic wet pressure across the diffusion elements in a range not to exceed about 25 inches of water gauge above a base condition of the elements.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1994-07-11
+	</str>
+	<str name="Application Year">
+		1994
+	</str>
+	<str name="Application(Year/Month)">
+		1994-07
+	</str>
+	<str name="Publication Date">
+		2001-03-13
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-03
+	</str>
+	<str name="All IPC">
+		B08B3/00 | C02F3/20
+	</str>
+	<str name="IPC Primary">
+		B08B3/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		210/199 | 210/221.2 | 210/137 | 210/205 | 134/171 | 134/170
+	</str>
+	<str name="UPC Primary">
+		210/199
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US6200468
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8276890 | US6676837
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US4889620
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		27252794 | 42024589 | 69897385 | 42604182 | 20383480 | 19197480
+	</str>
+	<str name="Priority Date">
+		1994-07-11 | 1989-10-12 | 1985-02-06 | 1982-09-28 | 1980-11-04 | 1980-09-29
+	</str>
+	<str name="Assignee(s)">
+		SANITAIRE CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SANITAIRE CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Brown Deer, WI
+	</str>
+	<str name="Assignee(s) Address">
+		Brown Deer, WI
+	</str>
+	<str name="Inventor(s)">
+		SCHMIT, FRANK, L. | EWING, LLOYD | REDMON, DAVID, T.
+	</str>
+	<str name="1st Inventor">
+		SCHMIT, FRANK, L.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Port, Washington, WI
+	</str>
+	<str name="Inventor(s) Address">
+		Port, Washington, WI | Milwaukee, WI | Racine, WI
+	</str>
+	<str name="Agent/Attorney">
+		HALL, PRIDDY, MYERS &amp; VANDE SANDE
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

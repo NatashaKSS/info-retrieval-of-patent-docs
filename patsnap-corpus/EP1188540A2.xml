@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1188540A2
+	</str>
+
+	<str name="Application Number">
+		EP2001307927
+	</str>
+
+	<str name="Kind Code">
+		A2
+	</str>
+
+	<str name="Title">
+		Method for recycling plastic products and process with apparatus for washing crushed plastic
+	</str>
+
+	<str name="Abstract">
+		An object of the invention is to provide a method and an apparatus for recycling plastics which is improved with respect to operation efficiency, operation environment, lowering degradation of plastics, recycling cost and environment load including saving energy. The recycling is made as follows: coarse-crushing used-up plastic products (at 24), separating plastic materials from other foreign matters by air blow separation (at 25), fine-crushing the separated plastics (at 26), washing the fine-crushed plastics by the process using a circulation flow including a spiral flow in which interaction between crushed plastics helps themselves clean without washing agents (at 27), dewatering the washed plastics (at 28), drying them (at 29), removing metallic matters by using metal detector (30), then feeding them directly without pelletizing to an injection molding machine of which nozzle part is equipped with filter and flow-switching mechanism for cleaning the filter by backwash reverse filtration. | &#19968;&#39033;&#21457;&#26126;&#30340;&#30446;&#30340;&#26159;&#25552;&#20379;&#19968;&#31181;&#26041;&#27861;&#21644;&#22238;&#25910;&#36825;&#26041;&#38754;&#30340;&#25913;&#21892;&#65292;&#32463;&#33829;&#25928;&#29575;&#65292;&#32463;&#33829;&#29615;&#22659;&#65292;&#38477;&#20302;&#22609;&#26009;&#38477;&#35299;&#22609;&#26009;&#35013;&#32622;&#65292;&#22238;&#25910;&#25104;&#26412;&#21644;&#29615;&#22659;&#36127;&#33655;&#65292;&#20854;&#20013;&#21253;&#25324;&#33410;&#32422;&#33021;&#28304;&#12290;&#22312;&#22238;&#25910;&#30340;&#32463;&#36153;&#22914;&#19979;&#65306;&#31895;&#30772;&#30862;&#29992;&#34892;&#21160;&#65288;24&#65289;&#22609;&#26009;&#21046;&#21697;&#65292;&#33073;&#31163;&#20854;&#20182;&#24322;&#29289;&#22609;&#26009;&#26448;&#26009;&#33322;&#31354;&#25171;&#20987;&#20998;&#31163;&#65288;25&#65289;&#65292;&#32454;&#31881;&#30862;&#20998;&#31163;&#22609;&#26009;&#65288;26&#65289;&#65292;&#27927;&#34915;&#26426;&#30340;&#32602;&#27454;-&#31881;&#30862;&#22609;&#26009;&#30340;&#20351;&#29992;&#24490;&#29615;&#27969;&#21160;&#65292;&#20854;&#20013;&#21253;&#25324;&#34746;&#26059;&#27969;&#20043;&#38388;&#30340;&#30456;&#20114;&#20316;&#29992;&#26377;&#21161;&#20110;&#22609;&#26009;&#31881;&#30862;&#19981;&#28165;&#27927;&#21058;&#65288;27&#65289;&#33258;&#25105;&#28165;&#27905;&#30340;&#36807;&#31243;&#20013;&#65292;&#33073;&#27700;&#30340;&#28165;&#27927;&#22609;&#26009;&#65288;28&#65289;&#65292;&#24178;&#29157;&#20182;&#20204;&#65288;29&#65289;&#65292;&#28165;&#38500;&#37329;&#23646;&#20107;&#39033;&#36890;&#36807;&#20351;&#29992;&#37329;&#23646;&#25506;&#27979;&#22120;&#65288;30&#65289;&#65292;&#28982;&#21518;&#30452;&#25509;&#21890;&#20859;&#19981;&#36896;&#31890;&#21040;&#20854;&#20013;&#27880;&#22609;&#26426;&#21943;&#22068;&#37096;&#20998;&#26159;&#36807;&#28388;&#21644;&#27969;&#37327;&#37197;&#22791;&#24320;&#20851;&#21453;&#21521;&#20914;&#27927;&#28165;&#27905;&#36807;&#28388;&#30340;&#36807;&#28388;&#26426;&#21046;&#12290;
+	</str>
+
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+
+	<str name="Application Date">
+		2001-09-18
+	</str>
+
+	<str name="Application Year">
+		2001
+	</str>
+
+	<str name="Application(Year/Month)">
+		2001-09
+	</str>
+
+	<str name="Publication Date">
+		2002-03-20
+	</str>
+
+	<str name="Publication Year">
+		2002
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2002-03
+	</str>
+
+	<str name="All IPC">
+		B03B5/00 | B29C47/68 | B29B17/00 | B08B3/04
+	</str>
+
+	<str name="IPC Primary">
+		B03B5/00
+	</str>
+
+	<str name="IPC Section">
+		B
+	</str>
+
+	<str name="IPC Class">
+		B03
+	</str>
+
+	<str name="IPC Subclass">
+		B03B
+	</str>
+
+	<str name="IPC Group">
+		B03B5
+	</str>
+
+	<str name="Family Members">
+		EP1188540A3 | US20020033550A1 | EP1188540B1 | DE60109542D1 | EP1188540A2 | CN100389945C | CN1344608A | CN101352900A | US6846441 | DE60109542T2
+	</str>
+
+	<str name="Family Member Count">
+		10
+	</str>
+
+	<str name="Family Members Cited By Count">
+		8
+	</str>
+
+	<str name="Other References">
+		BLEDZKI A K ET AL: &quot;DEVICES FOR FILTRATION OF MOLTEN PLASTICS&quot; INTERNATIONAL POLYMER SCIENCE AND TECHNOLOGY, RAPRA TECHNOLOGIES, SHROPSHIRE, GB, vol. 23, no. 10, 1996, pages T-103-T-108, XP000689656 ISSN: 0307-174X
+	</str>
+
+	<str name="Other References Count">
+		1
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Cites">
+		US5185041 | WO1999025493A1 | US4453905 | WO0075726A1 | US5600391 | WO1996034729A1 | EP0289875A1 | WO1992017260A1
+	</str>
+
+	<str name="Cites Count">
+		8
+	</str>
+
+	<str name="Priority Country">
+		JP
+	</str>
+
+	<str name="Priority Number">
+		2000284370
+	</str>
+
+	<str name="Priority Date">
+		2000-09-19
+	</str>
+
+	<str name="Assignee(s)">
+		FUJI PHOTO FILM CO., LTD.
+	</str>
+
+	<str name="1st Assignee">
+		FUJI PHOTO FILM CO., LTD.
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		
+	</str>
+
+	<str name="Assignee(s) Address">
+		
+	</str>
+
+	<str name="Inventor(s)">
+		SUEHARA, KAZUYOSHI
+	</str>
+
+	<str name="1st Inventor">
+		SUEHARA, KAZUYOSHI
+	</str>
+
+	<str name="Number of Inventors">
+		1
+	</str>
+
+	<str name="1st Inventor Address">
+		
+	</str>
+
+	<str name="Inventor(s) Address">
+		
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

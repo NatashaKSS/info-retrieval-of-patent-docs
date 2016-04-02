@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7691269
+	</str>
+	<str name="Application Number">
+		US11862490
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and system for retrofitting an existing water treatment system
+	</str>
+	<str name="Abstract">
+		A method and system for retrofitting an existing water treatment system having one or more biological reactor systems and one or more gravity clarifiers. To retrofit the existing water treatment system, the one or more gravity clarifiers of the existing water treatment system are converted to one or more biological reactors. In addition, one or more high rate clarifiers (HRCs) are added to the existing water treatment system. In some cases one or more high rate clarifiers are added downstream of the converted biological reactors, in other cases one or more HRCs is added upstream of the biological reactors, and in other cases a number of HRCs are added, upstream and downstream with respect to the biological reactors.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-09-27
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2010-04-06
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		C02F3/02 | C02F1/48
+	</str>
+	<str name="IPC Primary">
+		C02F3/02
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/253 | 210/620 | 210/714 | 210/695 | 210/223 | 210/617
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6099738 | US7001519 | US4735725 | US4981593 | US7255793 | US6896815 | US20030082084 | US4502958 | US3697420
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Inventor(s)">
+		CORT, STEVEN, L.
+	</str>
+	<str name="1st Inventor">
+		CORT, STEVEN, L.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Cary, NC
+	</str>
+	<str name="Inventor(s) Address">
+		Cary, NC
+	</str>
+	<str name="Agent/Attorney">
+		DE ANGELI, MICHAEL
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

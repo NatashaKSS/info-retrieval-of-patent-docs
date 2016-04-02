@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090067742A1
+	</str>
+	<str name="Application Number">
+		US12153443
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Image restoration apparatus and method
+	</str>
+	<str name="Abstract">
+		Provided is an image restoration method and apparatus, in which an image is restored by estimating the blur level of the image. The image restoration apparatus includes a block generation module which generates a plurality of overlapping blocks for an input image; a blur estimation module which generates a plurality of unit step responses for a current overlapping block from the overlapping blocks; a feature-map generation module which generates a feature map for the current overlapping block based on the unit step responses of the current overlapping block; and a filter application module which deblurs the current overlapping block by using a deconvolution filter to filter the feature map of the current overlapping block.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-05-19
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-05
+	</str>
+	<str name="Publication Date">
+		2009-03-12
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		G06K9/40
+	</str>
+	<str name="IPC Primary">
+		G06K9/40
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/263
+	</str>
+	<str name="UPC Primary">
+		382/263
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		KR1020090027493A | US20090067742A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020070092756
+	</str>
+	<str name="Priority Date">
+		2007-09-12
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD. | SAMSUNG ELECTRO-MECHANICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-si,KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-si,KR | Suwon-si,KR
+	</str>
+	<str name="Inventor(s)">
+		LIM JAE-GUYN | OK HYUN-WOOK | KANG JOO-YOUNG | LEE SEONG-DEOK
+	</str>
+	<str name="1st Inventor">
+		LIM JAE-GUYN
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Yongin-si,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Yongin-si,KR | Seoul,KR | Yongin-si,KR | Suwon-si,KR
+	</str>
+	<str name="Agent/Attorney">
+		STAAS &amp; HALSEY LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

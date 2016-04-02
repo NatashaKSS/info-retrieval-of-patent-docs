@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7556961
+	</str>
+	<str name="Application Number">
+		US11/126231
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for collecting and acclimatizing anaerobic ammonuim oxidizing bacteria, and denitrifing water
+	</str>
+	<str name="Abstract">
+		A method for collecting bacterial cells comprising the steps of: feeding water to be treated containing ammonium and nitrite to an anaerobic ammonium oxidation vessel to denitrify ammonium and nitrite by anaerobic ammonium oxidizing bacteria; and feeding the denitrified treated water to an acclimatization vessel or returning the water through the acclimatization vessel to the anaerobic ammonium oxidation vessel to collect anaerobic ammonium oxidizing bacteria in the treated water as immobilized microorganisms attached to an immobilizing material in the acclimatization vessel.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-05-11
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-05
+	</str>
+	<str name="Publication Date">
+		2009-07-07
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-07
+	</str>
+	<str name="All IPC">
+		A62D3/00 | C02F3/00 | C12N11/00
+	</str>
+	<str name="IPC Primary">
+		A62D3/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A62
+	</str>
+	<str name="IPC Subclass">
+		A62D
+	</str>
+	<str name="IPC Group">
+		A62D3
+	</str>
+	<str name="All UPC">
+		435/262.5 | 210/601 | 435/174 | 435/395
+	</str>
+	<str name="UPC Primary">
+		435/262.5
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		KR1020060043554A | EP1595851B1 | EP1595851A1 | JP2005324133A | US20050255539A1 | US20090008314A1 | US20090008326A1 | US20090008315A1 | JP3968589B2 | ES2305941T3 | DE602005007102D1 | US7556961 | CN100480366C | CN101428903A | CN1696278A | US20070272610A1 | CN101445293A
+	</str>
+	<str name="Family Member Count">
+		17
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4043936 | US5286385 | US5616241 | US6015496 | US6610205 | US7384553 | US20010025814 | JP2001007467A | JP024985A2003 | JP2003004990A | JP260481A2003 | WO2003057632
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2004-144909
+	</str>
+	<str name="Priority Date">
+		2004-05-14
+	</str>
+	<str name="Assignee(s)">
+		HITACHI PLANT TECHNOLOGIES, LTD.
+	</str>
+	<str name="1st Assignee">
+		HITACHI PLANT TECHNOLOGIES, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		ISAKA, KAZUICHI | SUMINO, TATSUO
+	</str>
+	<str name="1st Inventor">
+		ISAKA, KAZUICHI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		OLIFF &amp; BERRIDGE, PLC
+	</str>
+	<str name="Primary Examiner">
+		NAFF, DAVID M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

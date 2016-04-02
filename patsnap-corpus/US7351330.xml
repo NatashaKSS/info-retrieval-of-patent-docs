@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7351330
+	</str>
+	<str name="Application Number">
+		US11136898
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Iron and hydrogen sulfide removal apparatus
+	</str>
+	<str name="Abstract">
+		An automated system controls operation of a filtration system. The filtration system includes an aeration tank and a filtration tank. The system includes a pressure sensor, an air pump, a bleed passage, and a pressure control. The pressure sensor measures a pressure in the aeration tank. The air pump and the bleed passage are connected to the aeration tank and are controlled by the pressure control based on the pressure measured in the aeration tank.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-05-25
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-05
+	</str>
+	<str name="Publication Date">
+		2008-04-01
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		C02F1/74
+	</str>
+	<str name="IPC Primary">
+		C02F1/74
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/120 | 137/205 | 210/416.3 | 137/143
+	</str>
+	<str name="UPC Primary">
+		210/120
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7351330
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Product Sheet entitled &quot;Aer-Max Systems, for sulfur and iron problems&quot;, pp. 1-2, date unavailable. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5744040 | US4966692 | US5096596 | US4659463 | US7204930 | US7156995 | US6627070 | US6878293
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		13689805 | 57872504
+	</str>
+	<str name="Priority Date">
+		2005-05-25 | 2004-06-10
+	</str>
+	<str name="Assignee(s)">
+		WILLMAR WATER &amp; SPAS
+	</str>
+	<str name="1st Assignee">
+		WILLMAR WATER &amp; SPAS
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Willmar, MN
+	</str>
+	<str name="Assignee(s) Address">
+		Willmar, MN
+	</str>
+	<str name="Inventor(s)">
+		FADER, ROBERT, T. | GUNDERSON, WES, J.
+	</str>
+	<str name="1st Inventor">
+		FADER, ROBERT, T.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Willmar, MN
+	</str>
+	<str name="Inventor(s) Address">
+		Willmar, MN | Willmar, MN
+	</str>
+	<str name="Agent/Attorney">
+		KINNEY &amp; LANGE, P.A.
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

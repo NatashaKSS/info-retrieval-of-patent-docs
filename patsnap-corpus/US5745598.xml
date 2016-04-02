@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5745598
+	</str>
+	<str name="Application Number">
+		US08208992
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Statistics based segmentation and parameterization method for dynamic processing, identification, and verification of binary contour image
+	</str>
+	<str name="Abstract">
+		An improved method of segmentation and feature-based description for verification/authentication of contour images (e.g. handwritten signatures) is described, directed to a system which employs a set of parameters extracted from a dynamic description of a contour image template to perform segmentation of incoming contour images being verified/authenticated by the system. The preferred embodiment would consist of a central processing unit incorporating a high-performance computer, and of many autonomous verification units (e.g. ATM machines) equipped with inexpensive processing devices. In the central processing unit, a contour image template is segmented into strokes according to the segmentation parameters which are computed using selective properties of the mathematical transformation for said contour image template. For illustration purpose, a discrete cosine transform (DCT) is being used. The segmentation parameters, selective global parameters of the contour image, and selective features of the extracted strokes are memorized in a portable memory device. In a verification unit, an incoming contour image is normalized according to the global parameters retrieved from the portable memory device, then the incoming contour image is segmented according to the retrieved segmentation parameters, and finally the selective features are computed for the extracted strokes. The incoming contour image is accepted if the computed features and the corresponding features retrieved from the portable memory device satisfies a predetermined similarity criterion.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1994-03-11
+	</str>
+	<str name="Application Year">
+		1994
+	</str>
+	<str name="Application(Year/Month)">
+		1994-03
+	</str>
+	<str name="Publication Date">
+		1998-04-28
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-04
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/62 | G06K9/34
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/187 | 382/119 | 382/209 | 382/179 | 382/201
+	</str>
+	<str name="UPC Primary">
+		382/187
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US6069968 | US6359241 | US5745598
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		24
+	</str>
+	<str name="Other References">
+		&quot;Feature Extraction Capability of Some Discrete Transforms&quot;, Wu et al. 1991 IEEE Int'l Symposium on Circuits and Systems pp. 2649-2652, vol. 5, 1991.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		AU745932B2 | US5974161 | US6298146 | US6298147 | US6668081 | US8200980 | US7533809 | US6069968 | US7624073 | US6335726 | CN1371504A | US6430308 | US7367049 | US6661908 | US7607018
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5111512 | US5150420 | US4607386 | JP1985079483
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		20899294
+	</str>
+	<str name="Priority Date">
+		1994-03-11
+	</str>
+	<str name="Inventor(s)">
+		SHAW, VENSON, MING, HENG | SLUZEK, ANDRZEJ, STEFAN
+	</str>
+	<str name="1st Inventor">
+		SHAW, VENSON, MING, HENG
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		111, Reldyes, Ave., Leonia, NJ, 07605
+	</str>
+	<str name="Inventor(s) Address">
+		111, Reldyes, Ave., Leonia, NJ, 07605 | Nanyang, Technological, University, School, of, Applied, Science, Nanyang, Avenue, Singapore, SG
+	</str>
+	<str name="Primary Examiner">
+		BOUDREAU, LEO
+	</str>
+	<str name="Assistant Examiner">
+		MEHTA, BHAVESH
+	</str>
+	<str name="cited by within 3 years">
+		10
+	</str>
+	<str name="cited by within 5 years">
+		12
+	</str>
+</doc>
+

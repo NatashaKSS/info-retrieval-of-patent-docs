@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO1996005569A1
+	</str>
+	<str name="Application Number">
+		PCT/US1995/010027
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		AIRBORNE VIDEO IDENTIFICATION SYSTEM AND METHOD
+	</str>
+	<str name="Abstract">
+		An airborne video identification system (10) acquires video images of objects such as seagoing vessels (12), digitizes (32, 100), stores (56, 100), and processes the images with a computer (18) under interactive operator associated textual data that are stored in a database. In the case of a seagoing vessel, the computer performs length, beam, and mast-height calculations (114) for use as a correlation pre-filter. Fuzzy logic (120) is applied to the images and correlation searches (122) are made in the database. Candidate objects found in the database are displayed (124) so a final unique identification decision (128) may be made by an operator. The database is a subset of a master database that is centrally maintained and updated. The subset database, which is selectively reloaded (144) onto the master database, is loaded into a removable disk pack (20).
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-08-09
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-08
+	</str>
+	<str name="Publication Date">
+		1996-02-22
+	</str>
+	<str name="Publication Year">
+		1996
+	</str>
+	<str name="Publication(Year/Month)">
+		1996-02
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="Family Members">
+		AU3278095A | WO1996005569A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References">
+		GEO INFO SYSTEMS, Jan. 1994, BOSSLER et al., &quot;Digital Mapping on the Ground and From the Air&quot;, pages 44-48. | KINGSTON TECHNOLOGY CORPORATION, PRODUCT CATALOG, issued 1994, &quot;Fixed/Removable Mass Storage for Any Platform&quot;.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		GB2344205A | GB2344205B | WO2003092838A2
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US4887304 | US5168529 | US4396944 | US5164829 | US5150431
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		80/288,943
+	</str>
+	<str name="Priority Date">
+		1994-08-10
+	</str>
+	<str name="Assignee(s)">
+		ANDERSON, BRENT, E.
+	</str>
+	<str name="1st Assignee">
+		ANDERSON, BRENT, E.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		
+	</str>
+	<str name="Assignee(s) Address">
+		
+	</str>
+	<str name="Inventor(s)">
+		ANDERSON, BRENT, E.
+	</str>
+	<str name="1st Inventor">
+		ANDERSON, BRENT, E.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		
+	</str>
+	<str name="Inventor(s) Address">
+		
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>

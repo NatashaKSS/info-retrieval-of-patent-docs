@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7892424
+	</str>
+	<str name="Application Number">
+		US12419614
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Decentralized source separation sewage system
+	</str>
+	<str name="Abstract">
+		An apparatus and method for treating sewage The apparatus receives sewage at a receiving compartment and separates solids from liquids at the receiving compartment. The solids can be extracted from the receiving compartment by an auger. The liquid sewage flows through a series of treatment compartment containing rotating biological contactor discs for treatment by these rotating biological contactor discs. The rotating biological contactor discs are secured to a rotating shaft. The rotating shaft and the auger are powered by a quasi-submerged turbine displaced by a flow of air.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-04-07
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-04
+	</str>
+	<str name="Publication Date">
+		2011-02-22
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		C02F3/08 | C02F9/14
+	</str>
+	<str name="IPC Primary">
+		C02F3/08
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/523 | 210/151 | 210/195.1 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/523
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Application No. PCT/CA2009/000441: International Search Report Dated Jun. 29, 2009. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6773585 | US6534881 | US2266937 | US4268385 | US6631613 | US4326132 | US6195991 | US6447243 | US4742242 | US5326459 | US3860355 | US4805406 | US6990809 | US3886074 | US6106716 | US6769253 | US3360926 | US6798081 | US4522714 | US4981015 | US5395529 | US3907454 | US4054031 | US7083720 | US20030214589 | US3932273 | US6949191 | US5665236 | US20050252206 | US20080135474 | US4363212 | US4093539 | US7216483 | US5407578 | FR2276479 | FR2897902 | EP1426615 | CA2387387 | EP1528254 | GB2230058 | DE102005041899 | GB2190965 | DE19730252 | FR1355149 | GB2417526 | DE4029150 | FR2864174 | FR2491154 | GB2213533 | FR2844308 | DE29500117 | WO2004053329 | DE9215449 | CA984787 | GB2350159 | BE1002838 | WO1996036810 | CA1273720 | GB2069619 | EP0161077 | DE4105581 | CA2125177 | GB2229228
+	</str>
+	<str name="Cites Count">
+		63
+	</str>
+	<str name="Assignee(s)">
+		SOCIETE EG06 INC.
+	</str>
+	<str name="1st Assignee">
+		SOCIETE EG06 INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ville Saint-Laurent, Quebec, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Ville Saint-Laurent, Quebec, CA
+	</str>
+	<str name="Inventor(s)">
+		MAYRAND, PAUL
+	</str>
+	<str name="1st Inventor">
+		MAYRAND, PAUL
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Ville, Saint-Laurent, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Ville, Saint-Laurent, CA
+	</str>
+	<str name="Agent/Attorney">
+		ALLARD, LOUIS B. BORDEN LADNER GERVAIS LLP
+	</str>
+	<str name="Primary Examiner">
+		UPTON, CHRISTOPHER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

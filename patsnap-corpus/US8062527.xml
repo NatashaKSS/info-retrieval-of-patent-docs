@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8062527
+	</str>
+	<str name="Application Number">
+		US13/033646
+	</str>
+	<str name="Title">
+		Method and apparatus for desalinating sea water
+	</str>
+	<str name="Abstract">
+		An object is to provide a fresh water generating method that is capable of efficiently producing purified water, such as fresh water, from unpurified water, such as sea water. Provided is a fresh water generating method for generating fresh water by way of reverse osmosis membrane filtration, which includes mixing sea water with low salt concentration water having a salt concentration lower than sea water to produce mixed water, and subjecting the mixed water prepared by the mixing to reverse osmosis membrane filtration, thereby generating fresh water.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2011-02-24
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-02
+	</str>
+	<str name="Publication Date">
+		2011-11-22
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		B01D61/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/652 | 210/651 | 210/650 | 210/195.2 | 210/739 | 210/804 | 210/805 | 210/800
+	</str>
+	<str name="UPC Primary">
+		210/652
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20080223783 | US7147775 | US20110049054 | US20110049048 | US20100314313 | JP2009106832 | JP2005342664 | JP2004081903 | JP1988197596 | JP1999253761 | JP1990214794 | JP1997174094 | JP2008855317 | WO2006057249 | JP2005279540
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		2008304623 | 2009031819 | 2009031861 | 2009032073 | 2009032075
+	</str>
+	<str name="Priority Date">
+		2008-11-28 | 2009-02-13 | 2009-02-13 | 2009-02-14 | 2009-02-14
+	</str>
+	<str name="Assignee(s)">
+		KOBELCO ECO-SOLUTIONS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		KOBELCO ECO-SOLUTIONS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hyogo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Hyogo, JP
+	</str>
+	<str name="Inventor(s)">
+		ITO, YUTAKA | MOTOJIMA, KATSUHIDE | UEMATSU, KAZUYA | NOSHITA, MASANOBU | TAKATA, KAZUTAKA | SHIMADA, MITSUSHIGE | MANABE, MEGUMI | MIYAOKA, NOBORU | TAKESAKA, KENJI
+	</str>
+	<str name="1st Inventor">
+		ITO, YUTAKA
+	</str>
+	<str name="Number of Inventors">
+		9
+	</str>
+	<str name="1st Inventor Address">
+		Kobe, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kobe, JP | Tokyo, JP | Tokyo, JP | Kobe, JP | Kobe, JP | Kobe, JP | Kobe, JP | Kobe, JP | Kobe, JP
+	</str>
+	<str name="Agent/Attorney">
+		THE WEBB LAW FIRM
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

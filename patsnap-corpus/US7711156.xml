@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7711156
+	</str>
+	<str name="Application Number">
+		US11365688
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for generating shape model of object and apparatus and method for automatically searching for feature points of object employing the same
+	</str>
+	<str name="Abstract">
+		An apparatus and method for generating a shape model of an object and an apparatus and method for automatically searching for feature points of an object employing the same. The apparatus for automatically searching for feature points of an object includes: a shape model generation unit which generates a shape model including a mean model of an object, and statistical feature data of each feature point forming a mean shape, by training a plurality of training sets in which a plurality of feature points are labeled for the object; an initial position resetting unit which resets an initial position of each feature point of the mean shape according to a pose of an input image; and a feature point extraction unit which adapts the mean shape whose initial position is reset, to the input image, by using the statistical feature data of each feature point of the mean shape, and extracts feature points of the input image.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-03-02
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-03
+	</str>
+	<str name="Publication Date">
+		2010-05-04
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/118 | 382/293 | 382/203 | 345/419
+	</str>
+	<str name="UPC Primary">
+		382/118
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Hill, A. et al., &quot;Model-Based Image Interpretation Using Genetic Algorithms,&quot; Image and Vision Computing, vol. 10, No. 5, pp. 295-300, Jun. 1992. cited by other . | Cootes, T. F. et al., &quot;Active Shape Models--Their Training and Application,&quot; Computer Vision and Image Understanding, vol. 61, No. 1, pp. 38-59, Jan. 1995. cited by other . | Lobo, F. et al., &quot;Linkage Learning Genetic Algorithm in C++,&quot; IlliGAL Report No. 98006, University of Illinois at Urbana-Champaign, Apr. 1998. cited by other.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6975763 | US6845171 | US20040120581 | US20040041804 | US7372981 | US7039216 | US7454039 | US20060210168
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020050017216
+	</str>
+	<str name="Priority Date">
+		2005-03-02
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-Si, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-Si, KR
+	</str>
+	<str name="Inventor(s)">
+		KIM, WHOIYUL | HWANG, WONJUN | KEE, SEOKCHEOL
+	</str>
+	<str name="1st Inventor">
+		KIM, WHOIYUL
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul, KR | Seoul, KR | Seoul, KR
+	</str>
+	<str name="Primary Examiner">
+		DESIRE, GREGORY M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

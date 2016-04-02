@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1237131A2
+	</str>
+	<str name="Application Number">
+		EP2002003562
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		A wireless universal personal access system
+	</str>
+	<str name="Abstract">
+		The invention relates to a two-way bi-directional wireless-based access communication system that allows a user to access any one of multiple independent secured domain systems from a single handheld remote keyless entry device, whereupon activation of the remote keyless device by the user, an encoded request signal containing a predetermined access code is generated and transmitted by the remote keyless entry device to one of the multiple secure domain systems. And, based on the access code contained within the encoded request signal, the domain system determines the validity of the access code and transmits a corresponding encoded authorization signal to user at the transceiver device.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-02-15
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-02
+	</str>
+	<str name="Publication Date">
+		2002-09-04
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-09
+	</str>
+	<str name="All IPC">
+		G07F19/00 | G06F17/60
+	</str>
+	<str name="IPC Primary">
+		G07F19/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G07
+	</str>
+	<str name="IPC Subclass">
+		G07F
+	</str>
+	<str name="IPC Group">
+		G07F19
+	</str>
+	<str name="Family Members">
+		US20020109580A1 | EP1237131A2
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		5
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		CN1519771A | CN100380397C
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		78452601
+	</str>
+	<str name="Priority Date">
+		2001-02-15
+	</str>
+	<str name="Assignee(s)">
+		TRW INC.
+	</str>
+	<str name="1st Assignee">
+		TRW INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		SHREVE, GREGORY, A. | DUNBRIDGE, BARRY
+	</str>
+	<str name="1st Inventor">
+		SHREVE, GREGORY, A.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

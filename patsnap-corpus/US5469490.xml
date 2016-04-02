@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5469490
+	</str>
+	<str name="Application Number">
+		US08405548
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Cold-cathode X-ray emitter and tube therefor
+	</str>
+	<str name="Abstract">
+		A light weight battery powered x-ray source capable of producing high intensity x-ray emissions with low power consumption. A modular construction locates all high voltage components including the x-ray tube, spark gap trigger, spiral capacitor and the secondary of a step-up transformer in a sealed canister which can be decoupled both mechanically and electrically by unscrewing a simple threaded coupling. A center module contains the primary of the step-up transformer, circuit boards for electronic components and a pulse counter/selector. A battery pack with rechargeable Nicad batteries is removably connectable to the center module. High intensity pulses are achieved in part by connecting the spiral capacitor at midlength to the spark gap trigger. An improved x-ray tube with light weight but effective lead shielding and an overall length of less than two inches is also disclosed.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-03-16
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-03
+	</str>
+	<str name="Publication Date">
+		1995-11-21
+	</str>
+	<str name="Publication Year">
+		1995
+	</str>
+	<str name="Publication(Year/Month)">
+		1995-11
+	</str>
+	<str name="All IPC">
+		H01J35/04
+	</str>
+	<str name="IPC Primary">
+		H01J35/04
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01J
+	</str>
+	<str name="IPC Group">
+		H01J35
+	</str>
+	<str name="All UPC">
+		378/136 | 378/122
+	</str>
+	<str name="UPC Primary">
+		378/136
+	</str>
+	<str name="UPC Class">
+		378
+	</str>
+	<str name="Family Members">
+		US5442677 | US5469490
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		20
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		WO2007041498A2 | US7737424 | US7529345 | US6069938 | US6064718 | US6289079 | US7756251 | US7983394 | US8247971 | US6353658 | US7180981 | US7502446 | US7382862 | US6108402 | US6095966
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US4379977 | US3883760 | US3309523 | US3283203 | US3970884 | US4012656
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		40554895 | 14281693
+	</str>
+	<str name="Priority Date">
+		1995-03-16 | 1993-10-26
+	</str>
+	<str name="Inventor(s)">
+		GOLDEN, JOHN | GOLDEN, PHILLIP
+	</str>
+	<str name="1st Inventor">
+		GOLDEN, JOHN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		2859, Sowers, Rd., Greensfork, IN, 47345
+	</str>
+	<str name="Inventor(s) Address">
+		2859, Sowers, Rd., Greensfork, IN, 47345 | 196, S., Centerville, Rd., Centerville, IN, 47330
+	</str>
+	<str name="Agent/Attorney">
+		YOUNG, MACFARLANE &amp; WOOD
+	</str>
+	<str name="Primary Examiner">
+		PORTA, DAVID P.
+	</str>
+	<str name="cited by within 3 years">
+		8
+	</str>
+	<str name="cited by within 5 years">
+		11
+	</str>
+</doc>
+

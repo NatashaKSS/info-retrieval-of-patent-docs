@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5174973
+	</str>
+	<str name="Application Number">
+		US07622485
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Method and apparatus for effecting gas-liquid contact
+	</str>
+	<str name="Abstract">
+		Components, usually but not exclusively gaseous components, are removed in a liquid medium from gas streams and chemically converted into an insoluble phase or physically removed. Specifically, hydrogen sulfide may be removed from streams by oxidation in aqueous chelated transition metal solution in a modified agitated flotation cell. A gas-liquid contact apparatus, generally a combined chemical reactor and solid product separation device, comprising such modified agitated flotation cell also is described. In order to effect efficient mass transfer and rapid reaction, gas bubbles containing hydrogen sulfide and oxygen are formed by rotating an impeller at a blade tip velocity of at least about 350 in/sec. to achieve the required shear. To assist in the reaction, a surrounding shroud has a plurality of openings, generally of aspect ratio of approximately 1, of equal diameter and arranged in uniform pattern, such as to provide a gas flow therethrough less than about 0.02 lb/min/opening in the shroud. In general, the gas velocity index is at least about 18 per second per opening, preferably at least about 24 per second per opening. Each of the openings has an area corresponding to an equivalent diameter less than about one inch.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1990-12-05
+	</str>
+	<str name="Application Year">
+		1990
+	</str>
+	<str name="Application(Year/Month)">
+		1990-12
+	</str>
+	<str name="Publication Date">
+		1992-12-29
+	</str>
+	<str name="Publication Year">
+		1992
+	</str>
+	<str name="Publication(Year/Month)">
+		1992-12
+	</str>
+	<str name="All IPC">
+		C01B17/16 | C01B31/20 | C01B17/20 | B05B7/10
+	</str>
+	<str name="IPC Primary">
+		C01B17/16
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C01
+	</str>
+	<str name="IPC Subclass">
+		C01B
+	</str>
+	<str name="IPC Group">
+		C01B17
+	</str>
+	<str name="All UPC">
+		423/574.1 | 423/243.01 | 423/226 | 423/576.5 | 261/79.2 | 423/244.02 | 423/224
+	</str>
+	<str name="UPC Primary">
+		423/574.1
+	</str>
+	<str name="UPC Class">
+		423
+	</str>
+	<str name="Family Members">
+		KR100152244B1 | US5174973
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References">
+		Chapter entitled &quot;Outokumpu Flotation Machines&quot; by K. Fallenius, in Chapter 29 of Flotation, ed. M. C. Fuerstenau, AIMM, PE Inc. N.Y. 1976. | Chemical Abstracts, vol. 81, No. 8, 1974, (Columbus, Ohio, US), p. 242, abstract 41073s &amp; JP, A, 7385475 (Tabata Kagaku Co. Ltd) Nov. 13, 1973. | Chapter entitled Flotation Machines and Equipment in &quot;Flotation Agents and Processes, Chemical Technology Review #172&quot;, M. M. Ranney, Editor, 1980. | Babor, Joseph W. Basic College Chemistry, Thomas Y. Crowell Co, N.Y., N.Y. 1953 pp. 255-260. | &quot;Development of Self-Inducing Dispenser for Gas/Liquid and Liquid/Liquid Systems&quot; by Koen et al, Processing of the Second Duropean Conference on Mixing, Mar. 30-Apr. 1, 1977.
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By">
+		US5340484 | US6887447 | US7682520 | US7459012
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		US3647069 | US3993563 | US4889701 | US4789469 | US4534952 | US4552747 | US2294827 | US4683062 | US3911093 | US4737272 | US4649032 | US4009251 | US3273865 | US4452766 | US3925230 | US4919914 | US4789530 | US4442083 | US4824645 | US2659691 | US2274658 | US4808385 | US4036942 | US4525338 | GB1521785 | EP0086919 | CA1212819 | DE3712007
+	</str>
+	<str name="Cites Count">
+		28
+	</str>
+	<str name="Priority Country">
+		CA | GB
+	</str>
+	<str name="Priority Number">
+		2004652 | 9002462.1
+	</str>
+	<str name="Priority Date">
+		1989-12-05 | 1990-05-02
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF TORONTO INNOVATIONS FOUNDATION
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF TORONTO INNOVATIONS FOUNDATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Toronto, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Toronto, CA
+	</str>
+	<str name="Inventor(s)">
+		SMITH, JAMES, W. | ELLENOR, DAVID, T., R. | HARBINSON, JOHN, N.
+	</str>
+	<str name="1st Inventor">
+		SMITH, JAMES, W.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Toronto, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Toronto, CA | Scarborough, CA | Aurora, CA
+	</str>
+	<str name="Agent/Attorney">
+		SIM &amp; MCBURNEY
+	</str>
+	<str name="Primary Examiner">
+		STRAUB, GARY P.
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

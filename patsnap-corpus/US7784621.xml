@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7784621
+	</str>
+	<str name="Application Number">
+		US10879628
+	</str>
+	<str name="Title">
+		Ultrafiltration membrane and process
+	</str>
+	<str name="Abstract">
+		An inorganic membrane suitable for ultrafiltration or nanofiltration, and methods for making and using the membrane. The membrane has a organic polymer deposited on the feed surface, but is not able to perform separations by solution-diffusion.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-06-29
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-06
+	</str>
+	<str name="Publication Date">
+		2010-08-31
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-08
+	</str>
+	<str name="All IPC">
+		B01D71/56 | B01D61/00 | B01D71/52 | B01D71/06 | B01D71/02
+	</str>
+	<str name="IPC Primary">
+		B01D71/56
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D71
+	</str>
+	<str name="All UPC">
+		210/500.27 | 210/651 | 210/650 | 210/510.1 | 210/490 | 210/509
+	</str>
+	<str name="UPC Primary">
+		210/500.27
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Nunes et al, &quot;Dense Hydrophilic Composite Membranes for Ultrafiltration,&quot; Journal of Membrane Science, 1995, p. 49-56, v. 106. cited by other . | Ebert et al, &quot;Solvent Resistant Nanofiltration membranes in Edible Oil Processing,&quot; Membrane Technology, Mar. 1999, p. 5-8, v. 1999. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US3544358 | US5106502 | US4874516 | US4861480 | US5171449 | US5066398 | US5208190 | US3944658 | US5006248 | US4983423 | US6440309 | US6093325 | US5141649 | US4963165 | US6026968 | US5342521 | US5824220 | US5266207 | US4781831 | DE4237604 | WO2003072232
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Assignee(s)">
+		MEMBRANE TECHNOLOGY &amp; RESEARCH, INC
+	</str>
+	<str name="1st Assignee">
+		MEMBRANE TECHNOLOGY &amp; RESEARCH, INC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Menlo Park, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Menlo Park, CA
+	</str>
+	<str name="Inventor(s)">
+		PINNAU, INGO
+	</str>
+	<str name="1st Inventor">
+		PINNAU, INGO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Palo, Alto, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Palo, Alto, CA
+	</str>
+	<str name="Agent/Attorney">
+		FARRANT, J.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

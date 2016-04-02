@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5882524
+	</str>
+	<str name="Application Number">
+		US08864184
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Treatment of oil-contaminated particulate materials
+	</str>
+	<str name="Abstract">
+		A closed loop process is shown for treating oil and saline contaminated particulate materials such as drilling cuttings such as are encountered in oil and gas well bore drilling operations. The process includes at least two washing stages and three solids separation stages. A process fluid tank utilizes an auger to remove deposited solids from the process fluid while hot gases being bubbled through the tank facilitate separation and skimming of oil and hydrocarbon components from the tank surface.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1997-05-28
+	</str>
+	<str name="Application Year">
+		1997
+	</str>
+	<str name="Application(Year/Month)">
+		1997-05
+	</str>
+	<str name="Publication Date">
+		1999-03-16
+	</str>
+	<str name="Publication Year">
+		1999
+	</str>
+	<str name="Publication(Year/Month)">
+		1999-03
+	</str>
+	<str name="All IPC">
+		B01D37/00 | B08B3/08 | B01D21/26 | B01D21/01
+	</str>
+	<str name="IPC Primary">
+		B01D37/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D37
+	</str>
+	<str name="All UPC">
+		134/25.1 | 210/787 | 134/10 | 210/774 | 210/805 | 210/772 | 175/66 | 210/167 | 210/800 | 210/737 | 210/768 | 134/60 | 210/738 | 134/33 | 210/712
+	</str>
+	<str name="UPC Primary">
+		134/25.1
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		US5882524
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		GB2427573B | GB2427573A | US8267200 | US8287441 | US6838485 | US6881367 | US6689925 | US7455783 | WO2005092470A1 | US6245154 | US6224534 | US7971657 | US6739408 | US6602181 | US6607659
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US4793423 | US5053082 | US5490928 | US5454957
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		86418497
+	</str>
+	<str name="Priority Date">
+		1997-05-28
+	</str>
+	<str name="Assignee(s)">
+		AQUASOL INTERNATIONAL, INC.
+	</str>
+	<str name="1st Assignee">
+		AQUASOL INTERNATIONAL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Calgary, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Calgary, CA
+	</str>
+	<str name="Inventor(s)">
+		STOREY, DALE | LUNDIE, KEVIN
+	</str>
+	<str name="1st Inventor">
+		STOREY, DALE
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Locombe, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Locombe, CA | Locombe, CA
+	</str>
+	<str name="Agent/Attorney">
+		GUNTER, CHARLES D., DILLON, ANDREW J.
+	</str>
+	<str name="Primary Examiner">
+		REIFSNYDER, DAVID A.
+	</str>
+	<str name="cited by within 3 years">
+		13
+	</str>
+	<str name="cited by within 5 years">
+		17
+	</str>
+</doc>
+

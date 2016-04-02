@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7822264
+	</str>
+	<str name="Application Number">
+		US10568268
+	</str>
+	<str name="Title">
+		Computer-vision system for classification and spatial localization of bounded 3D-objects
+	</str>
+	<str name="Abstract">
+		The invention relates to a system and method for recognition, classification and spatial localization of bounded 3D-objects. In particular it relates to a computerized method for recognition, classification and localization of objects. The method comprises generation of a training database based on a large number of training views recorded by a camera or constructed using a CAD representation of an object. Characteristic curves are derived from the training views, and primitives of the curves are detected. Intrinsic and extrinsic descriptors of features are stored in the database together with data about the object class and pose of the view. Finally the recognition takes place in two stages: First the intrinsic descriptors of the recognition view are compared with those of the database. Second, among the best matching features it is explored which features agree mutually in the sense that they suggest the same object class at the same pose.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2004-08-13
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2010-10-26
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-10
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/154
+	</str>
+	<str name="UPC Primary">
+		382/154
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Visintini, Domenico, High-Efficiency Building Surveys by Dynamic and Static Digital Images oriented with &quot;Mixed Models&quot;, The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, vol. XXXIV, Part 5/W12, pp. 335-340. cited by other. | Candocia, Frank M., Simultaneous Homographic and Comparametric Alignment of Multiple Exposure-Adjusted Pictures of the Same Scene, IEEE Transactions on Image Processing, vol. 12, No. 12, Dec. 2003, pp. 1485-1494. cited by other . | Projective Transformations, website http://www.ipb.uni-bonn.de/DAGM/Tutorials2001/Session-2/img0.htm, Jun. 15, 2006 in 12 pages. cited by other . | Assignment 1: 2D Homograph, website http://www.cs.unc.edu/.about.salomon/class.sub.--projects/COMP%20290-089/- Assignment1/, Jun. 15, 2006, in 5 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cites">
+		US6501554 | US6266054 | US6665588 | US4899095 | US5572103 | US4748675 | US4969201 | US4712248 | US5471312 | US6328523 | US4183013 | US20030179824 | US6236896 | US4566124 | US5959425 | US5351310 | US6597971 | US5828769 | WO1995016252 | JP1996136220 | WO1991005314 | JP2002286426 | EP0220467 | JP1985204086 | JP2002197472 | EP1262907
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		DK
+	</str>
+	<str name="Priority Number">
+		200301178
+	</str>
+	<str name="Priority Date">
+		2003-08-15
+	</str>
+	<str name="Assignee(s)">
+		SCAPE A/S
+	</str>
+	<str name="1st Assignee">
+		SCAPE A/S
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Copenhagen, DK
+	</str>
+	<str name="Assignee(s) Address">
+		Copenhagen, DK
+	</str>
+	<str name="Inventor(s)">
+		BALSLEV, IVAR | ERIKSEN, RENE, DENCKE
+	</str>
+	<str name="1st Inventor">
+		BALSLEV, IVAR
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Odense, DK
+	</str>
+	<str name="Inventor(s) Address">
+		Odense, DK | Odense, DK
+	</str>
+	<str name="Agent/Attorney">
+		KNOBBE MARTENS OLSON &amp; BEAR LLP
+	</str>
+	<str name="Primary Examiner">
+		MARIAM, DANIEL G
+	</str>
+	<str name="Assistant Examiner">
+		WOLDEMARIAM, AKLILU K
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

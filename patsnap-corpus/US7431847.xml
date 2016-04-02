@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7431847
+	</str>
+	<str name="Application Number">
+		US10535657
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for purifying water by photo-chemical oxidation
+	</str>
+	<str name="Abstract">
+		An apparatus for purifying contaminated water by photochemical oxidation has at least a subflow of water that is directed through a flow channel in which the water is irradiated with UV electromagnetic radiation from at least one UV lamp assembly. The UV lamp assembly includes a high-pressure UV halogen lamp, which is mounted generally parallel with the flow direction in the channel. A method of irradiating the water flow with UV radiation includes using the at least one UV halogen high-pressure lamp assembly, which has energy intensive wave lengths in the range of 150 nm to 260 nm, preferably in the range of 160 nm to 220 nm, and most preferably in the range of 192 nm to 205 nm.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-11-20
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-11
+	</str>
+	<str name="Publication Date">
+		2008-10-07
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		B01D17/06
+	</str>
+	<str name="IPC Primary">
+		B01D17/06
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D17
+	</str>
+	<str name="All UPC">
+		250/436 | 210/150 | 210/748
+	</str>
+	<str name="UPC Primary">
+		250/436
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		EP1562864B1 | EP1562864A2 | AU2003281976A1 | US20060006117A1 | ES2282694T3 | DE60312028T2 | AU2003281976A8 | AT354542T | US7431847 | WO2004046038A2 | WO2004046038A3 | DE60312028D1 | CA2505733A1 | DK1562864T3
+	</str>
+	<str name="Family Member Count">
+		14
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5348665 | US20020023866 | US6048812 | US4454512 | US4792407 | US6451209 | US6447721 | US20040031762 | US5324438 | JP1997192659 | WO1999033752 | WO2003022749 | WO1997029997
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		DK
+	</str>
+	<str name="Priority Number">
+		200201796
+	</str>
+	<str name="Priority Date">
+		2002-11-20
+	</str>
+	<str name="Inventor(s)">
+		KAAS, POVL
+	</str>
+	<str name="1st Inventor">
+		KAAS, POVL
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Herning, DK
+	</str>
+	<str name="Inventor(s) Address">
+		Herning, DK
+	</str>
+	<str name="Agent/Attorney">
+		JACOBSON HOLMAN PLLC
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D.
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

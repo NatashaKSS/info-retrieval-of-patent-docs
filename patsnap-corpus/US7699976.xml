@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7699976
+	</str>
+	<str name="Application Number">
+		US11548764
+	</str>
+	<str name="Title">
+		Upflow bioreactor with septum and pressure release mechanism
+	</str>
+	<str name="Abstract">
+		An upflow bioreactor includes a vessel having an inlet and an outlet configured for upflow operation. A septum is positioned within the vessel and defines a lower chamber and an upper chamber. The septum includes an aperture that provides fluid communication between the upper chamber and lower chamber. The bioreactor also includes means for releasing pressure buildup in the lower chamber. In one configuration, the septum includes a releasable portion having an open position and a closed position. The releasable portion is configured to move to the open position in response to pressure buildup in the lower chamber. In the open position fluid communication between the lower chamber and the upper chamber is increased. Alternatively the lower chamber can include a pressure release line that is selectively actuated by pressure buildup. The pressure release mechanism can prevent the bioreactor from plugging and/or prevent catastrophic damage to the bioreactor caused by high pressures.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-10-12
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-10
+	</str>
+	<str name="Publication Date">
+		2010-04-20
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F3/28
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/603 | 210/90
+	</str>
+	<str name="UPC Primary">
+		210/603
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8183035
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US2889929 | US3622009 | US5866002 | US4208279 | US20060060524 | US3965013 | US5798043 | US4302329 | US3705648 | US5441634 | US5660724 | US5747311 | US3837493 | US4350588 | US4003398 | US5529692 | US20060065593 | US5507946 | US6911149
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Assignee(s)">
+		UTAH STATE UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		UTAH STATE UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		North Logan, UT
+	</str>
+	<str name="Assignee(s) Address">
+		North Logan, UT
+	</str>
+	<str name="Inventor(s)">
+		HANSEN, CONLY, L. | HANSEN, CARL, S. | PACK, KEVIN | MILLIGAN, JOHN | BENEFIEL, BRADLEY, C. | TOLMAN, C., WAYNE | TOLMAN, KENNETH, W.
+	</str>
+	<str name="1st Inventor">
+		HANSEN, CONLY, L.
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		North, Logan, UT
+	</str>
+	<str name="Inventor(s) Address">
+		North, Logan, UT | Garland, UT | North, Logan, UT | North, Logan, UT | Idaho, Falls, ID | Rupert, ID | Rupert, ID
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

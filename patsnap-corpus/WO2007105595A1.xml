@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2007105595A1
+	</str>
+	<str name="Application Number">
+		PCT/JP2007/054553
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		BATTERY STATE JUDGING DEVICE
+	</str>
+	<str name="Abstract">
+		Provided is a battery state judging device, which can judge the battery state of a lead battery precisely from an engine starting voltage while considering the influences of the temperature of a vehicle. On the basis of an open circuit voltage (OCV) and the temperature of the vehicle, an engine starting voltage (Vst1) corrected from an engine starting voltage (Vst) of the lead battery at the engine starting time is computed (at S112). A battery deciding voltage (Vst_th) expressing the voltage of the lead battery at the engine starting time when the increasing factor of the internal resistance of the lead battery reaches a predetermined value for the battery replacement is computed (at S126) from the open circuit voltage (OCV). The battery state of the lead battery is decided (at S132) by judging whether or not the engine starting voltage (Vst1) belongs to a predetermined zone of a characteristic map. The engine starting voltage (Vst1) is computed by assuming that temperature of the lead battery, which is measured after lapse of a predetermined time from an engine stop, as the temperature of the vehicle.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-03-08
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2007-09-20
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-09
+	</str>
+	<str name="All IPC">
+		B60L3/00 | G01R31/36 | B60R16/04 | H01M10/48
+	</str>
+	<str name="IPC Primary">
+		B60L3/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B60
+	</str>
+	<str name="IPC Subclass">
+		B60L
+	</str>
+	<str name="IPC Group">
+		B60L3
+	</str>
+	<str name="Family Members">
+		WO2007105595A1 | US20090088994A1 | EP1995123A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		JP2004025982A | JP2004042799A | JP2005146939A | JP2006015896A | JP7063114A | JP7063830A | JP2001163129A
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2006105803
+	</str>
+	<str name="Priority Date">
+		2006-04-07
+	</str>
+	<str name="Assignee(s)">
+		SHIN-KOBE ELECTRIC MACHINERY CO. LTD. | MACHIYAMA, YOSHIAKI | YAMADA, KEIZO | YAMADA, YOSHIFUMI | HARA, TAKASHI
+	</str>
+	<str name="1st Assignee">
+		SHIN-KOBE ELECTRIC MACHINERY CO. LTD.
+	</str>
+	<str name="Number of Assignees">
+		5
+	</str>
+	<str name="1st Assignee Address">
+		8-1, Akashi-cho, Chuo-ku, Tokyo, 1040044, 1040044, JP
+	</str>
+	<str name="Assignee(s) Address">
+		8-1, Akashi-cho, Chuo-ku, Tokyo, 1040044, 1040044, JP | 493-1, Uwanodai, Fukaya-shi, Saitama, 3660801, 3660801, JP | 3-34-1-301, Keyaki, Honjyo-shi, Saitama, 3670042, 3670042, JP | 305 Tsukagoshi-bldg., 3179-2, Uwanodai, Fukaya-shi, Saitama, 3660801, 3660801, JP | 3333-1, Asahicho, Honjyo-shi, Saitama, 3670026, 3670026, JP
+	</str>
+	<str name="Agent/Attorney">
+		IGARASHI, TOSHIAKI
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

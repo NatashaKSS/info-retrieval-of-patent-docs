@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7622892
+	</str>
+	<str name="Application Number">
+		US11501963
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Contactless battery charger
+	</str>
+	<str name="Abstract">
+		Disclosed is a contactless battery charger for simultaneously charging numerous portable terminals and battery packs, regardless of their type, when they are placed on the charger, as well as sterilizing and cleaning them. The charger includes a plate-shaped portion gradually depressed towards the center up to a predetermined depth so that a number of terminals and battery packs can be placed on the plate-shaped portion. The charger is adapted to simultaneously charge a number of battery packs in a contactless mode.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-08-10
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-08
+	</str>
+	<str name="Publication Date">
+		2009-11-24
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		H02J7/00 | H02B1/00 | H02J7/04 | A61L2/24
+	</str>
+	<str name="IPC Primary">
+		H02J7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02J
+	</str>
+	<str name="IPC Group">
+		H02J7
+	</str>
+	<str name="All UPC">
+		361/600 | 422/24 | 320/139 | 320/109 | 320/108
+	</str>
+	<str name="UPC Primary">
+		361/600
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		EP1763120A2 | US20070046256A1 | US7622892 | CN100487971C | CN1917278A
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20050156560 | CN2308198 | CN1322049 | KR020060107148 | CN2596682 | GB2389720 | CN1647342
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020050075732
+	</str>
+	<str name="Priority Date">
+		2005-08-18
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		KR
+	</str>
+	<str name="Assignee(s) Address">
+		KR
+	</str>
+	<str name="Inventor(s)">
+		KIM, JOON-SUH | LEE, CHANG-SOO
+	</str>
+	<str name="1st Inventor">
+		KIM, JOON-SUH
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Anyang-si, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Anyang-si, KR | Incheon, KR
+	</str>
+	<str name="Agent/Attorney">
+		THE FARRELL LAW FIRM, LLP
+	</str>
+	<str name="Primary Examiner">
+		TSO, EDWARD
+	</str>
+	<str name="Assistant Examiner">
+		FANTU, YALKEW
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

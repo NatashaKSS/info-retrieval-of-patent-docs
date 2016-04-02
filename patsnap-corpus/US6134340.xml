@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6134340
+	</str>
+	<str name="Application Number">
+		US08995330
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Fingerprint feature correlator
+	</str>
+	<str name="Abstract">
+		A device, and a method for its operation, for verifying a person's identity by comparing in a correlator (18) selected features of a reference fingerprint image, generated in a sensor (10) from the fingerprint of a person of known identity, with a subject fingerprint image taken from a person whose identity is to be verified. In an enrollment procedure, a fingerprint from a person of known identity is analyzed in an enrollment processor (14) to locate multiple reference patches that together are distinctive to that person's fingerprint. The reference patch images are stored, together with their locations in the image, in a reference image storage unit (16). When a subject fingerprint image is later provided, every reference patch is compared with every possible patch of similar size in the subject image, to find a set of candidate match locations in the subject image. Then a subset of the candidate match locations is selected such that the candidate match locations in the subset are practically geometrically congruent with the locations of a corresponding subset of reference patches. A verification match is declared based on the number candidate match locations in the selected subset that satisfies this geometric constraint.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1997-12-22
+	</str>
+	<str name="Application Year">
+		1997
+	</str>
+	<str name="Application(Year/Month)">
+		1997-12
+	</str>
+	<str name="Publication Date">
+		2000-10-17
+	</str>
+	<str name="Publication Year">
+		2000
+	</str>
+	<str name="Publication(Year/Month)">
+		2000-10
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/44
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/258 | 382/125 | 382/124
+	</str>
+	<str name="UPC Primary">
+		382/258
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		EP0918300A3 | DE69810581T2 | DE69810581D1 | JP3053388B2 | EP0918300B1 | US6134340 | EP0918300A2 | JP1999250261A
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		S. Anderson, W. H. Bruce, P. B. Denyer, D. Renshaw and G. Wang, A Single Chip Sensor &amp; Image Processor for Fingerprint Verification, Proceedings of the Custom Integrated Circuits Conference, San Diego, May 12-15, 1991, Conf. 13, May 12, 1991, pp. 12.1.1-12.1.4. | Hironori Yahagi, Seigo Igaki and Fumio Yamagishi, Moving Window Algorithm for Fast Fingerprint Verification, Technologies Today and Tomorrow, New Orleans, Apr. 1-4, 1990, vol. 1, Apr. 1, 1990, pp. 343-347. | Nalini K. Ratha, Kalle Karu, Shaoyun Chen, and Anil K. Jain, A Real-Time Matching System for Large Fingerprint Databases, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 18, No. 8, Aug. 1, 1996, pp. 799-812.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US4896363 | US4646352 | US5067162 | US4790564
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		99533097
+	</str>
+	<str name="Priority Date">
+		1997-12-22
+	</str>
+	<str name="Assignee(s)">
+		TRW INC.
+	</str>
+	<str name="1st Assignee">
+		TRW INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redondo Beach, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Redondo Beach, CA
+	</str>
+	<str name="Inventor(s)">
+		HSU, SHI-PING | EVANS, BRUCE, W.
+	</str>
+	<str name="1st Inventor">
+		HSU, SHI-PING
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Pasadena, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Pasadena, CA | Redondo, Beach, CA
+	</str>
+	<str name="Agent/Attorney">
+		YATSKO, MICHAEL S.
+	</str>
+	<str name="Primary Examiner">
+		BOUDREAU, LEO H.
+	</str>
+	<str name="Assistant Examiner">
+		CAGE, SHAWN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

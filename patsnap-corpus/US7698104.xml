@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7698104
+	</str>
+	<str name="Application Number">
+		US12144237
+	</str>
+	<str name="Title">
+		Diagnostic system and article
+	</str>
+	<str name="Abstract">
+		Articles and systems comprise a diagnostic symptom tree system for diagnosing a failing system element causing a symptom in a system-under-test. A diagnostic symptom tree comprises symptom roots and dependent lower function nodes and sub-function nodes. Element nodes depend from the function or sub-function nodes, and a plurality of penultimate failure mode leaves depend from the element nodes. The function and sub-function nodes and the failure mode leaves comprise test information. Responsive to positive test results, the diagnostic symptom tree is configured to identify a function or sub-function or element node associated to a lowest symptom tree node or failure mode leaf for which a test is positive, or advise that no failing function or sub-function or element is found. In one aspect of the invention, nodes may include parameter values allowing successive selections of the nodes of the symptom tree for test iterations according to the parameter values.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-06-23
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-06
+	</str>
+	<str name="Publication Date">
+		2010-04-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		G06F11/30
+	</str>
+	<str name="IPC Primary">
+		G06F11/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F11
+	</str>
+	<str name="All UPC">
+		706/913 | 702/183 | 701/29
+	</str>
+	<str name="UPC Primary">
+		706/913
+	</str>
+	<str name="UPC Class">
+		706
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		A. Zuzek et al, &quot;Sequential diagnosis tool&quot;, Microprocessors and Microsystems, Mar. 29, 2000, pp. 1-7. cited by other. | Notice of Opposition filed by Rheinmetall Defence Electronics GmbH re EP Patent 1674958 B1 of International Business Machines Corporation, dated Jan. 30, 2009, and English translation of notice. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US5806056 | US5890080 | US5107497 | US20050043922 | US6950782 | US5587930 | US4866635 | US7409317 | US5272704 | EP1674958 | DE19523483 | WO2003042769 | WO2003042918 | GB2303231
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		04300930
+	</str>
+	<str name="Priority Date">
+		2004-12-21
+	</str>
+	<str name="Assignee(s)">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Armonk, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Armonk, NY
+	</str>
+	<str name="Inventor(s)">
+		COUSIN, BENOIT | NEYT, JEAN-LOIS
+	</str>
+	<str name="1st Inventor">
+		COUSIN, BENOIT
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Colombes, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Colombes, FR | Colombes, FR
+	</str>
+	<str name="Agent/Attorney">
+		DAUGHERTY, PATRICK J. DRIGGS, HOGG, DAUGHERTY &amp; DEL ZOPPO CO., LPA
+	</str>
+	<str name="Primary Examiner">
+		BARBEE, MANUEL L
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

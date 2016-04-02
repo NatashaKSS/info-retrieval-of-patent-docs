@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7392233
+	</str>
+	<str name="Application Number">
+		US09255352
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image searching system, image searching method, and a recording medium storing an image searching program
+	</str>
+	<str name="Abstract">
+		An image searching system, an image searching method, and a medium storing an image searching program for improving search accuracy while reducing the user burden when searching for similar images based on a plurality of key images are disclosed.A plurality of feature quantity types is extracted from each of plural key images (S42), and feature quantities of the same type are compared between the key images to select those feature quantities having approximately equal values as the key image feature quantities to be used as search criteria (S43). Feature quantities in the target images are then extracted (S45) and a degree of similarity between the target image and key images is calculated based on a key image feature quantity and the same feature quantity in the target image (S46) Based on the resulting degree of similarity, target images having a high similarity to the key image are output as the search result (S47).
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1999-02-23
+	</str>
+	<str name="Application Year">
+		1999
+	</str>
+	<str name="Application(Year/Month)">
+		1999-02
+	</str>
+	<str name="Publication Date">
+		2008-06-24
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All IPC">
+		G06F7/00 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		707/5 | 707/1 | 707/3
+	</str>
+	<str name="UPC Primary">
+		707/5
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Members">
+		US7392233 | US20020178135A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8022980 | US8045000 | US8164672
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US6011537 | US6246804 | US6009204 | US5974422 | US6072941 | US5586240 | US6181818 | US5870741 | JP1995065169 | JP1995234877 | JP1996329099 | JP1993242160 | JP1997101970 | JP1996329096
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		10041989
+	</str>
+	<str name="Priority Date">
+		1998-02-24
+	</str>
+	<str name="Assignee(s)">
+		MINOLTA CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		MINOLTA CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Osaka, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s)">
+		TANAKA, SUMIYO
+	</str>
+	<str name="1st Inventor">
+		TANAKA, SUMIYO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Osaka, JP
+	</str>
+	<str name="Agent/Attorney">
+		SIDLEY AUSTIN LLP
+	</str>
+	<str name="Primary Examiner">
+		ALI, MOHAMMAD
+	</str>
+	<str name="Assistant Examiner">
+		SAEED, USMAAN
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

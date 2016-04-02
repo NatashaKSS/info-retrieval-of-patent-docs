@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7604735
+	</str>
+	<str name="Application Number">
+		US11714411
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Combined chlorine and ozone generator sterilization system
+	</str>
+	<str name="Abstract">
+		A water sanitizing apparatus is provided wherein a housing is divided into separate narrow compartments through which a flow of water is directed sequentially in upward and downward directions. An ultraviolet ozone generator and pair of electrolysis plates are mounted in one of the narrow compartments, with a salt in the flow of water being electrolyzed to form a sanitizing halogen in the presence of ultraviolet light from the ozone generator. In one embodiment, a bubble separator is used to separate undissolved gasses from the flow of water and re-apply such gasses back to the flow of water upstream from the bubble separator.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-03-06
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2009-10-20
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		C02F9/06 | C02F1/32
+	</str>
+	<str name="IPC Primary">
+		C02F9/06
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F9
+	</str>
+	<str name="All UPC">
+		422/186.07 | 210/218 | 210/205 | 422/186.3 | 210/192
+	</str>
+	<str name="UPC Primary">
+		422/186.07
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Members">
+		US7186334 | US7604735
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6277288 | US4804449 | US6517713 | US4761208 | US6551518 | US6623635 | US5476579 | US4724059 | US6814877 | US5843304 | US20030094421 | US4804478 | US4171256 | US3616355 | US3563879 | US5037519 | US6368472 | US4613415 | USR36972 | US4361471 | US4201651 | US6192911 | US6342154 | US20010052502 | US6984295 | JP1997239368
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		71441107 | 70131003 | 63607103 | 79460101 | 75298200 | 39343799 | 66850403 | 41891599
+	</str>
+	<str name="Priority Date">
+		2007-03-06 | 2003-11-04 | 2003-08-07 | 2001-02-27 | 2000-12-31 | 1999-09-10 | 2003-09-23 | 1999-10-15
+	</str>
+	<str name="Inventor(s)">
+		BARNES, RONALD, L.
+	</str>
+	<str name="1st Inventor">
+		BARNES, RONALD, L.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Owens, Cross, Roads, AL
+	</str>
+	<str name="Inventor(s) Address">
+		Owens, Cross, Roads, AL
+	</str>
+	<str name="Agent/Attorney">
+		CLODFELTER, MARK
+	</str>
+	<str name="Primary Examiner">
+		CECIL, TERRY K
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

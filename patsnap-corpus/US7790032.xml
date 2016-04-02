@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7790032
+	</str>
+	<str name="Application Number">
+		US11958060
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Waste treatment process
+	</str>
+	<str name="Abstract">
+		Waste treatment systems and methods of using them to treat septage, domestic sludge or both are disclosed. Certain examples provided herein relate to waste treatment systems that include a plurality of stages, such as, for example, a plurality of ecosystems, configured to treat domestic sludge, septage or both.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-12-17
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-12
+	</str>
+	<str name="Publication Date">
+		2010-09-07
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-09
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/602 | 210/623 | 210/622 | 210/624 | 210/627 | 210/626 | 210/628
+	</str>
+	<str name="UPC Primary">
+		210/602
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Certified Letter from Mary Heather Noble, State of New Mexico Environment Department to Leslie Barclay, dated Feb. 15, 2002. cited by other . | Tridech, S. et al., &quot;Tertiary Wastewater Treatment by the Application of Vascular Aquatic Plants,&quot; Chapter 24, pp. 521-230, Treatment Techniques, 1981. cited by other . | Written Opinion and Search Report for PCT/US05/37769 dated Mar. 21, 2007, 7 pages. cited by other . | Certified Letter from Mary Heather Noble, State of New Mexico Environment Department to Leslie Barclay, dated Jul. 11, 2002. cited by other . | New Mexico Environment Department Ground Water Pollution Prevention Section Discharge Permit Summary, Jul. 8, 2002, 2 pages. cited by other . | Soil Survey, Santa Fe Area, New Mexico, 2001, 5 pages. cited by other . | Jul. 14, 1978 Well Record. cited by other . | State of New Mexico Environment Department Improvement Division, NMEID Policy for the Use of the Domestic Wastewater Effluent for Irrigation, Dec. 1985. cited by other . | Certified Letter from Mary Heather Noble, State of New Mexico Environment Department to Leslie Barclay, dated Jul. 30, 2004. cited by other . | Well Report and Downloads, Nov. 1, 2001 (1 page) - Pumping Equipment, Sep. 1, 2001 (2 pages). cited by other. | The citations listed above with a &quot;**&quot; are not included herewith but may be found in the parent application (U.S. Appl. No. 10/972,285). cited by other . | Ground Water Discharge Permit Application, State of New Mexico Environment Department, Apr. 2001, 11 pages. cited by other . | Jun. 4, 1993 Well Record. cited by other . | Technical Support Package for &quot;Aquatic Plants Aid Sewage Filter,&quot; NASA Tech Briefs, Spring 1984, vol. 8, No. 3, MFS-25808, George C. Marshall Space Flight Center, Alabama, pp. 1-6. cited by other . | Certified Letter from Mary Heather Noble, State of New Mexico Environment Department to Leslie Barclay, dated Jul. 8, 2002. cited by other . | Letter from Michael Ogden, Nature Systems International, LOLC to Fred Kalesh and Mary Heather Noble, dated Mar. 12, 2002. cited by other . | Certificate of Analysis from Assaigai Analytical Laboratories, Inc. to Michael Ogden dated Feb. 8, 2002. cited by other . | Page 43 printout from HazTECH News, dated May 30, 2002. cited by other . | Ground Water Discharge Permit Application, State of New Mexico Environment Department p. 1-19, Jun. 11, 2004. cited by other . | May 15, 1974 Well Record. cited by other . | Soil Survey, Road Legend 02388, Well Report and Downloads, Nov. 1, 2001, 5 pages. cited by other . | **Hauck, R.D. &quot;Treating Wastewater in Constructed Wetlands,&quot; J. Env. Sciences, 2002, 14, pp. 27-33. cited by other . | **Stott, R.F. &quot;A Review: Sewage Treatment with plants,&quot; Lett. in Applied Microbiol., 1991, 12, pp. 99-105. cited by other .
+	</str>
+	<str name="Other References Count">
+		23
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5863433 | US4415450 | US20020130076 | US5087353 | US6068773 | US4169050 | US5435923 | US4872985 | US6200469 | US6190553 | EP0442946
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Assignee(s)">
+		BIOREGEN SYSTEMS LLC
+	</str>
+	<str name="1st Assignee">
+		BIOREGEN SYSTEMS LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Englewood, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Englewood, NJ
+	</str>
+	<str name="Inventor(s)">
+		OGDEN, MICHAEL, H.
+	</str>
+	<str name="1st Inventor">
+		OGDEN, MICHAEL, H.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Santa, Fe, NM
+	</str>
+	<str name="Inventor(s) Address">
+		Santa, Fe, NM
+	</str>
+	<str name="Agent/Attorney">
+		LANDO &amp; ANASTASI, LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

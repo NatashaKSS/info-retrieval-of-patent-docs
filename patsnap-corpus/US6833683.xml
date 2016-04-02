@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6833683
+	</str>
+	<str name="Application Number">
+		US10407752
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Universal battery charger apparatus
+	</str>
+	<str name="Abstract">
+		A Universal Battery Charger Apparatus designed to be used with a small gas engine equipped with a small alternator, capable of maintaining the charge level of a small 12 volt battery. Said battery supplies power for the circuit of said battery charger. Said engine drives a second alternator. Said battery charger has a wide range of controlled output voltages as well as 12 different current limiting capabilities making possible use of not only a battery charger for charging different voltages of external batteries, but also a DC arc welder and/or a 115 volt DC, power supply, all within its own framework, thus making said apparatus portable.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-04-07
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-04
+	</str>
+	<str name="Publication Date">
+		2004-12-21
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-12
+	</str>
+	<str name="All IPC">
+		H02J7/00
+	</str>
+	<str name="IPC Primary">
+		H02J7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02J
+	</str>
+	<str name="IPC Group">
+		H02J7
+	</str>
+	<str name="All UPC">
+		320/109 | 320/107
+	</str>
+	<str name="UPC Primary">
+		320/109
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Members">
+		US20040195998A1 | US6833683
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6608401
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		40775203
+	</str>
+	<str name="Priority Date">
+		2003-04-07
+	</str>
+	<str name="Inventor(s)">
+		WINKLER, HARRY, L.
+	</str>
+	<str name="1st Inventor">
+		WINKLER, HARRY, L.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		P.O., Box, 632, Pinehurst, ID, 83850
+	</str>
+	<str name="Inventor(s) Address">
+		P.O., Box, 632, Pinehurst, ID, 83850
+	</str>
+	<str name="Primary Examiner">
+		LUK, LAWRENCE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8254683
+	</str>
+	<str name="Application Number">
+		US11/856333
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Code image processing method
+	</str>
+	<str name="Abstract">
+		When a small block area enters a first two-dimensional code during a scan and features of the image within the area of a position in the first two-dimensional code coincide with a two-dimensional code, the block area is specified as containing a code and a recognition process is performed in the nearby areas. When the recognition of the two-dimensional code has been successful, the area of the first two-dimensional code is further extracted. When the extraction of the area of the first two-dimensional code has been successful, the scan using the small block area is further continued to search for a second two-dimensional code. With an already recognized entrance to the area of the first two-dimensional code, the area is skipped to continue the search. The second two-dimensional code is detected at a high speed by repeating the operation.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-09-17
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2012-08-28
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-08
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/18 | G06K7/10
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/181 | 235/454 | 235/462.09
+	</str>
+	<str name="UPC Primary">
+		382/181
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Japanese Office Action dated Feb. 2, 2010, issued in corresponding Japanese Patent Application No. 2007-509074. cited by other | JIS (Japanese Industrial Standard) X0510 &quot;Two-dimensional symbol-QR Code-Basic Specification&quot;, Partial English Translation. cited by other | European Office Action dated May 31, 2010, issued in corresponding European Patent Application No. 05726725.4. cited by other | European Search Report dated Oct. 16, 2009, issued in corresponding European Patent Application No. 05726725.4. cited by other | International Search Report of PCT/JP2005/004955, date of mailing Jun. 28, 2005. cited by other.
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cites">
+		US5457309 | US5525787 | US5691527 | US6282319 | US6325287 | US7077323 | US7350710 | US7764835 | US20020051573 | US20040026508 | US20040074967 | US20050121520 | US20050194445 | EP1619604 | JP1996180125 | JP1998198754 | JP1999015911 | JP2000148904 | JP2000339407 | JP2001307014 | JP2002133364 | JP2004078896 | JP2005173646
+	</str>
+	<str name="Cites Count">
+		23
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		YAMAGUCHI, NOBUYASU | CHIBA, HIROTAKA | NODA, TSUGIO
+	</str>
+	<str name="1st Inventor">
+		YAMAGUCHI, NOBUYASU
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP | Kawasaki, JP | Hadano, JP
+	</str>
+	<str name="Agent/Attorney">
+		WESTERMAN, HATTORI, DANIELS &amp; ADRIAN, LLP
+	</str>
+	<str name="Primary Examiner">
+		GE, YUZHEN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

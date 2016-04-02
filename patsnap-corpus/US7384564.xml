@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7384564
+	</str>
+	<str name="Application Number">
+		US11465542
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Electrolytic cell and process for removal of bromide ions and disinfection of source waters using silver cathode and/or dimensionally stable anode (DSA): a process for the reduction of disinfectant/disinfection byproducts in drinking water
+	</str>
+	<str name="Abstract">
+		Electrolytic process combines disinfection with removal of bromide from raw water. Current is applied to the electrodes in an electrolytic cell with raw water that has some salinity as the electrolyte. The electrodes consist of silver or dimensionally stable anodes (DSA) as cathodes and dimensionally stable anodes (DSA) arranged in parallel baffling fashion. During electrolysis chloride is converted to chlorine. The chlorine immediately effects disinfection of the water and reduction of bromide ions to bromine gas which is liberated from the cell. Aqueous bromine will remain in solution as hypobromous acid. The extent of chlorine generation and bromide loss depend upon the chloride:bromide ratio, electrical energy supplied for electrolysis, ionic strength of the water, electrode distance, cell residence time and electrode material.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-08-18
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-08
+	</str>
+	<str name="Publication Date">
+		2008-06-10
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All UPC">
+		210/754 | 210/748 | 210/764
+	</str>
+	<str name="UPC Primary">
+		210/754
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20070187337A1 | US7384564
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Calfed Bay-Delta Program, &quot;Water Quality Program Plan, Final Programmatic EIS/EIR, Technical Appendix&quot;. Jul. 2000, p. 327-5.7. US. cited by other . | Qian and Margerum, &quot;Equilibruim and Kinetics of Bromine Chloride Hydrolysis&quot;. Environ. Sci. Technol. 2001, 35 pp. 1127-1133. cited by other . | AwwaRF, &quot;Survey of Bromide in Drinking Water and Impacts and Impacts on DBP Formation&quot;. 1994, p. 2. US. cited by other . | Murphy, O et al. Direct Electrochemical Oxidation of Organics for Wastewater Treatment, Wat. Res. vol. 26, No. 4, pp. 443-451, 1992. cited by other . | Wan, C.C et al. Electrolytic Decomposition of Cyanide Effluent with an Electrochemical Reactor Packed with Stainless Steel Fiber, Wat. Res. vol. 24, No. 11, pp. 1317-1321, 1990. cited by other . | Grinbaum and Freiberg, &quot;Bromine&quot;. Othmer Encyclopedia of Chemical Technology, 2001, John Wiley &amp; Sons, Inc. US. cited by other . | Austin, &quot;Shreve's Chemical Process Industries&quot;. Fifth Edition, McGraw-Hill, Inc. 1984, p. 351. US. cited by other . | AwwaRF, &quot;Information Collection Rule Data Analysis&quot;. 2002, p. 142. US. cited by other . | Fiori, G et al. Electroreduction of volatile organic halides on activated silver cathodes, Journal of Applied Electrochemistry (2005) 35:363-368. cited by other. | Yasmine, et al, &quot;Chemical transformation of bromine chloride at the air/water interface&quot;. Journal of Aerosol Science, 2001, vol. 32 p. 893-911. cited by other . | Kimbrough D.E.K, Suffet, I.H. Electrochemical removal of bromide and reduction of THM formation potential in drinking water, Water Research 36 (2002) 4902-4906. cited by other . | USEPA, &quot;Implementation Guidelines for the Stage 1 Disinfectants/Disinfection Byproducts Rule&quot;. Office of Water (4606), Jun. 2001, EPA 816-R-01-012, p. 1-4. US. cited by other .
+	</str>
+	<str name="Other References Count">
+		12
+	</str>
+	<str name="Cited By">
+		US8347960
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4381979 | US4488945 | US6800206 | US6391186 | US5705050 | US5314589 | US6689263
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		46554206 | 77374506
+	</str>
+	<str name="Priority Date">
+		2006-08-18 | 2006-02-16
+	</str>
+	<str name="Inventor(s)">
+		BO, LABISI
+	</str>
+	<str name="1st Inventor">
+		BO, LABISI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Los, Angeles, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Los, Angeles, CA
+	</str>
+	<str name="Agent/Attorney">
+		LAUSON &amp; SCHEWE LLP
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D.
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

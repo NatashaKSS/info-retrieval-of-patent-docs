@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7563371
+	</str>
+	<str name="Application Number">
+		US11/403473
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Tubular anaerobic digester
+	</str>
+	<str name="Abstract">
+		A tubular plug flow digester system assembled from manufactured components, including a holding/heating tank (15) connected to a manifold (14) that feeds a single or multiple parallel injection pumps (12). These pumps force feedstock though check valves (13) and into single or parallel digester hulls. This hulls are composed of manufactured parts including tapered end sections (11) and hull sections (10) that can be assembled onsite to a configuration that accommodates operational needs. Biogas produced by this digester is pressurized due to a liquid column created by an elevated effluent outlet (25). Feedstock is inoculated with relevant microorganisms that promote the generation of methane-rich biogas. Inoculation members (26) positioned within the hulls shelter biofilms containing these microbes while allowing regions of the biofilm to slough or naturally release microbes into the flowing feedstock stream. Biogas is collected through a manifold (22) and its release is controlled by a regulator or a valve.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-04-13
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-04
+	</str>
+	<str name="Publication Date">
+		2009-07-21
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-07
+	</str>
+	<str name="All IPC">
+		C02F3/28 | C02F11/04 | C12M1/107
+	</str>
+	<str name="IPC Primary">
+		C02F3/28
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/603 | 435/293.1 | 435/298.1 | 435/300.1
+	</str>
+	<str name="UPC Primary">
+		210/603
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060231488A1 | US7563371
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Marchaim, Uri, Biogas processes for sustainable development, 1992, vol. 95, Food and Agriculture Organization of the United Nations, Rome Italy. cited by other | Miyamoto, Kazuhisa,Renewable biological systems for alternative sustainable energy production, 1997, vol. 128, Food and Agriculture Organization of the United Nations,Rome Itlaly. cited by other | Ljungdahl et al., Biochemistry and Physiology of Anaerobic Bacteria, 2003, Springer-Verlag New York, Inc., New York NY USA. cited by other | Ross et al., Handbook of Biogas Utilization, 2nd edition, Jul. 1996, U.S. Department of Energy, Southeastern Regional Biomass Program. cited by other | Koelsch et al., Anarobic Digesters for Dairy Farms, Agricultural and Biological Engineering Extension Bulletin 458, NY state college of ag. and life sciences, Ithaca, NY, Date Uknown. cited by other | Norddahl and Rohold, The Biorek Concept | . | , Bioscan Engineering A/S, May 2000, Tagtaekkervej 5, DK 5230 Odense, Denmark; email bno@bioscan.dk. cited by other | Wright, Overview of Anaerobic Digestion Systems for Dairy Farms, PRO-DAIRY Program, Biological and Environmental Engineering dept, Cornell University, Ithaca, NY, Mar. 2001. cited by other | Jewell et al., Evaluation of Anaerobic Digester Options for Groups of Dairy Farms in Upstate New York, USDA--NRCS Final Report, Jun. 1997, Cornell University, Ithaca, NY. cited by other | Lusk, Methane Recovery from Animal Manures the Current Opportunities Casebook, Sep. 1998, NREL, Golden, CO, available at www.doe.gov/bridge/home.html. cited by other | Valentine et al., High Rate Anaerobic Fixed-Film Reactor for the Food Processing Industry, Final Report on GRTI project A-4817, Jul. 1998, Georgia Institute of Technology. cited by other | Martin, A Comparison of Dairy Cattle Manure Mgmt. w &amp; w/o Anaerobic Digestion and Biogas Utilization, Mar. 2003, AgSTAR Program, US EPA, Washington, DC. cited by other | Burke, Dairy Waste Anaerobic Digestion Handbook, Jun. 2001, Environment Energy Company, Olympia, WA. cited by other | Miyamoto, Kazuhisa, Renewable biological systems for alternative sustainable energy production, 1997, vol. 128, Food and Agriculture Organization of the United Nations, Rome Italy. cited by other.
+	</str>
+	<str name="Other References Count">
+		15
+	</str>
+	<str name="Cited By">
+		US7781194
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US1986760 | US3329271 | US3981803 | US4192849 | US4252901 | US4284508 | US4514297 | USH001337 | US5798044 | US6521129 | US6569332 | US6592751 | US6645374 | US6673243 | US6783677 | US6860997 | US6916421 | US6982035 | DE19703142
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		40347306 | 67098205
+	</str>
+	<str name="Priority Date">
+		2006-04-13 | 2005-04-13
+	</str>
+	<str name="Inventor(s)">
+		MCCUNE-SANDERS, WILLIAM, JASON | ROBERTS, THEODORE, GUY
+	</str>
+	<str name="1st Inventor">
+		MCCUNE-SANDERS, WILLIAM, JASON
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Burlington, VT
+	</str>
+	<str name="Inventor(s) Address">
+		Burlington, VT | Richmond, VT
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

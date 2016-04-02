@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120168526A1
+	</str>
+	<str name="Application Number">
+		US13/336965
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		SUPERSONIC NOZZLE
+	</str>
+	<str name="Abstract">
+		A method of conversion of a single-phase stream into a supersonic homogenous two phase medium includes flowing the stream into an inlet section of a nozzle at an initial pressure, boiling a portion of the liquid medium by accelerating a velocity of the stream through a multistage draw-down of an inner diameter of the inlet of the nozzle to form a mixture of liquid and boiled fluid; and accelerating the mixture to a second velocity by flowing the mixture through an outlet section that diverges along the flow direction. The outlet section includes a concave portion, a convex portion, and a transition between the concave portion and the convex portion in which the concave profile smoothly transitions to the convex profile. A velocity of the stream is equal to a velocity of sound in the stream at a critical section located in the outlet section.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2011-12-23
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-12
+	</str>
+	<str name="Publication Date">
+		2012-07-05
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-07
+	</str>
+	<str name="All IPC">
+		B05B1/00
+	</str>
+	<str name="IPC Primary">
+		B05B1/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05B
+	</str>
+	<str name="IPC Group">
+		B05B1
+	</str>
+	<str name="All UPC">
+		239/1 | 239/589
+	</str>
+	<str name="UPC Primary">
+		239/1
+	</str>
+	<str name="UPC Class">
+		239
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Inventor(s)">
+		FISENKO VLADIMIR VLADIMIROVICH
+	</str>
+	<str name="1st Inventor">
+		FISENKO VLADIMIR VLADIMIROVICH
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		St. Petersburg,RU
+	</str>
+	<str name="Inventor(s) Address">
+		St. Petersburg,RU
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

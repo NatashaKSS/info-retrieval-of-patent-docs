@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7695627
+	</str>
+	<str name="Application Number">
+		US10517871
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Tangential flow filtration devices and methods for leukocyte enrichment
+	</str>
+	<str name="Abstract">
+		The present invention provides tangential flow filtration devices and methods for enriching a heterogeneous mixture of blood constituents for leukocytes by removal of non-leukocyte blood constituents. In one particular embodiment the device can provide a composition enriched in monocytes. One embodiment includes a remover unit (1) having a crossflow chamber (3) separated by a microporous filter (5) from a filtrate chamber (4), the remover unit (1) also having a tangential flow inlet (6), a fluid outlet (7) for a fluid enriched in leukocytes and a filtrate outlet (8).
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-06-19
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-06
+	</str>
+	<str name="Publication Date">
+		2010-04-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		B01D61/20
+	</str>
+	<str name="IPC Primary">
+		B01D61/20
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		435/286.5 | 210/651 | 422/101 | 210/321.6 | 210/195.2 | 435/404 | 436/178 | 435/297.1 | 210/137 | 210/805 | 210/645 | 210/321.87
+	</str>
+	<str name="UPC Primary">
+		435/286.5
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Genovesi, &quot;Several Uses for Tangential-flow Filtration in the Pharmaceutical Industry,&quot; .J. Parenter. Aci. Technol. 37:81-86 (1983). cited by other . | Yaminishi et al U.S. Appl. No. 60/328,774, filed Oct. 11, 2001. cited by examiner . | Yamanishi et al U.S. Appl. No. 60/394,517, filed Jul. 9, 2002. cited by examiner . | DeBoer et al., &quot;Changes in L-selectin Expression on CD34-positive Cells Upon Cryopreservation of Peripheral Blood Stem Cell Transplants,&quot; Bone Marrow Transplant. 22:1103-1110 (1998). cited by other . | Radlett, &quot;The Concentration of Mammalian Cells in a Tangential Flow Filtration Unit,&quot; J. Appl. Chem. Biotechnol. 22:495-499 (1972). cited by other . | Rowley et al., &quot;Isolation of CD34.sup.+ Cells From Blood Stem Cell Components Using the Baxter Isolex System,&quot; Bone Marrow Transplant. 21:1253-1262 (1998). cited by other. | Yamanishi et al U.S. Appl. No. 60/348,228, filed Oct. 29, 2001. cited by examiner . | Bacigalupo et al., &quot;Bone Marrow or Peripheral Blood as a Source of Stem Cells for Allogeneic Transplantation,&quot; Haematologica 87:4-8 (2002). cited by other . | Quirk and Woodrow, &quot;Investigation of the Parameters Affecting the Separation of Bacterial Enzymes From Cell Debris by Tangential Flow Filtration,&quot; Enzyme Microb. Technol. 6:201-206 (1984). cited by other .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cites">
+		US5690815 | US5948441 | US6322709 | US6398956 | US4751003 | US5601727 | US4722902 | US5026365 | US4411792 | US5922210 | US5788963 | US5744047 | US6495037 | US6214221 | US6949355 | US4753733 | US4644056 | US6497821 | US6544751 | US4420398 | US6194204 | US5695653 | US6045546 | US4191182 | US6168718 | US6491819 | US5423738 | US20030134416 | WO1998013131 | RU2113863 | RU2056866 | WO2001009288 | EP0208450 | WO1997003186 | JP2000217908 | EP0834329 | WO1985003011
+	</str>
+	<str name="Cites Count">
+		37
+	</str>
+	<str name="Assignee(s)">
+		NORTHWEST BIOTHERAPEUTICS, INC.
+	</str>
+	<str name="1st Assignee">
+		NORTHWEST BIOTHERAPEUTICS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Bethesda, MD
+	</str>
+	<str name="Assignee(s) Address">
+		Bethesda, MD
+	</str>
+	<str name="Inventor(s)">
+		BOSCH, MARNIX, L. | HARRIS, PAUL, C. | MONAHAN, STEVEN, J. | TURNER, ALLEN | BOYNTON, ALTON, L. | LODGE, PATRICIA, A.
+	</str>
+	<str name="1st Inventor">
+		BOSCH, MARNIX, L.
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Medina, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Medina, WA | Bothell, WA | Kenmore, WA | Seattle, WA | Kingston, WA | Everett, WA
+	</str>
+	<str name="Agent/Attorney">
+		TOWNSEND &amp; TOWNSEND &amp; CREW, LLP
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

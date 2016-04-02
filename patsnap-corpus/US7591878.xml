@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7591878
+	</str>
+	<str name="Application Number">
+		US11617842
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Membrane gas separation
+	</str>
+	<str name="Abstract">
+		The invention relates to gas separation, in particular to separation of CO.sub.2 from CO.sub.2-rich liquids, particularly from CO.sub.2 absorption liquids used in the removal of CO.sub.2 from off-gases or product flows, such as natural gas or synthesis gas.According to the invention, CO.sub.2 is separated from a CO.sub.2-rich liquid by a method comprising a step wherein, under elevated pressure, said liquid is contacted with a membrane based on polyacetylene substituted with trimethylsilyl groups such that the pressure across the membrane is at least 1 bar and that at least a part of the CO.sub.2 is transported from the liquid through the membrane.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-12-29
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-12
+	</str>
+	<str name="Publication Date">
+		2009-09-22
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		B01D71/44 | B01D19/00 | B01D53/22
+	</str>
+	<str name="IPC Primary">
+		B01D71/44
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D71
+	</str>
+	<str name="All UPC">
+		96/14 | 96/13 | 210/640 | 96/10 | 95/51 | 96/11 | 96/6 | 96/8 | 95/46
+	</str>
+	<str name="UPC Primary">
+		96/14
+	</str>
+	<str name="UPC Class">
+		96
+	</str>
+	<str name="Family Members">
+		CA2572412A1 | US20070214957A1 | NL1026537C2 | US7591878 | AU2005260271A1 | WO2006004400A1 | EP1778388A1 | RU2007103825A | NO20070235A
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		English abstract of SU 1,637,850. cited by other. | Teplyakov et al., &quot;Lab-scale bioreactor integrated with active membrane system for hydrogen production: experience and prospects,&quot; Int'l J. Hydrogen Energy, 27:1149-1155 (2002). cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8313557
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4859215 | US5336298 | US5066314 | US4952219 | US20020014154 | US5707423 | US5281255 | US6929680 | RUSU1637850 | SU1637850
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		NL
+	</str>
+	<str name="Priority Number">
+		1026537
+	</str>
+	<str name="Priority Date">
+		2004-07-01
+	</str>
+	<str name="Assignee(s)">
+		NEDERLANDSE ORGANISATIE VOOR TOEGEPAST-NATUURWETENSCHAPPELIJK ONDERZOEK TNO
+	</str>
+	<str name="1st Assignee">
+		NEDERLANDSE ORGANISATIE VOOR TOEGEPAST-NATUURWETENSCHAPPELIJK ONDERZOEK TNO
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Delft, NL); N/A
+	</str>
+	<str name="Assignee(s) Address">
+		Delft, NL); N/A
+	</str>
+	<str name="Inventor(s)">
+		FERON, PAUL, HUBERT, M. | VOLKOV, VLADIMIR, VASILEVICH | KHOTIMSKY, VALERY, SAMUILOVICH | TEPLYAKOV, VLADIMIR, VASIL'EVICH
+	</str>
+	<str name="1st Inventor">
+		FERON, PAUL, HUBERT, M.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Apeldoorn, NL
+	</str>
+	<str name="Inventor(s) Address">
+		Apeldoorn, NL | Moscow, RU | Moscow, RU | Moscow, RU
+	</str>
+	<str name="Primary Examiner">
+		GREENE, JASON M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

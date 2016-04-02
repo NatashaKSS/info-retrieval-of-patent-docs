@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080089552A1
+	</str>
+	<str name="Application Number">
+		US11666311
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Digital Watermark Padding Method, Digital Watermark Padding Device, Digital Watermark Detecting Method, Digital Watermark Detecting Device, And Program
+	</str>
+	<str name="Abstract">
+		A digital watermark embedding method of the present invention includes: a step of sequentially obtaining each frame image of the moving image data and frame display time; a step of generating a watermark pattern using watermark information, the frame display time and watermark pattern switching information; a step of superimposing the watermark pattern onto the frame image, and combining watermark embedded frame images obtained by sequentially repeating the processes to generate watermark embedded moving image data. A digital watermark detection method includes a step of sequentially obtaining a frame image; a step of generating a difference image between the currently obtained frame image and a previously obtained frame image; and a step of performing digital watermark detection from the difference image to output digital watermark detection status, and when digital watermark detection process is continued, obtaining a new frame again to repeat the above processes.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-07-31
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-07
+	</str>
+	<str name="Publication Date">
+		2008-04-17
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/100
+	</str>
+	<str name="UPC Primary">
+		382/100
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		KR1020080087047A | KR1020070073839A | WO2007015452A1 | US20080089552A1 | EP1928180A1
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		2005226755 | 2005226756 | 2005275965
+	</str>
+	<str name="Priority Date">
+		2005-08-04 | 2005-08-04 | 2005-09-22
+	</str>
+	<str name="Assignee(s)">
+		NIPPON TELEGRAPH &amp; TELEPHONE CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NIPPON TELEGRAPH &amp; TELEPHONE CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		3-1, OTEMACHI 2-CHOME CHIYODA-KU,TOKYO JAPAN,100-8116,JP
+	</str>
+	<str name="Assignee(s) Address">
+		3-1, OTEMACHI 2-CHOME CHIYODA-KU,TOKYO JAPAN,100-8116,JP
+	</str>
+	<str name="Inventor(s)">
+		NAKAMURA TAKAO | YAMAMOTO SUSUMU | KITAHARA RYO | MIYATAKE TAKASHI | KATAYAMA ATUSHI | MIYACHI HISATO
+	</str>
+	<str name="1st Inventor">
+		NAKAMURA TAKAO
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa,JP | Kanagawa,JP | Kanagawa,JP | Tokyo,JP | Tokyo,JP | Kanagawa,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

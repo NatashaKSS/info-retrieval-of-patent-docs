@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7591948
+	</str>
+	<str name="Application Number">
+		US10511471
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for production of a regioselective membrane
+	</str>
+	<str name="Abstract">
+		A process for production of a microporous affinity membrane having regioselective affinity for compounds in blood or other biologically active fluids to be removed during purification of blood or said fluids is disclosed, as well as a microporous affinity membrane produced by said process, an adsorption device containing such a microporous affinity membrane, and use of such a microporous affinity membrane.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-04-23
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-04
+	</str>
+	<str name="Publication Date">
+		2009-09-22
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		H05H1/24 | B01D61/00 | B01D39/14 | B01D63/00
+	</str>
+	<str name="IPC Primary">
+		H05H1/24
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05H
+	</str>
+	<str name="IPC Group">
+		H05H1
+	</str>
+	<str name="All UPC">
+		210/500.37 | 210/321.8 | 264/48 | 210/500.23 | 427/569 | 435/135 | 210/321.75 | 210/645
+	</str>
+	<str name="UPC Primary">
+		210/500.37
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		SE527054C2 | EP1497017A1 | US7591948 | WO2003090910A1 | US20050214162A1 | AU2003224566A1 | AU2003224566A8 | SE0201207A | SE0201207D0 | SE0201207L
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5547576 | US5840190 | US5202025 | US5591140 | US5597456 | US6013789 | US7244442 | US6643749 | US5766908 | US6022902 | US20050214162 | US4290987 | US6245537 | US7140497 | US6090292 | US5868936 | EP0683197 | EP0695622 | WO2001031339 | WO1990015883 | EP0341413 | WO1997048483 | WO1980002805
+	</str>
+	<str name="Cites Count">
+		23
+	</str>
+	<str name="Priority Country">
+		SE
+	</str>
+	<str name="Priority Number">
+		0201207
+	</str>
+	<str name="Priority Date">
+		2002-04-23
+	</str>
+	<str name="Assignee(s)">
+		GAMBRO LUNDIA AB (LUND, SE), FRAUNHOFER-GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.
+	</str>
+	<str name="1st Assignee">
+		GAMBRO LUNDIA AB (LUND, SE), FRAUNHOFER-GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Munich, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Munich, DE
+	</str>
+	<str name="Inventor(s)">
+		MULLER, MICHAEL | OEHR, CHRISTIAN | MALTHANER, HEINRICH | GOEHL, HERMANN | DEPPISCH, REINHOLD | STORR, MARKUS
+	</str>
+	<str name="1st Inventor">
+		MULLER, MICHAEL
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Stuttgart, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Stuttgart, DE | Herrenberg, DE | Stuttgart, DE | Bisingen-Zimmern, DE | Hechingen, DE | Leinfelden-Echterdingen, DE
+	</str>
+	<str name="Agent/Attorney">
+		GREENLEE WINNER &amp; SULLIVAN, P.C.
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

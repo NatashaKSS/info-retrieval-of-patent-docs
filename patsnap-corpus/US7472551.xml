@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7472551
+	</str>
+	<str name="Application Number">
+		US11274334
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Cryogenic process system with extended bonnet filter
+	</str>
+	<str name="Abstract">
+		A cryogenic process system wherein a solids removal filter positioned in a conduit upstream of process equipment is within a filter housing having an angled bonnet which extends to the outside of insulated housing.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-11-16
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-11
+	</str>
+	<str name="Publication Date">
+		2009-01-06
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		F25J3/00 | F17C13/00 | B01D35/30 | B01D35/18
+	</str>
+	<str name="IPC Primary">
+		F25J3/00
+	</str>
+	<str name="IPC Section">
+		F
+	</str>
+	<str name="IPC Class">
+		F25
+	</str>
+	<str name="IPC Subclass">
+		F25J
+	</str>
+	<str name="IPC Group">
+		F25J3
+	</str>
+	<str name="All UPC">
+		62/50.7 | 62/643 | 62/908 | 210/181 | 210/232
+	</str>
+	<str name="UPC Primary">
+		62/50.7
+	</str>
+	<str name="UPC Class">
+		62
+	</str>
+	<str name="Family Members">
+		US20080110203A1 | US7472551 | WO2007058914A3 | WO2007058914A2 | CN101360964A
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8161771
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5158106 | US20020017112 | US20070075011 | US3109726 | US5860798 | US6119480 | US6439836 | US6250896 | US6286320 | US4170556 | US5122175 | US4759848 | US5545015 | US3739593
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		27433405
+	</str>
+	<str name="Priority Date">
+		2005-11-16
+	</str>
+	<str name="Assignee(s)">
+		PRAXAIR TECHNOLOGY, INC.
+	</str>
+	<str name="1st Assignee">
+		PRAXAIR TECHNOLOGY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Danbury, CT
+	</str>
+	<str name="Assignee(s) Address">
+		Danbury, CT
+	</str>
+	<str name="Inventor(s)">
+		MAY, DOUGLAS, HENRY
+	</str>
+	<str name="1st Inventor">
+		MAY, DOUGLAS, HENRY
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Sanborn, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Sanborn, NY
+	</str>
+	<str name="Agent/Attorney">
+		ROSENBLUM, DAVID M.
+	</str>
+	<str name="Primary Examiner">
+		DOERRLER, WILLIAM C
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

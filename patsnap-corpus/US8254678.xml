@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8254678
+	</str>
+	<str name="Application Number">
+		US12/199515
+	</str>
+	<str name="Title">
+		Image segmentation
+	</str>
+	<str name="Abstract">
+		Techniques for segmenting images are disclosed.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-08-27
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-08
+	</str>
+	<str name="Publication Date">
+		2012-08-28
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-08
+	</str>
+	<str name="All IPC">
+		G06K9/34 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/34
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/173 | 348/241 | 382/195 | 382/284 | 715/764
+	</str>
+	<str name="UPC Primary">
+		382/173
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7720282 | US20070031028 | US20090278859 | US20100166339 | WO2006138730
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Assignee(s)">
+		HANKUK UNIVERSITY OF FOREIGN STUDIES RESEARCH &amp; INDUSTRY-UNIVERSITY COOPERATION FOUNDATION
+	</str>
+	<str name="1st Assignee">
+		HANKUK UNIVERSITY OF FOREIGN STUDIES RESEARCH &amp; INDUSTRY-UNIVERSITY COOPERATION FOUNDATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Gyeonggi-do, KR) N/A
+	</str>
+	<str name="Assignee(s) Address">
+		Gyeonggi-do, KR) N/A
+	</str>
+	<str name="Inventor(s)">
+		YUN, IL, DONG
+	</str>
+	<str name="1st Inventor">
+		YUN, IL, DONG
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Seongnam-si, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seongnam-si, KR
+	</str>
+	<str name="Agent/Attorney">
+		NSIP LAW
+	</str>
+	<str name="Primary Examiner">
+		BAYAT, ALI
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7935261
+	</str>
+	<str name="Application Number">
+		US12313750
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for treating waste drilling mud
+	</str>
+	<str name="Abstract">
+		A method is provided of recycling and cleaning up oil-based waste drilling mud and cuttings contaminated with oil-based waste drilling mud. A facility for performing the method is also provided. The method includes removing the coarse solids from the mud, breaking the emulsion, separating the hydrophobic phase from the water phase and the solid phase, vaporizing all residual oil and water from the solids, and burning off the vaporized oil. The method produces a solid &quot;soil&quot; product that is free from oil contamination, an oil product that is fit for reuse, and clean air emissions. A thermal desorber can be used to efficiently vaporize the oil at low temperature. Optionally the water fraction of the mud can be vaporized, solutes and salts can be captured as evaporite and then be mixed with the soil product. The method has the unique advantage of producing no persistent hazardous waste. The method has the further advantage of requiring no external input of energy if the reclaimed oil is used to provide energy for the process. The method has the further advantage of recycling portions of the drilling mud that would otherwise be subject to disposal.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-11-24
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-11
+	</str>
+	<str name="Publication Date">
+		2011-05-03
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-05
+	</str>
+	<str name="All IPC">
+		B01D17/04
+	</str>
+	<str name="IPC Primary">
+		B01D17/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D17
+	</str>
+	<str name="All UPC">
+		210/787 | 210/737 | 210/708 | 210/718 | 210/806 | 210/774 | 210/724 | 175/66 | 210/710 | 210/721
+	</str>
+	<str name="UPC Primary">
+		210/787
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		WIPO, &quot;International Search Report and Written Opinion of the International Searching Authority,&quot; Jun. 24, 2010. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US20070125716 | US20040192980 | US5582727 | US4804461 | US4696353 | US4297225 | US4836302 | US6973980 | US6585115 | US20080119683 | US7306057 | US7300578 | US5053082 | US20040094483 | US20050145418 | US4670139 | US20050092671 | US2919898 | US4482459 | US5080721 | US5570749 | US6132630 | US20050016773 | US20020074269 | US6345672 | US4634533 | US5454957 | US3860019 | US4725362 | US4856580 | US4394140 | US4181494 | US5090498 | US6881349 | US20030222026 | US20030164235 | US3713499 | US5005655 | US6391195 | US7678201 | US4872949 | US5132025 | WO1989002774 | EP0334944 | WO1982001737 | WO2001045818 | WO1989009091 | GB2338733 | JP2001065281 | WO1999010068 | EP01083296 | GB2349656 | WO2002020691 | GB2238730 | WO1999064356 | WO1990009507
+	</str>
+	<str name="Cites Count">
+		56
+	</str>
+	<str name="Assignee(s)">
+		ARKANSAS RECLAMATION COMPANY, LLC
+	</str>
+	<str name="1st Assignee">
+		ARKANSAS RECLAMATION COMPANY, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Little Rock, AR
+	</str>
+	<str name="Assignee(s) Address">
+		Little Rock, AR
+	</str>
+	<str name="Inventor(s)">
+		JONES, THOMAS, P. | DAVIS, RICHARD, T. | RICHESIN, CHARLES, R.
+	</str>
+	<str name="1st Inventor">
+		JONES, THOMAS, P.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Little, Rock, AR
+	</str>
+	<str name="Inventor(s) Address">
+		Little, Rock, AR | Little, Rock, AR | Little, Rock, AR
+	</str>
+	<str name="Agent/Attorney">
+		BRADLEY ARANT BOULT CUMMINGS, LLP LANDAU, NICHOLAS J.
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

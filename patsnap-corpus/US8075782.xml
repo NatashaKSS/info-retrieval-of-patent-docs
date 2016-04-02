@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8075782
+	</str>
+	<str name="Application Number">
+		US12/860424
+	</str>
+	<str name="Title">
+		Counter-pressure filtration of proteins
+	</str>
+	<str name="Abstract">
+		A method is disclosed for filtering a protein in a liquid mixture in a manner that does not substantially damage or otherwise limit the recovery of the protein in the filtration filtrate. The method generally includes passing a liquid mixture containing a protein (e.g., an aqueous vWF mixture) through a filter while applying a counter pressure to the liquid mixture filtrate to accurately reduce and control the pressure differential across the filter. The disclosed method has the advantage that relatively high filtration flow rates can be achieved at relatively low pressure differentials, in contrast to high pressure differentials, which actually reduce the filtration flow rate of protein liquid mixtures. Further, the method can recover substantially all of the protein that is initially present in the liquid mixture.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-08-20
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-08
+	</str>
+	<str name="Publication Date">
+		2011-12-13
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		B01D11/00 | B01D61/00 | C02F1/44
+	</str>
+	<str name="IPC Primary">
+		B01D11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		210/651 | 210/650 | 210/645 | 435/2
+	</str>
+	<str name="UPC Primary">
+		210/651
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Office Action issued in U.S. Appl. No. 12/341,733, dated Jun. 23, 2010. cited by other. | Mazurier et al., &quot;In Vitro Study of a Triple-Secured von Willebrand Factor Concentrate,&quot; Vox Sanguinis, 86:100-04 (2004). cited by other . | Singh et al., &quot;Effects of Fluid Shear on the Conformation of Human von Willebrand Factor Studied by Neutron and Light Scattering,&quot; AICHE Annual Meeting paper dated Nov. 1996. cited by other . | Truskey et al., &quot;The Effect of Membrane Filtration Upon Protein Conformation,&quot; J. Parenteral Sci. Technol. 41(6):180-93 (1987). cited by other . | Schneider et al., &quot;Shear-Induced Unfolding Triggers Adhesion of von Willebrand Factor Fibers,&quot; Proc. Natl. Acad. Sci. USA, 104(19):7899-903 (2007). cited by other . | &quot;Filtration,&quot; Kirk-Othmer Encyclopedia of Chem. Tech., 4.sup.th ed. 10:788-853 (1993). cited by other . | Singh et al., &quot;Fluid Shear Induces Conformation Change in Human Blood Protein von Willebrand Factor Solution Structure,&quot; AICHE Annual Meeting paper dated Nov. 2007. cited by other . | Siediecki et al., &quot;Shear-Dependent Changes in the Three-Dimensional Structure of Human von Willebrand Factor,&quot; Blood, 88(8):2939-50 (1996). cited by other . | International Search Report and Written Opinion for Application No. PCT/US2008/088005, dated Mar. 7, 2009. cited by other . | Bowen et al., &quot;Properties of Microfiltration Membranes: The Effects of Adsorption and Shear on the Recovery of an Enzyme,&quot; Biotechnol. Bioeng. 40:491-7 (1992). cited by other . | Letter to the Editor, J. Parenteral Science &amp; Tecnology, vol. unknown, pp. 144-146 (ca. 1987) (discussing Truskey et al., &quot;The Effect of Membrane Filtration Upon Protein Conformation,&quot; J. Parenteral Sci. Technol. 41(6): 180-93 (1987). cited by other . | Office Action issued in U.S. Appl. No. 12/341,733, dated Nov. 20, 2009. cited by other . | Gesen et al., &quot;Fouling during constant flux crossflow microfiltration of pretreated whey. Influence of transmembrane pressure gradient,&quot; J. Membrane Sci. 80:131-45 (1993). cited by other . | Mietton-Peuchot et al., &quot;Use of gas-liquid porometry measurements for selection of microfiltration membranes,&quot; J. Membrane Sci. 133:73-81 (1997). cited by other . | Technical Brief, &quot;Protein Concentration and Diafiltration by Tangential Flow Filtration,&quot; Millipore Corporation, 25 pages (2003). cited by other . | Pareti et at., &quot;Proteolysis of von Willebrand Factor and Shear Stress-Induced Platelet Aggregation in Patients with Aortic Valve Stenosis,&quot; Circ., 102:1290-5 (2000). cited by other .
+	</str>
+	<str name="Other References Count">
+		16
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6808638 | US6579723 | US4774323 | US5693229 | US5470954 | US6228613 | US7439013 | US5947689 | US5888401 | US6485762 | US6193891 | US5047154
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Assignee(s)">
+		BAXTER INTERNATIONAL INC. (DEERFIELD, IL), BAXTER HEALTHCARE S.A. (GLATTPARK
+	</str>
+	<str name="1st Assignee">
+		BAXTER INTERNATIONAL INC. (DEERFIELD, IL), BAXTER HEALTHCARE S.A. (GLATTPARK
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Opfikon), CH
+	</str>
+	<str name="Assignee(s) Address">
+		Opfikon), CH
+	</str>
+	<str name="Inventor(s)">
+		NIKOLIC, NEBOJSA | FREY, MICHAELA | GRABMAYER, WOLFGANG | JANCIK, THOMAS | FRIED, MATTHIAS | TSCHETSCHKOWITSCH, KLAUS | SCHNECKER, KURT | RIEGLER, BARBARA | KASAPOVIC, ALMA
+	</str>
+	<str name="1st Inventor">
+		NIKOLIC, NEBOJSA
+	</str>
+	<str name="Number of Inventors">
+		9
+	</str>
+	<str name="1st Inventor Address">
+		Vienna, AT
+	</str>
+	<str name="Inventor(s) Address">
+		Vienna, AT | Klosterneuburg, AT | Vienna, AT | Vienna, AT | Limberg, AT | Vienna, AT | Vienna, AT | Vienna, AT | Vienna, AT
+	</str>
+	<str name="Agent/Attorney">
+		MARSHALL, GERSTEIN &amp; BORUN LLP
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

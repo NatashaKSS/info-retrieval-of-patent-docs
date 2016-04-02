@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8062523
+	</str>
+	<str name="Application Number">
+		US11/607364
+	</str>
+	<str name="Title">
+		Filter element and methods of manufacturing and using same
+	</str>
+	<str name="Abstract">
+		A coreless and spirally wound non-woven filter element is provided. The filter element includes at least one band of base media having a selected porosity and an interlay having a different porosity within at least one band of base media. The presence of the interlay in the filter element can create additional surface area within the contiguous construction of a filter element for filtration. This interlay can also create the ability to change direction of flow and to increase the deposition of specifically sized contaminants.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-12-01
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-12
+	</str>
+	<str name="Publication Date">
+		2011-11-22
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		C02F1/44 | B01D63/00
+	</str>
+	<str name="IPC Primary">
+		C02F1/44
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/321.85 | 210/321.76
+	</str>
+	<str name="UPC Primary">
+		210/321.85
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Lin et al., &quot;Selective Sorption of Cesium Using Self-Assembled Monolayers on Mesoporous Supports&quot;, Environmental Science &amp; Technology, vol. 35, No. 19, published on Web Aug. 24, 2001, pp. 3962-3966. cited by other . | Office Action cited in U.S. Appl. No. 11/731,230 mailed Dec. 19, 2008. cited by other . | Office Action cited in U.S. Appl. No. 11/731,230 mailed Jun. 15, 2009. cited by other . | International Search Report cited in International Application No. PCT/US2007/008243 mailed Jul. 24, 2008. cited by other . | Office Action cited in U.S. Appl. No. 12/644,676 mailed Jun. 10, 2011. cited by other . | Office Action cited in U.S. Appl. No. 11/731,230 mailed Sep. 10, 2008. cited by other . | Office Action cited in U.S. Appl. No. 11/888,301 mailed Apr. 27, 2011. cited by other . | International Search Report cited in International Application No. PCT/US2007/017103 mailed Jan. 17, 2008. cited by other. | Office Action cited in U.S. Appl. No. 11/888,301 mailed Dec. 22, 2010. cited by other . | Office Action cited in U.S. Appl. No. 11/731,230 mailed Apr. 4, 2008. cited by other . | PCT International Search Report based on PCTUS07/24603 dated Apr. 3, 2008. cited by other . | Office Action in U.S. Appl. No. 12/644,676 mailed Dec. 30, 2010. cited by other . | Office Action in U.S. Appl. No. 11/888,301 mailed Jun. 30, 2010. cited by other . | Supplemental European Search Report cited in European Application No. EP 07862354 dated Mar. 10, 2011. cited by other .
+	</str>
+	<str name="Other References Count">
+		14
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6436294 | US20050103713 | US5189092 | US20070256980 | US5082568 | US20090032472 | US3744092 | US20070071657 | US5897779 | US5080799 | US20050205469 | US6153098 | US5133864 | US4199447 | US20100252066 | US5665516 | US5762797 | US2890497 | US5893956 | US5885076 | US5668079 | US20070262025 | US2703441 | US20030034293 | US6887381 | US4153661 | US5114582 | US5057368 | US20080099375 | US6326326 | US5827430 | US20080128364 | US4986909 | US4877527 | US20030181561 | US5510565 | US5227071 | US4266408 | US6309546 | US20040004110 | US6492183 | US5626748 | US5120435 | US5122276 | US5902480 | US5358552 | US5062948 | US4586760 | US2774294 | US4101423 | US3262578 | US20060065594 | US6274041 | US20010042440 | US5264162 | US3289847 | US5409515 | WO2006074383 | DE3438098
+	</str>
+	<str name="Cites Count">
+		59
+	</str>
+	<str name="Assignee(s)">
+		PERRY EQUIPMENT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		PERRY EQUIPMENT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Mineral Wells, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Mineral Wells, TX
+	</str>
+	<str name="Inventor(s)">
+		CLOUD, DAN | KROGUE, JOHN, A.
+	</str>
+	<str name="1st Inventor">
+		CLOUD, DAN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Granbury, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Granbury, TX | Mineral, Wells, TX
+	</str>
+	<str name="Agent/Attorney">
+		GREENBERG TRAURIG, LLP PHAM, CHINH H. SALEM, NATALIE
+	</str>
+	<str name="Primary Examiner">
+		KIM, VICKIE
+	</str>
+	<str name="Assistant Examiner">
+		ZALASKY, KATHERINE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

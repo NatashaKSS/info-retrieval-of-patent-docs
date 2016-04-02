@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1443014A1
+	</str>
+	<str name="Application Number">
+		EP2004001348
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Electronic control for industrial truck, especially towbar guided industrial truck
+	</str>
+	<str name="Abstract">
+		Control electronics arrangement for warehouse vehicle, especially pole-steered vehicle, has integrated heater that ensures operation of the control electronics in a temperature range The control electronics arrangement (1) has an integrated heater that ensures operation of the control electronics in a temperature range. The control electronics has a voltage converter (3) that is connected to voltage source, especially a battery (5), and that forms the heater. An intermediate circuit board (2) layer can be connected to the voltage converter for heating purposes.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-01-22
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-01
+	</str>
+	<str name="Publication Date">
+		2004-08-04
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-08
+	</str>
+	<str name="All IPC">
+		H01L23/34 | B66F9/24 | B62D1/14 | B62D51/00
+	</str>
+	<str name="IPC Primary">
+		H01L23/34
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01L
+	</str>
+	<str name="IPC Group">
+		H01L23
+	</str>
+	<str name="Family Members">
+		ES2302987T3 | EP1443014B1 | EP1443014A1 | DE502004006539D1 | DE10303950A1
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US2002030239A1 | DE3402116A1 | DE4444772A1 | GB1187595A
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		10303950
+	</str>
+	<str name="Priority Date">
+		2003-01-31
+	</str>
+	<str name="Assignee(s)">
+		FIAT OM CARRELLI ELEVATORI S.P.A.
+	</str>
+	<str name="1st Assignee">
+		FIAT OM CARRELLI ELEVATORI S.P.A.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		ACCORSI, MARCO
+	</str>
+	<str name="1st Inventor">
+		ACCORSI, MARCO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

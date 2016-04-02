@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7499916
+	</str>
+	<str name="Application Number">
+		US10969308
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image retrieval systems and methods with semantic and feature based relevance feedback
+	</str>
+	<str name="Abstract">
+		An image retrieval system performs both keyword-based and content-based image retrieval. A user interface allows a user to specify queries using a combination of keywords and examples images. Depending on the input query, the image retrieval system finds images with keywords that match the keywords in the query and/or images with similar low-level features, such as color, texture, and shape. The system ranks the images and returns them to the user. The user interface allows the user to identify images that are more relevant to the query, as well as images that are less or not relevant to the query. The user may alternatively elect to refine the search by selecting one example image from the result set and submitting its low-level features in a new query. The image retrieval system monitors the user feedback and uses it to refine any search efforts and to train itself for future search queries. In the described implementation, the image retrieval system seamlessly integrates feature-based relevance feedback and semantic-based relevance feedback.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-10-20
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-10
+	</str>
+	<str name="Publication Date">
+		2009-03-03
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		G06F7/00 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		707/10 | 707/3 | 707/4
+	</str>
+	<str name="UPC Primary">
+		707/10
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Members">
+		EP1202187A3 | US20040267740A1 | JP2002197117A | US7099860 | US7499916 | DE60129652D1 | EP1202187B1 | JP4108961B2 | JP4210311B2 | US7529732 | US20050055344A1 | EP1202187A2 | DE60129652T2 | AT368897T | JP2007242065A
+	</str>
+	<str name="Family Member Count">
+		15
+	</str>
+	<str name="Family Members Cited By Count">
+		38
+	</str>
+	<str name="Other References">
+		Amano et al., &quot;A Flexible Content-Based Image Retrieval System with Combined Scene Description Keyword,&quot; Jun. 17-23, 1996, IEEE Multimedia Computing and System, pp. 201-208. cited by other . | Zhuang, et al., &quot;Web-based Image Retrieval: a Hybrid Approach&quot;, at &lt;&lt;http://ieeexplore.ieee.org/search/srchabstract.jsp?arnumber=93465- 9&amp;isnumber=20228&amp;pu . . . &gt;&gt;, IEEE, 2006, pp. 10. cited by other. | Shevade et al., &quot;Vidya: An experiential annotation system,&quot; 2003 ISBN: 1-508113, pp. 91-98. cited by other . | Shyu, et al., &quot;Unified Framework for Image Database Clustering and Content-based Retrieval&quot;, at &lt;&lt;http://portal.acm.org/citation.cfm?id=1032609&amp;coll=ACM&amp;dl=ACM&amp;CFI- D=35392214&amp; . . . &gt;&gt;, ACM, 2004, pp. 7. cited by other . | Uehara, et al., Miracles : Multimedia Information RetrievAL, Classification, and Exploration System--Application to Web Document Retrieval, Technical Report of the Institute of Electronics, Information and Communication Engineers, Japan, May 2, 2000, vol. 100, No. 31, pp. 17-24. cited by other . | Datta et al. Image retrieval: Ideas, influence, and trends of the new age, ACM Computing Survey (CSUR), vol. 40, Issue 2, Apr. 2008. cited by examiner . | Official Notice of Rejection from Japanese Patent Application No. 2001-333273 mailed on Feb. 27, 2007, pp. 110. cited by other . | Jing, et al., &quot;Keyword Propagation for Image Retrieval&quot;, at&lt;&lt;http://ieeexplore.ieee.org/search/srchabstract.jsp?arnumber=132- 9206&amp;isnumber=29377&amp;pu&gt;&gt;, IEEE, 2006, pp. 5. cited by other . | Wang et al. Automatic image annotation and retrieval using weight feature selection, Multimedia Software Engineering 2004, IEEE Symposium, Dec. 13-15, 2004, pp. 435-442. cited by examiner . | Lu, et al., &quot;A Unified Framework for Semantics and Feature Relevance Feedback in Image Retrieval Systems,&quot;, at &lt;&lt;http://portal.acm.org/citation.cfm?id=354403&amp;dl=&gt;&gt;, ACM, 2000, pp. 7. cited by other . | Lai et al., &quot;PBIR-MM: multimodal image retrieval and annotation,&quot; 2002 ISBN: 1-58113-620-X, pp. 421-422. cited by other . | Ozetekin, et al., &quot;Expert Agreement and Content Based Reranking in a Meta Search Environment Using Mearf&quot;, at &gt;&gt;http://portal.acm.org/citation.cfm?id=511490&amp;coll=ACM&amp;dl=ACM&amp;CFID- =35392214&amp; . . . &gt;&gt;&gt;&gt;, ACM, 2002, pp. 17. cited by other . | Japanese Notice of Rejection, Pat App# 2007169625, 2 pgs. cited by other . | Official Notice of Rejection For Japanese Patent Application No. 2007-169625, Mailed on Feb. 5, 2008, 7 Pgs. cited by other . | Atsushi et al; &quot;A Flexible Content-Based Image Retrieval System with Combined Scene Description Keyword&quot;; 1996 IEEE Proceedings of Multimedia '96; pp. 201-208. cited by other . | Kim, et al., &quot;QCluster: Relevance Feedback using Adaptive Clustering for Content-based Image Retrieval&quot;, at &lt;&lt;http://portal.acm.org/citation.cfm?id=872829&amp;coll=ACM&amp;dl=ACM&amp;CFID- =35393061&amp; . . . &gt;&gt;, ACM, 2003, pp. 17. cited by other .
+	</str>
+	<str name="Other References Count">
+		16
+	</str>
+	<str name="Cited By">
+		US7657504 | US7707208 | US8204889 | US7836050
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		US5855015 | US6901411 | US5995978 | US5899999 | US6728406 | US6285995 | US20070044010 | US20070033521 | US6442538 | US6324545 | US6076088 | US6314420 | US6301586 | US20070038612 | US6751613 | US20070033292 | US20070033170 | US6105055 | US6728706 | US5983237 | US6092080 | US6504571 | US20020069218 | US6041335 | US5594809 | US6915292 | US5020019 | US7043474 | US5721938 | US20070033533 | US6369811 | US6643643 | US20070033515 | US7111002 | US5579471 | US6574632 | US6408293 | US5870754 | US5572728 | US6557042 | JP2000112959 | JP1995021198 | JP2000048041 | WO2000045342 | JP1999039325
+	</str>
+	<str name="Cites Count">
+		45
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		96930804 | 70229200
+	</str>
+	<str name="Priority Date">
+		2004-10-20 | 2000-10-30
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond, WA
+	</str>
+	<str name="Inventor(s)">
+		LIU, WEN-YIN | ZHANG, HONG-JIANG | LU, YE
+	</str>
+	<str name="1st Inventor">
+		LIU, WEN-YIN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Beijing, CN
+	</str>
+	<str name="Inventor(s) Address">
+		Beijing, CN | Beijing, CN | Burnaby, CA
+	</str>
+	<str name="Agent/Attorney">
+		LEE &amp; HAYES, PLLC
+	</str>
+	<str name="Primary Examiner">
+		TO, BAOQUOC N.
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

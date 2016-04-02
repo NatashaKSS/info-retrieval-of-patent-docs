@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7390420
+	</str>
+	<str name="Application Number">
+		US10514877
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and equipment for compressing a dispersion in liquid-liquid extraction
+	</str>
+	<str name="Abstract">
+		The invention relates to a method for controlling and compressing a dispersion formed in the mixing stage of liquid-liquid extraction. The compression of the dispersion is achieved by reducing the cross-section of the separation section in the direction of flow and by equipping the separation section with a dispersion-damming member. The equipment according to the invention thus comprises a settler, which is essentially trapezoid in shape so that its cross-section is wider at the feed end of the settler and gets smaller towards the rear end of the settler, from whence the separated solutions are discharged from the settler, and the settler is equipped with at least one device to dam up the dispersion. In particular the method and equipment relate to the extraction process used in the recovery of metals.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-05-15
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-05
+	</str>
+	<str name="Publication Date">
+		2008-06-24
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All IPC">
+		B01D21/00 | B01D21/02
+	</str>
+	<str name="IPC Primary">
+		B01D21/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D21
+	</str>
+	<str name="All UPC">
+		210/532.1 | 210/511 | 210/802 | 210/521 | 422/259 | 422/258 | 422/257 | 210/634 | 422/256
+	</str>
+	<str name="UPC Primary">
+		210/532.1
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		AU2003240878A1 | BR0309949A | FI112039B1 | US20050224410A1 | FI20020926D0 | AU2003240878B2 | US7390420 | WO2003097207A1 | CN1305545C | CN1652855A | CA2484243A1 | MXPA04011340A | ZA200409088A
+	</str>
+	<str name="Family Member Count">
+		13
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7678275 | US7731853 | US8020710
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US4643834 | US4469582 | US6558558 | US4747948 | US2708520 | US4957628 | US6099743 | US20030127376 | DE2922721 | DE2426264 | AU199474258
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		FI
+	</str>
+	<str name="Priority Number">
+		20020926
+	</str>
+	<str name="Priority Date">
+		2002-05-16
+	</str>
+	<str name="Assignee(s)">
+		OUTOTEC OYJ
+	</str>
+	<str name="1st Assignee">
+		OUTOTEC OYJ
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Espoo, FI
+	</str>
+	<str name="Assignee(s) Address">
+		Espoo, FI
+	</str>
+	<str name="Inventor(s)">
+		NYMAN, BROR | HULTHOLM, STIG-ERIK | EKMAN, EERO | LILJA, LAUNO | LYYRA, JUHANI | PEKKALA, PERTTI | KUUSISTO, RAIMO
+	</str>
+	<str name="1st Inventor">
+		NYMAN, BROR
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Ulvila, FI
+	</str>
+	<str name="Inventor(s) Address">
+		Ulvila, FI | Pori, FI | Pori, FI | Pori, FI | Espoo, FI | Espoo, FI | Espoo, FI
+	</str>
+	<str name="Agent/Attorney">
+		MORGAN &amp; FINNEGAN, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

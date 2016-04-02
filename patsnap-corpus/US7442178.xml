@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7442178
+	</str>
+	<str name="Application Number">
+		US11076130
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Automated system and method for blood components separation and processing
+	</str>
+	<str name="Abstract">
+		A blood processing centrifuge comprising: a rotor having an axis of rotation and being controllably spun around the axis, a mechanism for processing whole blood within the rotor while spinning, a computer controlling blood processing operations, the computer being mounted to the rotor and spinning therewith.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-03-09
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2008-10-28
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		B04B9/00 | B04B5/00 | B04B1/00 | B01D33/15 | A61M37/00
+	</str>
+	<str name="IPC Primary">
+		B04B9/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B04
+	</str>
+	<str name="IPC Subclass">
+		B04B
+	</str>
+	<str name="IPC Group">
+		B04B9
+	</str>
+	<str name="All UPC">
+		604/19 | 604/6.01 | 604/4.01 | 494/84 | 604/66 | 494/31 | 604/6.09 | 210/782 | 494/43 | 210/781
+	</str>
+	<str name="UPC Primary">
+		604/19
+	</str>
+	<str name="UPC Class">
+		604
+	</str>
+	<str name="Family Members">
+		US20080248938A1 | US20060205581A1 | US7442178
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		DE102009040525A1
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6322709 | US4915847 | US5792038 | US3211368 | US5770069 | US6261217 | US5769839 | US4135883 | US4227814 | US4608178 | US5102407 | US5723050 | US6652475 | US6132354 | US20040140012 | US3674197 | US20010034513 | US6495039 | US6325750 | US6123655 | US20030191005 | US6605223 | US4322298 | US20040254560 | US5674173 | US5707331 | US6348031 | US6251284 | US4447220 | US4316576 | US3987961 | US4413771 | US4946434 | US5836934 | US4187979 | US5405308 | US6019716 | US4720284 | US4810090 | US5330462 | US6315706 | US5921950 | WO1995001842
+	</str>
+	<str name="Cites Count">
+		43
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		7613005
+	</str>
+	<str name="Priority Date">
+		2005-03-09
+	</str>
+	<str name="Inventor(s)">
+		CHAMMAS, JACQUES
+	</str>
+	<str name="1st Inventor">
+		CHAMMAS, JACQUES
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Walpole, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Walpole, MA
+	</str>
+	<str name="Agent/Attorney">
+		RISSMAN JOBSE HENDRICKS &amp; OLIVERIO
+	</str>
+	<str name="Primary Examiner">
+		STEPHENS, JACQUELINE F.
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

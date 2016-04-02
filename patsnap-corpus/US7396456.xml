@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7396456
+	</str>
+	<str name="Application Number">
+		US11212730
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Cruising aeration apparatus and method
+	</str>
+	<str name="Abstract">
+		A cruising aeration apparatus and a method are described. The cruising aeration apparatus comprises an aeration device for circulating the water in an aquatic pool, at least one conducting element connected to the aeration device for conducting the aeration device along a traveling route, and a controller. The at least one conducting element can be a rope or a float loop used as a separation line of a swimming pool. The pool water is drawn and pressurized by the aeration device and then ejected from nozzles of the aeration device. The nozzles on the front side and the rear side of the traveling route of the aeration device produce different counterforce. The aeration device is driven along the traveling route by the difference between the counterforce of the front side and the rear side of the traveling route. At least one switch is installed to control the opening and the closing of the nozzles, and is located on the side of the aeration device providing larger counterforce. The on/off of the at least one switch is controlled by the controller, so that the counterforce magnitude of the front side and the rear side of the aeration device can be interchanged to drive the aeration device to move reciprocally.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-08-29
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-08
+	</str>
+	<str name="Publication Date">
+		2008-07-08
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-07
+	</str>
+	<str name="All IPC">
+		E04H4/14 | C02F3/02 | C02F7/00
+	</str>
+	<str name="IPC Primary">
+		E04H4/14
+	</str>
+	<str name="IPC Section">
+		E
+	</str>
+	<str name="IPC Class">
+		E04
+	</str>
+	<str name="IPC Subclass">
+		E04H
+	</str>
+	<str name="IPC Group">
+		E04H4
+	</str>
+	<str name="All UPC">
+		210/170.06 | 210/167.11 | 210/167.1 | 210/242.2 | 210/170.05
+	</str>
+	<str name="UPC Primary">
+		210/170.06
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		TW268758B | US20060076283A1 | US7396456
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7581716
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US2934409 | US4482510 | US3840457 | US3759495 | US4268398 | US2825541 | US6050550 | US5730861 | US5971372 | US4485013 | US4587064 | US4680148 | US5510022
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		TW
+	</str>
+	<str name="Priority Number">
+		93130783A
+	</str>
+	<str name="Priority Date">
+		2004-10-11
+	</str>
+	<str name="Assignee(s)">
+		NATIONAL HUWEI UNIVERSITY OF SCIENCE &amp; TECHNOLOGY
+	</str>
+	<str name="1st Assignee">
+		NATIONAL HUWEI UNIVERSITY OF SCIENCE &amp; TECHNOLOGY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Huwei, Yunlin, TW
+	</str>
+	<str name="Assignee(s) Address">
+		Huwei, Yunlin, TW
+	</str>
+	<str name="Inventor(s)">
+		TSAI, RONG-FENG
+	</str>
+	<str name="1st Inventor">
+		TSAI, RONG-FENG
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Yunlin, Hsien, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Yunlin, Hsien, TW
+	</str>
+	<str name="Agent/Attorney">
+		MUNCY, GEISSLER, OLDS &amp; LOWE, PLLC
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

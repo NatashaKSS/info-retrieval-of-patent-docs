@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US4893752
+	</str>
+
+	<str name="Application Number">
+		US07190828
+	</str>
+
+	<str name="Kind Code">
+		A
+	</str>
+
+	<str name="Title">
+		Spray nozzle design
+	</str>
+
+	<str name="Abstract">
+		Novel nozzle designs useful for forming atomized sprays of fine liquid droplets in a continous gas phase or fine gas bubbles in a continuous liquid phase, for a variety of purposes, are described. In one embodiment, the nozzle comprises a multiple number of orifices communicating with a single source of both liquid and gas, usually air, to spray in different directions away from the nozzle. In another embodiment, both gas and liquid feeds to the nozzle are effected at the same end, opposite to a single spray orifice or a multiple number of spray orifices. Also described are a plurality of designs for replaceable orifices. | &#26032;&#22411;&#21943;&#22068;&#35774;&#35745;&#65292;&#24418;&#25104;&#19968;&#20010;&#36830;&#32493;&#27668;&#30456;&#25110;&#32602;&#27454;&#30340;&#27668;&#27873;&#22312;&#36830;&#32493;&#28082;&#30456;&#32602;&#27454;&#38654;&#21270;&#28082;&#28404;&#21943;&#23556;&#26377;&#29992;&#30340;&#65292;&#20986;&#20110;&#21508;&#31181;&#30446;&#30340;&#65292;&#25551;&#36848;&#12290;&#22312;&#19968;&#20010;&#20307;&#29616;&#65292;&#21943;&#22068;&#21253;&#25324;&#22312;&#19981;&#21516;&#30340;&#26041;&#21521;&#22312;&#19982;&#20004;&#32773;&#30340;&#28082;&#20307;&#21644;&#27668;&#20307;&#65292;&#36890;&#24120;&#26159;&#31354;&#27668;&#21475;&#21333;&#19968;&#26469;&#28304;&#22810;&#19968;&#20123;&#27807;&#36890;&#65292;&#21943;&#27922;&#36828;&#31163;&#21943;&#22068;&#12290;&#22312;&#21478;&#19968;&#39033;&#20307;&#29616;&#65292;&#27668;&#20307;&#21644;&#28082;&#20307;&#39282;&#26009;&#30340;&#21943;&#22068;&#26159;&#22312;&#23454;&#26045;&#21516;&#26679;&#30340;&#30446;&#30340;&#65292;&#30456;&#21453;&#21040;&#21333;&#20010;&#21943;&#23380;&#25110;&#21943;&#38654;&#21475;&#20493;&#25968;&#12290;&#36824;&#35828;&#26126;&#26159;&#23545;&#26356;&#25442;&#21475;&#35774;&#35745;&#30340;&#22810;&#20803;&#21270;&#12290;
+	</str>
+
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+
+	<str name="Application Date">
+		1988-05-06
+	</str>
+
+	<str name="Application Year">
+		1988
+	</str>
+
+	<str name="Application(Year/Month)">
+		1988-05
+	</str>
+
+	<str name="Publication Date">
+		1990-01-16
+	</str>
+
+	<str name="Publication Year">
+		1990
+	</str>
+
+	<str name="Publication(Year/Month)">
+		1990-01
+	</str>
+
+	<str name="All IPC">
+		B05B7/04
+	</str>
+
+	<str name="IPC Primary">
+		B05B7/04
+	</str>
+
+	<str name="IPC Section">
+		B
+	</str>
+
+	<str name="IPC Class">
+		B05
+	</str>
+
+	<str name="IPC Subclass">
+		B05B
+	</str>
+
+	<str name="IPC Group">
+		B05B7
+	</str>
+
+	<str name="All UPC">
+		239/434 | 239/431 | 239/427.3
+	</str>
+
+	<str name="UPC Primary">
+		239/434
+	</str>
+
+	<str name="UPC Class">
+		239
+	</str>
+
+	<str name="Family Members">
+		CA1311783C | GB8710685D0 | US4893752 | US5025989
+	</str>
+
+	<str name="Family Member Count">
+		4
+	</str>
+
+	<str name="Family Members Cited By Count">
+		20
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By">
+		EP0676244B1 | US5160706 | US7169439 | US7160358 | US7744021 | US7735756 | WO1992004127A1 | WO2005097297A1 | EP0547107B1 | AU656536B2 | US6098897 | FR2717106A1 | US7114663 | EP0676244A1 | WO2009019481A1
+	</str>
+
+	<str name="Cited By Count">
+		15
+	</str>
+
+	<str name="Cites">
+		US4601428 | US2933259 | US4356970 | US3232542 | US1276214 | US3421693 | US3829015 | US2613737 | US1062714 | US2854285 | US4784321 | US4141505 | US4708293
+	</str>
+
+	<str name="Cites Count">
+		13
+	</str>
+
+	<str name="Priority Country">
+		GB
+	</str>
+
+	<str name="Priority Number">
+		8710685
+	</str>
+
+	<str name="Priority Date">
+		1987-05-06
+	</str>
+
+	<str name="Assignee(s)">
+		TURBOTAK INC.
+	</str>
+
+	<str name="1st Assignee">
+		TURBOTAK INC.
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		Waterloo, CA
+	</str>
+
+	<str name="Assignee(s) Address">
+		Waterloo, CA
+	</str>
+
+	<str name="Inventor(s)">
+		SPINK, DONALD, R. | SPINK, EDWARD, F.
+	</str>
+
+	<str name="1st Inventor">
+		SPINK, DONALD, R.
+	</str>
+
+	<str name="Number of Inventors">
+		2
+	</str>
+
+	<str name="1st Inventor Address">
+		Waterloo, CA
+	</str>
+
+	<str name="Inventor(s) Address">
+		Waterloo, CA | Waterloo, CA
+	</str>
+
+	<str name="Agent/Attorney">
+		SIM &amp; MCBURNEY
+	</str>
+
+	<str name="Primary Examiner">
+		BUTLER, DOUGLAS C.
+	</str>
+
+	<str name="Assistant Examiner">
+		FORMAN, MICHAEL J.
+	</str>
+
+	<str name="cited by within 3 years">
+		10
+	</str>
+
+	<str name="cited by within 5 years">
+		12
+	</str>
+</doc>

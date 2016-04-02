@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6002583
+	</str>
+	<str name="Application Number">
+		US09016687
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Portable computer provided with removable battery pack
+	</str>
+	<str name="Abstract">
+		One of multiple types of battery packs may be selected and mounted on the main body of a portable computer. The battery pack mounted on the main body can be rotated in reaction to the main body and, according to the rotation position thereof, can be in a position where the bottom surface of the main body and the bottom surface of the battery pack form a single plane or a position where the back of the main body is lifted and the main body is inclined toward the user.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-01-30
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-01
+	</str>
+	<str name="Publication Date">
+		1999-12-14
+	</str>
+	<str name="Publication Year">
+		1999
+	</str>
+	<str name="Publication(Year/Month)">
+		1999-12
+	</str>
+	<str name="All IPC">
+		H05K7/16 | H05K7/10 | G06F1/16
+	</str>
+	<str name="IPC Primary">
+		H05K7/16
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/727 | 361/683
+	</str>
+	<str name="UPC Primary">
+		361/727
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US6002583
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		U.S. patent application No. 08/961,188, Oguchi et al. filed Oct. 30, 1997, a cont. of U.S. patent No. 5,583,744.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US5583744 | US5390075 | US5058045 | US5594617 | US5293300 | US5243549 | US5239731 | US5107401 | JP1993087626 | JP1992131890 | JP1993064943 | JP1992355083 | JP1991119616 | JP1992299023 | JP1992131889 | JP1990145423 | JP1993010814 | JP1993030919 | JP1992242066 | JP1991207226 | JP1993003027
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		9031511 | 9031513
+	</str>
+	<str name="Priority Date">
+		1997-01-31 | 1997-01-31
+	</str>
+	<str name="Assignee(s)">
+		CITIZEN WATCH CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		CITIZEN WATCH CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		SHOJI, TAKAHASHI | KATSUTOSHI, MUKAIJIMA | ISAO, ARAI | TOSHIAKI, UCHIDA
+	</str>
+	<str name="1st Inventor">
+		SHOJI, TAKAHASHI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Saitama, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Saitama, JP | Tokyo, JP | Saitama, JP | Saitama, JP
+	</str>
+	<str name="Agent/Attorney">
+		LOEB &amp; LOEB, LLP
+	</str>
+	<str name="Primary Examiner">
+		PICARD, LEO P.
+	</str>
+	<str name="Assistant Examiner">
+		REED, JOHN D.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

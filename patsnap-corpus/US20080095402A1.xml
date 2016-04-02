@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080095402A1
+	</str>
+	<str name="Application Number">
+		US11905404
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Device and method for position measurement
+	</str>
+	<str name="Abstract">
+		A position measurement device is provided that can precisely measure the photographing position or posture of a photographing device or the coordinates of an object based on sequentially changing photographed images. A position measuring device 100 of the invention comprises: an image acquisition section 2 for acquiring a series of photographed images changing continuously or little by little along with position displacement relative to an object to be photographed; a positional relationship measurement section 9 for measuring position displacement and posture change of the image acquisition section 2; a feature extraction section 3 for extracting feature points from the photographed images obtained with the image acquisition section 2; a feature point tracking section 4 for tracking the feature points by searching corresponding points corresponding to the feature points on a plurality of the photographed images; an image selection section 61 for selecting an image to be processed from the series of photographed images based on a measurement result made with the positional relationship measurement section 9; and a position measurement section 7 for measuring the photographing position and the photographing posture of the image acquisition section 2 based on the image to be processed selected with the image selection section 61.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-09-28
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2008-04-24
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/103 | 382/106
+	</str>
+	<str name="UPC Primary">
+		382/103
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP2008089314A | US20080095402A1 | EP1906140A2
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2006267073
+	</str>
+	<str name="Priority Date">
+		2006-09-29
+	</str>
+	<str name="Assignee(s)">
+		TOPCON CORPORATION
+	</str>
+	<str name="1st Assignee">
+		TOPCON CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		KOCHI NOBUO | ANAI TETSUJI | OTANI HITOSHI | SATO HIROKAZU
+	</str>
+	<str name="1st Inventor">
+		KOCHI NOBUO
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo,JP | Tokyo,JP | Tokyo,JP | Tokyo,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

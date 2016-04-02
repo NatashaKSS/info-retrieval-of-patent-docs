@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100070078A1
+	</str>
+	<str name="Application Number">
+		US12382187
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Apparatus and method for building map
+	</str>
+	<str name="Abstract">
+		An apparatus and method for building a map are provided. According to the apparatus and method, a path is generated on the basis of the degrees of uncertainty of features extracted from an image obtained while a mobile robot explores unknown surroundings, and the mobile robot travels along the generated path. The path based on the degrees of uncertainty of the features is generated and this may increase the accuracy of a feature map of the mobile robot or accuracy in self localization.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2009-03-10
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-03
+	</str>
+	<str name="Publication Date">
+		2010-03-18
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		G06F19/00
+	</str>
+	<str name="IPC Primary">
+		G06F19/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F19
+	</str>
+	<str name="All UPC">
+		700/259 | 901/47 | 901/1
+	</str>
+	<str name="UPC Primary">
+		700/259
+	</str>
+	<str name="UPC Class">
+		700
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020080090727
+	</str>
+	<str name="Priority Date">
+		2008-09-16
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-si,KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-si,KR
+	</str>
+	<str name="Inventor(s)">
+		KONG DONG-GEON | LEE HYOUNG-KI
+	</str>
+	<str name="1st Inventor">
+		KONG DONG-GEON
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Yongin-si,KR
+	</str>
+	<str name="Inventor(s) Address">
+		Yongin-si,KR | Seongnam-si,KR
+	</str>
+	<str name="Agent/Attorney">
+		STAAS &amp; HALSEY LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

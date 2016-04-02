@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US4980300
+	</str>
+	<str name="Application Number">
+		US07275864
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Gettering method for a semiconductor wafer
+	</str>
+	<str name="Abstract">
+		When a surface of semiconductor wafer is treated for gettering, ultrasonic waves are caused to propagate along the surface of the semiconductor wafer, through pure water. Mechanical damages are formed on the surface of the semiconductor wafer along which the ultrasonic waves propagated, the damages serving as a back side damage.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1988-11-25
+	</str>
+	<str name="Application Year">
+		1988
+	</str>
+	<str name="Application(Year/Month)">
+		1988-11
+	</str>
+	<str name="Publication Date">
+		1990-12-25
+	</str>
+	<str name="Publication Year">
+		1990
+	</str>
+	<str name="Publication(Year/Month)">
+		1990-12
+	</str>
+	<str name="All IPC">
+		B08B3/12 | H01L21/463 | H01L21/304
+	</str>
+	<str name="IPC Primary">
+		B08B3/12
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		257/E21.318 | 438/472 | 134/1 | 438/974
+	</str>
+	<str name="UPC Primary">
+		257/E21.318
+	</str>
+	<str name="UPC Class">
+		257
+	</str>
+	<str name="Family Members">
+		EP0319806A1 | KR10920003878B1 | EP0319806B1 | JP5024661B | JP1816538C | JP1989143223A | US4980300 | DE3887477D1 | DE3887477T2 | DE3856135D1 | DE3856135T2
+	</str>
+	<str name="Family Member Count">
+		11
+	</str>
+	<str name="Family Members Cited By Count">
+		20
+	</str>
+	<str name="Other References">
+		JP-A-61 15 334 (Tasu Gijutsu Kenkyusho K.K.) 23-01-1986. | JP-A-61 79 234 (Matsushita Electronics Corp.) 4/1986. | VLSI Process Data Handbook; Toru Hara et al.; 1982, (pp. 271-274). | International Electronics, vol. 1, No. 2, Feb. 1961, pp. 27-28: &quot;Ultrasonics Cleans Delicate Parts Really Clean&quot;.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		US5100476 | US5071776 | US5244819 | US5520205 | US5286657 | US5672212 | US5865894 | US5534078 | US5534076 | US5698038 | US5698040 | US7211932 | US7518288 | US8257505 | US6684891
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US4092176 | US4902350 | US4854337 | JP1981060022 | JP1980001114 | JP1985072233 | JP1986207022
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		62300356
+	</str>
+	<str name="Priority Date">
+		1987-11-28
+	</str>
+	<str name="Assignee(s)">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="1st Assignee">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		MIYASHITA, MORIYA | YOSHII, SHINTARO | SAKUMA, KEIKO
+	</str>
+	<str name="1st Inventor">
+		MIYASHITA, MORIYA
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kitakami, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kitakami, JP | Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp; DUNNER
+	</str>
+	<str name="Primary Examiner">
+		CHAUDHURI, OLIK
+	</str>
+	<str name="Assistant Examiner">
+		OJAN, OURMAZD S.
+	</str>
+	<str name="cited by within 3 years">
+		4
+	</str>
+	<str name="cited by within 5 years">
+		10
+	</str>
+</doc>
+

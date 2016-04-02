@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7578942
+	</str>
+	<str name="Application Number">
+		US11816880
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Wastewater treatment equipment and method of wastewater treatment
+	</str>
+	<str name="Abstract">
+		In wastewater treatment equipment, a surfactant is added to a micronanobubble reaction vessel 3 by using a surfactant pump 8 and a surfactant tank 9 which constitute a surfactant adding section. Thereby, a micronanobubble generator 4 stably and efficiently produces micronanobubbles in the treatment water as raw water containing the surfactant in the micronanobubble reaction vessel 3. Thus, the micronanobubbles make it possible to efficiently pretreat the wastewater introduced into the micronanobubble reaction vessel. Consequently, it becomes possible not only to enhance efficiency of wastewater treatment but also to reduce a treatment load on wastewater treatment equipment 14 in a step subsequent to the pretreatment. Thereby, scale of the wastewater treatment equipment 14 is reduced.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-01-31
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-01
+	</str>
+	<str name="Publication Date">
+		2009-08-25
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-08
+	</str>
+	<str name="All IPC">
+		C02F1/72 | C02F1/68 | C02F1/00
+	</str>
+	<str name="IPC Primary">
+		C02F1/72
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		261/DIG.75 | 210/134 | 210/220 | 210/758 | 210/746 | 210/101 | 210/221.2 | 210/97 | 210/744 | 210/150 | 210/749 | 210/765 | 210/109 | 210/259
+	</str>
+	<str name="UPC Primary">
+		261/DIG.75
+	</str>
+	<str name="UPC Class">
+		261
+	</str>
+	<str name="Family Members">
+		JP3890063B2 | JP2006239584A | WO2006092920A1 | CN101132990A | US20090020474A1 | US7578942
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		U.S. Appl. No. 11/816,985, filed Aug. 23, 2007, entitled &quot;Wastewater Treatment Method and Wastewater Treatment Equipment&quot;. cited by other . | International Search Report for PCT/JP2006/301552 mailed May 2, 2006. cited by other . | English translation of the International Preliminary Report on Patentability mailed Sep. 20, 2007 in PCT application PCT/JP2006/301552. cited by other . | International Search Report for PCT/JP2006/301553 mailed May 2, 2006. cited by other . | U.S. Appl. No. 11/816,867, filed Aug. 22, 2007, entitled &quot;Waste Gas/Wastewater Treatment Equipment and Method of Treating Waste Gas/Wastewater&quot;. cited by other. | English translation of the International Preliminary Report on Patentability mailed Sep. 20, 2007 in corresponding PCT application PCT/JP2006/301553. cited by other . | Takagi et al., &quot;Behavior of Rising Bubbles in Water Containing Surfactant,&quot; pp. 16-23 (2003). cited by other . | Kukizaki et al., &quot;Generation of Monodisperse Nanometer Bubbles Through a Porous Membrane and Control of Bubble Sizes,&quot; pp. 654-659 (2004). cited by other . | English translation of the International Preliminary Report on Patentability mailed Sep. 20, 2007 in PCT application PCT/JP2006/301551. cited by other .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6830690 | US5314644 | US20090020474 | US20060054205 | US6209855 | JP1987197197 | JP2003094086 | JP2003033625 | JP1998128377 | JP1998047649 | JP2003284946 | JP3467671 | JP2000308900 | JP2002143885 | JP2004121962 | JP1976124666 | JP2004290735 | JP1999057772 | JP2000271577 | JP2001198584 | JP2003334548 | JP1992083594 | JP2000167555 | JP3095620 | JP2003071256 | JP1999047738 | JP1999333490 | JP2001038348 | JP2000279975 | JP1999151486 | JP1995195091 | JP1977129677
+	</str>
+	<str name="Cites Count">
+		32
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2005059275
+	</str>
+	<str name="Priority Date">
+		2005-03-03
+	</str>
+	<str name="Assignee(s)">
+		SHARP KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		SHARP KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Osaka, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s)">
+		YAMASAKI, KAZUYUKI | UDA, KEICHIRO | CHUHJOH, KAZUMI
+	</str>
+	<str name="1st Inventor">
+		YAMASAKI, KAZUYUKI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Hiroshima, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Hiroshima, JP | Kyoto-fu, JP | Kagawa-ken, JP
+	</str>
+	<str name="Agent/Attorney">
+		NIXON &amp; VANDERHYE P.C.
+	</str>
+	<str name="Primary Examiner">
+		SMITH, DUANE
+	</str>
+	<str name="Assistant Examiner">
+		DURAND, PAUL J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

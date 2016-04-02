@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7601259
+	</str>
+	<str name="Application Number">
+		US12347078
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Aquarium filter
+	</str>
+	<str name="Abstract">
+		An aquarium filter assembly is mounted to an aquarium tank and defines a water flow path therethrough from upstream to downstream from an inlet to an outlet. A replaceable filter element is mounted in a filter chamber.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2008-12-31
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-12
+	</str>
+	<str name="Publication Date">
+		2009-10-13
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		C02F3/04 | A01K63/04
+	</str>
+	<str name="IPC Primary">
+		C02F3/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/167.22 | 119/260 | 210/167.27 | 210/151
+	</str>
+	<str name="UPC Primary">
+		210/167.22
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20070251867A1 | US20090223885A1 | US7601259 | US7618534 | US20090114581A1 | US20090107900A1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References">
+		Eclipse Aquarium Systems, Owner's Manual, System 3, System Six, System Twelve, Marineland Aquarium Products, Oct. 2000. cited by other . | Eclipse--The Filtration &amp; Illumination System, Owner's Manual, Eclipse1, Eclipse 2, Eclipse3, Marineland Aquarium Products, Mar. 2000. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8262907 | US8303811
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US4735715 | US5522987 | US4997559 | US6706176 | US3566840 | US3511376 | US5053125 | US5567315 | US4761227 | USD460996 | US5266190 | US5397463 | US4842727 | USD494251 | US20050284397 | US20060000755 | US3717253 | US3540591 | US7033491 | US6797163 | US4093547 | USD468393 | US4345997 | US6866773 | US5571409 | US2275428 | US20040238426 | US2665250 | USD353649 | US5423978 | USD462739 | US5728293 | US7429321 | US5176824 | US4880549 | US5160607 | US5228986 | US6692637 | US5460722 | US3738494 | US3669297 | GB2248558 | JP1986230786 | JP2006149221 | JP1998080611
+	</str>
+	<str name="Cites Count">
+		45
+	</str>
+	<str name="Priority Country">
+		IT | EP
+	</str>
+	<str name="Priority Number">
+		PD2006A0367 | 70103798
+	</str>
+	<str name="Priority Date">
+		2006-10-05 | 2007-03-08
+	</str>
+	<str name="Assignee(s)">
+		NEWA TECNO INDUSTRIA S.R.L.
+	</str>
+	<str name="1st Assignee">
+		NEWA TECNO INDUSTRIA S.R.L.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		IT
+	</str>
+	<str name="Assignee(s) Address">
+		IT
+	</str>
+	<str name="Inventor(s)">
+		MIHLBAUER, BRAD, L. | HAWKER, CHRISTOPHER, L. | TROOP, II, DAVID, R. | READY, LONNIE, AUSTIN | GUOLI, GIACOMO | BELLIA, FABIO
+	</str>
+	<str name="1st Inventor">
+		MIHLBAUER, BRAD, L.
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Mukwonago, WI
+	</str>
+	<str name="Inventor(s) Address">
+		Mukwonago, WI | Santa, Cruz, CA | Kenosha, WI | West, Columbia, SC | Milan, IT | Trebaseleghe, IT
+	</str>
+	<str name="Agent/Attorney">
+		ANDRUS, SCEALES, STARKE &amp; SAWALL, LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

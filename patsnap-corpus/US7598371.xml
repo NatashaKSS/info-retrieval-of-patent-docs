@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7598371
+	</str>
+	<str name="Application Number">
+		US09994701
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Nucleic acid separation using immobilized metal affinity chromatography
+	</str>
+	<str name="Abstract">
+		An immobilized metal affinity chromatography (IMAC) method for separating and/or purifying compounds containing a non-shielded purine or pyrimidine moiety or group such as nucleic acid, presumably through interaction with the abundant aromatic nitrogen atoms in the purine or pyrimidine moiety. The method can also be used to purify compounds containing purine or pyrimidine moieties where the purine and pyrimidine moieties are shielded from interaction with the column matrix from compounds containing a non-shielded purine or pyrimidine moiety or group. Thus, double-stranded plasmid and genomic DNA, which has no low binding affinity can be easily separated from RNA and/or oligonucleotides which bind strongly to metal-charged chelating matrices. IMAC columns clarify plasmid DNA from bacterial alkaline lysates, purify a ribozyme, and remove primers and other contaminants from PCR reactions. The metal ion affinity of yeast RNA decreases in the order: copper (II), nickel (II), zinc (II), and cobalt (II).
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-11-06
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-11
+	</str>
+	<str name="Publication Date">
+		2009-10-06
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		B01D15/08 | C07H21/00 | G01N30/02
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		436/161 | 536/25.4 | 422/70 | 210/656
+	</str>
+	<str name="UPC Primary">
+		436/161
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Members">
+		US20040152076A1 | US7598371
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Yarchoan R, Mitsuya H, Thomas RV, Pluda JM, Hartman NR, Perno C-F, Marczyk KS, Allain J-P, Johns DG, Broder S, In ivo activity against HIV nd favorable toxicity profile of 2',3'-dideoxyinosine, Science, 1989, 245:412-415. cited by examiner . | Alberts B, Bray D, Lewis J, Raff M, Roberts K, Watson JD, Molecular Biology of the Cell, third editionGarland Publishing, Inc. 1994, p. 68. cited by examiner . | Dobrowolska, G, et.al., Model Studies on Iron-II Ion Affinity Chromatography Interaction of Immobilized Metal Ions with Nucleotides. Journal of Chromatography, vol. 541, No. 1-2, 1991, pp. 333-340 XP008013339. cited by other . | Kothari RM; Fractionation of DNA on a Metal ION Equilibrated Cation Exchanges Part 1 Chromatographic Profiles of DNA on An IR-120 Aluminum ION Column. Journal of Chromatography. vol. 52, No. 1, 1970, pp. 119-129.XP008013369. cited by other . | Fanou-AYI; et. al. Metal-chelate affinity chromatography as a separation tool. Annals of the New York Academy of Science United States 1983. vol. 413, 1983, pp. 300-306, XP008013296. cited by other . | Gruenwedel DW, et. al. Mercurated Dextram Column Chromatography For Fractionating Mono Nucleotides. Proceedings of the National Acadmey of Sciences of the United States. vol. 68, No. 9, 1971, pp. 2002-2005. XP008013376. cited by other . | Ferreira GNM, et. al. Downstream Processing of plasmid DNA for gene therapy and DNA vaccine applications. Trends in Biotechnology vol. 18, No. 9 Sep. 1, 2000 pp. 380-388, XP004214265. cited by other. | Kothari RM; Some aspects of Fractionation of DNA on an IR-120 Trivalent Aluminum Column Part 2 Effect of the Physical State of DNA on Chromatographic Profiles. Journal of Chromatography, vol. 53, No. 3, 1970, pp. 580-583. XP001109612. cited by other . | Yarchoan R et. al, Administration of 3'-azido-3'-deoxythymidine, an inhibitor of HTLV-III/LAV replication, to patients with AIDS or AIDS-related complex, Lancet, 1986, 1(8481):575-580. cited by examiner . | Willson, Richard C. Et. al., Immobilized-metal affinity separation of nucleic acids. Abstracts of Papers America Chemcical Society vol. 221, No. 1-2, 2001 p. BIOT 89 XPO08013459. cited by other . | Hubert P. et. al. Metal Chelate Affinity Chromatography; 1. Influence of Various Parameters on the Retention of Nucleotides and Related Compounds. Journal of Chromatography, vol. 198, No. 3, 1980, pp. 247-256. XP001109605. cited by other . | Hubert P, et. al. Metal Chelate Affinity Chromatography 2. Group Separation of Mono Nucleotides and DI Nucleotides. Journal of Chromatography vol./ 206, No. 1, 1981, pp. 164-168, XP001109604. cited by other . | Petty KJ, Metal-Chelate Affinity Chromatography, in Current Protocols in Molecular Biology, John Wiley &amp; Sons, Inc, 2000 (article first published 1996), pp. 10.11.10-10.11.24. cited by examiner . | Holmes, Leonard D. et. al. Immobilized iron (III) metal affinity chromatography for the separation of phosphorylated macromolecules; Ligands and applications . Journal of Liquid Chromatography &amp; Related Technologies, vol. 20, No. 1, 1997, pp. 123-142. XP008013292. cited by other . | Min, C. et al., &quot;Immobilized metal affinity chromatography of DNA&quot;, Nucleic acids Res., 1996, vol. 24: pp. 3806-3810. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		15
+	</str>
+	<str name="Cites">
+		US6180778 | WO1998000435
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		99470101 | 24629200
+	</str>
+	<str name="Priority Date">
+		2001-11-06 | 2000-11-06
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF HOUSTON
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF HOUSTON
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Houston, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s)">
+		WILLSON, RICHARD, C. | MURPHY, JASON, C.
+	</str>
+	<str name="1st Inventor">
+		WILLSON, RICHARD, C.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Houston, TX | North, Wales, PA
+	</str>
+	<str name="Agent/Attorney">
+		WILLSON, JR, RICHARD COALE STROZIER, ROBERT W.
+	</str>
+	<str name="Primary Examiner">
+		BURKHART, MICHAEL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

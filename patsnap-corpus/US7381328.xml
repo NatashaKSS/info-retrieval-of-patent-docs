@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7381328
+	</str>
+	<str name="Application Number">
+		US10517775
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Effluent treatment combining solid/liquid separation and pulsed electric fields
+	</str>
+	<str name="Abstract">
+		The treatment of effluents in which a flow of the effluents is subjected to a pulsed electric field that modifies physicochemical and biologic characteristics of the medium, this modification being used during a solid/liquid separation operation, of the settlement or membrane filtration type. The solid/liquid separation operation and the application of a pulsed electric field are operations carried out at different locations along the effluent flow. The pulsed electric field has voltage value, current value, pulse repetition frequency, and voltage front shape characteristics chosen such that the required effluent treatment can be achieved as a function of the locations at which these membrane filtration operations are carried out and a pulsed electric field is applied.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-07-02
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-07
+	</str>
+	<str name="Publication Date">
+		2008-06-03
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All IPC">
+		C02F1/48
+	</str>
+	<str name="IPC Primary">
+		C02F1/48
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		204/665 | 210/321.6 | 422/186.28 | 210/243
+	</str>
+	<str name="UPC Primary">
+		204/665
+	</str>
+	<str name="UPC Class">
+		204
+	</str>
+	<str name="Family Members">
+		AU2003260649A8 | ES2270107T3 | US20080190863A1 | AU2003260649A1 | JP2006511321A | DE60308189D1 | WO2004005197A3 | US20050211638A1 | US7381328 | EP1519900A2 | EP1519900B1 | WO2004005197A2 | DE60308189T2 | AT338732T | CA2491454A1 | FR2841796A1 | FR2841796B1 | DK1519900T3 | PT1519900E
+	</str>
+	<str name="Family Member Count">
+		19
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8347960 | US8268136
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US6521134 | US20020056634 | US4169029 | US3933606 | US5447733 | US3480529 | US6030538 | US6491820 | US3192142 | FR2784979 | GB2149423 | DE4100799 | WO2002004356 | WO1997017297 | DE10050489 | DE19752371
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0208455
+	</str>
+	<str name="Priority Date">
+		2002-07-05
+	</str>
+	<str name="Assignee(s)">
+		COMMISSART A L'ENERGIE ATOMIQUE
+	</str>
+	<str name="1st Assignee">
+		COMMISSART A L'ENERGIE ATOMIQUE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Paris, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Paris, FR
+	</str>
+	<str name="Inventor(s)">
+		SCHRIVE, LUC | NOUVEL, PHILIP | GRASMICK, ALAIN
+	</str>
+	<str name="1st Inventor">
+		SCHRIVE, LUC
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Pont, Saint, Esprit, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Pont, Saint, Esprit, FR | Sauzet, FR | Montferrier-sur-Lez, FR
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEISTADT, P.C.
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O.
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

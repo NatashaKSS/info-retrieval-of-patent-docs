@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7993529
+	</str>
+	<str name="Application Number">
+		US12731448
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Treatment apparatus of organic compounds included in waste water, and a treatment system of organic compounds included in waste water
+	</str>
+	<str name="Abstract">
+		A treatment method of organic compounds included in waste water, comprising the steps of: supplying waste water to an adsorber 2 filled with an adsorbent 3 therein for adsorbing the organic compounds in the waste water by the adsorbent 3 in the adsorber 2, supplying a current between an anode 9 and a cathode 8 in water including an electrolyte in an electrolyzer 6 for electrolyzing the water including an electrolyte, and supplying an electrolyte resulting from electrolysis in the electrolyzer 6 to the adsorbent 3 in the adsorber 2 for contacting the electrolyte with the adsorbent 3, so that the organic compounds adsorbed by the adsorbent 3 are desorbed or decomposed.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-03-25
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-03
+	</str>
+	<str name="Publication Date">
+		2011-08-09
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/663 | 210/670 | 210/748.17 | 210/676 | 210/675 | 210/748.18 | 210/669
+	</str>
+	<str name="UPC Primary">
+		210/663
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Kiyokazu Takemura, et al. Ballast Water Purifying System Using Coagulating Technology, Environment Solution Technology (2007) vol. 6, No. 7. cited by other . | Wallwork, Water Reuse and Treatment Issues in the Oil Sands Industry, Conrad Oilsands Water Usage Workshop, Online 2004, XP002499024, URL:www.conrad.ab.ca/seminars/water.sub.--usage/2004/water.sub.--reuse.su- b.--and.sub.--treatment.sub.--issues.sub.--in.sub.--oilsands.sub.--wallwor- k.pdf. cited by other . | Mackinnon, Oil Sands Water Quality Issues: Properties, Treatment and Discharge Options Conrad Oilsands Water Usage Workshop, 2004, XP002499023, URL:www.conrad.ab.ca/seminars/water.sub.--usage/2004/Oil.sub.--Sands.sub.- --water.sub.--quality.sub.--properties.sub.--treatment.sub.--and.sub.--dis- charge.sub.--options.sub.--Mackinnon.sub.--.pdf. cited by other . | Summons to attend oral proceedings pursuant to Rule 115(1) EPC dated May 21, 2010 for Application No. 08250622.1 0 1213/1997782. cited by other. | US. Appl. No. 11/718,524, filed May 3, 2007, Toshiaki Arato et al. cited by other . | Peng et al., Application of Nanofiltration to water Management Options for Oil Sands Operations, XP 002499021, Desalination, Vo. 170, 2004, pp. 137-150. cited by other . | Korean Office of Appln. 10-2008-11832 dated Nov. 26, 2009 with translation. cited by other . | Office Action of EP Application No. 09008038.3 dated Nov. 30, 2009 in English. cited by other .
+	</str>
+	<str name="Other References Count">
+		8
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7160430 | US6616827 | US20020162453 | US20070022744 | US7731920 | US3502566 | US4395337 | US20040007533 | JP2005131479 | GB1284572 | EP0915059 | GB2044239 | JP2005074371 | JP1984127691 | JP2006314952 | WO2003091166 | JP2004025041 | JP1980159893 | JP1994269776 | JP1996192162 | WO2007125334 | WO2006049149
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2007101498
+	</str>
+	<str name="Priority Date">
+		2007-04-09
+	</str>
+	<str name="Assignee(s)">
+		HITACHI, LTD. (TOKYO, JP), HITACHI KYOWA ENGINEERING CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		HITACHI, LTD. (TOKYO, JP), HITACHI KYOWA ENGINEERING CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ibaraki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Ibaraki, JP
+	</str>
+	<str name="Inventor(s)">
+		HONJI, AKIO | ISHII, HAYAHITO | MOCHIZUKI, AKIRA | SAHO, NORIHIDE | TSUYAMA, TSUTOMU | ISOGAMI, HISASHI
+	</str>
+	<str name="1st Inventor">
+		HONJI, AKIO
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Hitachinaka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Hitachinaka, JP | Hitachinaka, JP | Mito, JP | Tsuchiura, JP | Yokohama, JP | Ushiku, JP
+	</str>
+	<str name="Agent/Attorney">
+		ANTONELLI, TERRY, STOUT &amp; KRAUS, LLP.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

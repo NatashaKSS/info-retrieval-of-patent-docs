@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20030071122A1
+	</str>
+	<str name="Application Number">
+		US10135893
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Internet-based method of and system for remotely monitoring, configuring and servicing planar laser illumination and imaging (PLIIM) based networks with nodes for supporting object identification and attribute information acquisition functions
+	</str>
+	<str name="Abstract">
+		Methods of and systems for illuminating objects using planar laser illumination beams having substantially-planar spatial distribution characteristics that extend through the field of view (FOV) of image formation and detection modules employed in such systems. Each planar laser illumination beam is produced from a planar laser illumination beam array (PLIA) comprising an plurality of planar laser illumination modules (PLIMs). Each PLIM comprises a visible laser diode (VLD, a focusing lens, and a cylindrical optical element arranged therewith. The individual planar laser illumination beam components produced from each PLIM are optically combined to produce a composite substantially planar laser illumination beam having substantially uniform power density characteristics over the entire spatial extend thereof and thus the working range of the system. Preferably, each planar laser illumination beam component is focused so that the minimum beam width thereof occurs at a point or plane which is the farthest or maximum object distance at which the system is designed to acquire images, thereby compensating for decreases in the power density of the incident planar laser illumination beam due to the fact that the width of the planar laser illumination beam increases in length for increasing object distances away from the imaging optics. By virtue of the present invention, it is now possible to use both VLDs and high-speed CCD-type image detectors in conveyor, hand-held and hold-under type scanning applications alike, enjoying the advantages and benefits that each such technology has to offer, while avoiding the shortcomings and drawbacks hitherto associated therewith.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-04-29
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-04
+	</str>
+	<str name="Publication Date">
+		2003-04-17
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-04
+	</str>
+	<str name="All IPC">
+		G06K7/14 | G06K7/10
+	</str>
+	<str name="IPC Primary">
+		G06K7/14
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K7
+	</str>
+	<str name="All UPC">
+		235/454
+	</str>
+	<str name="UPC Primary">
+		235/454
+	</str>
+	<str name="UPC Class">
+		235
+	</str>
+	<str name="Family Members">
+		US20030019933A1 | US20030024987A1 | US20030034387A1 | US20030034395A1 | US20030035460A1 | US20030035461A1 | US20030038179A1 | US20030042303A1 | US20030042309A1 | US20030042314A1 | US20030042315A1 | US20030047597A1 | US20030052169A1 | US20030052175A1 | US20030053513A1 | US20030062415A1 | US20030071119A1 | US20030071122A1 | US20030071123A1 | US20030071124A1 | US20030071128A1 | US20030080190A1 | US20030085280A1 | US20030085281A1 | US20030094495A1 | US20030098353A1 | US20030102379A1 | US20030218070A1 | US20060086794A1 | US6739511 | US6830184 | US6830185 | US6851610 | US6877662 | US6913202 | US6915954 | US6918541 | US6948659 | US6953151 | US6953152 | US6959868 | US6959869 | US6962289 | US6969001 | US6971575 | US6971576 | US6978935 | US6978936 | US6988660 | US6988661 | US6991165 | US6991166 | US6997386 | US7059524 | US7066391 | US7090133 | US7303132
+	</str>
+	<str name="Family Member Count">
+		57
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US | US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		13589302 | 0015624 | 99058501 | 99968701 | 95447701 | 88313001 | 78166501 | 78002701 | 72188500 | 32775699
+	</str>
+	<str name="Priority Date">
+		2002-04-29 | 2000-06-07 | 2001-11-21 | 2001-10-31 | 2001-09-17 | 2001-06-15 | 2001-02-12 | 2001-02-09 | 2000-11-24 | 1999-06-07
+	</str>
+	<str name="Assignee(s)">
+		METROLOGIC INSTRUMENTS, INC.
+	</str>
+	<str name="1st Assignee">
+		METROLOGIC INSTRUMENTS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Blackwood,NJ,US
+	</str>
+	<str name="Assignee(s) Address">
+		Blackwood,NJ,US
+	</str>
+	<str name="Inventor(s)">
+		CONSTANTINE J. TSIKOS | C. HARRY KNOWLES | XIAOXUN ZHU | KA MAN AU | BARRY E. SCHWARTZ
+	</str>
+	<str name="1st Inventor">
+		CONSTANTINE J. TSIKOS
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Voorhees,NJ,US
+	</str>
+	<str name="Inventor(s) Address">
+		Voorhees,NJ,US | Moorestown,NJ,US | Marlton,NJ,US | Philadelphia,PA,US | Haddonfield,NJ,US
+	</str>
+	<str name="Agent/Attorney">
+		THOMAS J. PERKOWSKI, ESQ., P.C.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

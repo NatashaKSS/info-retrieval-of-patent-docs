@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7473365
+	</str>
+	<str name="Application Number">
+		US10567236
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and installation for the biological treatment of water using activated sludge and comprising aeration regulation
+	</str>
+	<str name="Abstract">
+		The biological water or wastewater treatment process described herein alternates aeration and anoxic phases during a water treatment process. According to one exemplary process, the water or wastewater is directed into a biological tank. The water or wastewater in the biological tank is aerated until measured nitrate or redox values meet high nitrate or high redox set value conditions relative to minimum aeration and maximum aeration time requirements. Subsequently, the water or wastewater is subjected to anoxic treatment until the measured nitrate value meets low nitrate set value conditions relative minimum and maximum anoxia time requirements.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-07-22
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-07
+	</str>
+	<str name="Publication Date">
+		2009-01-06
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/630 | 210/903 | 210/614
+	</str>
+	<str name="UPC Primary">
+		210/630
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		KR1020060119863A | FR2858609B1 | FR2858609A1 | EP1651574A1 | CA2531764A1 | JP2007501112A | US7473365 | AU2004268806A1 | CN100360438C | CN1829666A | US20060283794A1 | WO2005021446A1 | AU2004268806B2
+	</str>
+	<str name="Family Member Count">
+		13
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Hansen, Joachim, &quot;Fuzzy-Regelungen zur Optimierung der Nahrstoffelimination in kommunalen Klaranlagen,&quot; pp. 2259-2268, XP-000803516, 1998. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5589068 | US5906746 | US5520812 | US5582734 | US20060049103 | US5482630 | US7014769 | US6254778 | WO2000037369 | EP0550367
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0309629
+	</str>
+	<str name="Priority Date">
+		2003-08-04
+	</str>
+	<str name="Assignee(s)">
+		OTV SA S.A.
+	</str>
+	<str name="1st Assignee">
+		OTV SA S.A.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Saint-Maurice Cedex, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Saint-Maurice Cedex, FR
+	</str>
+	<str name="Inventor(s)">
+		OGER, LOIC | TAZI, PAIN, ANNIE | PAYRAUDEAU, MICHELE
+	</str>
+	<str name="1st Inventor">
+		OGER, LOIC
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Saint-Gilles, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Saint-Gilles, FR | Asnieres, FR | Paris, FR
+	</str>
+	<str name="Agent/Attorney">
+		COATS &amp; BENNETT, P.L.L.C.
+	</str>
+	<str name="Primary Examiner">
+		LAWRENCE, FRANK M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

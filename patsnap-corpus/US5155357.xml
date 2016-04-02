@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5155357
+	</str>
+	<str name="Application Number">
+		US07556751
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Portable mass spectrometer
+	</str>
+	<str name="Abstract">
+		A portable mass spectrometer system. The system includes a sample inlet for receiving a sample of analyte molecules and an ion source for producing sample ions by ionization of the sample molecules. A cycloid mass analyzer is provided and adapted to receive the sample ions. The mass analyzer has a means for inducing an electric field in an analysis region and a rear earth permanent magnet material for inducing a static magnetic field in the analysis region, oriented substantially normal to the electric field. A detector is provided for detection of said sample ions in the analysis region. A vacuum means maintains a low pressure in the analysis region. In various embodiments, the system is hand-portable and self-contained, including a 12V rechargeable battery power supply, and a magnet that includes a rare earth permanent magnetic material such as neodymium-iron and samarium-cobalt alloys.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1990-07-23
+	</str>
+	<str name="Application Year">
+		1990
+	</str>
+	<str name="Application(Year/Month)">
+		1990-07
+	</str>
+	<str name="Publication Date">
+		1992-10-13
+	</str>
+	<str name="Publication Year">
+		1992
+	</str>
+	<str name="Publication(Year/Month)">
+		1992-10
+	</str>
+	<str name="All IPC">
+		B01D59/44 | H01J49/00
+	</str>
+	<str name="IPC Primary">
+		B01D59/44
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D59
+	</str>
+	<str name="All UPC">
+		250/281 | 250/291
+	</str>
+	<str name="UPC Primary">
+		250/281
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		US5155357
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Daisey, &quot;Realtime Portable Organic Vapor Sampling Systems: Status and Needs&quot;, Mar. 1987, p. 6. | Newton, &quot;A Portable Mass Spectrometer for Field and Laboratory Use&quot;, Jul. 7, 1975. | Roehrig, &quot;Construction of a Bread Board Electronic System for a Light Weight Cold Cathode Cathode Quadrupole Mass Spectrometer&quot;, NASSA document, May 1969. | Pernicka, &quot;Portable Mass Spectrometer/Computer for Air Pollution Analysis and Monitoring&quot;, Dec. 1990. | Evans et al., &quot;Monitoring Organic Vapors&quot;, Environ. Sci. and Technol., 9(13):1134-1138 Dec. 1975. | Taya et al., &quot;A Portable Double Focusing Mass Spectrometer&quot;, Mass Spectrometry, 25 (2) 141-152 Jun. 1977. | Science, vol. 249, p. 1598, 1990. | Rushneck, &quot;Viking Gas Chromatograph-Mass Spectrometer&quot;, Rev. Sci. Instrum., 49(6), Jun. 1978 p. 817. | Herzog et al., &quot;A Portable MS Designed for Local Cerebral Blood Flow and Brain Tissue Metabolism Studies by Computer-Assisted Tomography, Using Inhaled Staple Xenon as Tracer&quot;, 29th Ann. Conf. on Mass Spectometry and Applied Topics, Minneapolis (1981). | Friesen et al., &quot;A Portable, Remotely Operated, Computer Controlled, Quadrupole Mass&quot; (1982). | Nier, &quot;High Performance-Double Focusing Mass Spectrometer&quot;, Review of Scientific Instrumentation, 56(2):214-219, Feb. 1985. | Viking Instruments Corporation, &quot;SpectraTrak.TM. 600 Transportable GC/MS&quot; Dec. 1990.
+	</str>
+	<str name="Other References Count">
+		12
+	</str>
+	<str name="Cites">
+		US4206383 | US4459844 | US2221467 | US3996464 | US4694168 | US4757208 | US2977470 | GB2026231A
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		55675190
+	</str>
+	<str name="Priority Date">
+		1990-07-23
+	</str>
+	<str name="Assignee(s)">
+		MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+	</str>
+	<str name="1st Assignee">
+		MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Cambridge, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Cambridge, MA
+	</str>
+	<str name="Inventor(s)">
+		HEMOND, HAROLD, F.
+	</str>
+	<str name="1st Inventor">
+		HEMOND, HAROLD, F.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Lexington, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Lexington, MA
+	</str>
+	<str name="Agent/Attorney">
+		FISH &amp; RICHARDSON
+	</str>
+	<str name="Primary Examiner">
+		ANDERSON, BRUCE C.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

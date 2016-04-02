@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8080166
+	</str>
+	<str name="Application Number">
+		US12/573773
+	</str>
+	<str name="Title">
+		Multi-phase separation method
+	</str>
+	<str name="Abstract">
+		A multiphase separation system utilized to remove contaminants from fluids includes a pre-filtering module for filtering a contaminated fluid to provide a filtered contaminated fluid. A condenser module receives the filtered contaminated fluid and a contaminated gas phase for condensing the contaminated gas phase to a contaminated liquid. A phase reaction chamber converts the filtered contaminated fluid to a contaminated mist wherein the mist is subjected to a low energy, high vacuum environment for providing a first change of phase by separating into a contaminated gas phase and a liquid mist phase. The contaminated gas phase is carried out of the phase reaction chamber by a carrier air. A vacuum pump provides the low energy, high vacuum environment in the phase reaction chamber and delivers the contaminated gas phase to the condenser module for condensation providing a second change of phase.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-10-05
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-10
+	</str>
+	<str name="Publication Date">
+		2011-12-20
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		C02F1/20
+	</str>
+	<str name="IPC Primary">
+		C02F1/20
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/799 | 203/47 | 210/774 | 210/804 | 203/22 | 95/257 | 95/247 | 203/11
+	</str>
+	<str name="UPC Primary">
+		210/799
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Beck, Andreas and Schulinger, Wayne, Fifth Forum on Innovative Hazardous Waste Treatment Technologies: Domestic and International. &quot;A New Air Stripping Method to Economically remove VOCS from Groundwater&quot;, p. 121-124 (1994). cited by other . | International Search Report for corresponding to PCT Application PCT/US2004/021880. cited by other . | Russian Office Action for corresponding case in Russia, received in email sent on Oct. 27, 2008. cited by other. | Dytnersky, Yu.I. &quot;Processes and Apparatus in Chemical Technologies,&quot; Part 1, Khimia Publisher, Moscow, 1995, pp. 212-216 [3]. cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cites">
+		US6660239 | US6932889 | US5441365 | US5785739 | US5122166 | US5122165 | US5032230 | US5273572 | US5562834 | US6110361 | US3898058 | US5769927 | US5167838 | US6740205 | US6136204 | USR15866 | US4659347 | US4601789 | US5772734 | US5176798 | US5914091 | US5424045 | US6224716 | US5389208 | US5787537 | US5595586 | US6123750 | US5948279 | US4444571 | US6508916 | US4957624 | US4890673 | US3285832 | US5618417 | US4518503 | US6503395 | US2939544 | US5383958 | US5352276 | US5389126 | US5650128 | US6197162 | US6197206 | US7163636 | US5246584 | US5368754 | US5707528 | US5766457 | US4713089 | US3645398 | US5304704 | US5413717 | US4842748 | US5183563 | US4436764 | US20020162805 | US6321837 | US7597803 | US6197095 | US5458739 | US6375803 | US6277175 | US5767060 | US5104525 | US4401569 | US6024882 | US5863510 | US3533917 | US6036748 | US4019977 | US4235680 | US4663089 | US20030094100 | US7087157 | US5993608 | US6299781 | US5836718 | US4343683 | US4979886 | US7041198 | US7000409 | US6158924 | US20020053507 | US6635149 | US4900336 | US4608163 | US5614100 | JP1983185717
+	</str>
+	<str name="Cites Count">
+		88
+	</str>
+	<str name="Assignee(s)">
+		LIQUID SEPARATION TECHNOLOGIES &amp; EQUIPMENT, LLC
+	</str>
+	<str name="1st Assignee">
+		LIQUID SEPARATION TECHNOLOGIES &amp; EQUIPMENT, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Mission Viego, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Mission Viego, CA
+	</str>
+	<str name="Inventor(s)">
+		SPANI, WAYNE, W.
+	</str>
+	<str name="1st Inventor">
+		SPANI, WAYNE, W.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Mission, Viejo, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Mission, Viejo, CA
+	</str>
+	<str name="Agent/Attorney">
+		KNOBBE, MARTENS, OLSON &amp; BEAR LLP
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

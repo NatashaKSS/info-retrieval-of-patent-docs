@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2009133667A1
+	</str>
+	<str name="Application Number">
+		PCT/JP2009/001824
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		DEVICE FOR DISPLAYING RESULT OF SIMILAR IMAGE SEARCH AND METHOD FOR DISPLAYING RESULT OF SIMILAR IMAGE SEARCH
+	</str>
+	<str name="Abstract">
+		A device and method for displaying the result of search for a similar image enables the user to simply and adequately grasp the behavior history of a search object person even in various camera environments. Person feature data (face, color, shape, etc.) extracted from cameras (11) is stored in a person feature database (14). A search request receiving unit (101) receives an identifier for identifying the search object person at least as a search key. A feature searching unit (102) searches in order of similarity the person feature database (14) for a person corresponding to the search key. A search result grouping unit (103) re-classifies the search result (a list showing the search order, the similarity, the date and time, the place, etc.) into units in each of which it is assumed that the environment is the same and displays the result of the grouping on a search result display unit (104). In such a way, since the search result in units in each of which it is assumed that the environment is the same is displayed in the form of a list, a search object person in various camera environments can be simply grasped from among a limited number of items displayed.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2009-04-21
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-04
+	</str>
+	<str name="Publication Date">
+		2009-11-05
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-11
+	</str>
+	<str name="All IPC">
+		H04N5/76 | H04N7/18 | G06T7/00 | G06T1/00 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		H04N5/76
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04N
+	</str>
+	<str name="IPC Group">
+		H04N5
+	</str>
+	<str name="Family Members">
+		JP2009271577A | WO2009133667A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2008118690
+	</str>
+	<str name="Priority Date">
+		2008-04-30
+	</str>
+	<str name="Assignee(s)">
+		PANASONIC CORPORATION | YOSHIO | AOKI
+	</str>
+	<str name="1st Assignee">
+		PANASONIC CORPORATION | YOSHIO
+	</str>
+	<str name="Number of Assignees">
+		1 | 2
+	</str>
+	<str name="1st Assignee Address">
+		5718501, JP | 5718501, JP
+	</str>
+	<str name="Assignee(s) Address">
+		5718501, JP | Hiroaki, &#226;&#8364; | Katsuji, &#226;&#8364; | YOSHIO | AOKI
+	</str>
+	<str name="Agent/Attorney">
+		OGURI, SHOHEI
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

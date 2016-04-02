@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8054932
+	</str>
+	<str name="Application Number">
+		US12/465253
+	</str>
+	<str name="Title">
+		Filter medium for strainers used in nuclear reactor emergency core cooling systems
+	</str>
+	<str name="Abstract">
+		A filter medium for strainers used in the emergency sump of a nuclear power plant ECCS. The filter medium is employed with double wall, concentric tube type strainer modules. The filter medium is preferably constructed of a woven or knitted stainless steel wire material and is shaped in a cylinder so that it can be inserted between two concentric strainer walls, concentric tube type strainer in such a manner that water that passes through the strainer must pass through and be filtered by the filter medium before the water can be pumped to the reactor core. The filter medium is inserted through the bottom of the strainer module and is held in place by an x-shaped retainer. The filter creates varied approach velocity of the fluid and results in non-uniform fibrous debris accumulation on the strainer, insuring acceptable strainer debris hydraulic head loss.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-05-13
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-05
+	</str>
+	<str name="Publication Date">
+		2011-11-08
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		G21C15/18 | B01D29/13
+	</str>
+	<str name="IPC Primary">
+		G21C15/18
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G21
+	</str>
+	<str name="IPC Subclass">
+		G21C
+	</str>
+	<str name="IPC Group">
+		G21C15
+	</str>
+	<str name="All UPC">
+		210/499 | 210/416.1 | 210/315 | 376/282 | 210/196 | 210/167.01 | 210/251 | 210/484 | 210/232 | 210/489 | 376/313
+	</str>
+	<str name="UPC Primary">
+		210/499
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5612983 | US5053122 | US7488426 | US4280906 | US4909937 | US5688402 | US5426679 | US20020020678 | US20020057755 | US6254774 | US5958234 | US6709586 | US20070084782 | US20070045166 | US20080223779 | US5815544 | US20100025315 | US5478469 | US7211190 | US5935439 | US20050167355 | US2442818 | US7027549 | US20040206679 | US7848475 | US20090184064 | US5835549 | US5390221 | US6488842 | US4597871 | US5496468 | US6387261 | US6491818 | US20070289915 | US20060027492 | US4376091 | US20040206682 | US5453180 | US5705054 | US20060219645 | US5759399 | US5759398 | US7081201 | US20020148766 | US5539790 | US3935105 | US4331460 | US5696801 | US6106592 | US5843314 | US5345483 | US20060049096 | US5640434 | US6477220 | US1140726
+	</str>
+	<str name="Cites Count">
+		55
+	</str>
+	<str name="Assignee(s)">
+		ENERCON SERVICES, INC.
+	</str>
+	<str name="1st Assignee">
+		ENERCON SERVICES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tulsa, OK
+	</str>
+	<str name="Assignee(s) Address">
+		Tulsa, OK
+	</str>
+	<str name="Inventor(s)">
+		SMITH, JAMES, AARON | PATEL, ATUL, HARIHAR | CARR, JR., LOUIS, THOMAS
+	</str>
+	<str name="1st Inventor">
+		SMITH, JAMES, AARON
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Lilbum, GA
+	</str>
+	<str name="Inventor(s) Address">
+		Lilbum, GA | Acworth, GA | Madison, AL
+	</str>
+	<str name="Agent/Attorney">
+		MCKAY, MOLLY D.
+	</str>
+	<str name="Primary Examiner">
+		POPOVICS, ROBERT JAMES
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

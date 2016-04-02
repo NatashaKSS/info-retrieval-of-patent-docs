@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7927513
+	</str>
+	<str name="Application Number">
+		US12606469
+	</str>
+	<str name="Title">
+		Method of treating a hot syngas stream for conversion to chemical products by removing ammonia and COS
+	</str>
+	<str name="Abstract">
+		A method for the high removal of ammonia, COS and HCN from syngas (along with some polishing of particulates) in a cost effective and environmentally benign and sustainable fashion, with the need for little to no chemical addition by using a combination of water based gas scrubbing, HCN scrubbing and biological processing steps.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-10-27
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-10
+	</str>
+	<str name="Publication Date">
+		2011-04-19
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-04
+	</str>
+	<str name="All IPC">
+		C10K1/08
+	</str>
+	<str name="IPC Primary">
+		C10K1/08
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C10
+	</str>
+	<str name="IPC Subclass">
+		C10K
+	</str>
+	<str name="IPC Group">
+		C10K1
+	</str>
+	<str name="All UPC">
+		423/215.5 | 210/601 | 423/243.01 | 210/620 | 252/373 | 423/237 | 423/238 | 423/236
+	</str>
+	<str name="UPC Primary">
+		423/215.5
+	</str>
+	<str name="UPC Class">
+		423
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Barik, S., et al., &quot;Biological Production of Alcohols from Coal Through Indirect Liquefaction,&quot; Appl. Biochem. Biotechnol. vol. 18, No. 1, Aug. 1988, 363-387. cited by other. | Klasson, K.T., et al., &quot;Biological Production of Liquid and Gaseous Fuels from Synthesis Gas,&quot; Appl. Biochem. Biotechnol., vol. 24-25, No. 1, Mar. 1990, 857-873. cited by other . | Phillips, John R., et al., &quot;Synthesis Gas as Substrate for the Biological Production of Fuels and Chemicals,&quot; Appl. Biochem. Biotechnol. vol. 45-46, No. 1, Mar. 1994, 145-157. cited by other . | Clausen, E.C., et al., &quot;Ethanol From Biomass by Gasification/Fermentation&quot;, Presented at Plastics, Tires, Auto Wastes/Biomass MSW Symposium, Fall 1993, Chicago, 38 (3). cited by other . | Vega, J. L., et al., &quot;The Biological Production of Ethanol from Synthesis Gas,&quot; Appl. Biochem. Biotechnol. vol. 20-21, No. 1, Jan. 1989, 781-797. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By">
+		US8303849
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6998098 | US7285402 | US4189307 | US20090215139 | US6340581 | US6136577 | US20080305540 | US20090215163 | WO2008154301
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Assignee(s)">
+		COSKATA, INC.
+	</str>
+	<str name="1st Assignee">
+		COSKATA, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Warrenville, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Warrenville, IL
+	</str>
+	<str name="Inventor(s)">
+		HICKEY, ROBERT
+	</str>
+	<str name="1st Inventor">
+		HICKEY, ROBERT
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Okemos, MI
+	</str>
+	<str name="Inventor(s) Address">
+		Okemos, MI
+	</str>
+	<str name="Primary Examiner">
+		VANOY, TIMOTHY C
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8043505
+	</str>
+	<str name="Application Number">
+		US11919276
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Treatment equipment of organic waste and treatment method
+	</str>
+	<str name="Abstract">
+		In treatment equipment of organic waste provided with a high temperature and pressure treatment apparatus to produce a slurried material by conducting the high temperature and high pressure treatment of the organic waste, a dehydration treatment apparatus to recover the dehydrated solid matter by conducting the dehydration treatment of the slurried material and a water treatment apparatus to conduct the purification treatment of a separated liquid separated by the dehydration treatment apparatus, the treatment equipment of organic waste is characterized by having a crusher to crush said organic waste before conducting the high pressure and temperature treatment and providing to said high temperature and pressure treatment apparatus a steam blowing means to blow steam into the organic waste in said high temperature and pressure treatment apparatus, wherein said high temperature and pressure treatment apparatus is formed as a continuous reaction tank to which the organic waste is continuously supplied and to which the steam is blown from the said steam blowing means to cause the reaction while heating, pressurizing and agitating, and wherein said water treatment apparatus is provided with a membrane separation treatment apparatus to conduct the separation treatment via the separation membrane as a condensed liquid of the residual solid matter in the separated liquid.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-03-16
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-03
+	</str>
+	<str name="Publication Date">
+		2011-10-25
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		C10L1/04 | C07C4/00 | C02F11/00 | C02F1/44
+	</str>
+	<str name="IPC Primary">
+		C10L1/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C10
+	</str>
+	<str name="IPC Subclass">
+		C10L
+	</str>
+	<str name="IPC Group">
+		C10L1
+	</str>
+	<str name="All UPC">
+		422/600 | 422/614 | 210/787 | 422/613 | 210/513 | 208/429 | 208/428 | 210/637 | 210/360.1 | 208/425 | 208/424 | 210/257.2 | 208/430 | 210/151 | 422/533 | 422/608 | 210/512.1
+	</str>
+	<str name="UPC Primary">
+		422/600
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Walley, Paul, &quot;Optimising Thermal Hydrolysis for Reliable High Digester Solids Loading and Performance&quot;, 12th European Biosolids and Organic Resources Conference, 2007. cited by other . | Kelly, Harlan G., &quot;Emergy Processes in Biosolids Treatment, 2005&quot;, Journal of Environmental Engineering and Science, May 2006. cited by other. | English language translation of Office Action dated Jul. 31, 2009 in corresponding Chinese Application No. 200680014592.6. cited by other . | Neyens, E. et al., &quot;A review of thermal sludge pre-treatment processes to improve dewaterability&quot;, Journal of Hazardous Materials, 2003, pp. 51-67. cited by other . | CH2MHill and Itron, Task 2.2.1 Final Report prepared for the California Energy Commission, &quot;Commonwealth Energy Biogas/PV Mini-Grid Renewal Resources Program, Making Renewables Part of an Affordable and Diverse Electric System in California, Contract No. 500-00-036, Process Selection Report for Wastewater Treatment Plants, Project No. 2.2 Enhanced Energy Recovery Through Optimization of Anaerobic Digestion and Microturbines&quot;, Aug. 2003. cited by other . | Weemaes, Marjoleine P.J., et al., &quot;Evaluation of Current Wet Sludge Disintegration Techniques&quot;, Centre for Environmental Sanitation, University Ghent, Ghent, Belgium, Jun. 12, 1998. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cites">
+		US20040192980 | US20070098625 | US6436157 | US4860671 | US5188739 | US5264009 | US20040192981 | US4618735 | US4852269 | US5188741 | US5188740 | US5018456 | US4087276 | US5370715 | US5082571 | US5707417 | US5711768 | US4714032 | US5057231 | US4761893 | US5292429 | US5000099 | US4657681 | US5266085 | US5217625 | US5087370 | US5273556 | US5582793 | US5389264 | US5261225 | US5087378 | US3830636 | US4983296 | US4829678 | US7311834 | US20050113611 | US7101482 | US5221480 | US5019135 | US4038152 | US5280701 | US5230211 | US6143176 | US6256902 | US5888307 | US6149694 | US5240619 | US4272322 | US5641413 | US20050145569 | US4909899 | US5888453 | US20070289205 | US5288413 | US4292953 | US6197081 | US4875905 | US5888256 | US6962561 | US6913700 | US5183577 | US5630854 | US4953478 | US6905600 | US4615711 | US6692544 | US6740205 | US5234607 | US7301060 | US20050108928 | US5050375 | US4989344 | US4956926 | US7262331 | US4735729 | US3729042 | US3580193 | US5975439 | US4017421 | US4290269 | US5797972 | US5114541 | US5389259 | US6978725 | US5356540 | US4702745 | US4721575 | US4898107 | US20040025715 | US4477257 | US5211724 | US5211723 | US4377066 | US4795568 | US20040172878 | US4229296 | US5339621 | US5485728 | US6103191 | US6365047 | US4128946 | US7211229 | US6096283 | US20080072478 | US6029588 | US6063147 | US4380960 | US5292442 | US4208245 | US5234468 | US5234469 | US5230810 | US5500044 | US7252691 | US4255129 | US4241722 | US6966989 | US4284015 | US4824561 | US7179379 | US4593202 | US7160442 | US4983782 | US20060060526 | US5075015 | US5205906 | US5337496 | US4869833 | US20070043246 | WO2005121033 | JP2004098003 | JP1986252475 | WO2006032282 | CN1396142 | WO2002081379 | JP2006061861 | EP1717209 | WO2006053020 | JP1996206691 | EP1894893 | WO2002036506
+	</str>
+	<str name="Cites Count">
+		141
+	</str>
+	<str name="Assignee(s)">
+		ENERTECH ENVIRONMENTAL, INC.
+	</str>
+	<str name="1st Assignee">
+		ENERTECH ENVIRONMENTAL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Atlanta, GA
+	</str>
+	<str name="Assignee(s) Address">
+		Atlanta, GA
+	</str>
+	<str name="Inventor(s)">
+		NOGUCHI, AKITERU | DOI, KOICHI | TSUBAI, KATSUHIRO
+	</str>
+	<str name="1st Inventor">
+		NOGUCHI, AKITERU
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa, JP | Kanagawa, JP | Kanagawa, JP
+	</str>
+	<str name="Agent/Attorney">
+		BAKER &amp; DANIELS LLP
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

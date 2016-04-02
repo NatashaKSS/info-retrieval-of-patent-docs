@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7468281
+	</str>
+	<str name="Application Number">
+		US10475896
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Hollow fiber membrane sample preparation devices
+	</str>
+	<str name="Abstract">
+		Simultaneous sample purification, enrichment and analysis of pharmaceuticals, illicit drugs, pollutants, biotechnological products, synthetic organic reaction products and food/flavor ingredients from complex matrices can be performed using porous hollow fiber or porous-disk liquid-membrane devices. The devices are part of a multi-well (e.g. 96-well) plate. The devices can be used for selective separation and enrichment of complex mixtures containing trace levels of analytes, and can be used in tandem with analytical instruments which routinely handle multiple samples under high throughput screening conditions. A multi-well/multi-vial plate can into state-of-the-art HPLC or GC sampling systems or LC/MS or GC/MS instruments. Samples can be enriched several orders of magnitude and can directly be withdrawn from the fiber and injected into the chromatographic instruments. Alternatively, these enriched samples can be introduced directly into MS, CE or other detection devices. Selective extraction of complex mixtures of analytes can be achieved through variation of acceptor phase chemistry, liquid membrane coating, pore size control of the hollow fibers, nature of the polymer from which the hollow fibers are made or pH of the acceptor phase.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-04-25
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-04
+	</str>
+	<str name="Publication Date">
+		2008-12-23
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-12
+	</str>
+	<str name="All IPC">
+		G01N1/18 | B01L11/00 | B01D15/08 | B01D61/00 | B01L3/00 | B01D33/21
+	</str>
+	<str name="IPC Primary">
+		G01N1/18
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N1
+	</str>
+	<str name="All UPC">
+		210/650 | 422/101 | 210/500.23 | 422/61 | 210/649 | 436/178 | 210/644 | 210/635 | 422/99
+	</str>
+	<str name="UPC Primary">
+		210/650
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20040171169A1 | US7468281
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		9
+	</str>
+	<str name="Other References">
+		Article by SA Gordeyev, GB Lees, IR Dunkin and SJ Shilton, entitled &quot;Super-Selective Polysulfone Hollow Fiber Membranes for Gas Separation: Rheological Assessment of the Spinning Solution&quot;, published by Polymer, 42, (2001), pp. 4347-4352. cited by other . | Article by DN. Bailey and M. Keiner, entitled &quot;Extraction of Acidic Drugs from Water and Plasma: Study of Recovery with Five Different Solvents&quot;, published by Journal of Analytical Toxicology, vol. 8, Jan./Feb. 1984, pp. 26-28. cited by other . | Article by SB Hawthorne, entitled &quot;Analytical-Scale Supercritical Fluid Extraction&quot;, published by Analytiucal Chemistry, vol. 62, No. 11, Jun. 1, 1990, pp. 633A-642A. cited by other . | Article by I. Masselin, X. Chasseray, L. Durand-Bourlier, JM. Laine, PY. Syzaret and D. Lemordant entitled &quot;Effect of Sonication on Polymeric Membranes&quot;, published by Journal of Membrane Science, 181, (2001). pp. 213-220. cited by other . | Article by AK. Ghosh, V. Ramachandhran, MS. Hanra and BM. Misra, entitled &quot;Synthesis, Characterization, and Performance of Nitrated Polysulfone Membranes&quot;, published by JMS, Pure Appl. Chem., A37(6), 2000, pp. 591-608. cited by other . | Article by C. Arthur and J. Pawliszyn, entitled &quot;Solid Phase Microextraction with Thermal Desorption Using Fused Silica Optical Fibers&quot;, published by Anal. Chem, 1990, vol. 62, pp. 2145-2148. cited by other . | Book entitled &quot;Chemical Separations with Liquid Membranes&quot;, published ACS Symposium Series 642, American Chemical Society, Washington, DC., 1996. cited by other . | Book by T. Kumazawa, X. Lee, K. Sato, O. Suzuki, entitled &quot;Applications of Solid Phase Microexraction&quot;, published by The Royal Society of Chemistry, London, 1999, pp. 470-485. cited by other . | Article by R. Zhang and S. Hjerten entitled &quot;A Micromethod for Concentration and Desalting Utilizing a Hollow Fiber, with Special Reference to Capillary Electrophoresis&quot;, published by Anal. Chem, 1997, vol. 69, pp. 1585-1592. cited by other . | Article by HG Ugland, M Krogh and KE Rasmussen entitled &quot;Liquid-Phase Microextraction as a Sample Preparation Technique Prior to Capillary Gas Chromatographic-Determination of Benzodiazepines in Biological Matrices&quot;, published by Journal of Chromatography B, 749 (2000) pp. 85-92. cited by other . | Article by JA. Jonsson and L. Mathiasson entitled &quot;Liquid Membrane Extraction in Analytical Sample Preparation&quot;, published by Trends in Analytical Chemistry, vol. 18, No. 5, 1999, pp. 325-334. cited by other . | Book by WL. McCabe and JC. Smith, entitled &quot;Unit Operations of Chemical Engineering&quot;, published by McGraw-Hill, New York, 1976. cited by other . | Article by E. Buyuktuncel, S. Bektas, O. Genc, and A. Denizli entitled &quot;Poly(vinylalcohol) coated/Cibacron Blue F3GA-attached Polyprophylene Hollow Fiber Membranes for Removal of Cadmium Ions from Aquatic Systems&quot;, published by Reactive and Functional Polymers, 47, (2001), pp. 1-10. cited by other . | Article by V. Loopez-Avila, R. Young and WF Beckert, entitled &quot;Microwave-Assisted Extraction of Organic Compounds from Standard Reference Soils and Sediments&quot;, published by Anal. Chem., 1994, vol. 66, pp. 1097-1108. cited by other . | Book by EM Thurman and MS Mills, entitled &quot;Solid-Phase Extraction&quot;, published by John Wiley &amp; Sons, Inc., 1998. cited by other . | Book by CF. Poole and SK. Poole, entitled &quot;Chromatography Today&quot;, published by Elsevier, Amsterdam, 1993. cited by other . | Article by AF Ismail, IR Dunkin, SL Gallivan and SJ Shilton, entitled &quot;Production of Super Selective Polysulfone Hollow Fiber Membranes for Gas Separation&quot;, published by Polymer, 40, (1999) pp. 6499-6506. cited by other . | Book by JS. Fritz, entitled &quot;Analytical Solid-Phase Extraction&quot;, published by John Wiley &amp; Sons, Inc., 1999. cited by other . | Article by C. Kroll and HH. Borchert, entitled &quot;Solid Phas Microextraction (SPME) for Sample Preparation during Drug Metabolism Studies&quot;, published in Pharmazie, 53, (1998), 3, pp. 172-177. cited by other . | Special Issue of Journal of Chromatography, vol. 885, Nos. 1 &amp; 2, Jul. 14, 2000. cited by other . | Article by KE Rasmussen, S Pedersen-Bjergaard, M Krogh, HG Ugland and T Gronhaug, entitled &quot;Development of a Simple in-vial Liquid-Phase Microextraction Device for Drug Analysis Compatible with Capillary Gas Chromatography, Capillary Electrophoresis and High-Performance Liquid Chromatography&quot;, published by Journal of Chromatography A, 873 (2000) pp. 3-11. cited by other. | Article by T. Takeuchi and J. Haginaka, entitled &quot;Separation and Sensing Based on Molecular Recognition Using Molecularly Imprinted Polymers&quot;, published by Journal of Chromatography B, 728, (1999), pp. 1-20. cited by other . | Article by RE. Majors and KD Fogelman, entitled &quot;The Integration of Automated Sample Preparation with Analysis in Gas Chromatography&quot;, published by American Laboratory, Feb. 1993, pp. 40W-40GG. cited by other . | Article by XZ. Wu, A. Hosaka, and T. Hobo entitled &quot;An On-Line Electrophoretic Concentration Method for Capillary Electrophoresis of Proteins&quot;, published by Anal. Chem, 1998, vol. 70, pp. 2081-2084. cited by other . | Book by JD. Seader and EJ. Henley, entitled &quot;Separation Process Principles&quot;, published by John Wiley &amp; Sons, Inc., 1998. cited by other . | Article by BE Richter, JL. Ezzell, D. Felix, KA. Roberts, and DW. Later, entitled &quot;An Accelerated Solvent Extraction System for the Rapid Preparation of Environmental Organic Compounds in Soil&quot;, published by American Laboratory, Feb. 1995, pp. 24-28. cited by other . | Article by NH Snow entitled &quot;Solid-Phase Micro-Extraction of Drugs from Biological Matrices&quot;, published by Jounal of Chromatography A, vol. 885, (2000), pp. 445-455. cited by other . | Article by Y Qin and J. Cabral, entitled &quot;Theoretical Analysis on the Design of Hollow Fiber Modules and Modules Cascades for the Separation of Diluted Species&quot;, published by Journal of Membrane Science, 143, (1998), pp. 197-205. cited by other . | Article by JA. Jonsson and L. Mathiasson entitled &quot;Liquid Membrane Extraction in Analytical Sample Preparation&quot;, published by Trends in Analytical Chemistry, vol. 18, No. 5, 1999, pp. 318-325. cited by other . | Book by LR. Snyder, JJ. Kirkland and JL. Glajch, entitled &quot;Practical HPLC Method Development&quot;, published by John Wiley &amp; Sons, Inc., 1997. cited by other . | Article by WJ. Koros and DG. Woods, entitled &quot;Elevated Temperature Application of Polymer Hollow-Fiber Membranes&quot;, published by Journal of Membrane Science, 181, (2001), pp. 157-166. cited by other .
+	</str>
+	<str name="Other References Count">
+		31
+	</str>
+	<str name="Cited By">
+		USD628306 | US8008064 | US8114660 | US8080407 | US8231788 | US7611630 | US7563410
+	</str>
+	<str name="Cited By Count">
+		7
+	</str>
+	<str name="Cites">
+		US6096217 | US5650323 | US6171563 | US5252220 | US5512180 | US5603953 | US6162360 | US5229004 | US5868935 | US4286637 | GB2348380 | WO2000033050
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		47589604 | 28715801 | 0212952
+	</str>
+	<str name="Priority Date">
+		2004-04-06 | 2001-04-26 | 2002-04-25
+	</str>
+	<str name="Assignee(s)">
+		VARIAN, INC.
+	</str>
+	<str name="1st Assignee">
+		VARIAN, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Palo Alto, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Palo Alto, CA
+	</str>
+	<str name="Inventor(s)">
+		KALLURY, KRISHNA | FAN, JOY | RASMUSSEN, KNUT | PEDERSEN-BJERGAARD, STIG
+	</str>
+	<str name="1st Inventor">
+		KALLURY, KRISHNA
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Torrance, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Torrance, CA | Artesia, CA | Eiksmarka, NO | Oslo, NO
+	</str>
+	<str name="Agent/Attorney">
+		MOORE, CYNTHIA R. FISHMAN, BELLA
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D
+	</str>
+	<str name="Assistant Examiner">
+		SEIFU, LESSANEWORK
+	</str>
+	<str name="cited by within 3 years">
+		4
+	</str>
+	<str name="cited by within 5 years">
+		4
+	</str>
+</doc>
+

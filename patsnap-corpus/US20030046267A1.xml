@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20030046267A1
+	</str>
+	<str name="Application Number">
+		US10046980
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Image retrieving method and device
+	</str>
+	<str name="Abstract">
+		A user's action of depicting a vision is closely associated with image retrieval. Images are selected with each stroke made in order to paint a color or a draw a line on a canvas at a step of creating a retrieval key. The resultant images and corresponding areas within the images are presented to a user. Thus, the user can create the retrieval key while looking at the results of retrieval. Owing to this technique, even a person who is poor at drawing a picture can retrieve images as if to draw a picture. One attribute information or a plurality of attribute information items is selected from among attribute information items prepared in advance. The attribute information is assigned to a designated area. Images having area-attribute information produced using the attribute information in combination with information specifying the area are retrieved from an image database, and then provided. Moreover, corresponding areas within the retrieved images in which attribute information common to the retrieved images is found are detected. The corresponding areas within the retrieved images are displayed in a corresponding area on a display device.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-01-17
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-01
+	</str>
+	<str name="Publication Date">
+		2003-03-06
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-03
+	</str>
+	<str name="All IPC">
+		G06F7/00
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		707/1
+	</str>
+	<str name="UPC Primary">
+		707/1
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Members">
+		US20030046267A1 | JP2002215627A
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2001012615
+	</str>
+	<str name="Priority Date">
+		2001-01-22
+	</str>
+	<str name="Inventor(s)">
+		YOSHINORI MUSHA | ATSUSHI HIROIKE
+	</str>
+	<str name="1st Inventor">
+		YOSHINORI MUSHA
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Kokubunji,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kokubunji,JP | Kawagoe,JP
+	</str>
+	<str name="Agent/Attorney">
+		MATTINGLY, STANGER &amp; MALUR, P.C.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

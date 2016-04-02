@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8335381
+	</str>
+	<str name="Application Number">
+		US12/212964
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Handwritten word spotter using synthesized typed queries
+	</str>
+	<str name="Abstract">
+		A wordspotting system and method are disclosed for processing candidate word images extracted from handwritten documents. In response to a user inputting a selected query string, such as a word to be searched in one or more of the handwritten documents, the system automatically generates at least one computer-generated image based on the query string in a selected font or fonts. A model is trained on the computer-generated image(s) and is thereafter used in the scoring the candidate handwritten word images. The candidate or candidates with the highest scores and/or documents containing them can be presented to the user, tagged, or otherwise processed differently from other candidate word images/documents.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-09-18
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-09
+	</str>
+	<str name="Publication Date">
+		2012-12-18
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-12
+	</str>
+	<str name="All IPC">
+		G06K9/18 | G06K9/62 | G06K9/72
+	</str>
+	<str name="IPC Primary">
+		G06K9/18
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/186 | 382/156 | 382/159 | 382/229
+	</str>
+	<str name="UPC Primary">
+		382/186
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Huang et al. &quot;Semi-continuous hidden Markov models in isolated word recognition&quot;, IEEE Pattern Recognition, 9.sup.th Int'l Conf on; 1988, pp. 406-408. cited by examiner | U.S. Appl. No. 11/847,742, filed Aug. 30, 2007, Bressan, et al. cited by other | U.S. Appl. No. 11/847,757, filed Aug. 30, 2007, Serrano, et al. cited by other | U.S. Appl. No. 12/014,193, filed Jan. 15, 2008, Serrano, et al. cited by other | U.S. Appl. No. 12/169,101, filed Jul. 8, 2008, Bressan, et al. cited by other | A.Agarwal, et al., Hyperfeatures--Multilevel Local Coding for Visual Recognition, ECCV06, 2006. cited by other | B.Gatos, at al., A Segmentation-Free Approach for Keyword Search in Historical Typewritten Documents, In Proc. of the 8 .sup.th Int'l Conf. on Document Analysis and Recognition, 2005. cited by other | G.Csurka, et al., Visual Categorization with Bags of Keypoints, Proc. ECCV Intl. Workshop on Statistical Learning in Computer Vision, 2004. cited by other | J.Edwards, et al., Making Latin Manuscripts Searchable Using gHMM's, In Proc. of NIPS, 2004. cited by other | T.M.Rath, et al., Features for Word Spotting in Historical Manuscripts, In: Proc. of the 7th Int'l Conf. on Document Analysis and Recognition, ISSN 0-7695-1960-1, pp. 218, 2003 cited by other.
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cites">
+		US5438630 | US5825919 | US5841902 | US6151574 | US6501855 | US7646913 | US20070005356 | US20070258648 | US20080069456
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Assignee(s)">
+		XEROX CORPORATION
+	</str>
+	<str name="1st Assignee">
+		XEROX CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Norwalk, CT
+	</str>
+	<str name="Assignee(s) Address">
+		Norwalk, CT
+	</str>
+	<str name="Inventor(s)">
+		RODRIGUEZ, SERRANO, JOSE, A. | PERRONNIN, FLORENT, C.
+	</str>
+	<str name="1st Inventor">
+		RODRIGUEZ, SERRANO, JOSE, A.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Barcelona, ES
+	</str>
+	<str name="Inventor(s) Address">
+		Barcelona, ES | Domene, FR
+	</str>
+	<str name="Agent/Attorney">
+		FAY SHARPE LLP
+	</str>
+	<str name="Primary Examiner">
+		LU, TOM Y
+	</str>
+	<str name="Assistant Examiner">
+		CONWAY, THOMAS
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

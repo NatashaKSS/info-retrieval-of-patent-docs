@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7691637
+	</str>
+	<str name="Application Number">
+		US11195394
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for ion sequestration and a nanostructured metal phosphate
+	</str>
+	<str name="Abstract">
+		A nanostructured substance, a process for sequestration of ionic waste, and an ion-sequestration apparatus are disclosed in the specification. The nanostructured substance can comprise a Lewis acid transition metal bound to a phosphate, wherein the phosphate comprises a primary structural component of the substance and the Lewis acid transition metal is a reducing agent. The nanostructured substance has a Brunner-Emmet-Teller (BET) surface area greater than or equal to approximately 100 m.sup.2/g, and a distribution coefficient for an analyte, K.sub.d, greater than or equal to approximately 5000 ml/g. The process can comprise contacting a fluid and a nanostructured metal phosphate. The apparatus can comprise a vessel and a nanostructured metal phosphate. The vessel defines a volume wherein a fluid contacts the nanostructured metal phosphate.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-08-01
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-08
+	</str>
+	<str name="Publication Date">
+		2010-04-06
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		G01N33/20
+	</str>
+	<str name="IPC Primary">
+		G01N33/20
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N33
+	</str>
+	<str name="All UPC">
+		210/682 | 436/73 | 977/902 | 95/133
+	</str>
+	<str name="UPC Primary">
+		210/682
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		N. Kishor, et al., Synthesis of a Novel Mesoporous Tin Phospahte, SnPO4, ChemCommun, 2002, pp. 112-113. cited by other . | S. Ayyappan, A.K. Cheetham, S. Natarajan, and C.N.R. Rao, J. Solid State Chem., 1998, 207, p. 207-210. cited by other . | S. Natarajan and A.K. Cheetham, Chem. Comm., 1997, pp. 1089-1090. cited by other . | Mal N K et al, Synthesis of a novel mesoporous tin phosphate, SnP04, Chem. Communi., No. 2, Feb. 7, 2002, pp. 112-113, XP002409570. cited by other . | C. Serre, A. Auroux, A. Gervasini, M. Hervieu, and G. Ferey, Angew. Chem. Int. Ed., 2002, 41, #9, pp. 1594-1597. cited by other . | S. Natarajan, M. P. Attfield and A.K. Cheetham, Angew. Chem. Int. Ed., 1997, 36, pp. 978-980. cited by other . | S. Natarajan, J. Solid Stae Chem. , 1999, 148, pp. 50-55. cited by other . | R. P. Bontchev and R.C. Moore, Solid State Sci., 2004, 6, pp. 867-873. cited by other . | S. Natarajan, S. Ayyappan, A.K. Cheetham, and C.N. R. Rao, Chemical Material, 1998, 10, pp. 1627-1631. cited by other . | S Polarz and B. Smarsly, J.Nanosci. Nanotech, 2002, 2, #6, pp. 581-612. cited by other . | A.K. Cheetham, G. Ferey, and T. Loiseau, Angew.Chem. Int. Ed. 1999, 38, pp. 3269-3292. cited by other . | PCT International Search Report/Written Opinion (Dec. 13, 2006). cited by other . | Jow, H.N., et al., WM'05 Conference, Feb. 27-Mar. 3, 2005, XP-002409617, pp. 1-15. cited by other. | S. Ayyappan, X Bu, A.K. Cheetham, and C.N. R. Rao, Chem Mater., 1998, 10, p. 3308. cited by other . | S. Natarajan and A.K. Cheetham, J. Solid State Chem., 1997, 134, pp. 207-210. cited by other . | Fryxell, Glen E. et al, Nanoporous Ti &amp; Zr Phosphate Getter Materials, Yucca Mountain Waste Water Repository, Nov. 18-19, 2004, pp. 40-41, XP-002409492. cited by other . | Ma, Ying, A review of zeolite-like porous materials, Elsevier, 2003, pp. 742-750. cited by other . | C. Serre, and G. Ferey, Chem. Comm., 2003, pp. 1818-1819. cited by other .
+	</str>
+	<str name="Other References Count">
+		18
+	</str>
+	<str name="Cites">
+		US4902665 | US20030196966 | US4800024 | JP2003176112
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Assignee(s)">
+		BATTELLE MEMORIAL INSTITUTE
+	</str>
+	<str name="1st Assignee">
+		BATTELLE MEMORIAL INSTITUTE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Richland, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Richland, WA
+	</str>
+	<str name="Inventor(s)">
+		MATTIGOD, SHAS, V. | FRYXELL, GLEN, E. | LI, XIAOHONG | PARKER, KENT, E. | WELLMAN, DAWN, M.
+	</str>
+	<str name="1st Inventor">
+		MATTIGOD, SHAS, V.
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Richland, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Richland, WA | Kennewic, WA | Richland, WA | Kennewick, WA | West, Richland, WA
+	</str>
+	<str name="Agent/Attorney">
+		TUAN, ALLAN C.
+	</str>
+	<str name="Primary Examiner">
+		MARCHESCHI, MICHAEL A
+	</str>
+	<str name="Assistant Examiner">
+		HURST, JONATHAN M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

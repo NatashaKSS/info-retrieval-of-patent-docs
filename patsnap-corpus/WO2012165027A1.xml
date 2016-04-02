@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2012165027A1
+	</str>
+
+	<str name="Application Number">
+		PCT/JP2012/058675
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		METHOD FOR CLEANING AND DECONTAMINATING INSIDE STRUCTURE CONTAMINATED BY RADIOACTIVE SUBSTANCE, AND CLEANING AND DECONTAMINATION DEVICE VEHICLE
+	</str>
+
+	<str name="Abstract">
+		Provided is a method for decontaminating the inside of a structure contaminated by radioactive substances, that removes contamination of floor and wall surfaces and ceilings, etc., inside the structure contaminated by the radioactive substances, using reduced water as cleaning water, and purifies and makes reusable waste water used in the decontamination. The method has: a cleaning stage in which the reduced water negatively charged at a potential of -400 - -600 mV is scattered on the decontamination-target object contaminated by the radioactive substances and brushing occurs; a cleaning waste water recovery stage in which the cleaning waste water is recovered; a filtration stage in which the cleaning waste water is sent to a filter and the coarse-grained solid component thereof is filtered; a first adsorption stage in which the cleaning waste water is caused to pass through a column filled with a mixture of hydrogen ion-saturated clay and alum or a column filled with a hydrogen ion-saturated cation-exchange resin, and cationic radioactive substances in the cleaning waste water are adsorbed and removed; a second adsorption stage in which the cleaning waste water is caused to pass through a column filled with a hydroxide ion-saturated anion-exchange resin and anionic radioactive substances in the cleaning waste water are adsorbed and removed; a third adsorption stage in which the cleaning waste water is caused to pass through a column filled with zeolite and residual radioactive substances in the cleaning waste water are removed; and a microbubble processing stage in which the cleaning waste water is processed using air microbubbles and returned to water having high biological activity.
+	</str>
+
+	<str name="Document Types">
+		WO
+	</str>
+
+	<str name="Application Date">
+		2012-03-30
+	</str>
+
+	<str name="Application Year">
+		2012
+	</str>
+
+	<str name="Application(Year/Month)">
+		2012-03
+	</str>
+
+	<str name="Publication Date">
+		2012-12-06
+	</str>
+
+	<str name="Publication Year">
+		2012
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2012-12
+	</str>
+
+	<str name="All IPC">
+		G21F9/28 | G21F9/12 | B08B1/00 | B08B7/04
+	</str>
+
+	<str name="IPC Primary">
+		G21F9/28
+	</str>
+
+	<str name="IPC Section">
+		G
+	</str>
+
+	<str name="IPC Class">
+		G21
+	</str>
+
+	<str name="IPC Subclass">
+		G21F
+	</str>
+
+	<str name="IPC Group">
+		G21F9
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		JP
+	</str>
+
+	<str name="Priority Number">
+		2011-132666
+	</str>
+
+	<str name="Priority Date">
+		2011-05-28
+	</str>
+
+	<str name="Assignee(s)">
+		&#26666;&#24335;&#20250;&#31038;&#27941;&#30000; | &#26377;&#38480;&#20250;&#31038;&#24773;&#22577;&#31185;&#23398;&#30740;&#31350;&#25152;
+	</str>
+
+	<str name="1st Assignee">
+		&#26666;&#24335;&#20250;&#31038;&#27941;&#30000;
+	</str>
+
+	<str name="Number of Assignees">
+		2
+	</str>
+
+	<str name="1st Assignee Address">
+		&#12306;8694201 &#29066;&#26412;&#30476;&#20843;&#20195;&#24066;&#37857;&#30010;&#37857;&#26449;&#65299;&#65299;&#65293;&#65302; Kumamoto, &#12306;8694201, JP
+	</str>
+
+	<str name="Assignee(s) Address">
+		&#26666;&#24335;&#20250;&#31038;&#27941;&#30000; | &#26377;&#38480;&#20250;&#31038;&#24773;&#22577;&#31185;&#23398;&#30740;&#31350;&#25152;
+	</str>
+
+	<str name="Inventor(s)">
+		&#19978;&#26449;&#12288;&#35242;&#22763;, KUMAMOTO | &#27941;&#30000;&#12288;&#26157;&#24422;, KUMAMOTO
+	</str>
+
+	<str name="1st Inventor">
+		&#19978;&#26449;&#12288;&#35242;&#22763;, KUMAMOTO
+	</str>
+
+	<str name="Number of Inventors">
+		2
+	</str>
+
+	<str name="1st Inventor Address">
+		&#12306;8610134, &#29066;&#26412;&#30476;&#29066;&#26412;&#24066;&#26893;&#26408;&#30010;&#33310;&#23614;&#65301;&#65299;&#65301;&#30058;&#22320;&#12398;&#65299;, &#12306;8610134, JP
+	</str>
+
+	<str name="Inventor(s) Address">
+		&#12306;8610134, &#29066;&#26412;&#30476;&#29066;&#26412;&#24066;&#26893;&#26408;&#30010;&#33310;&#23614;&#65301;&#65299;&#65301;&#30058;&#22320;&#12398;&#65299;, &#12306;8610134, JP | &#12306;8694201, &#29066;&#26412;&#30476;&#20843;&#20195;&#24066;&#37857;&#30010;&#37857;&#26449;&#65299;&#65299;&#65293;&#65302;&#12288;&#26666;&#24335;&#20250;&#31038;&#27941;&#30000;&#20869;, &#12306;8694201, JP
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

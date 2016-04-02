@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2204772A1
+	</str>
+	<str name="Application Number">
+		EP2006003785
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Image processing method, image processing program, image processing device, and imaging device
+	</str>
+	<str name="Abstract">
+		An object of the present invention is to detect motion between plural images with high precision without increasing the number of blocks made by dividing an image. Thus, an image-processing method according to the present invention is characterized by including a searching step (S3) of searching for a local motion vector from each of blocks in the plural images, an electing step (S4) of electing a representative motion vector from the local motion vectors of the respective blocks, and an approximating step (S5) of approximating a motion vector distribution on the images based on the representative motion vector. In addition, when an approximate surface thereof is a plane, the operation amount for approximating the motion vector distribution and the information amount for representing the motion vector distribution can be minimized.
+	</str>
+	<str name="Document Types">
+		EP | EPA
+	</str>
+	<str name="Application Date">
+		2006-11-01
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-11
+	</str>
+	<str name="Publication Date">
+		2010-07-07
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-07
+	</str>
+	<str name="All IPC">
+		G06T7/20
+	</str>
+	<str name="IPC Primary">
+		G06T7/20
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T7
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2005345715
+	</str>
+	<str name="Priority Date">
+		2005-11-30
+	</str>
+	<str name="Assignee(s)">
+		NIKON CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NIKON CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		2-3, Marunouchi 3-chome, Chiyoda-ku, Tokyo 100-8331, JP
+	</str>
+	<str name="Assignee(s) Address">
+		2-3, Marunouchi 3-chome, Chiyoda-ku, Tokyo 100-8331, JP
+	</str>
+	<str name="Inventor(s)">
+		DOIDA, SHIGERU
+	</str>
+	<str name="1st Inventor">
+		DOIDA, SHIGERU
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Nikon, Corporation, 2-3, Marunouchi, 3-chome, Chiyoda-ku, Tokyo, 100-8331, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Nikon, Corporation, 2-3, Marunouchi, 3-chome, Chiyoda-ku, Tokyo, 100-8331, JP
+	</str>
+	<str name="Agent/Attorney">
+		ZEITLER - VOLPERT - KANDLBINDER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7846864
+	</str>
+	<str name="Application Number">
+		US11707402
+	</str>
+	<str name="Title">
+		Photocatalyst materials having semiconductor characteristics and methods for manufacturing and using the same
+	</str>
+	<str name="Abstract">
+		New types of photocatalyst materials are disclosed together with methods for preparing and using these materials, as well as air treatment systems incorporating such materials. The photocatalyst materials of this invention consist essentially of very small particles of a first-metal oxide, the first-metal being a metal that exhibits photo-induced semiconductor properties, having ions of a second-metal dispersed throughout its lattice structure, the second-metal being selected from the group of dopant metals. Such photocatalyst materials are prepared by the steps of mixing first-metal and second-metal precursors, removing nonessential ions from the mixture, drying the resulting product, and calcinating the dried product to produce the completed photocatalyst material.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-02-16
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-02
+	</str>
+	<str name="Publication Date">
+		2010-12-07
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-12
+	</str>
+	<str name="All IPC">
+		B01J23/32 | B01D11/00 | B01J27/132 | B01J23/00 | C02F1/26 | B01J23/74 | B01J23/70 | C01G23/47 | B01J27/06 | B01D61/00 | C02F1/42 | C02F1/44 | B01D61/24 | G21F9/04 | B01J27/135 | B01D11/04
+	</str>
+	<str name="IPC Primary">
+		B01J23/32
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01J
+	</str>
+	<str name="IPC Group">
+		B01J23
+	</str>
+	<str name="All UPC">
+		502/309 | 210/681 | 210/652 | 210/683 | 210/651 | 502/228 | 210/649 | 423/612 | 423/611 | 502/316 | 502/349 | 210/644 | 210/634 | 423/610 | 502/338 | 502/325 | 502/324 | 502/312 | 502/227 | 502/350 | 502/224 | 502/314 | 502/310
+	</str>
+	<str name="UPC Primary">
+		502/309
+	</str>
+	<str name="UPC Class">
+		502
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;Photocatalytic properties of iron-doped titania semiconductors,&quot; M. I. Litter et al. Journal of Photochemistry and Photobiology A: Chemistry 98 (1996), pp. 171-181. cited by examiner . | &quot;Photocatalytic behaviour of metal-loaded TiO2 aqueous dispersions and films,&quot; M. Bellardita et al. Chemical Physics 339 (2007), pp. 94-103. cited by examiner . | &quot;Synthesis and Characterization of Rutile TiO2 Nanopowders Doped with Iron Ions,&quot; Nadica D. Abazovic et al. Nanoscalse Res Lett (2009) 4:518-525 (pp. 518-525). cited by examiner . | &quot;The effect of iron doping on the adsorption of methanol on TiO2 probed by sum frequency generation,&quot; Nkengafeh Asong et al. Chemical Physics 339 (2007), pp. 86-93. cited by examiner . | &quot;Preparation and characterization of TiO2/Fe2O3 binary mixed oxides and its photocatalytic properties,&quot; Bonamali Pal et al. Materials Chemistry and Physics 59 (1999), pp. 254-261. cited by examiner . | &quot;Preparation and Characterization of Quantum-Size Titanium Dioxide,&quot; Claudius Kormann, et al. J. Phys. Chem. 1988, 92, pp. 5196-5201. cited by examiner . | Linsebigler, et al., Photocatalysis on TiO2 Surfaces: Principles, Mechanisms, and Selected Results, Chemical Reviews, 1995, pp. 735-758, vol. 95, No. 3, American Chemical Soc. cited by other. | &quot;Preparation and photoactivity of nanostructured TiO2 particles obtained by hydrolysis of TiCl4,&quot; Maurizio Addamo et al. Colloids and Surfaces A: Physicochem. Eng. Aspects 265 (2005), pp. 23-31. cited by examiner . | &quot;A comparative study of nanometer sized Fe(III)-doped TiO2 photocatalysts: synthesis, characterization and activity,&quot; Chuan-yi Wang et al. Journal of Materials Chemistry, 2003, 13, pp. 2322-2329. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cites">
+		US6224884 | US20060024228 | US20050129591 | US5827339 | US20060110316 | US5846511 | US20070154561 | US20080031832 | US6365007 | US4944936 | US7521394 | US6627173 | US3280040 | US7601326 | KR020050075927 | KR20050075927 | KR19990048895 | KR20040025176 | KR020040025176 | JP1997047661 | JP1998106908 | KR20040105086 | KR20070108122 | KR20010103164 | JP1997192496 | JP1996052360
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020060015792
+	</str>
+	<str name="Priority Date">
+		2006-02-17
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		KR
+	</str>
+	<str name="Assignee(s) Address">
+		KR
+	</str>
+	<str name="Inventor(s)">
+		HAM, DONG, SEOK | IHM, SON, KI | PARK, JOO, IL | CHOI, KWANG, MIN | JEONG, KWANG, EUN
+	</str>
+	<str name="1st Inventor">
+		HAM, DONG, SEOK
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Suwon-si, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Suwon-si, KR | Daejeon, KR | Daejon, KR | Suwon-si, KR | Daejeon, KR
+	</str>
+	<str name="Agent/Attorney">
+		MILLS &amp; ONELLO, LLP
+	</str>
+	<str name="Primary Examiner">
+		HAILEY, PATRICIA L
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7390673
+	</str>
+	<str name="Application Number">
+		US10476639
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and device for identifying volatile substances in solution
+	</str>
+	<str name="Abstract">
+		The invention relates to a method for fluorimetrically or photometrically identifying gaseous substances or substances, which can be converted into a gaseous state, in samples. Decomposition reactions, optional purification steps, and detection can be carried out in a cell, which comprises one or more ion-permeable membranes, in a user-friendly and selective manner without losing any substances.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-04-08
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-04
+	</str>
+	<str name="Publication Date">
+		2008-06-24
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All IPC">
+		G01N1/18 | G01N21/76 | B01D63/00 | B01L3/00 | G01N1/22 | G01N7/00
+	</str>
+	<str name="IPC Primary">
+		G01N1/18
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N1
+	</str>
+	<str name="All UPC">
+		436/181 | 422/52 | 422/102 | 436/177 | 422/83 | 210/321.75 | 422/99
+	</str>
+	<str name="UPC Primary">
+		436/181
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Members">
+		AU2002304724A1 | EP1390746A2 | US20040136874A1 | DE50208262D1 | US7390673 | AT340998T | WO2002090975A2 | EP1390746B1 | JP2004527757A | WO2003090975A3 | DE10121999A1
+	</str>
+	<str name="Family Member Count">
+		11
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		Luebbers D W et al: &quot;Quantitative Fluorescence Photometry With Biological Fluids and Gases&quot; Advances in Experimental Medicine and Biology, Spring St., NY, US Bd. 75, 1976, Seiten 65-68, XP000566843. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3632476 | US5733777 | US5494640 | US5633169 | US6740294 | US5256604 | US6602414 | EP0663239 | WO2000075653 | CH649383 | DE1817312 | EP0930368
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		10121999
+	</str>
+	<str name="Priority Date">
+		2001-05-05
+	</str>
+	<str name="Assignee(s)">
+		MERCK PATENT GMBH
+	</str>
+	<str name="1st Assignee">
+		MERCK PATENT GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Darmstadt, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Darmstadt, DE
+	</str>
+	<str name="Inventor(s)">
+		KLIMANT, INGO | STANGELMAYER, ACHIM
+	</str>
+	<str name="1st Inventor">
+		KLIMANT, INGO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Mintraching, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Mintraching, DE | Neuburg, a.d., Donau, DE
+	</str>
+	<str name="Agent/Attorney">
+		MILLEN, WHITE, ZELANO, BRANIGAN, P.C.
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		RAMILLANO, LORE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

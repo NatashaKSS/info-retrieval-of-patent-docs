@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8300937
+	</str>
+	<str name="Application Number">
+		US12/343403
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image segmentation method and system based on region features of pixels
+	</str>
+	<str name="Abstract">
+		A pixel region-based image segmentation method is disclosed. When an input image is retrieved, pixels thereof are sequentially scanned row by row. Signs of unmarked pixels of the input image are determined according to region features of neighboring pixels of each pixel and pixel update information is recorded to generate a region sign update data table and a region sign feature data table. The pixels of the input frame are further scanned row by row to retrieve signs of the pixels and region signs of the pixels are determined and updated according to the region sign update data table.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-12-23
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-12
+	</str>
+	<str name="Publication Date">
+		2012-10-30
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-10
+	</str>
+	<str name="All IPC">
+		G06K9/32
+	</str>
+	<str name="IPC Primary">
+		G06K9/32
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/173
+	</str>
+	<str name="UPC Primary">
+		382/173
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Taiwan Patent Office, Office Action, Patent Application Serial No. 097144882, May 25, 2012, Taiwan. cited by other | David A. Bader et al. &quot;Parallel Algorithms for Image Enhancement and Segmentation by Region Growing with an Experimental Study&quot;, Proceedings of IPPS '96, p. 414-423, IEEE, US. cited by other | Luc Vincent et al. &quot;Watersheds in Digital Spaces: An Efficient Algorithm Based on Immersion Simulations&quot;, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 13, No. 6, Jun. 1991, p. 583-598, US. cited by other | Kostas Haris et al. &quot;Hybrid Image Segmentation Using Watersheds and Fast Region Merging&quot;, IEEE Transaction on Image Processing, vol. 7, No. 12, Dec. 1998, p. 1684-1699, US. cited by other | Orlando J. Tobias et al. &quot;Image Segmentation by Histogram Thresholding Using Fuzzy Sets&quot;, IEEE Transaction on Image Processing, vol. 11, No. 12, Dec. 2002, p. 1457-1465, US. cited by other | Kenji Suzuki et al. &quot;Linear-time connected-component labeling based on sequential local operations&quot;, Computer Vision and Image Understanding 89 (2003) p. 1-23, Elsevier Science, US. cited by other | Lifeng He et al. &quot;A Run-Based Two-Scan Labeling Algorithm&quot;, IEEE Transaction on Image Processing, vol. 17, No. 5, May 2008, p. 749-756, US. cited by other | Yi-Ta Wu et al. &quot;A top-down region dividing approach for image segmentation&quot;, Pattern Recognition 41, 2008, p. 1948-1960, Elsevier, US. cited by other | Khotanzad, A. et al. &quot;Unsupervised segmentation of textured images by edge detection in multidimensional feature&quot;, Pattern Analysis and Machine Intelligence, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 11, Issue 4, Apr. 1989, p. 414-421, US. cited by other.
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6704456 | US6757444 | US6842541 | US6898314 | US6898316 | US7336826 | US7366348 | US7386169 | US20030206645 | US20040190779 | US20060140497 | US20070065009 | US20070116377 | US20080001969 | TW200703148
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		TW
+	</str>
+	<str name="Priority Number">
+		97144882A
+	</str>
+	<str name="Priority Date">
+		2008-11-20
+	</str>
+	<str name="Assignee(s)">
+		INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE
+	</str>
+	<str name="1st Assignee">
+		INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hsinchu, TW
+	</str>
+	<str name="Assignee(s) Address">
+		Hsinchu, TW
+	</str>
+	<str name="Inventor(s)">
+		WU, YI-TA | SHIH, MING-YU | HUANG, CHUNG-HSIEN
+	</str>
+	<str name="1st Inventor">
+		WU, YI-TA
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Taipei, County, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Taipei, County, TW | Taoyuan, County, TW | Tainan, TW
+	</str>
+	<str name="Primary Examiner">
+		WU, JINGGE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

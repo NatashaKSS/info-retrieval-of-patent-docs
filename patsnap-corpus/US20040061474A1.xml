@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20040061474A1
+	</str>
+	<str name="Application Number">
+		US10427583
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Fuel cell with battery, electronic apparatus having fuel cell with battery, and method of utilizing same
+	</str>
+	<str name="Abstract">
+		An electronic apparatus has a fuel cell, a battery, a circuit coupled to the fuel cell and the battery, for outputting electric power from at least one of the fuel cell and the battery, and an electronic device coupled to the circuit. The electronic device is operable with the electric power output from the circuit.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-04-30
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-04
+	</str>
+	<str name="Publication Date">
+		2004-04-01
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-04
+	</str>
+	<str name="All IPC">
+		H01M10/46 | H02J7/00 | H01M16/00 | H01M10/48
+	</str>
+	<str name="IPC Primary">
+		H01M10/46
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="All UPC">
+		320/101 | 429/9 | 429/90
+	</str>
+	<str name="UPC Primary">
+		320/101
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Members">
+		US20040061474A1 | JP2004127619A | JP3715608B2 | WO2004031929A1 | EP1546848A1 | CN1610871A
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		CN101237152B | CN101088062B | DE112005003192B4
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		JP2002287892
+	</str>
+	<str name="Priority Date">
+		2002-09-30
+	</str>
+	<str name="Assignee(s)">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="1st Assignee">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		AKIHIRO OZEKI
+	</str>
+	<str name="1st Inventor">
+		AKIHIRO OZEKI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo,JP
+	</str>
+	<str name="Agent/Attorney">
+		FOLEY &amp; LARDNER
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

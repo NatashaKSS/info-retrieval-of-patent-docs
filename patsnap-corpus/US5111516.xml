@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5111516
+	</str>
+	<str name="Application Number">
+		US07507406
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Apparatus for visual recognition
+	</str>
+	<str name="Abstract">
+		A basic image of objects is extracted from a two-dimensional image of objects. Geometrical elements of the objects are extracted from the extracted basic image. The objects to be recognized are identified by searching a combination of the geometrical elements which match a geometrical model and then utilizing candidate position/orientation of the objects to be recognized, said candidate position/orientation being determined from a relationship in relative position between the combination of geometrical elements and the geometrical model. Mesh cells fixed to the geometrical model are mapped on the basic image based on the candidate position/orientation. In addition, verification is made as to whether an image of the geometrical model mapped by the candidate position/orientation is accurately matched with an image of one of the objects to be recognized, through a neural network to which values got from the basic image included in the individual mesh cells are to be applied as input values. Combination weight factors employed in the neural network are learned according to the verified results. It is also possible to recognize the multi-purpose objects according to how to learn the combination weight factors.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1990-04-11
+	</str>
+	<str name="Application Year">
+		1990
+	</str>
+	<str name="Application(Year/Month)">
+		1990-04
+	</str>
+	<str name="Publication Date">
+		1992-05-05
+	</str>
+	<str name="Publication Year">
+		1992
+	</str>
+	<str name="Publication(Year/Month)">
+		1992-05
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/156 | 382/203
+	</str>
+	<str name="UPC Primary">
+		382/156
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP1990268380A | US5111516 | JP2885823B2
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		16
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8345042 | US5519805 | US5428559 | US8081820 | US7991717 | EP0665507A1 | EP1058909B1 | EP1229487A2 | US5737444 | US5742511 | US6650778 | US7139429 | US7974714 | US8229222 | EP0665507B1
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US4914708 | US4783829 | US4845765 | US4805225 | US4876728 | US4906940 | US4965725 | US4712248 | JP1984111575 | JP1985204086 | JP1987269287
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		191077
+	</str>
+	<str name="Priority Date">
+		1989-04-11
+	</str>
+	<str name="Assignee(s)">
+		KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHO
+	</str>
+	<str name="1st Assignee">
+		KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHO
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Aichi, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Aichi, JP
+	</str>
+	<str name="Inventor(s)">
+		NAKANO, MASARU | SUKIGARA, KAZUTOSHI
+	</str>
+	<str name="1st Inventor">
+		NAKANO, MASARU
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Nagoya, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Nagoya, JP | Aichi, JP
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEUSTADT
+	</str>
+	<str name="Primary Examiner">
+		BOUDREAU, LEO H.
+	</str>
+	<str name="Assistant Examiner">
+		STELLRECHT, BARRY
+	</str>
+	<str name="cited by within 3 years">
+		11
+	</str>
+	<str name="cited by within 5 years">
+		20
+	</str>
+</doc>
+

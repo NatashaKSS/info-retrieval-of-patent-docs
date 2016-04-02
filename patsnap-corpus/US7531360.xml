@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7531360
+	</str>
+	<str name="Application Number">
+		US11/474945
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of dechlorination treatment of flowing water, in particular upstream of a biological pollution detector
+	</str>
+	<str name="Abstract">
+		A selective method of dechlorination treatment of circulating water containing disinfectant chlorine in the form of ClO.sup.-,HClO, ClO.sub.2 or chloramine, where an ascorbic acid aqueous solution is injected from a storage reservoir into the water flow, the mass flow rate of the injected ascorbic acid solution being regulated with respect to the mass flow rate of the chlorine in the circulating water to be treated, in such a way that the ratio (R) of the ascorbic acid and chlorine mass flow rates (R=D1/ D2) is between 2.5 and 4, preferably less than or equal to 3. The method can be used for treatment of water that feeds into a biological detector containing a disinfectant chlorine content that is incompatible with the survival of the biological species used in the detector. The disinfectant chlorine level in the circulating water after mixing is maintained at a value lower than or equal to 0.6 mg/l, and preferably lower than or equal to the detectable limit.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-06-27
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-06
+	</str>
+	<str name="Publication Date">
+		2009-05-12
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		G01N33/00 | B09C1/00 | C02F1/00
+	</str>
+	<str name="IPC Primary">
+		G01N33/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N33
+	</str>
+	<str name="All UPC">
+		436/125 | 210/739 | 210/747.5 | 210/754 | 210/756 | 210/757 | 436/175 | 436/177
+	</str>
+	<str name="UPC Primary">
+		436/125
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Members">
+		US7531360 | US20070000846A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		BioTech: Dictionary Search Results for &quot;limiting reagent,&quot; 1998. cited by examiner | EPA Guidance Manual: Alternative Disinfectants and Oxidants, 1999, Chapter 4, p. 1. cited by examiner | Malinckrodt Package insert for Ascorbic Acid Injection, USP, Jan. 1997. cited by examiner | The Merck Index, 14th ed, Monograph No. 00830, for &quot;ascorbic acid&quot;. cited by examiner | Theil Aqua Tech Vitamin C, Apr. 1998, &quot;Shelf-life of Vitamin C&quot;. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By">
+		DE102009043227A1
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4500510 | US4626992 | US5203366 | US5685987 | US6264846 | US6328896 | US6998057 | US7041218 | US20020125198 | US20040069719 | US20040147030
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0507000
+	</str>
+	<str name="Priority Date">
+		2005-07-01
+	</str>
+	<str name="Assignee(s)">
+		SOCIETE DES EAUX DE MARSEILLE
+	</str>
+	<str name="1st Assignee">
+		SOCIETE DES EAUX DE MARSEILLE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Marseilles, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Marseilles, FR
+	</str>
+	<str name="Inventor(s)">
+		BOUDENNE, JEAN-LUC | COULOMB, BRUNO | LIEUTAUD, GERARD
+	</str>
+	<str name="1st Inventor">
+		BOUDENNE, JEAN-LUC
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Marseilles, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Marseilles, FR | Bouc, Bel, Air, FR | Marseilles, FR
+	</str>
+	<str name="Agent/Attorney">
+		DENNISON, SCHULTZ &amp; MACDONALD
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="Assistant Examiner">
+		STELLING, LUCAS
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

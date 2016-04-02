@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120256947A1
+	</str>
+	<str name="Application Number">
+		US13/438249
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		IMAGE PROCESSING METHOD AND IMAGE PROCESSING SYSTEM
+	</str>
+	<str name="Abstract">
+		An example is an image processing method including a step of acquiring data containing an image, an extraction step of extracting a first image region from the acquired data based on the type of software for generating the acquired data, an extraction step of extracting a second image region the same as or similar to each of images held in a storage unit from the acquired data by comparing the acquired data and each of the images, an extraction step of extracting a third image region the same as or similar to each of the images from the acquired data by comparing the image feature amount of the acquired data and the image feature amount of each of the images, and a step of identifying an image in the acquired data to be stored in the storage unit based on the image regions and reliabilities of the extraction steps.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2012-04-03
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-04
+	</str>
+	<str name="Publication Date">
+		2012-10-11
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-10
+	</str>
+	<str name="All IPC">
+		G06K9/46 | G09G5/00 | G06K9/68
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		345/619 | 382/195
+	</str>
+	<str name="UPC Primary">
+		345/619
+	</str>
+	<str name="UPC Class">
+		345
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2011-085250
+	</str>
+	<str name="Priority Date">
+		2011-04-07
+	</str>
+	<str name="Assignee(s)">
+		HITACHI, LTD.
+	</str>
+	<str name="1st Assignee">
+		HITACHI, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo,JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s)">
+		AKIRA NAOTO | HIROIKE ATSUSHI
+	</str>
+	<str name="1st Inventor">
+		AKIRA NAOTO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo,JP | Kawagoe,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

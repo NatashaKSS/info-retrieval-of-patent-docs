@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7575681
+	</str>
+	<str name="Application Number">
+		US10935858
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Microfluidic separator
+	</str>
+	<str name="Abstract">
+		The present invention provides methods and apparatus for separating and/or analyzing fluids of interest. According to principles of the present invention, fluid analysis is accomplished with microfluidic devices and may be reported in real-time or near real-time in a subterranean environment. In addition or alternative to oilfield applications, the principles of the present invention contemplate separation in a laboratory or other environment for biological sample separation and analytical chemistry applications. The present invention is capable of separating liquid-liquid mixtures or emulsions in a microfluidic device without fouling.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-09-08
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-09
+	</str>
+	<str name="Publication Date">
+		2009-08-18
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-08
+	</str>
+	<str name="All IPC">
+		B01L11/00 | B01D63/00
+	</str>
+	<str name="IPC Primary">
+		B01L11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01L
+	</str>
+	<str name="IPC Group">
+		B01L11
+	</str>
+	<str name="All UPC">
+		210/257.2 | 210/321.74 | 422/101 | 210/321.6 | 166/308.3
+	</str>
+	<str name="UPC Primary">
+		210/257.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		GB0518160D0 | US20060008913A1 | GB2452407A | GB2452407B | US7575681 | US20090183871A1 | CA2518477A1 | GB0815678D0 | GB2417913A | GB2417913B
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		10
+	</str>
+	<str name="Other References">
+		Tirmizi, N. P. et al. &quot;Demulsification of Water/Oil/Solid Emulsions by Hollow-Fiber Membranes&quot;. A.l.Ch.E. Journal, vol. 42, No. 5 (1996), pp. 1263-1276. cited by other . | Combined Search and Examination Report Under Sections 17 and 18(3) from the United Kingdom Patent Office for Application GB0518160.7, date of search Nov. 30, 2005. cited by other . | Verpoorte et al. &quot;Microfluidics Meets MEMS&quot;. Proceedings of the IEEE, vol. 91, No. 6 (Jun. 2003), pp. 930-953. cited by other . | Terry, S. C. &quot;A Gas Chromatography System Fabricated on a Si Wafer Using Integrated Circuit Technology&quot;. PhD Thesis, Stanford University, (1975). cited by other . | Tsai, Jr. H. et al. &quot;Active Microfluidic Mixer and Gas Bubble Filter Driven by Thermal Bubble Micropump&quot;. Elsevier, Sensors and Actuators, vol. A, (2002), pp. 665-671. cited by other . | Vogel, A. I. Text-Book of Quantitative Inorganic Analysis, 3rd Edition, John Wiley and Sons, Inc. (1961), Chapter 10-12. cited by other. | McDonald, J. C. et al. &quot;Fabrication of Microfluidic Systems in Poly(dimethylsiloxane)&quot;. Electrophoresis, vol. 21 (2000), pp. 27-40. cited by other . | Manz et al. &quot;Miniaturized Total Chemical and Analysis Systems: A Novel Concept for Chemical Sensing&quot;. Sensors and Actuators B, vol. B1 (1990), pp. 244-248. cited by other . | Strook et al. &quot;Chaotic Mixer for Microchannels&quot;. Science, vol. 295, (2002), pp. 647-651. cited by other . | Ocean Optics. &quot;Fiber Optic pH Sensors&quot;. Product Catalog on Spectrometers and Accessories (2004), p. 58. cited by other .
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cited By">
+		US7695629 | US8262909 | US8323466
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US5116759 | US20020187074 | US7390463 | US20030150791 | US20030106799 | US7323140 | US5984023 | US7351376 | US7332126 | US20040129874 | US7264723 | US7378280 | WO2002077613 | WO2004087283 | JP2003190768 | DE19941271 | WO2000020117 | EP1614465
+	</str>
+	<str name="Cites Count">
+		18
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		93585804 | 88547104
+	</str>
+	<str name="Priority Date">
+		2004-09-08 | 2004-07-06
+	</str>
+	<str name="Assignee(s)">
+		SCHLUMBERGER TECHNOLOGY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SCHLUMBERGER TECHNOLOGY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ridgefield, CT
+	</str>
+	<str name="Assignee(s) Address">
+		Ridgefield, CT
+	</str>
+	<str name="Inventor(s)">
+		ANGELESCU, DAN, EUGEN | SALAMITOU, PHILIPPE | WONG, JOYCE | RAGHURAMAN, BHAVANI | CLARK, BRIAN, OLIVER
+	</str>
+	<str name="1st Inventor">
+		ANGELESCU, DAN, EUGEN
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Danbury, CT
+	</str>
+	<str name="Inventor(s) Address">
+		Danbury, CT | Paris, FR | Pasadena, CA | Wilton, CT | Sugar, Land, TX
+	</str>
+	<str name="Agent/Attorney">
+		DESTEFANIS, JODY LYNN BATZER, WILLIAM MCALEENAN, JAMES
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

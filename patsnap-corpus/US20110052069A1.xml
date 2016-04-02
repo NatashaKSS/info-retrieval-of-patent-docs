@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20110052069A1
+	</str>
+	<str name="Application Number">
+		US12805925
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Image search apparatus
+	</str>
+	<str name="Abstract">
+		An image search apparatus includes: an image feature extraction unit for extracting features of images; an image search data storage unit for storing the features of the images; a user interface unit for inputting an image search condition, and displaying a search result; and an image search execution unit for executing an image search, by using the features of the images based on the image search condition, wherein the user interface unit allows multiple key images to be inputted as the single search condition, the image search execution unit executes the search by using key images included in the single search condition, and the user interface unit displays the search result in the order of similarities to the key images.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-08-25
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-08
+	</str>
+	<str name="Publication Date">
+		2011-03-03
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+	<str name="All IPC">
+		G06K9/68
+	</str>
+	<str name="IPC Primary">
+		G06K9/68
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/190 | 382/305
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2009197067
+	</str>
+	<str name="Priority Date">
+		2009-08-27
+	</str>
+	<str name="Assignee(s)">
+		HITACHI KOKUSAI ELECTRIC INC.
+	</str>
+	<str name="1st Assignee">
+		HITACHI KOKUSAI ELECTRIC INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo,JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s)">
+		NAKABAYASHI SUMIE | UCHIKOSHI HIDEAKI | HIRAI SEIICHI | MITO TAKASHI | KAWABA TSUNEO
+	</str>
+	<str name="1st Inventor">
+		NAKABAYASHI SUMIE
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo,JP | Tokyo,JP | Tokyo,JP | Tokyo,JP | Tokyo,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

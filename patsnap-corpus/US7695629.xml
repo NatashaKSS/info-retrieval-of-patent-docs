@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7695629
+	</str>
+	<str name="Application Number">
+		US12390158
+	</str>
+	<str name="Title">
+		Microfluidic separator
+	</str>
+	<str name="Abstract">
+		The present invention provides methods and apparatus for separating and/or analyzing fluids of interest. According to principles of the present invention, fluid analysis is accomplished with microfluidic devices and may be reported in real-time or near real-time in a subterranean environment. In addition or alternative to oilfield applications, the principles of the present invention contemplate separation in a laboratory or other environment for biological sample separation and analytical chemistry applications. The present invention is capable of separating liquid-liquid mixtures or emulsions in a microfluidic device without fouling.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-02-20
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-02
+	</str>
+	<str name="Publication Date">
+		2010-04-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		B01D61/00 | B01D63/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/650 | 422/101 | 435/63 | 166/308.3 | 210/321.75
+	</str>
+	<str name="UPC Primary">
+		210/650
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8262909
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US7575681 | US7390463 | US7351376 | US5984021 | US7264723 | US7378280
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Assignee(s)">
+		SCHLUMBERGER TECHNOLOGY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SCHLUMBERGER TECHNOLOGY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ridgefiedl, CT
+	</str>
+	<str name="Assignee(s) Address">
+		Ridgefiedl, CT
+	</str>
+	<str name="Inventor(s)">
+		SALAMITOU, PHILIPPE | WONG, JOYCE | RAGHURAMAN, BHAVANI | SHAH, JAGDISH | VAN, HAL, RONALD, E., G. | SCHROEDER, ROBERT, J. | TABELING, PATRICK, JEAN, RENE
+	</str>
+	<str name="1st Inventor">
+		SALAMITOU, PHILIPPE
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Paris, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Paris, FR | Pasadena, CA | Wilton, CT | Wallingford, CT | Ridgefield, CT | Newtown, CT | L'Hay, Roses, FR
+	</str>
+	<str name="Agent/Attorney">
+		MCALEENAN, JAMES M. RAYBAUD, HELENE LAFFEY, BRIGID M.
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

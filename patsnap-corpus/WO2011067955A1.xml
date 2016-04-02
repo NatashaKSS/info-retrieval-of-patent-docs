@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2011067955A1
+	</str>
+
+	<str name="Application Number">
+		PCT/JP2010/059167
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		METHOD FOR PICKLING STEEL PLATES AND PICKLING DEVICE
+	</str>
+
+	<str name="Abstract">
+		Provided are a method for pickling steel plates, whereby an oxide scale formed in a process for producing Si-containing steel plates can be efficiently and uniformly removed, and a pickling device. The method for pickling steel plates comprises immersing a silicon-containing steel plate in an acidic washing liquor containing microbubbles while applying thereto ultrasonic wave of 28.0 kHz inclusive to 1.0 MHz exclusive in frequency, said ultrasonic wave having at least two kinds of frequencies. The device for continuously pickling silicon-containing steel plates at least comprises a holder for holding a steel plate, a carrier for transporting the steel plate and a pickling tank for pickling the steel plate, wherein said pickling tank is provided with a means for supplying microbubbles and a means for applying ultrasonic wave of 28.0 kHz inclusive to 1.0 MHz exclusive in frequency, said ultrasonic wave having at least two kinds of frequencies.
+	</str>
+
+	<str name="Document Types">
+		WO
+	</str>
+
+	<str name="Application Date">
+		2010-05-25
+	</str>
+
+	<str name="Application Year">
+		2010
+	</str>
+
+	<str name="Application(Year/Month)">
+		2010-05
+	</str>
+
+	<str name="Publication Date">
+		2011-06-09
+	</str>
+
+	<str name="Publication Year">
+		2011
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+
+	<str name="All IPC">
+		B08B3/12 | B08B3/10 | B08B3/08 | C23G1/08
+	</str>
+
+	<str name="IPC Primary">
+		B08B3/12
+	</str>
+
+	<str name="IPC Section">
+		B
+	</str>
+
+	<str name="IPC Class">
+		B08
+	</str>
+
+	<str name="IPC Subclass">
+		B08B
+	</str>
+
+	<str name="IPC Group">
+		B08B3
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		JP
+	</str>
+
+	<str name="Priority Number">
+		2009275801
+	</str>
+
+	<str name="Priority Date">
+		2009-12-03
+	</str>
+
+	<str name="Assignee(s)">
+		&#26032;&#26085;&#26412;&#35069;&#37941;&#26666;&#24335;&#20250;&#31038; | &#35199;&#26412;&#12288;&#24037; | &#19978;&#26449;&#12288;&#36066;&#19968;
+	</str>
+
+	<str name="1st Assignee">
+		&#26032;&#26085;&#26412;&#35069;&#37941;&#26666;&#24335;&#20250;&#31038;
+	</str>
+
+	<str name="Number of Assignees">
+		3
+	</str>
+
+	<str name="1st Assignee Address">
+		&#12306;1008071 &#26481;&#20140;&#37117;&#21315;&#20195;&#30000;&#21306;&#20024;&#12398;&#20869;&#20108;&#19969;&#30446;&#65302;&#30058;&#65297;&#21495; Tokyo &#12306;1008071 JP
+	</str>
+
+	<str name="Assignee(s) Address">
+		&#26032;&#26085;&#26412;&#35069;&#37941;&#26666;&#24335;&#20250;&#31038; | &#35199;&#26412;&#12288;&#24037; | &#19978;&#26449;&#12288;&#36066;&#19968;
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

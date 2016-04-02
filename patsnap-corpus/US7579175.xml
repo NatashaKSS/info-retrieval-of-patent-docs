@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7579175
+	</str>
+	<str name="Application Number">
+		US10338872
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for producing N-acetylneuraminic acid
+	</str>
+	<str name="Abstract">
+		The present invention provides a process for economically producing N-acetylneuraminic acid without using expensive materials such as pyruvic acid and phosphoenolpyruvic acid. The process comprises: allowing (i) a culture of a microorganism having N-acetylneuraminic acid aldolase activity or N-acetylneuraminic acid synthetase activity, or a treated matter of the culture, (ii) a culture of a microorganism capable of producing pyruvic acid or a treated matter of the culture, or a culture of a microorganism capable of producing phosphoenolpyruvic acid or a treated matter of the culture, (iii) N-acetylmannosamine, and (iv) an energy source which is necessary for the formation of pyruvic acid or phosphoenolpyruvic acid to be present in an aqueous medium to form and accumulate N-acetylneuraminic acid in the aqueous medium; and recovering N-acetylneuraminic acid from the aqueous medium.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-01-09
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-01
+	</str>
+	<str name="Publication Date">
+		2009-08-25
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-08
+	</str>
+	<str name="All IPC">
+		C02F3/34 | C12Q1/00 | C12N9/24 | C12P1/00 | C07H21/04 | C07K14/00 | C12P7/58 | C12N1/20
+	</str>
+	<str name="IPC Primary">
+		C02F3/34
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		435/252.3 | 530/350 | 435/183 | 435/6 | 536/23.7 | 435/4 | 435/137 | 435/262 | 435/193 | 536/23.2 | 536/23.5 | 536/23.4 | 435/200 | 435/320.1 | 435/41 | 435/69.1
+	</str>
+	<str name="UPC Primary">
+		435/252.3
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		US20030109007A1 | US7579175
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Kragl, et al., &quot;Enzymatic Two-step Synthesis of N-Acetylneuraminic&quot;, Agnew. Chem. Int. Ed. Engl., vol. 30, No. 7 (1991), pp. 827-828. cited by other . | Vann(a) et al. (Glycobiology , 1997, vol. 7(5):697-701). cited by examiner . | Martin, et al., &quot;A facile procedure for the isolation of . . . &quot;, Carbohydrate Research, vol. 56 (1977), pp. 423-425. cited by other . | Maru, et al., &quot;Molecular Cloning and Identification of . . . &quot;, The Journal of Biological Chemistry, vol. 271, No. 27 (1996), pp. 16294-16299. cited by other . | Ohta, et al., &quot;Complete nucleotide sequence of the E. coli-acetylneuraminate lyase&quot;, Nucleic Acids Research, vol. 13, No. 24 (1985), pp. 8843-8852. cited by other . | Littlechild, et al., &quot;A New Method for the Purification of 30S . . . &quot;, Biochemistry, vol. 17, No. 16 (1978), pp. 3363-3369. cited by other . | Uchida, et al., &quot;Distribution of Neuraminidase in Arthrobacter . . . &quot;, J. Biochem., vol. 82 (1977), pp. 1425-1433. cited by other . | Zhu, et al., &quot;The effect of pfl gene knockout on the metabolism for optically pure . . . &quot;, App. Microbiol. Biotech., vol. 64 (2004), pp. 367-375. cited by other . | Vann, et al., &quot;Purification Properties, and Genetic Location of . . . &quot;, J. Biol. Chem., vol. 262, No. 36 (1987), pp. 17556-17562. cited by other . | Vann, et al., &quot;Purification and Characterization of the Escherichia coli K1 neuB gene product . . . &quot;, Glycobiology (1997), vol. 7, No. 5, pp. 697-701. cited by other . | Warren, et al., &quot;The Biosynthesis of N-Acetylneuraminic Acid&quot;, Biochem. Biophys. Research Communs, vol. 4, No. 3 (1961), pp. 232-235. cited by other . | Simon, et al., &quot;Synthesis of CMP-NeuAc from N-Acetylglucosamine . . . &quot;, J. Am. Chem. Soc., vol. 110 (1988), pp. 7159-7163. cited by other . | Chemical Abstract, Database Accession No. XP-00218097, Kragl, &quot;Reaction technology for Continuous enzymic . . . &quot;, (1992). cited by other. | Yokoto, et al., &quot;Pyruvic Acid Production by an F1--ATPase-defective Mutant . . . &quot;, Biosci. Biotech. Biochem., vol. 58, No. 12 (1994), pp. 2164-2167. cited by other . | Kragl, et al., &quot;N-Acetylneuraminic Acid From a Rare Chemical from Natural Sources . . . &quot;, Ann. N.Y. Acad. Sci (1995), pp. 300-305. cited by other . | Vann, et al., &quot;Purification and Characterization of the . . . &quot; Glycobiology, vol. 7, No. 5 (1997), pp. 697-701. cited by other . | Kim, et al., &quot;Enzymes in Carbohydrates Synthesis: N-Acetylneuraminic . . . &quot;, J. Am. Chem. Soc., vol. 110 (1988), pp. 6481-6486. cited by other . | Vann(b) et al. (J. Biol. Chem., 1987, vol. 262(36):17556-62). cited by examiner . | Stasche, et al., J. Biol. Chem., vol. 272, No. 39 (1997), pp. 24319-24324. cited by other . | Stasche, et al., &quot;A Bifunctional Enzym Catalyzes . . . &quot;, J. Biol. Chem., vol. 272, No. 39 (1997), pp. 24313-24318. cited by other . | Vann, et al., &quot;Purification and characterization of the . . . &quot;, Glycobiology, vol. 7, No. 5 (1997), pp. 697-701. cited by other . | Maru, et al., &quot;Simple and large-scale production of N-acetylneuraminic acid . . . &quot;, Carbohydrate Research, vol. 306 (1998), pp. 575-578. cited by other . | Mahmoudian, et al., An efficient process for production of . . . , Enzyme and Microbial Technology, vol. 20 (1997), pp. 393-400. cited by other . | Maru et al. (Carbohydrate Research, 1998, vol. 306:575-578). cited by examiner . | Annunziato, et al., &quot;Nucleotide Sequence and Genetic Analysis . . . &quot; Journal of Bacteriology, vol. 177, No. 2 (1995), pp. 312-319. cited by other .
+	</str>
+	<str name="Other References Count">
+		25
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5071750 | US5665574 | WO1994029476 | JP1998004961 | JP1994197778
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		11242670
+	</str>
+	<str name="Priority Date">
+		1999-08-30
+	</str>
+	<str name="Assignee(s)">
+		KYOWA HAKKO BIO CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		KYOWA HAKKO BIO CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KOIZUMI, SATOSHI | TABATA, KAZUHIKO | ENDO, TETSUO | OZAKI, AKIO
+	</str>
+	<str name="1st Inventor">
+		KOIZUMI, SATOSHI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Machida, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Machida, JP | Hofu, JP | Machida, JP | Hofu, JP
+	</str>
+	<str name="Agent/Attorney">
+		FITZPATRICK, CELLA, HARPER &amp; SCINTO
+	</str>
+	<str name="Primary Examiner">
+		FRONDA, CHRISTIAN L
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7462285
+	</str>
+	<str name="Application Number">
+		US11695767
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Wastewater purification method and apparatus
+	</str>
+	<str name="Abstract">
+		The invention described herein provides a novel means to biologically denitrify nitrogenous compounds in wastewater using a simultaneous reaction under aerobic conditions. To conduct this reaction it is necessary to culture both autotrophic ammonia oxidizing bacteria as well as facultative heterotrophic bacteria such that the facultative heterotrophs can denitrify the oxidized ammonia compounds produced by the autotrophic bacteria as they are produced. The device described herein, along with methods of operating such a device, provides a means to facilitate the above reaction.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-04-03
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-04
+	</str>
+	<str name="Publication Date">
+		2008-12-09
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-12
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/607 | 210/150 | 210/151 | 210/621 | 210/620 | 210/622 | 210/220
+	</str>
+	<str name="UPC Primary">
+		210/607
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		WO200807115285A3 | US7462285 | WO2007115285A2 | US20070227970A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8257584 | US8318008 | US8110107
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US20030159988 | US5531898 | US20050077237 | US6660163 | US6780318 | US20070218537 | US20020023887
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		69576707 | 78886706
+	</str>
+	<str name="Priority Date">
+		2007-04-03 | 2006-04-04
+	</str>
+	<str name="Inventor(s)">
+		WICKHAM, DANIEL, E.
+	</str>
+	<str name="1st Inventor">
+		WICKHAM, DANIEL, E.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Sebastapol, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Sebastapol, CA
+	</str>
+	<str name="Agent/Attorney">
+		SHERMAN, EDWARD S.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

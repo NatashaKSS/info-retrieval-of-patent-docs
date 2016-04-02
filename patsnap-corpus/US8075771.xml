@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8075771
+	</str>
+	<str name="Application Number">
+		US11/353334
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus for magnetic field gradient enhanced centrifugation
+	</str>
+	<str name="Abstract">
+		This invention relates to apparatus for carrying out continuous or batch centrifugation solid-liquid separation processes in which the solid-liquid mixture is subjected to magnetic field gradients and centrifugation.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-02-14
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-02
+	</str>
+	<str name="Publication Date">
+		2011-12-13
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		B01D35/06 | B03C1/30
+	</str>
+	<str name="IPC Primary">
+		B01D35/06
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D35
+	</str>
+	<str name="All UPC">
+		209/214 | 436/523 | 436/524 | 210/806 | 210/702 | 210/695 | 210/223 | 210/297 | 209/232 | 436/526 | 209/40
+	</str>
+	<str name="UPC Primary">
+		209/214
+	</str>
+	<str name="UPC Class">
+		209
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		U.S. Appl. No. 11/060,004, filed Feb. 17, 2005, Benjamin Fuchs et. al. cited by other . | US. Appl. No. 11/060,001, filed Feb. 17, 2005, Karsten Keller et. al. cited by other . | International Search Report and Written Opinion in International Applic. No. PCT/US2005/005045 dated May 24, 2005 (European Patent Office, NL-2280 HV Rijswijk). cited by other . | International Search Report and Written Opinion in International Applic. No. PCT/US2006/005774 dated Jun. 28, 2006 (European Patent Office, NL-2280 HV Rijswijk). cited by other . | International Search Report and Written Opinion in International Applic. No. PCT/US2005/005043 dated Sep. 9, 2009 (European Patent Office, NL-2280 HV Rijswijk). cited by other . | International Search Report and Written Opinion in International Applic. No. PCT/US2006/005773 dated Jun. 28, 2006 (European Patent Office, NL-2280 HV Rijswijk). cited by other.
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US1527069 | US3902994 | US3195728 | US4166788 | US7070684 | US20060281194 | US4144163 | US20050252864 | US4238326 | US20030146174 | US2648636 | US5244580 | US20050261479 | US5183638 | US6517813 | US3534902 | US5954933 | US6273265 | US3696932 | US4017385 | US1527070 | US6150182 | US20060191834 | US5565105 | US4784758 | US6464863 | US4279748 | US20060180538 | JP2000312838 | JP2003144973 | JP1978109272 | JP1983088043 | JP1986106519 | GB2153707 | JP1987079861 | EP0659932 | JP1997276624 | GB1490598 | FR2128128
+	</str>
+	<str name="Cites Count">
+		39
+	</str>
+	<str name="Assignee(s)">
+		E. I. DU PONT DE NEMOURS &amp; COMPANY
+	</str>
+	<str name="1st Assignee">
+		E. I. DU PONT DE NEMOURS &amp; COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Wilmington, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Wilmington, DE
+	</str>
+	<str name="Inventor(s)">
+		FUCHS, BENJAMIN | HOFFMANN, CHRISTIAN, K. | KELLER, KARSTEN
+	</str>
+	<str name="1st Inventor">
+		FUCHS, BENJAMIN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Wilmington, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Wilmington, DE | Newark, DE | Hockessin, DE
+	</str>
+	<str name="Primary Examiner">
+		REIFSNYDER, DAVID A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

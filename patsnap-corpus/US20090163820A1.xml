@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20090163820A1
+	</str>
+	<str name="Application Number">
+		US12/302350
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		CORDLESS CHARGER FOR A WEARABLE PATIENT MONITOR
+	</str>
+	<str name="Abstract">
+		The present application discloses a cordless charger for a wearable patient monitor. When a patient (10) is diagnosed with a heart condition, or suspected heart condition, they are prescribed a patient monitoring system. The system includes monitors (12) that the patient (10) wears to collect the data of interest. Each day, the patient swaps the monitor (12) he or she is wearing with a fully charged monitor (12) from a cordless charger (14). In this manner, a fresh monitor (12) is always available for monitoring the patient (10). The cordless charger (14) includes a battery (50) that powers the processes of the charger and recharges batteries (34) of the monitors (12). Data from the monitors can be either offloaded to the charger memory (70), or transmitted to a remote database (32) via the patient's Bluetooth enabled cellular phone (30) or other like device.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-05-01
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-05
+	</str>
+	<str name="Publication Date">
+		2009-06-25
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		A61B5/02 | H02J7/00 | A61B5/00
+	</str>
+	<str name="IPC Primary">
+		A61B5/02
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61B
+	</str>
+	<str name="IPC Group">
+		A61B5
+	</str>
+	<str name="All UPC">
+		600/481 | 320/103 | 320/108 | 320/115 | 600/300
+	</str>
+	<str name="UPC Primary">
+		600/481
+	</str>
+	<str name="UPC Class">
+		600
+	</str>
+	<str name="Family Members">
+		JP2009538199A | EP2028998A1 | WO2007140069A1 | US20090163820A1 | CN101453940A
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8193766
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		30235007 | 80316406 | 2007067850
+	</str>
+	<str name="Priority Date">
+		2007-05-01 | 2006-05-25 | 2007-05-01
+	</str>
+	<str name="Assignee(s)">
+		KONINKLIJKE PHILIPS ELECTRONICS N. V.
+	</str>
+	<str name="1st Assignee">
+		KONINKLIJKE PHILIPS ELECTRONICS N. V.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Eindhoven,NL
+	</str>
+	<str name="Assignee(s) Address">
+		Eindhoven,NL
+	</str>
+	<str name="Inventor(s)">
+		EERDEN JACCO C.
+	</str>
+	<str name="1st Inventor">
+		EERDEN JACCO C.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kirkland,WA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Kirkland,WA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

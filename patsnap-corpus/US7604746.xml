@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7604746
+	</str>
+	<str name="Application Number">
+		US11114872
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Pervaporation composite membranes
+	</str>
+	<str name="Abstract">
+		The present application discloses a composite membrane comprising (a) a support member that has a plurality of pores extending through the support member and (b) a cross-linked copolymer comprising (i) a cationic monomer and an anionic monomer and/or (ii) a zwitterionic monomer, which cross-linked copolymer fills the pores of the support member, the cross-linked copolymer having a permeability for a fluid that is dependent on the polarity of the fluid, wherein the permeability increases with increasing polarity.The present application also discloses a process for the preparation of the composite membrane, a pervaporation apparatus comprising the composite membrane, and methods for the use of the composite material in separation and dehydration processes.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-04-25
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-04
+	</str>
+	<str name="Publication Date">
+		2009-10-20
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		B01D61/00 | B32B5/14 | B01D15/00 | B01D39/00 | B01D29/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		435/177 | 96/14 | 210/640 | 264/41 | 96/12 | 95/52 | 435/180 | 210/644 | 428/306.6 | 210/500.27 | 428/304.4 | 210/500.43 | 210/490 | 96/4
+	</str>
+	<str name="UPC Primary">
+		435/177
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		US20060000778A1 | US7604746
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Li, R.H.., et al., &quot;Characterization and mechanical support of asymmetric hydrogel membranes based on the interfacial cross-linking of poly(vinyl alcohol) with toluene diisocyanate&quot;, J. Membr. Sci., 11 1 (1996) 115-122. cited by other . | Zeman, L., et al., &quot;Formation of air-cast cellulose acetate membranes Part II. Kinetics of demixing and microvoid growth&quot;, J. Membr. Sci., 87, (1994), 267-279. cited by other . | Shieh et al. [J. Membr. Sci. 127 (1997) 185-202], on Order cited by other . | Huang et al. [Sep. Sci. Tech. 28 (1993) 2035-48], on Order. cited by other . | Lee et al. [J. Membr. Sci. 52 (1990) 157-72], on Order. cited by other . | Mika, A. M., et al., &quot;Salt separation and hydrodynamic permeability of a porous membrane filled with pH sensitive gel&quot;, J. Membrane Science, 206, (2002) 19-30. cited by other . | Yamasaki et al. [J. Appln. Polym. Sci. 60(1996) 743-48], on Order. cited by other . | Ulbricht et al. [J. Membr. Sci. 136 (1997) 25-33], on Order. cited by other . | Zeman, L., et al., &quot;Formation of air-cast cellulose acetate membranes. Part I. Study of macrovoid formation&quot;, J. Membr. Sci., 84, (1993), 93-106. cited by other . | Koprinarov, I. N., et al., &quot;Quantitative Mapping of Structured Polymeric Systems Using Singular Value Decomposition Analysis of Soft X-ray Images&quot;, J. Phys. Chem. B (2002) 106, 5358-5364. cited by other . | Morigami et al. [Sep. Pur. Tech. 25 (2001) 251-60], on Order. cited by other . | Stachera, D. M., et al., &quot;Tuning the acid recovery performance of poly(4-vinylpyridine)-filled membranes by the introduction of hydrophobic groups&quot;, J. Membrane Science, 187, (2001), pp. 213- 225. cited by other . | Mika, A.M., et al., Ultra-low Pressure Water Softening: A New Approach to Membrane Construction, Desalination, 121 (1999) 149-158. cited by other . | Kwak, S.-Y., et al., &quot;Details of Surface Features in Aromatic Polyamide Reverse Osmosis Membranes Characterized by Scanning Electron and Atomic Force Microscopy&quot;, J. Polym. Sci. B., Polym. Phys. 37, (1999), 1429-1440. cited by other . | Christopher T.C. McCrory, M.Sc. &quot;Impact of Gel Morphology on Pore-Filled Membranes,&quot; A Thesis Submitted to the School of Graduate Studies in Partial Fulfilment of the Requirements for the Degree Doctor of Philosophy in Chemistry, McMaster University, Jul. 2001, 190 pages, National Library of Canada, Ottawa, Canada. [0-612-71865-4]. cited by other. | Cadotte, J.E., et al., &quot;Thin-Film Composite Reverse-Osmosis Membranes: Origin, Development and Recent Advances&quot;; In Synthetic Membranes. vol. 4 Desalination; Turbak, A. F., ed. American Chemical Society: Washington, 1981; p. 305-326. cited by other . | Krasemann et al. [J. Membr. Sci. 150 (1998) 23-30], on Order. cited by other . | Berg et al. [J. Membr. Sci. 225 (2003) 29-37], on Order. cited by other . | Hirotsu et al. [J. Appl. Polym. Sci. 36 (1988) 177-89], on Order. cited by other . | Lloyd, D. R., et al., &quot;Microporous Membrane Formation Via Thermally Induced Phase Separation.I.Solid-Liquid Phase Separation&quot;, J. Membr. Sci., 52 (1990) 239-261. cited by other . | Yokoyama, Y., et al., &quot;Enzyme Immobilization in an Asymmetric Charged Membrane&quot;, J. Membr. Sci., 38 (1988), 223-236. cited by other . | Haack et al. [J. Membr. Sci. 184 (2001) 233-43], on Order. cited by other . | Ulbricht et al.; Novel High Performance Photo-Graft Composite Membranes for Separation of Organic Liquids by Pervaporation; Journal of Membrane Science; vol. 136; (1997); pp. 25-33. cited by other . | Suzuki, F., et all &quot;Grafting of siloxane on poly(styrene-co-maleic acid) and application of this grafting technique to a porous membrane for gas separation&quot;, Journal of membrane Science 104 (1995) 283-290. cited by other . | Yokoyama. Y., et al., &quot;Preparation of a Single Bipolar Membrane by Plasma-Induced Graft Polymerization&quot;, J. Membr. Sci., 43, (1989), 165-175. cited by other . | International Preliminary Examination Report of PCT/CA02/01102, dated Apr. 7, 2003. cited by other . | Mika, A.M., et al., &quot;Chemical Valves Based on Poly(4-vinylpyidine)-filled Microfiltration Membranes&quot;, J. Memb. Sci. 153, (1999) 45-56. cited by other . | Morigami et al.; The First Large-Scale Pervaporation Plant Using Tubular-Type Module with Zeolite NaA Membrane; Separation and Purification Technology, vol. 25; (2001); 251-260. cited by other . | Yamaguchi et al.; Plasma-Graft Filling Polymerization: Preparation of a New Type of Pervaporation Membrane for Organic Liquid Mixtures; Macromolecules; vol. 24; (1991); pp. 5522-5527. cited by other . | International Search Report of PCT/CA02/01102, dated Mar. 18, 2003. cited by other . | Peterson, R. J., et al., &quot;Thin Film Composite Reverse Osmosis Membranes&quot;; In Handbook of Industrial Membrane Technology, Porter, M. E., ed. Noyes Publications: Park Ridge, (1990), pp. 307-348. cited by other . | Okumus et al. [J. Membr. Sci. 223 (2003) 23-38], on Order. cited by other . | Mika, et al., &quot;a new class of polyelectrolyte-filled microfiltration membranes with environmentally controlled porosity&quot; Journal of Membrane Science, vol. 108, 1995, pp. 37-56, Amsterdam, NL, XP004041222. cited by other . | Dytnerskii, Y. I., et al, &quot;Study of the Porous Structure and Selective Properties of Membranes Obtained by Plasma Polymerization in a Glow Discharge&quot;, Colloid Journal of the USSR, (1982), 1024-1028. cited by other . | Pandey, A.K., et al., &quot;Formation of Pore-Filled Ion-Exchange Membranes with in-situ Cross-linking: Poly(vinylbenzyl ammonium salt) Filled Membranes&quot;, J. Polym. Sci. Part A Polymer Chemistry, 39, (2001) 807-820. cited by other . | Childs, R. F., et al.. &quot;Formation of Pore-filled Microfiltration Membranes Using a Combination of Modified Interfacial Polymerization and Grafting&quot;, J. Polym. Sci, A. Polym Chem 40, (2002) pp. 242-250. cited by other . | Yamasaki et al.; Effect of Evaporation Time on the Pervaporation Characteristics through Homogeneous Aromatic Polyamide Membranes. II. Pervaporation Performances for Ethanol/ Water Mixture; Journal of Applied Polymer Science; vol. 60; (1996); pp. 743-748. cited by other . | Mulder, M., &quot;Basic Principles of Membrane Technology&quot; second Edition, Kluwer Academic Publishers, Dordrecht, the Netherlands, chapter III, (1991), pp. 54-109. cited by other . | Mika, A.M., et al., &quot;Calculation of the Hydrodynamic Permeability of Gels and Gel-Filled Microporous Membranes&quot;, Ind. Eng. Chem. Res., vol. 40, No. 7 (2001) 1694-1705. cited by other . | Jonquieres, et al., Industrial state-of-the-art of pervaporation and vapour permeation in the western countries, Journal of Membrane Science; vol. 206, (2002), pp. 87-117. cited by other . | Frahn et al.; Separation of Aromatic/Aliphatic Hydrocarbons by Photo-Modified Poly(acrylonitrile) Membranes; Journal of Membrane Science; vol. 234; (2004); pp. 55-65. cited by other . | Haack et al.; Pervaporation Separation of Water/Alcohol Mixtures Using Composite Membranes Based on Polyelectrolyte Multilayer Assemblies; Journal of Membrane Science; vol. 184; (2001); pp. 233-243. cited by other . | Cadotte, J. E., &quot;Evolution of Composite Reverse Osmosis Membranes&quot;; Material Science of Synthetic Membranes; Lloyd, D. R., ed. American Chemical Society: Washington, 1985; p. 273-294. cited by other . | Krasemann et al.; Self-Assembled Polyelectrolyte Multilayer Membranes with Highly Improved Pervaporation Separation of Ethanol/Water Mixtures; Journal of Membrane Science; vol. 181; (2001); pp. 221-228. cited by other . | Childs, RF., et a].. Nanofiltration Using Pore-Filled Membranes: Effect of Polyelectrolyte Composition on Performance, Separ. Purif. Technol., 22-23 (2001) 507-517. cited by other . | Mika, A.M., et al., &quot;Poly(4-vinylpyridine)-filled microfiltration membranes: Physicochemical Properties and Morphology&quot;, J. Membrane Science, 136, (1 997) 221-232. cited by other . | Yamaguchi, T., et al., &quot;Evidence and Mechanisms of Filling Polymerization by Plasma-Induced Graft Polymerization&quot;, J. Polym. Sci. Part A. Polymer Chem. 34,1203-1208 (1996). cited by other . | Lonsdale, H.K., &quot;The growth of Membrane Technology&quot;, J. Membr. Sci., 10, (1982), 81-181. cited by other . | Lee et al.; Cationic/Anionic Interpenetrating Polymer Network Membranes for the Pervaporation of Ethanol-Water Mixture; Journal of Membrane Science; vol. 52; (1990); pp. 157-172 (missing pp. 158-159, 162-163, 166-167, 170-171). cited by other . | Stachera, D.M., et al., &quot;Acid Recovery Using Diffusion Dialysis with Poly(4-vinylpyidine)-filled Microporous Membranes&quot;, J. Memb. Sci. 148 (1998) 119-127. cited by other . | Krasemann et al. [J. Membr. Sci. 181 (2001) 221-8], on Order. cited by other . | Berg et al.; Zeolite A Membranes Synthesized on a UV-Irradiated TiO2 Coated Metal Support: the High Pervaporation Performance; Journal of Membrane Science; vol. 224; (2003); pp. 29-37. cited by other . | Okumus et al.; Effect of Fabrication and Process Parameters on the Morphology and Performance of a PAN-Based Zeolite-Filled Pervaporation Membrane; vol. 223; (2003); pp. 23-38. cited by other . | Hirose, M., et al., &quot;The relationship between polymer molecular structure of RO membrane skin layers and their RO performances&quot;, J. Membrane Sci., 123, (1997), 151-156. cited by other . | Yamaguchi et al. [Macromolecules 24 (1991) 5522-27], on Order. cited by other . | Lonsdale, H.K., et al., &quot;Transport Properties of Cellulose Acetate Osmotic Membranes&quot;, J. App. Polym. Sci., 9, (1965), 1341-1362. cited by other . | Loeb, S., et al., &quot;Sea water Demineralization by Means of an Osmotic Membrane&quot;, Advances in Chemistry Series, 38 (1963), 117-132. cited by other . | Shieh et al.; Pervaporation with Chitosan Membranes II. Blend Membranes of Chitosan and Polyacrylic Acid and Comparison of Homogeneous and Composite Membrane Based on Polyelectrolyte Complexes of Chitosan and Polyacrylic Acid for the Separation of Ethanol-Water Mixtures; Journal of Membrane Science; vol. 127; (1997); pp. 185-202. cited by other . | Yeom, C. K., et al., &quot;A Study on Permeation Behavior of a Liquid Mixture Through PVA Membranes Having a Crosslinking Gradient Structure in Pervaporation&quot;, J. App. Polym. Sci. (1996), 59, 1271-1279. cited by other . | Hirotsu et al., Water-Ethanol Permseparation by Pervaporation Through the Plasma Graft Copolymeric Membranes of Acrylic Acid and Acrylamide; Journal of Applied Polymer Science; vol. 36; (1988); pp. 177-189. cited by other . | Winnik, F. M., et al., &quot;Polyacrylic Acid Pore-filled Microporous Membranes and Their Use Membrane-Mediated Synthesis of Nanocrystalline Fenihydrite&quot;, Can. J. Chem. 76 (1998), 10-17. cited by other . | Lee et al.; Cationic/Anionic Interpenetrating Polymer Network Membranes for the Pervaporation of Ethanol-Water Mixture; Journal of Membrane Science; vol. 52; (1990); pp. 157-172. cited by other . | Mika, A.M., et al., &quot;Porous Polyelectrolyte Filled Membranes: Effect of Cross-Linking on Flux and Separation&quot;, J. Membrane Science, 135, (1997) 81-92. cited by other . | Krasemann et al.; Ultrathin Self-Assembled Polyelectrolyte Membranes For Pervaporation; Journal Of Membrane Science; vol. 150; (1998); pp. 23-30. cited by other . | Yamaguchi, T., et al., &quot;Design of Pervaporation Membrane for Organic-Liquid Separation Based on Solubility Control by Plasma-Graft Filling Polymerization Technique&quot;, Ind. Eng. Chem. Res. 32, (1993), 848-853. cited by other . | Dai, W.S., et al., &quot;Hollow fiber-supported hydrogels with mesh-size asymmetry&quot;, J. Membrane Science, 171, (2000), 79-86. cited by other . | Kwak, S.-Y., &quot;Relationship of relaxation property to reverse osmosis permeability in aromatic polyamide thin-film-composite membranes&quot;, Polymer, 40, (1999), 6361-6368. cited by other . | Mika, A.M., et al., &quot;Acid/Base Properties of Poly(4-vinylpyridine) Anchored within Microporous Membranes&quot;, J. Memb. Sci.. 152 (1999) 129-140. cited by other . | Uragami, T., et al., &quot;Studies on Syntheses and Permeabilities of Special Polymer Membranes&quot;, Angew. Makromol. Chem., 95 (1981) 45-54. cited by other . | Huang et al.; Dehydration Of Isopropanol By Pervaporation Using Aromatic Polyetherimide Membranes; Separation Science And Technology; vol. 28; (1993); pp. 2035-2048. cited by other . | Goldman et al., A Zeolite/Polymer Membrane for Separation of Ethanol-Water Azeotrope; Journal of Applied Polymer Science, vol. 37; (1989); pp. 1791-1800. cited by other . | P. van de Witte, et al., &quot;Phase separation processes in polymer solutions in relation to membrane formation&quot;, J. Membr. Sdi. 117:(1996), 1-31. cited by other . | Mika, Alicja M., et al., &quot;Ultra-low pressure water softening with pore-filled membranes&quot; Desalination, 140 (2001), 265-275. cited by other . | Frahn et al. [J. Membr. Sci., 234 (2004) 55-65], on Order. cited by other . | Mccrory, &quot;Impact of Gel Morphology on Pore-Filled Membranes&quot;; PhD. Thesis, McMaster University (2001), pp. 119-157. cited by other . | Hirose. M., et al., &quot;Effect of skin layer surface structures on the flux behaviour of RO membranes&quot;, J. Membr. Sci., 121, (1 996), 209-215. cited by other . | Goldman et al. [J. Appl. Polym. Sci. 37 (1989) 1791-800], on Order. cited by other .
+	</str>
+	<str name="Other References Count">
+		77
+	</str>
+	<str name="Cites">
+		US5246587 | US4909943 | US7247370 | US4704324 | US5236588 | US5436068 | US4824916 | US6063278 | US5254261 | US5464538 | US4755299 | US20060000778 | US6635104 | US5922203 | US7316919 | US5755964 | US6258276 | US5334314 | US4992221 | US4894165 | US5049275 | US4802988 | EP0381477 | CA2092837 | WO2000050160 | WO1999040996 | CA2376993 | CA2369703 | WO1998017377 | WO1997017129
+	</str>
+	<str name="Cites Count">
+		30
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		11487205 | 56551904
+	</str>
+	<str name="Priority Date">
+		2005-04-25 | 2004-04-27
+	</str>
+	<str name="Assignee(s)">
+		MCMASTER UNIVERSITY
+	</str>
+	<str name="1st Assignee">
+		MCMASTER UNIVERSITY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hamilton, Ontario, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Hamilton, Ontario, CA
+	</str>
+	<str name="Inventor(s)">
+		CHILDS, RONALD, F. | YU, JIE
+	</str>
+	<str name="1st Inventor">
+		CHILDS, RONALD, F.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Burlington, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Burlington, CA | Hamilton, CA
+	</str>
+	<str name="Agent/Attorney">
+		CHRISTIE, PARKER &amp; HALE, LLP
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

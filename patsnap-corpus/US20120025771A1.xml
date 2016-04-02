@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120025771A1
+	</str>
+	<str name="Application Number">
+		US12/845018
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		SWELLING MANAGEMENT IN BATTERIES FOR PORTABLE ELECTRONIC DEVICES
+	</str>
+	<str name="Abstract">
+		The disclosed embodiments provide a system that manages use of a battery in a portable electronic device. During operation, the system monitors a cycle number of the battery during use of the battery with the portable electronic device, wherein the cycle number corresponds to a number of charge-discharge cycles of the battery. If the cycle number exceeds a first cycle number threshold, the system modifies a charging technique for the battery to manage swelling in the battery.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-07-28
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-07
+	</str>
+	<str name="Publication Date">
+		2012-02-02
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-02
+	</str>
+	<str name="All IPC">
+		H02J7/00
+	</str>
+	<str name="IPC Primary">
+		H02J7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02J
+	</str>
+	<str name="IPC Group">
+		H02J7
+	</str>
+	<str name="All UPC">
+		320/128
+	</str>
+	<str name="UPC Primary">
+		320/128
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		APPLE INC.
+	</str>
+	<str name="1st Assignee">
+		APPLE INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Cupertino,CA,US
+	</str>
+	<str name="Assignee(s) Address">
+		Cupertino,CA,US
+	</str>
+	<str name="Inventor(s)">
+		BHARDWAJ RAMESH C. | HWANG TAISUP
+	</str>
+	<str name="1st Inventor">
+		BHARDWAJ RAMESH C.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Fremont,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Fremont,CA,US | Santa Clara,CA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

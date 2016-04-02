@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8062525
+	</str>
+	<str name="Application Number">
+		US12/333945
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for treating water in a treatment plant
+	</str>
+	<str name="Abstract">
+		The process according to the invention for treating water in a treatment plant comprising a reaction chamber in which a biodegradable material present in the water is biodegraded at least partly by microorganisms, in the course of which, at least temporarily, water is transferred out of the reaction chamber into a separating chamber and the biodegradable material and the microorganisms are separated at least partly from the water therein, a return stream comprising biodegradable material and at least some of the microorganisms flowing out of the separating chamber into the reaction chamber via a recycle line, is characterized in that at least some of the following substances: a) the biodegradable material and b) the microorganisms are treated with ozone (O.sub.3), an amount of 15 to 150 milligrams of ozone per kilogram of dry substance of the biodegradable material and of the microorganisms being added per hour in the reaction chamber.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-12-12
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-12
+	</str>
+	<str name="Publication Date">
+		2011-11-22
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/627
+	</str>
+	<str name="UPC Primary">
+		210/627
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Dytczak, M.A. et al., &quot;Ozonation reduces sludge production and improves denitrification,&quot; Water Research 41 (2007), pp. 543-550. cited by other . | Mahmood, T. et al., &quot;A review of secondary sludge reduction technologies for the pulp and paper industry,&quot; Water Research 40 (2006), pp. 2093-2112. cited by other . | &quot;Using ozone to reduce sludge,&quot; European Environmental Press (EEP), Mar. 29, 2005, accessed online Jun. 23, 2011. cited by other. | Manterola, G. et al., &quot;The effect of operational parameters of the process of sludge ozonation on the solubilisation of organic and nitrogenous compounds,&quot; Water Research 42 (2008), pp. 3191-3197. cited by other . | Chu, L. et al., &quot;Progress and perspectives of sludge ozonation as a powerful pretreatment method for minimization of excess sludge production,&quot; Water Research 43 (2009), pp. 1811-1822. cited by other . | Chu, L.-B. et al., &quot;Enhanced sludge solubilization by microbubble ozonation,&quot; Chemosphere 72 (2008), pp. 205-212. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7309432 | US6126842 | US6780319 | US20060008661 | US7695622 | US7513999 | USR40565 | DE10215413 | DE19920269
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102007060914
+	</str>
+	<str name="Priority Date">
+		2007-12-14
+	</str>
+	<str name="Assignee(s)">
+		L'AIR LIQUIDE SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE
+	</str>
+	<str name="1st Assignee">
+		L'AIR LIQUIDE SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Paris, FR); N/A
+	</str>
+	<str name="Assignee(s) Address">
+		Paris, FR); N/A
+	</str>
+	<str name="Inventor(s)">
+		SCHWERDT, JORG | WOLFF, STEFAN | PARMENTIER, JAN
+	</str>
+	<str name="1st Inventor">
+		SCHWERDT, JORG
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kaarst, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Kaarst, DE | Kaarst, DE | Hemiksem, BE
+	</str>
+	<str name="Agent/Attorney">
+		WHITE, ALLEN E.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

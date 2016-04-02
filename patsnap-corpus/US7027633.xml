@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7027633
+	</str>
+	<str name="Application Number">
+		US09998359
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Collaborative diagnostic systems
+	</str>
+	<str name="Abstract">
+		The systems described herein include tools for computer-assisted evaluation of objective characteristics of pathologies. A diagnostic system arranged according to the teachings herein provides computer support for those tasks well suited to objective analysis, along with human decision making where substantial discretion is involved. Collaborative diagnosis may be provided through shared access to data and shared control over a diagnostic tool, such as a telemicroscope, and messaging service for clinicians who may be at remote locations. These aspects of the system, when working in cooperation with one another, may achieve improved diagnostic accuracy or early detection for pathologies such as lymphoma.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-11-29
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-11
+	</str>
+	<str name="Publication Date">
+		2006-04-11
+	</str>
+	<str name="Publication Year">
+		2006
+	</str>
+	<str name="Publication(Year/Month)">
+		2006-04
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/133 | 128/920 | 600/300
+	</str>
+	<str name="UPC Primary">
+		382/133
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20020106119A1 | US7027633
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Hu, M. K., et al., &quot;Visual Pattern Recognition by Moment Invariants,&quot; IRE Trans. Inform. Theory Inform. Technol., vol. 8, pp. 179-187 (1962). | Khotanzad, A., and Hong, Y.H., &quot;Invariant Image Recognition by Zernike Moments,&quot; IEEE Trans. Pattern Anal. Machine Intell., vol. 12(5), pp. 489-497 (1990). | Harms, H., et al., &quot;Segmentation of Stained Blood Cell Images Measured at High Scanning Density with High Magnification and High Numerical Aperture Optics,&quot; Cytometry, vol. 7, pp. 522-531 (1986). | Kkhotanzad, A., and Hong, Y. H., &quot;Rotation Invariant Image Recognition Using Features Selected Via a Systematic Method&quot;, Pattern Recognit., vol. 23:10, pp. 1089-1101 (1990). | Kauppinen, H., et al., &quot;An Experimental Comparison of Autoregressive and Fourier-Based Descriptors in 2D Shape Classification,&quot; IEEE Trans. Pattern Anal. Machine Intell., vol. 17(2), pp. 201-207 (1995). | Mao, J. and Jain, A.K., &quot;Texture Classification Segmentation Using Multiresolution Simultaneous Autoregressive Models,&quot; Pattern Recognit., vol. 25(2), pp. 173-188 (1992). | Geisler, C. H., et al., &quot;Prognostic Importance of Flow Cytomeric Immunophenotyping of 540 Consecutive Patients with B-Cell Chronic Lymphocytic Leukemia,&quot; Blood, vol. 78:(7), pp. 1795-1802 (1991). | Groshong, B.R. Estimating Simple Closed Contours in Images. Proc. Ann. Symposium Comp. Based Med. Systems 5, 35-43 (Jun. 14, 1992). | Kuhl, F., P and Giardina, C.R., &quot;Elliptic Fourier Features of a Closed Contour,&quot; Computer Graph. Image Process., vol. 18, pp. 236-258 (1982). | Bennett, J.M., et al., &quot;Proposals for the Classification of the Acute Leukaemias&quot;, Br. J. Haematol., vol. 33, pp. 451-458 (1976). | Kilo, M. N., and Dorfman, D. M., &quot;The Utility of Flow Cytometric Immunophenotypic Analysis in the Distinction of Small Lymphocytic Lymphoma/Chronic Lymphocytic Leukemia from Mantle Cell Lymphoma,&quot; Amer. J. Clin. Pathol., vol. 105, pp. 451-457 (1996). | Cabral, J.E. Jr. &amp; Kim, Y. Multimedia Systems for Telemedicine and Their Communications Requirements. IEEE Communications Magazine 34, 20-27 (Jul. 1, 1996). | Dryden, I.L., and Mardia, K.V., Statistical Shape Analysis, West Sussex, U.K.: Wiley, pp. 251-278 (1998). | Grimes, G.J., &quot;Remote Microscopy for Hi-Res Real-Time interactive pathology,&quot; Advanced Imaging., vol. 12:7, pp. 12-16 (1998). | Zink, S., and Jaffe, C. C., &quot;Medical Imaging Databases, A National Institutes of Health Workshop,&quot; Investigative Radiol., vol. 28:(4), pp. 366-372 (1993). | Baumann, I., et al., &quot;Image Analysis Detects Lineage-Specific Morphologic Markers in Leukemic Blast Cells,&quot; Amer. J. Clin. Pathol., vol. 105:(1), pp. 23-30 (1995). | Yatabe, Y, et al., &quot;Clinicopathologic Study of PRAD1/Cyclin D1 Overexpressing Lymphoma with Special Reference to Mantle Cell Lymphoma&quot;, Amer. J. Surg. Pathol., vol. 20:(9), pp. 1110-1122 (1996). | Comaniciu, D. and Meer, P., &quot;Distribution Free Decomposition of Multivariate Data,&quot; Pattern Anal. Applicat., vol. 2, pp. 22-30 (1999). | Vadlamudi, G., et al., &quot;Leukemic Phase of Mantle Cell Lymphoma Two Case Reports and Review of the Literature&quot;, Arch. Pathol. Lab. Med., vol. 120, pp. 35-40 (1996). | Kendall, D.G., &quot;A Survey of the Statistical Theory of Shape,&quot; Statistical Science, vol. 4(2), pp. 87-120 (1989). | Head, D. R., et al., &quot;Reproducibility of the French-American-British Classification of Acute Leukemia: The Southwest Oncology Group Experience,&quot; Amer. J. Hematol., vol. 18, pp. 47-57 (1985). | Rozman, C., and Montserrat, E., &quot;Chronic Lymphocytic Leukemia&quot;, N.E.J.M., vol. 333:(16), pp. 1052-1057 (1995). | Chan, J. K. C., et al., &quot;A Revised European-American Classification of Lymphoid Neoplasms Proposed by the International Lymphoma Study Group,&quot; Amer. J. Clin. Pathol., vol. 103:(5), pp. 543-560 (1995). | Garcia-Conde, J. and Cabanillas, F., &quot;Mantle Cell Lymphoma: A Lymphoproliferative Disorder Associate with Aberrant Function of the Cell Cycle,&quot; Leukemia, vol. 10:(S2), pp.:S78-S83 (1996). | Genesereth M., and Nilson, N., Logical Foundations of Artificial Intelligence, Palo Alto, CA: Morgan Kaufman,, pp. 19-45 (1988).
+	</str>
+	<str name="Other References Count">
+		25
+	</str>
+	<str name="Cites">
+		US6103466 | US6103518 | US4705756 | US5991028 | US5733739 | US5930461 | US6226392 | US6658287 | US5016283 | US6692916 | US4513438 | US5793969 | US6148096 | US6078681 | WO199930264 | WO199607161 | WO199314600
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		99835901 | 25023900
+	</str>
+	<str name="Priority Date">
+		2001-11-29 | 2000-11-30
+	</str>
+	<str name="Inventor(s)">
+		FORAN, DAVID, J. | COMINCIU, DORIN | MEER, PETER
+	</str>
+	<str name="1st Inventor">
+		FORAN, DAVID, J.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		114, Short, Hills, Ave., Short, Hills, NJ, 07078
+	</str>
+	<str name="Inventor(s) Address">
+		114, Short, Hills, Ave., Short, Hills, NJ, 07078 | 126, Forest, Glen, Dr., Highland, Park, NJ, 08904 | 16, Timothy, La., East, Brunswick, NJ, 08816
+	</str>
+	<str name="Agent/Attorney">
+		FISH &amp; NEAVE IP GROUP, ROPES &amp; GRAY, LLP
+	</str>
+	<str name="Primary Examiner">
+		PATEL, KANJIBHAI
+	</str>
+	<str name="Assistant Examiner">
+		TABATABAI, ABOLFAZL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

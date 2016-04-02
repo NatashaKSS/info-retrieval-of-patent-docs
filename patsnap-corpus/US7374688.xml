@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7374688
+	</str>
+	<str name="Application Number">
+		US11199444
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Spark-induced consolidation of sludge
+	</str>
+	<str name="Abstract">
+		Exposing sludge to underwater, high-intensity sparks, to increase cake solids, provide faster settling, and increase the rate of dewatering.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-08-08
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-08
+	</str>
+	<str name="Publication Date">
+		2008-05-20
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-05
+	</str>
+	<str name="All IPC">
+		C02F11/12 | C02F1/52 | C02F1/36
+	</str>
+	<str name="IPC Primary">
+		C02F11/12
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F11
+	</str>
+	<str name="All UPC">
+		210/748 | 204/164 | 210/702
+	</str>
+	<str name="UPC Primary">
+		210/748
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7374688 | US20060032822A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Riera, E., Gallego, J. A., Rodriguez, G., Elvira, L., and Gonzalez, I., &quot;Application of high-power ultrasound to enhance fluid/solid particle separation processes&quot;, 2000, pp. 642-646, Ultrasonics 38. cited by other . | Spengler, J., and Jekel, M., &quot;Ultrasound conditioning of suspensions--studies of streaming influence on particle aggregation on a lab- and pilot-plant scale&quot;, 2000, pp. 624-628, Ultrasonics 38. cited by other . | Corcoran, H., Sung, D-J., and Banjeree, S, &quot;Electrohydraulic Discharge Detackifies Polymer Surfaces in Water&quot;, 2001, pp. 152-155, Industrial &amp; Engineering Chemistry Research 40. cited by other . | Corcoran, H., Sung, D-J., and Banjeree, S., &quot;The Detackification of Stickies Using Plasma-Spark Technology&quot;, 2000, pp. 1-8, TAPPI Papermaker's Conference, Vancouver, Canada. cited by other . | Golla, P. S., and Johnson, H. W., &quot;Application of Electro Acoustics for Dewatering Pharmaceutical Sludge&quot;, Feb. 1992, pp. 74-79, Environmental Progress, vol. 11, No. 1. cited by other . | Doktycz, S.J., and Suslick, K.S., &quot;Interparticle Collisions Drivin by Ultrasound&quot;, Mar. 1990, pp. 1067-1069, Science 247. cited by other . | Larsson, A., Sunesson, A., Garmer, J., and Kroll, S., &quot;Laser-Triggered Electrical Breakdown in Liquid Dielectrics&quot;, Apr. 2001, pp. 212-219, IEEE Transactions on Dielectrics and Electrical Insulation, vol. 8, No. 2. cited by other. | Watanabe, Y., and Tanaka, K., &quot;Innovative Sludge Handling Through Pelletization/Thickening&quot;, 1999, pp. 3245-3252, Water Research, vol. 33, No. 15. cited by other . | Mikkelsen, L.H., and Keiding, K., &quot;The shear sensitivity of activated sludge: an evaluation of the possibility for a standardized floc strength test&quot;, 2002, pp. 2931-2940, Water Research 36. cited by other . | Soszynski, S., Jain, J.S., Tata, P., Lue-Hing, C., Carns, K., and Perkins, D., &quot;Effect of Pulse Power Technology on the Dewaterability of Anaerobically Digested Sludge&quot;, Jan. 1999, Report No. 99-1, Metropolitan Water Reclamation District of Greater Chicago, Chicago, Illinois. cited by other .
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5695650 | US5630915 | US6482327 | US6572733 | US5827432 | US5472620 | US5049248 | US5026484
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		19944405 | 60182704
+	</str>
+	<str name="Priority Date">
+		2005-08-08 | 2004-08-16
+	</str>
+	<str name="Assignee(s)">
+		GEORGIA TECH RESEARCH CORPORATION
+	</str>
+	<str name="1st Assignee">
+		GEORGIA TECH RESEARCH CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Atlanta, GA
+	</str>
+	<str name="Assignee(s) Address">
+		Atlanta, GA
+	</str>
+	<str name="Inventor(s)">
+		BANERJEE, SUJIT
+	</str>
+	<str name="1st Inventor">
+		BANERJEE, SUJIT
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Marietta, GA
+	</str>
+	<str name="Inventor(s) Address">
+		Marietta, GA
+	</str>
+	<str name="Agent/Attorney">
+		TROUTMAN SANDERS LLP SCHNEIDER, RYAN A YANCEY, JR., JAMES HUNT
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

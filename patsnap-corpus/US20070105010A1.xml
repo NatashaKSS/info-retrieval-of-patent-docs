@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070105010A1
+	</str>
+	<str name="Application Number">
+		US11593456
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Lithium polymer battery powered intravenous fluid warmer
+	</str>
+	<str name="Abstract">
+		A lithium polymer (LiPo) battery pack having LiPo battery cells is provided which includes battery protection circuitry, charging circuitry, cell balancing circuitry, and control and communication circuitry. The batteries can be charged while in use by an internal charger. Battery charging and discharging are accomplished in a controlled and protected manner to avoid overcharging and overdischarging conditions. The novel battery pack has built-in safeguards against dangerous LiPo battery conditions and is implemented in a small, portable unit which contains the battery cells, control and protection circuitry, internal charger and display gauge. The battery pack is useful for powering an intravenous fluid warmer or other medical or electrical devices and equipment.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-11-06
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-11
+	</str>
+	<str name="Publication Date">
+		2007-05-10
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-05
+	</str>
+	<str name="All IPC">
+		H01M1/50 | H02J7/00 | H01M1/46 | H01M1/48
+	</str>
+	<str name="IPC Primary">
+		H01M1/50
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M1
+	</str>
+	<str name="All UPC">
+		429/120 | 320/136 | 429/90 | 429/62
+	</str>
+	<str name="UPC Primary">
+		429/120
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		CA2628431A1 | EP1952478A2 | US20070105010A1 | AU2006311869A1 | WO2007056202A3 | WO2007056202A2
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		59345606 | 73410805
+	</str>
+	<str name="Priority Date">
+		2006-11-06 | 2005-11-07
+	</str>
+	<str name="Inventor(s)">
+		CASSIDY DAVID
+	</str>
+	<str name="1st Inventor">
+		CASSIDY DAVID
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Chelmsford,MA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Chelmsford,MA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

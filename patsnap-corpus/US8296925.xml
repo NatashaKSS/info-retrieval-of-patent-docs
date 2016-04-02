@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8296925
+	</str>
+	<str name="Application Number">
+		US12/964434
+	</str>
+	<str name="Title">
+		Battery assembly for use in an electronic device
+	</str>
+	<str name="Abstract">
+		A battery assembly for use in an electronic device is provided. The battery assembly may include a battery cell (e.g., a rechargeable battery cell), a battery connector for providing power from the battery cell to the electronic device, and a flex circuit electrically coupling the battery cell to the electronic device. The battery connector may be located adjacent the battery cell, and may include one or more alignment mechanisms for ensuring that conductive pads of the battery connector align properly with corresponding conductive elements of the electronic device. The battery cell may be fixed to the electronic device using an adhesive layer (e.g., double sided tape) placed between the cell and the electronic device. A tab may extend beyond the periphery of the battery cell to allow a user to pull or peal the battery cell from the electronic device for replacement or repair. In some embodiments, a tool may be used to grasp the tab.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-12-09
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-12
+	</str>
+	<str name="Publication Date">
+		2012-10-30
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-10
+	</str>
+	<str name="All IPC">
+		H01M2/00 | B23P17/04 | H01M6/48 | H01M2/10 | H01M2/20
+	</str>
+	<str name="IPC Primary">
+		H01M2/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M2
+	</str>
+	<str name="All UPC">
+		29/592.1 | 429/123 | 429/162 | 429/163 | 429/178 | 429/96
+	</str>
+	<str name="UPC Primary">
+		29/592.1
+	</str>
+	<str name="UPC Class">
+		29
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;Replace the Battery in your Game Cartridge&quot;, The Pokemon Masters Forum, Jan. 30, 2007. Retrieved online on Jan. 28, 2011 from http://www.pokemasters.net/forum/showthread.php?t=15464. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US5096788 | US5654111 | US6287140 | US6411503 | US6731353 | US20020027769 | US20030207603 | US20040127952 | US20050038325 | US20050042936 | JP1988019774
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Assignee(s)">
+		APPLE INC.
+	</str>
+	<str name="1st Assignee">
+		APPLE INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Cupertino, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Cupertino, CA
+	</str>
+	<str name="Inventor(s)">
+		MYERS, SCOTT | WANG, ERIK | WEBER, TRENT | SLOEY, JASON
+	</str>
+	<str name="1st Inventor">
+		MYERS, SCOTT
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		San, Francisco, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Francisco, CA | Redwood, City, CA | Saratoga, CA | San, Jose, CA
+	</str>
+	<str name="Agent/Attorney">
+		DORSEY &amp; WHITNEY LLP
+	</str>
+	<str name="Primary Examiner">
+		CREPEAU, JONATHAN
+	</str>
+	<str name="Assistant Examiner">
+		DOUYETTE, KENNETH
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

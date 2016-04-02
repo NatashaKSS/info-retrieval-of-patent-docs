@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7537694
+	</str>
+	<str name="Application Number">
+		US11/356327
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and device for multidimensional liquid chromatography
+	</str>
+	<str name="Abstract">
+		In a liquid chromatography, an electrolytic solution starts to be supplied from an injector toward a specimen in a first separating column to transfer components of the specimen from the first separating column toward one of first and second trap columns after a time period more than zero elapses from a time at which another eluting liquid starts to flow through the other one of the first and second trap columns toward a second separating column.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-02-17
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-02
+	</str>
+	<str name="Publication Date">
+		2009-05-26
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/198.2 | 210/143 | 210/656 | 210/659
+	</str>
+	<str name="UPC Primary">
+		210/198.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		JP2006284188A | US20060219638A1 | US7537694
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Nagele, E., et al. &quot;Improved 2D Nano-LC/MS for Proteomics Applications: A Comparative Analysis Using Yeast Proteome&quot; Journal of Biomolecular Techniques, Jun. 2004, vol. 15, Is. 2, pp. 134-142. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6942793 | US7135111 | US7141161 | US20040173509 | US20040178133 | US20050098487 | JP2004271272 | JP2004271409 | JP2005140659
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2005-100477
+	</str>
+	<str name="Priority Date">
+		2005-03-31
+	</str>
+	<str name="Assignee(s)">
+		HITACHI HIGH-TECHNOLOGIES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		HITACHI HIGH-TECHNOLOGIES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		WATANABE, MASAKI | ITO, SHINYA | KANDA, KATSUHIRO
+	</str>
+	<str name="1st Inventor">
+		WATANABE, MASAKI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Hitachinaka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Hitachinaka, JP | Hitachinaka, JP | Hitachinaka, JP
+	</str>
+	<str name="Agent/Attorney">
+		MCDERMOTT WILL &amp; EMERY LLP
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

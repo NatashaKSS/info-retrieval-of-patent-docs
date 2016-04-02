@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7807040
+	</str>
+	<str name="Application Number">
+		US10516217
+	</str>
+	<str name="Title">
+		Recovery process
+	</str>
+	<str name="Abstract">
+		The present invention provides a process for the recovery of radiolabelled isotopes from organic substances labelled or contaminated with one or more radiolabelled isotopes, which process comprises: i) adding organic substances labelled or contaminated with a radiolabelled isotope to an acidic aqueous electrolyte containing silver ions as an electrochemically regenerable primary oxidising species; ii) subjecting the acidic aqueous electrolyte to an electric potential; and iii) recovering the radiolabelled isotope from the products of the electrochemical process resulting from the application of the electric potential; wherein the process is carried out at a slight pressure depression.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-05-09
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-05
+	</str>
+	<str name="Publication Date">
+		2010-10-05
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-10
+	</str>
+	<str name="All IPC">
+		C02F1/46
+	</str>
+	<str name="IPC Primary">
+		C02F1/46
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		205/742 | 205/687
+	</str>
+	<str name="UPC Primary">
+		205/742
+	</str>
+	<str name="UPC Class">
+		205
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Dziewinski, J., et al., &quot;Developing and Testing Electrochemical Methods for Treating Metal Salts, Cyanides, and Organic Compounds in Waster Streams&quot;, Waste Management, vol. 18, 1998, pp. 257-263, Elsevier Science Ltd., USA. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US5790964 | US4874485 | US6179981 | US5965003 | US4532102 | JP1989000689A | GB2225340 | EP0162536 | EP0297738 | JP1997000446A | JP2000005784A | GB2206341
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		0212850.2
+	</str>
+	<str name="Priority Date">
+		2002-06-01
+	</str>
+	<str name="Assignee(s)">
+		BIODYNAMICS RESEARCH LIMITED
+	</str>
+	<str name="1st Assignee">
+		BIODYNAMICS RESEARCH LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rushden, GB
+	</str>
+	<str name="Assignee(s) Address">
+		Rushden, GB
+	</str>
+	<str name="Inventor(s)">
+		LEGG, STUART, ANTON | JONES, CHRISTOPHER, PETER | TURNER, ANDREW, DEREK
+	</str>
+	<str name="1st Inventor">
+		LEGG, STUART, ANTON
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Newbury, GB
+	</str>
+	<str name="Inventor(s) Address">
+		Newbury, GB | Swindon, GB | Abingdon, GB
+	</str>
+	<str name="Agent/Attorney">
+		WRIGLEY, BARBARA A. OPPENHEIMER WOLFF &amp; DONNELLY, LLP
+	</str>
+	<str name="Primary Examiner">
+		PHASGE, ARUN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

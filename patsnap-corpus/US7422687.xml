@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7422687
+	</str>
+	<str name="Application Number">
+		US11769388
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Biotreatment of As-containing hydroxide sludge
+	</str>
+	<str name="Abstract">
+		The invention discloses a biotechnological process for the treatment of hydroxide sludge containing As produced in potable water production processes which use FeCI.sub.3 as a coagulant. The process seeks to modify the physicochemical properties of the produced sludge in such a way to facilitate the use of mechanical dehydration methods that allow decreasing the sludge volume and facilitating its final disposal. The process entails: Preparation of an inoculum of sulfate reducing microorganisms from the sludge to be treated; Combining the sludge to be treated, the SRB inoculum, and nutrients at a controlled temperature for about 5 days in an anaerobic reactor with enough mixing to allow sludge homogenization such that no untreated zones remain; Decanting the treated sludge for a period of approximately 3 days, recovering the clarified liquid and subjecting the sediment to a dewatering process through filtration or centrifugation; Filtering the solid residue coming from the decanter; and Characterizing the final residue.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-06-27
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-06
+	</str>
+	<str name="Publication Date">
+		2008-09-09
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/609 | 210/610 | 210/611 | 210/742
+	</str>
+	<str name="UPC Primary">
+		210/609
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080000831A1 | AR061659A1 | US7422687 | AU2007202864A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References">
+		Undebarrena. &quot;Thermal Dehydration of Sludge in the Industrial Field.&quot; Tratamiento de Lodos. Jun. 1999. cited by other . | Catica et al. &quot;Abatement of Turbidity and Color in Conventional Plants Under Altiplanic Winter Condition.&quot; XIII Chilean Congress on Sanitary and Environmental Engineering. Oct. 1999. cited by other . | Galvin. &quot;Hydroxide Sludge Management.&quot; Ingenieria Quimica. Jun. 1998. pp. 173-178. cited by other . | Coates et al. &quot;Microbial Perchlorate Reduction: Rocket-Fuelled Metabolism.&quot; Nature Reviews/Microbiology. vol. 2. Jul. 2004. pp. 569-580. cited by other. | Slater et al. &quot;Disposal of Waterworks Sludge: Final Report of Research Panel No. 14.&quot; Panel from Engineering Subcommittee of the Joint Research Steering Committee of the Institute of Water Engineers and the Society for Water Treatment and Examination. Oct. 1973. pp. 399-409. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6387669
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Priority Country">
+		CL
+	</str>
+	<str name="Priority Number">
+		16452006
+	</str>
+	<str name="Priority Date">
+		2006-06-27
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSIDAD CATOLICA DEL NORTE
+	</str>
+	<str name="1st Assignee">
+		UNIVERSIDAD CATOLICA DEL NORTE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Antofagasta, CL
+	</str>
+	<str name="Assignee(s) Address">
+		Antofagasta, CL
+	</str>
+	<str name="Inventor(s)">
+		DEMERGASSO, CECILIA | GALLEGUILLOS, PEREZ, PEDRO | ZEPEDA, LVAREZ, VICTOR | ESCUDERO, LORENA
+	</str>
+	<str name="1st Inventor">
+		DEMERGASSO, CECILIA
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Antofagasta, CL
+	</str>
+	<str name="Inventor(s) Address">
+		Antofagasta, CL | Antofagasta, CL | Antofagasta, CL | Barcelona, CL
+	</str>
+	<str name="Agent/Attorney">
+		MERCHANT &amp; GOULD P.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

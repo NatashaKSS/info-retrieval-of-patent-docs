@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20050021512A1
+	</str>
+	<str name="Application Number">
+		US10897102
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Automatic indexing of digital image archives for content-based, context-sensitive searching
+	</str>
+	<str name="Abstract">
+		A method is for automatically indexing multimedia data archives and categorizing the files held therein and also to a client/server architecture in an image retrieval system for content-based searching for relevant files in a particular format and having a particular file structure. The parsed files stored in a data archive managed by the document management system are subjected to a feature extraction algorithm. The features obtained are then used for producing a binary-coded inverted index which includes elements of at least two attributes and holds context information which is held in these files and is needed for content-based image retrieval. If new files or files with an extended or modified content are stored in the data archive, then it involves a parsing algorithm and also an algorithm for automatically extracting features of these files being executed under event control during every storage process, in order to extend the inverted index by individual attributes or in order to update particular elements of already existing index attributes.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-07-23
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-07
+	</str>
+	<str name="Publication Date">
+		2005-01-27
+	</str>
+	<str name="Publication Year">
+		2005
+	</str>
+	<str name="Publication(Year/Month)">
+		2005-01
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/3
+	</str>
+	<str name="UPC Primary">
+		707/3
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Members">
+		US20050021512A1 | DE10333530A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		10333530.7
+	</str>
+	<str name="Priority Date">
+		2003-07-23
+	</str>
+	<str name="Inventor(s)">
+		KOENIG HELMUT
+	</str>
+	<str name="1st Inventor">
+		KOENIG HELMUT
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Erlangen,DE
+	</str>
+	<str name="Inventor(s) Address">
+		Erlangen,DE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

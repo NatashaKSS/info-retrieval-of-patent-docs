@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7505178
+	</str>
+	<str name="Application Number">
+		US11031516
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Semantic classification and enhancement processing of images for printing applications
+	</str>
+	<str name="Abstract">
+		A printing system enables the printing of enhanced documents using a semantic classification scheme. A printing system receives an image to be printed. The system classifies the image according to the semantic classification scheme and, based on this classification, performs enhancement processing on the image. Depending on the desired application, the printing system may recognize and classify any number of image types and may then perform various enhancement processing functions on the image, where the type of enhancement processing performed is based on the classification of the image.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-01-07
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-01
+	</str>
+	<str name="Publication Date">
+		2009-03-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		G06F15/00 | G06F3/12
+	</str>
+	<str name="IPC Primary">
+		G06F15/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="All UPC">
+		358/1.13 | 358/3.27 | 358/1.9
+	</str>
+	<str name="UPC Primary">
+		358/1.13
+	</str>
+	<str name="UPC Class">
+		358
+	</str>
+	<str name="Family Members">
+		JP2005108230A | US20060256388A1 | US20090092322A1 | US7505178
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References">
+		Shahraray, B. et al., &quot;Pictorial Transcripts: Multimedia Processing Applied to Digital Library Creation,&quot; IEEE, 1997, pp. 581-586. cited by other . | U.S. Appl. No. 10/660,867, filed Sep. 12, 2003, Erol et al. cited by other . | U.S. Appl. No. 10/814,700, filed Mar. 30, 2004. cited by other . | Girgensohn, Andreas et al., &quot;Time-Constrained Keyframe Selection Technique,&quot; Multimedia Tools and Applications (2000), vol. 11, pp. 347-358. cited by other . | Klemmer, S.R. et al., &quot;Books with Voices: Paper Transcripts as a Tangible Interface to Oral Histories,&quot; CHI 2003, Fort Lauderdale, FL, Apr. 5-10, 2003, pp. 89-96. cited by other . | &quot;Microsoft Powerpoint--Wikipedia, the free encyclopedia,&quot; Wikimedia Foundation, Inc., [online] [Retrieved on Nov. 7, 2006] Retrieved from the internet &lt;URL:http://en.wikipedia.org/wiki/Microsoft.sub.--PowerPoint&amp;- gt;. cited by other . | Hull, Jonathan J. et al., &quot;Visualizing Multimedia Content on Paper Documents: Components of Key Frame Selection for Video Paper,&quot; Proceedings of the 7.sup.th International Conference on Document Analysis and Recognition (2003), vol. 1, pp. 389-392. cited by other . | Graham, J. et al., &quot;A Paper-Based Interface for Video Browsing and Retrieval,&quot; ICME '03, Jul. 6-9, 2003, pp. 749-752, vol. 2. cited by other . | Erol, Berna et al., &quot;Linking Multimedia Presentations With Their Symbolic Source Documents: Algorithm And Applications,&quot; ACM Multimedia '03, Nov. 2-8, 2003, pp. 498-507, Berkeley, CA. cited by other . | Chinese Application No. 2004100849823 Office Action, Jun. 1, 2007, 24 pages. cited by other . | ASCII 24.com, [online] (date unknown), Retrieved from the Internet&lt;URL: http://216.239.37.104/search?q=cache:z-G9M1EpvSUJ:ascii24.com/news/i/hard- /article/1998/10/01/612952-000.html+%E3%82%B9%E3%...&gt;. cited by other . | U.S. Appl. No. 10/814,845, filed Mar. 30, 2004. cited by other . | U.S. Appl. No. 09/714,785, filed Nov. 15, 2000. cited by other . | European Search Report, EP 04255836, Sep. 12, 2006, 4 pages. cited by other . | Hecht, D.L., &quot;Printed Embedded Data Graphical User Interfaces,&quot; Computer, Mar. 2001, pp. 47-55, vol. 34, Issue 3. cited by other . | Lienhart, Rainer et al., &quot;Localizing And Segmenting Text In Images And Videos,&quot; IEEE Transactions On Circuits And Systems For Video Technology, Apr. 2002, pp. 256-268, vol. 12, No. 4. cited by other . | Graham, Jamey et al., &quot;A Paper-Based Interface for Video Browsing and Retrieval,&quot; IEEE International Conference on Multimedia and Expo (Jul. 6-9, 2003), vol. 2, P:II 749-752. cited by other . | &quot;Seiko Instruments USA, Inc.--Business and Home Office Products&quot; online, date unknown, Seiko Instruments USA, Inc., [retrieved on Jan. 25, 2005]. Retrieved from the Internet: &lt;URL: http://www.siibusinessproducts.com/products/link-ir-p-html&gt;. cited by other . | PostScript Language Document Structuring Conventions Specification, Version 3.0 (Sep. 25, 1992), Adobe Systems Incorporated. cited by other . | Erol, Berna et al, &quot;Retrieval Of Presentation Recordings With Digital Camera Images,&quot; IEE Conference On Computer Vision And Pattern Recognition (CVPR), Jun. 27-Jul. 2, 2004, 2 pages, Washington, D.C. cited by other . | U.S. Appl. No. 10/814,751, filed Mar. 30, 2004. cited by other . | Configuring A Printer (NT), Oxford Computer Support [online] [Retrieved on Nov. 13, 2003] Retrieved from the Internet&lt;URL: http://www.nox.ac.uk/cehoxford/ccs/facilities/printers/confignt.htm&gt;. cited by other . | Stifelman, L. et al., &quot;The Audio Notebook,&quot; SIGCHI 2001, Mar. 31-Apr. 5, 2001, pp. 182-189, vol. 3, No. 1, Seattle, WA. cited by other . | Srihari, S.N. et al., &quot;Name And Address Block Reader System For Tax Form Processing,&quot; IEEE, 1995, pp. 5-10. cited by other . | Otsu, N., &quot;A Threshold Selection method From Gray-Level Histograms,&quot; IEEE Transactions on Systems, Man and Cybermetics, Jan. 1979, pp. 62-66, vol. SMC-9, No. 1. cited by other . | Variety of Media In, Print Paper Out by Epson, [online] [Retrieved on Nov. 11, 2003]. Retrieved from the Internet&lt;URL: http://www.i-love-epson.co.jp/products/spc/pma850/pma8503.htm&gt;. cited by other . | Graham, Jamey et al., &quot;Video Paper: A Paper-Based Interface for Skimming and Watching Video,&quot; International Conference on Consumer Electronics (Jun. 16-18, 2002), pp. 214-215. cited by other . | U.S. Appl. No. 10/813,847, filed Mar. 30, 2004. cited by other . | Gropp, W. et al., &quot;Using MPI: Portable Parallel Programming with the Message-Passing Interface,&quot; 1999, pp. 35-42, second edition, MIT Press. cited by other . | Brown et al., &quot;A Diary Study Of Information Capture In Working Life,&quot; Proceedings Of ACM CHI 2000 Conference On Human Factors In Computing Systems, 2000, pp. 438-445, vol. 1. cited by other . | European Search Report, EP 04255839, Sep. 4, 2006, 3 pages. cited by other . | Print Images Plus Barcode by Fuji Xerox, [online] [Retrieved on Nov. 11, 2003]. Retrieved from the Internet&lt;URL: http://www.fujixerox.co.jp/soft/cardgear/release.html&gt;. cited by other . | U.S. Appl. No. 10/814,948, filed Mar. 30, 2004. cited by other . | Communication Pursuant to Article 96(2) EPC, European Application No. 04255836.1, Jun. 11, 2007, 10 pages. cited by other . | Arai, T. et al., &quot;PaperLink: A Technique for Hyperlinking from Real Paper to Electronic Content,&quot; CHI 97, Atlanta, GA, Mar. 22-27, 1997, pp. 327-334. cited by other . | Printer With CD/DVD Tray, Print CD/DVD Label by Epson, [online] [Retrieved on Nov. 11, 2003]. Retrieved from the Internet&lt;URL: http://www.i-love-epson.co.jp/products/printer/inkjet/pmd750/pmd7503.htm&amp;- gt;. cited by other . | Chinese Application No. 2004100897988 Office Action, Apr. 6, 2007, 8 pages. cited by other . | &quot;DocumentMall Secure Document Management&quot; [online] [Retrieved on Mar. 9, 2004). Retrieved from the Internet&quot; &lt;URL: http://www.documentmall.com&gt;. cited by other . | Dimitrova, N. et al., &quot;Applications of Video-Content Analysis and Retrieval,&quot; IEEE Multimedia, Jul.-Sep. 2002, pp. 42-55. cited by other . | R200 ScanTalk [online] (date unknown). Retrieved from the Internet&lt;URL: http://homepage2.nifty.com/vasolza/ScanTalk.htm&gt;. cited by other . | &quot;Kofax: Ascent Capture: Overview&quot; [online] [Retrieved on Jan. 22, 2004]. Retrieved form the Internet: &lt;URL http://www.kofax.com/products/ascent/capture&gt;. cited by other . | European Search Report, EP 04255837, Sep. 5, 2006, 3 pages. cited by other . | U.S. Appl. No. 10/814,386, filed Mar. 30, 2004. cited by other . | U.S. Appl. No. 10/814,931, filed Mar. 30, 2004. cited by other . | Print From Cellular Phone by Canon, [online] [Retrieved on Nov. 11, 2003]. Retrieved from the Internet&lt;URL: http://cweb.canon.jp/bj/enjoy/pbeam/index.html&gt;. cited by other . | Klemmer, S.R. et al., &quot;Books With Voices: Paper Transcripts as a Tangible Interface to Oral Histories,&quot; CHI Letters, Apr. 5-10, 2003, pp. 89-96, vol. 5, Issue 1. cited by other . | Graham, J. et al., &quot;Video Paper: A Paper-Based Interface for Skimming and Watching Video,&quot; ICCE '02, Jun. 18-20, 2002, pp. 214-215. cited by other . | Erol, Berna et al., &quot;Prescient Paper: Multimedia Document Creation With Document Image Matching,&quot; 17.sup.th International Conference On Pattern Recognition, Aug. 2004, 4 pages, Cambridge, U.K. cited by other . | European Search Report, EP 04255840, Sep. 12, 2006, 3 pages. cited by other . | Label Producer by Maxell, [online] [Retrieved on Nov. 11, 2003]. Retrieved from the Internet&lt;URL: http://www.maxell.co.jp/products/consumer/rabel.sub.--card/&gt;. cited by other . | Poon, K.M. et al., &quot;Performance Analysis of Median Filtering on Meiko.TM.--A Distributed Multiprocessor System,&quot; IEEE First International Conference on Algorithms and Architectures for Parallel Processing, 1995, pp. 631-639. cited by other . | Karasik, D., Image Processing in Perl graphic applications, Google Apr. 2, 2003, pp. 1-12. cited by other . | Dorai, C. et al., &quot;End-to-End VideoText Recognition for Multimedia Content Analysis,&quot; IEEE, International Conference on Multimedia and Expo, Aug. 2001, pp. 601-604. cited by other . | Minami, K. et al., &quot;Video Handling with Music and Speech Detection,&quot; IEEE Multimedia, Jul.-Sep. 1998, pp. 17-25. cited by other . | Print Scan-Talk By Barcode by Epson, [online] [Retrieved on Nov. 11, 2003]. Retrieved from the Internet&lt;URL: http://www.epson.co.jp/osirase/2000/000217.htm&gt;. cited by other . | Shahraray, B. et al, &quot;Automated Authoring of Hypermedia Documents of Video Programs,&quot; ACM Multimedia '95 Electronic Proceedings, San Francisco, CA, Nov. 5-9, 1995, pp. 1-12. cited by other . | Movie-PhotoPrint by Canon, [online] [Retrieved on Nov. 11, 2003]. Retrieved from the Internet&lt;URL: http://cweb.canon.jp/hps/guide/rimless.html&gt;. cited by other . | U.S. Appl. No. 10/814,500, filed Mar. 30, 2004. cited by other . | Graham, Jamey et al., &quot;The Video Paper Multimedia Playback System,&quot; Proceedings of the 11.sup.th ACM International Conference on Multimedia (Nov. 2003), pp. 94-95. cited by other . | Lamming, M. et al., &quot;Using Automatically Generated Descriptions of Human Activity to Index Multi-media Data,&quot; IEEE Multimedia Communications and Applications IEE Colloquium, Feb. 7, 1991, pp. 5/1-5/3. cited by other. | U.S. Appl. No. 10/814,932, filed Mar. 30, 2004. cited by other . | Gopal, S. et al., &quot;Load Balancing in a Heterogeneous Computing Environment,&quot; Proceedings of the Thirty-First Hawaii International Conference on System Sciences, Jan. 6-9, 1998. cited by other .
+	</str>
+	<str name="Other References Count">
+		62
+	</str>
+	<str name="Cited By">
+		US8373905 | US7933454
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US6502114 | US20020004807 | US7228492 | US20020023957 | US4998215 | US5884056 | US5793869 | US20020137544 | US7215436 | US5386510 | US6665092 | US20020011518 | US5682330 | US20060136343 | US6946672 | US4881135 | US5938727 | US20050213153 | US20040036842 | US5945998 | US20040143459 | US5576950 | US5617138 | US6006241 | US6360057 | US5940776 | US20010003846 | US5624265 | US5436792 | US20020010641 | US5444476 | US20020135800 | US6373498 | US6476793 | US20040207876 | US20040118908 | US5572651 | US6966495 | US6378070 | US20060171559 | US20030177240 | US6138151 | US7298512 | US20040249650 | US5661506 | US7023459 | US20040024643 | US20030117652 | US4437378 | US7000193 | US6307956 | US6807303 | US6587859 | US20020099534 | US20070268164 | US6724494 | US20060043193 | US5170935 | US20080037043 | US20020101513 | US20030187642 | US20050038794 | US7263671 | US20030110926 | US20020165769 | US7149957 | US20020131071 | US5661783 | US6302527 | US6775651 | US20040229195 | US5764368 | US6728466 | US6193658 | US4619522 | US4831610 | US7075676 | US6750978 | US5987226 | US20030014615 | US6898709 | US20030160898 | US5596698 | US6115718 | US6466534 | US6502756 | US20020015066 | US5845144 | US6123258 | US5749735 | US6964374 | US5962839 | US5237648 | US20040128613 | US4635132 | US6098106 | US4754485 | US6038567 | US6297851 | US6625334 | US20050083413 | US20030007776 | US20010017714 | US6256638 | US6687383 | US20010037408 | US5640193 | US7152206 | US5493409 | US6125229 | US5270989 | US5999173 | US20030231198 | US6081261 | US7089420 | US20050064935 | US20020066782 | US6938202 | US5627936 | US20050125717 | US20040039723 | US6369811 | US20030038971 | US6745234 | US7162690 | US6871780 | US6417435 | US4133007 | US5231698 | US5093730 | US6442336 | US6504620 | US5059126 | US6373585 | US7263659 | US5136563 | US6771283 | US7151613 | US20020159637 | US5706097 | US6701369 | US20040049681 | US6020916 | US5717841 | US20030025951 | US5590257 | US6296693 | US4907973 | US6774951 | US20010052942 | US6647534 | US6148094 | US6886750 | US5949879 | US6647535 | US20050216852 | US20030002068 | US6772947 | US20070033419 | US6883162 | US6556241 | US6593860 | US5568406 | US5690496 | US20040125402 | US6753883 | US7174151 | US20020067503 | US6519360 | US20070065094 | US6308887 | US6950623 | US5936542 | US7181502 | US6421738 | US6568595 | US20030084462 | US6152369 | US20030024975 | US6199042 | US6000030 | US5628684 | US5682540 | US6544294 | US7092568 | US5729665 | US5343251 | US20020006100 | US6297812 | US6375298 | US5581366 | US6175489 | US5480306 | US20020169849 | US6824044 | US7079278 | US7031965 | US5091948 | US20050216838 | US20020199149 | US6983482 | US20020060748 | US7134016 | US6106457 | US5774260 | US6476834 | US6674538 | US20050149849 | US7131058 | US20030088582 | US20030093384 | US6904168 | US6515756 | US6330976 | US5115967 | US20020134699 | US20040143602 | US20020001101 | US6167033 | US6877134 | US6118888 | US6153667 | US6529920 | US6892193 | US6931594 | US20040184064 | US5941936 | US5633723 | US6076733 | US20030051214 | US6076734 | US6535639 | US20040044894 | US20050068581 | US5974189 | US20040156616 | US6923721 | US5903538 | US7196808 | USD468277 | US20020095501 | US6439465 | US20020185533 | US20030076521 | US20020087598 | US20030128877 | US6845913 | US4734898 | US4807186 | US20020051010 | US5432532 | US20040128514 | US20040215470 | US4205780 | US20040167895 | US7280738 | US20030065925 | US20030220988 | US20020048224 | US5220649 | US6594377 | US6853980 | US20020171857 | US5438426 | US5804803 | US6452615 | US6111567 | US6611276 | US20020140993 | US5479600 | US6581070 | US20040240541 | US6043904 | US5721883 | US6552743 | US6678389 | US6298145 | US6654887 | US6611628 | US5485554 | US20050068569 | US6108656 | US6611622 | WO1999018523 | CN1352765 | WO2002082316 | CA2386829 | CN1097394 | EP1133170
+	</str>
+	<str name="Cites Count">
+		289
+	</str>
+	<str name="Priority Country">
+		US | US | US | US
+	</str>
+	<str name="Priority Number">
+		3151605 | 81395004 | 50630303 | 50630203
+	</str>
+	<str name="Priority Date">
+		2005-01-07 | 2004-03-30 | 2003-09-25 | 2003-09-25
+	</str>
+	<str name="Assignee(s)">
+		RICOH CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		RICOH CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		EROL, BERNA | HULL, JONATHAN, J. | LEE, DAR-SHYANG | WOLFF, GREGORY, J.
+	</str>
+	<str name="1st Inventor">
+		EROL, BERNA
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Cupertino, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Cupertino, CA | San, Carlos, CA | Union, City, CA | Redwood, City, CA
+	</str>
+	<str name="Agent/Attorney">
+		FENWICK &amp; WEST LLP
+	</str>
+	<str name="Primary Examiner">
+		LEE, THOMAS D
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

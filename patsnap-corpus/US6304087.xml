@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6304087
+	</str>
+	<str name="Application Number">
+		US09654715
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Apparatus for calibrating electronic battery tester
+	</str>
+	<str name="Abstract">
+		A calibration fixture is provided for calibrating an electronic battery tester which has first and second battery tester Kelvin connections configured to couple to terminals of a battery. The calibration fixture includes a first Kelvin connection has an A' terminal and a C' terminal configured to couple to the first battery tester Kelvin connection and a second Kelvin connection having a B' terminal and a D' terminal configured to couple to the second battery tester Kelvin connection. A calibrated shunt is in series with a power supply connected between the A' terminal of the first Kelvin connection and the B' terminal of the second Kelvin connection. The calibrated shunt has a calibrated resistance value. An active shunt is placed in series between the C' terminal of the first Kelvin connection and the D' terminal of the second Kelvin connection. The active shunt provides a calibrated apparent resistance between the C' and D' terminal which is a function of the calibrated resistance value of the calibrated shunt.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-09-05
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-09
+	</str>
+	<str name="Publication Date">
+		2001-10-16
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-10
+	</str>
+	<str name="All IPC">
+		H01J7/00 | G01N27/416
+	</str>
+	<str name="IPC Primary">
+		H01J7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01J
+	</str>
+	<str name="IPC Group">
+		H01J7
+	</str>
+	<str name="All UPC">
+		324/426 | 320/132 | 324/433
+	</str>
+	<str name="UPC Primary">
+		324/426
+	</str>
+	<str name="UPC Class">
+		324
+	</str>
+	<str name="Family Members">
+		US6304087
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References">
+		&quot;Battery Impedance&quot;, by E. Willihnganz et al., Electrical Engineering, Sep. 1959, pp. 922-925. | &quot;Field and Laboratory Studies to Assess the State of Health of Valve-Regulated Lead Acid Batteries: Part I Conductance/Capacity Correlation Studies&quot;, by D. Feder et al., IEEE, Aug. 1992, pp. 218-233. | &quot;JIS Japanese Industrial Standard-Lead Acid Batteries for Automobiles&quot;, Japanese Standard Association UDC, 621.355.2:629.113.006, Nov. 1995. | &quot;A Package for Impedance/Admittance Data Analysis&quot;, by B. Boukamp, Solid State Ionics, 1986, pp. 136-140. | &quot;A Look at the Impedence of a Cell&quot;, by S. Debardelaben, IEEE, 1988, pp. 394-397. | &quot;Precision of Impedance Spectroscopy Estimates of Bulk, Reaction Rate, and Diffusion Parameters&quot;, by J. Macdonald et al., J. Electroanal, Chem., 1991, pp.1-11. | &quot;A Bridge for Measuring Storage Battery Resistance&quot;, by E. Willihncanz, The Electrochemical Society, preprint 79-20, Apr. 1941, pp. 253-258. | &quot;Determining The End of Battery Life&quot;, by S. DeBardelaben, IEEE, 1986, pp. 365-368. | Internal Resistance: Harbinger of Capacity Loss in Starved Electrolyte Sealed Lead Acid Batteries, by Vaccaro, F. J. et al., AT&amp;T Bell Laboratories, 1987 IEEE, Ch. 2477, pp. 128,131. | &quot;The Impedance of Electrical Storage Cells&quot;, by N. A. Hampson et al., Journal of Applied Electrochemistry, 1980, pp.3-11. | &quot;Electrochemical Impedance Spectroscopy in Battery Development and Testing&quot;, Batteries International, Apr. 1997, pp. 59 and 62-63. | &quot;Performance of Dry Cells&quot;, by C. Hambuechen, Preprint of Am. Electrochem. Soc., Apr. 18-20, 1912, paper No. 19, pp.1-5. | IEEE Recommended Practice For Maintenance, Testings, and Replacement of Large Lead Storage Batteries for Generating Stations and Substations, The Institute of Electrical and Electronics Engineers, Inc., ANSI/IEEE Std. 450-1987, Mar. 9, 1987, pp.7-15.
+	</str>
+	<str name="Other References Count">
+		13
+	</str>
+	<str name="Cited By">
+		US7598699 | US7777612 | US7999505 | CN101718849B | US7723993 | US8198900 | US8164343 | US8203345 | US6466026 | US7728597 | US7791348 | US7656162 | US7924015 | US7940052 | US7940053
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US6137269 | US5281919 | US5705929 | US6037777 | US5872443 | US5032825 | US5650937 | US5336993 | US5572136 | US5451881 | US5449996 | US4315204 | US5449997 | US4392101 | US4849700 | US6051976 | US3969667 | US6009369 | US4719428 | US4008619 | US5179335 | US5204611 | US4112351 | US5945829 | US4178546 | US3676770 | US6002238 | US5675234 | US4707795 | US4745349 | US5701089 | US5677077 | US4424491 | US5583416 | US5140269 | US5596260 | US5295078 | US5302902 | US6094033 | US5585728 | US6091245 | US4459548 | US3811089 | US5773978 | US4968941 | US4968942 | US5914605 | US5642031 | US3356936 | US5528148 | US5717937 | US4126874 | US3906329 | US6081098 | US4053824 | US5343380 | US5170124 | US5606242 | US5589757 | US6172505 | US3936744 | US5699050 | US3607673 | US5831435 | US5126675 | US3889248 | US3886443 | US4396880 | US5592093 | US2514745 | US4816768 | US5144218 | US4363407 | US3753094 | US5808469 | US4697134 | US6072299 | US4408157 | US3873911 | US5214385 | US4193025 | US6072300 | US5331268 | US5281920 | US5434495 | US5621298 | US3989544 | US4412169 | US5862515 | US5298797 | US5442274 | US5254952 | US5656920 | US5469043 | US6008652 | US5574355 | US5426371 | US6163156 | US5519383 | US5381096 | US3984762 | US5144248 | US5432426 | US4322685 | US5315287 | US4876495 | US5550485 | US5488300 | US3984768 | US4937528 | US5561380 | US4947124 | US4086531 | US5214370 | US3593099 | US6172483 | US5710503 | US4316185 | US4931738 | US5365160 | US5300874 | US4881038 | US5457377 | US5821756 | US3808522 | US5365453 | US4114083 | US4369407 | US4207611 | US5602462 | US5562501 | US5757192 | US5793359 | US3729989 | US6037751 | US5546317 | US3909708 | US4679000 | US5241275 | US5652501 | US4929931 | US5352968 | US4070624 | US5047722 | US4678998 | US5004979 | US6104167 | US6031354 | US4423379 | US4520353 | US4423378 | US4514694 | US3979664 | US5266880 | US5598098 | US5789899 | US4820966 | US3946299 | US4710861 | US4956597 | US5485090 | US4709202 | US4825170 | US4379990 | US4667279 | US4912416 | US4743855 | US3947757 | US5929609 | US3562634 | US5760587 | US4390828 | US5087881 | US5717336 | JP1984017892 | EP0022450A1 | JP1984017894 | JP1995128414 | JP1984017893 | DE2926716B1 | JP19932166550 | JP1991282276 | FR2749397 | JP1991274479 | WO1998058270 | JP1992372536 | EP0637754A1 | GB2088159 | JP19309017894 | EP0772056A1 | JP1987180284 | WO1993022666 | JP1992131779 | JP1984245674 | JP1985225078
+	</str>
+	<str name="Cites Count">
+		195
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		65471500
+	</str>
+	<str name="Priority Date">
+		2000-09-05
+	</str>
+	<str name="Assignee(s)">
+		MIDTRONICS, INC.
+	</str>
+	<str name="1st Assignee">
+		MIDTRONICS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Willowbrook, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Willowbrook, IL
+	</str>
+	<str name="Inventor(s)">
+		BERTNESS, KEVIN, I.
+	</str>
+	<str name="1st Inventor">
+		BERTNESS, KEVIN, I.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Batavia, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Batavia, IL
+	</str>
+	<str name="Agent/Attorney">
+		WESTMAN, CHAMPLIN &amp; KELLY, P.A.
+	</str>
+	<str name="Primary Examiner">
+		WONG, PETER S.
+	</str>
+	<str name="Assistant Examiner">
+		TOATLEY, JR., GREGORY J
+	</str>
+	<str name="cited by within 3 years">
+		54
+	</str>
+	<str name="cited by within 5 years">
+		72
+	</str>
+</doc>
+

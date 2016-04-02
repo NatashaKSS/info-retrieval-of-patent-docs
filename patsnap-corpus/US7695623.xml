@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7695623
+	</str>
+	<str name="Application Number">
+		US12008216
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System and method for enhancing an activated sludge process
+	</str>
+	<str name="Abstract">
+		A system for enhancing an activated sludge process that includes at least one aeration tank subsystem for receiving a flow a wastewater and for introducing dissolved oxygen to a population of microorganisms to promote growth of biological flocs in a mixed liquor defined by a concentration of mixed liquor suspended solids. A weighting agent impregnation subsystem includes an impregnation tank for mixing the mixed liquor, virgin weighting agent, and recycled weighting agent to impregnate the weighting agent into biological flocs suspended in the mixed liquor to form weighted biological flocs. A flocculant injection port located downstream from at least one aeration tank for introducing a flocculant to the mixed liquor for enhancing settling and thickening of the weighted biological flocs and for providing agglomeration of non-impregnated biological flocs and/or partially impregnated biological flocs with weighted biological flocs. At least one clarifier separates and collects the weighted biological flocs from the mixed liquor to provide a secondary effluent and a settled sludge. A return activated sludge subsystem recycles the majority of the settled sludge to the at least one aeration tank. A weighting agent recovery subsystem removes and shears the remaining settled sludge and recovers the weighting agent therefrom and reintroduces the weighting agent to the at least one aeration tank. A wasting subsystem wastes the remaining sludge of the weight agent recovery subsystem to control the population of the microorganisms in the mixed liquor.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-01-09
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-01
+	</str>
+	<str name="Publication Date">
+		2010-04-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/532.1 | 210/620 | 210/695 | 210/205 | 210/723 | 210/220 | 210/209
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Sakai et al., &quot;Magnetic Forced Sedimentation of Flocs in Activated Sludge Supplemented with Ferromagnetic Powder of Iron Oxide,&quot; 1991, Journal of Fermentation and Bioengineering, vol. 71, No. 3, pp. 208-210. cited by other . | Sakai et al., &quot;A Sewage Treatment Process Using Highly Condensed Activated Sludge with an Apparatus for Magnetic Separation,&quot; 1994, Journal of Fermentation and Bioengineering, vol. 78, No. 1, pp. 120-122. cited by other . | Sakai et al., &quot;Sewage Treatment under Conditions of Balancing Microbial Growth and Cell Decay with a High Concentration of Activated Sludge Supplemented with Ferromagnetic Powder,&quot; 1992, Journal of Fermentation and Bioengineering, vol. 74, No. 6, pp. 413-415. cited by other . | Kolm et al., High Gradient Magnetic Separation, Scientific American, Nov. 1975, vol. 233, No. 5, 10 pages (unnumbered). cited by other. | Sakai et al., &quot;Recovery and Reuse of Ferromagnetic Powder Supplemented in Activated Sludge for Magnetic Separation,&quot; Dept. of Applied Chemistry, Faculty of Engineering, Utsunomiya University, Japan, Submitted: Jun. 28, 1991; Accepted: Oct. 22, 1991, pp. 1-11. Japanese language original (pp. 52-56), and translated English language copy (pp. 1-11). cited by other . | Sakai et al., &quot;Simultaneous Removal of Organic and Nitrogen Compounds in Intermittently Aerated Activated Sludge Process Using Magnetic Separation,&quot; 1997, Technical Note Wat. Res., vol. 31, No. 8, pp. 2113-2116. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3617561 | US4654139 | US2713028 | US7153431 | US2129267 | US3142638 | US4849128 | US3697420 | US5023012 | US4377483 | US2825464 | US2359748 | US2268461 | US3959133 | US4153559 | US4689154 | US4579655 | US4167480 | US4882064 | US5369072 | US6010631 | US5266200 | US5560493 | US4290898 | US4190539 | US3228878 | US4357237 | US6099738 | US3951807 | US2065123 | US0531183 | US4765908 | US4872993 | US5112494 | US4765900 | US3983033 | US7255793 | US3575852 | US20080135491 | US4139456 | US5597479 | US5730864 | US3767351 | US5397476 | US4402833 | US6896815 | US5616250 | US4735725 | US4465597 | US4151090 | US5395527 | US20080073267 | US3350302 | US20080073268 | US5064531 | US5234603 | US4388195 | US3676337 | US20070039894 | US4320012 | US3886064 | US6228269 | US2652925 | US20080164183 | US20080164184 | US5779908 | US20080073282 | US20080073283 | US20080073284 | US0438579 | US2391494 | US20080073280 | US0653010 | US20080073281 | US5800717 | US4142970 | US4783265 | US20080210613 | US4502958 | US5149438 | US20080073271 | US4274968 | US2232294 | US2232296 | US6960294 | US4089779 | US5009791 | US2401924 | US6210587 | US4193866 | US4110208 | US4927543 | US4981593 | US20080073279 | US20080073278 | US5840195 | US4940550 | EP0087223 | EP0139572 | WO2008039936 | WO2008022192 | FR2378550 | FR1411792
+	</str>
+	<str name="Cites Count">
+		103
+	</str>
+	<str name="Assignee(s)">
+		CAMBRIDGE WATER TECHNOLOGY, INC.
+	</str>
+	<str name="1st Assignee">
+		CAMBRIDGE WATER TECHNOLOGY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Cambridge, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Cambridge, MA
+	</str>
+	<str name="Inventor(s)">
+		WOODARD, STEVEN | MARSTON, PETER, G. | WECHSLER, IONEL
+	</str>
+	<str name="1st Inventor">
+		WOODARD, STEVEN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Cumberland, ME
+	</str>
+	<str name="Inventor(s) Address">
+		Cumberland, ME | Ipswich, MA | Framingham, MA
+	</str>
+	<str name="Agent/Attorney">
+		IANDIORIO TESKA &amp; COLEMAN
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

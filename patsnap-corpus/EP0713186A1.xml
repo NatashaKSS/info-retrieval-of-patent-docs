@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP0713186A1
+	</str>
+	<str name="Application Number">
+		EP1995308124
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Image retrieval method and apparatus
+	</str>
+	<str name="Abstract">
+		An image retrieval method and apparatus for searching a plurality of images stored in an image file for a desired image are disclosed. When a designated image for designating an image to be retrieved for is input, and its color is designated, the sizes and colors are compared between description information which stores the feature of each of regions obtained by dividing each of images to be searched stored in the image file, and feature data of the designated image. In this manner, the regions, which are determined to be included in the designated image, of image data are obtained, and the similarities between the obtained regions of image data and the designated image are calculated. Image data having higher similarities are read out from the image file, and are displayed while being sorted in the descending order from the highest similarity.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-11-14
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-11
+	</str>
+	<str name="Publication Date">
+		1996-05-22
+	</str>
+	<str name="Publication Year">
+		1996
+	</str>
+	<str name="Publication(Year/Month)">
+		1996-05
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="Family Members">
+		DE69535098D1 | US6181818B1 | EP0713186B1 | US6246804B1 | US6246804 | EP0713186A1 | DE69535098T2
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		25
+	</str>
+	<str name="Other References">
+		NEC RESEARCH AND DEVELOPMENT, OCT. 1994, JAPAN, vol. 35, no. 4, ISSN 0547-051X, pages 410-420, HIRATA K ET AL  'The concept of media-based navigation and its implementation on hypermedia system &quot;Miyabi&quot;' | NEC RESEARCH AND DEVELOPMENT, vol. 34, no. 2, 1 April 1993 pages 263-273, XP 000322020 KYOJI HIRATA ET AL  'ROUGH SKETCH-BASED IMAGE INFORMATION RETRIEVAL' | PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON MULTIMEDIA COMPUTING AND SYSTEMS (CAT. NO.94TH0631-2), PROCEEDINGS OF IEEE INTERNATIONAL CONFERENCE ON MULTIMEDIA COMPUTING AND SYSTEMS, BOSTON, MA, USA, 15-19 MAY 1994, ISBN 0-8186-5530-5, 1994, LOS ALAMITOS, CA, USA, IEEE COMPUT. SOC. PRESS, USA, pages 121-130, YIHONG GONG ET AL  'An image database system with content capturing and fast image indexing abilities' | PROCEEDINGS ICIP-94 (CAT. NO.94CH35708), PROCEEDINGS OF 1ST INTERNATIONAL CONFERENCE ON IMAGE PROCESSING, AUSTIN, TX, USA, 13-16 NOV. 1994, ISBN 0-8186-6952-7, 1994, LOS ALAMITOS, CA, USA, IEEE COMPUT. SOC. PRESS, USA, pages 76-80 vol.2, LEE D ET AL  'Query by image content using multiple objects and multiple features: user interface issues' | INFORMATION SYSTEMS, OCT. 1993, UK, vol. 18, no. 7, ISSN 0306-4379, pages 525-537, GARY J E ET AL  'Similar shape retrieval using a structural feature index'
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By">
+		FR2857130A1 | EP1494136A1 | EP1040403B1 | CN100388279C | CN1577392A | EP1292904A1 | WO2001009833A2 | WO2000002111A2
+	</str>
+	<str name="Cited By Count">
+		8
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		1378195 | 122495 | 1069395 | 28049594 | 492695
+	</str>
+	<str name="Priority Date">
+		1995-01-31 | 1995-01-09 | 1995-01-26 | 1994-11-15 | 1995-01-17
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		SATO, HIROAKI | BANNAI, YUICHI | OKAZAKI, HIROSHI | YOSHITANI, AKIHIRO | TSUJIMURA, KAZUKO
+	</str>
+	<str name="1st Inventor">
+		SATO, HIROAKI
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Canon, K.K.
+	</str>
+	<str name="Inventor(s) Address">
+		Canon, K.K.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

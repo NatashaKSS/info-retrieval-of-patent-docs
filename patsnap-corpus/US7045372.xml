@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7045372
+	</str>
+	<str name="Application Number">
+		US10632652
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for forming a battery in an integrated circuit
+	</str>
+	<str name="Abstract">
+		A method and structure that provides a battery within an integrated circuit for providing voltage to low-current electronic devices that exist within the integrated circuit. The method includes Front-End-Of-Line (FEOL) processing for generating a layer of electronic devices on a semiconductor wafer, followed by Back-End-Of-Line (BEOL) integration for wires connecting the electronic devices together to form completed electrical circuits of the integrated circuit. The BEOL integration includes forming a multilayered structure of wiring levels on the layer of electronic devices. Each wiring level includes conductive metallization (e.g., metal-plated vias, conductive wiring lines, etc.) embedded in insulative material. The battery is formed during BEOL integration within one or more wiring levels, and the conductive metallization conductively couples positive and negative terminals of the battery to the electronic devices. The battery may have several different topologies relative to the structural and geometrical relationships among the battery electrodes and electrolyte. Multiple batteries may be formed within one or more wiring levels, and may be conductively coupled to the electronic devices. The multiple batteries may be connected in series or in parallel.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-08-02
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-08
+	</str>
+	<str name="Publication Date">
+		2006-05-16
+	</str>
+	<str name="Publication Year">
+		2006
+	</str>
+	<str name="Publication(Year/Month)">
+		2006-05
+	</str>
+	<str name="All IPC">
+		H01L21/00
+	</str>
+	<str name="IPC Primary">
+		H01L21/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01L
+	</str>
+	<str name="IPC Group">
+		H01L21
+	</str>
+	<str name="All UPC">
+		438/618 | 438/19 | 438/624
+	</str>
+	<str name="UPC Primary">
+		438/618
+	</str>
+	<str name="UPC Class">
+		438
+	</str>
+	<str name="Family Members">
+		TW245411B | GB2399451B | GB2399451A | GB0318083D0 | JP2004523860A | CN1486511A | US20020093029A1 | US20040021201A1 | US6650000 | US7045372 | CN1286171C | WO2002058148A1 | CA2434875A1 | IL156927D0
+	</str>
+	<str name="Family Member Count">
+		14
+	</str>
+	<str name="Family Members Cited By Count">
+		23
+	</str>
+	<str name="Other References">
+		Park et al., &quot;All-Solid-State Lithium Thin-Film Rechargeable Battery With Lithium Manganese Oxide,&quot;; Electrochemical and Solid State Letters V2 N2 Feb. 1999 p. 58-59. cited by other . | T.A. Kuku, &quot;ION Transport Studies on Vacuum Deposited PbSnI4 Thin Films,&quot;; Thin Solid Films V 340 N1 1999 p. 292-296. cited by other . | Gregor, L.V., &quot;Thin Film Voltage Source,&quot;; IBM Technical Disclosure Bulletin, Nov. 1964, p. 433. cited by other. | Lee et al., &quot;All-Solid-State Rocking Chair Lithium Battery on a Flexible Al Substrate,&quot;; Electrochemical and Solid State Letters V2 N9 Sep. 1999 p. 425-427. cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		US7993773 | US8062708 | US8197781 | US7959769 | US8236443 | US8260203 | US8268488 | US8350519 | US8021778
+	</str>
+	<str name="Cited By Count">
+		9
+	</str>
+	<str name="Cites">
+		US5976928 | US5455126 | US6610440 | US4789648 | US5705293 | US5512147 | US5561004 | US6924164 | US5338625 | US5965459 | US5960254 | US20010000744 | US6264709 | US5308720 | US5567210 | US5759911 | US4878094 | US5864182 | JP2000188113
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		63265203 | 76112301
+	</str>
+	<str name="Priority Date">
+		2003-08-02 | 2001-01-16
+	</str>
+	<str name="Assignee(s)">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Armonk, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Armonk, NY
+	</str>
+	<str name="Inventor(s)">
+		BALLANTINE, ARNE, W. | GROVES, ROBERT, A. | LUND, JENNIFER, L. | NAKOS, JAMES, S. | RICE, MICHAEL, B. | STAMPER, ANTHONY, K.
+	</str>
+	<str name="1st Inventor">
+		BALLANTINE, ARNE, W.
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Round, Lake, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Round, Lake, NY | Highland, NY | Amawalk, NY | Essex, VT | Colchester, VT | Williston, VT
+	</str>
+	<str name="Agent/Attorney">
+		SCHMEISER, OLSEN &amp; WATTS STEINBERG, WILLIAM H.
+	</str>
+	<str name="Primary Examiner">
+		TSAI, H. JEY
+	</str>
+	<str name="cited by within 3 years">
+		6
+	</str>
+	<str name="cited by within 5 years">
+		8
+	</str>
+</doc>
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7678235
+	</str>
+	<str name="Application Number">
+		US11255083
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water purification system
+	</str>
+	<str name="Abstract">
+		Embodiments of the invention provide systems and methods for water purification. The systems have a preheater, a degasser, an evaporation chamber, a demister, and a control system, wherein the control system permits operation of the purification system through repeated cycles without requiring user intervention or cleaning. The system is capable of removing, from a contaminated water sample, a plurality of contaminant types including: microbiological contaminants, radiological contaminants, metals, salts, volatile organics, and non-volatile organics.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-10-19
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-10
+	</str>
+	<str name="Publication Date">
+		2010-03-16
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-03
+	</str>
+	<str name="All IPC">
+		C02F1/20 | B01D3/42 | C02F1/04
+	</str>
+	<str name="IPC Primary">
+		C02F1/20
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/87 | 96/156 | 202/160 | 202/176 | 202/185.2 | 202/197 | 96/188 | 210/90 | 159/DIG.2 | 159/44
+	</str>
+	<str name="UPC Primary">
+		210/87
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Response to Office Action for Mexican Application No. PA/a/2006/006229, 3 pages (Jan. 8, 2009). cited by other . | Response to Office Action for Mexican Application No. PA/a/2006/006227, 3 pages (dated Jan. 7, 2009). cited by other . | U.S. Appl. No. 60/778,680, filed Mar. 3, 2006, Thiers. cited by other . | U.S. Appl. No. 11/444,912, filed May 31, 2006, Lum et al. cited by other . | International Search Report and the Written Opinion of the International Searching Authority, 1 page in International Application No. PCT/US04/39993 (dated Apr. 18, 2005). cited by other . | International Search Report and the Written Opinion of the International Searching Authority, 7 pages in International Application No. PCT/US07/005270 (dated Sep. 2, 2007). cited by other . | International Search Report and the Written Opinion of the International Searching Authority, 9 pages in International Application No. PCT/US06/15859 (dated Jun. 5, 2007). cited by other . | Office Action issued in Mexican Application No. PA/a/2006/006227, 3 pages (dated Aug. 18, 2008). cited by other . | International Search Report and the Written Opinion of the International Searching Authority, 5 pages in 47 International Application No. PCT/US04/39991 (dated Apr. 19, 2005). cited by other . | U.S. Appl. No. 60/779,201, filed Mar. 30, 2006, Deep et al. cited by other . | U.S. Appl. No. 60/697,106, filed Jul. 6, 2005, Thiers. cited by other . | Response to Office ActiOn for U.S. Appl. No. 11/444,912, 11 pages (dated Oct. 29, 2009). cited by other. | Williams, R., &quot;The Geometrical Foundation of Natural Structure: A Sourcebook of Design,&quot; New York, Dover (1979). cited by other . | Response to Office Action for European Application No. 04812500.9, 15 pages (dated Jun. 7, 2008). cited by other . | US. Appl. No. 60/697,104, filed Jul. 6, 2005, Thiers. cited by other . | International Search Report and the Written Opinion of the International Searching Authority, 7 pages in international Application No. PCT/US08/03744 (dated Jun. 25, 2008). cited by other . | Office Action issued in European Application No. 04812499.4, 4 pages (dated Jul. 8, 2009). cited by other . | Office Action issued in U.S. Appl. No. 11/444,912, 16 pages (dated May 29, 2009). cited by other . | U.S. Appl. No. 60/697,107, filed Jul. 6, 2005, Lum et al. cited by other . | International Search Report and the Written Opinion of the International Searching Authority, 7 pages in International Application No. PCT/US06/040553 (dated Feb. 4, 2007). cited by other . | U.S. Appl. No. 11/444,911, filed May 31, 2006, Thom et al. cited by other . | Office Action issued in EP Application No. 04812500.9, 5 pages (dated Nov. 23, 2007). cited by other . | U.S. Appl. No. 60/727,106, filed Oct. 14, 2005, Demmons et al. cited by other . | International Search Report and the Written Opinion of the International Searching Authority,9 pages in International Application No. PCT/US06/40103 (dated Aug. 27, 2007). cited by other . | Supplemental Search Report for European Application No. 04812499.4, 5 pages (dated Feb. 11, 2008). cited by other . | Office Action issued in Chinese Application No. 200680024811.9, 6 pages (dated Sep. 25, 2009). cited by other . | U.S. Appl. No. 60/748,496, filed Dec. 7, 2005, Demmons et al. cited by other . | Office Action issued in Mexican Application No. PA/a/2006/006229, 3 pages (dated Aug. 26, 2008). cited by other . | International Search Report and the Written Opinion of the International Searching Authority, 8 pages in International Application No. PCT/US06/25994 (dated Mar. 15, 2007). cited by other . | Supplemental Search Report for European Application No. 04812500.9, 3 pages (dated Jun. 5, 2007). cited by other .
+	</str>
+	<str name="Other References Count">
+		30
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6406597 | US3860492 | US5355840 | US5021128 | US5536375 | US6294054 | US6689251 | US7465376 | US6506284 | US5059287 | US5211851 | US4342623 | US6582563 | US3350279 | US6830661 | US6436242 | US5614066 | US5348623 | US20040103786 | US20090101490 | US6663770 | US4818344 | US3805880 | US3935077 | US4110170 | US5522970 | US20070068791 | US6117275 | US3646906 | US6113860 | US6290891 | US6365005 | US5810895 | US4415075 | US4089662 | US4938868 | US4657639 | US6423187 | US3980526 | US6530307 | US20020074275 | US5609732 | US6881231 | US4698136 | US5932074 | US4943353 | US5286351 | US5286350 | US20070012556 | US4081331 | US5365920 | US5976387 | US4336825 | US5300197 | US5968321 | US6358371 | US3907683 | US5587055 | US5833812 | US6744978 | US5368698 | US3925176 | US5441606 | US5512142 | US5484510 | US20070017192 | US6113744 | US5074998 | US5232085 | US4198954 | US5729987 | US6030504 | US5435891 | US6428656 | US6009238 | US5575923 | US4234391 | WO2005006153 | WO2005006154 | JP2002022102 | WO2007103117 | EP1258524 | WO1993018834 | WO2007008491 | WO2007047443 | WO1999030797 | GB2022428 | JP1991000182 | CH671832 | GB1384390 | WO2006118912 | WO2007115578 | WO2007047674 | JP1979066378
+	</str>
+	<str name="Cites Count">
+		94
+	</str>
+	<str name="Assignee(s)">
+		SYLVAN SOURCE, INC.
+	</str>
+	<str name="1st Assignee">
+		SYLVAN SOURCE, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Carlos, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Carlos, CA
+	</str>
+	<str name="Inventor(s)">
+		DEEP, RICHARD, J. | THIERS, EUGENE | THOM, DOUGLAS, MICHAEL
+	</str>
+	<str name="1st Inventor">
+		DEEP, RICHARD, J.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Sunnyvale, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Sunnyvale, CA | San, Mateo, CA | Woodside, CA
+	</str>
+	<str name="Agent/Attorney">
+		DAVIS WRIGHT TREMAINE LLP
+	</str>
+	<str name="Primary Examiner">
+		MANOHARAN, VIRGINIA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

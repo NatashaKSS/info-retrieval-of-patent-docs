@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7698073
+	</str>
+	<str name="Application Number">
+		US12272018
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Anti-terrorism water quality monitoring system
+	</str>
+	<str name="Abstract">
+		An Anti-Terrorism water quality monitoring system for continuously monitoring a potable water treatment system and related potable water distribution network that provides potable water to a municipality, city, housing development or other potable water consumer. The system includes the collection of data from the water distribution system and from the water treatment facility and from advanced separation processes which are integrated into analytical instruments. The data collected are stored in a remote database on a remote server computer or bank of computers and accessible by Homeland Security or its designated agency. Preferred parameters of monitoring include the turbidity and disinfectant such as chlorine, hypochlorous acid, sodium hypochlorite, calcium hypochlorite, ozone, chlorine dioxide, chloramines, hydrogen peroxide, peracetic acid.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-11-17
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-11
+	</str>
+	<str name="Publication Date">
+		2010-04-13
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		G06F19/00
+	</str>
+	<str name="IPC Primary">
+		G06F19/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F19
+	</str>
+	<str name="All UPC">
+		702/188 | 210/680 | 702/30 | 210/638 | 700/271 | 700/270 | 210/141 | 702/50 | 210/634 | 702/31 | 702/22
+	</str>
+	<str name="UPC Primary">
+		702/188
+	</str>
+	<str name="UPC Class">
+		702
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7920983 | US8341106
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US20010053992 | US6245224 | US20010020195 | US5865718 | US5483164 | US6061603 | US6836737 | US20020023479 | US20020130069 | US4830757 | US5993662 | US5835724 | US5631744 | US6332110 | US5832410 | US20020133270 | US6389331 | US6356205 | US5970426 | US5608171 | US5997750 | US4626992 | US6023223 | US6305944 | US6317639 | US6370448 | US6560543 | US5492632 | WO2001080494
+	</str>
+	<str name="Cites Count">
+		29
+	</str>
+	<str name="Assignee(s)">
+		HACH COMPANY
+	</str>
+	<str name="1st Assignee">
+		HACH COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Loveland, CO
+	</str>
+	<str name="Assignee(s) Address">
+		Loveland, CO
+	</str>
+	<str name="Inventor(s)">
+		WOLFE, THOMAS, D.
+	</str>
+	<str name="1st Inventor">
+		WOLFE, THOMAS, D.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Rough, and, Ready, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Rough, and, Ready, CA
+	</str>
+	<str name="Agent/Attorney">
+		VEDDER PRICE P.C. JAGTIANI, AJAY A.
+	</str>
+	<str name="Primary Examiner">
+		DUNN, DREW A
+	</str>
+	<str name="Assistant Examiner">
+		VO, HIEN X
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

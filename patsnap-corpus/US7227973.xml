@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7227973
+	</str>
+	<str name="Application Number">
+		US09823763
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Device, method and record medium for image comparison
+	</str>
+	<str name="Abstract">
+		An image comparison device for comparing a target object (an object to be recognized or identified) with registered objects (objects which are preliminarily registered to be compared with the target object) includes a registration section and a comparison section. The registration section measures the 3-D shape and surface reflectance of each registered object and registers and stores them as registered data. In the comparison section, a photographing section photographs a target object and thereby obtains an input image. A position/pose estimation section estimates the position/pose of the target object in the input image and thereby obtains position/pose parameters. An illumination correction section generates a reference image of each registered object (a 2-D image of the registered object in the same position/pose as the target object in the input image and under the same illumination condition as in the input image) by use of the position/pose parameters obtained by the position/pose estimation section and the registered data. An image comparison section calculates an evaluation value concerning the similarity between the reference image and the input image. A judgment section judges whether or not each of the registered objects is the same as or similar to the target object based on the evaluation value.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-04-03
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-04
+	</str>
+	<str name="Publication Date">
+		2007-06-05
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-06
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/103 | 382/209 | 382/154
+	</str>
+	<str name="UPC Primary">
+		382/103
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		EP1143375A3 | JP2001283216A | DE60137162D1 | US20010033685A1 | US7227973 | EP1143375A2 | EP1143375B1
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Watabe M. et al., &quot;Technique of synchronized input of object surface shape and color information&quot;, NTT R &amp; D, The Telecommunications Association, Apr. 10, 1993, pp. 465-476, col. 42, No. 4. cited by other. | S. Ying Ho et al., &quot;An analytic solution for the pose determination of human faces from a monocular image&quot;, Pattern Recognition Letters, vol. 19, (1998), pp. 10450-10454 with Abstract. cited by other . | S. Adamatsu, &quot;Computer Recognition of Human Face-A Survey-&quot;, The Transactions of the Institute of Electronics, Information and Communication Engineers, vol. 80, No. 8, (1997), pp. 1215-1230. cited by other . | M. Woo et al., &quot;Open GL programming Guide&quot;, Addison-Wesley Publishers Japan, pp. 1-151. cited by other . | Paul J. Besl, et al., &quot;Three-Dimensional Object Recognition&quot; ACM Computing Surveys, New York, NY, vol. 17, No. 1, Mar. 1985, pp. 75-145. cited by other . | H Murase et al., &quot;Visual Learning and Recognition of 3-D Objects from Appearance&quot;, International Journal of Computer Vision, vol. 14, (1995), pp. 5-24 with Abstract. cited by other . | A.S. Georghiades et al., &quot;Illumination Cones for Recognition Under Variable Lighting: Faces*&quot;, Proc. IEEE International Conference CVPR, (1998), pp. 52-58 with Abstract. cited by other . | R.Y. Tsai, &quot;An Efficient and Accurate Camera Calibration Technique for 3D Machine Vision&quot;, Proc. CVPR '86, pp. 364-374 with Abstract. cited by other . | Shinn-Ying Ho, et al. &quot;An Analytic Solution for the Pose Determination of Human Faces from a Monocular Image&quot;, Pattern Recognition Letters, North-Holland Publications, Amsterdam, Netherlands, vol. 19, No. 11, Sep. 1, 1998, pp. 1045-1054. cited by other . | P.N. Belhumeur et al., &quot;What Is the Set of Images of an Object Under All Possible Illumination Conditions?&quot;, International Journal of Computer Vision, vol. 28, Issue No. 3, (1998), pp. 245-260 with Abstract. cited by other . | Athinodoros S. Georghiades, et al., &quot;Illumination Cones for Recognition under Variable Lighting: Faces&quot; Computer Vision and Pattern Recognition, 1998, Proceedings, 1998 IEEE Computer Society Conference on Santa Barbara, CA, Jun. 23-25, 1998, Los Alamitos, CA, IEEE Computer Society, Jun. 23, 1998, pp. 52-58. cited by other . | Hiroshi Murase, et al., &quot;Visual Learning and Recognition of 3-D Objects From Appearance&quot; International Journal of Computer Vision, Kluwer Academic Publishers, Norwell, US, vol. 14, No. 1, 1995, pp. 5-24. cited by other .
+	</str>
+	<str name="Other References Count">
+		12
+	</str>
+	<str name="Cites">
+		US6496594 | US6956569 | US6545673 | US6002782 | JP96137H8 | JP1997259271 | JP1994168317 | JP168317H06 | JP2000306095 | EP1139269 | JP2001283222 | JP256185H4 | JP109441H6 | JP1999123687 | JP2872776 | JP302064H10 | JP259271H09 | JP53547H11 | JP233556H8 | JP130587H4 | JP73663H5 | JP162137H10
+	</str>
+	<str name="Cites Count">
+		22
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2000105399
+	</str>
+	<str name="Priority Date">
+		2000-04-03
+	</str>
+	<str name="Assignee(s)">
+		NEC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NEC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		ISHIYAMA, RUI
+	</str>
+	<str name="1st Inventor">
+		ISHIYAMA, RUI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		WU, JINGGE
+	</str>
+	<str name="Assistant Examiner">
+		LU, TOM Y.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

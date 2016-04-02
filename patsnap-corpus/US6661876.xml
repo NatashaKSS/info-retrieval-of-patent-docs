@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6661876
+	</str>
+	<str name="Application Number">
+		US10208646
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Mobile miniature X-ray source
+	</str>
+	<str name="Abstract">
+		A mobile, miniature x-ray source includes a low-power consumption cathode element for mobility, and an anode optic creating a field free region to prolong the life of the cathode element. An electric field is applied to an anode and a cathode that are disposed on opposite sides of an evacuated tube. The anode includes a target material to produce x-rays in response to impact of electrons. The cathode includes a cathode element to produce electrons that are accelerated towards the anode in response to the electric field between the anode and the cathode. The tube can have a length less than approximately 3 inches, and a diameter or width less than approximately 1 inch. The cathode element can include a low-power consumption cathode element with a low power consumption less than approximately 1 watt. The power source can include a battery power source. A field-free region can be positioned at the anode to resist positive ion acceleration back towards the cathode element. An anode tube can be disposed at the anode between the anode and the cathode, and electrically coupled to the anode so that the anode and the anode tube have the same electrical potential, to form the field-free region.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-07-29
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-07
+	</str>
+	<str name="Publication Date">
+		2003-12-09
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-12
+	</str>
+	<str name="All IPC">
+		H01J35/14
+	</str>
+	<str name="IPC Primary">
+		H01J35/14
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01J
+	</str>
+	<str name="IPC Group">
+		H01J35
+	</str>
+	<str name="All UPC">
+		378/119 | 378/102 | 313/553 | 378/138 | 378/123
+	</str>
+	<str name="UPC Primary">
+		378/119
+	</str>
+	<str name="UPC Class">
+		378
+	</str>
+	<str name="Family Members">
+		EP1412961A4 | EP1412961A2 | JP2005523558A | WO2003012816A2 | WO2003012816A3 | US20030021377A1 | US6661876 | AU2002324566A1
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		18
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7050543 | WO2009052176A1 | WO2007041498A2 | US7796726 | US7737424 | US7960704 | US8081734 | US7529345 | US7724871 | US7756251 | US7742567 | US7734012 | US7783011 | US7623629 | US7983394
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US6546077 | US6075839 | USR34421 | US5428658 | USR35383 | US5010562 | US6044130 | US5117829 | US6351520 | US5400385 | US6477235 | US5729583 | US5621780 | US6134300 | US4463338
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		20864602 | 30863701
+	</str>
+	<str name="Priority Date">
+		2002-07-29 | 2001-07-30
+	</str>
+	<str name="Assignee(s)">
+		MOXTEK, INC.
+	</str>
+	<str name="1st Assignee">
+		MOXTEK, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Orem, UT
+	</str>
+	<str name="Assignee(s) Address">
+		Orem, UT
+	</str>
+	<str name="Inventor(s)">
+		TURNER, CLARK | REYES, ARTURO | PEW, HANS, K. | LUND, MARK, W. | LINES, MICHAEL | MOODY, PAUL | VORONOV, SERGEI
+	</str>
+	<str name="1st Inventor">
+		TURNER, CLARK
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Payson, UT
+	</str>
+	<str name="Inventor(s) Address">
+		Payson, UT | Orem, UT | Acton, MA | Orem, UT | Provo, UT | Sandy, UT | Provo, UT
+	</str>
+	<str name="Primary Examiner">
+		DUNN, DREW A.
+	</str>
+	<str name="cited by within 3 years">
+		11
+	</str>
+	<str name="cited by within 5 years">
+		27
+	</str>
+</doc>
+

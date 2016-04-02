@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7699985
+	</str>
+	<str name="Application Number">
+		US11949383
+	</str>
+	<str name="Title">
+		Process for providing oxygen to a liquid
+	</str>
+	<str name="Abstract">
+		A membrane supported biofilm reactor uses modules having fine, hollow fibers, for example, made from melt spun thermoplastic polymers treated after spinning to increase their permeability to oxygen, used, for example, in tows or formed into a fabric. In one module, one or more sheets of the fabric are potted into a module to enable oxygen containing gas to be supplied to the lumens of the hollow fibers. Various reactors and processes, for example to treat wastewater, using such modules are described. In one process, oxygen travels through fibers, optionally through an attached biofilm, to oxygenate surrounding water. Mechanical, chemical and biological methods, for example endogenous respiration, are used to control the thickness of the biofilm.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-12-03
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-12
+	</str>
+	<str name="Publication Date">
+		2010-04-20
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/620 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/620
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Show-John Yeh and Charles R. Jenkins, &quot;Pure Oxygen Fixed Film Reactor&quot;, Journal of the Environmental Engineering Division, Aug. 1978, pp. 611-623. cited by other . | Cote, P., et al. &quot;Bubble-free aeration using membranes: process analysis,&quot; Journal of the Water Pollution Control Federation, Nov. 1988 (Fig. 1). cited by examiner . | Yamagiwa et al., &quot;Simultaneous Organic Carbon Removal and Nitrification by Biofim Formed on Oxygen Enrichment Membrane&quot;, Journal of Chemical Engineering of Japan, Oct. 27, 1994, pp. 638-643. cited by other . | Casey et al., &quot;Review of Membrane Aerated Biofilm Reactors&quot;, Resources, Conservation and Recycling 27 (1999), pp. 203-215. cited by other. | Brindle et al., &quot;Nitrification and Oxygen Utilisation in a Membrane Aeration Bioreactor, Journal of Membrane Science&quot;, 1998. cited by other . | Cote et al., &quot;Bubble-free Aeration Using Membranes: Process Analysis&quot;, Journal Water Pollution Control Federation, Nov. 1998. cited by other . | Krystyna Twarowska-Schmidt and Andrzej Wlochowicz, &quot;Melt-spun Asymmetric Poly (4-methyl-1-pentene) Hollow Fibre Membranes&quot;, Journal of Membrane Science 137 (1997), pp. 55-61. cited by other . | C.R. Woolard, &quot;The Advantages of Periodically Operated Biofilm Reactors for the Treatment of Highly Variable Wastewater&quot;, Wat. Sci. Tech. vol. 35, No. 1., 1997, pp. 199-206. cited by other . | Dr. Michael J. Semmens and Denise Hanus, &quot;Studies of a Membrane Aerated Bioreactor for Wastewater Treatment&quot;, Cranfield University, Jun. 1999. cited by other .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4341005 | US4181604 | US20050260739 | US6241867 | US20020171172 | US20050064577 | US4960546 | US4126544 | US4883594 | US5043140 | US2458163 | US4664681 | US20040115782 | US6863815 | US6531062 | US6209855 | US5486475 | US5439736 | US5945002 | US5482859 | US4746435 | US20020020666 | US20030092020 | US5116506 | US6354444 | US6183643 | US6543753 | US6878279 | US20030104192 | US6361695 | US6387262 | US5395468 | US6013511 | US5647986 | US6685832 | US6592759 | US20010037967 | US5520812 | US5238562 | US5518620 | US5149649 | US4328102 | US20050269263 | US5523003 | US20040060442 | US5126050 | US20040224396 | US5015421 | US5716689 | US6309550 | US6558549 | US6555002 | US5543039 | US4416993 | US6001585 | US5034164 | US20030203183 | DE4440464 | CA1177977 | DE3730797 | EP0049954 | CA2005959 | CA2182915 | CA2100002 | CA1096976 | JP1979021057 | CA2102156 | CA2300719 | CA2458566 | WO1987003615 | WO2005113456 | DE3544382 | CA2356316
+	</str>
+	<str name="Cites Count">
+		73
+	</str>
+	<str name="Priority Country">
+		CA | CA | CA | CA | CA | CA
+	</str>
+	<str name="Priority Number">
+		2438050 | 2438101 | 2438432 | 2438441 | 2438444 | 2458566
+	</str>
+	<str name="Priority Date">
+		2003-08-22 | 2003-08-22 | 2003-08-22 | 2003-08-22 | 2003-08-22 | 2004-02-13
+	</str>
+	<str name="Assignee(s)">
+		ZENON TECHNOLOGY PARTNERSHIP
+	</str>
+	<str name="1st Assignee">
+		ZENON TECHNOLOGY PARTNERSHIP
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Wilmington, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Wilmington, DE
+	</str>
+	<str name="Inventor(s)">
+		COTE, PIERRE, LUCIEN | HUSAIN, HIDAYAT | BEHMANN, HENRY
+	</str>
+	<str name="1st Inventor">
+		COTE, PIERRE, LUCIEN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Dundas, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Dundas, CA | Oakville, CA | Puslinch, CA
+	</str>
+	<str name="Agent/Attorney">
+		BERESKIN &amp; PARR LLP/ S.E.N.C.R.L., S.R.L.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

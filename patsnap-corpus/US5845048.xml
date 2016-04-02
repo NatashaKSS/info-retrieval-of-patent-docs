@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5845048
+	</str>
+	<str name="Application Number">
+		US08597138
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Applicable recognition system for estimating object conditions
+	</str>
+	<str name="Abstract">
+		A system for recognizing an object state (the kind, position, attitude) gets observation object information and recognizes a naturally occurring object for which simple rules cannot be found. This system outputs a state prediction value for a targeted object from cognitive object observation data, an observation data prediction value for targeted partial features according to this output, a partial feature prediction position in targeted observation results according to a state evaluation value output, and recognizes the object by modifying an output of the state prediction value output unit. Many naturally occurring objects, for which simple rules cannot be found, can be modeled, and a recognition system, which can be used in more realistic circumstances, can be constructed. An object based vision and an observer based vision as a 3D object model representation method is provided, and learning patterns necessary for recognizing are obtained effectively by using a visible-invisible determination module in automatically obtaining the 3D object model.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-02-06
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-02
+	</str>
+	<str name="Publication Date">
+		1998-12-01
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-12
+	</str>
+	<str name="All IPC">
+		G06E1/00 | G06F15/18
+	</str>
+	<str name="IPC Primary">
+		G06E1/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06E
+	</str>
+	<str name="IPC Group">
+		G06E1
+	</str>
+	<str name="All UPC">
+		706/20
+	</str>
+	<str name="UPC Primary">
+		706/20
+	</str>
+	<str name="UPC Class">
+		706
+	</str>
+	<str name="Family Members">
+		JP1996212329A | JP3560670B2 | US5845048
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		14
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		EP1043689A2 | US6845296 | US7084900 | US6968081 | US7054793 | US7706918 | EP1043642A2 | WO2003088085A1 | US7152051 | US7177459 | US7370024 | DE10356399A1 | DE10356399B4 | US7880899
+	</str>
+	<str name="Cited By Count">
+		14
+	</str>
+	<str name="Cites">
+		US4731860 | US5465353 | US5111516 | US5499306
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		7018218
+	</str>
+	<str name="Priority Date">
+		1995-02-06
+	</str>
+	<str name="Assignee(s)">
+		FUJITSU LIMITED
+	</str>
+	<str name="1st Assignee">
+		FUJITSU LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		MASUMOTO, DAIKI
+	</str>
+	<str name="1st Inventor">
+		MASUMOTO, DAIKI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa, JP
+	</str>
+	<str name="Agent/Attorney">
+		ARMSTRONG, WESTERMAN, HATTORI, MCLELAND &amp; NAUGHTON
+	</str>
+	<str name="Primary Examiner">
+		HAFIZ, TARIQ R.
+	</str>
+	<str name="cited by within 3 years">
+		6
+	</str>
+	<str name="cited by within 5 years">
+		9
+	</str>
+</doc>
+

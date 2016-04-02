@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		USR40943
+	</str>
+	<str name="Application Number">
+		US11/211027
+	</str>
+	<str name="Kind Code">
+		E1
+	</str>
+	<str name="Title">
+		Method in treating aqueous waste feedstream for improving the flux rates, cleaning and the useful life of filter media
+	</str>
+	<str name="Abstract">
+		A method in treating aqueous feedstream in diverse plant site environments is disclosed for improving filter flux rates, cleaning filter media and prolonging useful operative life of media. In preferred embodiments the method is provided with steps for contacting, reacting, pressurizing and equalizing ozone and feedstream within a central area or multiple areas and sustaining high pressure throughout the system to achieve qualitatively and quantitatively improved permeate products, and reject for recycle. The method and system provide an improved cleaning and processing system characterized by an ozone-concentrated, homogeneous single phase liquid conversion of a generated ozone gas mixture and a feedstream source containing organic and inorganic pollutants. The method improves and monitors ozone oxidizing power and reflecting ORP values, and provides further media cleaning and improved oxidation reactions for attack on pollutants on each cycle/recycle operation.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-08-24
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-08
+	</str>
+	<str name="Publication Date">
+		2009-10-27
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		C02F1/78 | B01D65/06
+	</str>
+	<str name="IPC Primary">
+		C02F1/78
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/648 | 210/760 | 210/797 | 210/808
+	</str>
+	<str name="UPC Primary">
+		210/648
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		USR40943 | US20030234225A1 | US6755977
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References">
+		Faust, S.D. and Aly, O.M., 1998, &quot;Chemistry of Water Treatment,&quot; pp. 292-298, Ann Arbor Press: Chelsea, Michigan. cited by examiner | Overbeck, P, &quot;Ozone Treatment of Small Water Systems&quot;, GDT Website(http://www.gdt-h2o.com) Oct. 20, 1998, pp. 3.8-13, 17-18, 20; Canada. cited by other | Overbeck, P, Jackson, J, &quot;Innovative Deoxygenation of Ozonated Water&quot; GDT Web(http://www.gdt-h2o.com) Aug. 25, 1999, p. 3, Dearborn, Michigan. cited by other | Jackson, J, &quot;Dissolved Oxygen Control by Pressurized Side Stream Ozone Contacting and Degassing&quot; GDT Web (above), Aug. 24, 1999, pp. 1, 3, 13, Dearborn, Mich. cited by other | GDT Internet Advertising, &quot;High Efficiency Ozone Contacting&quot; GDT Web(above) Jan. 6, 2000, pp. 1-2. cited by other | GDT Internet Advertising, &quot;The GDT(TM) Process&quot; GDT Web(above), Jan. 6, 2000, pp. 1-2. cited by other | Overbeck, P, Mazzei, A, &quot;High Efficiency In-Line Pressurized Ozone Contacting With The GDT(TM) Process&quot; Web, Apr. 22, 1997, Berlin, Germany. cited by other | Press Release, &quot;GDT(TM) Ozone Contacting System Selected for 15% wt. Municipal Project&quot;, GDT Web, Jan. 12, 2000, p. 1 USA. cited by other | Press Release, &quot;Efficient Solution to Water Treatment Challenges&quot;, GDT Web, Jan. 12, 2000 USA. cited by other | Press Release, &quot;Advanced Water Treatment Company Formed From Strategic Technical Alliance&quot;, GDT Web, jan. 12, 2000 USA. cited by other | Jackson, J, Overbeck, P, &quot;Ozone Pipe-line Gasification-Degasification Treatment (GDT {TM}Performance in Portable Water Treatment Plants&quot; GDT Web, Aug. 16, 1997, Lake Tahoe, Nev. cited by other | Langlais, B. et al., (cds), 1991, Ozone In Water Treatment Application and Engineering, pp. 190-203, Lewis Publishers: Chelsea, Michigan. cited by examiner | Drosie, R.I., 1997, Theory And Practice Of Water And Wastewater Treatment, pp. 450-451 and 527-530, John Wiley &amp; Sons; New York. cited by examiner | Mallevialle, J. et al., 1992, Influence and Removal of Organics in Drinking Water, pp. 326-332, Lewis Publishers: Boca Raton. cited by examiner | Vigneswaren, D., et al., Water, Wastewater, and Sludge Filtration, pp. 61-65, CRC Press, Inc.: Boca Raton, 1989. cited by examiner | Faust, S.D. and Aly, O.M., 1998, Chemistry of Water Treatment, pp. 292-298, Ann Arbor Press: Chelsea, Michigan. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		16
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4252654 | US4255257 | US4595498 | US4622151 | US4849115 | US4898679 | US5097556 | US5114576 | US5271830 | US5302288 | US5336413 | US5348664 | US5364537 | US5397480 | US5431861 | US5518624 | US5580458 | US5593598 | US5607593 | US5645727 | US5645797 | US5651939 | US5674312 | US5683576 | US5741416 | US5843307 | US6001247 | US6074564 | US6117334 | US6162477 | US6183646 | US6186170 | US6773609 | US6299761 | US6361697 | US6416668 | US6458257 | US6506309 | US6551490 | US6585898 | JP1982194005 | JP1992310220 | JP2001070764 | JP2001219165
+	</str>
+	<str name="Cites Count">
+		44
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		17642802 | 21102705
+	</str>
+	<str name="Priority Date">
+		2002-06-19 | 2005-08-24
+	</str>
+	<str name="Assignee(s)">
+		DIVERSIFIED TECHNOLOGIES SERVICES, INC.
+	</str>
+	<str name="1st Assignee">
+		DIVERSIFIED TECHNOLOGIES SERVICES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Knoxville, TN
+	</str>
+	<str name="Assignee(s) Address">
+		Knoxville, TN
+	</str>
+	<str name="Inventor(s)">
+		BRUNSELL, DENNIS, A.
+	</str>
+	<str name="1st Inventor">
+		BRUNSELL, DENNIS, A.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Knoxville, TN
+	</str>
+	<str name="Inventor(s) Address">
+		Knoxville, TN
+	</str>
+	<str name="Agent/Attorney">
+		MONROE ALEX BROWN PATENT ATTORNEY
+	</str>
+	<str name="Primary Examiner">
+		LAWRENCE, FRANK M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

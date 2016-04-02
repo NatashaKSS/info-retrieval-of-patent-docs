@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7504363
+	</str>
+	<str name="Application Number">
+		US11016291
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Methods using four-layer filter for PCR sample preparation
+	</str>
+	<str name="Abstract">
+		In accordance with the present invention, there is provided a device, method and kit for detecting any genetic material containing moieties. The present invention enables identification of known or unknown virions or bacteria contained in a fluid therein, such as virions in a blood sample. It also provides for an amenable and highly automatable device for massed screenings and the discovery of sequence variants of known virions, previously undetected virions, and other genetic material containing moieties. In one aspect, the present invention provides a method for storage and analysis of a nucleic acid containing moiety in a biological sample, the method comprising providing a device comprising a plurality of layers, wherein the plurality of layers comprises a collection layer comprising a neutral porous matrix and a dry anticoagulant or liquefying agent, a filter layer comprising a dry solid medium comprising a solid matrix having a particle size limit that precludes eukaryotic cells, but not prokaryotic cells or virions, a separator layer, and an isolation layer comprising a dry solid medium comprising a neutral solid matrix having sorbed thereto a composition comprising a detergent; applying a biological sample to the collection layer; filtering remaining components of the biological sample through the collection layer to the filter layer; filtering remaining components of the biological sample through the filter layer to the separator layer; filtering remaining components of the biological sample through the separator layer to the isolation layer; retaining nucleic acid components in the isolation layer while removing a plurality of non-nucleic acid components; drying the isolation layer; providing at least one primer; and analyzing the nucleic acid components using PCR techniques, wherein at least two PCR primers are used.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-12-17
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-12
+	</str>
+	<str name="Publication Date">
+		2009-03-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		C40B30/00
+	</str>
+	<str name="IPC Primary">
+		C40B30/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C40
+	</str>
+	<str name="IPC Subclass">
+		C40B
+	</str>
+	<str name="IPC Group">
+		C40B30
+	</str>
+	<str name="All UPC">
+		435/91.1 | 210/503 | 210/767 | 600/573 | 506/7 | 210/645
+	</str>
+	<str name="UPC Primary">
+		435/91.1
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		US20030134312A1 | US20050095641A1 | US6869769 | US7504363
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		11
+	</str>
+	<str name="Other References">
+		Craig Rogers and Leigh A. Burgoyne, &quot;Bacterial Typing: Storing and Processing of Stabilized Reference Bacteria for Polymerase Chain Reaction without Preparing DNA--An Example of an Automatable Procedure&quot;, Analytical Biochemistry, 247:223-227 (1997). cited by other . | Craig D. G. Rogers and Leigh A. Burgoyne, &quot;Reverse transcription of an RNA genome from databasing&quot;, Biotechnol. Appl. Biochem., 31:219-224 (2000). cited by other . | James A. Higgins et al., &quot;Detection of Francisella tularensis in Infected Mammals and Vectors Using a Probe-Based Polymerase Chain Reaction&quot;, Am. J. Trop. Med. Hyg. 62(2) :310-318 (2000). cited by other . | Panteleeff et al., &quot;Rapid Method for Screening Dried Blood Samples on Filter Paper for Human Immunodeficiency Virus Type 1 DNA&quot;, Jouranl of Clinical Microbiology, 37(2):350-353 (1999). cited by other . | C. Rogers, &quot;ANTA Results&quot;, Flinders Technologies Pty. Website, pp. 1-6 (2002), http://flinderstech.flinders.edu.au/amplification%20trace%20nucle- ic.diagramhtm.htm. cited by other . | Fuloria, et al., &quot;Evaluating the Efficacy of Mucoactive Aerosol Therapy&quot;, Respiratory Care, Jul. 2000, vol. 45, No. 7, pp. 868-873. cited by other. | C. Rogers, &quot;Amplification of Trace Nucleic Acids&quot; Flinders Technologies Pty. Website, pp. 1-6 (2002), http://flinderstech.flinders.edu.au/amplification%20trace%20nucleic.%20te- xt.htm. cited by other . | Voet et al., Biochemistry, Chapter 1: Life, pp. 3-4 &amp; 7. cited by other . | Hammerschlag, et al., &quot;Bacteriology of Sputum in Cystic Fibrosis: Evaluation of Dithiothreitol as a Mucolytic Agent&quot;, Journal of Clinical Microbiology, Jun. 1980, vol. 11, No. 6, pp. 552-557. cited by other . | Geoffrey M. Cooper, The Cell A Molecular Approach, Chapter 1, p. 4, 8-12. cited by other . | Neil A. Campbell, Biology Third Edition, Chapter 7: A Tour of the Cell, pp. 121-123, Chapter 17: Microbial Models: The Genetics of Viruses and Bacteria, pp. 345-346. cited by other .
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5972386 | US5496562 | US5807527 | US5976572 | US5861245 | US20010007746 | US6294203 | US5756126 | US20020150907 | WO2003016546 | WO2000066606 | WO2000014505 | WO2000016803
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		1629104 | 29825502 | 33600501
+	</str>
+	<str name="Priority Date">
+		2004-12-17 | 2002-11-15 | 2001-11-15
+	</str>
+	<str name="Assignee(s)">
+		WHATMAN, INC.
+	</str>
+	<str name="1st Assignee">
+		WHATMAN, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Florham Park, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Florham Park, NJ
+	</str>
+	<str name="Inventor(s)">
+		BURGOYNE, LEIGH, ALEXANDER
+	</str>
+	<str name="1st Inventor">
+		BURGOYNE, LEIGH, ALEXANDER
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Mitchum, AU
+	</str>
+	<str name="Inventor(s) Address">
+		Mitchum, AU
+	</str>
+	<str name="Agent/Attorney">
+		EDWARDS ANGELL PALMER &amp; DODGE LLP CONLIN, ESQ., DAVID G. PIFFAT, ESQ., KATHRYN A.
+	</str>
+	<str name="Primary Examiner">
+		LOW, CHRISTOPHER S. F.
+	</str>
+	<str name="Assistant Examiner">
+		LUNDGREN, JEFFREY S.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

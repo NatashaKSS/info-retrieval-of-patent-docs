@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8102427
+	</str>
+	<str name="Application Number">
+		US12/203322
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Camera egomotion estimation from an infra-red image sequence for night vision
+	</str>
+	<str name="Abstract">
+		A method for estimating egomotion of a camera mounted on a vehicle that uses infra-red images is disclosed, comprising the steps of (a) receiving a pair of frames from a plurality of frames from the camera, the first frame being assigned to a previous frame and an anchor frame and the second frame being assigned to a current frame; (b) extracting features from the previous frame and the current frame; (c) finding correspondances between extracted features from the previous frame and the current frame; and (d) estimating the relative pose of the camera by minimizing reprojection errors from the correspondences to the anchor frame. The method can further comprise the steps of (e) assigning the current frame as the anchor frame when a predetermined amount of image motion between the current frame and the anchor frame is observed; (f) assigning the current frame to the previous frame and assigning a new frame from the plurality of frames to the current frame; and (g) repeating steps (b)-(f) until there are no more frames from the plurality of frames to process. Step (c) is based on an estimation of the focus of expansion between the previous frame and the current frame.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-09-03
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-09
+	</str>
+	<str name="Publication Date">
+		2012-01-24
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-01
+	</str>
+	<str name="All IPC">
+		H04N5/225 | G06F12/00
+	</str>
+	<str name="IPC Primary">
+		H04N5/225
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H04
+	</str>
+	<str name="IPC Subclass">
+		H04N
+	</str>
+	<str name="IPC Group">
+		H04N5
+	</str>
+	<str name="All UPC">
+		348/208.1 | 348/118
+	</str>
+	<str name="UPC Primary">
+		348/208.1
+	</str>
+	<str name="UPC Class">
+		348
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		D Nister, O. Naroditsky, and J. Bergen, &quot;Visual Odometry,&quot; Proc. IEEE Conf. on Comp. Vision and Patt. Recog., 01:652-659, 2004. cited by other . | J. G. Stein, O. Mano, and A. Shashua, &quot;A robust method for computing vehicle ego-motion,&quot; Intelligent Vehicles Symposium, 2000. IV 2000. Proceedings of the IEEE, Volume , Issue , 2000 pp. 362-368. cited by other . | J. G. Stein and A. Shashua, &quot;Model-based brightness constraints: On direct estimation of structure and motion,&quot; IEEE Trans. Pattern Anal. Machine Intell., 22(9):992-1015, 2000. cited by other . | N. Dalal and B. Triggs, &quot;Histograms of oriented gradients for human detection,&quot; Proc. CVPR, vol. 1, pp. 886-893, 2005. cited by other . | E. Trucco and A. Verri, &quot;Introductory Techniques for 3-D Computer Vision,&quot; Prentice-Hall, p. 147, 1998. cited by other . | O. Faugeras, &quot;Three-Dimensional Computer Vision: A Geometric Viewpoint,&quot; The MIT Press, pp. 271-274, 1996. cited by other.
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cites">
+		US7777816 | US20020057241 | US20030142752 | US20050078081 | US20060114359
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Assignee(s)">
+		SRI INTERNATIONAL
+	</str>
+	<str name="1st Assignee">
+		SRI INTERNATIONAL
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Menlo Park, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Menlo Park, CA
+	</str>
+	<str name="Inventor(s)">
+		JUNG, SANG-HACK | ELEDATH, JAYAN
+	</str>
+	<str name="1st Inventor">
+		JUNG, SANG-HACK
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Lawrenceville, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		Lawrenceville, NJ | Robbinsville, NJ
+	</str>
+	<str name="Agent/Attorney">
+		MOSER TABOADA
+	</str>
+	<str name="Primary Examiner">
+		MAUNG, ZARNI
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

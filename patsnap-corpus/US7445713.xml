@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7445713
+	</str>
+	<str name="Application Number">
+		US11812952
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Method and facility for treating sludges
+	</str>
+	<str name="Abstract">
+		A method and apparatus for anaerobic treatment of wastewater and sludge in a digestive reactor in which the length of stay of hydraulic components is decoupled from that of particulate components by discontinuous removal of a portion of the digesting sludge from the digestive reactor, enrichment of the extracted portion of the digesting sludge in a sapropel reactor, and feedback of the enriched digesting sludge into the digestive reactor.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-06-22
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-06
+	</str>
+	<str name="Publication Date">
+		2008-11-04
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		C02F11/04 | C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F11/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F11
+	</str>
+	<str name="All UPC">
+		210/603
+	</str>
+	<str name="UPC Primary">
+		210/603
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7445713
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5015384 | US4632758 | US20030173291 | US6663777 | US5630942 | US20030075501 | US4375412 | US5529692 | US4948509 | EP0737651 | DE102004003071 | DE4042223
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		81295207
+	</str>
+	<str name="Priority Date">
+		2007-06-22
+	</str>
+	<str name="Inventor(s)">
+		HOLM, NIELS
+	</str>
+	<str name="1st Inventor">
+		HOLM, NIELS
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		32425, Minden, DE
+	</str>
+	<str name="Inventor(s) Address">
+		32425, Minden, DE
+	</str>
+	<str name="Agent/Attorney">
+		DIEDERIKS &amp; WHITELAW, PLC
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

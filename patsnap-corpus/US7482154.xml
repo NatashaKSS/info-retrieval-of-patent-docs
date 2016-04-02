@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7482154
+	</str>
+	<str name="Application Number">
+		US10845856
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Diamagnetic force field bioreactor
+	</str>
+	<str name="Abstract">
+		The invention is an apparatus comprising a magnet adapted to create a diamagnetic force field at all points in space at which a magnetic field-field gradient product of the magnet has a value greater than or equal to a threshold value. At or above the threshold value, the diamagnetic force field induces a diamagnetic body force within a biological specimen supported within a bioreactor chamber that is disposed within the diamagnetic force field. The apparatus may alter the magnitude of the induced diamagnetic body force and may alter the direction of the induced diamagnetic body with respect to a spatial coordinate system or with respect to the direction of a secondary body force acting upon or within the biological specimen, thereby altering the vector sum of the induced diamagnetic body force and the secondary body force acting on the biological specimen.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-05-15
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-05
+	</str>
+	<str name="Publication Date">
+		2009-01-27
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		B03C1/00 | C12M1/00 | B01D17/06 | C12M3/00 | B01D11/04
+	</str>
+	<str name="IPC Primary">
+		B03C1/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B03
+	</str>
+	<str name="IPC Subclass">
+		B03C
+	</str>
+	<str name="IPC Group">
+		B03C1
+	</str>
+	<str name="All UPC">
+		209/212 | 435/299.2 | 435/298.1 | 95/28 | 210/748 | 435/289.1 | 210/695 | 335/209 | 204/557
+	</str>
+	<str name="UPC Primary">
+		209/212
+	</str>
+	<str name="UPC Class">
+		209
+	</str>
+	<str name="Family Members">
+		US7482154 | US20050255583A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6404312 | US6117674 | US5155034 | US5858783 | US5081035 | US5568109 | US5396136 | US5496722 | US5851816 | US20060199170 | US5846817 | US5928945 | US6162364 | US20050186669
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		84585604
+	</str>
+	<str name="Priority Date">
+		2004-05-15
+	</str>
+	<str name="Assignee(s)">
+		RENSSELAER POLYTECHNIC INSTITUTE
+	</str>
+	<str name="1st Assignee">
+		RENSSELAER POLYTECHNIC INSTITUTE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Troy, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Troy, NY
+	</str>
+	<str name="Inventor(s)">
+		DEPAOLA, NATACHA | OSTROGORSKY, ALEKSANDAR, G.
+	</str>
+	<str name="1st Inventor">
+		DEPAOLA, NATACHA
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Troy, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Troy, NY | Troy, NY
+	</str>
+	<str name="Agent/Attorney">
+		RABIN, SANDER
+	</str>
+	<str name="Primary Examiner">
+		BEISNER, WILLIAM H
+	</str>
+	<str name="Assistant Examiner">
+		BOWERS, NATHAN A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

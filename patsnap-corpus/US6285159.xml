@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6285159
+	</str>
+	<str name="Application Number">
+		US09351142
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Portable computer usable with a specific battery pack or ordinary battery
+	</str>
+	<str name="Abstract">
+		A portable computer, capable of being powered by a specific rechargeable battery pack or by ordinary batteries, comprises a battery door opening formed in one side of a housing for mounting various electronic devices together with a printed circuit board, and a battery storage casing having a bottom and four side walls and an upper battery insertion opening to store the specific battery pack or ordinary batteries. The battery storage casing is mounted in the housing so as to make the upper battery insertion opening face the battery door opening. The internal space of the battery storage casing is designed to accommodate either the specific rechargeable battery pack or ordinary batteries. Thus, the portable computer may be driven by the specific rechargeable battery pack or one or more ordinary batteries installed in the battery storage casing. The battery storage casing has at least a support ridge formed between the bottom wall and side walls, and the battery pack has at least a corresponding recess to receive the support ridge, so that the battery pack is properly inserted in the battery storage casing. Additionally provided are a charging-protective circuit, first contacts connected to the charging-protective circuit in the battery storage casing, and second contacts formed in one side of the battery storage casing to make electrical connections with the first contacts.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1999-07-12
+	</str>
+	<str name="Application Year">
+		1999
+	</str>
+	<str name="Application(Year/Month)">
+		1999-07
+	</str>
+	<str name="Publication Date">
+		2001-09-04
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-09
+	</str>
+	<str name="All IPC">
+		H02J7/00
+	</str>
+	<str name="IPC Primary">
+		H02J7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02J
+	</str>
+	<str name="IPC Group">
+		H02J7
+	</str>
+	<str name="All UPC">
+		320/112 | 320/114
+	</str>
+	<str name="UPC Primary">
+		320/112
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Members">
+		KR1020000008300A | US6285159 | CN1155867C | CN1243978A
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5153817 | US5602456 | US5818197 | US5670267 | US5867007 | US5028806 | US5200883 | US6005368 | US5784626 | US6040684 | US5635814 | US6014009 | US5999410 | US5149604 | US5875085 | US6023147 | US5162719 | US6049144 | US5633572 | US5786984 | US5973476 | US5844401 | US5553294 | US5963019
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		9828044
+	</str>
+	<str name="Priority Date">
+		1998-07-11
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon, KR
+	</str>
+	<str name="Inventor(s)">
+		KI, SAE-WOON | MOON, JOUNG-NAM
+	</str>
+	<str name="1st Inventor">
+		KI, SAE-WOON
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Chungcheongnam-do, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Chungcheongnam-do, KR | Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		BUSHNELL, ESQ., ROBERT E.
+	</str>
+	<str name="Primary Examiner">
+		WONG, PETER S.
+	</str>
+	<str name="Assistant Examiner">
+		TIBBITS, PIA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

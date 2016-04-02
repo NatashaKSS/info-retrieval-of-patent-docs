@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7605360
+	</str>
+	<str name="Application Number">
+		US11945275
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Power supply system for green laser indicating pen
+	</str>
+	<str name="Abstract">
+		A power supply system for a green laser indicating pen, comprises a computer having an USB receptacle which is connected to a current source in the computer; a USB plug being connected to the USB receptacle; a USB transmission line for connecting the USB plug to a transformer; a chargeable battery connected to the transformer for receiving current from the computer so as to charge the chargeable battery; a voltage level detector connected to the chargeable battery for comparing the voltage of the voltage level detector with a reference voltage in the voltage level detector; an indicator light connected to the voltage level detector for displaying the voltage state with different colors; and a power switch being connected between the transformer and the laser source; as the power switch being actuated, the power from the transformer can be directly transferred to the laser source.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-11-27
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-11
+	</str>
+	<str name="Publication Date">
+		2009-10-20
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		H01J40/14
+	</str>
+	<str name="IPC Primary">
+		H01J40/14
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01J
+	</str>
+	<str name="IPC Group">
+		H01J40
+	</str>
+	<str name="All UPC">
+		250/221 | 345/157 | 250/552
+	</str>
+	<str name="UPC Primary">
+		250/221
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		US7605360 | US20090134311A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20080077198
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		94527507
+	</str>
+	<str name="Priority Date">
+		2007-11-27
+	</str>
+	<str name="Inventor(s)">
+		YEH, CHUNG-KAI
+	</str>
+	<str name="1st Inventor">
+		YEH, CHUNG-KAI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Taipei, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Taipei, TW
+	</str>
+	<str name="Primary Examiner">
+		PYO, KEVIN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7288337
+	</str>
+	<str name="Application Number">
+		US10394019
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Battery pack for portable electronic equipment
+	</str>
+	<str name="Abstract">
+		A rechargeable battery pack for portable electronic equipment is includes a battery coupled to a charge/discharge circuit and includes a a first substrate for mounting parts positioned on a high-current path and a second substrate for mounting peripheral circuits for controlling a charge/discharge of the battery. Accordingly, heat sensitive parts on low current paths may be thermally isolated from heat generating parts on high current paths.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-03-24
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-03
+	</str>
+	<str name="Publication Date">
+		2007-10-30
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-10
+	</str>
+	<str name="All IPC">
+		H01M10/44
+	</str>
+	<str name="IPC Primary">
+		H01M10/44
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="All UPC">
+		320/134 | 429/125 | 320/128 | 429/209
+	</str>
+	<str name="UPC Primary">
+		320/134
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Members">
+		KR1020030081933A | US20030194603A1 | JP2003331800A | US7288337 | JP4167924B2 | CN1320693C | CN1452265A
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6492058 | US20030013013 | US6072299 | US20020131239 | US5796238 | KR0233488 | JP2002008608
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		1020020020395
+	</str>
+	<str name="Priority Date">
+		2002-04-15
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG SDI CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG SDI CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon, KR
+	</str>
+	<str name="Inventor(s)">
+		KIM, JONG-SAM
+	</str>
+	<str name="1st Inventor">
+		KIM, JONG-SAM
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Ahsan, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Ahsan, KR
+	</str>
+	<str name="Agent/Attorney">
+		H.C. PARK &amp; ASSOCIATES, PLC
+	</str>
+	<str name="Primary Examiner">
+		RYAN, PATRICK JOSEPH
+	</str>
+	<str name="Assistant Examiner">
+		CHUO, TONY
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

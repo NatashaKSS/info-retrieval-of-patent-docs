@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7699980
+	</str>
+	<str name="Application Number">
+		US12117785
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System for activated sludge wastewater treatment with high dissolved oxygen levels
+	</str>
+	<str name="Abstract">
+		An activated sludge wastewater treatment system is provided. The disclosed system includes: an uncovered activated sludge basin; a high purity oxygen aeration system; a secondary clarifier; a return activated sludge line and a waste activated sludge line; wherein the system operates at a solids loading of between about 3000 mg and about 10000 mg of suspended solids per liter of mixed liquor; a dissolved oxygen level in the aeration basin in the range of between about 5 mg to 15 mg; and a solids retention time of between about 7 days and 40 days.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-05-09
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-05
+	</str>
+	<str name="Publication Date">
+		2010-04-20
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-04
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/197 | 210/150 | 210/151 | 210/760 | 210/220
+	</str>
+	<str name="UPC Primary">
+		210/197
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;Wastewater Technologies, two oxygenation aeration options--both proven superior, simple and compact&quot;, pp. 1-5, Air Liquide Industrial U.S. LP [www.us.airliquide.com]. cited by other . | Marston, K.R., et al., &quot;Five-Day Biochemical Oxygen Demand Removal From Rendering Plant Wastewater&quot;, Proceedings of the 37.sup.th Industrial Waste Conference May 11, 12 and 13, 1982, Purdue University, West Lafayette, Indiana. cited by other . | Perez-Elvira, et al., &quot;Sludge minimization technologies,&quot; Reviews in Environmental Science and Bio/Technology (2006) 5:375-398. cited by other . | Yoon, et al., &quot;The optimum operational condition of membrane bioreactor (MBR): cost estimation of aeration and sludge treatment&quot;, Water Research 38, pp. 37-46 (2004). cited by other. | Roxburgh, et al., &quot;Sludge Minimization Technologies- Doing More to Get Less&quot;, WEFTEC (2006), pp. 506-525, Water Environment Foundation. cited by other . | Equipment Spec, &quot;The Vitox System&quot;, BOC Gases, The BOD Group 1998. cited by other . | McWhirter, et al., &quot;The Use of High-Purity Oxygen in the Activated Sludge Process&quot;, vols. 1, Chapters 1-3, CRC Press, West Palm Beach, Florida (1978). cited by other . | Moran, et al., &quot;High Purity Oxygen Biological Nutrient Removal (BNR)&quot;, WEFTEC 2000, Water Environmental Federation. cited by other . | Abbassi, B. et al., &quot;Minimization of Excess Sludge Production by Increase of Oxygen Concentration in Activated Sludge Flocs; Experimental and Theoretical Approach&quot;, Water Research vol. 34, No. 1, pp. 139-146 (1999). cited by other . | &quot;Status of Oxygen-Activated Sludge Wastewater Treatment&quot;, EPA 625 4-77-003a., Chapter 1, pp. 1-46, U.S. Environmental Protection Agency. cited by other . | Thomas, et al., &quot;The OXY-DEP VSA system--an exciting new approach to aeration for waste water treatment&quot;, Knowledge Paper, Air Products and Chemicals, Inc. website (2003). cited by other . | Wei, et al., &quot;Minimization of Excess Sludge Production for Biological Wastewater Treatment&quot;, Water Research 37, pp. 4453-4467, (2003). cited by other . | Aggarwal, A. et al., &quot;Optimal Design of Single and Multiple Stage Activated Sludge Processes,&quot; Water, Air and Soil Pollution 42, p. 67-85 (1988). cited by other . | Abson, J.W. et al., &quot;The Activated-Sludge Process as a High-Rate Sewage-Treatment System&quot;, Water Pollution Control, vol. 68, 1969, No. 5, pp. 574-583. cited by other .
+	</str>
+	<str name="Other References Count">
+		14
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5348655 | US4256839 | US3933640 | US6668556 | US4454077 | US4263143 | US3865721 | US3092678 | US6426004 | US6783671 | US3827679 | US7329351 | US6488854 | US6086766 | US5332502 | US6596171 | US5545326 | US7105092 | US6863817 | US6761797 | US5463176 | US7005069 | US6461500 | US20040004038 | US6145815 | US6605220 | US3206176 | US6123446 | US4455232 | US5451348 | US3666103 | US7163632 | US6280624 | US4192740 | US20040007523 | US4269714 | US4898672 | US5916491 | US4206047 | US3452966 | US6555002 | US6245237 | US4163712 | US6270061 | US4919849 | US7413656 | US6135430 | US4430224 | US4136023 | US5925290 | US3043433 | US3210053 | US5874003 | US3439807 | US6780319 | USR29782 | US6464384 | EP1005898 | EP0611728 | DE2922828 | JP1997150182 | EP0645347 | JP1996132100 | JP1989258732
+	</str>
+	<str name="Cites Count">
+		64
+	</str>
+	<str name="Assignee(s)">
+		PRAXAIR TECHNOLOGY, INC.
+	</str>
+	<str name="1st Assignee">
+		PRAXAIR TECHNOLOGY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Danbury, CT
+	</str>
+	<str name="Assignee(s) Address">
+		Danbury, CT
+	</str>
+	<str name="Inventor(s)">
+		NOVAK, RICHARD, A. | FABIYI, MALCOLM | GUPTA, AMITABH
+	</str>
+	<str name="1st Inventor">
+		NOVAK, RICHARD, A.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Naperville, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Naperville, IL | LaGrange, Park, IL | Naperville, IL
+	</str>
+	<str name="Agent/Attorney">
+		HAMPSCH, ROBERT J.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

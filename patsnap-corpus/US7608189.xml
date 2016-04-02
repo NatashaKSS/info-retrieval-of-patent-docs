@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7608189
+	</str>
+	<str name="Application Number">
+		US10860786
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Device for removing bacterial lipopolysaccharides and/or lipoteichoic acids from protein-containing fluids and its use for the treatment of sepsis
+	</str>
+	<str name="Abstract">
+		A device for removing bacterial lipopolysaccharides and lipoteichoic acids from blood or plasma in an extracorporeal perfusion system contains, in a housing that can be incorporated into the perfusion system, a hollow fiber material that is suitable for the selective removal of bacterial lipopolysaccharides and lipoteichoic acids, the device being arranged in such a way that the blood or plasma entering through a first opening of the housing must pass through the hollow fiber material before it leaves through a second opening of the housing and is directed to the rest of the perfusion circuit.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-06-03
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-06
+	</str>
+	<str name="Publication Date">
+		2009-10-27
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-10
+	</str>
+	<str name="All IPC">
+		A61M1/34 | B01D61/14 | B01D61/00
+	</str>
+	<str name="IPC Primary">
+		A61M1/34
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61M
+	</str>
+	<str name="IPC Group">
+		A61M1
+	</str>
+	<str name="All UPC">
+		604/5.01 | 210/651 | 210/650 | 210/321.79 | 604/4.01 | 210/500.23 | 210/483 | 604/5.04 | 604/6.09 | 210/488 | 604/5.02 | 210/503 | 210/506 | 210/508 | 210/660 | 210/321.88 | 210/645 | 210/321.89 | 435/2 | 210/500.38 | 210/321.8 | 210/500.36 | 210/435 | 210/491 | 210/490 | 210/500.41
+	</str>
+	<str name="UPC Primary">
+		604/5.01
+	</str>
+	<str name="UPC Class">
+		604
+	</str>
+	<str name="Family Members">
+		US20050009001A1 | US20090211976A1 | US7608189 | DE10258944A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References">
+		Ginsburg, et al., &quot;Can we learn from the pathogenetic strategies of group A hemolytic streptococci how tissues are injured and organs fail in post-infectious and inflammatory sequealae&quot; FEMS Immunology and Medical Microbiology 25 (1999) 325-338 - 1999. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US8293107
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US20060151374 | US5679260 | US5866673 | US5403917 | US5032281 | US6913696 | US20030068317 | US6861001 | US5151192 | US6461517 | US6849185 | US6478967 | US5024767 | US5679775 | US20030080056 | US20060264355 | DE19963420 | DE19515554 | DE19938394 | EP1002566 | DE19740770 | DE4435612 | DE69010124 | EP1316355 | DE3926539
+	</str>
+	<str name="Cites Count">
+		25
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		10258944
+	</str>
+	<str name="Priority Date">
+		2002-12-17
+	</str>
+	<str name="Assignee(s)">
+		B. BRAUN MEDIZINTECHNOLOGIE GMBH
+	</str>
+	<str name="1st Assignee">
+		B. BRAUN MEDIZINTECHNOLOGIE GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Melsungen, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Melsungen, DE
+	</str>
+	<str name="Inventor(s)">
+		SEIDEL, DIETRICH | BOOS, KARL-SIEGFRIED
+	</str>
+	<str name="1st Inventor">
+		SEIDEL, DIETRICH
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Feldafing, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Feldafing, DE | Gauting, DE
+	</str>
+	<str name="Agent/Attorney">
+		FULBRIGHT &amp; JAWORSKI L.L.
+	</str>
+	<str name="Primary Examiner">
+		KIM, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

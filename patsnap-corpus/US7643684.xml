@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7643684
+	</str>
+	<str name="Application Number">
+		US10891263
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus for and method of constructing multi-view face database, and apparatus for and method of generating multi-view face descriptor
+	</str>
+	<str name="Abstract">
+		An apparatus for generating a multi-view face descriptor includes a multi-view face database storing sets of training face images and sets of test face images, each set including a mosaic view of a single identity; a basis matrix generator generating a basis matrix of the training face images shown from respective viewpoints searched from the multi-view face database; a feature extractor extracting feature vectors of a test face image shown from each viewpoint using the basis matrix of the training face images searched from the multi-view face database; a to-be-registered view selector searching the test face images using the feature vectors extracted by the feature extractor and selecting a plurality of viewpoints as registered viewpoints according to the search results; and a face descriptor generator generating a multi-view face descriptor by synthesizing face descriptors having the plurality of selected viewpoints.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-07-15
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-07
+	</str>
+	<str name="Publication Date">
+		2010-01-05
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		G06K9/66 | H04N7/18 | G06K9/60
+	</str>
+	<str name="IPC Primary">
+		G06K9/66
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		348/169 | 348/152 | 382/118 | 382/190 | 348/135 | 382/305
+	</str>
+	<str name="UPC Primary">
+		348/169
+	</str>
+	<str name="UPC Class">
+		348
+	</str>
+	<str name="Family Members">
+		US20050013507A1 | US7643684
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		D Blackburn, M. Bone, and P. Phillips. Facial Recognition Vendor Test 2000: Executive Overview, 2000. cited by other . | Shiguang Shan et al., &quot;Illumination Normalization for Robust Face Recognition Against Varying Lighting Conditions&quot;, ITC-ISVISION JDL Institute of Computing Technology, Oct. 17, 2003. cited by other. | H. Sebastian Seung and Danial D. Lee, The Manifold Ways of Perception, Science, vol. 290, Dec. 22, 2000. cited by other . | Joshua B Tenenbaum, Vin de Silva, and John C. Langford, A Global Geometric Framework for Nonlinear Dimensional Reduction, Science, vol. 290, Dec. 22, 2000. cited by other . | H. Chen, P. Belhumeur and D. Jacobs. In Search of Illumination Invariants, Int. Journal of Computer Vision, 2000. cited by other . | P. J. Phillips, H. Moon, S. Rizvi, and P. Rauss. The FERET Evaluation Methodology for Face Recognition Algorithms: IEEE Trans. On PAMI, 22(10): 1090-1103, 2000. cited by other . | A. Georghiades, P.N. Belhumeur, and D. Kriegman. From few to many: generative models of recognizing faces under variable pose, Jun. 2001. cited by other . | Xiaofei He et al., &quot;Learning a Locality Preserving Subspace for Visual Recognition&quot;; Proceedings of the Ninth IEEE International Conference on Computer Vision, (2003). cited by other . | Carrie Grimes and David Donoho, Can These Things Work? Theoretical Result for ISOMAP and LLE, 2002. cited by other . | Takeo Kanade et al., &quot;Multi-Subregion Based Probalistic Approach Toward Pose-Invariant Face Recognition&quot;, IEEE; (Jul. 2003). cited by other . | M. Turk and Pentland, Face recognition Using Eigenfaces, 1991. cited by other . | Won-sook Lee et al., Multi-view 3D-Face Descriptor: Proposal for CE, ISO/IECJTC1/SC29/WG11 (Jul. 2003). cited by other . | D. Blackburn, M. Bone, and P. Phillips. Facial Recognition Vendor Test 2000: Evaluation Report, 2000. cited by other . | P.N. Belhumeur, J.P. Hespanda and D. J. Kriegman, Eigenfaces vs. Fisherfaces: Recognition using Class Specific Projection, IEEE Trans PAMI, vol. 19, No. 7, 1997, pp. 711-720. cited by other .
+	</str>
+	<str name="Other References Count">
+		14
+	</str>
+	<str name="Cites">
+		US7254257 | US20030169908 | US5802208 | US7298931 | US7321670 | US20040170327 | US20070258627 | US7478091 | US7340458 | US5561718 | US6879323 | US7203346 | US7164781 | US6137896 | US5164992 | US7043474 | US6996257 | US6631364 | US7471833 | US20020159640 | US20030086627 | US6411724 | US20030165260 | US7184577 | US20030215115 | US6430306
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		KR | KR
+	</str>
+	<str name="Priority Number">
+		1020030048472 | 1020040053686
+	</str>
+	<str name="Priority Date">
+		2003-07-15 | 2004-07-09
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-Si, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-Si, KR
+	</str>
+	<str name="Inventor(s)">
+		LEE, WON-SOOK | SOHN, KYUNG-AH
+	</str>
+	<str name="1st Inventor">
+		LEE, WON-SOOK
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Suwon-Si, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Suwon-Si, KR | Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		STAAS &amp; HALSEY LLP
+	</str>
+	<str name="Primary Examiner">
+		SETH, MANAV
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

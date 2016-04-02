@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7361276
+	</str>
+	<str name="Application Number">
+		US11141490
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus and method for osmotic membrane distillation
+	</str>
+	<str name="Abstract">
+		A method of enhancing the concentration of a first inorganic compound in a first aqueous solution of a first process of a heavy chemical plant, the method comprising (a) feeding the first solution having the first compound at a first concentration and a first water vapor pressure to an osmotic membrane distillation means comprising a hydrophobic, gas and water vapor permeable membrane separating (i) a first chamber for receiving the first solution, from (ii) a second chamber for receiving a receiver feed aqueous solution having a second water vapor pressure lower than the first water vapor pressure; (b) feeding the receiver aqueous feed solution to the second chamber as to effect transfer of water vapor through the membrane from the first chamber to the second chamber, and to produce (i) a resultant first solution having a second concentration of the first compound greater than the first concentration and (ii) a diluted receiver feed aqueous solution; and (c) collecting the resultant first solution. The apparatus and method are of particular value in electrolytic haloalkali production plants in offering reduced capital and operating re-concentration and dilution costs.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-06-01
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-06
+	</str>
+	<str name="Publication Date">
+		2008-04-22
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		C25B1/00 | C25B1/14 | B01D61/36 | B01D63/00 | C25B1/24
+	</str>
+	<str name="IPC Primary">
+		C25B1/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C25
+	</str>
+	<str name="IPC Subclass">
+		C25B
+	</str>
+	<str name="IPC Group">
+		C25B1
+	</str>
+	<str name="All UPC">
+		210/640 | 205/498 | 205/499 | 205/334 | 205/407 | 205/406 | 205/501 | 205/359 | 205/482 | 205/409 | 205/408 | 205/457 | 205/349 | 205/411
+	</str>
+	<str name="UPC Primary">
+		210/640
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080173539A1 | CA2469769A1 | JP2007519823A | WO2005118114A1 | EP1753522A4 | EP1753522A1 | CN1898011A | AU2005249612A1 | AU2005249612B2 | US7361276 | US20050269266A1 | CA2504848A1 | CA2504848C | ZA200601419A
+	</str>
+	<str name="Family Member Count">
+		14
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		Alklaibi et al., &quot;Membrane-distillation desalination: status and potential&quot;, Desalination, 171:111-131 (2004). cited by other . | P.A. Hogan et al., &quot;A New Option : Osmotic Distillation&quot;, Chemical Engineering Progress, Jul. 1998 (not enclosed, will provide at a later date). cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6383386 | US5824223 | US5965004 | US5382365 | US5098566 | US5938928 | US4781837 | US4683039 | US20020029974 | US5932085 | US6569341 | US6299777 | GB1082089 | DE4229061
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		CA
+	</str>
+	<str name="Priority Number">
+		2469769
+	</str>
+	<str name="Priority Date">
+		2004-06-04
+	</str>
+	<str name="Assignee(s)">
+		AKER KVAEMER CANADA INC.
+	</str>
+	<str name="1st Assignee">
+		AKER KVAEMER CANADA INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Vancouver, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Vancouver, CA
+	</str>
+	<str name="Inventor(s)">
+		TWARDOWSKI, ZBIGNIEW | DRACKETT, THOMAS, S. | BESSARABOV, DMITRI | FETISSOFF, PETER, E.
+	</str>
+	<str name="1st Inventor">
+		TWARDOWSKI, ZBIGNIEW
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Vancouver, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Vancouver, CA | Vancouver, CA | Vancouver, CA | Vancouver, CA
+	</str>
+	<str name="Agent/Attorney">
+		MORGAN, LEWIS &amp; BOCKIUS LLP
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

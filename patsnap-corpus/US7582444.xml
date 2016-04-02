@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7582444
+	</str>
+	<str name="Application Number">
+		US10523229
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Use of flocculating agents for separating the solid residue in hydrolysed fermentation substrates
+	</str>
+	<str name="Abstract">
+		Process for improving the separation efficiency of residual solid matter from the liquid phase of an aqueous acid hydrolysate of a naturally occurring polysaccharide comprising dissolved sugars, and residual acid wherein a flocculating agent(s) is added to the aqueous mixture in an effective amount, and a process of producing fermentation products comprising the steps of, (i) hydrolysing a particulate polysaccharide based plant derived material in an acid medium, and thereby forming an aqueous mixture comprising dissolved sugar and solid matter, (ii) subjecting the aqueous mixture to one or more separation stages in which solid matter are removed from the aqueous phase, (iii) adjusting the pH of the obtained aqueous phase to a pH of at least 4, (iv) fermenting the dissolved sugars of the aqueous phase by a microorganism to produce a fermentation product, (v) isolating the fermentation product, wherein in at least one separation stage in step (ii) a flocculating agent is added to the aqueous mixture in an effective amount.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-07-28
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-07
+	</str>
+	<str name="Publication Date">
+		2009-09-01
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		C12P1/00 | C12P13/20
+	</str>
+	<str name="IPC Primary">
+		C12P1/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12P
+	</str>
+	<str name="IPC Group">
+		C12P1
+	</str>
+	<str name="All UPC">
+		435/159 | 435/141 | 435/140 | 435/145 | 435/163 | 435/144 | 435/160 | 435/150 | 435/139 | 426/495 | 435/106 | 210/609 | 435/109 | 210/702 | 210/728 | 210/714 | 210/725 | 127/55 | 426/49 | 210/710 | 435/41 | 127/56
+	</str>
+	<str name="UPC Primary">
+		435/159
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		EP1527186A1 | US20050271770A1 | AU2003251648A1 | US7582444 | WO2004015120A1 | GB0218010D0 | AU2003251648B2 | AU2003251648B8 | BR0313226A | CN100526468C | CN1675368A | CA2494651A1 | MXPA05001214A | NO20050968A | PL373144A1
+	</str>
+	<str name="Family Member Count">
+		15
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Derwent Abstr. 1987-305414 [43] for SU 1300032 (1987). cited by other. | Chem. Abstr. 1985:185565 for Y. Huang, Makromol Chemie, vol. 186, No. 2, (1985), pp. 273-281. cited by other . | Derwent Abstr. 1997-488205[45] for RU 2077594 (1997). cited by other . | J. Hughes et al., 20(ATV-DVWK-Bundestagung 2000), pp. 975-987. cited by other . | Derwent Abstr. 1993-115187 for SU 1726519 (1992). cited by other . | Derwent Abstr. 1990-183837 for SU 1527254 (1989). cited by other . | Derwent Abstract 1986-281090 [43] for JP 61204100 (1986). cited by other . | C. Rivard et al., Applied Biochemistry and Biotechnology, vol. 57-58, No. 0, (1996), pp. 183-191. cited by other . | Derwent Abstr. 1997-344454 [32] for HU 70453 (1995). cited by other . | Y Kholkin et al., Applied Biochemistry and Biotechnology, vol. 82, No. 2, Nov. 1999, pp. 135-140. cited by other .
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cites">
+		US5529699 | US6130303 | US3972775 | US4650689 | US20050079270 | US7455997 | US3711462 | US7244596 | US6071417 | US6090595 | US4384897 | US6132625 | US6967085 | US5536325 | US5975439 | US6068869 | EP0150933 | EP0202780 | WO1998058072 | JP1986204100 | EP0102759
+	</str>
+	<str name="Cites Count">
+		21
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		0218010.7
+	</str>
+	<str name="Priority Date">
+		2002-08-05
+	</str>
+	<str name="Assignee(s)">
+		CIBA SPECIALTY CHEMICALS WATER TREATMENTS LTD.
+	</str>
+	<str name="1st Assignee">
+		CIBA SPECIALTY CHEMICALS WATER TREATMENTS LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Bradford, GB
+	</str>
+	<str name="Assignee(s) Address">
+		Bradford, GB
+	</str>
+	<str name="Inventor(s)">
+		HUGHES, JONATHAN
+	</str>
+	<str name="1st Inventor">
+		HUGHES, JONATHAN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Huddersfield, GB
+	</str>
+	<str name="Inventor(s) Address">
+		Huddersfield, GB
+	</str>
+	<str name="Agent/Attorney">
+		LOGGINS, SHIELA A.
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

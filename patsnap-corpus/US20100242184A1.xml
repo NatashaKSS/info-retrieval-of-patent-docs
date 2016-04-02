@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100242184A1
+	</str>
+
+	<str name="Application Number">
+		US12665774
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		WASHING MACHINE AND METHOD FOR TREATING LAUNDRY USING FOAM
+	</str>
+
+	<str name="Abstract">
+		A washing machine has a lye container, a lye drainage system disposed at a base of the lye container, a drive motor for a drum, and a heating unit. The washing machine has a device for supplying air into the lye, the device can be switched independently of the drum, and the device is an air compressor pump having an outlet to the lye container.
+	</str>
+
+	<str name="Document Types">
+		US | USA
+	</str>
+
+	<str name="Application Date">
+		2008-06-11
+	</str>
+
+	<str name="Application Year">
+		2008
+	</str>
+
+	<str name="Application(Year/Month)">
+		2008-06
+	</str>
+
+	<str name="Publication Date">
+		2010-09-30
+	</str>
+
+	<str name="Publication Year">
+		2010
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2010-09
+	</str>
+
+	<str name="All IPC">
+		D06F35/00 | D06L1/12
+	</str>
+
+	<str name="IPC Primary">
+		D06F35/00
+	</str>
+
+	<str name="IPC Section">
+		D
+	</str>
+
+	<str name="IPC Class">
+		D06
+	</str>
+
+	<str name="IPC Subclass">
+		D06F
+	</str>
+
+	<str name="IPC Group">
+		D06F35
+	</str>
+
+	<str name="All UPC">
+		68/17.R | 8/137 | 68/17R
+	</str>
+
+	<str name="UPC Primary">
+		68/17.R
+	</str>
+
+	<str name="UPC Class">
+		68
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		DE
+	</str>
+
+	<str name="Priority Number">
+		102007028213.5
+	</str>
+
+	<str name="Priority Date">
+		2007-06-20
+	</str>
+
+	<str name="Assignee(s)">
+		BSH BOSCH UND SIEMENS HAUSGERTE GMBH
+	</str>
+
+	<str name="1st Assignee">
+		BSH BOSCH UND SIEMENS HAUSGERTE GMBH
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		Munchen,DE
+	</str>
+
+	<str name="Assignee(s) Address">
+		Munchen,DE
+	</str>
+
+	<str name="Inventor(s)">
+		SCHULZE INGO | MOSCH&#220;TZ HARALD
+	</str>
+
+	<str name="1st Inventor">
+		SCHULZE INGO
+	</str>
+
+	<str name="Number of Inventors">
+		2
+	</str>
+
+	<str name="1st Inventor Address">
+		Panketal,DE
+	</str>
+
+	<str name="Inventor(s) Address">
+		Panketal,DE | Grossbeeren,DE
+	</str>
+
+	<str name="Agent/Attorney">
+		LERNER GREENBERG STEMER LLP
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

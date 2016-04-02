@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7820048
+	</str>
+	<str name="Application Number">
+		US12083097
+	</str>
+	<str name="Title">
+		Method and system for treating organically contaminated waste water
+	</str>
+	<str name="Abstract">
+		A method and system for treating organically contaminated waste water for reuse, by: introducing the waste water into a sedimentation tank to remove a significant portion of the organic contaminants; circulating the waste water from the sedimentation tank to an anoxic mixing chamber for denitrifying the waste water; circulating the waste water from the anoxic mixing chamber to a rotary biological contactor to nitrify the waste water by aeration, and to assimilate organic materials therein by bringing the waste water into contact with a biological medium, to thereby output nitrified waste water; and recirculating a portion of the nitrified waste water outputted from the rotary biological contactor back to the anoxic mixing chamber to enhance the nitrifying and denitrifying of the waste water.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-10-15
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-10
+	</str>
+	<str name="Publication Date">
+		2010-10-26
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-10
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/619 | 210/196 | 210/197 | 210/198.1 | 210/195.1 | 210/623 | 210/622
+	</str>
+	<str name="UPC Primary">
+		210/619
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Preliminary Report on Patentability Dated Jan. 22, 2009 From the International Bureau of WIPO Re.: Application No. PCT/IL2006/001172. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US8257592
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US6679993 | US5256570 | US4537678 | WO2007039910 | KR20010045253
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Inventor(s)">
+		WEISSMAN, RONI
+	</str>
+	<str name="1st Inventor">
+		WEISSMAN, RONI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		ShaAr, Hefer, IL
+	</str>
+	<str name="Inventor(s) Address">
+		ShaAr, Hefer, IL
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

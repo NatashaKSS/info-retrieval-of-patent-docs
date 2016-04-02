@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7727434
+	</str>
+	<str name="Application Number">
+		US11205925
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Membranes and methods of treating membranes
+	</str>
+	<str name="Abstract">
+		Membranes as well as a methods of treating membranes are disclosed. The method of treating a membrane includes contacting the membrane with a first solvent, contacting the membrane with an inert solvent, and contacting the membrane with an amine reactive compound. The first solvent includes a solvent having a Hansen solubility parameter in a range from about 10.0 to about 18. The membrane includes a polymer having an amine group.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-08-16
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-08
+	</str>
+	<str name="Publication Date">
+		2010-06-01
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		B01D71/06 | B29C44/04 | B01D39/14 | B01D67/00
+	</str>
+	<str name="IPC Primary">
+		B01D71/06
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D71
+	</str>
+	<str name="All UPC">
+		210/500.27 | 210/500.39 | 210/500.38 | 264/48 | 427/244 | 210/490
+	</str>
+	<str name="UPC Primary">
+		210/500.27
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		R. Singh, &quot;Polyamide polymer solution behaviour under chlorination conditions&quot;, J. Membrane Sci 1994, 88, 285 Abstract. cited by other . | J. Jegal, S.G. Min, K.-H. Lee, &quot;Factors affecting the interfacial polymerization of polyamide active layers for the formation of polyamide composite membranes&quot;, J.Appl.Polym.Sci., 86 (2002) 2781-2787. cited by other . | Konagaya, S. Kuzumoto, H. O. Wantanabe, &quot;New reverse osmosis membrane materials with higher resistance to chlorine&quot;, Journal of Applied Polymer Science, (2000), 75, 1357. cited by other . | Kawaguchi and Tamura, &quot;Chlorine-Resistant Membrance for Reverse Osmosis. I. Correlation Between Chemical Structures and Chlorine Resistance of Polyamides&quot;, J. Applied Polymer Sci.,29 (1984) 3359. cited by other . | J Glater, S. Hong, M. Elimelech, &quot;The search for a chlorine-resistant reverse osmosis membrane&quot;, Desalination 95 (1994) 325 Abstract. cited by other . | S. Kongaya, M. Tokai, H. Kuzomoto , &quot;Reverse osmosis performance and chlorine resistance of new ternary aromatic copolyamides comprising 3,3-diaminodiphenylsulfone and a comonomer with a carboxyl group&quot;, J. Appld. Polymer Sci, 80 (4) 505-513, (2000). cited by other . | S.N.P.E. Gaeta, E. Negri, E Drioli, &quot;Chlorine resistance of polypiperazineamide membranes and modules&quot;, Desalination (1991), 83, 383 Abstract. cited by other . | S.Wu, C. Zheng, G. Zheng, &quot;Truly chlorine-resistant polyamide reverse osmosis composite membrane&quot;, J. Appld. Polymer Sci. 61, 1996, 1147. cited by other. | N.P.Soice, A.C.Maladono, D.Y.Takigawa, A.D.Norman, W.B.Krantz, A.R.Greenberg., &quot;Oxidative degradation of polyamide reverse osmosis membranes: Studies of molecular model compounds and selected membranes&quot;, J.Appl.Pol.Sci., 90, (2003) 1173-1184. cited by other . | R. Singh, Desalination, &quot;Characteristics of a chlorine-resistant reverse osmosis membrane&quot;, (1994), 95, 27, Abstract. cited by other . | E.K. Lee, W.C. Babcock, R.P. Brass, P.A. Breshnahan, M.B. Chidlaw, &quot;Novel Composite Membraes&quot;, Technical completion Report for U.S. Department of Interior, Bureau of Reclamation, DWRT, NTIS PB 83-243170, 1983. cited by other . | J.Y. Koo, R.J. PetersenJ.E. Cadotte, Polymer Preprints, &quot;ESCA Characterization of Chlorine-Damaged Polyamide Reverse Osmosis Membrane&quot; , Am Chem Soc Div Polym Chem., 1986, 27(2), 391. cited by other . | K.J.P. Orton, F.G. Soper and G. Williams, &quot;The Chlorination of Anilides. Part III. N-Chlorination and C-Chlorination as Simultaneous Side Reactions&quot;, J. Chem. Soc. (1928) 998. cited by other . | N.P.Soice, A.R.Greenberg, W.B.Krantz, A.D.Norman, &quot;Studies of oxidative degradation in polyamide RO membrane barrier layers using pendant drop mechanical analysis&quot;, J. of Membrane Sci., 243 (2004) 345-355. cited by other . | J. Glater, M.R. Zachariah, S.B. McCray and M.R. McCutchan, &quot;Reverse Osmosis Membrane Sensitivity to Ozone and Halogen Disinfectants&quot;, Desalination, 48 1983 (1-16). cited by other . | S. Avolontis, W.T.Hansbury, Hodgkiess, &quot;Chlorine degradation of aromatic polyamides&quot;, Desalination, 85 (1992) 321-334 Abstract. cited by other .
+	</str>
+	<str name="Other References Count">
+		16
+	</str>
+	<str name="Cited By">
+		US8147735
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5271843 | US6521130 | US4783346 | US5582725 | US4129559 | US4005012 | US6024873 | US5525236 | US20030125483 | US5358745 | US6913694 | US6162358 | US5049282 | US3567632 | US6368507 | US3951920 | US5152901 | US3744642 | US4755897 | US20030141242 | US5019264 | US5733602 | US3133137 | US6878278 | US3133132 | US5627217 | US4985660 | US4888116 | US6837996 | US5096586 | US5221481 | US4964998 | US5843351 | US5876602 | US5259950 | US5828708 | US7138058 | US4960517 | US4960518 | US20030121857 | US4859384 | US6251120 | USR34058 | US6987150 | US4277344 | US6783711 | US5922203 | US5755964 | US4948507 | US6837381 | GB2390042
+	</str>
+	<str name="Cites Count">
+		51
+	</str>
+	<str name="Assignee(s)">
+		GENERAL ELECTRIC COMPANY
+	</str>
+	<str name="1st Assignee">
+		GENERAL ELECTRIC COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Niskayuna, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Niskayuna, NY
+	</str>
+	<str name="Inventor(s)">
+		KNIAJANSKI, SERGEI | YEAGER, GARY, WILLIAM | KURTH, CHRISTOPHER, JAMES | IVERSON, ISAAC, KEENE | KLOOS, STEVEN, DUWAYNE | HODGINS, LEONARD, TIMBROOK
+	</str>
+	<str name="1st Inventor">
+		KNIAJANSKI, SERGEI
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Clifton, Park, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Clifton, Park, NY | Rexford, NY | Chaska, MN | Minnetonka, MN | Chanhassen, MN | Closter, NJ
+	</str>
+	<str name="Agent/Attorney">
+		GIOENI, MARY LOUISE
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

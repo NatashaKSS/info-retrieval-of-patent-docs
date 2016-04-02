@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7540963
+	</str>
+	<str name="Application Number">
+		US11/437905
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Ultrafiltration membrane, device, bioartificial organ, and methods
+	</str>
+	<str name="Abstract">
+		The present invention relates to ultrafiltration. In particular, the present invention provides a compact ultrafiltration device and methods for generating an ultrafiltrate, both of which can be used for a variety of applications, including, but not limited to filtering blood, diagnostic applications, and as a bioreactor.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-05-19
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-05
+	</str>
+	<str name="Publication Date">
+		2009-06-02
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		B01D71/00 | A61B5/05 | C12N5/00
+	</str>
+	<str name="IPC Primary">
+		B01D71/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D71
+	</str>
+	<str name="All UPC">
+		210/645 | 210/243 | 210/321.72 | 210/500.22
+	</str>
+	<str name="UPC Primary">
+		210/645
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		WO2004024300A8 | EP1545749A4 | US7540963 | US20040124147A1 | US20060213836A1 | US7048856 | EP1545749A1 | WO2004024300A1 | CA2501965A1 | AU2003272310A1
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Park, B et al. (2002) Med Device Technol 13(2): 32-34. cited by other | Voldman, J et al. (1999) Annu Rev Biomed Eng 1: 401-425. cited by other | Wagner, B (1995) Endosc Surg Allied Technol 3(4): 204-209. cited by other | Petersen, KE (1982) Proceedings of the IEEE 70:420-457. cited by other | Mrksich et al. (1996) PNAS 93:10775-10778. cited by other | Whitesides et al. z91997) Exp Cell Research: 305-313, 1997. cited by other | Mrksich, Chem. Soc. Rev., 29:267 (2000). cited by other | Desai, Med. Eng. Phys. 22:595, 2000. cited by other | Deutsch et al., J. Biomed. Mater. Res., 53:267, 2000. cited by other | Kapur et al., J. Biomed. Mater. Res., 33:205, 1996. cited by other | Brunette and Chehroudi, 121:49, 1999. cited by other | Brunette, Exp. Cell Res., 167:203, 1986. cited by other | Brunette, Exp. Cell Res. 164:11, 1986. cited by other | den Braber et al., J. Biomed. Mater. Res., 29:511, 1995. cited by other | den Braber et al., Biomaterials, 17:2037, 1996. cited by other | Curtis and Wilkinson, Biomaterials 18:1573, 1998. cited by other | Craighead et al., Biomed. Microdevices, 1:49, 1998. cited by other | Mata et al., Biomed. Microdevices 4:267, 2002. cited by other | Mata et al., J. Biomed. Mater. Res., 62:499, 2002. cited by other | Sims in Can. J. Cardiol. 7(10):431-443 (1991. cited by other | Shepro et al in FASEB J. 7:1031-1038 (1993). cited by other | Davies in Kidney International, 45:320-327 (1994). cited by other | Scott et al., J. Cell Sci. 105:269-273, 1993. cited by other | Schneider et al., Surgery 103:456-462, 1988. cited by other | Kadletz et al., J. Thoracic and Cardiovascular Surgery 104:736-742, 1 1992. cited by other | Shepard et al., Surgery 99: 318-3.about.6, 1986. cited by other | Demetriou et al., Science 23:1190-1192, 1986. cited by other | Fissell et al., J. Amer. Soc. Nephrology, vol. 13, pp. 602A, 2002. cited by other | Humes et al., Amer. J. Physiology, 271:F42, 1996. cited by other | Desai et al Adv. Drug Delivery Rev. 56:1661-1673, 2004. cited by other | Conlisk et al in Electrophoresis 24:3006-3017 (2003). cited by other | Conlisk et al in Anal. Chem 74:2139-2150 (2002). cited by other | Min Sensors and Actuators 98:368 (2004). cited by other | Desai, Tejal A., et al., &quot;Micromachined interfaces: new approaches in cell immunoisolation and biomolecular separation,&quot; Biomolecular Engineering 17 (2000) 23-36. cited by other | European Search Report dated Feb. 17, 2009, EP Patent Application No. 03754486.3. cited by other.
+	</str>
+	<str name="Other References Count">
+		35
+	</str>
+	<str name="Cites">
+		US4797211 | US4923608 | US5543046 | US5549674 | US5651900 | US5686289 | US5736372 | US5753014 | US5759830 | US5770076 | US5770193 | US5770417 | US5776748 | US5798042 | US5843741 | US5882496 | US5893974 | US5938923 | US5948255 | US5976826 | US5985164 | US5985328 | US6015599 | US6017390 | US6042784 | US6044981 | US6060270 | US6107102 | US6150164 | US6180239 | US6368838 | US6368877 | US6405066 | US6410320 | US6569654 | US6598750 | US7048856 | WO1989001967 | WO1995013860 | WO1998010267 | WO1998131313 | WO2001041905
+	</str>
+	<str name="Cites Count">
+		42
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		43790506 | 66005603 | 40981002
+	</str>
+	<str name="Priority Date">
+		2006-05-19 | 2003-09-11 | 2002-09-11
+	</str>
+	<str name="Assignee(s)">
+		THE REGENTS OF THE UNIVERSITY OF MICHIGAN (ANN ARBOR, MI) THE CLEVELAND CLINIC FOUNDATION
+	</str>
+	<str name="1st Assignee">
+		THE REGENTS OF THE UNIVERSITY OF MICHIGAN (ANN ARBOR, MI) THE CLEVELAND CLINIC FOUNDATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Cleveland, OH
+	</str>
+	<str name="Assignee(s) Address">
+		Cleveland, OH
+	</str>
+	<str name="Inventor(s)">
+		FISSELL, IV, WILLIAM, H. | HUMES, H., DAVID | ROY, SHUVO | FLEISCHMAN, AARON
+	</str>
+	<str name="1st Inventor">
+		FISSELL, IV, WILLIAM, H.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Ann, Arbor, MI
+	</str>
+	<str name="Inventor(s) Address">
+		Ann, Arbor, MI | Ann, Arbor, MI | Cleveland, OH | University, Heights, OH
+	</str>
+	<str name="Agent/Attorney">
+		CASIMIR JONES SC
+	</str>
+	<str name="Primary Examiner">
+		LAWRENCE, FRANK M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

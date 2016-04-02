@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5668462
+	</str>
+	<str name="Application Number">
+		US08436831
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Method and apparatus for controlling a charging current of a battery in a portable chargeable electronic unit
+	</str>
+	<str name="Abstract">
+		A battery charger charges a battery in a portable chargeable electronic device, such as a cellular phone, with a long-term-constant current, even while the device is used. The charging current is controlled by circuitry in the portable device, avoiding the need for control circuitry in the battery charger or battery. A battery-charger connector that corresponds to the type of battery in the portable device is keyed to fit only a charger that matches the type of battery, thus assuring proper charging of the battery. Alternatively, a simple contact connects the battery charger to the battery. A belt clip covers the battery-charger connector when the battery charger is disconnected to prevent short-circuiting the battery.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-05-08
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-05
+	</str>
+	<str name="Publication Date">
+		1997-09-16
+	</str>
+	<str name="Publication Year">
+		1997
+	</str>
+	<str name="Publication(Year/Month)">
+		1997-09
+	</str>
+	<str name="All IPC">
+		H01M10/46 | H01M10/44
+	</str>
+	<str name="IPC Primary">
+		H01M10/46
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="All UPC">
+		320/110 | 320/163 | 320/145
+	</str>
+	<str name="UPC Primary">
+		320/110
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Members">
+		EP0824778B1 | EP0824778A1 | DE69613836D1 | DE69613836T2 | DE69613836T3 | US5668462 | US6577100 | CN1183859A | WO1996036098A1 | JP1999509719A | CN1075266C | EP0824778B2 | AU5708896A | BR9608273A | AU723981B2 | HK1018127A1 | TR9701321T1
+	</str>
+	<str name="Family Member Count">
+		17
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5349282 | US5367242 | US5177426 | US5237257 | US5438252 | US4709202 | US5164652 | EP0544566A1 | EP0450783 | GB2262401 | EP0148458A2 | EP0574753A2
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		43683195
+	</str>
+	<str name="Priority Date">
+		1995-05-08
+	</str>
+	<str name="Assignee(s)">
+		TELEFONAKTIEBOLAGET LM ERICSSON
+	</str>
+	<str name="1st Assignee">
+		TELEFONAKTIEBOLAGET LM ERICSSON
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Stockholm, SE
+	</str>
+	<str name="Assignee(s) Address">
+		Stockholm, SE
+	</str>
+	<str name="Inventor(s)">
+		HANSSON, H., MAGNUS | LINDQUIST, BJORN, MARTIN, GUNNAR
+	</str>
+	<str name="1st Inventor">
+		HANSSON, H., MAGNUS
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Malmo, SE
+	</str>
+	<str name="Inventor(s) Address">
+		Malmo, SE | Bjarred, SE
+	</str>
+	<str name="Agent/Attorney">
+		BURNS, DOANE, SWECKER &amp; MATHIS, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		TSO, EDWARD
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

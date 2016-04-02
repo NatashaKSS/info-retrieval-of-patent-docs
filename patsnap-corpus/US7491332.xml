@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7491332
+	</str>
+	<str name="Application Number">
+		US11577306
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and device for physical and biological treatment of biomass
+	</str>
+	<str name="Abstract">
+		A method for the physical and biological treatment of an organic effluent, which is decomposed by microorganisms in a biological treatment zone, includes recovering a fraction of the biomass derived from the biological treatment, filling a compression reservoir with the biomass fraction, isolating the compression reservoir, and subjecting the filled compression reservoir to a very high pressure so to destroy or damage the microorganisms in the biomass fraction. Thereafter, the compression reservoir is returned to atmospheric pressure and the treated biomass fraction is reinjected into the biological treatment zone or into another biological treatment zone.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-10-14
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-10
+	</str>
+	<str name="Publication Date">
+		2009-02-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/610 | 210/625 | 210/624 | 435/173.7
+	</str>
+	<str name="UPC Primary">
+		210/610
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		KR1020070064631A | US20070267347A1 | EP1838425A1 | US7491332 | FR2876684A1 | JP2008516746A | WO2006042951A1 | FR2876684B1 | CN101039745A
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report dated Feb. 1, 2006. cited by other . | Preliminary Search Report dated Apr. 13, 2005 with English translation. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6444124 | US6305913 | FR2687590 | DE19842005 | WO2004050566 | WO2001016037 | WO2000007946 | JP2002045883
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0410897
+	</str>
+	<str name="Priority Date">
+		2004-10-15
+	</str>
+	<str name="Assignee(s)">
+		CARBOFIL FRANCE
+	</str>
+	<str name="1st Assignee">
+		CARBOFIL FRANCE
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Saint Mars la Jaille, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Saint Mars la Jaille, FR
+	</str>
+	<str name="Inventor(s)">
+		BOULANT, ALAIN, CHRISTIAN, MICHEL, GUY
+	</str>
+	<str name="1st Inventor">
+		BOULANT, ALAIN, CHRISTIAN, MICHEL, GUY
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Pornichet, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Pornichet, FR
+	</str>
+	<str name="Agent/Attorney">
+		DICKINSON WRIGHT, PLLC
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

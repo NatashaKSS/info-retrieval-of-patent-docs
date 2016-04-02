@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7492127
+	</str>
+	<str name="Application Number">
+		US11031414
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System and method for battery calibration in portable computing devices
+	</str>
+	<str name="Abstract">
+		Described is a method which includes a step of initiating a calibration state of a battery status system. The calibration state including charging a battery to a first threshold value; discharging the battery to a second threshold value; and calibrating the battery status system based on the first and second threshold values. Subsequently, the method includes a step of exiting the calibration state. Described is also a portable computing device which includes invades a battery; a controller; and an application executed on the controller for performing calibration of a battery status system of the battery. The application drives the battery to a threshold state and performs the calibration when the battery reaches the threshold state.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-01-07
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-01
+	</str>
+	<str name="Publication Date">
+		2009-02-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		H01M10/44
+	</str>
+	<str name="IPC Primary">
+		H01M10/44
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="All UPC">
+		324/426 | 320/132
+	</str>
+	<str name="UPC Primary">
+		324/426
+	</str>
+	<str name="UPC Class">
+		324
+	</str>
+	<str name="Family Members">
+		US20070216361A1 | US7492127
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20020167293 | US6304087 | US5047961
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		3141405
+	</str>
+	<str name="Priority Date">
+		2005-01-07
+	</str>
+	<str name="Assignee(s)">
+		SYMBOL TECHNOLOGIES, INC.
+	</str>
+	<str name="1st Assignee">
+		SYMBOL TECHNOLOGIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Holtsville, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Holtsville, NY
+	</str>
+	<str name="Inventor(s)">
+		ZELINSKI, TIMOTHY, B. | CONTICELLO, THOMAS | KROPP, DARREN
+	</str>
+	<str name="1st Inventor">
+		ZELINSKI, TIMOTHY, B.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Sayville, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Sayville, NY | St., James, NY | Moriches, NY
+	</str>
+	<str name="Agent/Attorney">
+		FAY KAPLUN &amp; MARCIN, LLP
+	</str>
+	<str name="Primary Examiner">
+		TSO, EDWARD
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

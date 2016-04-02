@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120294531A1
+	</str>
+	<str name="Application Number">
+		US13/478503
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		HUMAN IMAGE RETRIEVAL SYSTEM
+	</str>
+	<str name="Abstract">
+		An image retrieval system, including: an image input section for inputting a retrieval target image; an image data base for storing image data; a retrieval section for retrieving a plurality of images similar to said retrieval target image, by using a feature amount of said retrieval target image from said image data base; a filtering processing section for carrying out filtering processing using a whole image feature amount of another feature amount different from said feature amount of said retrieval target image about said plurality of images, to obtain a filtering result; and an outputting section for outputting said filtering result.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2012-05-23
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-05
+	</str>
+	<str name="Publication Date">
+		2012-11-22
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-11
+	</str>
+	<str name="All IPC">
+		G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/190
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2007-284664
+	</str>
+	<str name="Priority Date">
+		2007-11-01
+	</str>
+	<str name="Inventor(s)">
+		MATSUBARA, DAISUKE | HIROIKE, ATSUSHI | MORIMOTO, YASUTSUGU | AKIRA, NAOTO
+	</str>
+	<str name="1st Inventor">
+		MATSUBARA, DAISUKE
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Kokubunji, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kokubunji, JP | Kawagoe, JP | Kodaira, JP | Kokubunji, JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

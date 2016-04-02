@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7438805
+	</str>
+	<str name="Application Number">
+		US11878041
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Apparatus for reducing volume of sludge
+	</str>
+	<str name="Abstract">
+		The pH value of excess sludge taken out from a biological oxidation tank (2) is adjusted to 8 to 14, and the pH-adjusted sludge is injected into a solubilizing device (3). The sludge taken out from the solubilizing device (3) is heated to 110.degree. C. to 350.degree. C. at a pressure higher than saturated steam pressure to solubilize the sludge to a state readily degradable by microorganisms. The solubilized sludge is returned to a biological oxidizing tank (2), and the pH value of the sludge in the biological oxidizing tank (2) to 5 to 9. The use of the above method of treating excess sludge and an apparatus therefore enables substantially reducing the volume of excess sludge with economic advantage.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-07-20
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-07
+	</str>
+	<str name="Publication Date">
+		2008-10-21
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		B01D15/00 | C02F3/12
+	</str>
+	<str name="IPC Primary">
+		B01D15/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/202 | 210/195.1
+	</str>
+	<str name="UPC Primary">
+		210/202
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		JP3754979B2 | WO2004026774A1 | AU2003257701A1 | EP1550638A4 | CN1328193C | US20070289909A1 | US7258791 | US7438805 | CN1678537A | EP1550638A1 | US20050199547A1
+	</str>
+	<str name="Family Member Count">
+		11
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5417862 | US20040004038 | US6110323 | US5540847 | US4649031 | US6224769 | US5369031 | US7258791 | JP2001079584 | JP1996039096 | JP1997136100 | JP2000218295 | DE129270 | JP2003117597 | JP2001225091 | JP1998080699 | JP1980008835 | JP1999300393
+	</str>
+	<str name="Cites Count">
+		18
+	</str>
+	<str name="Priority Country">
+		US | JP | JP | US | JP
+	</str>
+	<str name="Priority Number">
+		87804107 | 2002256721 | 2003147897 | 6906305 | 0310732
+	</str>
+	<str name="Priority Date">
+		2007-07-20 | 2002-09-02 | 2003-05-26 | 2005-03-02 | 2003-08-26
+	</str>
+	<str name="Assignee(s)">
+		KOGA, TAKESHI
+	</str>
+	<str name="1st Assignee">
+		KOGA, TAKESHI
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Yokohama-Shi, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Yokohama-Shi, JP
+	</str>
+	<str name="Inventor(s)">
+		MATSUMOTO, SHIGEKI
+	</str>
+	<str name="1st Inventor">
+		MATSUMOTO, SHIGEKI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa, JP
+	</str>
+	<str name="Agent/Attorney">
+		KRATZ, QUINTOS &amp; HANSON, LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20100310916A1
+	</str>
+	<str name="Application Number">
+		US12580976
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		BATTERY
+	</str>
+	<str name="Abstract">
+		By being embedded in a portable computing device, a battery pack is made essentially inaccessible to unauthorized users, thereby allowing for a battery pack that can be made smaller and of lighter construction material, thereby facilitating greater component density within the portable computing device, lower cost to manufacture, and more environmentally secure. In another embodiment, the battery pack can take the form of a battery assembly formed of a single piece housing having a cantilever portion to provide additional stiffness.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2009-10-16
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-10
+	</str>
+	<str name="Publication Date">
+		2010-12-09
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-12
+	</str>
+	<str name="All IPC">
+		H01M4/82 | H01M2/10
+	</str>
+	<str name="IPC Primary">
+		H01M4/82
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M4
+	</str>
+	<str name="All UPC">
+		429/100 | 29/623.1
+	</str>
+	<str name="UPC Primary">
+		429/100
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		APPLE INC.
+	</str>
+	<str name="1st Assignee">
+		APPLE INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Cupertino,CA,US
+	</str>
+	<str name="Assignee(s) Address">
+		Cupertino,CA,US
+	</str>
+	<str name="Inventor(s)">
+		COISH ROBERT L. | HOPKINSON RON | RAFF JOHN | LIGTENBERG CHRIS
+	</str>
+	<str name="1st Inventor">
+		COISH ROBERT L.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Mountain View,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Mountain View,CA,US | Campbell,CA,US | Menlo Park,CA,US | San Carlos,CA,US
+	</str>
+	<str name="Agent/Attorney">
+		BEYER LAW GROUP LLP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7493800
+	</str>
+	<str name="Application Number">
+		US11823188
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Sampling method
+	</str>
+	<str name="Abstract">
+		A method for sampling a host liquid in a vessel to detect the presence of an undesired liquid in the host liquid and removing host liquid that contains undesired liquid from the vessel, wherein an electrical capacitance probe is employed to detect the presence of the undesired liquid, and the liquid that is passed by the capacitance probe is fed to an incinerator.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-06-27
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-06
+	</str>
+	<str name="Publication Date">
+		2009-02-24
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		G01N1/00 | B01D35/00
+	</str>
+	<str name="IPC Primary">
+		G01N1/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G01
+	</str>
+	<str name="IPC Subclass">
+		G01N
+	</str>
+	<str name="IPC Group">
+		G01N1
+	</str>
+	<str name="All UPC">
+		73/61.59 | 210/85
+	</str>
+	<str name="UPC Primary">
+		73/61.59
+	</str>
+	<str name="UPC Class">
+		73
+	</str>
+	<str name="Family Members">
+		US20090000359A1 | US7493800
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20030106694 | US5090238 | US3932111 | US5070725 | US5139653 | US5545799 | US3220930 | US3515988 | US7351779 | US2812773 | US5260667 | US3693435 | US5612490 | US20060053869 | US3359787
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		82318807
+	</str>
+	<str name="Priority Date">
+		2007-06-27
+	</str>
+	<str name="Assignee(s)">
+		EQUISTAR CHEMICALS, LP
+	</str>
+	<str name="1st Assignee">
+		EQUISTAR CHEMICALS, LP
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Houston, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s)">
+		ZAMANIAN, AHMAD | DVORAK, LAWRENCE, W. | REED, BRIAN, K.
+	</str>
+	<str name="1st Inventor">
+		ZAMANIAN, AHMAD
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Victoria, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Victoria, TX | Port, Lavaca, TX | Victoria, TX
+	</str>
+	<str name="Agent/Attorney">
+		MACDONALD, RODERICK W.
+	</str>
+	<str name="Primary Examiner">
+		FITZGERALD, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

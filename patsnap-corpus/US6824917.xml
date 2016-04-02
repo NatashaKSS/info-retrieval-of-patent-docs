@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6824917
+	</str>
+	<str name="Application Number">
+		US10013793
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Battery system for a portable electronic device
+	</str>
+	<str name="Abstract">
+		A battery system for a portable electronic device includes a thin wall can structure for holding cathode and anode material and electrolyte defining a battery cell. Current is limited by a safety component integral with a cap assembly that seals the can structure and provides electrical and mechanical connection with a related battery pack engagement and holding arrangement which maintains the battery pack in an operative position in the electronic device. A finger groove is used to lift the battery pack from its operative position. A weakened wall in the finger groove functions as a safety vent and ruptures to release built-up pressure to prevent the battery pack from exploding.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-12-11
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-12
+	</str>
+	<str name="Publication Date">
+		2004-11-30
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-11
+	</str>
+	<str name="All IPC">
+		H01M14/100 | H01M2/12 | H01M2/10 | H01M2/02
+	</str>
+	<str name="IPC Primary">
+		H01M14/100
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M14
+	</str>
+	<str name="All UPC">
+		429/7 | 429/171 | 429/170 | 429/100 | 429/56 | 429/97
+	</str>
+	<str name="UPC Primary">
+		429/7
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		EP1320137A3 | EP1320137B1 | EP1320137A2 | US20030108786A1 | DE60224765D1 | DE60224765T2 | US6824917 | CN1426124A | CN1241279C
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		19
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7326479 | US7781092 | US7759001 | US7972721 | US8213998 | TWI377761B | US8203657 | US7912515 | US7597994 | US7623352 | US7927386 | US7081015 | US7248021 | US7429432 | US7397218
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US6432575 | US6579640 | US5716730
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		1379301
+	</str>
+	<str name="Priority Date">
+		2001-12-11
+	</str>
+	<str name="Assignee(s)">
+		NOKIA CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NOKIA CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Espoo, FI
+	</str>
+	<str name="Assignee(s) Address">
+		Espoo, FI
+	</str>
+	<str name="Inventor(s)">
+		AALTONEN, MARKUS | KANNINEN, MIKA | NASKALI, MATTI
+	</str>
+	<str name="1st Inventor">
+		AALTONEN, MARKUS
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Littoinen, FI
+	</str>
+	<str name="Inventor(s) Address">
+		Littoinen, FI | Piikkio, FI | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		WARE, FRESSOLA, VAN DER SLUYS &amp; ADOLPHSON LLP
+	</str>
+	<str name="Primary Examiner">
+		RYAN, PATRICK
+	</str>
+	<str name="Assistant Examiner">
+		PARSONS, THOMAS H.
+	</str>
+	<str name="cited by within 3 years">
+		4
+	</str>
+	<str name="cited by within 5 years">
+		8
+	</str>
+</doc>
+

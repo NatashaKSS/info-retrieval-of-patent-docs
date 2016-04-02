@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120308123A1
+	</str>
+	<str name="Application Number">
+		US13/458390
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS AND METHOD FOR ESTIMATING THE NUMBER OF OBJECTS INCLUDED IN AN IMAGE
+	</str>
+	<str name="Abstract">
+		An apparatus and method for estimating the number of objects in an input image are disclosed. The apparatus includes: a learning unit that calculates counted values of a linear regression function by learning an arbitrary image; a separation unit that separates a foreground region and a background region of the input image; an extraction unit that searches for features that require an amount of calculation that is below a particular threshold from features having high correlation with each other feature and extracts the features from the separated foreground region; and an estimation unit that estimates the number of objects in the foreground region as a dependent variable by allocating the counted values of the linear regression function that are calculated by the learning unit and the features that are extracted by the extraction unit as independent variables of a linear regression function.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2012-04-27
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-04
+	</str>
+	<str name="Publication Date">
+		2012-12-06
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-12
+	</str>
+	<str name="All IPC">
+		G06K9/62
+	</str>
+	<str name="IPC Primary">
+		G06K9/62
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/159
+	</str>
+	<str name="UPC Primary">
+		382/159
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		10-2011-0052388
+	</str>
+	<str name="Priority Date">
+		2011-05-31
+	</str>
+	<str name="Assignee(s)">
+		POSTECH ACADEMY-INDUSTRY FOUNDATION | SAMSUNG TECHWIN CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		POSTECH ACADEMY-INDUSTRY FOUNDATION
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		Pohang-si, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Pohang-si, KR | Changwon-city, KR
+	</str>
+	<str name="Inventor(s)">
+		JO, YOUNG-GWAN | NOH, SEUNG-IN | PARK, YONG-JIN | HAN, JOON-HEE
+	</str>
+	<str name="1st Inventor">
+		JO, YOUNG-GWAN
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Changwon-city, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Changwon-city, KR | Changwon-city, KR | Pohang-si, KR | Pohang-si, KR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

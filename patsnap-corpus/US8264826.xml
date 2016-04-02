@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8264826
+	</str>
+	<str name="Application Number">
+		US12/574178
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Electronic apparatus and battery pack
+	</str>
+	<str name="Abstract">
+		An electronic apparatus includes: a main body including a battery pack mounting portion at an end in a direction; a display portion to be openable to the main body via a hinge portion provided at an end in the direction; a battery pack detachable from the battery pack mounting portion along the direction; a first connector portion provided at a position of the battery pack mounting portion on the end side in the direction; a second connector portion provided to the battery pack and connectable to the first connector portion; a first engagement portion provided at another end of the battery pack mounting portion in the direction; a second engagement portion provided to the battery pack and capable of being engaged with the first engagement portion relatively in the direction; and a notch portion provided at an end of the battery pack in the direction, for avoiding the hinge portion.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-10-06
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-10
+	</str>
+	<str name="Publication Date">
+		2012-09-11
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-09
+	</str>
+	<str name="All IPC">
+		H05K7/16
+	</str>
+	<str name="IPC Primary">
+		H05K7/16
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/679.02 | 248/917
+	</str>
+	<str name="UPC Primary">
+		361/679.02
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5251105 | US5841630 | US7630742 | US7715189 | US20070121284 | JP2007115091
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2008-335341
+	</str>
+	<str name="Priority Date">
+		2008-12-26
+	</str>
+	<str name="Assignee(s)">
+		SONY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SONY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		TOBIYAMA, RYOSUKE | HANATSUKA, AKIRA
+	</str>
+	<str name="1st Inventor">
+		TOBIYAMA, RYOSUKE
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEUSTADT, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		LEE, JINHEE
+	</str>
+	<str name="Assistant Examiner">
+		WRIGHT, INGRID
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

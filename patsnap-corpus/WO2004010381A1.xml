@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2004010381A1
+	</str>
+	<str name="Application Number">
+		PCT/GB2003/003249
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		IMAGE CONTROL
+	</str>
+	<str name="Abstract">
+		A method for an industrial or medical process which employs radiation imaging to monitor progress of the process, in which a combination of parameters derived from the image is used to calculate output signals to enhance control of the process
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-07-21
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-07
+	</str>
+	<str name="Publication Date">
+		2004-01-29
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-01
+	</str>
+	<str name="All IPC">
+		G06T7/00
+	</str>
+	<str name="IPC Primary">
+		G06T7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T7
+	</str>
+	<str name="Family Members">
+		AU2003246969A1 | GB0216889D0 | WO2004010381A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		BECK M S ET AL: &quot;PROCESS TOMOGRAPHY - THE STATE OF THE ART&quot; TRANSACTIONS OF THE INSTITUTE OF MEASUREMENT AND CONTROL, INSTITUTE OF MEASUREMENT AND CONTROL. DORKING, GB, vol. 20, no. 4, 1998, pages 163-177, XP008006300 ISSN: 0142-3312 | NOORALAHIYAN A Y ET AL: &quot;Neural network for pattern association in electrical capacitance tomography&quot; IEE PROCEEDINGS: CIRCUITS DEVICES AND SYSTEMS, INSTITUTION OF ELECTRICAL ENGINEERS, STENVENAGE, GB, vol. 141, no. 6, 1 December 1994 (1994-12-01), pages 517-21, XP006001549 ISSN: 1350-2409 | IBRAHIM S ET AL: &quot;Improving process understanding through tomography&quot; EMERGING TECHNOLOGIES IN MEASUREMENT AND CONTROL. TECHNOLOGY UPDATE LV. TECHNICAL PAPERS OF ISA (ISA VOL.400). ISA EXPO 2000, EMERGING TECHNOLOGIES IN MEASUREMENT AND CONTROL. TECHNOLOGY UPDATE LV. TECHNICAL PAPERS OF ISA (ISA VOL.400), NEW ORLEANS, , pages 207-215, XP009019967 2000, Research Triangle Park, NC, USA, ISA, USA ISBN: 1-55617-731-3 | BECK M S ET AL: &quot;PROCESS TOMOGRAPHY: A EUROPEAN INNOVATION AND ITS APPLICATIONS&quot; MEASUREMENT SCIENCE AND TECHNOLOGY, IOP PUBLISHING, BRISTOL, GB, vol. 7, no. 3, 1 March 1996 (1996-03-01), pages 215-224, XP000580968 ISSN: 0957-0233
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cites">
+		WO0229707A2
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		0216889.6
+	</str>
+	<str name="Priority Date">
+		2002-07-20
+	</str>
+	<str name="Assignee(s)">
+		THE UNIVERSITY OF SURREY
+	</str>
+	<str name="1st Assignee">
+		THE UNIVERSITY OF SURREY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Guildford, Surrey GU2 7XH, GB
+	</str>
+	<str name="Assignee(s) Address">
+		Guildford, Surrey GU2 7XH, GB
+	</str>
+	<str name="Inventor(s)">
+		MORTON, EDWARD
+	</str>
+	<str name="1st Inventor">
+		MORTON, EDWARD
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		James, 37, Banders, Rise, Merrow, Guildford, Surrey, GU1, 2SL, GB
+	</str>
+	<str name="Inventor(s) Address">
+		James, 37, Banders, Rise, Merrow, Guildford, Surrey, GU1, 2SL, GB
+	</str>
+	<str name="Agent/Attorney">
+		BUTLER, LANCE, BARKER BRETTELL, 10-12 PRIESTS BRIDGE, LONDON SW15 5JE, GB
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

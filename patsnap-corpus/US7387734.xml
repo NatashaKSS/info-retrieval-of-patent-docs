@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7387734
+	</str>
+	<str name="Application Number">
+		US10496086
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of operating a dialysis machine
+	</str>
+	<str name="Abstract">
+		A method and apparatus of priming or rinse back of an extracorporeal circuit using a dialysis machine comprising a dialysis liquid preparation system. The dialysis machine is used to prepare a saline solution on-line. The extracorporeal circuit is connected to the dialysis machine and primed with the saline solution.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-11-22
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-11
+	</str>
+	<str name="Publication Date">
+		2008-06-17
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All IPC">
+		B01D61/30 | B01D61/26
+	</str>
+	<str name="IPC Primary">
+		B01D61/30
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		604/5.01 | 210/321.71 | 604/4.01 | 210/321.6 | 210/739 | 210/252 | 210/645 | 604/6.09 | 210/647 | 210/646
+	</str>
+	<str name="UPC Primary">
+		604/5.01
+	</str>
+	<str name="UPC Class">
+		604
+	</str>
+	<str name="Family Members">
+		SE0103907L | AU2002348565A1 | EP1450879A1 | US20050040110A1 | ES2312636T3 | US20060237351A1 | JP2005509497A | EP1450879B1 | AT411060T | SE0103907D0 | SE525132C2 | US7387734 | DE60229428D1 | WO2003043680A1 | CA2461552A1 | JP4235555B2 | SE0103907A
+	</str>
+	<str name="Family Member Count">
+		17
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7892197 | US7815809
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US5711883 | US4702829 | US5690831 | US6635026 | US6187198 | US5902476 | US5336165 | US5259961 | US4784495 | US6132616 | EP0278100 | EP1097724 | EP0192588 | WO2002098491 | WO1999030756
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		SE
+	</str>
+	<str name="Priority Number">
+		0103907
+	</str>
+	<str name="Priority Date">
+		2001-11-23
+	</str>
+	<str name="Assignee(s)">
+		GAMBRO LUNDIA AB
+	</str>
+	<str name="1st Assignee">
+		GAMBRO LUNDIA AB
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Lund, SE
+	</str>
+	<str name="Assignee(s) Address">
+		Lund, SE
+	</str>
+	<str name="Inventor(s)">
+		FELDING, ANDERS
+	</str>
+	<str name="1st Inventor">
+		FELDING, ANDERS
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Malmo, SE
+	</str>
+	<str name="Inventor(s) Address">
+		Malmo, SE
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp; DUNNER, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		KIM, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

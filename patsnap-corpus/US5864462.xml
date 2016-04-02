@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5864462
+	</str>
+	<str name="Application Number">
+		US08896436
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Spare battery containing means in a personal computer
+	</str>
+	<str name="Abstract">
+		The subject invention relates to a type of spare battery box for PC, comprising an opening on the expansion slot plate on a PC casing; said opening accommodating a battery box; the inside of said battery box forms a battery chamber to accommodate a battery; on the inside wall of the battery chamber are fixed with two guide plates that can be connected by contact with the two battery poles; the two guide plates have guide wires and a connector; said connector can be plugged to the connector for outside battery on the main board; so that the power from the battery can be transmitted to the main board; thereby to achieve the function to facilitate replacement of the battery.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1997-07-18
+	</str>
+	<str name="Application Year">
+		1997
+	</str>
+	<str name="Application(Year/Month)">
+		1997-07
+	</str>
+	<str name="Publication Date">
+		1999-01-26
+	</str>
+	<str name="Publication Year">
+		1999
+	</str>
+	<str name="Publication(Year/Month)">
+		1999-01
+	</str>
+	<str name="All IPC">
+		H01M2/00 | G06F1/16
+	</str>
+	<str name="IPC Primary">
+		H01M2/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M2
+	</str>
+	<str name="All UPC">
+		429/123 | 361/683 | 429/100
+	</str>
+	<str name="UPC Primary">
+		429/123
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		US5864462
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5058045 | US5075182 | US5729478
+	</str>
+	<str name="Cites Count">
+		3
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		89643697
+	</str>
+	<str name="Priority Date">
+		1997-07-18
+	</str>
+	<str name="Inventor(s)">
+		KAO, YU-JEN
+	</str>
+	<str name="1st Inventor">
+		KAO, YU-JEN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		2Fl., 2, Lane, 235, Bao, Chiao, Road, Hsin, Tien, TW
+	</str>
+	<str name="Inventor(s) Address">
+		2Fl., 2, Lane, 235, Bao, Chiao, Road, Hsin, Tien, TW
+	</str>
+	<str name="Agent/Attorney">
+		ROSENBERG, KLEIN &amp; BILKER
+	</str>
+	<str name="Primary Examiner">
+		FEILD, LYNN D.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

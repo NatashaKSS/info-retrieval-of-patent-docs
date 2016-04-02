@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20040166827A1
+	</str>
+	<str name="Application Number">
+		US10788505
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Thin profile battery bonding method of conductively interconnecting electronic components, battery powerable apparatus, radio frequency communication device, and electric circuit
+	</str>
+	<str name="Abstract">
+		A curable adhesive composition is provided which comprises an epoxy terminated silane. A thin profile battery and a substrate to which the thin profile battery is to be conductively connected are also provided. The curable adhesive composition is interposed between the thin profile battery and the substrate. It is cured into an electrically conductive bond electrically interconnecting the battery and the substrate. In another aspect, the invention includes a method of conductively interconnecting electronic components using a curable adhesive composition which comprises an epoxy terminated silane. The invention in another aspect includes interposing a curable epoxy composition between first and second electrically conductive components to be electrically interconnected. At least one of the components comprises a metal surface with which the curable epoxy is to electrically connect. The epoxy is cured into an electrically conductive bond electrically interconnecting the first and second components. The epoxy has an effective metal surface wetting concentration of silane to form a cured electrical interconnection having a resistance through said metal surface of less than or equal to about 0.3 ohm-cm.sup.2. In another aspect, a battery powerable apparatus includes a conductive adhesive mass comprising an epoxy terminated silane between a battery and substrate. A radio frequency communication device is one example. In another aspect, the invention includes an electric circuit comprising first and second electric components electrically connected with one another through a conductive adhesive mass comprising an epoxy terminated silane.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-02-26
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-02
+	</str>
+	<str name="Publication Date">
+		2004-08-26
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-08
+	</str>
+	<str name="All IPC">
+		H01M2/10 | H04B1/16 | B29C31/00
+	</str>
+	<str name="IPC Primary">
+		H01M2/10
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M2
+	</str>
+	<str name="All UPC">
+		429/123 | 455/343.1 | 156/295 | 264/272.21
+	</str>
+	<str name="UPC Primary">
+		429/123
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		US20040166827A1 | US7511616
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US | US | US
+	</str>
+	<str name="Priority Number">
+		78850504 | 98996001 | 48007600 | 2281298
+	</str>
+	<str name="Priority Date">
+		2004-02-26 | 2001-11-21 | 2000-01-10 | 1998-02-12
+	</str>
+	<str name="Assignee(s)">
+		MICRON TECHNOLOGY, INC.
+	</str>
+	<str name="1st Assignee">
+		MICRON TECHNOLOGY, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		RICKIE C. LAKE
+	</str>
+	<str name="1st Inventor">
+		RICKIE C. LAKE
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Eagle,ID,US
+	</str>
+	<str name="Inventor(s) Address">
+		Eagle,ID,US
+	</str>
+	<str name="Agent/Attorney">
+		WELLS ST. JOHN P.S.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20110044530A1
+	</str>
+	<str name="Application Number">
+		US12543684
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		IMAGE CLASSIFICATION USING RANGE INFORMATION
+	</str>
+	<str name="Abstract">
+		A method of identifying an image classification for an input digital image comprising receiving an input digital image for a captured scene; receiving a range map which represents range information associated with the input digital image, wherein the range information represents distances between the captured scene and a known reference location; identifying the image classification using both the range map and the input digital image; and storing the image classification in association with the input digital image in a processor-accessible memory system.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2009-08-19
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-08
+	</str>
+	<str name="Publication Date">
+		2011-02-24
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/62
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/154 | 382/190 | 382/224
+	</str>
+	<str name="UPC Primary">
+		382/154
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Inventor(s)">
+		WANG SEN | YU JIE
+	</str>
+	<str name="1st Inventor">
+		WANG SEN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Rothester,NY,US
+	</str>
+	<str name="Inventor(s) Address">
+		Rothester,NY,US | Rochester,NY,US
+	</str>
+	<str name="Agent/Attorney">
+		RAYMOND L. OWENS,PATENT LEGAL STAFF
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

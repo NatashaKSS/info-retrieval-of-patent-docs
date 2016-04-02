@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7938894
+	</str>
+	<str name="Application Number">
+		US12039664
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Hybrid organic-inorganic gas separation membranes
+	</str>
+	<str name="Abstract">
+		The invention discloses a composition comprising a hybrid composite organic-inorganic membrane. The hybrid organic-inorganic membrane according to the present invention may comprise an amorphous porous layer incorporating organic functionalities. The amorphous porous layer may be deposited on a porous alumina substrate by chemical vapor deposition (CVD). The amorphous porous layer may comprise a single top-layer (STL), multiple top-layers (MTL) or mixed top-layers (XTL). The substrate may comprise a single layer or multiple graded layers of alumina.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-02-28
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-02
+	</str>
+	<str name="Publication Date">
+		2011-05-10
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-05
+	</str>
+	<str name="All IPC">
+		B01D71/06 | B01D53/22 | B01D71/02
+	</str>
+	<str name="IPC Primary">
+		B01D71/06
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D71
+	</str>
+	<str name="All UPC">
+		96/14 | 210/640 | 96/13 | 96/12 | 96/11 | 96/45 | 427/255.6 | 96/55 | 210/500.28 | 55/DIG.5 | 427/255.23 | 96/51 | 96/7 | 210/490 | 427/248.1 | 427/255.28 | 210/500.21 | 96/4 | 55/524
+	</str>
+	<str name="UPC Primary">
+		96/14
+	</str>
+	<str name="UPC Class">
+		96
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Ha et al, &quot;Chemical vapor deposition of hydrogen-permselective silica films on porous glass supports from tetraethylorthosilicate&quot;; J. Membrane Science, 1993, 85, 279-290. cited by other . | Okui et al. &quot;Gas Permeation of Porous Organic/Inorganic Hybrid Membranes&quot;, 1995, Journal of Sol-Gel Science and Technology, 5, 127-134. cited by examiner . | Prabhu et al, &quot;Highly hydrogen selective ceramic membranes: application to the transformation of greenhouse gases&quot;; J. Membrane Science, 2000, 176, 233-248. cited by other. | Sea et al; &quot;Pore size control and gas permeation kinetics of silica membranes by pyrolysis of phenyl-substituted ethoxysilanes with cross-flow through a porous support wall&quot;; Journal of Membrane Science, (1997) 130, 41-51. cited by other . | Smaihi et al; &quot;Organic-inorganic gas separation membranes: Preparation and characterization&quot;; Journal of Membrane Science, (1996) 116,211-220. cited by other . | Okui et al; &quot;Gas Permeation Porous Organic/Inorganic Hybrid Membranes&quot;; Journal of Sol-Gel Science and Technology, (1995); 5,127-134. cited by other . | Yan et al., &quot;Hydrogen-Permselective SiO2 Membrane Formed in Pores of Alumina Support Tube by Chemical Vapor Deposition with Tetraethyl Orthosilane&quot;; Ind. Eng. Chem. Res.,1994, 33, 2096-2101. cited by other . | Kuraoka et al. &quot;Permeation of Methanol Vapor Through Silica Membranes Prepared by the CVD Method with the Aid of Evacuation&quot;, 1999, Journal of Membrane Science, 160, 31-39. cited by examiner . | McCool et al., &quot;Amino-Functionalized Silica Membranes for Enhanced Carbon Dioxide Permeation&quot;, 2005, Adv. Funct. Mater., 15, 1635-1640. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20070141325 | US6454836 | US6544419 | US6854602 | US20090107330 | US20060090651 | US6042727 | US4990165 | US7048778 | US4881954 | US7179325 | US6730364 | US20030222015 | US4575385 | US6527833 | US20080134895 | US5286280
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Assignee(s)">
+		CONOCOPHILLIPS COMPANY (HOUSTON, TX), VIRGINIA TECH INTELLECTUAL PROPERTIES, INC.
+	</str>
+	<str name="1st Assignee">
+		CONOCOPHILLIPS COMPANY (HOUSTON, TX), VIRGINIA TECH INTELLECTUAL PROPERTIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Blacksburg, VA
+	</str>
+	<str name="Assignee(s) Address">
+		Blacksburg, VA
+	</str>
+	<str name="Inventor(s)">
+		OYAMA, SHIGEO, TED | GU, YUNFENG | ALLISON, JOE, D. | GUNTER, GARRY, C. | SCHOLTEN, SCOTT, A.
+	</str>
+	<str name="1st Inventor">
+		OYAMA, SHIGEO, TED
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Blacksburg, VA
+	</str>
+	<str name="Inventor(s) Address">
+		Blacksburg, VA | Painted, Post, NY | Ponca, City, OK | Ponca, City, OK | Ponca, City, NY
+	</str>
+	<str name="Agent/Attorney">
+		BOULWARE &amp; VALOIR
+	</str>
+	<str name="Primary Examiner">
+		GREENE, JASON M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

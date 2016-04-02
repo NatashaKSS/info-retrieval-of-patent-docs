@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1818870B1
+	</str>
+
+	<str name="Application Number">
+		EP2007002430
+	</str>
+
+	<str name="Kind Code">
+		B1
+	</str>
+
+	<str name="Title">
+		Computerized method for tracking object in sequence of frames
+	</str>
+
+	<str name="Document Types">
+		EP | EPB
+	</str>
+
+	<str name="Application Date">
+		2007-02-05
+	</str>
+
+	<str name="Application Year">
+		2007
+	</str>
+
+	<str name="Application(Year/Month)">
+		2007-02
+	</str>
+
+	<str name="Publication Date">
+		2011-01-05
+	</str>
+
+	<str name="Publication Year">
+		2011
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2011-01
+	</str>
+
+	<str name="All IPC">
+		G06T7/20
+	</str>
+
+	<str name="IPC Primary">
+		G06T7/20
+	</str>
+
+	<str name="IPC Section">
+		G
+	</str>
+
+	<str name="IPC Class">
+		G06
+	</str>
+
+	<str name="IPC Subclass">
+		G06T
+	</str>
+
+	<str name="IPC Group">
+		G06T7
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References">
+		KUBO, F. AND ANDO, T.: &quot;means of positive linear operators&quot; MATHEMATISCHE ANNALEN, [Online] vol. 246, no. 3, 1980, pages 205-224, XP002530649 Retrieved from the Internet: URL:http://www.springerlink.com/content/w2 2826n67523056t/&amp;gt; [retrieved on 2009-06-04] | GOVINDU, V.M.: &quot;Lie-Algebraic Averaging For Globally Consistent Motion Estimation&quot;[Online] 2004, pages 1-8, XP002530648 Retrieved from the Internet: URL:http://citeseerx.ist.psu.edu/viewdoc/s ummary?doi=10.1.1.10.6216&amp;gt; [retrieved on 2009-06-04] | SILVEN O ET AL: &quot;Experiments with monocular visual tracking and environment modeling&quot; COMPUTER VISION, 1993. PROCEEDINGS., FOURTH INTERNATIONAL CONFERENCE O N BERLIN, GERMANY 11-14 MAY 1993, LOS ALAMITOS, CA, USA,IEEE COMPUTER SOCI, 11 May 1993 (1993-05-11), pages 84-92, XP010128641 ISBN: 978-0-8186-3870-1 | F&#214;RSTNER W ET AL: &quot;A Metric for Covariance Matrices&quot; QUO VADIS GEODESIA: A FESTSCHRIFT F&#220;R PROF. GRAFAREND - TECHNICAL REPORT DEPARTMENT OF GEODESY AND GEOINFORMATICS,, 1 January 1999 (1999-01-01), pages 113-128, XP008096054
+	</str>
+
+	<str name="Other References Count">
+		4
+	</str>
+
+	<str name="Priority Country">
+		US
+	</str>
+
+	<str name="Priority Number">
+		352145
+	</str>
+
+	<str name="Priority Date">
+		2006-02-09
+	</str>
+
+	<str name="Assignee(s)">
+		MITSUBISHI ELECTRIC CORPORATION
+	</str>
+
+	<str name="1st Assignee">
+		MITSUBISHI ELECTRIC CORPORATION
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		7-3, Marunouchi 2-chome, Chiyoda-ku Tokyo 100-8310, JP
+	</str>
+
+	<str name="Assignee(s) Address">
+		7-3, Marunouchi 2-chome, Chiyoda-ku Tokyo 100-8310, JP
+	</str>
+
+	<str name="Inventor(s)">
+		PORIKLI, FATIH, M | TUZEL, ONCEL
+	</str>
+
+	<str name="1st Inventor">
+		PORIKLI, FATIH, M
+	</str>
+
+	<str name="Number of Inventors">
+		2
+	</str>
+
+	<str name="1st Inventor Address">
+		32, Whites, Avenue, Apt, 41, Watertown, Massachusetts, 02472, US
+	</str>
+
+	<str name="Inventor(s) Address">
+		32, Whites, Avenue, Apt, 41, Watertown, Massachusetts, 02472, US | 55, Bevier, Rd., 301-D, Buell, Piscataway, NJ, 08854, US
+	</str>
+
+	<str name="Agent/Attorney">
+		PFENNING, MEINIG &amp; PARTNER GBR
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

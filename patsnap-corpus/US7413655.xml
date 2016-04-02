@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7413655
+	</str>
+	<str name="Application Number">
+		US11302953
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for the biological breakdown of effluent containing nitroaromatics
+	</str>
+	<str name="Abstract">
+		A method for the biodegradation of nitroaromatic-containing wastewater, including: (a) providing activated sludge as biological matrix, (b) adding a nitroaromatic-degrading microorganism to the activated sludge, (c) adding nitroaromatic-containing wastewater to the material of step (b) and (d) adding at least one carbon source which is more readily utilizable than the nitroaromatic to be degraded to the material of step (c).
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-14
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2008-08-19
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/610 | 435/262.5 | 210/909
+	</str>
+	<str name="UPC Primary">
+		210/610
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1644289A1 | DE10331507A1 | US20060115887A1 | US7413655 | WO2005007587A1 | CN1823013A
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Report on Patentability, Application No. PCT/EP2004/007128, 2004. cited by other. | Zhao et al.; &quot;Microbial degradation of nitrobenzene and mono-nitrophenol by bacteria enriched from municipal activated sludge&quot;; Canadian Journal of Microbiology; 1999. cited by other . | Melgoza et al.; &quot;Degradation of p-nitrophenol in a batch biofilter under sequential anaerobic/aerobic environments&quot;; Water Science and Technology; vol. 44, No. 4, pp. 151-157; 2001. cited by other . | International Search Report and Written Opinion; Application No. PCT/EP2004/007128, 2004. cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5478743 | US5455173 | US6699707 | US6475387 | US6334954 | US6066772 | US5618427 | US5543324 | WO2005007587
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		10331507
+	</str>
+	<str name="Priority Date">
+		2003-07-11
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITAT STUTTGART
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITAT STUTTGART
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Stuttgart, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Stuttgart, DE
+	</str>
+	<str name="Inventor(s)">
+		DICKEL, OLAF | KNACKMUSS, HANS-JOACHIM | RIEGER, PAUL-GERHARD
+	</str>
+	<str name="1st Inventor">
+		DICKEL, OLAF
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Gerlingen, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Gerlingen, DE | Leonberg, DE | Stuttgart, DE
+	</str>
+	<str name="Agent/Attorney">
+		RENNER, OTTO, BOISSELLE &amp; SKLAR, LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

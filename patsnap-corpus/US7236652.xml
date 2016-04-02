@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7236652
+	</str>
+	<str name="Application Number">
+		US10202535
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image retrieval apparatus and image retrieving method
+	</str>
+	<str name="Abstract">
+		An object of the present invention is to provide an image retrieval system for computing similarity in the case when components are different between an image feature vector of a query image and the image feature vectors of images to be retrieved when retrieval is carried out by using features of images. A first image feature vector conversion device converts a query image feature vector into a first image feature vector for use in a similarity computation according to similarity computation image feature vector configuration information describing a given configuration of an image feature vector for use in a similarity computation. A second image feature vector conversion device converts an images-to-be-retrieved feature vector into a second image feature vector for use in a similarity computation according to the similarity computation image feature vector configuration information. The image feature vector similarity computation devices compare the first image feature vector with the second image feature vector according to the similarity computation image feature vector configuration information, and compute the similarity.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-07-24
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-07
+	</str>
+	<str name="Publication Date">
+		2007-06-26
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-06
+	</str>
+	<str name="All IPC">
+		G06K9/54 | G06K9/60
+	</str>
+	<str name="IPC Primary">
+		G06K9/54
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/305
+	</str>
+	<str name="UPC Primary">
+		382/305
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		CA2394913C | CA2394913A1 | JP2003036273A | EP1280072A3 | US20030021481A1 | US7236652 | EP1280072A2
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References">
+		Sheikholeslami, Gholamhosein, Wendy Chang, Aidong Zhange. &quot;Semantic Clustering and Querying on Heterogenous Features for Visual Data&quot;. 1998. ACM Press. MULTIMEDIA '98: Proceedings of the Sixth ACM International Conference of Mutimedia. pp. 3-12. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US7899274 | US8031979 | US7953299 | US7474783 | US8145656
+	</str>
+	<str name="Cited By Count">
+		5
+	</str>
+	<str name="Cites">
+		US20010056419 | US6243492 | US6173275 | US5845015 | US5579471 | US5913205 | US6192150 | US5369502 | US6442538 | US6175829 | US5802361 | JP1999338876 | JP1999066107 | WO2003022270 | WO1998050869 | JP2000259832 | JP2001034632
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2001224547
+	</str>
+	<str name="Priority Date">
+		2001-07-25
+	</str>
+	<str name="Assignee(s)">
+		NEC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NEC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KASUTANI, EIJI
+	</str>
+	<str name="1st Inventor">
+		KASUTANI, EIJI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		SCULLY, SCOTT, MURPHY &amp; PRESSER, P.C.
+	</str>
+	<str name="Primary Examiner">
+		MEHTA, BHAVESH M
+	</str>
+	<str name="Assistant Examiner">
+		CONOVER, DAMON
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

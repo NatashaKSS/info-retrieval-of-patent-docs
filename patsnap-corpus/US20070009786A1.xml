@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070009786A1
+	</str>
+	<str name="Application Number">
+		US11475636
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Connection unit for the connection of electrical components to a motor vehicle battery
+	</str>
+	<str name="Abstract">
+		The invention relates to a connection unit for the connection of electrical and/or electronic components to a pole of a motor vehicle battery comprising a first conductor section that can be connected to a battery pole; a second conductor section originating from the first conductor section and including a main conductor and a bypass conductor, to which the at least one respective electrical and/or electronic component can be connected; an interruption unit, by which an electrical and/or electronic component connected to the main conductor can be electrically isolated from the battery; and at least one sensor for the measurement of a battery current and/or of a battery voltage.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-06-27
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-06
+	</str>
+	<str name="Publication Date">
+		2007-01-11
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-01
+	</str>
+	<str name="All IPC">
+		H01M1/42
+	</str>
+	<str name="IPC Primary">
+		H01M1/42
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M1
+	</str>
+	<str name="All UPC">
+		429/61 | 429/123 | 429/121
+	</str>
+	<str name="UPC Primary">
+		429/61
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		EP1742280A1 | KR1020070000339A | US20070009786A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		05013818.9
+	</str>
+	<str name="Priority Date">
+		2005-06-27
+	</str>
+	<str name="Inventor(s)">
+		HOLD KLAUS | ROSEMANN ACHIM | HIRSCH KRYSTIAN
+	</str>
+	<str name="1st Inventor">
+		HOLD KLAUS
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Remscheid,DE
+	</str>
+	<str name="Inventor(s) Address">
+		Remscheid,DE | Schwelm,DE | Wuelfrath,DE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

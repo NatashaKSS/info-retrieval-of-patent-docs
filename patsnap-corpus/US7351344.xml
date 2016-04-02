@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7351344
+	</str>
+	<str name="Application Number">
+		US10503105
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Sterile system and method for filtering biological or medical liquids, especially blood or blood constituents
+	</str>
+	<str name="Abstract">
+		The invention relates to a sterile system and a method for filtering biological or medical liquids, especially blood or blood constituents. According to the filtering system and method, the sterile air already in the system is collected before the beginning of the filtration process, and after the filtration process, in order to completely empty the system used. Said filtering system comprises a collapsible container having a first and second air inlet/outlet line. The first air inlet/outlet line communicates with the first chamber of the filter by means of a flow connection, and the second air inlet/outlet line with the second chamber of the filter. Only the air inlet/outlet line communicating with the first filter chamber is sealed by a hydrophobic membrane or a return valve in the filtering system, such that the system has an especially simple structure.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-01-09
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-01
+	</str>
+	<str name="Publication Date">
+		2008-04-01
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		B01D35/01 | B01D35/00 | B01D37/00
+	</str>
+	<str name="IPC Primary">
+		B01D35/01
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D35
+	</str>
+	<str name="All UPC">
+		604/408 | 210/258 | 210/257.1 | 210/120 | 210/767 | 210/252 | 604/410 | 210/472 | 210/436 | 210/136
+	</str>
+	<str name="UPC Primary">
+		604/408
+	</str>
+	<str name="UPC Class">
+		604
+	</str>
+	<str name="Family Members">
+		EP1469928A1 | ES2272943T3 | EP1469928B1 | US20050082218A1 | DE50305745D1 | US7351344 | WO2003064000A1 | AT345859T | ITTO20020080A1 | ITTO20020080D0
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		English translation of European Patent No. 0 888 789 A1. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US5545339 | US5601730 | US5776338 | DE19733407 | GB2211755 | EP0642801 | EP0888789 | WO1991017809
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		IT
+	</str>
+	<str name="Priority Number">
+		TO2002A0080
+	</str>
+	<str name="Priority Date">
+		2002-01-29
+	</str>
+	<str name="Assignee(s)">
+		FRESENIUS HEMOCARE ITALIA S.R.L.
+	</str>
+	<str name="1st Assignee">
+		FRESENIUS HEMOCARE ITALIA S.R.L.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Modena, IT
+	</str>
+	<str name="Assignee(s) Address">
+		Modena, IT
+	</str>
+	<str name="Inventor(s)">
+		VERRI, PAOLO | MARI, GIORGIO
+	</str>
+	<str name="1st Inventor">
+		VERRI, PAOLO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Concordia, IT
+	</str>
+	<str name="Inventor(s) Address">
+		Concordia, IT | Mirandola, IT
+	</str>
+	<str name="Agent/Attorney">
+		KENYON &amp; KENYON LLP
+	</str>
+	<str name="Primary Examiner">
+		KIM, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6445809
+	</str>
+	<str name="Application Number">
+		US09383200
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Environment monitoring system
+	</str>
+	<str name="Abstract">
+		In an environment monitoring system using an optical flow, an optical-flow detecting device detects the optical flow in the steps of reverse-projection converting the early image of two early and later images picked up by an image picked up, on the basis of a predetermined optical arrangement of the image pick-up means onto an x-z plane in parallel to a road surface in a real space to acquire a road surface image; computing a moving distance of one's own vehicle in two timings on the basis of a time interval between two timings and speed information of one's own vehicle; parallel-shifting the road surface image by the moving distance thus computed; projection-converting the road surface image after parallel-shifted to acquire an estimated image of the later image in timing; acquiring a differential image between the later image and its estimated image to extract a feature point; and searching a corresponding point of the feature point extracted. In this configuration, it is possible to prevent an object such as a paint which should not be detected on a road surface from being erroneously detected as another surrounding vehicle.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1999-08-26
+	</str>
+	<str name="Application Year">
+		1999
+	</str>
+	<str name="Application(Year/Month)">
+		1999-08
+	</str>
+	<str name="Publication Date">
+		2002-09-03
+	</str>
+	<str name="Publication Year">
+		2002
+	</str>
+	<str name="Publication(Year/Month)">
+		2002-09
+	</str>
+	<str name="All IPC">
+		G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/104 | 348/118 | 340/903 | 340/436
+	</str>
+	<str name="UPC Primary">
+		382/104
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP2000074645A | JP3463858B2 | US6445809
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Lorusso et al., &quot;An Approach to Obstacle Detection and Steering Control from Optical Flow&quot;, IEEE 1996, Intelligent Vehicle Symposium, pp. 357-362.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US5369590 | US4660037 | US5424952 | US5555312 | US5410346 | US5221956 | US5708427 | JP1994107096 | JP1995050769
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		10241264
+	</str>
+	<str name="Priority Date">
+		1998-08-27
+	</str>
+	<str name="Assignee(s)">
+		YAZAKI CORPORATION
+	</str>
+	<str name="1st Assignee">
+		YAZAKI CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		SASAKI, KAZUYUKI | ISHIKAWA, NAOTO | NAKAJIMA, MASATO | IMAI, TERUHISA
+	</str>
+	<str name="1st Inventor">
+		SASAKI, KAZUYUKI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Shizuoka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Shizuoka, JP | Shizuoka, JP | Tokyo, JP | Kanagawa, JP
+	</str>
+	<str name="Agent/Attorney">
+		ARMSTRONG, WESTERMAN &amp; HATTORI, LLP
+	</str>
+	<str name="Primary Examiner">
+		PATEL, JAYANTI K.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

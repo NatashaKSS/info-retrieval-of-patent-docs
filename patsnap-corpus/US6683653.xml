@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US6683653
+	</str>
+	<str name="Application Number">
+		US09241309
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Electronic camera and dial control device of electronic equipment
+	</str>
+	<str name="Abstract">
+		When the interior of the electronic camera is seen from the back side, a battery is arranged at the part corresponding to the inside of a grip part arranged at the right side of the casing so that the long axis of the battery is along the right side of the casing, and an imaging part including a taking lens and a CCD is arranged at the upper left. Below the imaging part, an LCD monitor and a memory card holder are arranged parallel to a plane perpendicular to the optical axis of the taking lens. In this arrangement, the components of the camera are arranged in a compact size. On the back face of the camera body, a mode dial is arranged at a position that can be operated by the thumb of a hand holding the grip part. The mode dial is capable of rotating within a plane perpendicular to the optical axis of the taking lens. A dial control device including the mode dial has a double structure that comprises a push-type cross key, which is able to incline in upward, downward, right and left directions, and a ring-shaped rotatable mode dial at the circumference of the cross key. This dial control device achieves a multiple function dial/button, which is slim, easy to operate and compact.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1999-02-01
+	</str>
+	<str name="Application Year">
+		1999
+	</str>
+	<str name="Application(Year/Month)">
+		1999-02
+	</str>
+	<str name="Publication Date">
+		2004-01-27
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-01
+	</str>
+	<str name="All IPC">
+		H09N5/225 | G03B17/02
+	</str>
+	<str name="IPC Primary">
+		H09N5/225
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H09
+	</str>
+	<str name="IPC Subclass">
+		H09N
+	</str>
+	<str name="IPC Group">
+		H09N5
+	</str>
+	<str name="All UPC">
+		348/373 | 396/540 | 396/535 | 348/376
+	</str>
+	<str name="UPC Primary">
+		348/373
+	</str>
+	<str name="UPC Class">
+		348
+	</str>
+	<str name="Family Members">
+		US6683653
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6519003 | US5634152 | US5430511 | US6411332 | US6181380 | US6208380 | US6122003 | USD408044 | US6441854 | US5970267 | US5283606 | US5729289 | JP1997230438 | JP1996122842 | JP1994031812 | EP0946045
+	</str>
+	<str name="Cites Count">
+		16
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		10021274 | 10021275 | 10021276
+	</str>
+	<str name="Priority Date">
+		1998-02-02 | 1998-02-02 | 1998-02-02
+	</str>
+	<str name="Assignee(s)">
+		FUJI PHOTO FILM CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		FUJI PHOTO FILM CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kanagawa, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kanagawa, JP
+	</str>
+	<str name="Inventor(s)">
+		MIYAKE, MICHIHIRO | NAGUMO, YOICHI | TOKIWA, KENTARO
+	</str>
+	<str name="1st Inventor">
+		MIYAKE, MICHIHIRO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Asaka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Asaka, JP | Asaka, JP | Asaka, JP
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		GARBER, WENDY R.
+	</str>
+	<str name="Assistant Examiner">
+		YE, LIN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

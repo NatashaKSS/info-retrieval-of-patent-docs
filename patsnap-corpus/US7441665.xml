@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7441665
+	</str>
+	<str name="Application Number">
+		US10676730
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water purification cartridge
+	</str>
+	<str name="Abstract">
+		The water purification cartridge treats water with a halogen liberated from halogenated hydantoinyl resins and polymers, resulting in the safe, complete, and economical purification of non-potable water at low flow rates typically found in gravity feed filtration systems and at water pressures of less than 1 psig. The cartridge of the invention purifies non-potable water of bacteria, viruses, and some protozons without the need for additional power sources or risk to the consumer for exposure to chemicals that have been identified to have harmful, long-term effects. The cartridge described herein enables a gravity fed water purification system by combining the cartridge with conventional filters, such as porous diatomaceous earthen ceramic water filters or activated carbon filters packed either with granular activated carbon or block.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-10-01
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-10
+	</str>
+	<str name="Publication Date">
+		2008-10-28
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		B01D35/00 | B01D24/00 | B01D29/00
+	</str>
+	<str name="IPC Primary">
+		B01D35/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D35
+	</str>
+	<str name="All UPC">
+		210/503 | 210/256 | 210/754 | 210/456 | 210/232 | 210/474 | 210/753 | 210/455 | 210/282
+	</str>
+	<str name="UPC Primary">
+		210/503
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20050072729A1 | US7441665 | US20050098506A1 | WO2005033017A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		USD647594 | USD650885 | USD650886 | USD645117 | US8128820
+	</str>
+	<str name="Cited By Count">
+		5
+	</str>
+	<str name="Cites">
+		US4714546 | US2584551 | US6548054 | US6419821 | US4640774 | US6274038 | US4594392 | US20040149642 | US6602425 | US6524477 | US3909414 | US5498333 | US5562824 | US5472606 | US5897770 | US5211973 | US5902818 | US5490983 | US6187192 | US5407573 | US5882357 | US6294185 | US5057612 | US6555000 | US5308482 | US5061367 | US5518613 | US4609463 | US6469177 | US6156202 | WO2003000732
+	</str>
+	<str name="Cites Count">
+		31
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		67673003
+	</str>
+	<str name="Priority Date">
+		2003-10-01
+	</str>
+	<str name="Assignee(s)">
+		HALOSOURCE, INC.
+	</str>
+	<str name="1st Assignee">
+		HALOSOURCE, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Bothell, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Bothell, WA
+	</str>
+	<str name="Inventor(s)">
+		BRIDGES, MICHAEL, A. | SOUZA, JOHN, P.
+	</str>
+	<str name="1st Inventor">
+		BRIDGES, MICHAEL, A.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Seattle, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Seattle, WA | Astoria, OR
+	</str>
+	<str name="Agent/Attorney">
+		CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC
+	</str>
+	<str name="Primary Examiner">
+		KIM, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		5
+	</str>
+	<str name="cited by within 5 years">
+		5
+	</str>
+</doc>
+

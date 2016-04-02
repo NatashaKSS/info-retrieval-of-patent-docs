@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7547397
+	</str>
+	<str name="Application Number">
+		US11/955957
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Particle-accelerating deposition and separation apparatus and method for turbid water
+	</str>
+	<str name="Abstract">
+		A pretreatment particle-accelerating deposition and separation apparatus and method for purifying turbid raw water, which based on the theories of laminar flow requirement, particle-accelerating vertical deposition and water horizontal movement, separates water molecules from turbidity particles in a laminar flow region (with a Reynolds number lower than 1,000). By accelerating the velocity of high-turbidity raw water and the turbidity particles, the particles settle vertically because of inertia. Thus, the turbidity particles can be removed physically from the raw water and clean water can be collected at different heights of the apparatus while concentrated turbid water can be released to a nearby body of water after appropriate treatments. Thereby, turbid water can be purified for the subsequent coagulation, sedimentation and filtration processes in traditional water treatment plants.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-12-13
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-12
+	</str>
+	<str name="Publication Date">
+		2009-06-16
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		B01D43/00 | B01D21/00
+	</str>
+	<str name="IPC Primary">
+		B01D43/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D43
+	</str>
+	<str name="All UPC">
+		210/801 | 210/307 | 210/519 | 210/533 | 210/540 | 210/803
+	</str>
+	<str name="UPC Primary">
+		210/801
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7547397 | US20090152214A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		English translation of the abstract for JP59-199006A, Nov. 12, 1984. cited by other | English Relevancy Statement for Chinese Office Action 2006100874491, Dec. 19, 2008. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US0973357 | US1065542 | US1104051 | US2205934 | US2860786 | US3375930 | US4867877 | US5453197 | US5549827 | US6568541 | US6860991 | US20050173348 | CN2006100874491 | JP1984199006
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		95595707
+	</str>
+	<str name="Priority Date">
+		2007-12-13
+	</str>
+	<str name="Inventor(s)">
+		LIU, SHI-PING
+	</str>
+	<str name="1st Inventor">
+		LIU, SHI-PING
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Taipei, County, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Taipei, County, TW
+	</str>
+	<str name="Agent/Attorney">
+		WPAT, P.C. KING, ANTHONY
+	</str>
+	<str name="Primary Examiner">
+		UPTON, CHRISTOPHER
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1293388A2
+	</str>
+	<str name="Application Number">
+		EP2002015032
+	</str>
+	<str name="Kind Code">
+		A2
+	</str>
+	<str name="Title">
+		Energy management device and method for energy management in a vehicle
+	</str>
+	<str name="Abstract">
+		Energy management device for vehicle computes power reserve or overload from maximum deliverable generator power, actual output power, battery current and voltage, generator load limit The device has a predictor unit (10) for determining a power reserve or an overload in an energy network in the vehicle with at least one battery and a generator. The predictor unit detects at least the maximum deliverable generator power, the actual output generator power, a current to the battery and a battery voltage and computes the power reserve or overload from them and a predefined generator output load limit. AN Independent claim is also included for the following: an energy management method.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-07-05
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-07
+	</str>
+	<str name="Publication Date">
+		2003-03-19
+	</str>
+	<str name="Publication Year">
+		2003
+	</str>
+	<str name="Publication(Year/Month)">
+		2003-03
+	</str>
+	<str name="All IPC">
+		B60R16/02 | H02J7/14 | B60K41/00 | B60L15/20
+	</str>
+	<str name="IPC Primary">
+		B60R16/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B60
+	</str>
+	<str name="IPC Subclass">
+		B60R
+	</str>
+	<str name="IPC Group">
+		B60R16
+	</str>
+	<str name="Family Members">
+		EP1293388A3 | EP1293388A2 | DE10145270A1 | DE10145270B4
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		DE19745849A1 | EP1103426A1 | FR2790428A1 | EP1093974A2 | US5345761 | DE19960079A1 | DE19857916A1 | DE19610927A1
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		10145270
+	</str>
+	<str name="Priority Date">
+		2001-09-14
+	</str>
+	<str name="Assignee(s)">
+		AUDI AG
+	</str>
+	<str name="1st Assignee">
+		AUDI AG
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		ZUBER, MANFRED
+	</str>
+	<str name="1st Inventor">
+		ZUBER, MANFRED
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

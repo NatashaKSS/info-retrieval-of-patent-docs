@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2413287A1
+	</str>
+
+	<str name="Application Number">
+		EP2011405287
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		Image processing method and device for instant replay
+	</str>
+
+	<str name="Abstract">
+		A computer-implemented image processing method for the automatic generation of video sequences from a televised event, comprises the steps of
+&#8226; defining a reference keyframe from a reference view from a source image sequence (10);
+&#8226; from one or more keyframes automatically computing (73) one or more sets of virtual camera parameters;
+&#8226; generating (76) a virtual camera flight path (20) which is described by a change of virtual camera parameters over time and which defines a movement of a virtual camera (11) and a corresponding change of a virtual view;
+&#8226; rendering and storing (77) a virtual video stream (V) defined by the virtual camera flight path.
+	</str>
+
+	<str name="Document Types">
+		EP | EPA
+	</str>
+
+	<str name="Application Date">
+		2011-07-18
+	</str>
+
+	<str name="Application Year">
+		2011
+	</str>
+
+	<str name="Application(Year/Month)">
+		2011-07
+	</str>
+
+	<str name="Publication Date">
+		2012-02-01
+	</str>
+
+	<str name="Publication Year">
+		2012
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2012-02
+	</str>
+
+	<str name="All IPC">
+		G06T15/20 | G06T19/00
+	</str>
+
+	<str name="IPC Primary">
+		G06T15/20
+	</str>
+
+	<str name="IPC Section">
+		G
+	</str>
+
+	<str name="IPC Class">
+		G06
+	</str>
+
+	<str name="IPC Subclass">
+		G06T
+	</str>
+
+	<str name="IPC Group">
+		G06T15
+	</str>
+
+	<str name="Family Members">
+		JP2012034365A | US20120188452A1 | EP2413286A1 | EP2413287A1
+	</str>
+
+	<str name="Family Member Count">
+		4
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		EP | EP
+	</str>
+
+	<str name="Priority Number">
+		11405287 | 10405145
+	</str>
+
+	<str name="Priority Date">
+		2011-07-18 | 2010-07-29
+	</str>
+
+	<str name="Assignee(s)">
+		LIBEROVISION AG
+	</str>
+
+	<str name="1st Assignee">
+		LIBEROVISION AG
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		Technoparkstrasse 1, 8005 Z&#252;rich, CH
+	</str>
+
+	<str name="Assignee(s) Address">
+		Technoparkstrasse 1, 8005 Z&#252;rich, CH
+	</str>
+
+	<str name="Inventor(s)">
+		NIEDERBERGER, CHRISTOPH | W&#220;RMLIN, STADLER, STEPHAN | ZIEGLER, REMO | KEISER, RICHARD
+	</str>
+
+	<str name="1st Inventor">
+		NIEDERBERGER, CHRISTOPH
+	</str>
+
+	<str name="Number of Inventors">
+		4
+	</str>
+
+	<str name="1st Inventor Address">
+		Horburgstrasse, 70, 4057, Basel, CH
+	</str>
+
+	<str name="Inventor(s) Address">
+		Horburgstrasse, 70, 4057, Basel, CH | Ellen-Widmann-Weg, 4, 8050, Z&#252;rich, CH | Wilstrasse, 10, 86120, Uster, CH | Burstwiesenstrasse, 72, 8055, Z&#252;rich, CH
+	</str>
+
+	<str name="Agent/Attorney">
+		FREI PATENT ATTORNEYS
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

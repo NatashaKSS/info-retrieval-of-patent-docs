@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7248782
+	</str>
+	<str name="Application Number">
+		US09955142
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image retrieving apparatus, image retrieving method and recording medium for recording program to implement the image retrieving method
+	</str>
+	<str name="Abstract">
+		In the similarity calculating portion, a similarity between frame feature vectors of the subject videos for retrieval, stored in the frame feature vector storing portion, and image feature vectors of the query images extracted by the image feature vector extracting portion is calculated, further in the frame feature vector selecting portion, the frame feature vectors of which the similarities are higher than a predetermined threshold value are selected, and furthermore, in the similar segment generating portion, the frame feature vectors that are continuous in time, out of those selected by the frame feature vector selecting portion, are integrated into one group. Thereafter, in the similar image selecting portion, at least one frame feature vector of the highest similarity inside the integrated group is selected so as to present an image having the selected frame feature vector as a result of retrieval.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-09-19
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-09
+	</str>
+	<str name="Publication Date">
+		2007-07-24
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-07
+	</str>
+	<str name="All IPC">
+		G06F7/00 | H04N5/91
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		386/69 | 707/1 | 382/305
+	</str>
+	<str name="UPC Primary">
+		386/69
+	</str>
+	<str name="UPC Class">
+		386
+	</str>
+	<str name="Family Members">
+		EP1195696A2 | JP2002117037A | EP1195696A3 | US7248782 | US20020009286A1
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References">
+		A. Jain et al., &quot;Query by Video Clip,&quot; Pattern Recognition, 1998, Proceedings 14.sup.th International Conference on Brisbane, Australia, Aug. 16-20, 1998, vol. 1, pp. 909-911. cited by other. | N Dimitrova et al., &quot;Content-based video retrieval by example video clip,&quot; Society of Photo-Optical Instrumentation Engineers (SPIE), vol. 3022, Feb. 13, 1997, pp. 59-70. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US7664733 | US7698646 | US8281230 | US7502547 | US7593961 | US7616840 | US7643705
+	</str>
+	<str name="Cited By Count">
+		7
+	</str>
+	<str name="Cites">
+		US6795127 | US6983420 | US6816551 | US6240423 | US6195497 | US5949904 | JP1999259061 | EP1018688 | JP1993181905 | JP1998207897 | JP2000259832 | JP1999316846
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2000307775
+	</str>
+	<str name="Priority Date">
+		2000-06-10
+	</str>
+	<str name="Assignee(s)">
+		NEC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NEC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KASUTANI, EIJI
+	</str>
+	<str name="1st Inventor">
+		KASUTANI, EIJI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		FOLEY &amp; LARDNER LLP
+	</str>
+	<str name="Primary Examiner">
+		TRAN, THAI Q.
+	</str>
+	<str name="Assistant Examiner">
+		DUNN, MISHAWN
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

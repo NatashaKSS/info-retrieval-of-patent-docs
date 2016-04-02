@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7595020
+	</str>
+	<str name="Application Number">
+		US10795715
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of treating biological and chemical agents with gas phase, electronically excited states of oxygen
+	</str>
+	<str name="Abstract">
+		An improved singlet oxygen generator (SOG) and method of using gas phase electronically excited states of oxygen for bio-medical and chemical treatment applications are disclosed. According to the invention, both gas phase O.sub.2(.sup.1.SIGMA.) and O.sub.2(.sup.1.DELTA.) are used for medical treatment, sterilization, and deactivation of biological and chemical agents, including diseased tissue and biological and chemical weapons. The improved SOG is compact and scalable, portable, capable of operating in a zero-gravity or low gravity environment, may use gaseous diluent or buffer gas, and is capable of operating at pressures as high as one atmosphere. The SOG is capable of operating within a short distance of the target site for the electronically excited states of oxygen, which are delivered to the target site via a conduit. The SOG and delivery system provide higher yields of electronically excited oxygen with longer lifetimes suitable for bio-medical applications.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-03-08
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-03
+	</str>
+	<str name="Publication Date">
+		2009-09-29
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		B05B7/08 | B01J19/08 | C02F1/76 | A62B7/08 | A62C31/00 | C02F1/72 | A61L9/00 | C02F1/68 | B05B7/04 | H01S3/22 | A24B1/02 | A61L2/00
+	</str>
+	<str name="IPC Primary">
+		B05B7/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05B
+	</str>
+	<str name="IPC Group">
+		B05B7
+	</str>
+	<str name="All UPC">
+		239/433 | 239/434 | 422/186 | 422/305 | 422/121 | 422/120 | 422/122 | 422/37 | 422/22 | 210/758 | 422/28 | 423/579 | 239/601 | 210/764 | 239/398 | 210/753 | 239/426 | 239/589
+	</str>
+	<str name="UPC Primary">
+		239/433
+	</str>
+	<str name="UPC Class">
+		239
+	</str>
+	<str name="Family Members">
+		US20030227955A1 | US20070009004A1 | AU2003248646A1 | US20040170545A1 | US7116696 | US7336689 | US7595020 | WO2003104145A1
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References">
+		Endo, M., et al., &quot;Development of Hybrid Simulation for Supersonic Chemical Oxygen-Iodine Laser,&quot; AIAA Journal, vol. 45, No. 1, pp. 90-97 (Jan. 2007). cited by other. | Alrano, A.J. And Christe, K.O., &quot;Singlet Delta Oxygen Production from a Gas-Solid Reaction,&quot; Angew. Chem. Int. Ed. 41(17, 3252-3254), 2002. cited by other . | Rybalkin, V. et al., &quot;Nearly attaining the theoretical efficiency of supersonic chemical oxygen-iodine lasers,&quot; Applied Physics Letters, vol. 85, No. 24, pp. 5851-5853 (Dec. 13, 2004). cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5516502 | US6551346 | US6072820 | US5229100 | US4318895 | US5607924 | US4640782 | US6630105 | US5417928 | US4407282 | WO2003104145
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		79571504 | 45314803 | 38753902
+	</str>
+	<str name="Priority Date">
+		2004-03-08 | 2003-06-03 | 2002-06-10
+	</str>
+	<str name="Assignee(s)">
+		KSY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		KSY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Arlington, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Arlington, TX
+	</str>
+	<str name="Inventor(s)">
+		EMANUEL, GEORGE
+	</str>
+	<str name="1st Inventor">
+		EMANUEL, GEORGE
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Arlington, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Arlington, TX
+	</str>
+	<str name="Agent/Attorney">
+		STORM LLP STORM, PAUL V. PERDUE, MARK D.
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		CHORBAJI, MONZER R
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

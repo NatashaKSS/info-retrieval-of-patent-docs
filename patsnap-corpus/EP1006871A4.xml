@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP1006871A4
+	</str>
+	<str name="Application Number">
+		EP19980934697
+	</str>
+	<str name="Kind Code">
+		A4
+	</str>
+	<str name="Title">
+		REMOTE MONITORING APPARATUS FOR MEDICAL CONDITIONS
+	</str>
+	<str name="Abstract">
+		A physiological monitoring apparatus comprising a cellular phone handset connected to a cellular phone network is disclosed. The handset includes a removable battery container (12) having a physiological monitoring device (14) contained therein as well as a battery power source (13). The battery power source (13) provides power for the operation of the handset (11) as well as providing power for the physiological monitoring device (14). The battery container (12) has detectors (15) located on its outer surface, communicating with the physiological monitoring device (14) through apertures in the battery container (12). Acoustic coupling means (18) are adapted to couple tones produced by the physiological monitoring device (14) with a sound microphone of the cellular phone handset. The physiological monitoring device (14) is activated by placing it against the chest of a patient and the cellular phone handset is used to connect to a remote monitoring station via the cellular phone network. The cellular phone handset sends an electromagnetic signal corresponding to the acoustically coupled tonal signal produced by the physiological monitoring device (14).
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1998-07-24
+	</str>
+	<str name="Application Year">
+		1998
+	</str>
+	<str name="Application(Year/Month)">
+		1998-07
+	</str>
+	<str name="Publication Date">
+		2004-06-09
+	</str>
+	<str name="Publication Year">
+		2004
+	</str>
+	<str name="Publication(Year/Month)">
+		2004-06
+	</str>
+	<str name="All IPC">
+		A61B5/00 | A61B5/404 | A61B5/04 | A61B5/402 | G08B25/10 | H04M1/00 | H04M1/725 | H04M11/00
+	</str>
+	<str name="IPC Primary">
+		A61B5/00
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61B
+	</str>
+	<str name="IPC Group">
+		A61B5
+	</str>
+	<str name="Family Members">
+		EP1006871A1 | EP1006871B1 | JP2001510697A | US6485416 | DE69831809D1 | AT305749T | WO1999004687A1 | EP1006871A4 | AUPO826597D0 | IL134200D0
+	</str>
+	<str name="Family Member Count">
+		10
+	</str>
+	<str name="Family Members Cited By Count">
+		16
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		WO | AU
+	</str>
+	<str name="Priority Number">
+		1998AU00591 | 1997PO08265
+	</str>
+	<str name="Priority Date">
+		1998-07-24 | 1997-07-25
+	</str>
+	<str name="Assignee(s)">
+		PLATT, HARRY LOUIS
+	</str>
+	<str name="1st Assignee">
+		PLATT, HARRY LOUIS
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		PLATT, HARRY, LOUI | JANKOV, VLADIMIR
+	</str>
+	<str name="1st Inventor">
+		PLATT, HARRY, LOUI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

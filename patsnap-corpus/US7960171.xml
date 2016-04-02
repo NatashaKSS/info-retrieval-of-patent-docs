@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7960171
+	</str>
+	<str name="Application Number">
+		US12149659
+	</str>
+	<str name="Title">
+		Method and equipment for cultivating anaerobic ammonium-oxidizing bacteria
+	</str>
+	<str name="Abstract">
+		The present invention can feed substrates without waste to generate seed sludge with high bacterial cell concentrations and can start up operation within a short time, in cultivating anaerobic ammonium oxidizing bacteria with ammonium and nitrite as substrates. Equipment for cultivating anaerobic ammonium-oxidizing bacteria, which cultivates, in a cultivation tank, novel anaerobic ammonium-oxidizing bacteria that anaerobically denitrify nitrite and ammonium used as substrates, comprises an ammonium feed device which feeds ammonium at a given concentration into the cultivation tank, a nitrite feed device which feeds nitrite at a given concentration into the cultivation tank, and a control device which controls a feed rate Y of the substrate.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-05-06
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-05
+	</str>
+	<str name="Publication Date">
+		2011-06-14
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-06
+	</str>
+	<str name="All IPC">
+		C12M1/36
+	</str>
+	<str name="IPC Primary">
+		C12M1/36
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12M
+	</str>
+	<str name="IPC Group">
+		C12M1
+	</str>
+	<str name="All UPC">
+		435/287.1 | 210/303 | 435/289.1 | 435/3
+	</str>
+	<str name="UPC Primary">
+		435/287.1
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Stous M. et al., &quot;Missing lithotroph identified as new planctomycete&quot;, Nature, London, vol. 400, No. 6743, Jul. 29, 1999, pp. 446-449. cited by other . | Isaka Kazuichi et al., &quot;Growth characteristic of anaerobic ammonium-oxidizing bacteria in an anaerobic biological filtrated reactor&quot;, Applied Microbiology and Biotechnology, vol. 70, No. 1, Mar. 2006, pp. 47-52. cited by other . | Strous M. et al., &quot;The sequencing batch reactor as a powerful tool for the study of slowly growing anaerobic ammonium-oxidizing microorganisms&quot;, Applied Microbiology and Biotechnology, Springer Verlag, Berlin, DE, vol. 50, No. 5, Nov. 1998, pp. 589-596. cited by other . | Juichi Horiuchi, &quot;Fuzzy Control in Bioprocess,&quot; Chemistry and Biology,1999, pp. 521-525, vol. 37, No. 8. cited by other . | Aug. 3, 2010 Notice of Reasons for Rejection issued in JP 2005-071558 with English-language translation. cited by other. | Khin et al., &quot;Novel microbial nitrogen removal processes&quot;, Biotechnology Advances, Elsevier Publishing Barking, GB, vol. 22, No. 7, Sep. 2004, pp. 519-532. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20060191846 | US6579446 | JP2003004393A | JP1997007272A | JP2003003789A | JP1999003153A | JP2001007467A
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		2005071558 | 2005073398 | 2006037163
+	</str>
+	<str name="Priority Date">
+		2005-03-14 | 2005-03-15 | 2006-02-14
+	</str>
+	<str name="Assignee(s)">
+		HITACHI PLANT TECHNOLOGIES, LTD.
+	</str>
+	<str name="1st Assignee">
+		HITACHI PLANT TECHNOLOGIES, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		ISAKA, KAZUICHI | SUMINO, TATSUO | TSUNEDA, SATOSHI
+	</str>
+	<str name="1st Inventor">
+		ISAKA, KAZUICHI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		OLIFF &amp; BERRIDGE, PLC
+	</str>
+	<str name="Primary Examiner">
+		BEISNER, WILLIAM H
+	</str>
+	<str name="Assistant Examiner">
+		HOBBS, MICHAEL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

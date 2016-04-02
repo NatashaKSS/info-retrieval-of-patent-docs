@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7482151
+	</str>
+	<str name="Application Number">
+		US10659948
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of using ammonia-oxidizing bacteria
+	</str>
+	<str name="Abstract">
+		Described herein are novel ammonia-oxidizing bacteria as well as isolated nucleotide sequences representative of 16S rDNA of these ammonia-oxidizing bacteria. Particular bacteria of the present invention are tolerant of freshwater environments, saltwater environments or both. Furthermore, in various embodiments, various bacteria of the present invention are capable of surviving a freeze-drying process, and may remain viable thereafter. Methods for preventing or alleviating the accumulation of ammonia in aqueous environments, such as aquaria and wastewater are also provided, using the ammonia-oxidizing bacteria of the present invention.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-09-10
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-09
+	</str>
+	<str name="Publication Date">
+		2009-01-27
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		C07K14/195 | C12N1/20
+	</str>
+	<str name="IPC Primary">
+		C07K14/195
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C07
+	</str>
+	<str name="IPC Subclass">
+		C07K
+	</str>
+	<str name="IPC Group">
+		C07K14
+	</str>
+	<str name="All UPC">
+		210/619 | 536/23.1 | 210/601 | 435/262.5 | 435/252.1 | 536/23.7 | 119/245 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/619
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20040101946A1 | US20040106133A1 | US20040157313A1 | US7482151 | US7267816 | US7270957
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		AAkra, Agot et al., &quot;RFLP of rRNA genes and sequencing of the 16S-23S rDNA intergenic spacer region of ammonia-oxidizing bacteria: a phylogenetic approach,&quot; Intl. Journal of Systematic Bacteriology, 1999, pp. 123-130. cited by other . | Van Der Meer et al: &quot;Characterizatiion of the bacterial composition of a nitrogen-removing biofilm from a trickling filter at Kollilon, Switzerland&quot; Database:EBI Accession No. AJ224941 Date of Availability Mar. 13, 1998 two pages. cited by other . | Teske et al.: &quot;Evolutionary relationships among ammonia- and nitrite-oxidizing bacteria&quot; Database:EBI Accession No.: L35505 Date of Availability: Nov. 29, 1994 one page. cited by other . | Head et al.: &quot;The phylogeny of autotrophic ammonia-oxidizing bacteria as determined by analysis of 16S ribosomal RNA gene sequences, &quot; Journal of General Microbiology, vol. 139, pp. 1147-1153 (1993). cited by other . | Purkhold et al.: &quot;Comparative 16S rRNA and amoA sequence analysis: Implications for molecular diversity surveys&quot; Database: EBI Accession No.: AF272420 Date of Availability: Dec. 6, 2000. cited by other. | Tal, Yossi et al.; Characterization of the Microbial Community and Nitrogen Transformation Processes Associated with Moving Bed Bioreactors in a Closed Recirculated Marivulture System; Elsevier Science B.V., Aquaculture, 2003, pp. 187-202. cited by other . | Suwa: &quot;Nitrosomonas sp. JL21 gene for 16S rRNA, partial sequence&quot; Database: EBI Accession No.: AB0007000 Date of Availability: May 5, 1998 two pages. cited by other . | Suwa et al.: &quot;Phylogenetic relationships of activated sludge isolates of ammonia oxidizers with different sensitivities to ammonium sulfate,&quot; J. Gen. Appl. Microbiol., vol. 43, pp. 373-379 (1997). cited by other . | Hovanec, Timothy et al., &quot;Comparative Analysis of Nitrifying Bacteria Associate with Freshwater and Marine Aquaria,&quot; Applied and Environmental Microbiology, Aug. 1996, pp. 2888-2896. cited by other . | Stackebrandt et al. (2001) Encyclopedia of Life Sciences, pp. 1-7, Nature Publishing Group, New York, NY date considered Oct. 2, 2008. cited by other . | Burrell, Paul C. et al., &quot;Aquatic Nitrate Oxidising Microorganisms,&quot; Canadian Intellectual Property Office, Nov. 20, 1998, pp. 1-76. cited by other .
+	</str>
+	<str name="Other References Count">
+		11
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		65994803 | 57368400 | 38621702 | 38621802 | 38621902
+	</str>
+	<str name="Priority Date">
+		2003-09-10 | 2000-05-19 | 2002-09-19 | 2002-09-19 | 2002-09-19
+	</str>
+	<str name="Assignee(s)">
+		AQUARIA, INC.
+	</str>
+	<str name="1st Assignee">
+		AQUARIA, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Moorpark, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Moorpark, CA
+	</str>
+	<str name="Inventor(s)">
+		HOVANEC, TIMOTHY, A.
+	</str>
+	<str name="1st Inventor">
+		HOVANEC, TIMOTHY, A.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Moorpark, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Moorpark, CA
+	</str>
+	<str name="Agent/Attorney">
+		PILLSBURY WINTHROP SHAW PITTMAN LLP
+	</str>
+	<str name="Primary Examiner">
+		MARX, IRENE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

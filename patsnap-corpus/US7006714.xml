@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7006714
+	</str>
+	<str name="Application Number">
+		US09732701
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image retrieval device, image retrieval method and storage medium storing similar-image retrieval program
+	</str>
+	<str name="Abstract">
+		An image retrieval device and method capable of high speed image retrieval. The image retrieval device has a first coefficient transforming section to transform a first group of image feature descriptors extracted from image data accumulated in an image database and to generate a second group of image feature descriptors to be used for calculating similarity. The image retrieval device has a second coefficient transforming section to transform the first group of image feature descriptors extracted from image data of an inquired image and to generate a second group of image feature descriptors to be used for calculating similarity. The image retrieval device has a similarity calculating section to compare the second group of image feature descriptors for each piece of image data produced by the first coefficient transforming section with the second group of image feature descriptors for the inquired image transformed by the second coefficient transforming section.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-12-11
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-12
+	</str>
+	<str name="Publication Date">
+		2006-02-28
+	</str>
+	<str name="Publication Year">
+		2006
+	</str>
+	<str name="Publication(Year/Month)">
+		2006-02
+	</str>
+	<str name="All IPC">
+		G06K9/54
+	</str>
+	<str name="IPC Primary">
+		G06K9/54
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/209 | 707/6 | 382/251 | 382/305
+	</str>
+	<str name="UPC Primary">
+		382/209
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20010041008A1 | JP3550681B2 | US20060093221A1 | JP2001167118A | US7006714
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		8
+	</str>
+	<str name="Other References">
+		Gonzalez et al. &quot;Digital Image Processing.&quot; Addison-Wesley Publishing Company, Inc. 1992, pp. 143-145 and 374-380. | &quot;Format-Independent Scheme for High Speed Searching for Similar Video Segments&quot; Authors: Eiji Kasutani, Akio Yamada, Mutsumi Ohta; Proceedings of the 1999 General Meeting of Electronics, Information and Communications Engineers Systems Society Meeting, Japan, Aug. 16, 1999 No. D-12-6, p. 170. | Yue et al. &quot;Texture Image Retrieval by Universal Classification for Wavelet Transform Coefficients.&quot; Proc. Int. Conf. on Image Processing, vol. 3, Oct. 26, 1997, pp. 220-223. | &quot;Proposal for a High-Speed Searching Scheme Using Information in Compressed Video as a Key&quot; Authors: Eiji Kasutani, Keiji Maeda, Hisashi Miyamori, Hideyoshi Tominaga; Abstracts of the 1997 Annual Meeting of the Institute of Image Information and Television Engineers, Japan, Jul. 23, 1997, No. 15-10, pp. 191-192. | &quot;High Speed Target Searching of MPEG Video Based on Time Series Evaluation of Low Order DCT Coefficients&quot; Authors: Eiji Kasutani, Akio Yamada, Mutsumi Ohta; Proceedings of the 1999 General Meeting of Electronics, Information and Communications Engineers, Japan, Mar. 8, 1999, No. D-12-7, p. 180. | &quot;Image Retrieval System using Compact Color Layout Descriptor&quot; Authors: Eiji Kasutani, Akio Yamada, Mutsumi Ohta; Materials of the 4th Image Media Processing Symposium, Japan, Sep. 29, 1999, IMPS99, pp. 89-90. | Article &quot;Estimations of previewed Road Curvatures and Vehicular Motion by a vision-based Data Fusion Scheme&quot; Authors: Jin-Chuan Hsu, Wen-Liang Chen, Ruey-Horng Lin, Edge Chu Yeh; published 1997.
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By">
+		US8200025 | USR42185 | US8013866 | US7624123 | US7764845
+	</str>
+	<str name="Cited By Count">
+		5
+	</str>
+	<str name="Cites">
+		US5555555 | US6870965 | US6192150 | US6681061 | US6345275 | US6665442 | EP0626655 | JP1996249349 | JP1993347000
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		11351657
+	</str>
+	<str name="Priority Date">
+		1999-12-10
+	</str>
+	<str name="Assignee(s)">
+		NEC CORPORATION
+	</str>
+	<str name="1st Assignee">
+		NEC CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KASUTANI, EIJI
+	</str>
+	<str name="1st Inventor">
+		KASUTANI, EIJI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		AHMED, SAMIR
+	</str>
+	<str name="Assistant Examiner">
+		KIM, CHARLES
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

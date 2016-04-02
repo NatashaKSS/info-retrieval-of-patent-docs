@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7485207
+	</str>
+	<str name="Application Number">
+		US10447594
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and apparatus for recovering a solvent
+	</str>
+	<str name="Abstract">
+		A closed-loop biomass extraction apparatus using HFC solvents including an extraction vessel, an evaporator for the solvent, a compressor and a condenser connected in series in a closed loop extraction circuit; a solvent recovery loop constituted by a bypass line; a plurality of flow control valves that are selectively operable for connecting the solvent recovery loop in parallel with the closed loop extraction circuit; and at least one container containing an adsorbent for organic contaminants and a desiccant, the container being connected in the solvent recovery loop to which solvent in the extraction circuit may be supplied through selective operation of the flow control valves whereby solvent used in the extraction circuit may be supplied through the adsorbent and the desiccant.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-05-29
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-05
+	</str>
+	<str name="Publication Date">
+		2009-02-03
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		B01D11/00 | B01D15/00
+	</str>
+	<str name="IPC Primary">
+		B01D11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		210/167.01 | 210/195.1 | 202/169 | 202/168 | 422/281 | 422/282 | 422/256 | 202/170
+	</str>
+	<str name="UPC Primary">
+		210/167.01
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20030204119A1 | US7485207
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5824225 | US4380506 | US5248393 | US5018540 | US5516923 | US3888743 | US5837106 | US6398917 | US4259309 | US5034132 | US4299664 | US6676838 | US4781041 | US3600911 | US6667015 | WO1994020486 | EP0404475 | EP01155903 | GB2288552 | JP1995000706 | GB203109 | JP1989155903 | WO1991004678 | GB00208926 | WO1995026794
+	</str>
+	<str name="Cites Count">
+		25
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		9920947.0
+	</str>
+	<str name="Priority Date">
+		1999-09-06
+	</str>
+	<str name="Assignee(s)">
+		INEOS FLUOR HOLDINGS LIMITED
+	</str>
+	<str name="1st Assignee">
+		INEOS FLUOR HOLDINGS LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Southhampton, GB
+	</str>
+	<str name="Assignee(s) Address">
+		Southhampton, GB
+	</str>
+	<str name="Inventor(s)">
+		CORR, STUART | DOWDLE, PAUL, A. | LOW, ROBERT, E. | MORRISON, JAMES, DAVID | MURPHY, FREDERICK, THOMAS
+	</str>
+	<str name="1st Inventor">
+		CORR, STUART
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Warrington, GB
+	</str>
+	<str name="Inventor(s) Address">
+		Warrington, GB | St, Helens, GB | Northwich, GB | Northwich, GB | Frodsham, GB
+	</str>
+	<str name="Agent/Attorney">
+		COOK ALEX LTD.
+	</str>
+	<str name="Primary Examiner">
+		MANOHARAN, VIRGINIA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

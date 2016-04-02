@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7972517
+	</str>
+	<str name="Application Number">
+		US12035492
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Method for treatment of agricultural waste
+	</str>
+	<str name="Abstract">
+		A method for treating a portion of liquid waste manure comprising adding a first reagent to the portion in a first vessel to cause the formation of waste manure flocs of a first size; adding a second reagent to liquid portion to cause growth of the waste manure flocs of the first size into separable waste manure flocs; adding optionally a third reagent to the portion of liquid containing waste manure flocs to cause further growth of the separable waste manure flocs; separating the liquid volume containing separable waste manure flocs into a waste manure sludge and a first filtrate; and dewatering the waste manure sludge in a filtration system comprising a first filter including a first housing, a first displaceable filter medium, and a first displacement actuator disposed between the first housing and the first displaceable filter medium.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-02-22
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-02
+	</str>
+	<str name="Publication Date">
+		2011-07-05
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		C02F11/14 | C02F1/56
+	</str>
+	<str name="IPC Primary">
+		C02F11/14
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F11
+	</str>
+	<str name="All UPC">
+		71/21 | 210/903 | 210/727 | 210/780 | 210/710 | 210/906
+	</str>
+	<str name="UPC Primary">
+		71/21
+	</str>
+	<str name="UPC Class">
+		71
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Printed PDF of grant proposal application by the Applicant Francis C. Miller of Jannanco LLC to the New York State Energy Research and Development Authority (NYSERDA) for a grant to fund research and development grant for funding to develop an agricultural waste treatment process. Dated May 2003. cited by other. | Printed PDF of Internet information of/by Dr. Dave Palmer on Cow Power Inc.; and relationship with applicant Francis C. Miller of Jannanco LLC; and Jannanco system. See pp. 1-3 and 8-11. Document dates circa May 2005, exact dates unknown. cited by other . | Printed PDF version of Idee &amp; Prodotti corporation web page with product information on the &quot;Squeeze Box&quot; filter at http://www.ideeeprodotti.com/eng/p.sub.--squeeze.htm. Exact Internet publication date unknown; approximately Sep. 2006 or earlier. cited by other . | Printed PDF version of Idee &amp; Prodotti corporation web page with product information on the &quot;Dry Box 200&quot; filter at http://www.ideeeprodotti.com/eng/p.sub.--drybox200.htm. Exact Internet publication date unknown; approximately Sep. 2006 or earlier. cited by other . | Printed PDF version of Flo Trend Systems Inc. web page with product information on the &quot;Sludge Mate&quot; filter at http:// www.flotrend.com/sludgemate.html. Exact Internet publication date unknown; approximately Sep. 2006 or earlier. cited by other . | Printed PDF version of Idee &amp; Prodotti corporation web page with product information on the &quot;Dry Box 15000&quot; filter at http://www.ideeeprodotti.com/eng/p.sub.--drybox.htm. Exact Internet publication date unknown; approximately Sep. 2006 or earlier. cited by other . | Printed PDF of the Filing Receipt, specification, and drawings of the applicant Francis C. Miller's co-pending and commonly owned U.S. Appl. No. 11/968,240, Method and Apparatus for Treatment of Latex Waste, filed Jan. 2, 2008. cited by other .
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By">
+		US8282827
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US7112283 | US7371328 | US6245121 | US6190569 | US5587086 | US4871454 | US20060138054 | US5614092 | US20040226895 | US5531907 | US5308499 | US20020074295 | US7468137 | US6916426 | US6036935 | US6365052 | US6699389 | US20050279710 | US4849128 | US20060196834 | US4724085 | US20060065595 | US5595654 | US6110374 | US4882069 | US5006639 | US4961862 | US5071566 | US5945332 | US20030057160 | US5914040 | US20050061750 | US20050205496 | US7410589 | US20060108291 | US4582627 | US20040124154 | US6926832 | US20020030012
+	</str>
+	<str name="Cites Count">
+		39
+	</str>
+	<str name="Assignee(s)">
+		INNOVATIVE ENVIRONMENTAL PRODUCTS, INC.
+	</str>
+	<str name="1st Assignee">
+		INNOVATIVE ENVIRONMENTAL PRODUCTS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Livonia, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Livonia, NY
+	</str>
+	<str name="Inventor(s)">
+		MILLER, FRANCIS, C.
+	</str>
+	<str name="1st Inventor">
+		MILLER, FRANCIS, C.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Livonia, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Livonia, NY
+	</str>
+	<str name="Agent/Attorney">
+		HAMMOND, JOHN M. PATENT INNOVATIONS LLC
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7889498
+	</str>
+	<str name="Application Number">
+		US12862552
+	</str>
+	<str name="Title">
+		Portable electronic device case with battery
+	</str>
+	<str name="Abstract">
+		A case for an electronic device protects and extends the battery life of the electronic device. The case has a lower case portion and an upper case portion, which assemble together to protect the top, side, and bottom edges of the electronic device. The lower case portion includes a battery to extend the battery life of the electronic device.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-08-24
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-08
+	</str>
+	<str name="Publication Date">
+		2011-02-15
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		H05K5/00 | H05K7/00
+	</str>
+	<str name="IPC Primary">
+		H05K5/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K5
+	</str>
+	<str name="All UPC">
+		361/679.41 | 361/679.56
+	</str>
+	<str name="UPC Primary">
+		361/679.41
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Mophie Juice Pack iPhone 3G Product Reference, Aug. 4, 2008, 33 pages. cited by other. | Horowitz, Jeremy, &quot;iLuv i603/i604 Rechargeable Lithium Polymer Batteries with Silicone Skin,&quot; iLounge, Jun. 27, 2006, available at &lt;http://www.ilounge.com/index.php/reviews/entry/iluv-i603-rechargeable- -lithium-polymer-battery-with-silicone-skin&gt;, retrieved May 12, 2009, 3 pages. cited by other . | &quot;Cheap DIY iPhone External Battery,&quot; Michael Fisher's Web Log, Jul. 22, 2008, available at &lt;http://fastdad.wordpress.com/2008/07/22/cheap-diy-iphone-extemal-batt- ery/&gt;, retrieved May 12, 2009, 10 pages. cited by other . | Rafferty, Sven, &quot;Mybat External Battery for iPhone and iPod,&quot; SvenOnTech, May 18, 2008, available at &lt;http://svenontech.com/reviews/?p=74&gt;, retrieved May 12, 2009, 4 pages. cited by other . | &quot;Mini Battery Pack and Charger for iPhone and iPod,&quot; Kensington, May 1, 2008, available at &lt;http://files.acco.com/KENSINGTON/K33442US/K33442US-usconsumer.pdf&gt;- , retrieved May 12, 2009, 1 page. cited by other . | Rees, Dave, &quot;Richard Solo Backup Battery for iPhone/iPod Review,&quot; Gadgeteer, Jun. 16, 2008, available at &lt;http://the-gadgeteer.com/2008/06/16/richard.sub.--solo.sub.--backup.s- ub.--battery.sub.--for.sub.--iphone.sub.--ipod/&gt;, retrieved May 12, 2009, 8 pages. cited by other . | Coldewey, Devin, &quot;Combination Phone Battery Pack and Flash From FastMac,&quot; CrunchGear, Nov. 4, 2008, available at &lt;http://www.crunchgear.com/2008/11/04/combination-iphone-battery-pack-- and-flash-from-fastmac/&gt;, retrieved May 12, 2009, 3 pages. cited by other . | Horowitz, Jeremy, &quot;Kensington Mini Battery Pack and Charger for iPhone and iPod,&quot; iLounge, May 16, 2008, available at &lt;http://www.ilounge.com/index.php/reviews/entry/kensington-mini-batter- y-pack-and-charger-for-iphone-and-ipod/&gt;, retrieved May 12, 2009, 3 pages. cited by other . | Mophie Juice Pack iPhone 1G Product Reference, May 1, 2008, 22 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cites">
+		US20080123287 | US6043626 | USD587896 | US7428427 | USD372896 | US20030096642 | US20080108395 | US6184654 | USD582149 | USD547057 | US6317313 | USD561092 | US6555990 | US6324380 | US6538413 | US5711013 | USD575056 | USD460411 | US5586002 | US20030218445 | US20070152633 | US20080096620 | US5604050 | US20020147035 | US6614722 | US5708707 | US20050090301 | USD392939 | US20060058073 | US5864766 | US6992461 | US7400917 | US5610979 | US20050248312 | US5368159 | USD400495 | USD547056 | US7166987 | USD581151 | US20080007214 | US20060099999 | US20070236180 | US7479759 | US20050231159 | USD392248 | USD558973 | USD558972 | US20080132289 | USD556681 | US20040097256 | US20070167190
+	</str>
+	<str name="Cites Count">
+		51
+	</str>
+	<str name="Assignee(s)">
+		INCASE DESIGNS CORP.
+	</str>
+	<str name="1st Assignee">
+		INCASE DESIGNS CORP.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Irwindale, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Irwindale, CA
+	</str>
+	<str name="Inventor(s)">
+		DIEBEL, MARKUS | JOHNSON, DAVID
+	</str>
+	<str name="1st Inventor">
+		DIEBEL, MARKUS
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		San, Francisco, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Francisco, CA | San, Francisco, CA
+	</str>
+	<str name="Agent/Attorney">
+		AKA CHAN LLP
+	</str>
+	<str name="Primary Examiner">
+		GANDHI, JAYPRAKASH N
+	</str>
+	<str name="Assistant Examiner">
+		HAUGHTON, ANTHONY M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

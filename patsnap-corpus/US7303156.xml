@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7303156
+	</str>
+	<str name="Application Number">
+		US10847718
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Generation and usage of microbubbles as a blood oxygenator
+	</str>
+	<str name="Abstract">
+		A micro-nozzle for generating micro-bubbles. The micro-nozzle includes a liquid inlet forming a liquid path, a gas inlet, and a constricting wall positioned in the liquid path and shaped to abruptly constrict said liquid path to a width of less than approximately 20 um and then gradually diverge.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-05-18
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-05
+	</str>
+	<str name="Publication Date">
+		2007-12-04
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-12
+	</str>
+	<str name="All IPC">
+		B05B1/04
+	</str>
+	<str name="IPC Primary">
+		B05B1/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05B
+	</str>
+	<str name="IPC Group">
+		B05B1
+	</str>
+	<str name="All UPC">
+		261/DIG.28 | 239/369 | 604/6.14 | 239/594 | 239/311 | 239/592 | 239/370 | 239/589 | 422/47
+	</str>
+	<str name="UPC Primary">
+		261/DIG.28
+	</str>
+	<str name="UPC Class">
+		261
+	</str>
+	<str name="Family Members">
+		US7303156
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Dissertation by Sung Sam King entitled &quot;Generation of Oxygen Microbubbles in a Microchannel with Crosscurrent Liquid Flow&quot;, Louisiana Tech University, May 2001 132 pgs.; Disclosure Doc. 2. cited by other . | University of Pittsburgh Medical Center Artificial Lung Laboratory. &quot;The IMO Device&quot;, www.pitt.edu/.about.wfedersp/Brochure/IMO.html, downloaded Jun. 25, 2004; believed to have been published as early as Aug. 1997; 3 pgs.; Disclosure Doc. 1. cited by other . | Article by R.W. Schubert, S.A. Conrad and S.S. Kim entitled &quot;Using Microbubbles to Oxygenate Blood: Possible?&quot;, Ruston, Louisiana; Sep. 2003; 4 pgs.; Disclosure Doc. 3. cited by other . | University of Pittsburgh Medical Center Artificial Lung Laboratory, http://info.pitt.edu/.about.wfedersp/alhtml.htm, downloaded Aug. 31, 2004; believed to have been published as early as Aug. 1997; 2 pgs.; Disclosure Doc. 6. cited by other. | Thesis by Ashok Krishnan entitled &quot;Intravascular Microbubble Blood Oxygenator: Principles &amp; Limitations,&quot; Louisiana Tech University, Nov. 1994; 88 pgs.; Disclosure Doc. 5. cited by other . | Thesis by Paul Jerome Unkel entitled &quot;The Study of Oxygen Transport from Micro-Bubbles in 0.9% Saline,&quot; Louisiana Tech University, Nov. 1991; 75 pgs.; Disclosure Doc. 4. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5501663 | US5073309 | US5376069 | US6127428 | US5207640 | US4993495 | US4986809 | US5219326 | US6537246 | US5271743 | US6237897 | US5869538 | US5122113 | US4911689 | US2724583 | US1826776 | US6241897 | US6328898 | US6334705 | US20040009096 | US4834343 | US6511054 | US4732326 | US4846791 | US6382601 | US3567116
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		84771804 | 56056804
+	</str>
+	<str name="Priority Date">
+		2004-05-18 | 2004-04-08
+	</str>
+	<str name="Assignee(s)">
+		LOUISIANA TECH UNIVERSITY RESEARCH FOUNDATION AS A DIVISION OF THE LOUISIANA TECH UNIVERSITY FOUNDATION
+	</str>
+	<str name="1st Assignee">
+		LOUISIANA TECH UNIVERSITY RESEARCH FOUNDATION AS A DIVISION OF THE LOUISIANA TECH UNIVERSITY FOUNDATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ruston, LA); N/A
+	</str>
+	<str name="Assignee(s) Address">
+		Ruston, LA); N/A
+	</str>
+	<str name="Inventor(s)">
+		KIM, SUNG, SAM | SCHUBERT, ROY
+	</str>
+	<str name="1st Inventor">
+		KIM, SUNG, SAM
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Bossier, City, LA
+	</str>
+	<str name="Inventor(s) Address">
+		Bossier, City, LA | Simsboro, LA
+	</str>
+	<str name="Agent/Attorney">
+		JONES, WALKER, WAECHTER, POITEVENT, CARRERE, &amp; DENEGRE, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		SHAVER, KEVIN
+	</str>
+	<str name="Assistant Examiner">
+		BOECKMANN, JASON
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

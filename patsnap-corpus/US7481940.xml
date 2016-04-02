@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7481940
+	</str>
+	<str name="Application Number">
+		US11506394
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Biomass treatment of organic waste or water waste
+	</str>
+	<str name="Abstract">
+		A method, system, apparatus and program for effecting the decomposition of organic waste material comprises: providing a treatment tank for decomposition of organic waste material, the treatment tank containing an active biomass comprising at least one bacteria that decomposes organic material; providing at least two inlets to the treatment tank, a first inlet comprising an inlet for organic material and a second inlet comprising an inlet for an aqueous stream; a processor that receives and stores information on: the status of chemical oxygen demand of the active biomass; and the oxygen provision capability of a first organic material that can be fed into the treatment tank through the first inlet; a mass flow control system controlled by the processor which feeds the at least one organic material through the first inlet at a rate based at least in part upon the status of chemical oxygen demand in the treatment tank as recognized by the processor.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-08-18
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-08
+	</str>
+	<str name="Publication Date">
+		2009-01-27
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		C02F1/00
+	</str>
+	<str name="IPC Primary">
+		C02F1/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/745 | 210/746 | 210/743 | 210/744 | 210/739 | 210/741 | 210/742 | 210/740
+	</str>
+	<str name="UPC Primary">
+		210/745
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		WO2008021558B1 | WO2008021558A3 | US20090261037A1 | WO2008021558A2 | US20080023397A1 | US7481940 | CA2655201A1
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		4
+	</str>
+	<str name="Other References">
+		http://www.envirowise.gov.uk/Ref135, Reducing Effluent in the UK Paper &amp; Board Industry. (5 pages) (2005). cited by other . | http://www.springerlink.com/content/f90emygc2f7b8rr4, Artificial carrier for oxygen supply in biological systems; Journal: Applied Microbiology and Biotechnology. (2 pages) (Apr. 2004). cited by other . | A Bartholomeau R.P., et al., Critical soil conditions for oxygen availability to plant roots: improvement of the Feddes-function, Geophysical Research Abstracts, vol. 10, EGU General Assembly 2008. (2 pgs). cited by other . | http://wwwsciencedirect.com/science?.sub.--ob=ArticleURL&amp;.sub.--udi=B6TG1-- 3VPBNWS-Y&amp;.sub.--us, Fan-Chiang Ynbag, et al. Production of acid protease using thin stillage from a rice-spirit distillery by Aspergillus niger. Dep of ChemEng, Tunghai University, Taichung, Taiwan, (Nov. 1998). cited by other . | Heather L. Jones, et al., The Combined Effects of Oxygen Supply Strategy, Inoculum Size and Termperature Profile on Very-High-Gravity Beer Fermentation by Saccharomyces cerevisiae. Journal of the Institute of Brewing. pp. 168-184. (2007). cited by other.
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By">
+		US8105823 | US8158378 | US8187869 | US8216517
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		US6398959 | US6737020 | US6190566 | US6821425 | US6682578 | US6342378 | US6036862 | US6797500 | US6719903 | US6846343 | US6660164 | US20070141691 | US6896804 | US6508078 | US6632650 | US6838000 | US6514411 | US6503746 | US6383389 | US6168717 | US6863826 | US6630197 | US6197081 | US6203701 | US6936170
+	</str>
+	<str name="Cites Count">
+		25
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		50639406 | 70931305
+	</str>
+	<str name="Priority Date">
+		2006-08-18 | 2005-08-18
+	</str>
+	<str name="Assignee(s)">
+		NEWBIO E-SYSTEMS, INCORPORATED
+	</str>
+	<str name="1st Assignee">
+		NEWBIO E-SYSTEMS, INCORPORATED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Edina, MN
+	</str>
+	<str name="Assignee(s) Address">
+		Edina, MN
+	</str>
+	<str name="Inventor(s)">
+		CLIFFORD, III, ROBERT, E. | MILLS, JOHN | STADDEN, GREG | GRATZ, MICHAEL, S.
+	</str>
+	<str name="1st Inventor">
+		CLIFFORD, III, ROBERT, E.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Minnetonka, MN
+	</str>
+	<str name="Inventor(s) Address">
+		Minnetonka, MN | Shoreview, MN | Golden, Valley, MN | Eden, Prairie, MN
+	</str>
+	<str name="Agent/Attorney">
+		MARK A. LITMAN &amp; ASSOCIATES, P.A.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		3
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

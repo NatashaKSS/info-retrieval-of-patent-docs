@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7862721
+	</str>
+	<str name="Application Number">
+		US12856765
+	</str>
+	<str name="Title">
+		Method for producing hydrogen sulphide and the use thereof, in particular, for depolluting heavy metal-containing flows
+	</str>
+	<str name="Abstract">
+		A process for the decontamination of an effluent containing one or more dissolved metals is provided. The process includes producing hydrogen sulphide in an aqueous medium by culturing alkaliphilic sulphate-reducing or thio-sulphate reducing bacteria in the presence of an organic compound serving as an electron donor and in the presence of a sulphurous compound serving as an electron acceptor. The effluent is contacted with the hydrogen sulphide and the dissolved metals are reduced and/or precipitated in the form of metal sulphides.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-08-16
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-08
+	</str>
+	<str name="Publication Date">
+		2011-01-04
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-01
+	</str>
+	<str name="All IPC">
+		C02F3/34
+	</str>
+	<str name="IPC Primary">
+		C02F3/34
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/912 | 210/603 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Zhilina et al., Desulfonatronovibrio hydrogenovorans gen. nov. sp. nov., an alkaliphilic, sulphate reducing bacterium; Int. J. Syst. Bacteriol. Jan. 1997, p. 144. cited by other. | Pikuta E V et al., &quot;Desulfonatronum thiodismutans sp. nov., a novel alkaliphilic, sufate-reducing bacterium capable of lithoautotrophic growth&quot;, 2003, pp. 1327-1332. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8002980
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5922204 | US5271831 | US5062956 | US4789478 | US5587079 | US4522723 | US7285217 | US4108722 | US6315904 | WO1997005237 | WO1980002281 | WO2002006540 | WO1997029055 | EP0692458
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		FR
+	</str>
+	<str name="Priority Number">
+		0504386
+	</str>
+	<str name="Priority Date">
+		2005-04-29
+	</str>
+	<str name="Assignee(s)">
+		INSTITUT DE RECHERCHE POUR LE DEVELOPMENT (IRD)
+	</str>
+	<str name="1st Assignee">
+		INSTITUT DE RECHERCHE POUR LE DEVELOPMENT (IRD)
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Paris, FR
+	</str>
+	<str name="Assignee(s) Address">
+		Paris, FR
+	</str>
+	<str name="Inventor(s)">
+		OLLIVIER, BERNARD, MARCEL, NOEL | COMBET-BLANC, YANNICK, AMAN, BAPTISTE | FARDEAU, MARIE-LAURE | CHARDIN, BRUNO
+	</str>
+	<str name="1st Inventor">
+		OLLIVIER, BERNARD, MARCEL, NOEL
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Roquevaire, FR
+	</str>
+	<str name="Inventor(s) Address">
+		Roquevaire, FR | Marseilles, FR | Les, Pennes-Mirabeau, FR | Aubagne, FR
+	</str>
+	<str name="Agent/Attorney">
+		YOUNG &amp; THOMPSON
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

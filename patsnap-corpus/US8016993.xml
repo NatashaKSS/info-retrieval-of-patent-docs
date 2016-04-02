@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8016993
+	</str>
+	<str name="Application Number">
+		US12403435
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Electrostatic desalination and water purification
+	</str>
+	<str name="Abstract">
+		An apparatus, system and method for desalination and purification of water where fresh water is extracted from salt water, leaving behind the higher salinity salt water. Salt water is bubbled, aerated, sprayed, or otherwise agitated to cause breaking bubbles along the surface of the salt water. An electric field is applied above the surface of the salt water; fresh water droplets and vapor are released in the process of bubble rupture, pulled away from the surface of the salt water, and collected for consumption. The present invention may also be used to purify fresh water by leaving impurities behind.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-03-13
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-03
+	</str>
+	<str name="Publication Date">
+		2011-09-13
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		C02F1/46
+	</str>
+	<str name="IPC Primary">
+		C02F1/46
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		204/265 | 204/518
+	</str>
+	<str name="UPC Primary">
+		204/265
+	</str>
+	<str name="UPC Class">
+		204
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5203993 | US5817224
+	</str>
+	<str name="Cites Count">
+		2
+	</str>
+	<str name="Inventor(s)">
+		HOENIG, STUART, ALFRED | MALAK, MAGDI, EMIL, ABDEL
+	</str>
+	<str name="1st Inventor">
+		HOENIG, STUART, ALFRED
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tucson, AZ
+	</str>
+	<str name="Inventor(s) Address">
+		Tucson, AZ | Vancouver, CA
+	</str>
+	<str name="Agent/Attorney">
+		PATENT TECHNOLOGIES, LLC GUNDERMAN, JR., ROBERT D.
+	</str>
+	<str name="Primary Examiner">
+		PHASGE, ARUN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

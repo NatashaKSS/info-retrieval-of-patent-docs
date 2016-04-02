@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7455781
+	</str>
+	<str name="Application Number">
+		US11073475
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and system of destruction of volatile compounds in wastewater
+	</str>
+	<str name="Abstract">
+		The invention proposes a method of destruction of volatile organic and inorganic compounds in wastewater, this method includes following stages: stripping the aforementioned volatile compounds in a stripping-chemisorption column; preliminary heating the gaseous medium containing these volatile compounds in a first heat regenerator; thermal, flare or thermo-catalytic oxidation of the volatile compounds in circulating gaseous medium; cooling the gaseous medium in a second heat regenerator; chemisorption of acidic gases from the gaseous medium in the stripping-chemisorption column with stripping at the same time additional amount of the volatile compounds from the wastewater. After specific period, direction of the gaseous medium flow is alternated. The proposed method can be executed at elevated temperature. The invention includes as well systems realizing the proposed method.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-03-07
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2008-11-25
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		B01D19/00
+	</str>
+	<str name="IPC Primary">
+		B01D19/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D19
+	</str>
+	<str name="All UPC">
+		95/263 | 210/749
+	</str>
+	<str name="UPC Primary">
+		95/263
+	</str>
+	<str name="UPC Class">
+		95
+	</str>
+	<str name="Family Members">
+		US20090057229A1 | US7455781 | US20060196358A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7722775 | US8282837
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US5589142 | US6878188 | US5955037 | US2119721 | US4898107 | US4594131 | DE4114386 | EP0354656
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		7347505
+	</str>
+	<str name="Priority Date">
+		2005-03-07
+	</str>
+	<str name="Assignee(s)">
+		ELCON RECYCLING CENTER (2003) LTD.
+	</str>
+	<str name="1st Assignee">
+		ELCON RECYCLING CENTER (2003) LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Haifa, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Haifa, IL
+	</str>
+	<str name="Inventor(s)">
+		LEVIN, ALEXANDER
+	</str>
+	<str name="1st Inventor">
+		LEVIN, ALEXANDER
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Haifa, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Haifa, IL
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D.
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7882141
+	</str>
+	<str name="Application Number">
+		US11060769
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Digital pictorial book sytstem, pictorial book searching method, and machine readable medium storing thereon pictorial book searching method
+	</str>
+	<str name="Abstract">
+		A digital pictorial book system includes an image capturing module for capturing an image; a main object selecting module for selecting a main object out of the image; an inclination measuring module for measuring inclination of the image capturing module in a vertical direction; and a name searching module for searching for a name of the main object in an image database, which stores a name of an object corresponded to a feature of the object, on the basis of the main object selected by the main object selecting module and the inclination measured by the inclination measuring module.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-02-18
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-02
+	</str>
+	<str name="Publication Date">
+		2011-02-01
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		G06F7/00 | G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		707/802
+	</str>
+	<str name="UPC Primary">
+		707/802
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Pentland et al., International Journal of Computer Vision, vol. 18, No. 3, pp. 233-254, 1996, XP 000620218. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US20040008906 | US20020113973 | US6256033 | US5454043 | US20020184196 | US6535250 | US7151568 | JP1996096132 | WO2001024050 | JP1997298710 | JP1998254901 | JP2003219239
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2004044298 | 2004372355
+	</str>
+	<str name="Priority Date">
+		2004-02-20 | 2004-12-22
+	</str>
+	<str name="Assignee(s)">
+		FUJIFILM CORPORATION
+	</str>
+	<str name="1st Assignee">
+		FUJIFILM CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		ONO, SHUJI | FUNAKURA, HIROYUKI
+	</str>
+	<str name="1st Inventor">
+		ONO, SHUJI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa, JP | Kanagawa, JP
+	</str>
+	<str name="Agent/Attorney">
+		BIRCH, STEWART, KOLASCH &amp; BIRCH, LLP
+	</str>
+	<str name="Primary Examiner">
+		LU, KUEN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

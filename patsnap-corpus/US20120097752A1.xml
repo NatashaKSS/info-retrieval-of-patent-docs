@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120097752A1
+	</str>
+	<str name="Application Number">
+		US13/379358
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		GENERATING METHOD AND GENERATOR FOR GENERATING MIST OR FINE-BUBBLE BY USING SURFACE ACOUSTIC WAVE
+	</str>
+	<str name="Abstract">
+		In a generating method and a generator of mist or fine-bubble, with a simple and small configuration, application into a wide range kind of liquid is enabled, and generating stably the mist or the fine-bubbles or both is enabled. The generator is provided with a piezoelectric substrate which equips two or more comb-like electrodes on a surface and arranged so that the surface may intersect the mutual interface of the gas and the liquid and a part of piezoelectric substrate is put in a liquid, and a surface acoustic wave excited on the surface with the electrode is made to propagate along the surface so that may exist in the upper and lower sides of an interface. The surface acoustic wave generates mist in the gas side which is above the interface, and generates fine-bubbles in the liquid side which is below the interface. Since the mist and the fine-bubbles are generated with the surface acoustic wave, without being based on mechanical operation for generating a turning stream, the mist and the fine-bubbles can be stably generated in the simple and small configuration.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2010-06-02
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-06
+	</str>
+	<str name="Publication Date">
+		2012-04-26
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-04
+	</str>
+	<str name="All IPC">
+		B05B17/00 | B05B1/08
+	</str>
+	<str name="IPC Primary">
+		B05B17/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05B
+	</str>
+	<str name="IPC Group">
+		B05B17
+	</str>
+	<str name="All UPC">
+		239/1 | 239/102.2
+	</str>
+	<str name="UPC Primary">
+		239/1
+	</str>
+	<str name="UPC Class">
+		239
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2009-148112
+	</str>
+	<str name="Priority Date">
+		2009-06-22
+	</str>
+	<str name="Assignee(s)">
+		PANASONIC ELECTRIC WORKS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		PANASONIC ELECTRIC WORKS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Osaka,JP
+	</str>
+	<str name="Assignee(s) Address">
+		Osaka,JP
+	</str>
+	<str name="Inventor(s)">
+		OKANO MASANORI | FUJIWARA SHIGEKI | ISHIGAMI YOUHEI
+	</str>
+	<str name="1st Inventor">
+		OKANO MASANORI
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Osaka,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Osaka,JP | Nara,JP | Osaka,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

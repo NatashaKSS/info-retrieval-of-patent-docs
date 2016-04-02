@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2001036105A1
+	</str>
+	<str name="Application Number">
+		PCT/JP2000/008010
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		MICRO-BUBBLE GENERATING NOZZLE AND APPLICATION DEVICE THEREFOR
+	</str>
+	<str name="Abstract">
+		A micro-bubble generating nozzle comprising an introduction unit (1) for pressurized liquid and gas, a cylindrical bubble generating space (2), a pressurizing liquid introducing hole (4) and a gas introducing hole (5) formed in the introduction unit (1) and opened to the bubble generating space (2), the pressurized liquid introducing hole (4) being opened in the end face of the introducing unit (1) and the gas introducing hole (5) being opened in the side face of the introduction unit (1), and a regulating valve (7) disposed in a gas introducing tube (6) communicating with the gas introducing hole (5), for regulating a gas introducing amount. Pressurized liquid introduced into the bubble generating space (2) from the opening of the pressurized liquid introducing hole (4) is discharged into the space under a high pressure to cause a separation region. The gas introduced from the gas introducing hole (5) is dispersed into discharged water current as micro-bubbles (fine bubbles) due to this separation phenomenon, the dispersion amount and size of the micro-bubbles being properly regulated by regulating the opening of the gas introduction amount regulating valve (7).
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2000-11-13
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-11
+	</str>
+	<str name="Publication Date">
+		2001-05-25
+	</str>
+	<str name="Publication Year">
+		2001
+	</str>
+	<str name="Publication(Year/Month)">
+		2001-05
+	</str>
+	<str name="All IPC">
+		B01F3/04 | B01D19/00 | A61H33/02 | B05B7/12 | B05B1/02 | A61H23/00 | B05B7/04 | F02M67/10 | C02F3/22
+	</str>
+	<str name="IPC Primary">
+		B01F3/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01F
+	</str>
+	<str name="IPC Group">
+		B01F3
+	</str>
+	<str name="Family Members">
+		JP4002439B2 | AU1309401A | WO2001036105A1
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		1
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		DE102008033206B4
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		JP60046188U | JP10094722A | JP5245414A | US4103827 | JP2057532A | JP10328586A | JP8038947A | JP8229372A | JP2036664U | JP2075555U | JP50125359A | JP60190476U | JP11225653A | JP61095455U | EP0787570A2 | JP11253702A | JP6272644A | JP11013596A | JP7013329U
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2000/95664
+	</str>
+	<str name="Priority Date">
+		2000-03-30
+	</str>
+	<str name="Assignee(s)">
+		AURA TEC CO. LTD. | YAHIRO, TOSHIHIKO
+	</str>
+	<str name="1st Assignee">
+		AURA TEC CO. LTD.
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		YAHIRO, TOSHIHIKO
+	</str>
+	<str name="1st Inventor">
+		YAHIRO, TOSHIHIKO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="Agent/Attorney">
+		KOHORI, SUSUMU
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

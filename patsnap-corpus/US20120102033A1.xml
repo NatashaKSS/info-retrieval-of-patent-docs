@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120102033A1
+	</str>
+	<str name="Application Number">
+		US13/091459
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		SYSTEMS AND METHODS FOR BUILDING A UNIVERSAL MULTIMEDIA LEARNER
+	</str>
+	<str name="Abstract">
+		The present disclosure describes a method and system called &quot;Universal Learner (UL),&quot; which provides a unified framework to understand multimedia signals. The UL utilizes the loosely annotated multimedia data on the Web, analyses it in various signal domains, such as text, image, audio and combinations thereof, and builds an association graph called the &quot;Multimedia Brain,&quot; which basically comprises visual signals, audio signals, text phrases and the like that capture a multitude of objects, experiences and their attributes and the links among them that capture similar intent or functional and contextual relationships.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2011-04-21
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-04
+	</str>
+	<str name="Publication Date">
+		2012-04-26
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-04
+	</str>
+	<str name="All IPC">
+		G06F17/30
+	</str>
+	<str name="IPC Primary">
+		G06F17/30
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F17
+	</str>
+	<str name="All UPC">
+		707/737 | 707/E179 | 707/E17.028 | 707/E17.084 | 707/E17.091 | 707/E17.101
+	</str>
+	<str name="UPC Primary">
+		707/737
+	</str>
+	<str name="UPC Class">
+		707
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		HAILEO INC.
+	</str>
+	<str name="1st Assignee">
+		HAILEO INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		SARSHAR NIMA | SINGH SUDHIR KUMAR | ROYCHOWDHURY VWANI P.
+	</str>
+	<str name="1st Inventor">
+		SARSHAR NIMA
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Fremont,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Fremont,CA,US | San Jose,CA,US | Los Angeles,CA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

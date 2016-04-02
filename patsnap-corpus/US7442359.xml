@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7442359
+	</str>
+	<str name="Application Number">
+		US11837111
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Recovery of sulphuric acid
+	</str>
+	<str name="Abstract">
+		The invention is directed to a process for the recovery of sulphuric acid from a mixture comprising sulphuric acid and hydrocarbons, in particular carbohydrates. In accordance with the present invention the mixture comprising sulphuric acid and carbohydrates, is contacted with an anion selective membrane, thus producing a sulphuric acid rich filtrate stream and a stream depleted in sulphuric acid.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-08-10
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2008-10-28
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		B01D61/00 | C01B17/90
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/641 | 127/1 | 210/651 | 210/767 | 210/749 | 127/36 | 127/37 | 423/525 | 423/531 | 423/522
+	</str>
+	<str name="UPC Primary">
+		210/641
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EA200701703A1 | EP1690828A1 | US20080025911A1 | KR1020070112160A | US7442359 | JP2008529946A | WO2006085763A1 | CN101155755A | CA2597555A1 | AU2006213184A1 | MX2007009630A | AP200704100D0 | EA011666B1 | ZA200707102A | NO20074155A
+	</str>
+	<str name="Family Member Count">
+		15
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US2276210 | US5562777 | US4608245 | US5580389 | US6692578 | US6432276 | US3244620 | US20080041366 | US20040222157
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		EP
+	</str>
+	<str name="Priority Number">
+		05075350
+	</str>
+	<str name="Priority Date">
+		2005-02-11
+	</str>
+	<str name="Assignee(s)">
+		NEDERLANDSE ORGANISATIE VOOR TOEGEPAST-NATUURWETENSCHAPPELIJK ONDERZOEK TNO
+	</str>
+	<str name="1st Assignee">
+		NEDERLANDSE ORGANISATIE VOOR TOEGEPAST-NATUURWETENSCHAPPELIJK ONDERZOEK TNO
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Zoetermeer, NL); N/A
+	</str>
+	<str name="Assignee(s) Address">
+		Zoetermeer, NL); N/A
+	</str>
+	<str name="Inventor(s)">
+		VAN, GROENESTIJN, JOHANNES, WOUTERUS | HAZEWINKEL, JACOB, HENDRIK, OBBO | CREUSEN, RAYMOND, JOHANNES, MARIA | MEESTERS, KOEN, PETER, HENRI
+	</str>
+	<str name="1st Inventor">
+		VAN, GROENESTIJN, JOHANNES, WOUTERUS
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Apeldoorn, NL
+	</str>
+	<str name="Inventor(s) Address">
+		Apeldoorn, NL | Zoetermeer, NL | Amersfoort, NL | Amersfoort, NL
+	</str>
+	<str name="Agent/Attorney">
+		BANNER &amp; WITCOFF, LTD.
+	</str>
+	<str name="Primary Examiner">
+		VANOY, TIMOTHY C
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120130153A1
+	</str>
+	<str name="Application Number">
+		US13/041233
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		PORTABLE CONTROLLER WITH INTEGRAL POWER SOURCE FOR MECHANICAL CIRCULATION SUPPORT SYSTEMS
+	</str>
+	<str name="Abstract">
+		A portable external device for a mechanical circulation support system includes first and second power sources, e.g. batteries and control electronics for redundant uninterrupted operation of an implantable blood pump. The control and power source module may be configured to accommodate a variety of wearable configurations for patient convenience and comfort.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2011-03-04
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-03
+	</str>
+	<str name="Publication Date">
+		2012-05-24
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-05
+	</str>
+	<str name="All IPC">
+		A61M1/10 | H02P21/13 | H02P6/18
+	</str>
+	<str name="IPC Primary">
+		A61M1/10
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61M
+	</str>
+	<str name="IPC Group">
+		A61M1
+	</str>
+	<str name="All UPC">
+		600/17 | 318/400.02 | 318/400.34
+	</str>
+	<str name="UPC Primary">
+		600/17
+	</str>
+	<str name="UPC Class">
+		600
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		MINNETRONIX INC.
+	</str>
+	<str name="1st Assignee">
+		MINNETRONIX INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		St. Paul,MN,US
+	</str>
+	<str name="Assignee(s) Address">
+		St. Paul,MN,US
+	</str>
+	<str name="Inventor(s)">
+		BOLYARD NATHAN J. | EVANS DON W. E. | SUTERA THOMAS P.
+	</str>
+	<str name="1st Inventor">
+		BOLYARD NATHAN J.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Hudson,WI,US
+	</str>
+	<str name="Inventor(s) Address">
+		Hudson,WI,US | St. Paul,MN,US | Eden Prairie,MN,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

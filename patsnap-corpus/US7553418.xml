@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7553418
+	</str>
+	<str name="Application Number">
+		US11/893872
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for water filtration
+	</str>
+	<str name="Abstract">
+		This is a method of filtration of a liquid comprising steps of sequential filtration of said liquid through at least one deep bed medium producing at least one first filtrate followed by at least one membrane medium filtration producing at least one second filtrate, wherein said membrane medium is at least periodically within said deep bed media Many types of deep bed and membrane media can be used. The domain of using contact clarification (direct filtration) can be expanded towards greater solids concentration. Operation and backwash, is simplified, continuous filtration becomes possible. Water can be water from natural source water, process water, wastewater, aqueous or non-aqueous suspensions, emulsions, solutions. Treatment can include mechanical interception of suspended particles, chemical, physical chemical, electrochemical, and biological processes. In water and wastewater processing, control over suspended solids, BOD, COD, nitrogen and phosphorus compounds, bacteria and viruses, heavy metals, color, and other constituents can be dramatically improved as compared to conventional processes. The method can be accommodated in new and modified existing treatment systems.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-08-18
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2009-06-30
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/601 | 210/695 | 210/767 | 210/799 | 210/800
+	</str>
+	<str name="UPC Primary">
+		210/601
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20090045135A1 | US7553418
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		CN102008841B | US8012359 | US8152998 | US8282972 | US8110116
+	</str>
+	<str name="Cited By Count">
+		5
+	</str>
+	<str name="Cites">
+		US3814247 | US4326964 | US6048459 | US7329344 | US7347942 | US20030132160 | US20030159988 | US20060273007 | US20080029456
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		89387207
+	</str>
+	<str name="Priority Date">
+		2007-08-18
+	</str>
+	<str name="Assignee(s)">
+		KHUDENKO ENGINEERING, INC.
+	</str>
+	<str name="1st Assignee">
+		KHUDENKO ENGINEERING, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Atlanta, GA
+	</str>
+	<str name="Assignee(s) Address">
+		Atlanta, GA
+	</str>
+	<str name="Inventor(s)">
+		KHUDENKO, BORIS, M. | PALAZZOLO, ROCCO, M. | STAFFORD, JAMES, R.
+	</str>
+	<str name="1st Inventor">
+		KHUDENKO, BORIS, M.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Atlanta, GA
+	</str>
+	<str name="Inventor(s) Address">
+		Atlanta, GA | Rosewell, GA | Smyrna, GA
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		3
+	</str>
+	<str name="cited by within 5 years">
+		3
+	</str>
+</doc>
+

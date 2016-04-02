@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8012746
+	</str>
+	<str name="Application Number">
+		US12882901
+	</str>
+	<str name="Title">
+		NOx removal system for biogas engines at anaerobic digestion facilities
+	</str>
+	<str name="Abstract">
+		Provided herein are methods, devices and systems comprising a reactor that is operatively connected to: (a) a biogas production unit for converting waste to a biogas stream; and (b) an engine that utilizes the biogas stream from the biogas producing unit to produce energy and an engine exhaust.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-09-15
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-09
+	</str>
+	<str name="Publication Date">
+		2011-09-06
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		C12M1/04 | C12M1/107
+	</str>
+	<str name="IPC Primary">
+		C12M1/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12M
+	</str>
+	<str name="IPC Group">
+		C12M1
+	</str>
+	<str name="All UPC">
+		435/300.1 | 435/266 | 435/299.1 | 210/603
+	</str>
+	<str name="UPC Primary">
+		435/300.1
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Smith, D., &quot;NOx emission control demands a range of solutions,&quot; Power Engineering 96(7):44(4) (1992). cited by other . | Lund, Source Control--Chemical:Control of Nitrogen Oxides from HF Lund Handbook of Air Pollution Control Technology, pp. 654-656 McGraw-Hill 1971. cited by other . | EPA-450/3-91-026, Alternative Control Techniques Document--Nitric and Adipic Acid Manufacturing Plants, Dec. 1991, 147 pages. cited by other . | Krase and Hetherington, &quot;Removal of Carbon Dioxide from Gas Mixtures Intended for Ammonia Synthesis,&quot; Ind Eng Chem 19(2):208-211 (1927). cited by other . | Brogan et al., &quot;Absorption of NO in an Aqueous Solution of NaCIO2,&quot; Chem Eng Technol 21:61-70 (1998). cited by other . | First and Viles, &quot;Cleaning of Stack Gases Containing High Concentrations of Nitrogen Oxides,&quot; J. Air Pollution Control Assoc. 21(3):122-127 (1971). cited by other . | EPA-450/3-91-026, Alternative Control Techniques Document--Nitric and Adipic Acid Manufacturing Plants, Dec. 1991, 126 pages. cited by other . | Dhar et al., &quot;Photo-Oxidation of Nitrite to Nitrate,&quot; Nature, Feb. 10, 1934, pp. 213-214. cited by other . | Knol et al., &quot;Reductio of nitrogen oxides by injection of urea in the freeboard of a pilot scale fluidized bed combustor,&quot; Fuel 68:1565-1569 (1989). cited by other . | English Language Machine Translation of DE 4041820A (Jun. 1992). cited by examiner . | Tseng et al., &quot;The Effect of In-Situ Ammonium-Sulphur Aerosols on the Removal of SO2, NOx and Mercury from Combustion Flue Gas,&quot; The Conference on Selective Catalytic and Non-Catalytic Reduction for NOx control, Pittsburgh PA May 17-18, 2000. cited by other. | Smud Digester Engine Project, ICAT 2008, &quot;Removal of H2S From Biogas and NOx From Engine Exhaust at a Dairy Digester Using Microwave Technology,&quot; updated Mar. 3, 2009, printed out on Aug. 4, 2009 http://www.arb.ca.gov/research/icat/projects/08smud.htm. cited by other . | McCandless et al., &quot;Reduction of Nitric Oxide with Metal Sulfides,&quot; Ind Eng Chem Process Des Dev 19:108-113 (1980). cited by other . | Fulks et al., &quot;A Review of Solid Materials as Alternative Ammonia Sources for Lean NOx Reduction with SCR,&quot; SAE International Brochure 2009. cited by other . | Kirk-Othmer, &quot;Nitric Acid&quot;, Encyclopedia of Chemical Technology vol. 17, pp. 1-27 1982. cited by other . | Busc and Pistarino, &quot;Abatement of ammonia and amines from waste gases: a summary,&quot; J Loss Prev Process Industries 16:157-163 (2003). cited by other . | Burke, Dairy Waste Anaerobic Digestion Handbook, Jun. 2001, pp. 1-54. cited by other . | Streichsbier and Dibble, &quot;Non Catalytic NOx Removal from Gas Turbine Exhaust with Cyanuric Acid in a Recirculating Reactor,&quot; Thesis:University of California, Berkeley 1998, http//www.biofuels.coop/archive/nox.sub.--reducer.pdf. cited by other . | EPA-450/1-78-001, Control Techniques for Nitrogen Oxides Emissions from Stationary Sources- Second Edition, Jan. 1978, 390 pages. cited by other . | Lund, Pollution Control in the Chemical Industry from HF Lund Industrial Pollution Control Handbook, pp. 14-9 to 14-11 McGraw-Hill 1971. cited by other . | Rossi, N., &quot;How to Control NOx,&quot; Pollution Engineering Apr. 1995, pp. 50-52. cited by other . | Andrae and Bjornbom, &quot;Design Concept to Reduce Fuel NOx in Catalytic Combustion of Gasified Biomass,&quot; AIChE Journal 49 (8):2149-2157 (2003). cited by other .
+	</str>
+	<str name="Other References Count">
+		22
+	</str>
+	<str name="Cites">
+		US7272934 | US6062092 | US5702572 | US4825843 | US5581998 | US7585359 | US6393821 | US7059205 | US7387719 | US5817282 | US7685737 | US7614215 | US3881004 | US5465690 | US6548197 | US6923004 | US7014682 | US7644579 | US7641874 | US20100143209 | US6948436 | US7426891 | DE4041820
+	</str>
+	<str name="Cites Count">
+		23
+	</str>
+	<str name="Assignee(s)">
+		BIOGAS &amp; ELECTRIC, LLC
+	</str>
+	<str name="1st Assignee">
+		BIOGAS &amp; ELECTRIC, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Diego, CA
+	</str>
+	<str name="Assignee(s) Address">
+		San Diego, CA
+	</str>
+	<str name="Inventor(s)">
+		MATELICH, MICHAEL
+	</str>
+	<str name="1st Inventor">
+		MATELICH, MICHAEL
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		San, Diego, CA
+	</str>
+	<str name="Inventor(s) Address">
+		San, Diego, CA
+	</str>
+	<str name="Agent/Attorney">
+		WILSON SONSINI GOODRICH &amp; ROSATI
+	</str>
+	<str name="Primary Examiner">
+		BEISNER, WILLIAM H
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

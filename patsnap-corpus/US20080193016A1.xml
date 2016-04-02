@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080193016A1
+	</str>
+	<str name="Application Number">
+		US10588588
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Automatic Video Event Detection and Indexing
+	</str>
+	<str name="Abstract">
+		A method for use in indexing video footage, the video footage comprising an image signal and a corresponding audio signal relating to the image signals, the method comprising extracting audio features from the audio signal of the video footage and visual features from the image signal of the video footage; comparing the extracted audio and visual features with predetermined audio and visual keywords; identifying the audio and visual keywords associated with the video footage based on the comparison of the extracted video and visual features with the predetermine audio and visual keywords; and determining the presence of events in the video footage based on the audio and visual keywords associated with the video footage.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-02-07
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-02
+	</str>
+	<str name="Publication Date">
+		2008-08-14
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/190
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20080193016A1 | GB0617279D0 | WO2005076594A1 | GB2429597A | GB2429597B
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US | SG
+	</str>
+	<str name="Priority Number">
+		58858805 | 54233704 | 2005000029
+	</str>
+	<str name="Priority Date">
+		2005-02-07 | 2004-02-06 | 2005-02-07
+	</str>
+	<str name="Assignee(s)">
+		AGENCY FOR SCIENCE, TECHNOLOGY &amp; RESEARCH
+	</str>
+	<str name="1st Assignee">
+		AGENCY FOR SCIENCE, TECHNOLOGY &amp; RESEARCH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Singapore,SG
+	</str>
+	<str name="Assignee(s) Address">
+		Singapore,SG
+	</str>
+	<str name="Inventor(s)">
+		LIM JOO HWEE | XU CHANGSHENG | WAN KONG WAH | TIAN QI | KANG YU-LIN
+	</str>
+	<str name="1st Inventor">
+		LIM JOO HWEE
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Singapore,SG
+	</str>
+	<str name="Inventor(s) Address">
+		Singapore,SG | Singapore,SG | Singapore,SG | Singapore,SG | Singapore,SG
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

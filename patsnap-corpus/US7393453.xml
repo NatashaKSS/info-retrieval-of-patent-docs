@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7393453
+	</str>
+	<str name="Application Number">
+		US11366974
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for analysis of perchlorate
+	</str>
+	<str name="Abstract">
+		A method for analyzing the content of perchlorate in a sample matrix comprising the steps of extracting the sample matrix and applying it to a reverse phase column, followed by elution with a mobile phase. The reverse phase column optionally has a protein coating deposited thereon.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-03-03
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-03
+	</str>
+	<str name="Publication Date">
+		2008-07-01
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-07
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		436/161 | 210/198.2 | 210/635 | 210/656 | 210/502.1
+	</str>
+	<str name="UPC Primary">
+		436/161
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Members">
+		US20050284816A1 | US20060144786A1 | US7393453
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20060186049 | US7186340 | US4042327 | US5559039 | US6531065 | US20050133458 | US20020084229 | US5310885 | US4820644
+	</str>
+	<str name="Cites Count">
+		9
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		36697406 | 3693605 | 58171004
+	</str>
+	<str name="Priority Date">
+		2006-03-03 | 2005-01-18 | 2004-06-23
+	</str>
+	<str name="Inventor(s)">
+		LIN, KHAM
+	</str>
+	<str name="1st Inventor">
+		LIN, KHAM
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Calgary, Alberta, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Calgary, Alberta, CA
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

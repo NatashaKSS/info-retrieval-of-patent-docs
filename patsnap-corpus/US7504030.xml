@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7504030
+	</str>
+	<str name="Application Number">
+		US11729708
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Acid mine water demineralizer
+	</str>
+	<str name="Abstract">
+		The acid mine water demineralization apparatus consists of two concentric cylinders that are divided into a total of four sections; a water chamber, a gas chamber, a reaction zone, and an aeration zone. The water chamber transports acid mine water to the inlets of a plurality of the sharp edged orifices. The gas chamber receives ozone from an external source and sends it through a porous plate into the reaction zone, thus ensuring the gas is dispersed uniformly throughout the reaction zone. Water passing through the sharp edged orifices into the reaction zone reacts with the ozone to oxidize the insoluble metals in the water. Exiting the reaction zone, the water enters into the aeration zone where additional oxygen is added to the water and the agitation of the water is calmed before it enters a settling tank.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-03-30
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2009-03-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		B01D35/00 | C02F1/00
+	</str>
+	<str name="IPC Primary">
+		B01D35/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D35
+	</str>
+	<str name="All UPC">
+		210/170.06 | 261/116 | 261/115 | 210/198.1 | 210/205 | 210/170.04
+	</str>
+	<str name="UPC Primary">
+		210/170.06
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20080237108A1 | US7504030
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4474477
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		72970807
+	</str>
+	<str name="Priority Date">
+		2007-03-30
+	</str>
+	<str name="Inventor(s)">
+		HALL, RICHARD, MELVIN
+	</str>
+	<str name="1st Inventor">
+		HALL, RICHARD, MELVIN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Butler, PA
+	</str>
+	<str name="Inventor(s) Address">
+		Butler, PA
+	</str>
+	<str name="Primary Examiner">
+		SAVAGE, MATTHEW O
+	</str>
+	<str name="Assistant Examiner">
+		STELLING, LUCAS
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

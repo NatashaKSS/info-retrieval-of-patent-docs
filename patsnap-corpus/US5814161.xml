@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5814161
+	</str>
+	<str name="Application Number">
+		US08600215
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Ceramic mold finishing techniques for removing powder
+	</str>
+	<str name="Abstract">
+		A technique for removing loose powder from the interior surfaces of ceramic molds made using layer manufacturing processes, such as three dimensional printing processes. The interior of a mold is filled with water which is boiled and the particles are entrained in the flow caused by the boiling liquid. In another technique, the mold is immersed in water charged with CO.sub.2 and the pressure rapidly dropped to cause the CO.sub.2 to come out of solution as bubbles which eject the particles. Alternatively, fine particles are introduced into the mold and the mold is agitated to dislodge the particles and the powder so that they can be poured out of the mold. Such technique tends also to remove the surface finish of the mold. Any of the particles which remain can be dissolved in a liquid and removed in the liquid from the mold. Further, the surface finish of the mold can be improved by casting a slip of fine particles on to the surface to form a generally level, and preferably non-conformal, coating on the surfaces.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-02-12
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-02
+	</str>
+	<str name="Publication Date">
+		1998-09-29
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-09
+	</str>
+	<str name="All IPC">
+		B08B5/04 | B08B9/00
+	</str>
+	<str name="IPC Primary">
+		B08B5/04
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B5
+	</str>
+	<str name="All UPC">
+		134/21 | 134/22.18 | 134/22.1
+	</str>
+	<str name="UPC Primary">
+		134/21
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		US5814161
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References">
+		H. Kodama, &quot;Automated Method for Fabricating a Three-Dimensional Plastic Model with Photo-Hardening Polymer&quot;, Review of Scientific Instruments, vol. 52, No. 11, Nov., 1981. | Database WPI, Section PQ, Week 9103, Derwent Publications Ltd., London, GB; p. 43, AN 91-020238, &amp; SU-A-1 563 787 (Suchkov, A.G.), 15 May, 1990. | R. Sweet, &quot;High-Frequency Recording with Electrostatically Deflected Ink Jets&quot;, The Review of Scientific Instruments, vol. 36, No. 2, pp. 131-136, 1965.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By">
+		DE10049043A1 | US8091610 | WO2002028568A2 | US8181692 | US6474348 | US7779890 | US7278197 | US8108982 | SG145541A1 | WO2002040273A2 | US6772026 | US6770514 | WO2001077988A2 | US6432752 | US6951779
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5340656 | US5278442 | US2985939 | US4636341 | US4988202 | US5286573 | US4579380 | US3302655 | US4299239 | US4876455 | US5301415 | US4791434 | US5136515 | US4575330 | US5207371 | US3868267 | US4935055 | US5126529 | US4561902 | US4235246 | US4931104 | US5203944 | US4665492 | US3990906 | US4675216 | US5053090 | US4247508 | US3887392 | US5332023 | US4129875 | US5147587 | US4122458 | US4472668 | US3999188 | US5204055 | US4158204 | US2671741 | US5076869 | US5059266 | US4863638 | US4504322 | US3451401 | US4818562 | US5016683 | US4294805 | US5304863 | US5281789 | US5312456 | US5121329 | US5189781 | US4929402 | US5079974 | US4642653 | US5387380 | US4420446 | US4791022 | US5268036 | JP1992061328 | WO1992020505 | EP0470705A2 | JP1990307737 | EP0446934A2 | EP0431924A2 | JP1990111528
+	</str>
+	<str name="Cites Count">
+		64
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		60021596 | 98315692 | 55101295
+	</str>
+	<str name="Priority Date">
+		1996-02-12 | 1992-11-30 | 1995-10-31
+	</str>
+	<str name="Assignee(s)">
+		MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+	</str>
+	<str name="1st Assignee">
+		MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Cambridge, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Cambridge, MA
+	</str>
+	<str name="Inventor(s)">
+		SACHS, EMANUEL, M. | CIMA, MICHAEL, J. | BREDT, JAMES, F. | KHANUJA, SATBIR | YU, RICHARD, LI-CHAO
+	</str>
+	<str name="1st Inventor">
+		SACHS, EMANUEL, M.
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Newton, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Newton, MA | Lexington, MA | Watertown, MA | Lakewood, OH | San, Carlos, CA
+	</str>
+	<str name="Agent/Attorney">
+		WEISSBURG, STEVEN J.
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		CHAUDHRY, SAEED
+	</str>
+	<str name="cited by within 3 years">
+		6
+	</str>
+	<str name="cited by within 5 years">
+		16
+	</str>
+</doc>
+

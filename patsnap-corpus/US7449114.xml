@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7449114
+	</str>
+	<str name="Application Number">
+		US10931800
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Halogenated solvent remediation
+	</str>
+	<str name="Abstract">
+		Methods for enhancing bioremediation of ground water contaminated with nonaqueous halogenated solvents are disclosed. An illustrative method includes adding an electron donor for microbe-mediated anaerobic reductive dehalogenation of the halogenated solvents, which electron donor enhances mass transfer of the halogenated solvents from residual source areas into the aqueous phase of the ground water. Illustrative electron donors include C.sub.2-C.sub.4 carboxylic acids and hydroxy acids, salts thereof, esters of C.sub.2-C.sub.4 carboxylic acids and hydroxy acids, and mixtures thereof, of which lactic acid, salts of lactic acid--such as sodium lactate, lactate esters, and mixtures thereof are particularly illustrative. The microbes are either indigenous to the ground water, or such microbes can be added to the ground water in addition to the electron donor.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-08-31
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2008-11-11
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-11
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/610 | 435/262.5 | 210/757
+	</str>
+	<str name="UPC Primary">
+		210/610
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20020020665A1 | US7449114 | US20050109696A1 | US6783678
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		9
+	</str>
+	<str name="Other References">
+		Sorenson, K.S., &quot;Intrinsic and Enhanced In Situ Biodegradation of Trichloroethene in Deep, Fractured Basalt Aquifer,&quot; Dissertation, May 2000. cited by other . | Fennell, et al., &quot;Comparison of Butyric Acid, Lactic Acid, and Propionic Acid as Hydrogen Donors for the Reductive Dechlorination of Tetrachloroethene,&quot; Environmental Science &amp; Technology, vol. 31, No. 3, 1997 pp. 918-926. cited by other . | Howze, &quot;Test at Tan Bioremediation of Groundwater Plume Shows Promise,&quot; iNEWS, Jul. 6, 1999. cited by other . | Freedman, et al., &quot;Biological Reductive Dechlorination of Tetrachloroethylene and Trichloroethylene to Ethylene under Methanogenic Conditions,&quot; Applied and Environmental Microbiology, Sep. 1989 pp. 2144-2151. cited by other . | Distefano, et al., &quot;Hydrogen as an Electron Donor for Dechlorination of Tetrachloroethene by an Anaerobic Mixed Culture,&quot; Applied and Environmental Microbiology, Nov. 1992 pp. 3622-3629. cited by other . | Holliger, et al., &quot;A Highly Purified Enrichment Culture Couples the Reductive Dechlorination of Tetrachloroethene to Growth,&quot; Applied and Environmental Microbiology, Sep. 1993 pp. 2991-2997. cited by other . | Bouwer, et al. &quot;Transformations of 1- and 2- Carbon Halogenated Aliphatic Organic Compounds Under Methanogenic Conditions,&quot; Applied and Environmental Microbiology, Apr. 1983 pp. 1286-1294. cited by other. | Maymo-Gatell, et al, &quot;Isolation of a Bacterium That Reductively Dechlorinates Tetrachoroethene to Ethene,&quot; Sicence, vol. 276, pp. 1568-1571, (1997). cited by other . | Carr, et al., &quot;Effect of Dechlorinating Bacteria on the Longevity and Composition of PCT-Containing Nonaqueous Phase Liquids under Equilibrium Dissolution Conditions,&quot; Environmental Science &amp; Technology, vol. 34, No. 6, 2000 pp. 1088-1094. cited by other . | McCray, et al., &quot;Cyclodextrin-Enhanced Solubilization of Organic Contaminants with Implications for Aquifer Remedication,&quot; Winter 2000 GWMR, pp. 94-103. cited by other . | Fennell, et al., &quot;Modeling the Production of an Competition for Hydrogen in a Dechlorinating Culture,&quot; Environmental Science &amp; Technology, vol. 32, No. 16, 1998 pp. 2450-2460. cited by other . | Distefano, et al., &quot;Reductive Dechlorination of High Concentration of Tetrachloroethene to Ethene by an Anerobic Enrichment Culture in the Absence of Methanogenesis,&quot; Applied and Environmental Microbiology, Aug. 1991 pp. 2287-2292. cited by other . | Vogel, et al., &quot;Biotransformation of Tetrachloroethylene to Trichloroethylene, Dichloroethylene, Vinyl Chloride, and Carbon Dioxide under Methanogenic Conditions,&quot; Applied and Environmental Microbiology, May 1985 pp. 1080-1083. cited by other .
+	</str>
+	<str name="Other References Count">
+		13
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6562235 | US5464771 | US5840571 | US7045339 | US20010023847 | US5587317 | US4585482 | US5264018 | US6589776 | US6472198 | US6783678 | US5434241 | US5459116 | US5658795 | US5277815 | US6420594 | US20020015991 | US20020020665 | US6001252 | US6265205 | US5602036 | US5993658 | US5833855 | US5516688 | US5932472 | US5395419 | US5783088 | US5560904 | WO1999024367
+	</str>
+	<str name="Cites Count">
+		29
+	</str>
+	<str name="Priority Country">
+		US | US | US | US
+	</str>
+	<str name="Priority Number">
+		93180004 | 89543001 | 21495700 | 23341400
+	</str>
+	<str name="Priority Date">
+		2004-08-31 | 2001-06-29 | 2000-06-29 | 2000-09-18
+	</str>
+	<str name="Assignee(s)">
+		SRP TECHNOLOGIES, INC.
+	</str>
+	<str name="1st Assignee">
+		SRP TECHNOLOGIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Erie, CO
+	</str>
+	<str name="Assignee(s) Address">
+		Erie, CO
+	</str>
+	<str name="Inventor(s)">
+		SORENSON, JR., KENT, S.
+	</str>
+	<str name="1st Inventor">
+		SORENSON, JR., KENT, S.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Windsor, CO
+	</str>
+	<str name="Inventor(s) Address">
+		Windsor, CO
+	</str>
+	<str name="Agent/Attorney">
+		CLAYTON HOWARTH &amp; CANNON, P.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

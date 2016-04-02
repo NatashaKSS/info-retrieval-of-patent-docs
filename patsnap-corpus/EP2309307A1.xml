@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2309307A1
+	</str>
+
+	<str name="Application Number">
+		EP2009172535
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		Eye tracking using a GPU
+	</str>
+
+	<str name="Abstract">
+		Provided is a method of determining a gaze point of an eye watching a visual display controllable by a display signal. The method comprises generating a display signal using a graphics card in order for the visual display to produce a screen pattern; receiving a signal encoding an image of the eye including a corneo-scleral reflection of the screen pattern; and determining, based on in part the geometry of said reflection, a gaze point of the eye, wherein said determining a gaze point includes utilising the graphics card as a parallel processor.
+The image of the eye may be received directly at the graphics card. The graphics card may extract image features in the eye images. Reference illuminators may be used, and the screen pattern may be interlaced with a distinctive reference pattern.
+Further provided are a gaze-tracking system and a personal computer system adapted to determine a gaze point of a viewer.
+	</str>
+
+	<str name="Document Types">
+		EP | EPA
+	</str>
+
+	<str name="Application Date">
+		2009-10-08
+	</str>
+
+	<str name="Application Year">
+		2009
+	</str>
+
+	<str name="Application(Year/Month)">
+		2009-10
+	</str>
+
+	<str name="Publication Date">
+		2011-04-13
+	</str>
+
+	<str name="Publication Year">
+		2011
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2011-04
+	</str>
+
+	<str name="All IPC">
+		G06K9/78 | G06F3/01 | G06F15/80 | G03B15/16 | G02B27/00 | A61B3/113
+	</str>
+
+	<str name="IPC Primary">
+		G06K9/78
+	</str>
+
+	<str name="IPC Section">
+		G
+	</str>
+
+	<str name="IPC Class">
+		G06
+	</str>
+
+	<str name="IPC Subclass">
+		G06K
+	</str>
+
+	<str name="IPC Group">
+		G06K9
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Cited By Count">
+		0
+	</str>
+
+	<str name="Assignee(s)">
+		TOBII TECHNOLOGY AB
+	</str>
+
+	<str name="1st Assignee">
+		TOBII TECHNOLOGY AB
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		Karlsrov&#228;gen 2 D, 182 53 Danderyd, SE
+	</str>
+
+	<str name="Assignee(s) Address">
+		Karlsrov&#228;gen 2 D, 182 53 Danderyd, SE
+	</str>
+
+	<str name="Inventor(s)">
+		BLIXT, PETER | KOBETSKI, MIROSLAV | H&#214;GLUND, ANDERS
+	</str>
+
+	<str name="1st Inventor">
+		BLIXT, PETER
+	</str>
+
+	<str name="Number of Inventors">
+		3
+	</str>
+
+	<str name="1st Inventor Address">
+		Fastingsgatan, 59, 129, 38, H&#228;gersten, SE
+	</str>
+
+	<str name="Inventor(s) Address">
+		Fastingsgatan, 59, 129, 38, H&#228;gersten, SE | M&#246;rbydalen, 9, 182, 52, Danderyd, SE | L&#228;st&#228;ngsv&#228;gen, 21, 746, 93, B&#229;lsta, SE
+	</str>
+
+	<str name="Agent/Attorney">
+		LOQVIST, GABRIEL MATHIAS
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7763166
+	</str>
+	<str name="Application Number">
+		US11424684
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Relocatable countercurrent decantation system
+	</str>
+	<str name="Abstract">
+		A process line for separating oil sand slurry comprising coarse solids, fines, bitumen and water, into a first product comprising bitumen, fines and water and a second product comprising coarse solids, fines and water is provided comprising a plurality of countercurrently operating solid/liquid separators arranged in series along a pipeline, wherein the underflow of one separator is fed to the next separator in series and the overflow of each separator is fed to the preceding separator, the underflow of the last separator being the second product and the overflow from the first separator being the first product.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-06-16
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-06
+	</str>
+	<str name="Publication Date">
+		2010-07-27
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-07
+	</str>
+	<str name="All IPC">
+		C10G1/04 | B01D21/02 | B01D21/28
+	</str>
+	<str name="IPC Primary">
+		C10G1/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C10
+	</str>
+	<str name="IPC Subclass">
+		C10G
+	</str>
+	<str name="IPC Group">
+		C10G1
+	</str>
+	<str name="All UPC">
+		210/513 | 210/512.1 | 208/390 | 208/424 | 208/391
+	</str>
+	<str name="UPC Primary">
+		210/513
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6899231 | US4437998 | US20050150844 | US5264118 | US4859317 | CA2453697 | CA1293465 | CA2493677 | CA2332207 | CA1267860
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Assignee(s)">
+		CANADIAN OIL SANDS LIMITED (CALGARY, CA), CANADIAN OIL SANDS LIMITED PARTNERSHIP (CALGARY, CA), CONOCOPHILLLIPS OILSANDS PARTNERSHIP II (CALGARY, CA), IMPERIAL OIL RESOURCES (CALGARY, CA), MOCAL ENERGY LIMITED (TOKYO, JP), NEXEN OIL SANDS PARTNERSHIP (CALGARY, CA), MURPHY OIL COMPANY LTD.
+	</str>
+	<str name="1st Assignee">
+		CANADIAN OIL SANDS LIMITED (CALGARY, CA), CANADIAN OIL SANDS LIMITED PARTNERSHIP (CALGARY, CA), CONOCOPHILLLIPS OILSANDS PARTNERSHIP II (CALGARY, CA), IMPERIAL OIL RESOURCES (CALGARY, CA), MOCAL ENERGY LIMITED (TOKYO, JP), NEXEN OIL SANDS PARTNERSHIP (CALGARY, CA), MURPHY OIL COMPANY LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Calgary, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Calgary, CA
+	</str>
+	<str name="Inventor(s)">
+		CYMERMAN, GEORGE, J. | VANDENBERGHE, JESSICA
+	</str>
+	<str name="1st Inventor">
+		CYMERMAN, GEORGE, J.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Edmonton, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Edmonton, CA | Edmonton, CA
+	</str>
+	<str name="Agent/Attorney">
+		BENNETT JONES LLP
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D
+	</str>
+	<str name="Assistant Examiner">
+		ROBINSON, RENEE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

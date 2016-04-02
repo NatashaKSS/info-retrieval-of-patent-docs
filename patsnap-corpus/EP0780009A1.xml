@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP0780009A1
+	</str>
+	<str name="Application Number">
+		EP1995933036
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		VIRTUAL REALITY IMAGING SYSTEM
+	</str>
+	<str name="Abstract">
+		The virtural reality imaging system (10) takes a multidimensional space that contains real world objects and phenomena, be they static or dynamic in nature, and enables a user to define a point and/or a path through this multidimensional space. The apparatus (10) then displays (11) the view to the user that would be seen from the point and/or path through the multidimensional space. This view is filtered 301-303 through user definable characteristics that refine the real world phenomena and objects to a perspective that is of interest to the user. This filtered view presents the user with a virtual view of the reality contained within this multidimensional space, which virtual reality presents data to the user of only objects, views and phenomena that are of particular interest to the user.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-09-08
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-09
+	</str>
+	<str name="Publication Date">
+		1997-06-25
+	</str>
+	<str name="Publication Year">
+		1997
+	</str>
+	<str name="Publication(Year/Month)">
+		1997-06
+	</str>
+	<str name="All IPC">
+		G06T15/10
+	</str>
+	<str name="IPC Primary">
+		G06T15/10
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T15
+	</str>
+	<str name="Family Members">
+		AU3583995A | DE69520504D1 | DE69520504T2 | CA2199619A1 | AU691976B2 | EP0780009B1 | WO1996007988A1 | AT200157T | EP0780009A1
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		See references of WO     9607988A1
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		302640
+	</str>
+	<str name="Priority Date">
+		1994-09-08
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		MYERS, WILLIAM, LORING
+	</str>
+	<str name="1st Inventor">
+		MYERS, WILLIAM, LORING
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

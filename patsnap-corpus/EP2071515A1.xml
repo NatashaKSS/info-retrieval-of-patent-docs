@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP2071515A1
+	</str>
+
+	<str name="Application Number">
+		EP2007122829
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		Visually tracking an object in real world using 2D appearance and multicue depth estimations
+	</str>
+
+	<str name="Abstract">
+		The invention relates to a method for the estimation of the dynamic state of a real-world object over time using a camera system, 2D image information and a combination of different measurements of the object&apos;s distance from the camera. The 2D image information is used to track an object&apos;s 2D position as well as its 2D size and 2D size change using its appearance. In addition, an object&apos;s distance from the camera is gained from one or several direct depth measurements. The 2D position and size, and the object&apos;s depth are coupled with each other to get an improved estimation of an object&apos;s 3D position and 3D velocity, and so get an improved real-world object tracking system, which can be used on a moving platform like a robot or a car with mounted cameras for a dynamic visual scene analysis.
+	</str>
+
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+
+	<str name="Application Date">
+		2007-12-11
+	</str>
+
+	<str name="Application Year">
+		2007
+	</str>
+
+	<str name="Application(Year/Month)">
+		2007-12
+	</str>
+
+	<str name="Publication Date">
+		2009-06-17
+	</str>
+
+	<str name="Publication Year">
+		2009
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2009-06
+	</str>
+
+	<str name="All IPC">
+		G06T7/20
+	</str>
+
+	<str name="IPC Primary">
+		G06T7/20
+	</str>
+
+	<str name="IPC Section">
+		G
+	</str>
+
+	<str name="IPC Class">
+		G06
+	</str>
+
+	<str name="IPC Subclass">
+		G06T
+	</str>
+
+	<str name="IPC Group">
+		G06T7
+	</str>
+
+	<str name="Family Members">
+		US20090213219A1 | JP2009146406A | EP2071515A1
+	</str>
+
+	<str name="Family Member Count">
+		3
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References">
+		FEYRER S ET AL:  &quot;Tracking and pursuing persons with a mobile robot&quot; RECOGNITION, ANALYSIS, AND TRACKING OF FACES AND GESTURES IN REAL-TIME SYSTEMS, 1999. PROCEEDINGS. INTERNATIONAL WORKSHOP ON CORFU, GREECE 26-27 SEPT. 1999, LOS ALAMITOS, CA, USA,IEEE COMPUT. SOC, US, 26 September 1999 (1999-09-26), pages 83-88, XP010356537 ISBN: 978-0-7695-0378-3 | JINGPING JIA ET AL:  &quot;QP_TR Trust Region Blob Tracking Through Scale-Space with Automatic Selection of Features&quot; IMAGE ANALYSIS AND RECOGNITION LECTURE NOTES IN COMPUTER SCIENCE;;LNCS, SPRINGER BERLIN HEIDELBERG, BE, vol. 4141, 1 January 2006 (2006-01-01), pages 862-873, XP019043762 ISBN: 978-3-540-44891-4 | QIANG WANG ET AL:  &quot;Real-Time Bayesian 3-D Pose Tracking&quot; IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY, IEEE SERVICE CENTER, PISCATAWAY, NJ, US, vol. 16, no. 12, 1 December 2006 (2006-12-01), pages 1533-1541, XP011151056 ISSN: 1051-8215 | YILMAZ, A.; JAVED, O.; SHAH, M.: &apos;Object tracking: A survey&apos; ACM COMPUT. SURV. vol. 38, no. 4, 2006, page 13 | COMANICIU, D.; RAMESH, V.; MEER, P.: &apos;Real-time tracking of non-rigid objects using mean-shift&apos; COMPUTER VISION AND PATTERN RECOGNITION vol. 02, 2000, page 2142 | COMANICIU, V.; MEER, P. KERNEL-BASED OBJECT TRACKING 2003, | LUCAS, B.D.; KANADE, T.: &apos;An iterative image registration technique with an application to stereo vision&apos; INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI81 1981, pages 674 - 679 | TOMASI, C.; KANADE, T.: &apos;Technical Report CMU-CS-91-132&apos;, April 1991, CARNEGIE MELLON UNIVERSITY article &apos;Detection and tracking of point features&apos; | SHI, J.; TOMASI, C.: &apos;Good features to track&apos; IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR&apos;94 June 1994, pages 593 - 600 | QIAN, N.: &apos;Binocular disparity and the perception of depth&apos; NEURON vol. 18, no. 3, March 1997, pages 359 - 368 | LOU, J. ET AL.: &apos;3-D Model-Based Vehicle Tracking&apos; IEEE TRANSACTIONS ON IMAGE PROCESSING vol. 14, October 2005, pages 1561 - 1569 | KRAHNSTOEVER, N.; SHARMA, R.: &apos;Appearance Mangement and Cue Fusion for 3D Model-Based Tracking&apos; IEEE COMPUTER SOCIETY CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION vol. 2, 2003, pages 249 - 254 | GIEBEL, J.; GAVRILA, D.; SCHNORR, C.: &apos;A Bayesian for multicue 3D object tracking&apos; PROCEEDINGS OF EUROPEAN CONFERENCE ON COMPUTER VISION 2004, | RISTIC, B.: &apos;Beyond the Kalman Filter: Particle Filters for Tracking Applications&apos;, February 2004, ARTECH HOUSE PUBLISHERS | ARULAMPALAM, S. ET AL.: &apos;A Tutorial on Particle Filters for On-line Non- linear/Non-Gaussian Bayesian Tracking&apos; IEEE TRANSACTIONS OF SIGNAL PROCESSING vol. 50, no. 2, February 2002, pages 174 - 188
+	</str>
+
+	<str name="Other References Count">
+		15
+	</str>
+
+	<str name="Cites">
+		WO2004107266A1
+	</str>
+
+	<str name="Cites Count">
+		1
+	</str>
+
+	<str name="Priority Country">
+		EP
+	</str>
+
+	<str name="Priority Number">
+		07122829
+	</str>
+
+	<str name="Priority Date">
+		2007-12-11
+	</str>
+
+	<str name="Assignee(s)">
+		HONDA RESEARCH INSTITUTE EUROPE GMBH
+	</str>
+
+	<str name="1st Assignee">
+		HONDA RESEARCH INSTITUTE EUROPE GMBH
+	</str>
+
+	<str name="Number of Assignees">
+		1
+	</str>
+
+	<str name="1st Assignee Address">
+		Carl-Legien-Strasse 30, 63073 Offenbach/Main, DE
+	</str>
+
+	<str name="Assignee(s) Address">
+		Carl-Legien-Strasse 30, 63073 Offenbach/Main, DE
+	</str>
+
+	<str name="Inventor(s)">
+		EGGERT, JULIAN | REBHAN, SVEN | WILLERT, VOLKER | ZHANG, CHEN
+	</str>
+
+	<str name="1st Inventor">
+		EGGERT, JULIAN
+	</str>
+
+	<str name="Number of Inventors">
+		4
+	</str>
+
+	<str name="1st Inventor Address">
+		Pater-Delp-Strasse, 33, 63179, Obertshausen, DE
+	</str>
+
+	<str name="Inventor(s) Address">
+		Pater-Delp-Strasse, 33, 63179, Obertshausen, DE | M&#252;hlfeldstrasse, 3, 63179, Obertshausen, DE | Frankfurter, Strasse, 56, 63500, Seligenstadt, DE | R&#252;desheimer, Strasse, 75, 64295, Darmstadt, DE
+	</str>
+
+	<str name="Agent/Attorney">
+		RUPP, CHRISTIAN
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP0838134A1
+	</str>
+	<str name="Application Number">
+		EP1996925716
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		PROCEDURE AND DEVICE FOR THE CHEMICAL AND ELECTROLYTIC TREATMENT OF PRINTED CIRCUIT BOARDS AND FILMS
+	</str>
+	<str name="Abstract">
+		The invention pertains to a procedure for the rapid and high-precision chemical and electrolytic treatment and scouring of printed circuit boards and films, using a treatment fluid through which the printed circuit boards and films are conveyed in a horizontal position and direction. The invention also pertains to a device for carrying out this procedure. To speed up these processes, the surface of the articles undergoing treatment must be exposed to a macrostream delivering active treatment fluid. In addition, micro-exchange of material into the diffusion layer must be promoted. According to the invention this is achieved by using hydrodynamically acting cavitation generators which produce cavitation bubbles formed in liquid jets (50); this is done by forcing the treatment fluid out of the generator under high pressure and causing the treatment fluid in the generators to move in eddies. The treatment fluid is forced under high pressure in a circulation through cavitation bubble-generating nozzles (10) and discharged in large quantities onto the surface. The cavitation bubbles in the fluid implode at the diffusion layer and thus bring about the micro-exchange of material. The process is particularly effective in the treatment of fine-conductor printed circuit boards with fine bores and blind holes.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-07-05
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-07
+	</str>
+	<str name="Publication Date">
+		1998-04-29
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-04
+	</str>
+	<str name="All IPC">
+		B05B1/34 | H05K3/00
+	</str>
+	<str name="IPC Primary">
+		B05B1/34
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05B
+	</str>
+	<str name="IPC Group">
+		B05B1
+	</str>
+	<str name="Family Members">
+		EP0838134A1 | EP0838134B1 | ES2133976T3 | WO1997002724A1 | JP1999508644A | US6077359 | DE19524523A1 | CA2225829A1 | AT180622T
+	</str>
+	<str name="Family Member Count">
+		9
+	</str>
+	<str name="Family Members Cited By Count">
+		3
+	</str>
+	<str name="Other References">
+		See references of WO     9702724A1
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		19524523
+	</str>
+	<str name="Priority Date">
+		1995-07-05
+	</str>
+	<str name="Assignee(s)">
+		ATOTECH DEUTSCHLAND GMBH
+	</str>
+	<str name="1st Assignee">
+		ATOTECH DEUTSCHLAND GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		BARON, DAVID, T. | SCHNEIDER, REINHARD
+	</str>
+	<str name="1st Inventor">
+		BARON, DAVID, T.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		9, Gloucester, Way
+	</str>
+	<str name="Inventor(s) Address">
+		9, Gloucester, Way
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

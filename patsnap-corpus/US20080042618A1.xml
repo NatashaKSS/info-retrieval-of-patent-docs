@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20080042618A1
+	</str>
+	<str name="Application Number">
+		US11839091
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		POWER SUPPLY METHODS AND ARRANGEMENTS
+	</str>
+	<str name="Abstract">
+		In the context of a notebook computer, multiple battery safety measures in the computer, battery pack, and individual battery cells. These battery packs include industry standard safety mechanisms as well as additional safeguards designed to increase safety. The additional safeguards can be categorized in the following ways. The first safeguard deals with multiple, independent levels of battery monitoring. The second safeguard employs abnormal condition detection methods. The third safeguard deals with improvements to mechanical and thermal design.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-08-15
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2008-02-21
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-02
+	</str>
+	<str name="All IPC">
+		H02J7/00 | H01M2/12 | H01M1/44
+	</str>
+	<str name="IPC Primary">
+		H02J7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02J
+	</str>
+	<str name="IPC Group">
+		H02J7
+	</str>
+	<str name="All UPC">
+		429/82 | 320/134 | 320/136 | 429/149
+	</str>
+	<str name="UPC Primary">
+		429/82
+	</str>
+	<str name="UPC Class">
+		429
+	</str>
+	<str name="Family Members">
+		US20080042618A1
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		83909107 | 82250606
+	</str>
+	<str name="Priority Date">
+		2007-08-15 | 2006-08-15
+	</str>
+	<str name="Assignee(s)">
+		LENOVO (SINGAPORE) PTE., LTD.
+	</str>
+	<str name="1st Assignee">
+		LENOVO (SINGAPORE) PTE., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Singapore,SG
+	</str>
+	<str name="Assignee(s) Address">
+		Singapore,SG
+	</str>
+	<str name="Inventor(s)">
+		CROMER DARYL | CORKELL ANTHONY | HORIKOSHI SEITA | MATSUMOTO TAKESHI | ODAOHHARA SHIGEFUMI | WONG TIN-LUP
+	</str>
+	<str name="1st Inventor">
+		CROMER DARYL
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Cary,NC,US
+	</str>
+	<str name="Inventor(s) Address">
+		Cary,NC,US | Cary,NC,US | Zama-shi,JP | Fujisawa-shi,JP | Yamato-shi,JP | Chapel Hill,NC,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

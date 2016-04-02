@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5751289
+	</str>
+	<str name="Application Number">
+		US08587222
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Virtual reality imaging system with image replay
+	</str>
+	<str name="Abstract">
+		The virtual reality imaging system takes a multidimensional space that contains real world objects and phenomena, be they static or dynamic in nature, and enables a user to define a point in and/or a path through this multidimensional space. The apparatus then displays the view to the user that would be seen from the point in and/or path through the multidimensional space. This view is filtered through user definable characteristics that refine the real world phenomena and objects to a perspective that is of interest to the user. This filtered view presents the user with a virtual view of the reality contained within this multidimensional space, which virtual reality presents data to the user of only objects, views and phenomena that are of particular interest to the user. The system also stores a plurality of states of the multidimensional space so that the user can replay the generated display or can modify the user selected point in and/or path through this multidimensional space and/or modify the user definable characteristics that define the filtered view.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1996-01-16
+	</str>
+	<str name="Application Year">
+		1996
+	</str>
+	<str name="Application(Year/Month)">
+		1996-01
+	</str>
+	<str name="Publication Date">
+		1998-05-12
+	</str>
+	<str name="Publication Year">
+		1998
+	</str>
+	<str name="Publication(Year/Month)">
+		1998-05
+	</str>
+	<str name="All IPC">
+		G06F15/00
+	</str>
+	<str name="IPC Primary">
+		G06F15/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="All UPC">
+		345/581 | 345/419
+	</str>
+	<str name="UPC Primary">
+		345/581
+	</str>
+	<str name="UPC Class">
+		345
+	</str>
+	<str name="Family Members">
+		US5751289
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5490239 | US5177474 | US5396583 | US5293529 | US5184306 | US5153858 | US5135397 | US5317689 | US4633448 | US5095521 | US5056066 | US5313567
+	</str>
+	<str name="Cites Count">
+		12
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		58722296 | 30264094 | 95530992
+	</str>
+	<str name="Priority Date">
+		1996-01-16 | 1994-09-08 | 1992-10-01
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Boulder, CO
+	</str>
+	<str name="Assignee(s) Address">
+		Boulder, CO
+	</str>
+	<str name="Inventor(s)">
+		MYERS, WILLIAM, LORING
+	</str>
+	<str name="1st Inventor">
+		MYERS, WILLIAM, LORING
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Boulder, CO
+	</str>
+	<str name="Inventor(s) Address">
+		Boulder, CO
+	</str>
+	<str name="Agent/Attorney">
+		DUFT, GRAZIANO &amp; FOREST, P.C.
+	</str>
+	<str name="Primary Examiner">
+		NGUYEN, PHU K.
+	</str>
+	<str name="Assistant Examiner">
+		VO, CLIFF N.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

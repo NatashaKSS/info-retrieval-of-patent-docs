@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7117192
+	</str>
+	<str name="Application Number">
+		US09863513
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Text and imagery spatial correlator
+	</str>
+	<str name="Abstract">
+		A text and imagery spatial correlator automatically relates the geographic locations where events referenced in text occur to those same geographic locations appearing in imagery. In the preferred embodiment, the system deploys adaptable, context-sensitive agents for the automatic interpretation of text, and the application of those agents to classify and geolocate textual references. The results are integrated with similar spatial references from imagery in a common data model, accessible by both spatial and non-spatial data correlation. The unique combination of elements enables the system to automatically develop spatial relationships between text and imagery. Although the invention finds utility in numerous applications, the system and method are particularly useful in correlating remote sensor imagery.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2001-05-23
+	</str>
+	<str name="Application Year">
+		2001
+	</str>
+	<str name="Application(Year/Month)">
+		2001-05
+	</str>
+	<str name="Publication Date">
+		2006-10-03
+	</str>
+	<str name="Publication Year">
+		2006
+	</str>
+	<str name="Publication(Year/Month)">
+		2006-10
+	</str>
+	<str name="All IPC">
+		G06F7/00 | G06N5/02
+	</str>
+	<str name="IPC Primary">
+		G06F7/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F7
+	</str>
+	<str name="All UPC">
+		382/113 | 706/45 | 706/48 | 382/219 | 382/155 | 707/6 | 382/217 | 707/3
+	</str>
+	<str name="UPC Primary">
+		382/113
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20020178134A1 | US7117192
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		PreView, White Paper 2. &quot;Achieving the Holy Grall: Global-Scale Monitoring and Analysis of Environmental and Societal Indicators,&quot; Mar. 15, 1999, Submitted to DCI Environmental Center by ERIM International. cited by oth- er. | &quot;The American Heritage College Dictionary&quot;, p. 691, 2002 Houghton Mifflin Company. cited by examiner . | Paper authored by Roby Hyland, Chris Clifton, and Roderick Holland, of the Mitre Corporation Title: GeoNODE: Visualizing News in Geospatial Context (date unknown). cited by other .
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US6741743 | US5222155 | US6282540 | US5345086 | US7020326 | US5638460 | US5432902 | US5793888 | US4075604 | US7007010 | US20020156779 | US5848373 | US6523019
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		86351301
+	</str>
+	<str name="Priority Date">
+		2001-05-23
+	</str>
+	<str name="Assignee(s)">
+		VERIDIAN ERIM INTERNATIONAL, INC.
+	</str>
+	<str name="1st Assignee">
+		VERIDIAN ERIM INTERNATIONAL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ann Arbor, MI
+	</str>
+	<str name="Assignee(s) Address">
+		Ann Arbor, MI
+	</str>
+	<str name="Inventor(s)">
+		WALTZ, EDWARD | BERTHIAUME, RICHARD, A.
+	</str>
+	<str name="1st Inventor">
+		WALTZ, EDWARD
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Ann, Arbor, MI
+	</str>
+	<str name="Inventor(s) Address">
+		Ann, Arbor, MI | Grand, Blanc, MI
+	</str>
+	<str name="Agent/Attorney">
+		GIFFORD, KRASS, GROH, SPRINKLE, ANDERSON &amp; CITKOWSKI, PC
+	</str>
+	<str name="Primary Examiner">
+		KNIGHT, ANTHONY
+	</str>
+	<str name="Assistant Examiner">
+		CHANG, SUNRAY
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

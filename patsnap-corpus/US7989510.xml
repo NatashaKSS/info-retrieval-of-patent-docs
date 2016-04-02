@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7989510
+	</str>
+	<str name="Application Number">
+		US12863309
+	</str>
+	<str name="Title">
+		Process for the purification of an aqueous stream coming from the fischer-tropsch reaction
+	</str>
+	<str name="Abstract">
+		The present invention relates to a process for the purification of an aqueous stream coming from the Fischer-Tropsch reaction which comprises: feeding the aqueous stream containing organic by products of the reaction to a fractionating distillation column or to a stripping column; --condensation of the vaporized stream leaving the head of the column and the removal of a distillate enriched in the heaviest by-products; --feeding the partially purified aqueous stream leaving the bottom of the distillation column, at the head to one or more sensible contact exchangers; --sending a process gas in countercurrent to the tail of the exchanger at a temperature lower than that of the aqueous stream; --sending the process gas enriched in water and part of the residual organic product leaving the head of the exchanger to the Fischer-Tropsch synthesis plant of hydrocarbons; --sending the purified colder water leaving the exchanger directly to further treatment.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-01-14
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-01
+	</str>
+	<str name="Publication Date">
+		2011-08-02
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		C07C27/00 | B01D35/18
+	</str>
+	<str name="IPC Primary">
+		C07C27/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C07
+	</str>
+	<str name="IPC Subclass">
+		C07C
+	</str>
+	<str name="IPC Group">
+		C07C27
+	</str>
+	<str name="All UPC">
+		518/728 | 210/175 | 210/180 | 518/700
+	</str>
+	<str name="UPC Primary">
+		518/728
+	</str>
+	<str name="UPC Class">
+		518
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US20030125396 | US6462097 | US6887908 | US20050131085 | WO2003048272 | GB647903
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Priority Country">
+		IT
+	</str>
+	<str name="Priority Number">
+		M12008A0079
+	</str>
+	<str name="Priority Date">
+		2008-01-18
+	</str>
+	<str name="Assignee(s)">
+		ENI S.P.A.
+	</str>
+	<str name="1st Assignee">
+		ENI S.P.A.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rome, IT
+	</str>
+	<str name="Assignee(s) Address">
+		Rome, IT
+	</str>
+	<str name="Inventor(s)">
+		LOCATELLI, LINO | CLERICI, GABRIELE | PISANI, LEGAL, REPRESENTATIVE, FRANCA
+	</str>
+	<str name="1st Inventor">
+		LOCATELLI, LINO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Vigevano, IT
+	</str>
+	<str name="Inventor(s) Address">
+		Vigevano, IT | Milan, IT | Vigevano, IT
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEUSTADT, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		PARSA, JAFAR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

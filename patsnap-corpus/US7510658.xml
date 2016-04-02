@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7510658
+	</str>
+	<str name="Application Number">
+		US11485720
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Mobile desalination plants and systems, and methods for producing desalinated water
+	</str>
+	<str name="Abstract">
+		Systems, methods, and apparatus for desalinating water are provided. A vessel includes a water intake system, a reverse osmosis system, a concentrate discharge system, a permeate transfer system, a power source, and a control system. The concentrate discharge system includes a plurality of concentrate discharge ports.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-07-13
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-07
+	</str>
+	<str name="Publication Date">
+		2009-03-31
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		B01D61/10
+	</str>
+	<str name="IPC Primary">
+		B01D61/10
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/652 | 210/747 | 210/321.6 | 210/242.1 | 202/83 | 210/170.11 | 203/10 | 114/382
+	</str>
+	<str name="UPC Primary">
+		210/652
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20090139933A1 | US20040065614A1 | US20060273009A1 | US20080173589A1 | US7081205 | US7510658
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References">
+		EP Communication pursuant to Article 94(3)EPC, for International Patent Application No. 03 749 148.7--2104, dated Jul. 2, 2008, 5 pages. cited by other. | US Office Action for U.S. Appl. No. 11/842,390, mailed Aug. 4, 2008, 13 pages. cited by other . | Robert R. Yamada, Jack K. Laughlin, Dennis K. Wood, &quot;Co-located seawater desalination/power facilities: practical and institutional issues&quot;; Desalination 102 (1995) pp. 279-286; Downloaded from the internet Mar. 15, 2008. cited by examiner . | Harald Lampe, Thomas Altmann, han J. Gaetjens, &quot;PCS--Preussag Conversion System, Mobile floating seawater desalination plant&quot;, Desalination 114 (1997) pp. 145-151; Downloaded from application 10/630,351 Mar. 15, 2008. cited by other . | Harald Lampe, Thomas Altmann, Hans J. Gatjens; Nov. 12, 1997, PCS Preussag Conversion System, Mobile floating seawater desalination plant; Desalination 114 (1997) pp. 145-151; Downloaded from application 10/630,351 Mar. 15, 2008. cited by examiner . | US Office Action issued for U.S. Appl. No. 11/521,020, mailed Aug. 21, 2007, 8 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By">
+		US8313650 | US7901580 | US7985322 | US8252148 | US8282830 | US8292088 | US8328996 | US7658843
+	</str>
+	<str name="Cited By Count">
+		8
+	</str>
+	<str name="Cites">
+		US6946081 | US6348148 | US7083730 | US6375842 | US4311012 | US4169789 | US6559554 | US20020130520 | US5366635 | US5186822 | US4526494 | US3365061 | US5329758 | ES2165824 | EP0959048
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		US | US | US | US
+	</str>
+	<str name="Priority Number">
+		48572006 | 63035103 | 41690702 | 50534103
+	</str>
+	<str name="Priority Date">
+		2006-07-13 | 2003-07-30 | 2002-10-08 | 2003-06-03
+	</str>
+	<str name="Assignee(s)">
+		WATER STANDARD COMPANY LLC
+	</str>
+	<str name="1st Assignee">
+		WATER STANDARD COMPANY LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Boca Raton, FL
+	</str>
+	<str name="Assignee(s) Address">
+		Boca Raton, FL
+	</str>
+	<str name="Inventor(s)">
+		GORDON, ANDREW, W.
+	</str>
+	<str name="1st Inventor">
+		GORDON, ANDREW, W.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Boca, Raton, FL
+	</str>
+	<str name="Inventor(s) Address">
+		Boca, Raton, FL
+	</str>
+	<str name="Agent/Attorney">
+		OSHA .CNDOT. LIANG LLP
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		5
+	</str>
+	<str name="cited by within 5 years">
+		5
+	</str>
+</doc>
+

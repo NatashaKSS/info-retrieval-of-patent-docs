@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7848475
+	</str>
+	<str name="Application Number">
+		US11596097
+	</str>
+	<str name="Title">
+		Low head loss modular suction strainer with contoured surfaces
+	</str>
+	<str name="Abstract">
+		A strainer for an emergency core cooling system (ECCS) in a nuclear power plant comprises a perforated strainer element that is immersed in a reservoir of cooling water, which is drawn through the strainer element into the emergency core cooling system. The side of the strainer element in contact with the cooling water has a contoured configuration for disrupting the formation of a flat bed of fibrous material that can trap small particulate material intended to pass through the strainer element. Incorporating this strainer element into an ECCS strainer enables the strainer to be made more compact, because the debris bed need not be spread over an unduly large area to prevent excessive head loss from the debris load in the event of a reactor loss of coolant accident. The strainer also incorporates a modular construction that uses individual strainer disc modules. Each disc module includes a perforated first disc part having a central opening and a perforated second disc part also having a central opening. The first and second disc parts fit together to form an interior space with facing perforated major surfaces and an axial opening, and connecting tubes between the discs place the axial openings in fluid communication. The entire assembly is secured together by tie rods that hold the discs together with the connecting tubes compressed between them.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-05-03
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-05
+	</str>
+	<str name="Publication Date">
+		2010-12-07
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-12
+	</str>
+	<str name="All IPC">
+		G21C9/00 | G21C19/30 | B01D29/07 | B01D39/08 | B01D39/12
+	</str>
+	<str name="IPC Primary">
+		G21C9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G21
+	</str>
+	<str name="IPC Subclass">
+		G21C
+	</str>
+	<str name="IPC Group">
+		G21C9
+	</str>
+	<str name="All UPC">
+		210/346 | 210/416.1 | 376/282 | 210/498 | 210/488 | 376/313 | 210/487 | 210/486 | 210/347
+	</str>
+	<str name="UPC Primary">
+		210/346
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report in PCT/US05/15178, Nov. 8, 2005. cited by other . | International Preliminary Report On Patentability and Written Opinion in PCT/US05/15178, Dec. 15, 2006. cited by other. | Sulzer Thermtec, Nuclear Service and Valves--Suction strainers with stringent requirements for the emergency cooling systems of nuclear power plants, 4 pp. Aug. 1995. cited by other . | Letter In Response To Written Opinion With Amendments Under Article 34 in PCT/US2005/15178, Mar. 14, 2006. cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		US8054932
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US4501663 | US6175606 | US3709293 | US4376091 | US5935439 | US5696801 | US6117322 | US5471514 | US5835549 | US5473649 | US5330644 | US5759399 | US5759398 | EP0970477 | WO2005113108
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Assignee(s)">
+		CONTINUUM DYNAMICS, INC.
+	</str>
+	<str name="1st Assignee">
+		CONTINUUM DYNAMICS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Ewing, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Ewing, NJ
+	</str>
+	<str name="Inventor(s)">
+		KAUFMAN, ANDREW, E. | BILANIN, ALAN, J.
+	</str>
+	<str name="1st Inventor">
+		KAUFMAN, ANDREW, E.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		West, Windsor, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		West, Windsor, NJ | Princeton, NJ
+	</str>
+	<str name="Agent/Attorney">
+		QUINLAN, P.C., DAVID M.
+	</str>
+	<str name="Primary Examiner">
+		KIM, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

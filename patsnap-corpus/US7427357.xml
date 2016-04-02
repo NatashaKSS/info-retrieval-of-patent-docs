@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7427357
+	</str>
+	<str name="Application Number">
+		US10564483
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process and apparatus for anaerobic treatment of sulfur compound-containing wastewater
+	</str>
+	<str name="Abstract">
+		An object of the present invention is to provide a process for a high-performance upflow anaerobic sludge treatment (methane fermentation treatment) targeting an organic wastewater containing an inorganic sulfur compound and an apparatus therefor. The invention relates to a process for methane fermentation treatment of an organic wastewater containing a sulfur compound, which includes: detecting a concentration of hydrogen sulfide in a biogas generated from a step of methane fermentation treatment; and, conducting a control of subjecting the organic wastewater to a desulfurization treatment operation in the case that the concentration of hydrogen sulfide in the biogas exceeds a predetermined value, and to an apparatus therefor. It is preferred that the predetermined value of the concentration of hydrogen sulfide is from 1 to 4%, preferably from 1% to 2%, and the desulfurization treatment operation comprises adding a desulfurizing agent containing an iron ion so that a molar ratio of the iron ion to sulfur is from 0.05 to 1.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-07-15
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-07
+	</str>
+	<str name="Publication Date">
+		2008-09-23
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-09
+	</str>
+	<str name="All IPC">
+		C02F1/20 | C02F1/58 | C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F1/20
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/631 | 210/603 | 423/244.06 | 210/916
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7427357 | WO2005007588A1 | CN100484890C | CN1823015A | US20070175822A1
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20060243660 | US5916438 | JP1996323387 | JP1994047390 | JP1993084499 | JP1998305293 | JP1982136996 | JP2001079590 | JP1991278892 | DE226552
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2003275308
+	</str>
+	<str name="Priority Date">
+		2003-07-16
+	</str>
+	<str name="Assignee(s)">
+		EBARA CORPORATION
+	</str>
+	<str name="1st Assignee">
+		EBARA CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KAMACHI, KAZUMASA | HONMA, YASUHIRO | TANAKA, TOSHIHIRO | TSUKAMOTO, YUJI
+	</str>
+	<str name="1st Inventor">
+		KAMACHI, KAZUMASA
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		WENDEROTH, LIND &amp; PONACK, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

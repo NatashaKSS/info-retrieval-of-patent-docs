@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7537935
+	</str>
+	<str name="Application Number">
+		US10/694136
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System for providing biological materials
+	</str>
+	<str name="Abstract">
+		A process and closure arrangement is provided for isolating purified biological material. The process includes placing biological materials in separate lysis vessels, adding lysis liquids to the biological materials in the lysis vessels, and transferring the liquids in the lysis vessels into a matrix unit. The liquids in the matrix vessels of the matrix unit are extracted through outlet openings during which the liquids flow through matrices and the matrix unit is placed on a collecting unit with collecting vessels which are arranged such that at least the outlet openings of the matrix vessels extend into the collecting vessels. The matrix vessels are with elution fluid and elution fluids from the matrix vessels are extracted through their outlet openings during which the elution fluids flow through the matrices and the elution fluids which are enriched with biological material are collected in the collecting vessels.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-10-27
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-10
+	</str>
+	<str name="Publication Date">
+		2009-05-26
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		B01D15/08 | G01N1/18 | G01N33/53
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		436/177 | 210/198.2 | 210/232
+	</str>
+	<str name="UPC Primary">
+		436/177
+	</str>
+	<str name="UPC Class">
+		436
+	</str>
+	<str name="Family Members">
+		US20040092030A1 | US7537935
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;Rapid Nucleic Acid Purification for Reliable PCR&quot;, News Qiagen, Issue No. 1/94, pp. 9-10. cited by other | &quot;New: QIAamp for Tissue and Mouse Tails&quot;, News Qiagen, Issue No. 2/94, pp. 9-11. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US3713771 | US4142858 | US4479720 | US4683058 | US4735318 | US4741441 | US4793492 | US4810471 | US4895706 | US4948564 | US4956298 | US5037544 | US5141719 | US5219528 | US5264184 | US5398837 | US5417923 | US5538849 | US5603899 | US5645723 | US5683659 | US5785925 | US5806670 | US5888831 | US5910246 | US5948363 | US6017698 | DE4124778 | DE4127276 | DE4143394 | DE19605814 | EP0734768 | EP0738733 | WO1991007648 | WO1993001739 | WO1996031781 | WO1997011155
+	</str>
+	<str name="Cites Count">
+		37
+	</str>
+	<str name="Priority Country">
+		US | DE | US
+	</str>
+	<str name="Priority Number">
+		69413603 | 19734135 | 48514400
+	</str>
+	<str name="Priority Date">
+		2003-10-27 | 1997-08-07 | 2000-10-02
+	</str>
+	<str name="Assignee(s)">
+		ROCHE MOLECULAR SYSTEMS, INC.
+	</str>
+	<str name="1st Assignee">
+		ROCHE MOLECULAR SYSTEMS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pleasanton, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Pleasanton, CA
+	</str>
+	<str name="Inventor(s)">
+		BIENHAUS, GERHARD | FRITZ, MICHAEL | SCHWAB, JURGEN | WALTER, THOMAS
+	</str>
+	<str name="1st Inventor">
+		BIENHAUS, GERHARD
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Wielenbach, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Wielenbach, DE | Biblis, DE | Ketsch, DE | Penzberg, DE
+	</str>
+	<str name="Agent/Attorney">
+		KAY, OLGA DOYLE, CHARLES M.
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		RAMILLANO, LORE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

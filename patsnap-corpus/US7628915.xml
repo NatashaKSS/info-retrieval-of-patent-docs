@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7628915
+	</str>
+	<str name="Application Number">
+		US11635901
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Metal cyano bonded phases
+	</str>
+	<str name="Abstract">
+		A composition for use in chromatography is provided comprising a substrate modified with a metal-cyano bonded phase. This novel cyano bonded phase provides superior performance in high performance liquid chromatography (HPLC) and provides superior selectivity, improved peak shape for basic analytes, and the ability of provide rapid separation with outstanding resolution. The composition exhibits improved storage stability, and is chemically stable over a range of pH from 1.5 to 7.5 mobile phase conditions and for more than 2000 multiple injections. A baseline separation of eight tricyclic antidepressants was achieved in less than four minutes using an isocratic mobile phase with the metal-cyano bonded phase of the present invention, compared to the long retention times and poor separation observed for traditional cyano bonded phase. The composition of this invention is particularly useful in a wide variety of chromatographic applications.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-12-08
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-12
+	</str>
+	<str name="Publication Date">
+		2009-12-08
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		B01D15/08 | C02F1/28 | B01D15/32
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/198.2 | 210/658 | 210/656
+	</str>
+	<str name="UPC Primary">
+		210/198.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		WO2008070153A1 | US20080135485A1 | US7628915
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Article by Busch, Daryle H., et al., entitled &quot;Steric Control of CO Binding in a Totally Synthetic Heme Protein Model&quot;, published by Proc. Natl. Acad. Sci. USA, vol. 78, No. 10, pp. 5919-5923, Oct. 1981. cited by other . | Article by Jones, Robert D. et al., entitled &quot;Synthetic Oxygen Carriers Related to Biological Systems&quot;, published by Chemical Reviews, 1979, vol. 70, No. 2, pp. 139-179. cited by other . | Article by O'Gara, John E. et al, entitled &quot;Dependence of Cyano Bonded Phase Hydrolytic Stability on Ligan Structure and Solution pH&quot;, published by J. Chromatogr A 893 (2000), pp. 245-251. cited by other . | Rokita et al. &quot;Salen-Metal Complexes&quot;. Small Molecule DNA &amp; RNA Binders: From Synthesis to Nucleic Acid Complexes. vol. 1. (2003) p. 126-145. cited by examiner . | Article by Coleman, WM, et al, entitled &quot;Oxygenation Studies of Manganese (II) Complexes Containing Linear Pentadentate Ligands&quot;, published by Inorganic Chemistry, vol. 16, No. 5, 1977, pp. 1114-1119. cited by other . | Dadfarnia et al. &quot;Immobilized salen (N,N'-bis(salicylidene) ethylenediamine) as a complexing agent for on-line sorbent extraction/preconcentration and flow injection-flame atomoic absorption spectrometry&quot;. Analytica Chimica Acta. vol. 539 (2005) p. 69-75. cited by examiner . | Article by Okusa, Kensuke, et al., entitled &quot;Development of a New Cyano-Bonded Column for High-Performance Liquid Chromatography&quot;, published by J. Chromatogr A 869 (2000), pp. 143-149. cited by other . | Book by Neue, Uwe D., entitled &quot;HPLC Columns: Theory, Technology and Practice&quot;, published by Wiley-VCH Inc., New York (1997), p. 164-183. cited by other . | Book by Vansant, Ef et al., entitled &quot;Characterization and Chemical Modification of the Silica Surface&quot;, published by Elsevier Science B.V., New York (1995), Preface, 2 pages. cited by other . | Article by Herron, Norman et al., entitled &quot;Reverisble Dioxygen Binding by a Totally Synthetic Non-Porphyrin Macrobicyclic Iron(II) Complex Containing a Persistent Void&quot;, published by J.Am. Chem.Soc. 1981, 103, pp. 1236-1237. cited by other . | Article by Baldwin, JE. et al., entitled &quot;Binding of Dioxygen to Iron(II): Reversible Behavior in Solution&quot; published by J. Am. Chem. Soc., 95, Aug. 1973, pp. 5757-5759. cited by other. | Article by Mclendon, G. et al., entitled &quot;Inorganic Oxygen Carriers as Models for Biological Systems&quot;, published by Coord. Chem. Rev., 19, pp. 1-39. cited by other . | Book by Scott, Raymond PW, entitled &quot;Silica Gel and Bonded Phases&quot;, published John Wiley &amp; Sons, New York (1993), Contents, 2 pages. cited by other . | Kurata et al. Chiral separation with novel (S)-biotin-bonded silica gel for liquid chromatography. Journal of Chromatography A, 1068 (2005) 335-337. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		14
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20060027501 | US5075371 | US7125488 | US5234991 | US5441643 | US5393892 | US6441164 | US5990039 | US5268097 | US6524480 | US4705725 | US20060131238 | EP0475053
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		63590106
+	</str>
+	<str name="Priority Date">
+		2006-12-08
+	</str>
+	<str name="Assignee(s)">
+		VARIAN, INC.
+	</str>
+	<str name="1st Assignee">
+		VARIAN, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Palo Alto, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Palo Alto, CA
+	</str>
+	<str name="Inventor(s)">
+		LI, GUANG, QING | LI, YONGLONG, ANDREW
+	</str>
+	<str name="1st Inventor">
+		LI, GUANG, QING
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Foothill, Ranch, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Foothill, Ranch, CA | Santa, Margarita, CA
+	</str>
+	<str name="Agent/Attorney">
+		MOORE, CYNTHIA R. FISHMAN, BELLA
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="Assistant Examiner">
+		ZALASKY, KATHERINE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

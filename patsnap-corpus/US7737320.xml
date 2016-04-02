@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7737320
+	</str>
+	<str name="Application Number">
+		US11237365
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Composition suitable for decontaminating a porous surface contaminated with cesium
+	</str>
+	<str name="Abstract">
+		A method of decontaminating porous surfaces contaminated with water soluble radionuclides by contacting the contaminated porous surfaces with an ionic solution capable of solubilizing radionuclides present in the porous surfaces followed by contacting the solubilized radionuclides with a gel containing a radionuclide chelator to bind the radionuclides to the gel, and physically removing the gel from the porous surfaces. A dry mix is also disclosed of a cross-linked ionic polymer salt, a linear ionic polymer salt, a radionuclide chelator, and a gel formation controller present in the range of from 0% to about 40% by weight of the dry mix, wherein the ionic polymer salts are granular and the non cross-linked ionic polymer salt is present as a minor constituent.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-09-28
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2010-06-15
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		G21F9/20 | C02F1/42 | G21F9/00 | G21F9/04 | G21F9/16 | B01D15/00 | C08F290/14 | B01J39/00
+	</str>
+	<str name="IPC Primary">
+		G21F9/20
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G21
+	</str>
+	<str name="IPC Subclass">
+		G21F
+	</str>
+	<str name="IPC Group">
+		G21F9
+	</str>
+	<str name="All UPC">
+		525/50 | 210/681 | 536/106 | 210/682 | 588/6 | 588/7 | 588/8 | 210/660 | 588/20 | 588/1
+	</str>
+	<str name="UPC Primary">
+		525/50
+	</str>
+	<str name="UPC Class">
+		525
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Hietanen Raija, Jaakkola Timo and Miettinen Jorma, Sorption of Cesium, Strontium, Iodine and Carbon in Concrete and Sand, Mat. Res. Soc. Symp. Proc. vol. 44, 891-898, 1985. cited by other . | Dosch R.G, Klavetter E.A. et al., Crystalline Silicotitanates--New Ion Exchanger for Selective Removal of Cesium and Strontium From Radwastes, Report SAND 96-1929, 1966. cited by other . | Zheng Z and Anthony R.G., Modeling Multicomponent Ion Exchange Equilibrium Utilizing . . . Exchange Site Model, Ind. Eng. Chem. Res. vol. 36, 2427-2434, 1997. cited by other.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cited By">
+		US7833357 | US8070881
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US7151447 | US5989434 | US20050059086 | US6740312 | US4318408 | JP2005008753
+	</str>
+	<str name="Cites Count">
+		6
+	</str>
+	<str name="Assignee(s)">
+		UCHICAGO ARGONNE, LLC
+	</str>
+	<str name="1st Assignee">
+		UCHICAGO ARGONNE, LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Chicago, IL
+	</str>
+	<str name="Assignee(s) Address">
+		Chicago, IL
+	</str>
+	<str name="Inventor(s)">
+		KAMINSKI, MICHAEL, D. | FINCK, MARTHA, R. | MERTZ, CAROL, J.
+	</str>
+	<str name="1st Inventor">
+		KAMINSKI, MICHAEL, D.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Lockport, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Lockport, IL | Naperville, IL | Downers, Grove, IL
+	</str>
+	<str name="Agent/Attorney">
+		OLSON &amp; CEPURITITS, LTD.
+	</str>
+	<str name="Primary Examiner">
+		LORENGO, JERRY
+	</str>
+	<str name="Assistant Examiner">
+		SMITH, JENNIFER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

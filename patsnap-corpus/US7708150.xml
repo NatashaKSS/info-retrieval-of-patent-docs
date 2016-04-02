@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7708150
+	</str>
+	<str name="Application Number">
+		US11220005
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Process for preparing semipermeable membranes
+	</str>
+	<str name="Abstract">
+		The invention provides methods for preparing reverse osmosis membranes having improved permeability as well as membranes prepared by such methods.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-09-06
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-09
+	</str>
+	<str name="Publication Date">
+		2010-05-04
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		B29C67/20 | B29C44/04 | B01D67/00 | B01D39/14 | B01D39/00
+	</str>
+	<str name="IPC Primary">
+		B29C67/20
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B29
+	</str>
+	<str name="IPC Subclass">
+		B29C
+	</str>
+	<str name="IPC Group">
+		B29C67
+	</str>
+	<str name="All UPC">
+		210/500.27 | 264/49 | 210/500.38 | 264/48 | 210/490
+	</str>
+	<str name="UPC Primary">
+		210/500.27
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report for PCT/US2004/006484. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US5614099 | US6521130 | US5147553 | US4812270 | US5021160 | US4983291 | US5658460 | US5843351 | US7081202 | US6026968 | US6913694 | US6851561 | US4765897 | US6368507 | US5152901 | US3744642 | US5178766 | US6860393 | US4830885 | US6878278 | US4277344 | US5922203 | US4948507 | US6783937 | US4948506 | US5128041 | US4619767 | WO2006078328 | JP1990002827 | EP0474370
+	</str>
+	<str name="Cites Count">
+		30
+	</str>
+	<str name="Assignee(s)">
+		GE OSMONICS, INC.
+	</str>
+	<str name="1st Assignee">
+		GE OSMONICS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Minnetonka, MN
+	</str>
+	<str name="Assignee(s) Address">
+		Minnetonka, MN
+	</str>
+	<str name="Inventor(s)">
+		KURTH, CHRISTOPHER, J.
+	</str>
+	<str name="1st Inventor">
+		KURTH, CHRISTOPHER, J.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Chaska, MN
+	</str>
+	<str name="Inventor(s) Address">
+		Chaska, MN
+	</str>
+	<str name="Agent/Attorney">
+		VIKSNINS HARRIS &amp; PADYS PLLP
+	</str>
+	<str name="Primary Examiner">
+		FORTUNA, ANA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

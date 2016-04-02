@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7390653
+	</str>
+	<str name="Application Number">
+		US10725607
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Culture chamber for biologicals
+	</str>
+	<str name="Abstract">
+		The culture chamber of the present invention has a fluid-filled culture compartment in which cells, tissues and other biologicals are cultured. The culture compartment is transversed by one or more molecular weight cut-off membranes attached to a membrane carrier assembly. Incoming nutrients are transported through the membrane into the culture compartment and metabolic waste products are transported away from the fluid-filled culture compartment through the membrane and out the chamber outlet. Both reusable and disposable culture chambers are described for culturing cells, cell aggregates, particles, tissues and organoids.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-12-02
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-12
+	</str>
+	<str name="Publication Date">
+		2008-06-24
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All IPC">
+		C12M3/04 | C12M1/00 | C02F1/44 | C12M1/14 | C12M1/12 | B01D63/00 | C12M3/00
+	</str>
+	<str name="IPC Primary">
+		C12M3/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12M
+	</str>
+	<str name="IPC Group">
+		C12M3
+	</str>
+	<str name="All UPC">
+		435/295.3 | 435/299.1 | 435/298.1 | 210/321.6 | 435/304.1 | 435/297.2 | 210/321.89 | 435/297.3 | 210/321.87 | 210/321.78
+	</str>
+	<str name="UPC Primary">
+		435/295.3
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Members">
+		EP1572983A1 | US20040110273A1 | WO2004050864A1 | EP1572983A4 | US7390653 | AU2003298826A1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		Verma, R. et al.; Antibody engineering: Comparison of bacterial, yeast, insect and mammalian expression systems, Journal of Immunological Methods, 216, 1998, pp. 165-181. cited by other . | Rai M. et al.; Expression systems for production of heterologous proteins, Current Science, vol. 80, No. 9, May 10, 2001, pp. 1121-1128. cited by other . | FiberCell Hollow Fiber Cell Culture Systems, Dec. 1, 2004 printout, Internet at bellcoglass.com. cited by other. | Hernaeus Instruments, Inc.; Genetic Engineering News, vol. 14, No. 12, Jun. 15, 1994. cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By">
+		US8278101
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5686301 | US5998202 | US4988623 | US5576211 | US5155035 | US6022733 | US5155034 | US6107055 | US5637477 | US3722694 | US5449617 | US6228607 | US6080581 | US3682318 | US5104802 | US5153131 | US5026650 | US5153133
+	</str>
+	<str name="Cites Count">
+		18
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		72560703 | 43079502
+	</str>
+	<str name="Priority Date">
+		2003-12-02 | 2002-12-04
+	</str>
+	<str name="Assignee(s)">
+		SYNTHECON, INC.
+	</str>
+	<str name="1st Assignee">
+		SYNTHECON, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Houston, TX
+	</str>
+	<str name="Assignee(s) Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s)">
+		AKERS, ROGER | ANDERSON, WILLIAM, J. | DINGES, JR., ADRIAN, F. | NAVRAN, JR., STEPHEN, S.
+	</str>
+	<str name="1st Inventor">
+		AKERS, ROGER
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Houston, TX
+	</str>
+	<str name="Inventor(s) Address">
+		Houston, TX | Richmond, TX | Houston, TX | Houston, TX
+	</str>
+	<str name="Agent/Attorney">
+		HALL, ELIZABETH R.
+	</str>
+	<str name="Primary Examiner">
+		BEISNER, WILLIAM H.
+	</str>
+	<str name="Assistant Examiner">
+		BOWERS, NATHAN A
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

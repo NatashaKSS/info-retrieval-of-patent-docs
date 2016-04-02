@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2010084016A1
+	</str>
+	<str name="Application Number">
+		PCT/EP2010/000390
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		BATTERY HAVING SIMPLIFIED DESIGN
+	</str>
+	<str name="Abstract">
+		The invention relates to a battery (200), comprising a cell package (201) made of at least a single cell in a cell housing, an electronic component (100, 202), electrical conductors (205a, 205b) between the cell package (201) and the electronic component (100, 202), and an injection molded piece (203) that substantially completely surrounds the electrical conductors and that positively connects both to the cell package (201) and to the electronic component (100, 202) and connects the same to each other, wherein the external contact surfaces (101, 204) of the battery (200) are also integrated in the electronic component (100, 202), in addition to at least one electronic circuit (103). The invention furthermore relates to a method for producing such a battery, wherein a cell package (201) made of at least one electrochemical single cell in a cell housing and an electronic component (100, 202), in which the external contact surfaces (101, 204) of the battery are also integrated in addition to at least one electronic circuit (103), are arranged in an injection mold and the remaining free space is filled with a liquid plastic compound that is then cured.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2010-01-22
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-01
+	</str>
+	<str name="Publication Date">
+		2010-07-29
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-07
+	</str>
+	<str name="All IPC">
+		H01M10/525 | H01M10/42 | H01M2/10 | H01M10/48
+	</str>
+	<str name="IPC Primary">
+		H01M10/525
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102009007249.7
+	</str>
+	<str name="Priority Date">
+		2009-01-26
+	</str>
+	<str name="Assignee(s)">
+		VARTA MICROBATTERY GMBH | GAUGLER, CHRISTIAN | GROSS, KUNO | HAHN, RAINER
+	</str>
+	<str name="1st Assignee">
+		VARTA MICROBATTERY GMBH
+	</str>
+	<str name="Number of Assignees">
+		4
+	</str>
+	<str name="1st Assignee Address">
+		Am Leineufer 51 30419 Hannover DE
+	</str>
+	<str name="Assignee(s) Address">
+		Am Leineufer 51 30419 Hannover DE | Kapellenstr. 12 73479 Ellwangen DE | Kastanienweg 10 73486 Adelmannsfelden DE | Fichtenweg 19 73489 Jagstzell DE
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

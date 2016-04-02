@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120250249A1
+	</str>
+	<str name="Application Number">
+		US13/117143
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		BATTERY
+	</str>
+	<str name="Abstract">
+		A battery is installed in a notebook computer to power the notebook computer. The battery includes a casing defining a USB port and a power source interface, and a cell assembly received in the casing. The USB port is electrically connected to the cell assembly to charge an electronic device. The power interface connected to a power source is electrically connected to the cell assembly to charge the cell assembly.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2011-05-27
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-05
+	</str>
+	<str name="Publication Date">
+		2012-10-04
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-10
+	</str>
+	<str name="All IPC">
+		H05K7/00
+	</str>
+	<str name="IPC Primary">
+		H05K7/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/679.55
+	</str>
+	<str name="UPC Primary">
+		361/679.55
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		CN
+	</str>
+	<str name="Priority Number">
+		201110083102.0
+	</str>
+	<str name="Priority Date">
+		2011-04-02
+	</str>
+	<str name="Assignee(s)">
+		HON HAI PRECISION INDUSTRY CO., LTD. | HONG FU JIN PRECISION INDUSTRY (SHENZHEN) CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		HON HAI PRECISION INDUSTRY CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		2
+	</str>
+	<str name="1st Assignee Address">
+		Tu-Cheng,TW
+	</str>
+	<str name="Assignee(s) Address">
+		Tu-Cheng,TW | Shenzhen City,CN
+	</str>
+	<str name="Inventor(s)">
+		SUN ZHENG-HENG | LIU LEI
+	</str>
+	<str name="1st Inventor">
+		SUN ZHENG-HENG
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tu-Cheng,TW
+	</str>
+	<str name="Inventor(s) Address">
+		Tu-Cheng,TW | Shenzhen,CN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

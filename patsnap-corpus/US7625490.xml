@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7625490
+	</str>
+	<str name="Application Number">
+		US11862623
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Use of a magnetic separator to biologically clean water
+	</str>
+	<str name="Abstract">
+		A nitrification-denitrification process using magnetic seeding and magnetic separation to treat water is provided. The process includes biologically converting ammonia to nitrates with a biofilm disposed on magnetic seed. Suspended solids are removed by mixing flocculant and magnetic seeds with the water and magnetically removing floc formed floc from the water.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-09-27
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2009-12-01
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-12
+	</str>
+	<str name="All IPC">
+		C02F3/30 | C02F1/56 | C02F1/48
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/630 | 210/903 | 210/714 | 210/695 | 210/624 | 210/618 | 210/626 | 210/713
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7625490 | US20080073268A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5290451 | US7255793 | US6896815 | US4951593 | US7279100 | US6071407 | US6099738 | US7001519 | US4735725 | US5976378 | US5514278 | US6113788 | US4502958 | US3697420 | US6221253
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		86262307 | 84738406
+	</str>
+	<str name="Priority Date">
+		2007-09-27 | 2006-09-27
+	</str>
+	<str name="Inventor(s)">
+		CORT, STEVEN, L.
+	</str>
+	<str name="1st Inventor">
+		CORT, STEVEN, L.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Cary, NC
+	</str>
+	<str name="Inventor(s) Address">
+		Cary, NC
+	</str>
+	<str name="Agent/Attorney">
+		DE ANGELI, MICHAEL
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

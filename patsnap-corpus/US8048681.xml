@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8048681
+	</str>
+	<str name="Application Number">
+		US11529418
+	</str>
+	<str name="Title">
+		Methods for nucleic acid isolation and instruments for nucleic acid isolation
+	</str>
+	<str name="Abstract">
+		The present invention relates to a technique for efficient isolation of long nucleic acids and short nucleic acids from a sample containing long nucleic acids and short nucleic acids via safe and convenient operations. Specifically, long nucleic acids and short nucleic acids are isolated from a sample containing nucleic acids by mixing a chaotropic agent with the sample containing nucleic acids, allowing the mixed solution to pass at least twice through a first solid phase containing silica that has passage pores having predetermined pore sizes, allowing the mixed solution to pass at least twice through a second solid phase containing silica that has passage pores having pore sizes smaller than those of the first solid phase containing silica, and separately recovering nucleic acids that have bound to the first solid phase containing silica and those that have bound to the second solid phases containing silica.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-09-29
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-09
+	</str>
+	<str name="Publication Date">
+		2011-11-01
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		C07H21/00
+	</str>
+	<str name="IPC Primary">
+		C07H21/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C07
+	</str>
+	<str name="IPC Subclass">
+		C07H
+	</str>
+	<str name="IPC Group">
+		C07H21
+	</str>
+	<str name="All UPC">
+		422/69 | 436/111 | 210/294 | 435/287.7 | 536/25.4 | 436/17 | 435/287.2
+	</str>
+	<str name="UPC Primary">
+		422/69
+	</str>
+	<str name="UPC Class">
+		422
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Piotr Chomczynski et al. &quot;Single-Step Method of RNA Isolation by Acid Guanidinium Thiocyanate-Phenol-Chloroform Extraction&quot; Analytical Biochemistry 162, 156-159 (1987). cited by other . | German Office Action issued in German Patent Application No. 10 2006 045 391.3, dated Mar. 20, 2007. cited by other. | Tadashi Yoshida, et al., Myocardin is a key regulator of CArG-dependent transcription of multiple smooth muscle marker genes, 2003, Circulation Research (pub: American Heart Association), 92(8), pp. 856-864. cited by examiner . | R Boom et ali. &quot;Rapid and Simple Method of Purification of Nucleic Acids&quot; Department of Virology, Academic Medical Center, Meibergdereef 15, 1105 AZ Amsterdam, received Aug. 2, 1989. cited by other . | Bert Vogelstein et al. &quot;Preparative and Analytical Purification of DNA from Agarose&quot; Proc. Natl. Acad. Sci. USA vol. 76, No. 2 pp. 615-619, 1979. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20060270843 | US6277648 | US20040247490 | US20050186607 | US20050084886 | US20020007054 | JP3619514 | EP1571437 | JP2005241299 | JP2000505295 | JP2002187897 | JP2004340839 | WO2000040697 | EP0819696 | WO1997030062 | WO2002078846 | JP2005137295 | JP2004201607 | JP2002534080
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2005320733
+	</str>
+	<str name="Priority Date">
+		2005-11-04
+	</str>
+	<str name="Assignee(s)">
+		HITACHI HIGH-TECHNOLOGIES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		HITACHI HIGH-TECHNOLOGIES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		YAMASHITA, YOSHIHIRO | SAKURAI, TOSHINARI
+	</str>
+	<str name="1st Inventor">
+		YAMASHITA, YOSHIHIRO
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Hitachinaka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Hitachinaka, JP | Hitachinaka, JP
+	</str>
+	<str name="Agent/Attorney">
+		MCDERMOTT WILL &amp; EMERY LLP
+	</str>
+	<str name="Primary Examiner">
+		BULLOCK, IN SUK
+	</str>
+	<str name="Assistant Examiner">
+		KINGAN, TIMOTHY G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

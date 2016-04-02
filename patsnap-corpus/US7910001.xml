@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7910001
+	</str>
+	<str name="Application Number">
+		US12333352
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Arrangement of denitrification reactors in a recirculating aquaculture system
+	</str>
+	<str name="Abstract">
+		The present invention relates to a novel arrangement of denitrification reactors for removal of nitrate compounds in a recirculating aquaculture system. The novel arrangement of an aquaculture system of the present invention includes positioning one or more anaerobic denitrification reactors upstream of aerobic nitrification and degassing processes. One aspect of the present invention includes a flow of aqueous medium from aquatic species rearing tanks towards one or more denitrification reactors. Another aspect of the present invention includes flow of aqueous medium from aquatic species rearing tanks to a solids removing filter or mechanical filtration means for removal of solid waste matter or biomass prior to flow of aqueous medium towards one or more denitrification reactors. In a sequence of components comprising a system of the present invention, treated and denitrified aqueous medium exiting one or more denitrification reactors is directed towards a solids removing filter wherein treated and denitrified aqueous medium combines with untreated aqueous medium. Combined untreated aqueous medium and denitrified aqueous medium exits a solids removing filter and is directed towards an aerobic nitrification unit. Aqueous medium exiting the aerobic nitrification unit is degassed and oxygenated and returned to aquatic species rearing tanks. A system of the present invention which utilizes denitrification reactors positioned upstream of aerobic nitrification has advantages over existing aquaculture systems which use denitrification in reduction of nitrate concentrations. This results in greater mitigation of water chemistries and compounds which are harmful to aquatic species and more efficient use and conservation of water resources.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-12-12
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-12
+	</str>
+	<str name="Publication Date">
+		2011-03-22
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+	<str name="All IPC">
+		A01K63/04 | C02F3/30
+	</str>
+	<str name="IPC Primary">
+		A01K63/04
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A01
+	</str>
+	<str name="IPC Subclass">
+		A01K
+	</str>
+	<str name="IPC Group">
+		A01K63
+	</str>
+	<str name="All UPC">
+		210/167.22 | 210/605 | 119/260 | 119/226 | 210/167.26 | 210/903 | 210/167.25 | 119/263 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/167.22
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Hamlin JH, JT Michaels et al. 2008. Comparing denitrification rates and carbon sources in commercial scale upflow denitrification biological filters in aquaculture. Aquacultural Engineering 38:79-92. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7442306 | US5558042 | US6171480 | US6192833 | US6584935 | US6447681 | US7082893 | US5482630 | US6615767 | US7025883 | US6443097 | US6722314 | US20050211644 | US7001519 | US7153429 | US3957017 | US5961831 | US6851387 | US6936170 | US7100535 | US5353745 | US6117313 | DE3827716
+	</str>
+	<str name="Cites Count">
+		23
+	</str>
+	<str name="Assignee(s)">
+		MOTE MARINE LABORATORY
+	</str>
+	<str name="1st Assignee">
+		MOTE MARINE LABORATORY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Sarasota, FL
+	</str>
+	<str name="Assignee(s) Address">
+		Sarasota, FL
+	</str>
+	<str name="Inventor(s)">
+		MICHAELS, II, JAMES, T. | HAMLIN, HEATHER, J. | DUTT, WILLIAM, H. | GRAHAM, WILLIAM | STEINBACH, PETER | BABBITT, BRIAN | RICHARDS, II, BRIAN, A.
+	</str>
+	<str name="1st Inventor">
+		MICHAELS, II, JAMES, T.
+	</str>
+	<str name="Number of Inventors">
+		7
+	</str>
+	<str name="1st Inventor Address">
+		Bradenton, FL
+	</str>
+	<str name="Inventor(s) Address">
+		Bradenton, FL | Gainesville, FL | Wolfeboro, Falls, NH | Bradenton, FL | Kallstadt, DE | Sarasota, FL | Sarasota, FL
+	</str>
+	<str name="Agent/Attorney">
+		WALSH, CATHERINE J
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

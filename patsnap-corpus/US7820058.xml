@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7820058
+	</str>
+	<str name="Application Number">
+		US11833402
+	</str>
+	<str name="Title">
+		Methods of enhancing fine particle dewatering
+	</str>
+	<str name="Abstract">
+		A new method of improving the process of dewatering fine particulate materials is disclosed. In this method, an aqueous slurry of fine particles is treated with appropriate hydrophobizing reagents so that the particulate material becomes moderately hydrophobic with its water contact angle considerably below 90.degree.. A low hydrophile-lipophile balance (HLB) number surfactant is then added to the slurry, so that the surfactant molecules adsorb on the moderately hydrophobic surface primarily by hydrophobic attraction and, thereby, increase its contact angle close to or above 90.degree.. By virtue of the greatly enhanced hydrophobicity, the water molecules adhering to the surface are destabilized and removed more readily by a mechanical dewatering process. Any nonionic surfactant with its HLB number below about 15 may be used for the hydrophobicity enhancement. The surfactants may be used in conjunction with appropriate solvents such as light hydrocarbon oils and short-chain alcohols. The moisture reduction can be further improved by using appropriate electrolytes in conjunction with the low HLB surfactants, spraying surface tension lowering reagents onto the filter cake, subjecting the cake to a suitable vibratory means, and by using combinations thereof.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-08-03
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2010-10-26
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-10
+	</str>
+	<str name="All IPC">
+		B01D37/02
+	</str>
+	<str name="IPC Primary">
+		B01D37/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D37
+	</str>
+	<str name="All UPC">
+		44/626 | 34/338 | 210/778 | 210/728 | 210/729 | 210/727
+	</str>
+	<str name="UPC Primary">
+		44/626
+	</str>
+	<str name="UPC Class">
+		44
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		U.S. Office Action issued in related U.S. Appl. No. 09/327,266 dated Dec. 18, 2001. cited by other . | U.S. Office Action issued in related U.S. Appl. No. 09/327,266 dated Jul. 7, 2003. cited by other . | U.S. Office Action issued in related U.S. Appl. No. 09/327,266 dated Feb. 17, 2004. cited by other . | Groppo et al., &quot;Surface Chemical Control of Ultra-fine Coal to Improve Dewatering,&quot; Coal Preparation, vol. 17, pp. 103-116, 1996. cited by other . | International Preliminary Report on Patentability dated Jan. 28, 2003 issued in related International Patent Application No. PCT/US00/27082. cited by other . | U.S. Office Action issued in related U.S. Appl. No. 09/327,266 dated Aug. 7, 2002. cited by other . | Mao et al., &quot;Predicting flotation rates using a rate equation derived from first principles,&quot; 1997, International Journal of Mineral Processing, 51, pp. 171-181. cited by other . | U.S. Office Action issued in related U.S. Appl. No. 11/057,432 dated Dec. 16, 2005. cited by other. | Yoon et al., &quot;Hydrophobic Interactions between dissimilar Surfaces,&quot; 1997, Journal of Colloid and Interface Sciences, 185, pp. 363-370. cited by other . | U.S. Office Action issued in related U.S. Appl. No. 11/057,432 dated Jul. 3, 2006. cited by other . | Meenan, &quot;Fine Coal Dewatering Equipment,&quot; Proceedings of the Industrial Practice of Fine Coal Processing, Society of Mining Engineers, Inc., pp. 223-229, 1988. cited by other . | Singh, &quot;The Influence of Surface Phenomena on the Dewatering of Fine Clean Coal,&quot; Filtration and Separation, pp. 159-163, Mar. 1977. cited by other . | European Office Action dated Aug. 22, 2007 in connection with corresponding European Patent Application No. 967227.0. cited by other . | Smith, &quot;Coadsorption of Dodecylamine Ion and Molecule on Quartz,&quot; Transactions of Americal Institute of Mining Engineers, vol. 266, pp. 427-433, 1963. cited by other . | Books et al., &quot;Zeta Potential, Contact Angle and the Use of Amines in the Chemical Dewatering of Fine-floated coal,&quot; Powder Technology, vol. 40 pp. 207-214, 1984. cited by other . | International Search Report dated Jan. 18, 2001 issued in related International Patent Application No. PCT/US00/27082. cited by other . | Yoon, et al., &quot;Long-Range Hydrophobic Forces between Mica Surfaces in Alkaline Dodcylammonium Chloride Solutions,&quot; 1996, Journal of Colloid and Interface Science, 179, pp. 403-411. cited by other . | U.S. Office Action issued in related U.S. Appl. No. 09/327,266 dated Dec. 18, 2002. cited by other . | Yoon, &quot;Long-Range Hydrophobic Forces between Mica Surfaces in Dodcylammonium Chloride Solutions in the presence of Dodecanol,&quot; J. Colloid and Interface Science, vol. 179, pp. 391-402, 1996. cited by other .
+	</str>
+	<str name="Other References Count">
+		19
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4210531 | US5256169 | US1064723 | US4969928 | US1208171 | US4909946 | US4410431 | US5048199 | US7066586 | US5587786 | US5405554 | US6375853 | US5587085 | US5215669 | US5161694 | US5670056 | US5379902 | US5700904 | US6918404 | US1102873 | US4770766 | US4278208 | US2120217 | US4207186 | US5283322 | US5814210 | US4206063 | US4191655 | US5520822 | US4039466 | US2864765 | US6766817 | US3880824 | US5011612 | US5167831 | US5346630 | US5544760 | US5603841 | US4561953 | US4866856 | US5458786 | US4447344 | US4156649 | US6526675 | US4507198 | WO1997025149 | WO2000009268
+	</str>
+	<str name="Cites Count">
+		47
+	</str>
+	<str name="Assignee(s)">
+		MINERAL &amp; COAL TECHNOLOGIES, INC.
+	</str>
+	<str name="1st Assignee">
+		MINERAL &amp; COAL TECHNOLOGIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Blacksburg, VA
+	</str>
+	<str name="Assignee(s) Address">
+		Blacksburg, VA
+	</str>
+	<str name="Inventor(s)">
+		YOON, ROE, HOAN
+	</str>
+	<str name="1st Inventor">
+		YOON, ROE, HOAN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Blacksburg, VA
+	</str>
+	<str name="Inventor(s) Address">
+		Blacksburg, VA
+	</str>
+	<str name="Agent/Attorney">
+		GROSSMAN, TUCKER, PERREAULT &amp; PFLEGER, PLLC
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

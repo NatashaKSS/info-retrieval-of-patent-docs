@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2007028984A1
+	</str>
+	<str name="Application Number">
+		PCT/GB2006/003295
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS AND METHOD FOR SONOPORATION
+	</str>
+	<str name="Abstract">
+		An apparatus for sonoporation comprising an ultrasound source and positioning means such as an optical trap, magnetic field or electrical field for positioning one or more microbubbles at a predetermined distance (Z axis) from a surface. In use, the ultrasound source produces an ultrasound signal capable of rupturing the one or more microbubbles when the one or more microbubbles is held at said predetermined position in order to mark, etch or puncture the surface.
+	</str>
+	<str name="Document Types">
+		WO | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-09-07
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-09
+	</str>
+	<str name="Publication Date">
+		2007-03-15
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-03
+	</str>
+	<str name="All IPC">
+		A61K49/22 | A61K9/00 | B08B3/12 | B81B1/00 | A61B8/00 | A61B17/32 | B01J19/10 | A61K41/00 | B01L3/00 | A61M37/00 | C12M1/42 | A61N7/00 | C12M3/00
+	</str>
+	<str name="IPC Primary">
+		A61K49/22
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61K
+	</str>
+	<str name="IPC Group">
+		A61K49
+	</str>
+	<str name="Family Members">
+		GB0518273D0 | WO2007028984A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		PRENTICE P, MACDONALD M P; CUSCHIERI A., DHOLAKIA K, CAMPBELL P:  &quot;Real time observation of the ultrasound stimulated disintegration of optically trapped microbubbles in proximity to biological cells&quot; PROC SPIE INT SOC OPT ENG JUL 31-AUG 4 2005, vol. 5930, August 2005 (2005-08), pages 1-8, XP008071951 United States &amp; DATABASE COMPENDEX [Online] 26 August 2005 (2005-08-26), retrieved from SPIE DIGITAL LIBRARY Database accession no. 10.1117/12.615012 | PRENTICE P A, MACDONALD M P, FRANK T G, CUSCHIERE A, SPALDING G C, SIBBETT W, CAMPBELL P A, DHOLAKIA K:  &quot;Manipulation and filtration of low index particles with holographic Laguerre-Gaussian optical trap arrays&quot; OPTICS EXPRESS, vol. 12, no. 4, 2004, pages 593-600, XP008071961
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		WO0021605A1 | WO0132232A2 | US6428477 | WO1997004832A1 | US2003191446A1 | WO1999039697A1 | WO2004100175A1
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		GB
+	</str>
+	<str name="Priority Number">
+		0518273.8
+	</str>
+	<str name="Priority Date">
+		2005-09-08
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF DUNDEE | CAMPBELL, PAUL, A. | PRENTICE, PAUL, A.
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF DUNDEE
+	</str>
+	<str name="Number of Assignees">
+		3
+	</str>
+	<str name="1st Assignee Address">
+		Dundee DD1 4HN, GB
+	</str>
+	<str name="Assignee(s) Address">
+		Dundee DD1 4HN, GB | School of Engineering and Physics, Ewing Building, University of Dundee, Dundee DD1 4HN, GB | School of Engineering and Physics, Ewing Building, University of Dundee, Dundee DD1 4HN, GB
+	</str>
+	<str name="Agent/Attorney">
+		KENNEDYS PATENT AGENCY LIMITED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

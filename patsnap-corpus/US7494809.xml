@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7494809
+	</str>
+	<str name="Application Number">
+		US11353353
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Automated cell sample enrichment preparation method
+	</str>
+	<str name="Abstract">
+		A method for automated cell enrichment preparation where biological cells are injected into a first subchamber and flowed through the first subchamber, through a large pore filter and into a second subchamber so that the large pore filter retains particles large particles in the first subchamber, while the biological cells pass through the first filter into the second subchamber and are retained by a small pore filter. After clearing, the biological cells are stained. A solvent exchange leaves the biological cells in solvent and they are released into a concentration module where a portion of the solvent is removed to form an enriched concentrated cell suspension.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-02-14
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-02
+	</str>
+	<str name="Publication Date">
+		2009-02-24
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		C12N5/06 | C12M3/00
+	</str>
+	<str name="IPC Primary">
+		C12N5/06
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C12
+	</str>
+	<str name="IPC Subclass">
+		C12N
+	</str>
+	<str name="IPC Group">
+		C12N5
+	</str>
+	<str name="All UPC">
+		210/798 | 210/651 | 210/767 | 210/650 | 435/325 | 435/289.1 | 210/806 | 210/649 | 210/791 | 210/797 | 210/645 | 210/644
+	</str>
+	<str name="UPC Primary">
+		210/798
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060099707A1 | US20060183220A1 | US7494809
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Bentley, MD, Ortiz, MC, Ritman, EL, and Romero, JC, &quot;The Use of Microcomputed Tomography to Study Microvasculature in Small Rodents&quot;, American Journal of Physiology (Regulatory Integrative Comp Physiol) 282(R1267-R1279) 2002. cited by other . | Hampel, U and Freyer, R, &quot;Fast Image Reconstruction for Optical Absorption Tomography in Media with Radially Symmetric Boundaries&quot;, Medical Physics 25 (1)pp. 92-101, 1998. cited by other . | Defrise, M, Noo, F, and Kudo, H, &quot;A Solution to the Long-object Problem in Helical Cone-beam Tomography&quot;, Physics in Medicine and Biology 45(623-43) 2000. cited by other . | A. Klug, &quot;Image analysis and reconstruction in the electron microscopy of biological macromolecules,&quot; Chem. Scripta, vol. 14, p. 245 (1978). cited by other . | Shapiro, HM, Practical Flow Cytometry, 3.sup.rd ed., Wiley-Liss, 1995. cited by other . | Mueller, K and Yage, R, &quot;Rapid 3-D Cone-beam Reconstruction with the Simultaneous Algebraic Reconstruction Technique (SART) Using 2-D Texture Mapping Hardware&quot;, IEEE Transactions on Medical imaging 19(12)pp. 1227-1237, 2001. cited by other . | RH Anderson, &quot;Close-up imaging of documents and displays with lens arrays,&quot; Applied Optics 18, 477 (1979). cited by other . | Bellman, SH, Bender, R, Gordon, R, and Rowe, JE, &quot;ART is Science being A Defense of Algebraic Reconstruction Techniques for Three dimensional Electron Microscopy,&quot; Journal of Theoretical Biology 32pp. 205-216, 1971. cited by other . | Dziedzic-Goclawska, et al., &quot;Application of the Optical Fourier Transform for Analysis of the Spatial Distribution of Collagen Fibers in Normal and Osteopetrotic Bone Tissue,&quot; Histochemistry (1982) 74:123-137. cited by other . | Manglos, SH, Gagne, GM, Krol A, Thomas, FD, and Narayanaswamy, R, &quot;Transmission Maximum-likelihood Reconstruction with Ordered Subsets for Cone Beam CT&quot;, Physics in Medicine and Biology 40(7)pp. 1225-1241, 1995, #4389. cited by other . | Schmitz, &quot;Perfomance Characteristics of a Silicon Photodiode (SiPD) Based Instrucment for Fast Functional Optical Tomography,&quot; undated, SUNY Downstate Medicial Center Brooklyn, NY. cited by other . | Rozycka, M, et al., &quot;Analysis of chromatin pattern in blood lymphocytes of healthy donors and in lymphoid cells of patients with chronic lymphocytic leukaemia,&quot; J. Clin. Pathol. 1988:41:504-509. cited by other . | Farichild Imaging, Preliminary Data Sheet CCD582, TDI, Time Delay and Integration Sensor, Jan. 18, 2000. cited by other . | Ong, SH, Development of an imaging flow cytometer. Anal Quant Cytol Histol 9(5)pp. 375-382, 1987. cited by other . | Paulsen, KD and Jiang, H, &quot;Spatially Varying Optical Property Reconstruction Using a Finite Element Diffusion Equation Approximation&quot;, Medical Physics 22(691-701) 1995. cited by other . | Y. Li, et al., &quot;Comparison of analog and digital Fourier transforms in medical image analysis,&quot; J. Biomed. Optics, vol. 7, p. 255 (2002). cited by other . | Kinney, JH, Johnson, QC, Saroyan, RA, Nichols, MC, Bonse, U, Nusshardt, R, and Pahl, R, &quot;Energy-modulated X-ray Microtomography&quot;, Rev. Sci. Instrum. 59(1)pp. 196-197, 1988. cited by other . | Manglos, SH, Jaszcak, RJ, and Floyd, CE, &quot;Maximum Likelihood Reconstruction for Cone Beam SPECT: Development and Initial Tests,&quot; Physics in Medicine and Biology 34(12)pp. 1947-1957,1989, #1382. cited by other . | Kikuchi, S. et al., &quot;Three-dimensional microscopic computed tomography based on general Radon transform for optical imaging systems,&quot; Optics Communications 123 (1996). cited by other . | Gilbert, P, &quot;Iterative Methods for the Three dimensional Reconstruction of an Object from Projections,&quot; Journal of Theoretical Biology 36pp. 105-117, 1972. cited by other . | Herman, G, Image Reconstruction from Projections: The Fundamentals of Computerized Tomography, Academic Press, New York, 1980. cited by other . | W.H. Press et al., Numerical Recipes in C (New York: Cambridge University Press, 1988). cited by other . | Almeida and Fuji, Fourier transform differences and averaged simularities in diatoms, Applied Optics, vol. 18, No. 10, pp. 1663-1667, (1979). cited by other . | Y. Xu et al., &quot;Three-dimensional diffuse optical tomography of bones and joints,&quot; J. Biomed. Optics, vol. 7, p. 88 (2002). cited by other . | Mareel, MM, et al., &quot;Numerical Evaluation of Changes in the Cytoplasmic Microtubule Complex of C3H Mouse Cells by Optical Diffractometry and of Changesin Cell Shape by Fourier Analysis,&quot; Cytometry 7:18-24 (1986). cited by other . | Kinney, JH and Nichols, MC, &quot;X-ray Tomographic Microscopy (XTM) Using Synchrotron Ratiation&quot;, Annu. Rev. Mater. Sci. 22pp. 121-152, 1992. cited by other . | George, JS et al., &quot;Virtual Pinhole Confocal Microscope,&quot; Physics Division Progress Report, www.lanl.gov/p/pdfs/papp.sub.--pinhole.pdf, (1999-2000). cited by other . | Matula, P. et al. &quot;Precise 3D image alignment in micro-axial tomography,&quot; Journal of Microscopy, vol. 209, Pt. 2 (Feb. 2003) pp. 126-142. cited by other . | Jiang, H, Paulsen, KD, and Osterberg, UL, &quot;Frequency-domain Near-infrared Photo Diffusion Imaging: Initial Evaluation in Multitarget Tissuelike Phantoms&quot;, Medical Physics 25(2)pp. 183-193, 1998. cited by other . | Endo, M, Tsunoo, T, Nakamori, N, and Yoshida, K, &quot;Effect of Scattered Radiation on Image Noise in Cone Beam CT&quot;, Medical Physics 28(4) (469-74) 2001. cited by other . | Singer, JR, Grunbaum, FA, Kohn, P, and Zubelli, JP, &quot;Image Reconstruction of the Interior of Bodies that Diffuse Radiation,&quot; Science 248(4958)pp. 990-993, 1990. cited by other . | Sharpe, J, Ahlgren, U et al., &quot;Optical Projection Tomography as a Tool for 3D Microscopy and Gene Expression Studies,&quot; Science, vol. 296, pp. 541-545, Apr. 19, 2002. cited by other . | Cheng, PC, Lin, TH, Wang, G, Shinozaki, DM, Kim, HG, and Newberry, SP, &quot;Review on the Development of Cone-beam X-ray Microtomography&quot;, Proceedings of the X-ray Optics and Microanalysis 1992, Institute of Physics Ser. No. 130, Kenway, PB, et al. (eds.), Manchester, UK, Aug. 31-Sep. 4, 1992, pp. 559-566. cited by other . | D.E. Burger, et al., &quot;Extraction of Morphilogical Features from Biological Models and Cells by Fourier Analysis of Static Light Scatter Measurements,&quot; Cytometry, vol. 2, No. 5, pp. 327-336 (1982). cited by other . | Miles, CP, Jaggard, DL, &quot;The Use of Optical Fourier Transforms to Diagnose Pleomorphism, Size and Chromatin Clumping in Nuclear Models,&quot; Anal Quant Cytol Histol vol. 3, No. 2, pp. 149-156, 1981. cited by other . | Farichild Imaging, Preliminary Data Sheet CCD525, TDI, Time Delay and Integration Sensor, Jan. 12, 2001. cited by other . | Ostrowski, et al., &quot;Application of Optical Diffractometry in Studies of Cell Fine Structure,&quot; Histochemistry (1983) 78:435-449. cited by other . | E.G. Steward, Fourier Optics: An Introduction, 2nd ed. (Halsted Press, New York, 1987). cited by other . | M. Rozycka, et al., &quot;Optical Diffraction as a Tool for Semiautomatic , Quantitative Analysis of Tissue Specimens,&quot; Cytometry, vol. 2, No. 4, pp. 244-248 (1982). cited by other . | Oppenheim, BE, More Accurate Algorithms for Iterative 3 dimensional Reconstruction, IEEE Transactions on Nuclear Science NS-21pp. 72-77, 1974. cited by other . | Bem, W, et al., &quot;Modification of Chromatin Pattern in the Course of Terminal Differentiation During Human Granulocytopiesis: Optical Diffractometry Study,&quot; Cellular and Molecular Biology 33(5), 563-571 (1987). cited by other . | Kak, A.C. and Slaney, M.,Principles of Computerized Tomographic Imaging, IEEE Press, New York, 1988. cited by other . | HJ Tiziani and MI Uhde, Three-dimensional analysis by a microlens array confocal arrangements (Applied Optics 33, 567 [1994]). cited by other . | T.C. Wedberg and J.J. Stamnes, &quot;Recent results in optical diffraction microtomography,&quot; Meas. Sci. Technol., vol. 7, p. 414 (1996). cited by other . | A. Klug and J.L. Finch, &quot;Structure of viruses of the papilloma-polyoma type,&quot; J. Mol. Biol., vol. 37, p. 1 (1968). cited by other . | Schmitz, &quot;Instrumentation for Real-Time Dynamic Optical Tomography,&quot; undated, SUNY Downstate Medicial Center Brooklyn, NY. cited by other . | Pawley, JB, Handbook of Biological Confocal Microscopy, Plenum Press, NY, 479-490 (1995). cited by other . | Defrise, M, Clack, R, and Townsend, DW, &quot;Image Reconstruction from Truncated, Two-dimensional, Parallel Projections&quot;, Inverse Problems 11(287-313) 1995. cited by other . | Lee and Nelson, &quot;Stanley F. Patten, Jr., M.D., Ph.D. and the Development of an Automated Papanicolaou Smear Screening System,&quot; Cancer, vol. 81, No. 6 , pp. 332-336. (Undated). cited by other. | Kikuchi, S. et al., &quot;Three-dimensional computed tomography for optical microscopes,&quot; Optics Communications 107 (1994) 432-444. cited by other . | Jorgensen, SM, Demirkaya, O, and Ritman, EL, &quot;Three Dimensional Imaging of Vasculature and Parenchyma in Intact Rodent Organs with X-ray Micro-CT&quot;, Am. J. Physiology 275(Heart Circ. Physiol. 44) pp. H1103-H1114, 1998. cited by other . | Yu, DF, Fessler, JA, and Ficaro, EP, &quot;Maximum-Likelihood Transmission Image Reconstruction for Overlapping Transmission Beams&quot;, IEEE Transactions on Medical Imaging 19(11)pp. 1094-1105, 2000. cited by other . | Bayat, S, Le Duc, G, Porra, L, Berrruyer, G, Nemoz, C, Monfraix, S, Fiedler, S, Thomlinson, W, Suortti, P, Standertskjold-Nordenstam, CG, and Sovijarvi, ARA, &quot;Quantitative Functional Lung Imaging with Synchrotron Radiation Using Inhaled Xenon as Contrast Agent&quot;, Physics in Medicine and Biology 46(3287-99) 2001. cited by other . | Taguchi, K and Aradate, H, &quot;Algorithm for Image Reconstruction in Multi-slice Helical CT&quot;, Medical Physics 25(4) pp. 550-561, 1998. cited by other . | Sharpe, J, review, &quot;Optical Projection Tomography as a New Tool for Studying Embryo Anatomy,&quot; J. Anat. (2003), pp. 175-181. cited by other . | H. Banda-Gamboa et al., &quot;Spectral-Analysis of Cervical Cells Using the Discrete Fourier-Transform,&quot; Anal. Cell. Path., vol. 5(2), pp. 85-102 (1993). cited by other . | Smolinska and Dawidowicz, &quot;Extraction of common or different part from optical images,&quot; Institute of Physics, Warsaw Technical University, 222-223. (Undated). cited by other .
+	</str>
+	<str name="Other References Count">
+		57
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5760901 | US5190666 | US3497690 | US6215587 | US4858128 | US4994213 | US5402460 | US5760951 | US5741411 | US5885430 | US5915048 | US4891829 | US3748468 | US6312914 | US5680484 | US5308990 | US3657537 | US6026174 | US5312535 | US5148502 | US6452179 | US4360885 | US20010012069 | US5668887 | US4200353 | US5880838 | US5828408 | US6165734 | US6211955 | US3470373 | US6248988 | US6072624 | US6252979 | US3833762 | US5878103 | US5141609 | US6130958 | US3999047 | US6047080 | US5710429 | US6249341 | US5848123 | US6251586 | US4873653 | US4293221 | US4183623 | US4755287 | US5281517 | US4175860 | US6005617 | US6251615 | US3598471 | US5909476 | US5321501 | US3960449 | US20020161534 | US6388809 | US6038067 | US5987158 | US6529614 | US6091983 | US6201628 | WO2002095476
+	</str>
+	<str name="Cites Count">
+		63
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		35335306 | 98422104
+	</str>
+	<str name="Priority Date">
+		2006-02-14 | 2004-11-09
+	</str>
+	<str name="Assignee(s)">
+		VISIONGATE, INC.
+	</str>
+	<str name="1st Assignee">
+		VISIONGATE, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Gig Harbor, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Gig Harbor, WA
+	</str>
+	<str name="Inventor(s)">
+		NELSON, ALAN, C. | PATTEN, FLORENCE, W.
+	</str>
+	<str name="1st Inventor">
+		NELSON, ALAN, C.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Gig, Harbor, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Gig, Harbor, WA | Issaquah, WA
+	</str>
+	<str name="Agent/Attorney">
+		CITADEL PATENT LAW LEONE, GEORGE A. CLAYPOOL, J. A.
+	</str>
+	<str name="Primary Examiner">
+		KIM, JOHN
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

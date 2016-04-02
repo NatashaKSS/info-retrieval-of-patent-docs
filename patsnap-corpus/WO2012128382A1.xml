@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2012128382A1
+	</str>
+	<str name="Application Number">
+		PCT/JP2012/057677
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		DEVICE AND METHOD FOR LIP MOTION DETECTION
+	</str>
+	<str name="Abstract">
+		A device for video-based lip motion detection is provided, which comprises: a face search unit adapted for searching a face in an input video frame; a mouth region extraction unit adapted for extracting a mouth region from the searched face; a visual feature extraction unit adapted for extracting at least one of a gradient on spatial-temporal plane and a Local Binary Pattern (LBP) code on spatial-temporal plane for each pixel in a spatial-temporal window and extracting a visual feature of the mouth region based on the extraction result; and a detection unit adapted for detecting lip motion based on the extracted visual feature of the mouth region. A method for video-based lip motion detection is also provided. According to the present invention, the detection accuracy can be improved without re-training or adaptation for a particular user.
+	</str>
+	<str name="Document Types">
+		WO
+	</str>
+	<str name="Application Date">
+		2012-03-19
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-03
+	</str>
+	<str name="Publication Date">
+		2012-09-27
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-09
+	</str>
+	<str name="All IPC">
+		G06T7/20 | G06T7/00
+	</str>
+	<str name="IPC Primary">
+		G06T7/20
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T7
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		CN
+	</str>
+	<str name="Priority Number">
+		201110077483.1
+	</str>
+	<str name="Priority Date">
+		2011-03-18
+	</str>
+	<str name="Assignee(s)">
+		SHARP KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		SHARP KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		22-22, Nagaike-cho, Abeno-ku, Osaka-shi, Osaka, 5458522, JP
+	</str>
+	<str name="Assignee(s) Address">
+		22-22, Nagaike-cho, Abeno-ku, Osaka-shi, Osaka, 5458522, JP
+	</str>
+	<str name="Inventor(s)">
+		YAN, WANG
+	</str>
+	<str name="1st Inventor">
+		YAN, WANG
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		
+	</str>
+	<str name="Inventor(s) Address">
+		
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7534354
+	</str>
+	<str name="Application Number">
+		US11/512196
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Combined degassing and flotation tank
+	</str>
+	<str name="Abstract">
+		A combined degassing and flotation tank for separation of a water influent containing considerable amounts of oil and gas. A rotational flow is created in the tank which forces the lighter components such as oil and gas droplets towards an inner concentric cylindrical wall where they coalesce and rise to the surface of the liquid and are removed via the outlet. The heavier parts are forced down where the heavy particles sink to the lower part where they can be removed as a sludge. The water is discharged via an outlet in the lower part of the tank. The combined degassing and flotation tank is particular suited for use in oil production at sea for removal of oil and gases from water streams before the water is returned to the sea.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-08-30
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-08
+	</str>
+	<str name="Publication Date">
+		2009-05-19
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		C02F1/24
+	</str>
+	<str name="IPC Primary">
+		C02F1/24
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/703 | 210/718 | 210/788 | 95/253 | 95/261 | 95/262
+	</str>
+	<str name="UPC Primary">
+		210/703
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		NO20064778A | EG22940A | CN1246064C | EP1504800A3 | EP1208897A1 | EP1335784A2 | EP1504800A2 | MXPA03004467A | US20040011745A1 | US20060283804A1 | GC0000238A | DE60107714T2 | BR0115499A | NO324410B1 | BG107846A | EP1335784B1 | AR031735A1 | US7144503 | WO2002041965A2 | DE60107714D1 | WO2003041965A3 | AU2001294085B2 | IS6808A | US7534354 | CN1474710A | US20090289002A1 | AT284258T | BG65013B1 | AU9408501A | CA2427240A1 | DK200300733A | NO20031021A | NO20031021D0 | EA005257B1 | PA8533601A1 | DK176468B1 | UA76437C2 | ES2234893T3 | SK286611B6 | SK7862003A3 | PT1335784E
+	</str>
+	<str name="Family Member Count">
+		41
+	</str>
+	<str name="Family Members Cited By Count">
+		16
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8025706 | US8119000 | US8322434
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US1970784 | US2565343 | US3759324 | US3797203 | US3802501 | US3812655 | US3885933 | US3988132 | US4094783 | US4120673 | US4308134 | US4331534 | US4364833 | US4424068 | US4428841 | US4512888 | US4532034 | US4834586 | US4889638 | US5207920 | US5224976 | US5236587 | US5300222 | US5516434 | US5725764 | US5958249 | US6077433 | DE2812105 | DE19719798 | EP0350906 | EP0445576 | EP0610080 | EP0887096 | EP0952113 | FR530029 | FR2640161 | GB217854 | GB848977 | GB2102308 | GB2338192 | JP1990207882 | JP1994205917 | WO1991001276 | WO1998011976 | WO1998051618 | WO1999000169 | WO1999020873
+	</str>
+	<str name="Cites Count">
+		47
+	</str>
+	<str name="Priority Country">
+		US | EP | US | IB
+	</str>
+	<str name="Priority Number">
+		51219606 | 00610118 | 36312703 | 0101878
+	</str>
+	<str name="Priority Date">
+		2006-08-30 | 2000-11-21 | 2003-07-23 | 2001-10-09
+	</str>
+	<str name="Assignee(s)">
+		M-I EPCON AS
+	</str>
+	<str name="1st Assignee">
+		M-I EPCON AS
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Porsgrunn, NO
+	</str>
+	<str name="Assignee(s) Address">
+		Porsgrunn, NO
+	</str>
+	<str name="Inventor(s)">
+		OSEROD, STEIN, EGIL
+	</str>
+	<str name="1st Inventor">
+		OSEROD, STEIN, EGIL
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kingscliff, AU
+	</str>
+	<str name="Inventor(s) Address">
+		Kingscliff, AU
+	</str>
+	<str name="Agent/Attorney">
+		JACOBSON HOLMAN PLLC
+	</str>
+	<str name="Primary Examiner">
+		LITHGOW, THOMAS M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

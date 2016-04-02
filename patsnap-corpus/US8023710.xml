@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8023710
+	</str>
+	<str name="Application Number">
+		US11685127
+	</str>
+	<str name="Title">
+		Virtual colonoscopy via wavelets
+	</str>
+	<str name="Abstract">
+		Various techniques can be used to improve classification of colon polyps candidates found via computed tomographic colonography computer aided detection (CTCCAD). A polyp candidate can be classified as a true positive or a false positive. For example, a two-dimensional projection image of the polyp can be generated from a three-dimensional representation and classified based on features of the projection image. An optimal viewpoint for the projection image can be found via techniques such as maximizing viewpoint entropy. Wavelet processing can be used to extract features from the two-dimensional projection image. Feature extraction can use a piecewise linear orthonormal floating search for locating most predictive neighbors for wavelet coefficients, and support vector machines can be employed for classification. The techniques can be useful for improving accuracy of CTCCAD techniques.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-03-12
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-03
+	</str>
+	<str name="Publication Date">
+		2011-09-20
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-09
+	</str>
+	<str name="All IPC">
+		G06K9/00 | G06K9/62 | A61B5/05
+	</str>
+	<str name="IPC Primary">
+		G06K9/00
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		600/425 | 382/131 | 382/130 | 382/133 | 382/132 | 382/181 | 382/224 | 382/159 | 382/128
+	</str>
+	<str name="UPC Primary">
+		600/425
+	</str>
+	<str name="UPC Class">
+		600
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Lyu et al., &quot;A Digital Technique for Art Authentication,&quot; PNAS, vol. 101, No. 49, Dec. 7, 2004, 5 pages. cited by other . | Karkanis et al. &quot;Computer-Aided Tumor Detection in Endoscopic Video Using Color Wavelet Features.&quot; IEEE Transactions on Information Technology in Biomedicine. 7.2 (2003): 141-152. cited by examiner . | Vining et al., &quot;Virtual Colonoscopy,&quot; Radiology 193(P):446(1994) 1 page. cited by other . | Ji, et al. &quot;Dynamic View Selection for Time-Varying Volumes.&quot; IEEE Transactions on Visualization and Computer Graphics. 12.5 (2006): 1109-1116. cited by examiner . | Dehmeshki et al., &quot;Multiresolution Active Contour Model: Application to Lung and Colon Images,&quot; Biomedical Engineering; Proceedings of the Second International Conference, Feb. 16-18, 2004, pp. 332-336, 5 pages. cited by other . | Summers et al., Automated Polyp Detector for CT Colonography: Feasibility Study Radiology; 216: (2000) pp. 284-290, 7 pages. cited by other . | &quot;Wavelet,&quot; Wikipedia, www.wikipedia.org, last modified Feb. 3, 2007, 9 pages. cited by other . | Karkanis, et al. &quot;Computer-Aided Tumor Detection in Endoscopic Video Using Color Wavelet Features.&quot; IEEE Transactions on Information Technology in Biomedicine. 7.2 (2003): 141-152. cited by examiner . | Gumhold, &quot;Maximum Entropy Light Source Placement,&quot; IEEE Visualization, 2002, pp. 275-282, 8 pages. cited by other . | Eddy, &quot;Screening for Colorectal Cancer,&quot; Ann. Intern. Med., vol. 113, pp. 373-384, 1990, 12 pages. cited by other . | U.S. Appl. No. 10/961,681, filed Oct. 10, 2003, Summers et al. cited by other . | Pun and Lee, &quot;Log-Polar Wavelet Energy Signatures for Rotation and Scale Invariant Texture Classification,&quot; IEEE. Tran. Pat. Ana. Mach. Intel., vol. 25, 2003, pp. 590-603, 14 pages. cited by other . | Jerebko, et al. &quot;Computer-aided polyp detection in CT colonography using an exemble of support vector machines.&quot; International Congress Series. 1256. (2003): 1019-1024. cited by examiner . | Vazquez et al., &quot;Viewpoint Selection Using Viewpoint Entropy,&quot; in Proceedings of Vision Modeling and Visualization Conference (VMV 2001), 2001, pp. 273-280, 8 pages. cited by other . | Lyu, et al. &quot;A Digital Technique for Art Authentication.&quot; PNAS. 101.49 (2004): 17006-17010. cited by examiner . | Iordanescu and R.M. Summers, &quot;Automated Centerline for Computed Tomography Colonography,&quot; Academic Radiol., vol. 10, pp. 1291-1301, 2003, 11 pages. cited by other . | Metz et al., ROCKIT software description, http://www-radiology.uchicago.edu/krl.KRL.sub.--ROC/software.sub.--index6- .htm, Kurt Rossmann Laboratories, University of Chicago, visited Mar. 6, 2007, 5 pages. cited by other . | Iakovidis et al., &quot;Texture Multichannel Measurements for Cancer Precursors' Identification Using Support Vector Machines,&quot; Measurement 36 (2004) 297-313, Oct. 2004, 17 pages. cited by other . | Sun et al., &quot;Assessment of VIE image quality using helical CT angiography: in vitro phantom study,&quot; Computerized Medical Imaging and Graphics, vol. 28, Issue 1, (Jan. 2004), pp. 3-12. cited by other. | Hubbard, The World According to Wavelets, 2nd Ed., Chapter IV: Applications, 1998, 37 pages. cited by other . | Miller et al., &quot;Feature Selection for Computer-Aided Polyp Detection using Genetic Algorithms,&quot; In Medical Imaging 2003 Proceedings of SPIE vol. 5031, 2003, pp. 102-110, 9 pages. cited by other . | Vazquez et al. &quot;Viewpoint Selection Using Viewpoint Entropy.&quot; Proceedings of Vision Modeling and Visualization Conference (2001): 273-280. cited by examiner . | Carrion, et al. &quot;Could the Pollen Origin be Determined using Computer Vision? An Experimental Study.&quot; Visualization, Imaging, and Image Processing. (2002): 1-6. cited by examiner . | Vining et al., &quot;Virtual Bronchoscopy. Relationships of Virtual Reality Endobronchial Simulations to Actual Bronchoscopic Findings&quot; Chest 109(2): 549-553 (Feb. 1996) 7 pages. cited by other . | Pickhardt et al., &quot;Computed Tomographic Virtual Colonoscopy to Screen for Colorectal Neoplasia in Asymptomatic Adults,&quot; New Engl.J.Med., 349:2191 (2003), 10 pages. cited by other . | Vazquez, et al. &quot;Fast Adaptive Selection of Best Views.&quot; ICCSA 2003, LNCS. 2669. (2003): 295-305. cited by examiner . | Li et al., &quot;Wavelet Method for CT Colonography Computer-Aided Polyp Detection,&quot; In Proceedings of ISBI 2006, Apr. 2006, pp. 1316-1319, 4 pages. cited by other . | Jafari-Khouzani et al., &quot;Texture Analysis of hippocampus for epilepsy,&quot; In Medical Imaging 2003: Proceedings of SPIE vol. 5031 pp. 279-288, 2003, 10 pages. cited by other . | Dehmeshki et al., &quot;Multiresolution Active Contour Model Applied on Lung and Colon Images,&quot; In Medical Imaging 2004:Proceedings of SPIE vol. 5370 pp. 1685-1694, 2004, 10 pages. cited by other . | Vazquez, et al. &quot;Viewpoint Selection Using Viewpoint Entropy.&quot; Proceedings of Vision Modeling and Visualization Conference. (2001): 273-280. cited by examiner . | Li et al., &quot;An Efficient Feature Selection Algorithm for Computer-Aided Polyp Detection,&quot; Florida Artificial Intelligence Research Society (FLAIRS) Conference, May 2005, also in International Journal on Artificial Intelligence Tools 15(6): 893-916, Dec. 2006, 6 pages. cited by other . | Takahashi et al., &quot;A Feature-Driven Approach to Locating Optimal Viewpoints for Volume Visualization,&quot; Proceedings of IEEE Visualization 2005, 2005, pp. 495-502, 8 pages. cited by other . | Gokturk, et al. &quot;A New 3-D Volume Processing Method for Polyp Detection.&quot; Engineering in Medicine and Biology Society, 2001. Proceedings of the 23rd Annual International Conference of the IEEE . 3. (2001): 522-2525. cited by examiner . | Lyu et al. &quot;A Digital Technique for Art Authentication.&quot; PNAS. 101.49 (2004): 17006-17010. cited by examiner . | Platt, &quot;Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods,&quot; Advances in Large Margin Classifiers, MIT Press, 1999, 11 pages. cited by other . | Karkanis et al., &quot;Computer-Aided Tumor Detection in Endoscopic Video Using Color Wavelet Features,&quot; IEEE Transactions on Information Technology in Biomedicine, vol. 7, No. 3, Sep. 2003, 12 pages. cited by other . | Dehmeshki et al. &quot;Multiresolution Active Contour Model Applied on Lung and Colon Images.&quot; Medical Imaging 2004:Proceedings of the SPIE. 5370. (2004): 1685-1694. cited by examiner . | Greenblum et al., &quot;Wavelet Analysis in Virtual Colonscopy,&quot; abstract, handed to attendees of SPIE Medical Imaging Conference on or after Feb. 11, 2006, 1 page. cited by other . | Van Uitert et al., &quot;Subvoxel Precise Skeletons of Volumetric Data Based on Fast Marching Methods,&quot; Med Phys. 34(2), pp. 627-638, Feb. 2007, 12 pages. cited by other . | Li et al., &quot;Wavelet method for CT colonography computer-aided polyp detection,&quot; Med. Phys., vol. 35, Issue 8, (Aug. 2008) pp. 3527-3538. cited by other . | Greenblum et al., &quot;Wavelet Analysis in Virtual Colonoscopy,&quot; in (SPIE) Medical Imaging 2006: Physiology, Function, and Structure from Medical Images, vol. 6143, pp. 992-999, Mar. 13, 2006, 8 pages. cited by other . | Vining et al., &quot;Virtual Bronchoscopy,&quot; Radiology 193(P):261 (1994) 1 page. cited by other . | Jerebko et al. &quot;Computer-aided polyp detection in CT colonography using an ensemble of support vector machines.&quot; International Congress Series. 1256. (2003): 1019-1024. cited by examiner . | Li et al., &quot;Feature Selection Using a Piecewise Linear Network,&quot; IEEE Transactions on Neural Networks, vol. 17, No. 5, Sep. 2006, 15 pages. cited by other . | Li et al. &quot;Wavelet Method for CT Colonography Computer-Aided Polyp Detection.&quot; Proceedings of ISBI 2006. (2006): 1316-1319. cited by examiner . | Greenblum et al., &quot;Wavelet Analysis in Virtual Colonscopy,&quot; poster, displayed in hall during SPIE Medical Imaging Conference, about 500 attendees, on or after Feb. 12, 2006, 1 page. cited by other .
+	</str>
+	<str name="Other References Count">
+		46
+	</str>
+	<str name="Cites">
+		US20070127804 | US6556696 | US20070127803 | US5666434 | US20080008367 | US20090208409 | US20030223627 | US5740268 | US6081612 | US20030025713 | US6345112 | US20040064029 | US5971767 | US20080015419 | US5673332 | US5598481 | US6343936 | US6331116 | US20070165928 | US20050152588 | US20050152591 | US20080304616 | US7454045 | US20030007683 | US6246784 | US7558413 | US20050105801 | US20050117787 | US20010031920 | US20050107695 | US7057615 | US7260250 | US20060290698 | US20050119550 | US7646904 | US7440601 | US7397936 | US20080055308 | US6078680 | US20100074491 | US20050078858 | WO2003058553
+	</str>
+	<str name="Cites Count">
+		42
+	</str>
+	<str name="Assignee(s)">
+		THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRETARY OF THE DEPARTMENT OF HEALTH &amp; HUMAN SERVICES
+	</str>
+	<str name="1st Assignee">
+		THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRETARY OF THE DEPARTMENT OF HEALTH &amp; HUMAN SERVICES
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Washington, DC); N/A
+	</str>
+	<str name="Assignee(s) Address">
+		Washington, DC); N/A
+	</str>
+	<str name="Inventor(s)">
+		SUMMERS, RONALD, M. | LI, JIANG | GREENBLUM, SHARON
+	</str>
+	<str name="1st Inventor">
+		SUMMERS, RONALD, M.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Potomac, MD
+	</str>
+	<str name="Inventor(s) Address">
+		Potomac, MD | Virginia, Beach, VA | Kensington, MD
+	</str>
+	<str name="Agent/Attorney">
+		KLARQUIST SPARKMAN, LLP
+	</str>
+	<str name="Primary Examiner">
+		BELLA, MATTHEW C
+	</str>
+	<str name="Assistant Examiner">
+		NEWMAN, MICHAEL A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

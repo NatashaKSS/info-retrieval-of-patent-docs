@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7641796
+	</str>
+	<str name="Application Number">
+		US11420335
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Anaerobic digestion process for low-solid waste
+	</str>
+	<str name="Abstract">
+		An anaerobic digestion process for the treatment of domestic wastewater sludge that requires less space and funding to construct. Sludge to be treated is combined with recycled anaerobic digester sludge to form a blended sludge. The recycled anaerobic digester sludge provides a source of microorganisms necessary to initiate the breakdown of organic matter in the sludge to be treated. The sludge is then concentrated to increase total solids content to about 10-20%. Excess liquid is removed from the concentrated sludge. The concentrated sludge is then digested in an anaerobic reactor system such as a plug-flow reactor. Some benefits of the system's reduced volume, as a result of concentration of the sludge, include elimination of the necessity of substantially continuous stirring and the new possibilities for the types of construction to be used for the reactor. In addition to the reduced cost of the process itself, the process creates biogas that can be used to offset energy requirements for the process.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-05-25
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-05
+	</str>
+	<str name="Publication Date">
+		2010-01-05
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-01
+	</str>
+	<str name="All IPC">
+		C02F3/30 | C02F11/04
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/630 | 210/609 | 210/603 | 210/613
+	</str>
+	<str name="UPC Primary">
+		210/630
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20060266703A1 | US7641796
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7915749 | US8154138
+	</str>
+	<str name="Cited By Count">
+		2
+	</str>
+	<str name="Cites">
+		US20040144735 | US3440165 | US4551243 | US2850449 | US3386910 | US4988442 | US3787316 | US6077430 | US5207911 | US4975195 | US6254775 | US5076927 | US3220945 | US5733758 | US4735724 | US6299774 | USR26514 | US5264349 | US4213857 | US6692642 | US5451319 | US5723048 | US4289625 | US2064529 | US6444124 | US4315823 | USH1149 | US4277342 | US5338445 | JP1984000388
+	</str>
+	<str name="Cites Count">
+		30
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		42033506 | 59499105
+	</str>
+	<str name="Priority Date">
+		2006-05-25 | 2005-05-25
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF SOUTH FLORIDA
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF SOUTH FLORIDA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tampa, FL
+	</str>
+	<str name="Assignee(s) Address">
+		Tampa, FL
+	</str>
+	<str name="Inventor(s)">
+		STROOT, PETER, GEORGE | CUTTER, MATTHEW, RAYMOND
+	</str>
+	<str name="1st Inventor">
+		STROOT, PETER, GEORGE
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Lutz, FL
+	</str>
+	<str name="Inventor(s) Address">
+		Lutz, FL | Tampa, FL
+	</str>
+	<str name="Agent/Attorney">
+		LAWSON, MICHELE L. SMITH &amp; HOPEN, P.A.
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

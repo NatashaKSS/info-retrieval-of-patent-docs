@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7431848
+	</str>
+	<str name="Application Number">
+		US11212546
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Modular ultraviolet sterilizer
+	</str>
+	<str name="Abstract">
+		Multiple UV sterilizers may be connected in series in order to increase the microorganism kill rate. The UV sterilizers are rotatable with respect to other UV sterilizers so that the UV sterilizers may be combined in various configurations in order to adjust a level of UV sterilization and allow combination of UV sterilizers in various configurations. For example, a combination of two or more UV sterilizers may be configured in a first orientation if the UV sterilizers are to be placed in a narrow space, while combination of the same UV sterilizers may be adjusted to another orientation if the sterilizers are to be placed in a large, open space.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-08-26
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-08
+	</str>
+	<str name="Publication Date">
+		2008-10-07
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		C02F1/32 | B01J19/12
+	</str>
+	<str name="IPC Primary">
+		C02F1/32
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		250/437 | 210/748 | 210/232 | 210/170.01 | 210/259
+	</str>
+	<str name="UPC Primary">
+		250/437
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		US7431848 | US20070048174A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		&quot;System 2000; The Ultmate Pond Filter&quot;, Aqua UltraViolet Sales Brochure, date unknown. cited by other . | &quot;Suspended Carrier Processes&quot;; Purac/Technology/Suspended Carriers, http:/www.purac.se/se/suspend.htm, Apr. 4, 2000. cited by other . | Rusten, Bjorn and Neu, Kenneth E., &quot;Down to Size: Moving-bed Biofilm Reactors more into the small-flow treatment arena&quot;, Water Environment &amp; Technology, Jan. 1999, pp. 27-33. cited by other.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US4566971 | US6120691 | US5545335 | US5312601 | US5458779 | US6267882 | US3408093 | US6578876 | US4113616 | US4909931 | US6583422 | US6086765 | US3957931 | US5217616 | USD386254 | US4200536 | US5951876 | US20030145892 | US2340890 | US5126042 | US0278800 | US4623464 | US5490924 | US5618411 | US2461619 | US4009099 | US3547270 | US4297209 | US4884584 | USD451978 | US5689871 | US3061721 | US5445740 | US3707233 | US6740235 | US20040140576 | US4753726 | US6363598 | US6209926 | US6080304 | US5160039 | US20050062283 | US0581050 | US4122011 | US5636654 | US6447675 | US5569416 | US5290439 | US4105555 | US4415454 | USD351893 | US4390432 | USD83692 | US3493116 | US3600009 | US6685826 | USR33438 | US5084164 | US4683062 | US5543039 | USD409714 | US5393419 | US5985148 | US20030006178 | US6709574 | US2702715 | US4800021 | US5288412 | US6015490 | USD396522 | US3128051 | US6090294 | US3834537 | US4663046 | US6402964 | US4257352
+	</str>
+	<str name="Cites Count">
+		76
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		21254605
+	</str>
+	<str name="Priority Date">
+		2005-08-26
+	</str>
+	<str name="Inventor(s)">
+		JAMES, RON
+	</str>
+	<str name="1st Inventor">
+		JAMES, RON
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Lake, Elsinore, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Lake, Elsinore, CA
+	</str>
+	<str name="Agent/Attorney">
+		KNOBBE MARTENS OLSON &amp; BEAR, LLP
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

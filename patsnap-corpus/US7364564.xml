@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7364564
+	</str>
+	<str name="Application Number">
+		US11023289
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Implant having MEMS flow module with movable, flow-controlling baffle
+	</str>
+	<str name="Abstract">
+		Various embodiments of MEMS flow modules that may be disposed in a flow path (296) of a shunt (290) are disclosed, where the shunt (290) may be used to control a flow out of an anterior chamber (284) of an eye (266). One such MEMS flow module (58) has a tuning element (78) and a lower plate (70). A plurality of springs or spring-like structures (82) interconnect the tuning element (78) with the lower plate (70) in a manner that allows the tuning element (78) to move either toward or away from the lower plate (70), depending upon the pressure being exerted on the tuning element (78) by a flow through a lower flow port (74) on the lower plate (70). The tuning element (78) is disposed over this lower flow port (74) to induce a flow through the MEMS flow module (58) along a non-linear (geometrically) flow path.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-12-24
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-12
+	</str>
+	<str name="Publication Date">
+		2008-04-29
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		A61M1/36 | C02F1/44
+	</str>
+	<str name="IPC Primary">
+		A61M1/36
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A61
+	</str>
+	<str name="IPC Subclass">
+		A61M
+	</str>
+	<str name="IPC Group">
+		A61M1
+	</str>
+	<str name="All UPC">
+		604/9 | 210/85 | 604/8 | 606/153
+	</str>
+	<str name="UPC Primary">
+		604/9
+	</str>
+	<str name="UPC Class">
+		604
+	</str>
+	<str name="Family Members">
+		US7364564 | US20050197613A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References">
+		D.J. Howorth; Feasibility Study for a Micromachined Glaucoma Drainage Device; MSc Thesis From Cranfield University 2001-2002; Sep. 13, 2002. cited by other . | Yael Hanein; Y. Vickie Pan; Buddy D. Ratner; Denice D. Denton; Karl F. Bohringer; Micromachining of Non-Fouling Coatings for Bio-MEMS Applications; Sensors &amp; Actuators B 81. cited by other . | Spiegel, D.; Schefthaler M.; Kobuch, K.; Outflow Facilities Through Descemet's Membrane in Rabbits; Graefes Arch Clin Exp Ophthalmol Feb. 2002; 240 (2):111-3. cited by other . | Cristina Rodica Neaug, A Medical Microactuator Based on an Electrochemical Principle, Sep. 4, 1966; Roemania. cited by other. | K.S. Lim, B.D.S. Allan AW Lloyd, A Muir, PT Khaw; Glaucoma Drainage Devices; Past, Present and Future; Br. J. Ophthalmol 1998;82; 1083-1089. cited by other . | Bruce Allan; Closer to Nature: New Biomaterials and Tissue Engineering in Ophthalmology; Br. J. Ophthalmol 1999; 83; 1235-1240. cited by other . | AGFID Project Team; Experimental Flow Studies in Glaucoma Drainage Device Development; Br. J. Ophthalmol 2001; 85; 1231-1236. cited by other . | [No Authors listed] Krupin Eye Value With Disk for Filtration Surgery. The Krupin Eye Valve Filtering Surgery Study Group. Ophthalmology. Apr. 1994; 101(4):651-8. cited by other . | PCT Search Report dated Nov. 10, 2006; Application No. PCT/US2006/024175. cited by other . | AGFID Project Team; Cell and Protein Adhesion Studies in Glaucoma Drainage Device Development; Br. J. Ophthalmol. 1999; 83; 1168-1171. cited by other . | Patty Chen; Eugene Lim; Kin-Joe Sham; Adiel Smith; and Patrick Willoughby; FDA Report; Smartflow Glaucoma Stent; Jan. 9, 2003 Submitting to Myron Spector &amp; I.V. Yannas. cited by other . | Tae Seok Sim and Yong-Kweon Kim: A Study on the Passive Microvalve Applicable to Drainage Device for Glaucoma; Journal of Semiconductor Technology and Science, vol. 2., No. 4. cited by other .
+	</str>
+	<str name="Other References Count">
+		12
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6827699 | US5127901 | US20050197613 | US6510600 | US20030060752 | US5879319 | US5454796 | US6626858 | US6558342 | US6694998 | US6533768 | US6706275 | US5702414 | US6981958 | US6595945 | US6736791 | US3159161 | US6203513 | US20050119601 | US5041081 | US6001386 | US6955656 | US5273750 | US20040088048 | US20050184003 | US20050184004 | US5372577 | US6450984 | US20040102729 | US5743868 | US20050268722 | US5346464 | US6494857 | US4936825 | US20050125003 | US6186974 | US20030069637 | US20050266047 | US20050049578 | US20030229303 | US3949750 | US20040073231 | US6780164 | US20040249333 | US20030088260 | US6669211 | US7104406 | US5073163 | US20040127843 | US20020013546 | US5338291 | US20050209550 | US20030232015 | US4750901 | US5092837 | US20030187385 | US6589198 | US20030187384 | US20030181848 | US20040111050 | US6027470 | US4014335 | US20030220602 | US6007511 | US4968296 | US20030191428 | US20040024345 | US20060212097 | US6544249 | US20040193095 | US20050209549 | US20050267398 | US4168697 | US20040254521 | US6306114 | US6261256 | US20050197653 | US20040210181 | US20030055372 | US20040254517 | US20030236483 | US6468283 | US20050148925 | US6881198 | US6881197 | US7115118 | US6562000 | US4915684 | US4634418 | US4037604 | US20050288617 | US20020169130 | US20050288619 | US5558630 | US20050119636 | US3788327 | US5817099 | US20020128560 | US6699211 | US5968058 | US6699210 | US4787885 | US20020143284 | US6234175 | US5626558 | US6726664 | US5626559 | US6508779 | US5807302 | US4959048 | US6638239 | US20040225250 | US5868697 | US6666841 | US20050273033 | US5824086 | US20050271704 | US20050038334 | US20020188308 | US6736197 | US20050194303 | US5433701 | US6827700 | US20040015140 | US20050090806 | US20050090807 | US6544208 | US5300020 | US20040260228 | US20020177856 | US4402681 | WO2001099175 | WO2005105197 | WO2001050943 | WO2005081967 | DE19922623 | WO2005081968 | WO2003092564
+	</str>
+	<str name="Cites Count">
+		138
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		2328904 | 79139604 | 85815304
+	</str>
+	<str name="Priority Date">
+		2004-12-24 | 2004-03-02 | 2004-06-01
+	</str>
+	<str name="Assignee(s)">
+		BECTON, DICKINSON &amp; COMPANY
+	</str>
+	<str name="1st Assignee">
+		BECTON, DICKINSON &amp; COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Franklin Lakes, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Franklin Lakes, NJ
+	</str>
+	<str name="Inventor(s)">
+		SNIEGOWSKI, JEFFRY, J. | MCWHORTER, PAUL, J. | RODGERS, M., STEVEN
+	</str>
+	<str name="1st Inventor">
+		SNIEGOWSKI, JEFFRY, J.
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Tijeras, NM
+	</str>
+	<str name="Inventor(s) Address">
+		Tijeras, NM | Albuquerque, NM | Albuquerque, NM
+	</str>
+	<str name="Agent/Attorney">
+		MURTHA, JAMES J.
+	</str>
+	<str name="Primary Examiner">
+		DEAK, LESLIE R.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

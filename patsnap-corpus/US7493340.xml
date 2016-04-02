@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7493340
+	</str>
+	<str name="Application Number">
+		US10970494
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image retrieval based on relevance feedback
+	</str>
+	<str name="Abstract">
+		An improved image retrieval process based on relevance feedback uses a hierarchical (per-feature) approach in comparing images. Multiple query vectors are generated for an initial image by extracting multiple low-level features from the initial image. When determining how closely a particular image in an image collection matches the initial image, a distance is calculated between the query vectors and corresponding low-level feature vectors extracted from the particular image. Once these individual distances are calculated, they are combined to generate an overall distance that represents how closely the two images match. According to other aspects, relevancy feedback received regarding previously retrieved images is used during the query vector generation and the distance determination to influence which images are subsequently retrieved.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-10-21
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-10
+	</str>
+	<str name="Publication Date">
+		2009-02-17
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-02
+	</str>
+	<str name="All IPC">
+		G06F15/16 | G06F17/00
+	</str>
+	<str name="IPC Primary">
+		G06F15/16
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="All UPC">
+		382/308 | 382/173 | 707/102 | 382/257 | 707/5 | 382/224 | 707/3 | 707/4 | 707/104.1
+	</str>
+	<str name="UPC Primary">
+		382/308
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		US20050086223A1 | US7493340 | US20050065929A1 | US6859802 | US7613686
+	</str>
+	<str name="Family Member Count">
+		5
+	</str>
+	<str name="Family Members Cited By Count">
+		33
+	</str>
+	<str name="Other References">
+		Rui et al., &quot;Constructing Table-of-Contents for Videos&quot; ACM Multimedia Systems Journal Special Issue Multimedia Systems on Video Libraries vol. 7 No. 5 Sep. 1999 pp. 359-368. cited by other . | Picard R.W. ,&quot;Digital Libraries: Meeting place for high-level and low-level vision&quot; Proceedings of the Asian Conference on Computer Vision Dec. 1995 pp. 1-5. cited by other . | Rui Y., Efficient Indexing Browsing and Retrieval of Image/Video Content PhD Thesis University of Illinois at Urbaba-Champaign 1998. cited by other . | Rui et al.,&quot;Image retrieval: Current techniques promising directions and open issues&quot; Journal of Visual Communication and Image Representation vol. 10 Mar. 1999 39-62 17 pages. cited by other . | Rui et al.,&quot;Relevance Feedback: A Power Tool for Interactive Content-Based Image Retrieval&quot; IEEE Transactions on Circuits and Systems for Video Technology vol. 8 Issue 5 Sep. 1998 pp. 644-655. cited by other. | Ortega et al., &quot;Supporting Similarity Queries in MARS&quot; Proceedings of the fifth ACM International Conference on Multimedia ACM Press Nov. 1997 pp. 403-413. cited by other . | Rui et al.,&quot;Content-Based Image Retrieval with Relevance Feedback in MARS&quot; IEEE: Proceedings of the International Conference on Image Processing vol. 2 Oct. 1997. cited by other . | Rui et al., &quot;Relevance Feedback Techniques in Interactive Content-Based Image Retrieval&quot; Proceedings of IS&amp;T and SPIE Storage and Retrieval of Image and Video Databases VI Jan. 24-30, 1998 San Jose California pp. 25-36. cited by other . | Zhou X. , &quot;Water-Filling: A Novel Way for Image Structural Feature Extraction&quot; 5 pages. cited by other . | Cox I.J., &quot;Target Testing and the PicHunter Bayesian Multimedia Retrieval System&quot; Proceedings of the 3rd Forum on Research and Technology Advances in Digital Libraries (ADL '96) 66-75 1996 pp. 1-10. cited by other . | Rui et al., A Relevance Feedback Architecture for Content-based Multimedia Information Retrieval Systems' IFP Lab Beckman Institute Department of Computer Science University of Illinois at Urbana-Champaign Urbana IL. cited by other . | Benitez et al., &quot;Using Relevance Feedback in Content-Based Image Metasearch&quot; IEEE Internet Computing vol. 2 Issue 4 Jul.-Aug. 1998 pp. 59-69. cited by other . | Ishikawa et al.,&quot;Mindreader: Query databases through multiple examples&quot; Proceedings of the 24th VLDB Conference New York 1998 pp. 218-227. cited by other . | Wood et al., &quot;Iterative Refinement by Relevance Feedback in Content-Based Digital Image Retrieval&quot; Proceedings of the Sixth ACM International Conference on Multimedia ACM Press Sep. 1998 pp. 13-20. cited by other . | Naster et al., &quot;Surfimage: A Flexible Content-Based Image Retrieval System&quot; Proceedings of the Sixth ACM International Conference on Multimedia ACM Press Sep. 1998 pp. 339-344. cited by other . | Rui et al., &quot;Digital Image/Video Library and MPEG-7:Standardization and Research Issues&quot; Proceedings of IEEE ICASSP Seattle Washington pp. 3785-3788. cited by other .
+	</str>
+	<str name="Other References Count">
+		16
+	</str>
+	<str name="Cited By">
+		US7840060 | US7986818 | US7809170
+	</str>
+	<str name="Cited By Count">
+		3
+	</str>
+	<str name="Cites">
+		US6411953 | US6611825 | US5855015 | US6173275 | US5893095 | US6029195 | US6347313 | US6996572 | US5778362 | US5696964 | US5933823 | US5963940 | US6408293 | US5950189 | US6507841 | US6345274 | US6504571
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		97049404 | 66053600 | 15373099
+	</str>
+	<str name="Priority Date">
+		2004-10-21 | 2000-09-13 | 1999-09-13
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond, WA
+	</str>
+	<str name="Inventor(s)">
+		RUI, YONG
+	</str>
+	<str name="1st Inventor">
+		RUI, YONG
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Redmond, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Redmond, WA
+	</str>
+	<str name="Agent/Attorney">
+		LEE &amp; HAYES, PLLC
+	</str>
+	<str name="Primary Examiner">
+		MAHMOUDI, TONY
+	</str>
+	<str name="Assistant Examiner">
+		CHAU, DUNG K
+	</str>
+	<str name="cited by within 3 years">
+		1
+	</str>
+	<str name="cited by within 5 years">
+		1
+	</str>
+</doc>
+

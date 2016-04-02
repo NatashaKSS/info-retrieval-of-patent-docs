@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7854841
+	</str>
+	<str name="Application Number">
+		US12409033
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Combined anaerobic process apparatus for treating organic wastes
+	</str>
+	<str name="Abstract">
+		The present invention relates to a combined anaerobic process apparatus for treating organic wastes, comprising: a first solid-liquid separator to separate organic wastes into liquid wastes and solid wastes; an acid-forming tank to decompose the liquid wastes separated through the first solid-liquid separator using acid-forming microorganisms; a USAB reactor to decompose the liquid wastes discharged from the acid-forming tank using anaerobic microorganisms; a crushing tank to crush the solid wastes separated through the first solid-liquid separator finely; a mixing tank to mix solid wastes crushed through the crushing tank with microorganisms; and a dry-anaerobic tank to dry solid wastes mixed with microorganisms through the mixing tank, in an anaerobic manner.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-03-23
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-03
+	</str>
+	<str name="Publication Date">
+		2010-12-21
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-12
+	</str>
+	<str name="All IPC">
+		C02F11/04 | C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F11/04
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F11
+	</str>
+	<str name="All UPC">
+		210/609 | 210/603 | 210/173 | 210/617 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/609
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20070095734 | US4119495 | US6558550 | US6905600 | US4067801 | JP2007175582 | KR020040028698 | JP2001205300 | KR00787074 | JP1987279899 | JP2003103292 | DE4030668 | KR020040100134
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Assignee(s)">
+		HANBAT NATIONAL UNIVERSITY INDUSTRY-ACADEMIC COOPERATION FOUNDATION
+	</str>
+	<str name="1st Assignee">
+		HANBAT NATIONAL UNIVERSITY INDUSTRY-ACADEMIC COOPERATION FOUNDATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Daejeon, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Daejeon, KR
+	</str>
+	<str name="Inventor(s)">
+		OH, SAE, EUN
+	</str>
+	<str name="1st Inventor">
+		OH, SAE, EUN
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Daejeon, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Daejeon, KR
+	</str>
+	<str name="Agent/Attorney">
+		FREDRIKSON &amp; BYRON, PA
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

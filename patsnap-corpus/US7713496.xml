@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7713496
+	</str>
+	<str name="Application Number">
+		US11297163
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water purifier with UV and adsorbent
+	</str>
+	<str name="Abstract">
+		The invention has two primary portions, a means to provide ultra-violet radiation and a means for adsorbing organic, inorganic and, optionally, pathogens. The means to provide ultra-violet radiation comprises ultra-violet light sources emitting, at least in part, in the spectrum around 265 nm. Light emitting devices, including light emitting diodes and other solid state light emitting devices are available in this range as well. The adsorbent portion comprises several different adsorbent media, including zeolites, titanium dioxide (TiO.sub.2), alumina, carbon, micro- and/or nano-porous carbon, other minerals with a naturally occurring micro- and/or nano-porous structure, synthetic, including organic, substrates with a micro- and/or nano-porous structure, and surface-modified variations of the preceding adsorbents.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2005-12-07
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2010-05-11
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-05
+	</str>
+	<str name="All IPC">
+		C02F1/42
+	</str>
+	<str name="IPC Primary">
+		C02F1/42
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/663 | 210/748.1 | 422/186.3
+	</str>
+	<str name="UPC Primary">
+		210/663
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Vickaryous, W.Jake; Arsenic-p Interactions Stabilize a Self-assembled As2L3 Supramolecular Complex.; Angew.Chem.Int.Ed., 2004, 43, 5831. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By">
+		US8177966 | US8128820 | US8216465 | US8043502
+	</str>
+	<str name="Cited By Count">
+		4
+	</str>
+	<str name="Cites">
+		US20040108274 | US5942110 | US6514420 | US20050016907 | US5302356 | US20030129105 | US6583422
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Assignee(s)">
+		CRYSTAL CLEAR TECHNOLOGIES, INC.
+	</str>
+	<str name="1st Assignee">
+		CRYSTAL CLEAR TECHNOLOGIES, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Menlo Park, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Menlo Park, CA
+	</str>
+	<str name="Inventor(s)">
+		HARRIS, JAMES, M.
+	</str>
+	<str name="1st Inventor">
+		HARRIS, JAMES, M.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Menlo, Park, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Menlo, Park, CA
+	</str>
+	<str name="Agent/Attorney">
+		FERNANDEZ &amp; ASSOCIATES, LLP
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

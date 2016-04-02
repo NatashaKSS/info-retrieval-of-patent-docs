@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7531095
+	</str>
+	<str name="Application Number">
+		US11/076426
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		System for predicting reduction in concentration of a target material in a flow of fluid
+	</str>
+	<str name="Abstract">
+		An ultraviolet fluid treatment system having feedback control using a kinetic model and a reactor model that interact with one another. The kinetic model uses readily measured fluid properties upstream and downstream of a radiation zone to calculate the conversion of a target contaminant as it passes through the fluid treatment system. This obviates the need to measure the contaminant concentration directly, which generally is too slow to permit real-time control. A reactor model relates system operating cost to system operating parameters, such as electrical power consumption and/or rate of oxidant addition, where applicable. The reactor model is linked to the kinetic model and is used to optimize operating cost by adjusting system operating parameters based on a comparison between the conversion obtained from the kinetic model and the overall treatment objectives. A control center, an ultraviolet fluid treatment apparatus, and a method of treating a fluid are also disclosed.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-03-10
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-03
+	</str>
+	<str name="Publication Date">
+		2009-05-12
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-05
+	</str>
+	<str name="All IPC">
+		C02F1/32 | C02F1/42
+	</str>
+	<str name="IPC Primary">
+		C02F1/32
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/739 | 210/748.11 | 210/748.15
+	</str>
+	<str name="UPC Primary">
+		210/739
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		CA2559068A1 | AU2005218690A1 | WO2005084720A1 | US7531095 | EP1735016A1 | US20050218082A1
+	</str>
+	<str name="Family Member Count">
+		6
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report for International Application No. PCT/CA2005/000363. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US5028792 | US6264836 | US6541777 | US6733661 | US20040045886 | CA2345423 | CA2395801 | CA2473540 | WO2003024874 | WO2003072508
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		7642605 | 55135004
+	</str>
+	<str name="Priority Date">
+		2005-03-10 | 2004-03-10
+	</str>
+	<str name="Assignee(s)">
+		TROJAN TECHNOLOGIES INC.
+	</str>
+	<str name="1st Assignee">
+		TROJAN TECHNOLOGIES INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		CA
+	</str>
+	<str name="Assignee(s) Address">
+		CA
+	</str>
+	<str name="Inventor(s)">
+		WILLIAMSON, CHRISTIAN | ROYCE, ALAN | STEFAN, MIHAELA, I.
+	</str>
+	<str name="1st Inventor">
+		WILLIAMSON, CHRISTIAN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Tucson, AZ
+	</str>
+	<str name="Inventor(s) Address">
+		Tucson, AZ | London, CA | London, CA
+	</str>
+	<str name="Agent/Attorney">
+		KATTEN MUCHIN ROSENMAN LLP
+	</str>
+	<str name="Primary Examiner">
+		GRIFFIN, WALTER D
+	</str>
+	<str name="Assistant Examiner">
+		ALLEN, CAMERON J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

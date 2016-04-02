@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8068674
+	</str>
+	<str name="Application Number">
+		US11/849503
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		UPC substitution fraud prevention
+	</str>
+	<str name="Abstract">
+		A system and method for detecting fraudulent identification tags, such as Universal Product Codes (UPC) applied to goods to be purchased is disclosed. Images of the goods to be purchased and corresponding feature models are stored in a database. When a customer desires to purchase an item containing a UPC, a scanned image of the item about to be purchased may be acquired and a feature model of the scanned image may be created. The system may retrieve from the database the image and feature model previously stored for the item associated with the just-scanned UPC. A variety of image processing techniques may be used to compare the scanned and database images and/or the scanned and database feature models. In one embodiment, these image processing techniques may include determining a geometric transformation that maps the features of the scanned image onto the features of a database model.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-09-04
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2011-11-29
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-11
+	</str>
+	<str name="All IPC">
+		G06K9/66 | G06K9/00 | G06K7/10 | G06K7/00 | G06K9/20
+	</str>
+	<str name="IPC Primary">
+		G06K9/66
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/113 | 382/194 | 382/183 | 382/321 | 382/312 | 235/462.01
+	</str>
+	<str name="UPC Primary">
+		382/113
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Song et al. &quot;Unsupervised Learning of Human Motion&quot; IEEE Transactions on Pattern Analysis and Machine Intell. vol. 25, No. 7 Jul. 2003 pp. 1-14. cited by examiner. | Hewitt et al. &quot;Enforcing 3D Constraints to Improve Object and Scene Recognition&quot; British Machine Vision Conference (2007) pp. 1-10. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US20030090681 | US6598791 | US20050213109 | US6973207 | US20090001165 | US6915008 | US7388979 | US7448542 | US20040111324 | US20070064993 | US20050173527 | US4929819 | US20050242568 | US20030026588 | US7477780 | US6069696 | US20030184440 | US7551782 | US20060261157 | US5967264 | US7203634 | US6809845 | US20030135846 | US7246745 | US20050238221 | US6711293 | US20070172112 | US20110129154 | US20030021462 | US7100824 | US6550583 | US20070258635 | US6177218 | US5666467 | US20050046624 | US5543607 | US7334729 | US20060239535 | US20030070075 | US5058181 | US6233044 | US6236736 | US5883968 | US20040066962 | US6050399 | US7769236 | US20060269136 | US20060110025 | US20010050931 | US5923034 | US5609223 | US20030013022 | US5890817 | US7412089 | US5744381 | US5901246 | US3296368 | US20020138374 | US20010007498 | US7337960 | US4792018 | US6363366 | US20020019729 | US6118535 | US3446557 | US5115888 | US5920477 | US7461785 | US6606579 | US7909248 | US20090152348 | US20090060259 | US5917798 | US7550745 | US6137295 | US7720711 | US20050223031 | US20050189412 | US20020120920 | US20060283943 | US20050189411 | US20030223631 | US20020007337 | US6179206 | US7044370 | US20050060324 | US20100059589 | US5495097 | US6332573 | US7780084 | US20010053242 | US7841522 | US20060192959 | US4843569 | US6671386 | US7711140 | EP0843293 | EP0689175 | EP0672993 | PCT/US2005/006079
+	</str>
+	<str name="Cites Count">
+		100
+	</str>
+	<str name="Assignee(s)">
+		EVOLUTION ROBOTICS RETAIL, INC.
+	</str>
+	<str name="1st Assignee">
+		EVOLUTION ROBOTICS RETAIL, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Pasadena, CA
+	</str>
+	<str name="Assignee(s) Address">
+		Pasadena, CA
+	</str>
+	<str name="Inventor(s)">
+		GONCALVES, LUIS
+	</str>
+	<str name="1st Inventor">
+		GONCALVES, LUIS
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Pasadena, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Pasadena, CA
+	</str>
+	<str name="Agent/Attorney">
+		STOEL RIVES LLP
+	</str>
+	<str name="Primary Examiner">
+		REPKO, JASON M
+	</str>
+	<str name="Assistant Examiner">
+		THOMAS, MIA M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

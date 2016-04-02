@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5973318
+	</str>
+	<str name="Application Number">
+		US09243639
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Proximity switch system for electronic equipment
+	</str>
+	<str name="Abstract">
+		An externally operable electronic switch which is entirely located within a housing but which is in no way mechanically or physically attached to the inside or the outside of the housing, has no moving parts, nothing to wear out, requires no holes or special treatments to the housings of equipment into which it may be incorporated and has no optical parts to fog or become dirty which could lead to unreliable operation is disclosed. The switch is operated without mechanical force. It is unnecessary to touch anything to operate it and it consumes extremely low stand by power. It is suited for sealed and portable battery operated equipment.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1999-02-03
+	</str>
+	<str name="Application Year">
+		1999
+	</str>
+	<str name="Application(Year/Month)">
+		1999-02
+	</str>
+	<str name="Publication Date">
+		1999-10-26
+	</str>
+	<str name="Publication Year">
+		1999
+	</str>
+	<str name="Publication(Year/Month)">
+		1999-10
+	</str>
+	<str name="All IPC">
+		H01J5/16
+	</str>
+	<str name="IPC Primary">
+		H01J5/16
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01J
+	</str>
+	<str name="IPC Group">
+		H01J5
+	</str>
+	<str name="All UPC">
+		250/221 | 250/227.22
+	</str>
+	<str name="UPC Primary">
+		250/221
+	</str>
+	<str name="UPC Class">
+		250
+	</str>
+	<str name="Family Members">
+		US5973318
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US7432847 | US7946484 | US7997493 | US7832641 | WO2006025003A1 | US7548075 | US7549583 | CN101010877B | US7941090 | US6535694 | US6861944 | US6657323 | US7253541 | US7330108 | US7282818
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5541397 | US5103085 | US4270226 | US5397890
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US | US | US | US | US | US
+	</str>
+	<str name="Priority Number">
+		24363999 | 494198 | 85481097 | 97702197 | 78579397 | 33262994
+	</str>
+	<str name="Priority Date">
+		1999-02-03 | 1998-01-09 | 1997-05-12 | 1997-11-24 | 1997-01-20 | 1994-10-31
+	</str>
+	<str name="Assignee(s)">
+		GEO LABS, INC.
+	</str>
+	<str name="1st Assignee">
+		GEO LABS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Media, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Media, PA
+	</str>
+	<str name="Inventor(s)">
+		PLESKO, GEORGE, A.
+	</str>
+	<str name="1st Inventor">
+		PLESKO, GEORGE, A.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Media, PA
+	</str>
+	<str name="Inventor(s) Address">
+		Media, PA
+	</str>
+	<str name="Agent/Attorney">
+		REED SMITH SHAW &amp; MCCLAY
+	</str>
+	<str name="Primary Examiner">
+		LE, QUE T.
+	</str>
+	<str name="cited by within 3 years">
+		5
+	</str>
+	<str name="cited by within 5 years">
+		11
+	</str>
+</doc>
+

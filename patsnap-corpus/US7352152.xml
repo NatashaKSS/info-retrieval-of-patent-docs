@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7352152
+	</str>
+	<str name="Application Number">
+		US10814157
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Portable electronic appliance with a battery having a wireless tag containing battery information
+	</str>
+	<str name="Abstract">
+		An electronic appliance has a data read/write section which reads information about a battery stored in a wireless tag provided in the battery, and a CPU which recognizes the read information about the battery and generates battery remaining energy warning information to be displayed on a display section according to the battery information. The battery remaining energy warning information according to the kind of the battery, the name of the manufacturer of the battery, etc., is generated and displayed to correctly and effectively inform a user of a remaining energy warning about the battery presently used.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-04-01
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-04
+	</str>
+	<str name="Publication Date">
+		2008-04-01
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-04
+	</str>
+	<str name="All IPC">
+		H01M10/46
+	</str>
+	<str name="IPC Primary">
+		H01M10/46
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H01
+	</str>
+	<str name="IPC Subclass">
+		H01M
+	</str>
+	<str name="IPC Group">
+		H01M10
+	</str>
+	<str name="All UPC">
+		320/106
+	</str>
+	<str name="UPC Primary">
+		320/106
+	</str>
+	<str name="UPC Class">
+		320
+	</str>
+	<str name="Family Members">
+		KR1020040086843A | CN1543197A | US20040196006A1 | US7352152
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6005367 | US6020082 | US6175211 | US5990659 | US5635813 | JP2001222991 | CN1360270 | JP1990294231 | JP1993135804 | JP2000022578
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		2003101121 | 2003101122 | 2003143571
+	</str>
+	<str name="Priority Date">
+		2003-04-04 | 2003-04-04 | 2003-05-21
+	</str>
+	<str name="Assignee(s)">
+		FUJIFILM CORPORATION
+	</str>
+	<str name="1st Assignee">
+		FUJIFILM CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		KAWAGUCHI, RYUJI | KUBOTA, MASAKATSU | ISHIHARA, ATSUHIKO | KAWASUMI, SEIJI
+	</str>
+	<str name="1st Inventor">
+		KAWAGUCHI, RYUJI
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Asaka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Asaka, JP | Asaka, JP | Asaka, JP | Asaka, JP
+	</str>
+	<str name="Agent/Attorney">
+		BIRCH, STEWART, KOLASCH &amp; BIRCH, LLP
+	</str>
+	<str name="Primary Examiner">
+		TSO, EDWARD H
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5469328
+	</str>
+	<str name="Application Number">
+		US08204824
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Electronics cabinet with reduced absorption of solar radiation
+	</str>
+	<str name="Abstract">
+		Disclosed is an electronics cabinet with a compartment for storing batteries and having heat shields for reducing heat buildup in the compartment. The heat shields are attached to each door of the compartment with an air gap therebetween so that absorbed solar heat can be removed by natural convection.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1994-03-02
+	</str>
+	<str name="Application Year">
+		1994
+	</str>
+	<str name="Application(Year/Month)">
+		1994-03
+	</str>
+	<str name="Publication Date">
+		1995-11-21
+	</str>
+	<str name="Publication Year">
+		1995
+	</str>
+	<str name="Publication(Year/Month)">
+		1995-11
+	</str>
+	<str name="All IPC">
+		H05K7/20
+	</str>
+	<str name="IPC Primary">
+		H05K7/20
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K7
+	</str>
+	<str name="All UPC">
+		361/690
+	</str>
+	<str name="UPC Primary">
+		361/690
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US5469328
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5150277 | US4535386 | US5140744 | JP1989053997
+	</str>
+	<str name="Cites Count">
+		4
+	</str>
+	<str name="Priority Country">
+		US
+	</str>
+	<str name="Priority Number">
+		20482494
+	</str>
+	<str name="Priority Date">
+		1994-03-02
+	</str>
+	<str name="Assignee(s)">
+		AT&amp;T CORP.
+	</str>
+	<str name="1st Assignee">
+		AT&amp;T CORP.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Murray Hill, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Murray Hill, NJ
+	</str>
+	<str name="Inventor(s)">
+		PALASZEWSKI, STEPHEN, J.
+	</str>
+	<str name="1st Inventor">
+		PALASZEWSKI, STEPHEN, J.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Chester, Township, Morris, County, NJ
+	</str>
+	<str name="Inventor(s) Address">
+		Chester, Township, Morris, County, NJ
+	</str>
+	<str name="Agent/Attorney">
+		BIRNBAUM, LESTER H.
+	</str>
+	<str name="Primary Examiner">
+		THOMPSON, GREGORY D.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7594981
+	</str>
+	<str name="Application Number">
+		US10546686
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for concentrating water-soluble organic material
+	</str>
+	<str name="Abstract">
+		A method for concentrating a water-soluble organic material wherein a mixture of the water-soluble organic material with water is distilled in a distillation column (11), and the fraction from the top (11a) of the distillation column (11) is separated by the use of a membrane separator (14) into a permeated vapor (F.sub.2) and a non-permeated vapor (F.sub.3), which comprises once condensing the fraction to form a condensate, heating the condensate in an evaporator (13) to generate a vapor (F.sub.1) having a pressure higher than the operation pressure for the distillation column (11), and introducing the vapor (F.sub.1) to the membrane separator (14), thereby separating water from the mixture.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-02-20
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-02
+	</str>
+	<str name="Publication Date">
+		2009-09-29
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		C07C29/80 | C07C27/28 | B01D3/00 | B01D61/36 | B01D71/02
+	</str>
+	<str name="IPC Primary">
+		C07C29/80
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C07
+	</str>
+	<str name="IPC Subclass">
+		C07C
+	</str>
+	<str name="IPC Group">
+		C07C29
+	</str>
+	<str name="All UPC">
+		210/640 | 203/18 | 203/19 | 203/41 | 203/25 | 568/913 | 203/27
+	</str>
+	<str name="UPC Primary">
+		210/640
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		EP1614458A1 | KR1020050098008A | JP3764894B2 | US7594981 | WO2004073841A1 | EP1614458A4 | CN1750867A | US20060070867A1
+	</str>
+	<str name="Family Member Count">
+		8
+	</str>
+	<str name="Family Members Cited By Count">
+		7
+	</str>
+	<str name="Other References">
+		&quot;IPA Reprocessor&quot;, 1999, Kanto Chemical Co., Inc., Tokyo, Japan. cited by other . | &quot;Membrane Systems Pervaporation and Vapor Permeation&quot;, 2001, Sulzer Chemtech. cited by other . | Van Veen, &quot;Reduction of Energy Consumption in the Process Industry By Pervaporation with Inorganic Membranes: Techno-Economical Feasibility Study&quot;, ECN-C-01-073, Jul. 2001, pp. 1-29. cited by other. | Jansen et al., &quot;Methods to improve flux during alcohol/water azeotrope separation by vapor/permeation&quot;, Journal of Membrane Science, 68, 1992, pp. 229-239, Elsevier Science Publishers B.V., Amsterdam, Netherlands. cited by other . | Sander et al. &quot;Industrial Application of Vapour Permeation&quot;, Journal of Membrane Science, 61 (1991), pp. 113-129, Elsevier Science Publishers B.V., Amsterdam, Netherlands. cited by other . | Fahmy et al., &quot;Design Methodology for the Optimization of Membrane Separation Properties for Hybrid Vapor Permeation-Distillation Processes&quot;, Separation Science and Technology, 36(15), 2001, pp. 3287-3304, Marcel Dekker, Inc. cited by other . | Martin et al., &quot;Separating Azeotropic Mixtures&quot;, Sulzer Technical Review, Issue 3, 1998, pp. 12-15. cited by other . | Rautenbach R et al.: &quot;Aufbereitung Azeotroper Stoffgemische&quot; Chemietechnik, Huthig, Heidelberg, DE, vol. 25, No. 1 Jan. 1996, pp. 50-53, XP000554250. cited by other . | Maus, &quot;Separation of methanol from methylesters by vapour permeation: experiences of industrial applications&quot;, Desalination, 148, 2002, pp. 315-319, Elsevier Science B.V. cited by other . | Huang, &quot;Pervaporation Membrane Separation Processes&quot;, Membrane Science Technology Series, 1, 1991, pp. 509-534, Elsevier Science Publishing Company, Amsterdam, Netherlands. cited by other .
+	</str>
+	<str name="Other References Count">
+		10
+	</str>
+	<str name="Cited By">
+		US8263815
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US5028298 | US6755975 | US4952751 | US4911845 | US20090004713 | US5105029 | US3303105 | US4405409 | US5013447 | US5427687 | US20090057128 | US6210464 | US4953694 | US20080210540 | JP1992063110 | DE4430148 | WO2003005222 | JP2000042386 | JP1988258601 | JP1997071481 | JP1988258602 | JP1993255154 | JP1995227517 | WO1999045035
+	</str>
+	<str name="Cites Count">
+		24
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2003044711
+	</str>
+	<str name="Priority Date">
+		2003-02-21
+	</str>
+	<str name="Assignee(s)">
+		MITSUBISHI CHEMICAL CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MITSUBISHI CHEMICAL CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		IKEDA, SHIRO
+	</str>
+	<str name="1st Inventor">
+		IKEDA, SHIRO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		MANOHARAN, VIRGINIA
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

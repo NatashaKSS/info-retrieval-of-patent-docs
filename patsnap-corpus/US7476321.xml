@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7476321
+	</str>
+	<str name="Application Number">
+		US10571919
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method and a plant for waste water treatment
+	</str>
+	<str name="Abstract">
+		A method and a plant for waste water treatment include a method for purifying waste that has the steps of a) storing waste water; b) optionally removing phosphorous compounds; c) leading the waste water to a first aerated biodegrading zone; d) leading waste water from the first aerated biodegrading zone to a second aerated biodegrading zone to obtain purified water; and e) leading purified water to at least step a) or to step b) if step b) is present. Advantages of the method are that production of H.sub.2S is kept at a minimum, the necessary amount of chemicals used in phosphorous removal is reduced, an improved nitrification occurs, and the purification is improved during start up after a longer break.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-09-15
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-09
+	</str>
+	<str name="Publication Date">
+		2009-01-13
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-01
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/532.2 | 210/197 | 210/150 | 210/620 | 210/220 | 210/615
+	</str>
+	<str name="UPC Primary">
+		210/532.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		AU2004272171A1 | EP1678090A1 | US7476321 | AU2004272171B2 | WO2005026064A1 | US20070108124A1 | NO20061582A
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		2
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6592755 | US6210578 | US4183809 | US20030132148 | US20020189173 | US4210528 | US3764523 | US5232596 | US20030062321 | EP0557922 | GB1484928 | EP0396142 | JP1998235104 | WO2003020650 | EP0002008
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		DK
+	</str>
+	<str name="Priority Number">
+		PA200301333
+	</str>
+	<str name="Priority Date">
+		2003-09-15
+	</str>
+	<str name="Assignee(s)">
+		BIOKUBE INTERNATIONAL A/S
+	</str>
+	<str name="1st Assignee">
+		BIOKUBE INTERNATIONAL A/S
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tappernoje, DK
+	</str>
+	<str name="Assignee(s) Address">
+		Tappernoje, DK
+	</str>
+	<str name="Inventor(s)">
+		HEDEGAARD, HENRIK, U.
+	</str>
+	<str name="1st Inventor">
+		HEDEGAARD, HENRIK, U.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Fakse, DK
+	</str>
+	<str name="Inventor(s) Address">
+		Fakse, DK
+	</str>
+	<str name="Agent/Attorney">
+		JACOBSON HOLMAN PLLC
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

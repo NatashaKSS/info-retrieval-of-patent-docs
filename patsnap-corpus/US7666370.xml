@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7666370
+	</str>
+	<str name="Application Number">
+		US12087288
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Sodium salt recycling process for use in wet reprocessing process of spent nuclear fuel
+	</str>
+	<str name="Abstract">
+		The present disclosure relates to a process for recycling a sodium salt by decomposition of a sodium nitride liquid waste, comprising a neutralization step in which a nitric acid liquid waste or an off-gas having nitric acid dissolved therein which is produced through a wet reprocessing process comprising a dissolution step for dissolving a spent nuclear fuel in nitric acid is neutralized by adding or contacting the nitrate liquid waste or the off-gas to or with at least one sodium salt selected from the group consisting of sodium hydroxide, sodium hydrogencarbonate and sodium carbonate, thereby yielding a sodium nitrate liquid waste; a sodium nitrate-decomposition step in which the sodium nitrate liquid waste is reductively decomposed with a reducing agent, thereby decomposing sodium nitrate into a nitrogen gas and the sodium salt; and a recycle step for recycling the sodium salt into the neutralization step or wet reprocessing process.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-15
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2010-02-23
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-02
+	</str>
+	<str name="All IPC">
+		B01D11/00 | G21F9/20 | G21F9/00 | G21F9/16
+	</str>
+	<str name="IPC Primary">
+		B01D11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		423/8 | 588/3 | 588/257 | 588/11 | 210/757 | 588/20 | 210/638 | 588/252 | 210/712
+	</str>
+	<str name="UPC Primary">
+		423/8
+	</str>
+	<str name="UPC Class">
+		423
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Tomozo Koyama et al. &quot;Component Technologies Development Reprocessing System--Advanced Aqueous Reprocessing Process Technologies&quot;, Report from Japan Nuclear Cycle Development Institute, No. 24 Separate Volume, pp. 153-164 (Nov. 2004). cited by other . | International Search Report issued Feb. 20, 2007 in the International (PCT) Application of which the present application is the U.S. National Stage. cited by other . | Sakae Shikakura et al. &quot;Development on FBR Fuel Reporcessing Technology&quot;, Japan Society of Mechanical Engineers, No. 96-3, 5.sup.th Power and Energy Technology Symposium 1996, Collected Papers for Lectures, pp. 351-354. cited by other . | RITE-Wakamatsu Second Laboratory, &quot;Development of Wet Reductive Decomposition Processing Technique for Nitrate-Nitrogen in Wastewater&quot;, Report on Completion of Program for Promotion of Technology Development from 2002 to 2004, I-26, Research Institute of Innovative Technology for the Earth, Mar. 2005 and its English abstract. cited by other.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cites">
+		US4059671 | US4056482 | US4358426 | JP1989316695 | JP2005241531 | JP2004101270 | JP2005329304 | JP2004354313 | JP1994258494 | JP2003126872
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2006010676
+	</str>
+	<str name="Priority Date">
+		2006-01-19
+	</str>
+	<str name="Assignee(s)">
+		JAPAN NUCLEAR FUEL LIMITED
+	</str>
+	<str name="1st Assignee">
+		JAPAN NUCLEAR FUEL LIMITED
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Aomori, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Aomori, JP
+	</str>
+	<str name="Inventor(s)">
+		TAKAOKU, YOSHINOBU | SUMIDA, YUKIO | MORIYA, NORIYASU
+	</str>
+	<str name="1st Inventor">
+		TAKAOKU, YOSHINOBU
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Aomori, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Aomori, JP | Aomori, JP | Aomori, JP
+	</str>
+	<str name="Agent/Attorney">
+		WENDEROTH, LIND &amp; PONACK, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		LORENGO, JERRY
+	</str>
+	<str name="Assistant Examiner">
+		BARCENA, CARLOS
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

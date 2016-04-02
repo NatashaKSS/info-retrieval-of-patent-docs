@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7857975
+	</str>
+	<str name="Application Number">
+		US10538557
+	</str>
+	<str name="Title">
+		System for liquid extraction, and methods
+	</str>
+	<str name="Abstract">
+		A process for removing water from solid material (10) using liquid-solid extraction and liquid-liquid extraction in an extraction system (100). Multiple solvents are used sequentially to replace the water with a first solvent, then replacing that solvent with a second solvent, etc., then eventually removing the last solvent from the solid materials. The solvents have progressively lower heats of vaporization, enthalphy of vaporization, boiling point or related property, so as to conserve use of thermal energy.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2003-12-19
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-12
+	</str>
+	<str name="Publication Date">
+		2010-12-28
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-12
+	</str>
+	<str name="All IPC">
+		B01D11/00 | B01D12/00
+	</str>
+	<str name="IPC Primary">
+		B01D11/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D11
+	</str>
+	<str name="All UPC">
+		435/132 | 210/806 | 210/774 | 210/639 | 134/10 | 34/342 | 44/302 | 435/161 | 210/770 | 34/340 | 210/634
+	</str>
+	<str name="UPC Primary">
+		435/132
+	</str>
+	<str name="UPC Class">
+		435
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Supplemental European Search Report dated Aug. 20, 2007. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US3629150 | US3661535 | US6517875 | US3794712 | US4251231 | US6516537 | US4749495 | US5630911 | US6224847 | US5727689 | US6818239 | US4339882 | US6509051 | US7053036 | US6242595 | US3152150 | US6743300 | US5478443 | US3843515 | US6017505 | US5340446 | US6438867 | US6455087 | US4116712 | US6509180 | US4014104 | US5585001 | US4217178 | US6262285 | US6916630 | US5756098 | US6279250 | US6166231 | WO2004057255 | WO1992022367 | WO1998017593
+	</str>
+	<str name="Cites Count">
+		36
+	</str>
+	<str name="Assignee(s)">
+		KFI INTELLECTUAL PROPERTIES, L.L.C.
+	</str>
+	<str name="1st Assignee">
+		KFI INTELLECTUAL PROPERTIES, L.L.C.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		St. Paul, MN
+	</str>
+	<str name="Assignee(s) Address">
+		St. Paul, MN
+	</str>
+	<str name="Inventor(s)">
+		WILLS, ROBERT, A. | FAULCONBRIDGE, JAMES
+	</str>
+	<str name="1st Inventor">
+		WILLS, ROBERT, A.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Brooklyn, Park, MN
+	</str>
+	<str name="Inventor(s) Address">
+		Brooklyn, Park, MN | Maplewood, MN
+	</str>
+	<str name="Agent/Attorney">
+		MERCHANT &amp; GOULD P.C.
+	</str>
+	<str name="Primary Examiner">
+		DRODGE, JOSEPH W
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

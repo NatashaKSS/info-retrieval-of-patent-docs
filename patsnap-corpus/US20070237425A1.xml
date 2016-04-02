@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070237425A1
+	</str>
+	<str name="Application Number">
+		US11695820
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		IMAGE RESOLUTION INCREASING METHOD AND APPARATUS FOR THE SAME
+	</str>
+	<str name="Abstract">
+		An image resolution increasing method includes reducing an input image, calculating a first feature vector having a feature quantity of a first block of a reduced image, extracting a high-frequency component image from the input image, storing pairs each having the first feature vector and a second block of the high-frequency component image that is located at the same position as the first block as a look-up table, enlarging the input image, calculating a second feature vector having a feature quantity of a third block of an object in the input image, searching the look-up table for the first feature vector similar to the second feature vector, and adding a fourth block of the look-up table which pairs with the first feature vector and a fifth block of the temporal enlarged image that is located at the same position as the third block.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-04-03
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-04
+	</str>
+	<str name="Publication Date">
+		2007-10-11
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-10
+	</str>
+	<str name="All IPC">
+		G06K9/32
+	</str>
+	<str name="IPC Primary">
+		G06K9/32
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/299
+	</str>
+	<str name="UPC Primary">
+		382/299
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Members">
+		JP4157568B2 | US20070237425A1 | JP2007280284A
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2006108942
+	</str>
+	<str name="Priority Date">
+		2006-04-11
+	</str>
+	<str name="Inventor(s)">
+		TAGUCHI YASUNORI | IDA TAKASHI | MATSUMOTO NOBUYUKI | TAKESHIMA HIDENORI | ISOGAWA KENZO
+	</str>
+	<str name="1st Inventor">
+		TAGUCHI YASUNORI
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki-shi,JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki-shi,JP | Kawasaki-shi,JP | Inagi-shi,JP | Ebina-shi,JP | Yokohama-shi,JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

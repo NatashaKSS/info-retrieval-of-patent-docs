@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8232996
+	</str>
+	<str name="Application Number">
+		US12/468423
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image learning, automatic annotation, retrieval method, and device
+	</str>
+	<str name="Abstract">
+		A first image having annotations is segmented into one or more image regions. Image feature vectors and text feature vectors are extracted from all the image regions to obtain an image feature matrix and a text feature matrix. The image feature matrix and the text feature matrix are projected into a sub-space to obtain the projected image feature matrix and the text feature matrix. The projected image feature matrix and the text feature matrix are stored. First links between the image regions, second links between the first image and the image regions, third links between the first image and the annotations, and fourth links between the annotations are established. Weights of all the links are calculated. A graph showing a triangular relationship between the first image, image regions, and annotations is obtained based on all the links and the weights of the links.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-05-19
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-05
+	</str>
+	<str name="Publication Date">
+		2012-07-31
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-07
+	</str>
+	<str name="All IPC">
+		G06T11/20 | G06F15/16
+	</str>
+	<str name="IPC Primary">
+		G06T11/20
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06T
+	</str>
+	<str name="IPC Group">
+		G06T11
+	</str>
+	<str name="All UPC">
+		345/440 | 345/419 | 345/422 | 345/427 | 345/440.1 | 345/440.2 | 345/441 | 345/442 | 382/164 | 707/728 | 707/737
+	</str>
+	<str name="UPC Primary">
+		345/440
+	</str>
+	<str name="UPC Class">
+		345
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Gustavo Carneiro , Antoni B. Chan , Pedro J. Moreno , Nuno Vasconcelos, Supervised Learning of Semantic Classes for Image Annotation and Retrieval, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.29 n. 3, p. 394-410, Mar. 2007. cited by examiner | J. Yu and Q. Tian. Semantic subspace projection and its application in image retrieval. IEEE Transactions on Circuits and Systems for Video Technology, 18(4):544-548, Apr. 2008. cited by examiner | Liu, Y., Qin, T., Liu, T., Zhang, L., Ma, W.: Similarity space projection for Web image search and annotation. In: MIR 2005, pp. 49-56 (2005). cited by examiner | J-Y Pan, et al., &quot;GCap: Graph-Based Automatic Image Captioning&quot; Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops, pp. 146-155, Jun. 27, 2004. cited by other | J. Urban, et al., &quot;Adaptive Image Retrieval Using a Graph Model for Semantic Feature Integration,&quot; Proceedings of the ACM International Multimedia Conference and Exhibition--MIR 2006, pp. 117-126, Oct. 26-27, 2006. cited by other | D. R. Hardoon, et al., &quot;A Correlation Approach for Automatic Image Annotation,&quot; Lecture Notes in Artificial Intelligence, vol. 4093, pp. 681-692, Jan. 1, 2006. cited by other | T. Bailloeul, et al., &quot;Automatic Image Tagging as a Random Walk with Priors on the Canonical Correlation Subspace,&quot; Proceedings of the 1st ACM International Conference on Multimedia Information Retrieval, Vancouver, BC,CA, pp. 75-82, Oct. 30-31, 2008. cited by other.
+	</str>
+	<str name="Other References Count">
+		7
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7698332
+	</str>
+	<str name="Cites Count">
+		1
+	</str>
+	<str name="Priority Country">
+		CN
+	</str>
+	<str name="Priority Number">
+		200810100721
+	</str>
+	<str name="Priority Date">
+		2008-05-20
+	</str>
+	<str name="Assignee(s)">
+		RICOH COMPANY, LTD.
+	</str>
+	<str name="1st Assignee">
+		RICOH COMPANY, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		BAILLOEUL, TIMOTHEE | ZHU, CAIZHI | XU, YINGHUL
+	</str>
+	<str name="1st Inventor">
+		BAILLOEUL, TIMOTHEE
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Beijing, CN
+	</str>
+	<str name="Inventor(s) Address">
+		Beijing, CN | Beijing, CN | Kanagawa, JP
+	</str>
+	<str name="Agent/Attorney">
+		DICKSTEIN SHAPIRO LLP
+	</str>
+	<str name="Primary Examiner">
+		WANG, JIN-CHENG
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

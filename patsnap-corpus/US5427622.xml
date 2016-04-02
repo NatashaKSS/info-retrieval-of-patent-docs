@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5427622
+	</str>
+	<str name="Application Number">
+		US08276684
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Method for uniform cleaning of wafers using megasonic energy
+	</str>
+	<str name="Abstract">
+		Apparatus and method for cleaning/etching the surface of an article with sonic energy in the megahertz range which employ an anti-reflection mechanism within a recirculation tank. A tank having at least one side wall and a bottom structure holds a cleaning/etching liquid and a megasonic transducer is associated with the tank for projecting megasonic energy into the liquid. The anti-reflection mechanism is disposed within the tank in close association with the at least one sidewall or bottom structure of the tank to thereby minimize reflection of megasonic energy from the associated surface. Preferably, the megasonic transducer is associated with a first tank sidewall which opposes a second tank sidewall, and the anti-reflection mechanism is disposed adjacent the second tank sidewall. By way of example, the anti-reflection mechanism can comprise a stream of gas bubbles, a plurality of anechoic structures, or a combination of both gas bubbles and anechoic structures.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1994-07-18
+	</str>
+	<str name="Application Year">
+		1994
+	</str>
+	<str name="Application(Year/Month)">
+		1994-07
+	</str>
+	<str name="Publication Date">
+		1995-06-27
+	</str>
+	<str name="Publication Year">
+		1995
+	</str>
+	<str name="Publication(Year/Month)">
+		1995-06
+	</str>
+	<str name="All IPC">
+		B08B3/12
+	</str>
+	<str name="IPC Primary">
+		B08B3/12
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B08
+	</str>
+	<str name="IPC Subclass">
+		B08B
+	</str>
+	<str name="IPC Group">
+		B08B3
+	</str>
+	<str name="All UPC">
+		134/902 | 134/1
+	</str>
+	<str name="UPC Primary">
+		134/902
+	</str>
+	<str name="UPC Class">
+		134
+	</str>
+	<str name="Family Members">
+		US5427622
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		15
+	</str>
+	<str name="Other References">
+		Syverson et al., &quot;The Benefits of SC-1/SC-2 Megasonic Wafer Cleaning&quot;, Burlington Tech. Bulletin, pp. 1-8, Oct. 1991. | Gow et al., &quot;A Method for Evaluating Cleaning Techniques for the Removal of Particulates from Semiconductor Surfaces&quot;, Burlington Technical Bulletin, pp. 1-7, Oct. 1991.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		EP0860866A1 | US6619305 | US6399022 | US7047989 | WO1997045860A1 | US6524965 | US6240938 | US6276370 | US6314974 | US5887607 | US5876507 | US5653860 | US5698038 | US5698040 | US6367493
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5038808 | US4979994 | US3893869 | US4854337 | US3523834 | US5037208 | US4836684 | JP1990034923A | JP1992196219 | JP1990081625 | JP1990281625
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		27668494 | 2003793
+	</str>
+	<str name="Priority Date">
+		1994-07-18 | 1993-02-12
+	</str>
+	<str name="Assignee(s)">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="1st Assignee">
+		INTERNATIONAL BUSINESS MACHINES CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Armonk, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Armonk, NY
+	</str>
+	<str name="Inventor(s)">
+		STANASOLOVICH, DAVID | SYVERSON, WILLIAM, A. | WARREN, RONALD, A.
+	</str>
+	<str name="1st Inventor">
+		STANASOLOVICH, DAVID
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Montgomery, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Montgomery, NY | Colchester, VT | Troy, NY
+	</str>
+	<str name="Agent/Attorney">
+		HESLIN &amp; ROTHENBERG
+	</str>
+	<str name="Primary Examiner">
+		LANGEL, WAYNE
+	</str>
+	<str name="Assistant Examiner">
+		DUNN, JR., THOMAS G.
+	</str>
+	<str name="cited by within 3 years">
+		8
+	</str>
+	<str name="cited by within 5 years">
+		11
+	</str>
+</doc>
+

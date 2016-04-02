@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7879239
+	</str>
+	<str name="Application Number">
+		US12161178
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Wastewater treatment method using immobilized carrier
+	</str>
+	<str name="Abstract">
+		To provide an inexpensive wastewater treatment method which facilitates downsizing of tanks and requires less withdrawal of an excessive sludge, the use is made of an aeration tank 1 in which wastewater is contacted with a particulate carrier under an aerobic condition, and a total oxidization tank 3 in which the volume of a sludge generated in the aeration tank 1 is reduced under an aerobic condition, a coefficient of self-oxidization of the sludge flowing into the total oxidization tank 3 is set to 0.05 (per day), and the method includes a step of adding a coagulant to the total oxidization tank 3 for the purpose of improving the solid-liquid separating characteristic of the sludge within the total oxidization tank.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-01-24
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-01
+	</str>
+	<str name="Publication Date">
+		2011-02-01
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/620 | 210/616
+	</str>
+	<str name="UPC Primary">
+		210/620
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Office Action issued Nov. 9, 2010, Chinese Patent No. 200780003424.1, filed Jan. 24, 2007 ( with partial English Translation of Office Action). cited by other. | 5-tei, Kougai-bousi no Gijutsu to Houki (Suishitsu-hen) (5.sup.th edition, Technology and Regulation for Pollution Prevention (Water Quality Volume)); pp. 197 (2001). cited by other . | Kankyo-Hozen-Haikibutsu-Shori (Environment Conservation and Waste Processing: Guide to All Technologies); pp. 69-72 (2002). cited by other . | U.S. Appl. No. 11/632,482, filed Jan. 16, 2007, Baba, et al. cited by other .
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7407582 | US6107067 | US20040134856 | JP2002191942 | JP2000263093 | EP1101738 | JP2002126796 | JP2001347284 | JP2002059185 | JP2004216207 | JP2001205290 | CN1304885 | JP1988077595 | JP1995155784 | JP2005211879
+	</str>
+	<str name="Cites Count">
+		15
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2006016426 | 2006249744
+	</str>
+	<str name="Priority Date">
+		2006-01-25 | 2006-09-14
+	</str>
+	<str name="Assignee(s)">
+		KURARAY CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		KURARAY CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kurashiki-shi, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kurashiki-shi, JP
+	</str>
+	<str name="Inventor(s)">
+		BABA, YASUHIRO | FUJII, HIROAKI | OKABE, HIDEHIKO | KOBAYASHI, GORO | MIURA, TSUTOMU
+	</str>
+	<str name="1st Inventor">
+		BABA, YASUHIRO
+	</str>
+	<str name="Number of Inventors">
+		5
+	</str>
+	<str name="1st Inventor Address">
+		Osaka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Osaka, JP | Kurashiki, JP | Saijo, JP | Chuo-ku, JP | Kurashiki, JP
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK. MCCLELLAND, MAIER &amp; NEUSTADT, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

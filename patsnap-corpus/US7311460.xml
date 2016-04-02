@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7311460
+	</str>
+	<str name="Application Number">
+		US10385944
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Digital data storage device mounted in a pen shaped housing
+	</str>
+	<str name="Abstract">
+		A digital storage device mounted in a pen shaped housing has a barrel, a reservoir tube assembly and a memory device with a USB plug. The memory device is held in the barrel and the USB plug can be extended from the barrel to insert into a USB socket of a computer to access digital data from the computer. In addition, the memory device uses a flash memory IC for storing data so that the memory device does not use a battery. Therefore, the digital storage device can be used to store data and to perform other functions such as writing.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2003-03-10
+	</str>
+	<str name="Application Year">
+		2003
+	</str>
+	<str name="Application(Year/Month)">
+		2003-03
+	</str>
+	<str name="Publication Date">
+		2007-12-25
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-12
+	</str>
+	<str name="All IPC">
+		H05K5/00 | B43K29/00
+	</str>
+	<str name="IPC Primary">
+		H05K5/00
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H05
+	</str>
+	<str name="IPC Subclass">
+		H05K
+	</str>
+	<str name="IPC Group">
+		H05K5
+	</str>
+	<str name="All UPC">
+		361/686 | 401/195
+	</str>
+	<str name="UPC Primary">
+		361/686
+	</str>
+	<str name="UPC Class">
+		361
+	</str>
+	<str name="Family Members">
+		US20040080989A1 | US7311460 | TWM248624U
+	</str>
+	<str name="Family Member Count">
+		3
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US6749355 | US6812972 | US6522534 | US6943670 | US6808400
+	</str>
+	<str name="Cites Count">
+		5
+	</str>
+	<str name="Priority Country">
+		TW
+	</str>
+	<str name="Priority Number">
+		091217217
+	</str>
+	<str name="Priority Date">
+		2002-10-28
+	</str>
+	<str name="Assignee(s)">
+		WALTON ADVANCED ENGINEERING, INC.
+	</str>
+	<str name="1st Assignee">
+		WALTON ADVANCED ENGINEERING, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kaoshiung, TW
+	</str>
+	<str name="Assignee(s) Address">
+		Kaoshiung, TW
+	</str>
+	<str name="Inventor(s)">
+		YU, HONG-CHI
+	</str>
+	<str name="1st Inventor">
+		YU, HONG-CHI
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kaohsiung, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Kaohsiung, TW
+	</str>
+	<str name="Agent/Attorney">
+		KAMRATH, ALAN KAMRATH &amp; ASSOCIATES P.A.
+	</str>
+	<str name="Primary Examiner">
+		WALCZAK, DAVID J.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7442312
+	</str>
+	<str name="Application Number">
+		US10486967
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Energy-based process for fluid treatment and system thereof
+	</str>
+	<str name="Abstract">
+		A process for treating a fluid which comprises the step of exposing the fluid to ultraviolet radiation and high-energy ionizing radiation. It has been discovered that combining ultraviolet radiation with high-energy ionizing radiation in the treatment of a fluid results in synergistic performances of the treatment process--e.g., improvement in the inactivation or killing of microorganisms in the fluid, in destruction of organic contaminants and the like. More specifically, fluid treatment performance is improved to a level typically not possible when using ultraviolet radiation and high-energy ionizing radiation separately.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2002-08-19
+	</str>
+	<str name="Application Year">
+		2002
+	</str>
+	<str name="Application(Year/Month)">
+		2002-08
+	</str>
+	<str name="Publication Date">
+		2008-10-28
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-10
+	</str>
+	<str name="All IPC">
+		C02F1/32
+	</str>
+	<str name="IPC Primary">
+		C02F1/32
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/748
+	</str>
+	<str name="UPC Primary">
+		210/748
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20040262235A1 | US7442312
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Kielburger G: Elektronenstrahltechnik zur Aufbereitjung schadstoffhaltiger Wasser und Schlamme, WLB Wasser, Luft Und Boden, No. 11-12, 1994, pp. 24-26, XP002222064 the whole document. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3904882 | US3603788 | US3511776 | US5512253 | US4317041 | DE19814112 | DE19748098
+	</str>
+	<str name="Cites Count">
+		7
+	</str>
+	<str name="Priority Country">
+		US | CA | US
+	</str>
+	<str name="Priority Number">
+		48696704 | 0201282 | 31279201
+	</str>
+	<str name="Priority Date">
+		2004-08-23 | 2002-08-19 | 2001-08-17
+	</str>
+	<str name="Assignee(s)">
+		TROJAN TECHNOLOGIES INC.
+	</str>
+	<str name="1st Assignee">
+		TROJAN TECHNOLOGIES INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		CA
+	</str>
+	<str name="Assignee(s) Address">
+		CA
+	</str>
+	<str name="Inventor(s)">
+		TAGHIPOUR, FARIBORZ
+	</str>
+	<str name="1st Inventor">
+		TAGHIPOUR, FARIBORZ
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Vancouver, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Vancouver, CA
+	</str>
+	<str name="Agent/Attorney">
+		KATTEN MUCHIN ROSENMAN LLP
+	</str>
+	<str name="Primary Examiner">
+		HOPKINS, ROBERT A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

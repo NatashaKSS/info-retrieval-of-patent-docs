@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7588687
+	</str>
+	<str name="Application Number">
+		US11477300
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for separating electrolytes
+	</str>
+	<str name="Abstract">
+		The present invention is directed to a method of separating electrolytes by size exclusion chromatography using neutral microporous sorbent materials. Two types of sorbents have shown to be most promising: microporous non-functionalized hypercrosslinked polystyrene materials with a pore size comparable to diameters of hydrated electrolyte ions, and microporous activated carbons prepared by pyrolysis of hypercrosslinked polystyrene sorbent beads. In this method, a column comprising hypercrosslinked polystyrene sorbent beads is loaded with a solution of electrolytes, and then eluted with water. Electrolytes with the largest ions elute first, and those with the smallest ions elute last. Selectivity of separation rises with the concentration of the mixture to be separated. With concentrated initial mixtures, concentration of separated components exceeds their concentration in the initial mixture.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-06-28
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-06
+	</str>
+	<str name="Publication Date">
+		2009-09-15
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		B01D15/08
+	</str>
+	<str name="IPC Primary">
+		B01D15/08
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D15
+	</str>
+	<str name="All UPC">
+		210/198.2 | 210/635 | 210/656
+	</str>
+	<str name="UPC Primary">
+		210/198.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20070000837A1 | US7588687
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		European Search Report, mailed Jan. 29, 2009, which issued during the prosecution of European Application No. 05808380.9 which corresponds to the present application. cited by other. | Davankov (Journal of Chromatography A, 965 (2002) 65-73. cited by examiner . | Davankov. V.A, Tsyurupa M.P., Alexienko N.N. &quot;Competition between ions in size exclusion chromatography of electrolytes on neutral microporous materials&quot; (2005) Mendeleev Commun., 15(5): 192-193. cited by other . | Davanko, Reactive Polymers, 13 (1990), pp. 27-42. cited by examiner . | Davankov, V. A. et al.; Selectivity in Preparative Separations of Inorganic Electrolytes by Size-Exclusion Chromatography on Hypercrosslinked Polystyrene and Microporous Carbons; Journal of Chromatography A; 1100 (2005); pp. 32-39; Elsevier. cited by other . | Tsyurupa, M.P. et al., Sorption of Water and Electrolytes by Ion Exchange Resins and Neutral Sorbents with Hypercrosslinked Polystyrene Matrix, Ion Exchange Technology for Today and Tomorrow, 2004 pp. Abstract and pp. 342-346. cited by other . | Davankov V.A., Tsyurupa M.P. &quot;Preparative frontal size-exclusion chromatography of mineral ions on neutral hypercrosslinked polystyrene&quot; (2005) J. Chromatography. A, 1087: 3-12. cited by other . | Tsyurupa M.P. et al.; A New Exclusion Chromatographic Process: Separation of Inorganic Electrolytes on a Neutral Hyper-Cross-Linked Polystyrene Sorbent; Nauka/Interperiodica; 2004; 198-200;vol. 398, No. 2; Russian Academy of Sciences; Moscow, Russia; Translated from Doklady Akademii Nauk. cited by other . | Davankov, V.A. et al, Selectivity in Preparative Separations of Inorganic Electrolytes by Size Exclusion Chromatography on Hypercrosslinked Polystyrene and MicroPorous Carbons, A.N. Nesmeyanov-Institute of Organoelemet Compounds, Russian Academy of Sciences, Jun. 2005, pp. 1-19. cited by other .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20020162386 | US20050123970 | US6808635 | US6497675 | US20060169638 | US7449116 | US20020125142 | US20030027879 | US7112277 | US5667693 | US6323249 | US20050156136 | US3729457 | US5382294 | US5486289 | WO2005069825 | EP0987221
+	</str>
+	<str name="Cites Count">
+		17
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		47730006 | 2005036175 | 69599305
+	</str>
+	<str name="Priority Date">
+		2006-06-28 | 2005-10-06 | 2005-07-01
+	</str>
+	<str name="Assignee(s)">
+		PUROLITE INTERNATIONAL, LTD.
+	</str>
+	<str name="1st Assignee">
+		PUROLITE INTERNATIONAL, LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Llantrisant, GB
+	</str>
+	<str name="Assignee(s) Address">
+		Llantrisant, GB
+	</str>
+	<str name="Inventor(s)">
+		DAVANKOV, VADIM, A. | TSYURUPA, MARIA, P.
+	</str>
+	<str name="1st Inventor">
+		DAVANKOV, VADIM, A.
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Moscow, RU
+	</str>
+	<str name="Inventor(s) Address">
+		Moscow, RU | Moscow, RU
+	</str>
+	<str name="Agent/Attorney">
+		DARBY &amp; DARBY P.C.
+	</str>
+	<str name="Primary Examiner">
+		THERKORN, ERNEST G
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

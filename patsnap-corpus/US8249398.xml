@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8249398
+	</str>
+	<str name="Application Number">
+		US12/635849
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Image retrieval system and method
+	</str>
+	<str name="Abstract">
+		An image retrieval method applies an application server, one or more calculating servers, and a sorting server to perform image retrieval. The application server extracts visual features of an exemplary image. The one or more calculating servers calculate similarities of available images according to the visual features of the exemplary image. The sorting server sorts the available images according to the similarities so as to obtain images similar to the exemplary image.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-12-11
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-12
+	</str>
+	<str name="Publication Date">
+		2012-08-21
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-08
+	</str>
+	<str name="All IPC">
+		G06K9/34 | G06K9/40 | G06K9/32 | G06K9/60
+	</str>
+	<str name="IPC Primary">
+		G06K9/34
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/305 | 382/164 | 382/266 | 382/294
+	</str>
+	<str name="UPC Primary">
+		382/305
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6594386 | US6801657 | US7421125 | US7616793 | US7657100 | US7660468 | US7840076 | US8082263 | US20020178057 | US20030072488 | US20060147099 | US20110200260 | CN101038674 | CN101231662
+	</str>
+	<str name="Cites Count">
+		14
+	</str>
+	<str name="Priority Country">
+		CN
+	</str>
+	<str name="Priority Number">
+		200910300147
+	</str>
+	<str name="Priority Date">
+		2009-01-12
+	</str>
+	<str name="Assignee(s)">
+		HONG FU JIN PRECISION INDUSTRY (SHENZHEN) CO., LTD. (SHENZHEN, GUANGDONG PROVINCE, CN) HON HAI PRECISION INDUSTRY CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		HONG FU JIN PRECISION INDUSTRY (SHENZHEN) CO., LTD. (SHENZHEN, GUANGDONG PROVINCE, CN) HON HAI PRECISION INDUSTRY CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tu-Cheng, New Taipei, TW
+	</str>
+	<str name="Assignee(s) Address">
+		Tu-Cheng, New Taipei, TW
+	</str>
+	<str name="Inventor(s)">
+		LEE, CHUNG-I | YEH, CHIEN-FA | XIAO, WEI-QING
+	</str>
+	<str name="1st Inventor">
+		LEE, CHUNG-I
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Taipei, Hsien, TW
+	</str>
+	<str name="Inventor(s) Address">
+		Taipei, Hsien, TW | Taipei, Hsien, TW | Shenzhen, CN
+	</str>
+	<str name="Agent/Attorney">
+		ALTIS LAW GROUP, INC.
+	</str>
+	<str name="Primary Examiner">
+		ALLISON, ANDRAE S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

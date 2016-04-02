@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7560027
+	</str>
+	<str name="Application Number">
+		US11/900745
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for treating wastewater and sludge
+	</str>
+	<str name="Abstract">
+		A method and an apparatus for treating organic wastewater and sludge which remarkably reduce the generated amount of sludge at a much lower running cost, and which reduce the size and the capacity of the solubilization tank. The method and apparatus for treating sludge employs a biological treatment system, wherein a biological treatment of wastewater is carried out, and a solid-liquid separation unit for separating a solid from a liquid in the wastewater after the biological treatment, to obtain a treated wastewater and a sludge. The apparatus has a means for obtaining a withdrawn sludge from a part of the sludge and an alkali-treatment tank, wherein an alkali-treatment of the withdrawn sludge is carried out. The apparatus also has a biological solubilization tank which solubilizes the sludge after the alkali-treatment under an anaerobic, anoxic or microaerophilic condition, and a means for recycling the solubilized sludge to the biological treatment system.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2007-09-13
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-09
+	</str>
+	<str name="Publication Date">
+		2009-07-14
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-07
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/620 | 210/621 | 210/623 | 210/630 | 210/749
+	</str>
+	<str name="UPC Primary">
+		210/620
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7560027 | US20080110825A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4208282 | US4473590 | US4559305 | US4915840 | US4945939 | US5385650 | US5916448 | US6083395 | US6168717 | US6203722 | US6660163 | US20020070179 | US20030168182 | US20030217968 | US20040152881 | US20050255216 | JP1997253684 | JP2000271598 | JP2001347296
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2002-195085 | 2002-312939
+	</str>
+	<str name="Priority Date">
+		2002-07-03 | 2002-10-28
+	</str>
+	<str name="Assignee(s)">
+		JFE ENGINEERING CORPORATION
+	</str>
+	<str name="1st Assignee">
+		JFE ENGINEERING CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		YAMAGUCHI, TOYOSHI | MIYAZAWA, KUNIO | YAO, YASUKI | TSUBONE, TOSHIAKI | MIYATA, JUN | YOMURA, YOSHINORI
+	</str>
+	<str name="1st Inventor">
+		YAMAGUCHI, TOYOSHI
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kawasaki, JP | Sakura, JP | Tokyo, JP | Tokyo, JP | Yokohama, JP | Kawasaki, JP
+	</str>
+	<str name="Agent/Attorney">
+		FRISHAUF, HOLTZ, GOODMAN &amp; CHICK, P.C.
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

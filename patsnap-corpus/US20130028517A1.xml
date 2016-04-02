@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20130028517A1
+	</str>
+	<str name="Application Number">
+		US13/541126
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		APPARATUS, METHOD, AND MEDIUM DETECTING OBJECT POSE
+	</str>
+	<str name="Abstract">
+		An apparatus and method detecting an object pose are provided. Key joint data of an object may be extracted, a candidate pose may be generated based on the extracted key joint data, and a most likely pose may be retrieved using a database, based on the generated candidate pose.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2012-07-03
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-07
+	</str>
+	<str name="Publication Date">
+		2013-01-31
+	</str>
+	<str name="Publication Year">
+		2013
+	</str>
+	<str name="Publication(Year/Month)">
+		2013-01
+	</str>
+	<str name="All IPC">
+		G06K9/62 | G06K9/34
+	</str>
+	<str name="IPC Primary">
+		G06K9/62
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/173 | 382/195
+	</str>
+	<str name="UPC Primary">
+		382/173
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		KR
+	</str>
+	<str name="Priority Number">
+		10-2011-0074546
+	</str>
+	<str name="Priority Date">
+		2011-07-27
+	</str>
+	<str name="Assignee(s)">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="1st Assignee">
+		SAMSUNG ELECTRONICS CO., LTD.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Suwon-si, KR
+	</str>
+	<str name="Assignee(s) Address">
+		Suwon-si, KR
+	</str>
+	<str name="Inventor(s)">
+		YOO, BYUNG, IN | CHOI, CHANG, KYU | HAN, JAE, JOON
+	</str>
+	<str name="1st Inventor">
+		YOO, BYUNG, IN
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Hwaseong-si, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Hwaseong-si, KR | Seoul, KR | Hwaseong-si, KR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

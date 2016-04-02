@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8029680
+	</str>
+	<str name="Application Number">
+		US12675406
+	</str>
+	<str name="Title">
+		Filtration apparatus and filtration method
+	</str>
+	<str name="Abstract">
+		A filtration apparatus and a filtration method are provided. The filtration apparatus includes a filter medium, a first filter layer of a first filter aid disposed on an upstream side of the filter medium, and a second filter layer of a second filter aid disposed on an upstream side of the first filter layer. The first filter aid has a particle size distribution primarily including coarse particles, a representative particle diameter of which is smaller than a representative dimension of openings in the filter medium. The first aid forms bridges over the openings. The second filter aid has a particle size distribution primarily including fine particles, which are smaller than the first filter aid and which themselves cannot form bridges over the openings. The openings of the filter medium and the particles of the second filter layer are adjusted in size by bridging phenomenon of the first filter aid.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-08-25
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-08
+	</str>
+	<str name="Publication Date">
+		2011-10-04
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-10
+	</str>
+	<str name="All IPC">
+		B01D37/02 | B01D24/02 | C02F1/00
+	</str>
+	<str name="IPC Primary">
+		B01D37/02
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D37
+	</str>
+	<str name="All UPC">
+		210/778 | 210/290 | 210/777 | 210/193
+	</str>
+	<str name="UPC Primary">
+		210/778
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Preliminary Examination Report (PCT/ISA/237) for PCT/JP2008/002286, dated Sep. 30, 2009, 6 pages. cited by other. | International Search Report (PCT/ISA/210) for PCT/JP2008/002286, dated Sep. 30, 2009, 5 pages. cited by other .
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By">
+		US8309711
+	</str>
+	<str name="Cited By Count">
+		1
+	</str>
+	<str name="Cites">
+		US20100300987 | JP1991038117 | JP2002336613 | EP2184096 | JP1981060400 | JP2008018349 | JP1977090871 | JP2006102283
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2007224898
+	</str>
+	<str name="Priority Date">
+		2007-08-30
+	</str>
+	<str name="Assignee(s)">
+		KYUSHU UNIVERSITY, NATIONAL UNIVERSITY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		KYUSHU UNIVERSITY, NATIONAL UNIVERSITY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Fukuoka, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Fukuoka, JP
+	</str>
+	<str name="Inventor(s)">
+		SHINODA, TAKESHI | MONONOBE, SAKIYORI
+	</str>
+	<str name="1st Inventor">
+		SHINODA, TAKESHI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Fukuoka, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Fukuoka, JP | Chiba, JP
+	</str>
+	<str name="Agent/Attorney">
+		SUGHRUE MION, PLLC
+	</str>
+	<str name="Primary Examiner">
+		POPOVICS, ROBERT JAMES
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		WO2011079750A1
+	</str>
+
+	<str name="Application Number">
+		PCT/CN2010/080231
+	</str>
+
+	<str name="Kind Code">
+		A1
+	</str>
+
+	<str name="Title">
+		BATTERY MANAGEMENT DEVICE AND PORTABLE COMPUTER
+	</str>
+
+	<str name="Abstract">
+		A battery management device (1) and a portable computer. The battery management device (1) is used for managing a rechargeable battery (3) disposed within the portable computer. The portable computer includes a charging circuit (2) for charging the battery (3). The battery management device (1) includes a discharging circuit (14) for discharging the battery (3); an obtaining module (11) for obtaining a mode determination parameter; a first determination module (12) for determining whether or not to enter a battery storage mode according the mode determination parameter; and a first control module (13) for controlling the charging circuit (2) or the discharging circuit (14) in the battery storage mode so that the power of the battery (3) is controlled to be lower than a second power threshold. The performance of the battery (3) which is stored with its power lower than the second power threshold is better than the performance of the battery (3) which is stored with its power higher than the second power threshold. The battery management device (1) can delay the deterioration of the capacity of the rechargeable battery (3) within the portable computer.
+	</str>
+
+	<str name="Document Types">
+		WO
+	</str>
+
+	<str name="Application Date">
+		2010-12-24
+	</str>
+
+	<str name="Application Year">
+		2010
+	</str>
+
+	<str name="Application(Year/Month)">
+		2010-12
+	</str>
+
+	<str name="Publication Date">
+		2011-07-07
+	</str>
+
+	<str name="Publication Year">
+		2011
+	</str>
+
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+
+	<str name="All IPC">
+		H01M10/42
+	</str>
+
+	<str name="IPC Primary">
+		H01M10/42
+	</str>
+
+	<str name="IPC Section">
+		H
+	</str>
+
+	<str name="IPC Class">
+		H01
+	</str>
+
+	<str name="IPC Subclass">
+		H01M
+	</str>
+
+	<str name="IPC Group">
+		H01M10
+	</str>
+
+	<str name="Family Member Count">
+		0
+	</str>
+
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+
+	<str name="Other References Count">
+		0
+	</str>
+
+	<str name="Priority Country">
+		CN
+	</str>
+
+	<str name="Priority Number">
+		200910244487.7
+	</str>
+
+	<str name="Priority Date">
+		2009-12-31
+	</str>
+
+	<str name="Assignee(s)">
+		&#21271;&#20140;&#32852;&#24819;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | &#32852;&#24819;&#65288;&#21271;&#20140;&#65289;&#26377;&#38480;&#20844;&#21496; | &#36213;&#21452;&#25104; | &#31243;&#23389;&#20161; | &#26519;&#23041;&#24535; | &#23002;&#29618;
+	</str>
+
+	<str name="1st Assignee">
+		&#21271;&#20140;&#32852;&#24819;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496;
+	</str>
+
+	<str name="Number of Assignees">
+		6
+	</str>
+
+	<str name="1st Assignee Address">
+		&#20013;&#22269;&#21271;&#20140;&#24066;&#28023;&#28096;&#21306;&#19978;&#22320;&#20449;&#24687;&#20135;&#19994;&#22522;&#22320;&#21019;&#19994;&#36335;6&#21495;&#22235;&#23618;, Beijing 100085 100085 CN
+	</str>
+
+	<str name="Assignee(s) Address">
+		&#21271;&#20140;&#32852;&#24819;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | &#32852;&#24819;&#65288;&#21271;&#20140;&#65289;&#26377;&#38480;&#20844;&#21496; | &#36213;&#21452;&#25104; | &#31243;&#23389;&#20161; | &#26519;&#23041;&#24535; | &#23002;&#29618;
+	</str>
+
+	<str name="cited by within 3 years">
+		0
+	</str>
+
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>

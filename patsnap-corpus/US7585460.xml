@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7585460
+	</str>
+	<str name="Application Number">
+		US10831139
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for inhibiting the biological acidification of water in contact with materials containing sulfur
+	</str>
+	<str name="Abstract">
+		The invention relates to a method for inhibiting the biological acidification of water which is in contact with materials containing sulfur in reduced form or with elemental sulfur, susceptible to oxidation on the part of Thiobacilli, comprising putting said materials in contact with soluble inorganic salts at concentrations ranging from 0.4 normal to saturation.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-04-26
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-04
+	</str>
+	<str name="Publication Date">
+		2009-09-08
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-09
+	</str>
+	<str name="All IPC">
+		A01N59/26 | C02F1/42 | C23F11/04 | C02F1/72 | C23F11/16 | E21C37/00 | B01D24/00 | C23F11/00 | A61L9/00 | C02F1/68 | A01N37/00 | E21B33/13
+	</str>
+	<str name="IPC Primary">
+		A01N59/26
+	</str>
+	<str name="IPC Section">
+		A
+	</str>
+	<str name="IPC Class">
+		A01
+	</str>
+	<str name="IPC Subclass">
+		A01N
+	</str>
+	<str name="IPC Group">
+		A01N59
+	</str>
+	<str name="All UPC">
+		424/618 | 422/15 | 424/619 | 422/14 | 422/32 | 422/12 | 514/558 | 514/363 | 422/37 | 424/614 | 514/557 | 424/615 | 424/616 | 514/559 | 422/29 | 210/285 | 422/28 | 514/560 | 299/11 | 210/749 | 424/601 | 210/763 | 210/764 | 422/900 | 210/688 | 424/604 | 514/970 | 210/759 | 514/495 | 422/1 | 424/613 | 422/18 | 514/392 | 422/3 | 166/292
+	</str>
+	<str name="UPC Primary">
+		424/618
+	</str>
+	<str name="UPC Class">
+		424
+	</str>
+	<str name="Family Members">
+		US20050002825A1 | GB0409363D0 | US7585460 | GB2401360A | GB2401360B | EA006453B1 | NO20041663A
+	</str>
+	<str name="Family Member Count">
+		7
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Internet Printout for definition of Molar Concentration from empria.edu website. cited by examiner . | Interntet Printout for definition of Normal from unc.edu website. cited by examiner.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US3388058 | US6582025 | US6419836 | US4637759 | US6651383 | US3443882 | US4314966 | US3847788 | US6277414 | US5550141
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		IT
+	</str>
+	<str name="Priority Number">
+		MI2003A0882
+	</str>
+	<str name="Priority Date">
+		2003-04-30
+	</str>
+	<str name="Assignee(s)">
+		ENI S.P.A. (ROME, IT), ENITECNOLOGIE S.P.A.
+	</str>
+	<str name="1st Assignee">
+		ENI S.P.A. (ROME, IT), ENITECNOLOGIE S.P.A.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		San Donato Milanese, IT
+	</str>
+	<str name="Assignee(s) Address">
+		San Donato Milanese, IT
+	</str>
+	<str name="Inventor(s)">
+		CRESCENZI, FRANCESCO | CRISARI, ANTONELLA | PIATTI, CESARE, ACHILLE
+	</str>
+	<str name="1st Inventor">
+		CRESCENZI, FRANCESCO
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Rome, IT
+	</str>
+	<str name="Inventor(s) Address">
+		Rome, IT | Rome, IT | Milan, IT
+	</str>
+	<str name="Agent/Attorney">
+		OBLON, SPIVAK, MCCLELLAND, MAIER &amp; NEUSTADT, P.C.
+	</str>
+	<str name="Primary Examiner">
+		WARDEN, JILL
+	</str>
+	<str name="Assistant Examiner">
+		CHORBAJI, MONZER R.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

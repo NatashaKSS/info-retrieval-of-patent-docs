@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5590551
+	</str>
+	<str name="Application Number">
+		US08423534
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Washing machine equipped with bubble producing apparatus and bubble producing control method thereof
+	</str>
+	<str name="Abstract">
+		An improved washing machine equipped with a bubble producing apparatus and a bubble producing control method thereof capable of advantageously reducing the needed amount of detergents and preventing laundry from being damaged and entangled. The washing machine includes a washing machine body; an outer tub disposed inside the washing machine body for receiving detergent-containing water therein; an inner tub disposed inside the outer tub for receiving detergent-containing water and laundry therein and having a plurality of water drain holes formed on the circumferential surface thereof; and a bubble producing apparatus disposed on the bottom of the outer tub for producing bubbles. In addition, there is provided a bubble producing control method for a washing machine equipped with a bubble producing apparatus, which includes a first step which drives a drive motor clockwise and counterclockwise; a second step which computes and compares the number of pulses outputted in accordance with the amount of laundry to be washed so as to compute the amount of laundry in the inner tub; a third step which enters a wash cycle for a predetermined time in accordance with the amount of laundry; a fourth step which performs a normal washing mode in accordance with the number of the pulses; and a fifth, step which sets a detergent-containing circulation and a circulation time in accordance with the amount of laundry.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1995-04-17
+	</str>
+	<str name="Application Year">
+		1995
+	</str>
+	<str name="Application(Year/Month)">
+		1995-04
+	</str>
+	<str name="Publication Date">
+		1997-01-07
+	</str>
+	<str name="Publication Year">
+		1997
+	</str>
+	<str name="Publication(Year/Month)">
+		1997-01
+	</str>
+	<str name="All IPC">
+		D06F17/00
+	</str>
+	<str name="IPC Primary">
+		D06F17/00
+	</str>
+	<str name="IPC Section">
+		D
+	</str>
+	<str name="IPC Class">
+		D06
+	</str>
+	<str name="IPC Subclass">
+		D06F
+	</str>
+	<str name="IPC Group">
+		D06F17
+	</str>
+	<str name="All UPC">
+		261/DIG75 | 261/76 | 68/183
+	</str>
+	<str name="UPC Primary">
+		261/DIG75
+	</str>
+	<str name="UPC Class">
+		261
+	</str>
+	<str name="Family Members">
+		JP1995289773A | CN1114991A | CN1067733C | US5590551
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		16
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US6085556 | WO2000039025A1 | CN101173451B | EP1171380B1 | US7566397 | US6303085 | US7637129 | EP1918441A1 | US7320749 | US6474627 | US6662600 | US6668556 | US6848258 | US6868701 | US6485003
+	</str>
+	<str name="Cited By Count">
+		15
+	</str>
+	<str name="Cites">
+		US5167798 | US2453620 | US1768702 | US4936689 | GB586528 | IT536985 | FR1058156 | JP1992012796 | JP1984232581 | DE594594
+	</str>
+	<str name="Cites Count">
+		10
+	</str>
+	<str name="Priority Country">
+		KR | KR
+	</str>
+	<str name="Priority Number">
+		8037/1994 | 12436/1994
+	</str>
+	<str name="Priority Date">
+		1994-04-16 | 1994-06-02
+	</str>
+	<str name="Assignee(s)">
+		LG ELECTRONICS INC.
+	</str>
+	<str name="1st Assignee">
+		LG ELECTRONICS INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		KR
+	</str>
+	<str name="Assignee(s) Address">
+		KR
+	</str>
+	<str name="Inventor(s)">
+		HONG, SEOG, J.
+	</str>
+	<str name="1st Inventor">
+		HONG, SEOG, J.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Seoul, KR
+	</str>
+	<str name="Inventor(s) Address">
+		Seoul, KR
+	</str>
+	<str name="Agent/Attorney">
+		OSTROLENK, FABER, GERB &amp; SOFFEN, LLP
+	</str>
+	<str name="Primary Examiner">
+		COE, PHILIP R.
+	</str>
+	<str name="cited by within 3 years">
+		4
+	</str>
+	<str name="cited by within 5 years">
+		7
+	</str>
+</doc>
+

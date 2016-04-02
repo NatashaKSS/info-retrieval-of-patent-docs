@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7389639
+	</str>
+	<str name="Application Number">
+		US10870569
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Water recovery and purification
+	</str>
+	<str name="Abstract">
+		A system for recovering and purifying water from a gas stream may include, a gas stream purification unit for purifying the gas stream, a water separation unit for separating water from the purified gas stream, and a water purification unit for purifying the water separated by the water separation unit. The gas stream purification unit may include comprise a soot reactor and a catalytic oxidation reactor or both. The water separation unit may include a condenser, a water extractor and a cyclic reverse osmosis system.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-06-16
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-06
+	</str>
+	<str name="Publication Date">
+		2008-06-24
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-06
+	</str>
+	<str name="All IPC">
+		F01N3/02
+	</str>
+	<str name="IPC Primary">
+		F01N3/02
+	</str>
+	<str name="IPC Section">
+		F
+	</str>
+	<str name="IPC Class">
+		F01
+	</str>
+	<str name="IPC Subclass">
+		F01N
+	</str>
+	<str name="IPC Group">
+		F01N3
+	</str>
+	<str name="All UPC">
+		60/309 | 60/297 | 210/900 | 60/274 | 210/694 | 210/669
+	</str>
+	<str name="UPC Primary">
+		60/309
+	</str>
+	<str name="UPC Class">
+		60
+	</str>
+	<str name="Family Members">
+		US7389639 | US20040258597A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		6
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By">
+		US8021542 | US8182584 | US7765794 | US8020313 | US7537702 | US7669349
+	</str>
+	<str name="Cited By Count">
+		6
+	</str>
+	<str name="Cites">
+		US4656831 | US20030188850 | US6001244 | US20060091048 | US20060226081 | US2479766 | US4725359 | US6581375 | US7000409 | US5670053 | US6537456
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		87056904 | 48055603
+	</str>
+	<str name="Priority Date">
+		2004-06-16 | 2003-06-20
+	</str>
+	<str name="Assignee(s)">
+		HONEYWELL INTERNATIONAL INC.
+	</str>
+	<str name="1st Assignee">
+		HONEYWELL INTERNATIONAL INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Morristown, NJ
+	</str>
+	<str name="Assignee(s) Address">
+		Morristown, NJ
+	</str>
+	<str name="Inventor(s)">
+		MICHALAKOS, PETER, M. | KOCH, MARK, B. | JOHNSON, RUSS | LUPTON, FRANCIS, S.
+	</str>
+	<str name="1st Inventor">
+		MICHALAKOS, PETER, M.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Chicago, IL
+	</str>
+	<str name="Inventor(s) Address">
+		Chicago, IL | Mount, Prospect, IL | Elmhurst, IL | Evanston, IL
+	</str>
+	<str name="Agent/Attorney">
+		CAGLAR, ESQ., ORAL
+	</str>
+	<str name="Primary Examiner">
+		NGUYEN, TU M.
+	</str>
+	<str name="cited by within 3 years">
+		2
+	</str>
+	<str name="cited by within 5 years">
+		2
+	</str>
+</doc>
+

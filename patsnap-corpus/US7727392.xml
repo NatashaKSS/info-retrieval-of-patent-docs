@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7727392
+	</str>
+	<str name="Application Number">
+		US12209421
+	</str>
+	<str name="Title">
+		System for converting kinetic energy from Brownian motion of gases or liquids to useful energy, force and work
+	</str>
+	<str name="Abstract">
+		A system for producing energy includes a solvent chamber, a pressure chamber and a semi-permeable barrier separating the solvent chamber from the pressure chamber. The solvent chamber for holds a solvent, and the pressure chamber hold a solute solution comprising a solute dissolved in a solvent. The semi-permeable barrier is permeable to solvent molecules and impermeable to solute molecules. Solvent molecules effuse across the semi-permeable barrier into the solute solution of the closed pressure chamber to increase the pressure of the pressure chamber, thereby generating energy in the form of hydrostatic pressure. A conversion device may convert the increased pressure in the pressure chamber to energy. The solute solution may be expelled and recycled after use.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-09-12
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-09
+	</str>
+	<str name="Publication Date">
+		2010-06-01
+	</str>
+	<str name="Publication Year">
+		2010
+	</str>
+	<str name="Publication(Year/Month)">
+		2010-06
+	</str>
+	<str name="All IPC">
+		B01D61/00 | B01D63/00
+	</str>
+	<str name="IPC Primary">
+		B01D61/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D61
+	</str>
+	<str name="All UPC">
+		210/257.2 | 210/321.72 | 210/258 | 210/652 | 210/321.6
+	</str>
+	<str name="UPC Primary">
+		210/257.2
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Ravillous, K. Salt Solution: Cheap power from the river's mouth, Feb. 25, 2009. Downloaded from www.newscientist.com on Mar. 19, 2009. cited by other.
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Cites">
+		US3978344 | US4177146 | US6447259 | US5089123 | US6224572 | US5306428 | US4776171 | US4288326 | US5066371 | US6491813 | US5755102 | US4530963 | US4585559 | US4626416 | US5173179 | US3906250 | US4193267 | US6017200 | US6313545 | DE3121968 | WO2002062708 | EP1050338 | JP1983005364
+	</str>
+	<str name="Cites Count">
+		23
+	</str>
+	<str name="Assignee(s)">
+		EFFUSION DYNAMICS LLC
+	</str>
+	<str name="1st Assignee">
+		EFFUSION DYNAMICS LLC
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Boston, MA
+	</str>
+	<str name="Assignee(s) Address">
+		Boston, MA
+	</str>
+	<str name="Inventor(s)">
+		DEVOE, IRVING, W.
+	</str>
+	<str name="1st Inventor">
+		DEVOE, IRVING, W.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Marblehead, MA
+	</str>
+	<str name="Inventor(s) Address">
+		Marblehead, MA
+	</str>
+	<str name="Agent/Attorney">
+		BURNS &amp; LEVINSON LLP ERLICH, JACOB N.
+	</str>
+	<str name="Primary Examiner">
+		MENON, KRISHNAN S
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

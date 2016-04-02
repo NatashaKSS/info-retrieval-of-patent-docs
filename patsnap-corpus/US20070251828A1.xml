@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20070251828A1
+	</str>
+	<str name="Application Number">
+		US10569120
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Gas Sparging
+	</str>
+	<str name="Abstract">
+		The invention relates to a method for operating interacting different units, particularly of an installation, with different controllers that control these advanced control sequences, particularly with different control pulses. The inventive method is characterized in that the clock pulses (IPO.sub.i) of the different controllers (3.1, 3.2, 3.3) are interpolated to a common system clock pulse (t.sub.Tiex), and that the control sequences are synchronized. A device suited for carrying out the inventive method correspondingly comprises at least one common interpolation device (5.3) for the controllers (3.1, 3.2., 3.3) for interpolating the clock pulses (IPO.sub.i) of the different controllers (3.1, 3.2, 3.3) to a common system clock pulse (t.sub.Tiex) and at least one synchronization device (5) for synchronizing the control sequences.
+	</str>
+	<str name="Document Types">
+		US | USA | DOCDB
+	</str>
+	<str name="Application Date">
+		2004-08-18
+	</str>
+	<str name="Application Year">
+		2004
+	</str>
+	<str name="Application(Year/Month)">
+		2004-08
+	</str>
+	<str name="Publication Date">
+		2007-11-01
+	</str>
+	<str name="Publication Year">
+		2007
+	</str>
+	<str name="Publication(Year/Month)">
+		2007-11
+	</str>
+	<str name="All IPC">
+		B05B7/00 | C25D3/38
+	</str>
+	<str name="IPC Primary">
+		B05B7/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B05
+	</str>
+	<str name="IPC Subclass">
+		B05B
+	</str>
+	<str name="IPC Group">
+		B05B7
+	</str>
+	<str name="All UPC">
+		205/291 | 118/300
+	</str>
+	<str name="UPC Primary">
+		205/291
+	</str>
+	<str name="UPC Class">
+		205
+	</str>
+	<str name="Family Members">
+		CA2536117A1 | US20070251828A1 | JP2007503525A | WO2005019502A1
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Priority Country">
+		AU
+	</str>
+	<str name="Priority Number">
+		2003904575
+	</str>
+	<str name="Priority Date">
+		2003-08-22
+	</str>
+	<str name="Assignee(s)">
+		BHP BILLITON INNOVATION PTY
+	</str>
+	<str name="1st Assignee">
+		BHP BILLITON INNOVATION PTY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		VICTORIA,AU
+	</str>
+	<str name="Assignee(s) Address">
+		VICTORIA,AU
+	</str>
+	<str name="Inventor(s)">
+		GRAZIER PHILLIP | RIGBY DAVID | STUART ALAN
+	</str>
+	<str name="1st Inventor">
+		GRAZIER PHILLIP
+	</str>
+	<str name="Number of Inventors">
+		3
+	</str>
+	<str name="1st Inventor Address">
+		Kilaben Bay,AU
+	</str>
+	<str name="Inventor(s) Address">
+		Kilaben Bay,AU | Charlestown,AU | New Lambton,AU
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

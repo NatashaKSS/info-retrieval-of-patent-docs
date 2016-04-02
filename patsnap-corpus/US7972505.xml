@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7972505
+	</str>
+	<str name="Application Number">
+		US12177553
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Primary equalization settling tank
+	</str>
+	<str name="Abstract">
+		Disclosed is a system for treating waste water. The system may be applied to any application for the treatment of waste water which benefits from an equalized flow into the waste water treatment processes, such as industrial batch discharges, storm water settling and screening, and septic receiving at a waste water treatment plant. The system comprises a single primary settling tank for the processes of grit removal, flow equalization, fine screening and primary clarification. The system further comprises the use of a flow measurement device on the discharge side of the primary settling tank to provide a uniform flow to downstream processes. The system further comprises placement of a fine screen on a discharge mechanism which controls the effluent flow from the primary settling tank.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2008-07-22
+	</str>
+	<str name="Application Year">
+		2008
+	</str>
+	<str name="Application(Year/Month)">
+		2008-07
+	</str>
+	<str name="Publication Date">
+		2011-07-05
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-07
+	</str>
+	<str name="All IPC">
+		B01D21/00 | B01D21/30 | B01D21/24 | C02F1/00
+	</str>
+	<str name="IPC Primary">
+		B01D21/00
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B01
+	</str>
+	<str name="IPC Subclass">
+		B01D
+	</str>
+	<str name="IPC Group">
+		B01D21
+	</str>
+	<str name="All UPC">
+		210/411 | 210/170.08 | 210/534 | 210/359 | 210/137 | 210/109 | 210/533 | 210/299 | 210/313
+	</str>
+	<str name="UPC Primary">
+		210/411
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Cites">
+		US5503747 | US5149344 | US4405458 | US4775467 | US20090236278 | US7311818 | US4693821 | US5587067 | US6251286 | US4891128 | US6915818 | KR00406908 | JP1997276606
+	</str>
+	<str name="Cites Count">
+		13
+	</str>
+	<str name="Assignee(s)">
+		TRANS TERRA CORPORATION
+	</str>
+	<str name="1st Assignee">
+		TRANS TERRA CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rochester, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Rochester, NY
+	</str>
+	<str name="Inventor(s)">
+		WRIGHT, TERRY
+	</str>
+	<str name="1st Inventor">
+		WRIGHT, TERRY
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Rochester, NY
+	</str>
+	<str name="Inventor(s) Address">
+		Rochester, NY
+	</str>
+	<str name="Agent/Attorney">
+		HARRIS BEACH PLLC SLIFKIN, NEAL L.
+	</str>
+	<str name="Primary Examiner">
+		SMITH, DUANE
+	</str>
+	<str name="Assistant Examiner">
+		DURAND, PAUL J
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

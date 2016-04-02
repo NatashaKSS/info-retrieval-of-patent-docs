@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		EP0630503A1
+	</str>
+	<str name="Application Number">
+		EP1992923056
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		IDENTIFICATION OF ANATOMICAL FEATURES FROM DATA
+	</str>
+	<str name="Abstract">
+		A nuclear medicine image is scanned and pixels of maximum and minimum intensity are identified and correlated with each other using constraints which are empirically determined to relate to the feature of interest (such as the heart). The information thus obtained is used to define a region of interest in which an anatomical feature of interest may be located, and to position a scintillation camera detector to carry out a nuclear medicine study at optimal positions. To properly position a subject patient, anatomical landmarks relating to a target organ are automatically identified by a computer. The landmarks are superimposed upon a nuclear medicine persistence image of the target organ. This facilitates technician identification of the target organ and also facilitates repeatability of, e.g., myocardial perfusion studies, which require that two studies be performed on a single patient at two different times. To determine the depth of the target organ, two planar nuclear medicine images of a target organ are acquired using a focussing collimator at two different heights. An anatomical landmark associated with the target organ is computer-identified in each of the images, and the depth of the target organ is determined geometrically using the differences in size between the images of the identified landmark and the differences in height.
+	</str>
+	<str name="Document Types">
+		EP | EPA | DOCDB
+	</str>
+	<str name="Application Date">
+		1992-10-06
+	</str>
+	<str name="Application Year">
+		1992
+	</str>
+	<str name="Application(Year/Month)">
+		1992-10
+	</str>
+	<str name="Publication Date">
+		1994-12-28
+	</str>
+	<str name="Publication Year">
+		1994
+	</str>
+	<str name="Publication(Year/Month)">
+		1994-12
+	</str>
+	<str name="All IPC">
+		G06F15/70 | G06F15/68
+	</str>
+	<str name="IPC Primary">
+		G06F15/70
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F15
+	</str>
+	<str name="Family Members">
+		WO1993018470A1 | JP1995504506A | EP0630503A1 | IL104426A
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		See references of WO     9318470A1
+	</str>
+	<str name="Other References Count">
+		1
+	</str>
+	<str name="Priority Country">
+		US | US | US
+	</str>
+	<str name="Priority Number">
+		848769 | 860835 | 896692
+	</str>
+	<str name="Priority Date">
+		1992-03-10 | 1992-03-31 | 1992-06-10
+	</str>
+	<str name="Assignee(s)">
+		SIEMENS MEDICAL SYSTEMS, INC.
+	</str>
+	<str name="1st Assignee">
+		SIEMENS MEDICAL SYSTEMS, INC.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address"/>
+	<str name="Assignee(s) Address"/>
+	<str name="Inventor(s)">
+		QIAN, JIANZHONG | HAWMAN, PEGGY, C
+	</str>
+	<str name="1st Inventor">
+		QIAN, JIANZHONG
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address"/>
+	<str name="Inventor(s) Address"/>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

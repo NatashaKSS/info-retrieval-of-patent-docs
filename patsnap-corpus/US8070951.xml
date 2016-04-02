@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8070951
+	</str>
+	<str name="Application Number">
+		US12/487518
+	</str>
+	<str name="Title">
+		Method for removing contaminants from liquids using membrane filtration in combination with particle adsorption to reduce fouling
+	</str>
+	<str name="Abstract">
+		Metal oxide particles heated while immersed in water in a closed container are combined with membrane filtration to remove contaminants from water. The use of the heated particles reduces fouling of the membrane typically encountered when membranes alone are used to remove contaminants from water.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-06-18
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-06
+	</str>
+	<str name="Publication Date">
+		2011-12-06
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-12
+	</str>
+	<str name="All IPC">
+		B03D3/06 | B01D39/00
+	</str>
+	<str name="IPC Primary">
+		B03D3/06
+	</str>
+	<str name="IPC Section">
+		B
+	</str>
+	<str name="IPC Class">
+		B03
+	</str>
+	<str name="IPC Subclass">
+		B03D
+	</str>
+	<str name="IPC Group">
+		B03D3
+	</str>
+	<str name="All UPC">
+		210/663 | 210/504 | 210/650 | 210/777 | 210/702 | 502/406 | 210/774 | 210/638 | 210/636
+	</str>
+	<str name="UPC Primary">
+		210/663
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Voges et al., Use of Iron Oxides to Enhance Metal Removal in Crossflow Microfiltration, 2001, Journal of Environmental Engineering, pp. 411-419. cited by examiner . | Shi, W., and M.M. Benjamin, &quot;Membrane Interactions With NOM and an Adsorbent in a Vibratory Shear Enhanced Filtration Process (VSEP) System,&quot; Journal of Membrane Science 312(1-2):23-33, Apr. 2008. cited by other . | Anderson, N.J., et al., &quot;Colour and Turbidity Removal With Reusable Magnetic Particles--III: Immobilized Metal Hydroxide Gels,&quot; Water Research 16(8):1327-1334,1982. cited by other . | Anderson, P.R., and M.M. Benjamin, &quot;Effects of Silicon on the Crystallization and Adsorption Properties of Ferric Oxides,&quot; Environmental Science and Technology 19(11):1048-1053, Nov. 1985. cited by other . | Knocke, W.R., et al., &quot;Soluble Manganese Removal on Oxide-Coated Filter Media,&quot; Journal of the American Water Works Association 80(12):65-70, Dec. 1988. cited by other . | Murray, J.W., &quot;Iron Oxides,&quot; in R.G. Burns (ed.), &quot;Marine Minerals,&quot; Mineralogical Society of America, Reviews in Mineralogy, 1979, vol. 6, Chapter 2, pp. 47-98. cited by other . | Kim, J., et al., &quot;Effects of Adsorbents on Membrane Fouling by Natural Organic Matter,&quot; Journal of Membrane Science 310(1-2):356-364, Mar. 2008. cited by other . | Edwards, M., et al., &quot;Regeneration and Reuse of Iron Hydroxide Adsorbents in Treatment of Electroplating Wastes,&quot; Proceedings of the 60th Industrial Waste Symposium, Philadelphia, 1987, pp. 142-155. cited by other . | Tobiason, J.E., and C.R. O'Melia, &quot;Physicochemical Aspects of Particle Removal in Depth Filtration,&quot; Journal of the American Water Works Association 80(12):54-64, Dec. 1988. cited by other . | Cai, Z., et al., &quot;NOM Removal by Adsorption and Membrane Filtration Using Heated Aluminum Oxide Particles,&quot; Environmental Science &amp; Technology 42(2):619-623, Jan. 2008. cited by other . | Valentine, R.L., et al., &quot;Radium Removal Using Sorption to Filter Sand,&quot; Journal of the American Waterworks Association 79(4):170-176, Apr. 1987. cited by other . | Chen, A.S.C., et al., &quot;Activated Alumina Adsorption of Dissolved Organic Compounds Before and After Ozonation,&quot; Environmental Science &amp; Technology 21(1):83-90, Jan. 1987. cited by other . | Chen, A.S.C., et al., &quot;Activated Alumina for Removing Dissolved Organic Compounds,&quot; Journal of the American Water Works Association 81(1):53-60, Jan. 1989. cited by other . | Hlavay, J., et al., &quot;Removal of Arsenic From Natural Waters,&quot; in L. Pawlowski et al. (eds.), &quot;Chemistry for Protection of the Environment,&quot; Elsevier, New York, 1983, pp. 373-380. cited by other . | Kim, J., et al., &quot;Simultaneous Removal of Phosphorus and Foulants in a Hybrid Coagulation/Membrane Filtration System,&quot; Water Research 42(8-9):2017-2024, Apr. 2008. cited by other . | Kinniburgh, D.G., and M.L. Jackson, &quot;Cation Adsorption by Hydrous Metal Oxides and Clay,&quot; in M.A. Anderson and A.J. Rubin (eds.), &quot;Adsorption of Inorganics at Solid-Liquid Interfaces,&quot; Ann Arbor Science Publishers, Ann Arbor, Mich., pp. 91-160,1981. cited by other . | Anand, P., et al., &quot;Heavy Metals Removal by High Gradient Magnetic Separation,&quot; IEEE Transactions on Magnetics MAG-21(5):2062-2064, Sep. 1985. cited by other . | Davies, S.H.R., and J.J. Morgan, &quot;Manganese(II) Oxidation Kinetics on Metal Oxide Surfaces,&quot; Journal of Colloid and Interface Science 129(1):63-77, Apr. 1989. cited by other . | Schultz, M.F., &quot;Desorption of Cations From Ferrihydrite,&quot; master's thesis, University of Washington, Seattle, Wash., pp. 28-41 and 62-76. cited by other . | Tipping, E., &quot;The Adsorption of Aquatic Humic Substances by Iron Oxides,&quot; Geochimica et Cosmochimica Acta 45(2):191-199, Feb. 1981. cited by other. | Lion, L.W., et al., &quot;Trace-Metal Adsorption Characteristics of Estuarine Particulate Matter: Evaluation of Contributions of Fe/Mn Oxide and Organic Surface Coatings,&quot; Environmental Science &amp; Technology 16(10):660-666, Oct. 1982. cited by other . | Jenne, E.A., &quot;Controls on Mn, Fe, Co, Ni, Cu, and Zn Concentrations in Soils and Water: The Significant Role of Hydrous Mn and Fe Oxides,&quot; in R.A. Baker (ed.), &quot;Trace Inorganics in Water,&quot; ACS Publications: Advances in Chemistry Series, American Chemical Society, Washington, D.C., Jun. 1968, vol. 73, pp. 337-387. cited by other . | Schultz, M.F., et al., &quot;Adsorption and Desorption of Metals on Ferrihydrite: Reversibility of the Reaction and Sorption Properties of the Regenerated Solid,&quot; Environmental Science &amp; Technology 21(9):863-869, Sep. 1987. cited by other . | Anand, P., &quot;Evaluation of Ion-Exchange Properties of Ferric-Hydroxide Flocs for the Removal of Heavy Metal Wastes Using a High Gradient Magnetic Separator,&quot; doctoral dissertation, Purdue University, Lafayette, Ind., May 1984. cited by other .
+	</str>
+	<str name="Other References Count">
+		24
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5364534 | US4459370 | US4094777 | US3222277 | US4276160 | US4363749 | US3470104 | US4475397 | US2163526 | US2163525 | US2701792 | US6113792 | US3499837 | US2367496 | US5051189 | US5126052 | US4481087 | US4565633 | US2076545 | US2163527 | US5178764 | US5073272 | US5376278 | US5366634 | US5369072 | US5110479 | US3876451
+	</str>
+	<str name="Cites Count">
+		27
+	</str>
+	<str name="Assignee(s)">
+		UNIVERSITY OF WASHINGTON THROUGH ITS CENTER FOR COMMERCIALIZATION
+	</str>
+	<str name="1st Assignee">
+		UNIVERSITY OF WASHINGTON THROUGH ITS CENTER FOR COMMERCIALIZATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Seattle, WA
+	</str>
+	<str name="Assignee(s) Address">
+		Seattle, WA
+	</str>
+	<str name="Inventor(s)">
+		BENJAMIN, MARK, M. | CHANG, YU-JUNG | KIM, JAESHIN | CAI, ZHENXIAO
+	</str>
+	<str name="1st Inventor">
+		BENJAMIN, MARK, M.
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Seattle, WA
+	</str>
+	<str name="Inventor(s) Address">
+		Seattle, WA | Bellevue, WA | Midland, MI | Seattle, WA
+	</str>
+	<str name="Primary Examiner">
+		KIM, VICKIE
+	</str>
+	<str name="Assistant Examiner">
+		GIONTA, ALLISON M
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

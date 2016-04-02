@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7569147
+	</str>
+	<str name="Application Number">
+		US11469009
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Screening of inert solids from a low-yield wastewater treatment process
+	</str>
+	<str name="Abstract">
+		A method for removing inert solids from low-yield wastewater treatment processes. The method includes combining wastewater with bacteria-laden sludge in a mainstream reactor to form a mixed liquor, separating the mixed liquor into a clear effluent and activated sludge, returning a first portion of activated sludge to the mainstream reactor, treating a second portion of activated sludge in a sidestream bioreactor prior to returning the second portion of activated sludge to the mainstream reactor, and employing a screening device within the wastewater treatment process to remove inert solids.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-08-31
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-08
+	</str>
+	<str name="Publication Date">
+		2009-08-04
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-08
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/607 | 210/623 | 210/625
+	</str>
+	<str name="UPC Primary">
+		210/607
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7569147 | US20070051677A1
+	</str>
+	<str name="Family Member Count">
+		2
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Abu-Orf, M. M., et al., &quot;Chemical and Physical Pretreatment of ATAD Biosolids for Dewatering,&quot; Water Science Technology, 2001, vol. 44, No. 10, pp. 309-314, IWA Publishing. cited by other . | Dubois, M., et al., &quot;Colorimetric Method for Determination of Sugars and Related Substances,&quot; Analytical Chemistry, 1956, vol. 28, No. 3, pp. 350-356. cited by other . | Rader, &quot;Microrganisms and Their Role in the Activated-Sludge Process,&quot; Web page accessed Jan. 11, 2005, http://www.college.ucla.edu/webproject/micro7/studentprojects7/Rader/aslu- dge2.htm , pp. 1-19. cited by other . | &quot;The Roloshear.RTM. Internally Fed Rotating Drum Screen's Wedgewire Construction Maximizes Capture for Efficient Screening with Minimal Operator Attention,&quot; Jul. 29, 2005, p. 1 of 2-page screen, Parkson Corporation Web Home Page, http://www.parkson.com/Content.aspx?ntopicid=133&amp;parent=municipal&amp;process- ID=149.... cited by other . | Dignac, M.-F., et al., &quot;Chemical Description of Extracellular Polymers: Implication on Activated Sludge Floc Structure,&quot; Water Science Technology, 1998, vol. 38, No. 8-9, pp. 45-53, Elsevier Science Ltd. cited by other . | Urbain, V., et al., &quot;Bioflocculation in Activated Sludge: An Analytic Approach,&quot; Water Research, 1993, vol. 27, No. 5, pp. 829-838, Pergamon Press Ltd. cited by other . | Fukase, T., et al., &quot;Factors Affecting Biological Removal of Phosphorus,&quot; Water Science and Technology, 1985, pp. 187-198, vol. 17, Nos. 11/12, IAWPRC, London. cited by other . | Yasui, H., et al., &quot;A Full-Scale Operation of a Novel Activated Sludge Process Without Excess Sludge Production,&quot; Water Science and Technology, 1996, pp. 395-404, vol. 34, No. 3-4, Elsevier Science Ltd./Pergamon. cited by other . | Chudoba, et al., &quot;Pre-Denitrification Performance of a High-Loaded Anoxic Sludge,&quot; Degremont Research Center, France, 1999. cited by other . | Frolund, B., et al., &quot;Extraction of Extracellular Polymers from Activated Sludge Using a Cation Exchange Resin,&quot; Water Research, 1996, vol. 30, No. 8, pp. 1749-1758, Elsevier Science Ltd. cited by other . | Abu-Orf, M., et al. &quot;Adjusting Floc Cations to Improve Effluent Quality: The Case of Aluminum Addition at Sioux City Wastewater Treatment Facility,&quot; Water Environment Federation, 2004, 16 pgs. cited by other. | Van Loosdrecht, Mark C. M., and Mogens Henze, &quot;Maintenance, Endogeneous Respiration, Lysis, Decay and Predation,&quot; Water Science and Technology, 1999, pp. 107-117, vol. 39, No. 1, IAWQ/Elsevier Science Ltd./Pergamon. cited by other . | Nielsen, Per Halkj.ae butted.r, &quot;The Significance of Microbial FE (III) Reduction in the Activated Sludge Process,&quot; Water Science and Technology, 1996, pp. 129-136, vol. 34, Nos. 5-6, Elsevier Science Ltd./Pergamon. cited by other . | Lowry, O. H., et al., &quot;Protein Measurement with the Folin Phenol Reagent,&quot; J. Bio. Chem., 1951, vol. 193, pp. 265-275. cited by other . | Strand, Stuart E., et al., &quot;Activated-Sludge Yield Reduction Using Chemical Uncouplers,&quot; Water Environment Research, 1999, pp. 454-458, vol. 71, No. 4. cited by other . | Heinzmann, Bernd, and Gerd Engel, &quot;Phosphorus Recycling in Treatment Plants with Biological Phosphorus Removal,&quot; paper presented at the German Federal Environment Ministry, Feb. 6-7, 2003, pp. 1-16, Berlin, Germany. cited by other . | Low, Euan W., and Howard A. Chase, &quot;The Use of Chemical Uncouplers for Reducing Biomass Production During Biodegradation,&quot; Water Science and Technology, 1998, pp. 399-402, vol. 37, No. 4-5, Elsevier Science Ltd./Pergamon. cited by other . | Matsuo, Tomonori, et al., &quot;Metabolism of Organic Substances in Anaerobic Phase of Biological Phosphate Uptake Process,&quot; Water Science and Technology, 1992, pp. 83-92, vol. 25, No. 6, IAWPRC/Pergamon Press Ltd, Oxford. cited by other . | Bruus, J. H., et al., &quot;On the Stability of Activated Sludge Flocs with Implications to Dewatering,&quot; Water Research, 1992, vol. 26, No. 12 pp. 1597-1604, Pergamon Press Ltd. cited by other . | Novak, J. T., et al., &quot;Mechanisms of Floc Destruction During Anaerobic and Aerobic Digestion and the Effect on Conditioning and Dewatering of Biosolids,&quot; Water Research, 2003, vol. 37, pp. 3136-3144, Elsevier Science Ltd. cited by other . | Casey, T. G., et al., &quot;A Hypothesis for the Causes and Control of Anoxic-Aerobic (AA) Filament Bulking in Nutrient Removal Activated Sludge Systems,&quot; Water Science and Technology, 1994, pp. 203-212, vol. 29, No. 7, IAWQ/Pergamon. cited by other . | &quot;Vertical loop reactors--fine bubble power efficiency without fine bubble maintenance&quot; brochure by Envirex Inc., Jan. 1986. cited by other . | Ekama, G. A., et al., &quot;Considerations in the Process Design of Nutrient Removal Activated Sludge Processes,&quot; Water Science and Technology, 1983, pp. 283-318, vol. 15, IAWPRC/Pergamon Press Ltd. cited by other . | &quot;Contrashear filter solutions for waste water,&quot; for Contra Shear.TM., Jul. 29, 2005, p. 1 of 1, http://www.contrashear.co.nz/. cited by other . | Moen, G., et al., &quot;Effect of Solids Retention Time on the Performance of Thermophilic and Mesophilic Digestion of Combined Municipal Wastewater Sludges,&quot; Water Environment Research, 2003, vol. 75, No. 6, pp. 539-548. cited by other . | &quot;The Rotoscreen.TM. Escalating Fine Channel Screen Builds Pre-Coat to Provide High Solids Capture Rates with the Lowest Headloss,&quot; Jul. 29, 2005, p. 1 of 2-page screen, Parkson Corporation Web Home Page, http://www.parkson.com/Content.aspx?ntopicid=120&amp;parent=process&amp;processID- =148. cited by other . | Hong, S., et al., &quot;Biological Phosphorus and Nitrogen Removal Via the A/O Process: Recent Experience in the United States and United Kingdom,&quot; Water Science and Technology, 1984, pp. 151-172, vol. 16, Vienna, Austria. cited by other . | Metcalf &amp; Eddy, Table 8-25, &quot;Description of suspended growth processes for phosphorus removal,&quot; Wastewater Engineering Treatment and Reuse, 4.sup.th ed., 2003, pp. 810-813, McGraw Hill. cited by other . | Ra, et al., &quot;Biological Nutrient Removal with an Internal Organic Carbon Source in Piggery Wastewater Treatment,&quot; Water Research, vol. 34, No. 3, pp. 965-973, 2000. cited by other . | Worthen, Peter T., &quot;The Chesapeake Bay Plan: Restoring An Estuary In Distress,&quot; Water Engineering &amp; Management, Sep. 1994, pp. 18-22, vol. 141, No. 9, ABI/INFORM Global. cited by other . | Nielsen, P. H., et al., &quot;Changes in the Composition of Extracellular Polymeric Substances in Activated Sludge During Anaerobic Storage,&quot; Appl. Microbiol. Biotechnol., 1996, vol. 44, pp. 823-830, Springer-Verlag. cited by other . | Mavinic, D. S., et al., &quot;Fate of Nitrogen in Aerobic Sludge Digestion,&quot; J. Water Pollut. Control Fed., 1982, vol. 54, No. 4, pp. 352-360. cited by other . | Kim, et al., &quot;pH and Oxidation-Reduction Potential Control Strategy for Optimization of Nitrogen Removal in an Alternating Aerobic-Anoxic System,&quot; Water Environment Research, vol. 73, No. 1, 2001. cited by other . | Rasmussen, H., et al., &quot;Iron Reduction in Activated Sludge Measured with Different Extraction Techniques,&quot; Water Research, 1996, vol. 30, No. 3, pp. 551-558, Elsevier Science Ltd. cited by other . | Harrison, D. E. F., and J. E. Loveless, &quot;Transient Responses of Facultatively Anaerobic Bacteria Growing in Chemostat Culture to a Change from Anaerobic to Aerobic Conditions,&quot; Journal of General Microbiology, 1971, pp. 45-52, vol. 68. cited by other . | Caulet, et al., &quot;Modulated Aeration Management by Combined ORP and DO Control: A Guarantee of Quality and Power Savings for Carbon and Nitrogen Removal in Full Scale Wastewater Treatment Plants,&quot; Center of International Research for Water Environment, France, 1999. cited by other . | Murthy, S. N., et al., &quot;Factors Affecting Floc Properties During Aerobic Digestion: Implications for Dewatering,&quot; Water Environment Research, 1999, vol. 71, No. 2, pp. 197-202. cited by other . | Bishop, P. L., et al., &quot;Fate of Nutrients during Aerobic Digestion,&quot; Journal Environ. Eng. Div., Proc. Am. Soc. Civil Eng., 1978, vol. 104 No. EE5, pp. 967-979. cited by other . | U.S. Environmental Protection Agency, &quot;Acid Digestion of Sediments, Sludges, and Soils,&quot; U.S. EPA Method 3050B, 1996, pp. 1-12. cited by other . | Hartree, E.F., &quot;Determination of Protein: A Modification of the Lowry Method that Gives a Linear Photometric Response,&quot; Analytical Biochemistry, 1972, vol. 48, pp. 422-427, Academic Press, Inc. cited by other . | Park, C., et al., &quot;The Effect of Wastewater Cations on Activated Sludge Characteristics: Effects of Aluminum and Iron in Floc,&quot; Water Environment Research, 2006, vol. 78, No. 1, pp. 31-40. cited by other . | Higgins, M. J., et al., &quot;The Effect of Cations on the Settling and Dewatering of Activated Sludges: Laboratory Results,&quot; Water Environment Research, 1997, vol. 69, No. 2, pp. 215-224. cited by other . | Park, C., et al., &quot;The Digestibility of Waste Activated Sludges,&quot; Water Environment Research, 2006, vol. 78, No. 1, pp. 59-68. cited by other . | Chudoba, P., et al., &quot;The Aspect of Energetic Uncoupling of Microbial Growth in the Activated Sludge Process--OSA System,&quot; Water Science and Technology, 1992, pp. 2477-2480, vol. 26, No. 9-11, IAWPRC. cited by other . | Chen et al., Effect of Sludge Fasting/Feasting on Growth of Activated Sludge Cultures, Water. Res., vol. 35, No. 4, 2001, pp. 1029-1037. cited by other . | Mahmoud, N., et al., &quot;Anaerobic Stabilisation and Conversion of Biopolymers in Primary Sludge--Effect of Temperature and Sludge Retention Time,&quot; Water Research, 2004, vol. 38, pp. 983-991, Elsevier Ltd. cited by other . | &quot;Internally-fed Rotary Wedgewire Screens&quot; brochure by Parkson Corporation for Hycor.RTM. Rotoshear.RTM. (year not provided). cited by other . | Bakker, E. P., Chapter IIA, &quot;Cell K.sup.+and K.sup.+Transport Systems in Prokaryotes,&quot; In Alkali Cation Transport Systems in Prokaryotes, Bakker, E.P., Ed., 1993, pp. 205-224, CRC Press. cited by other . | &quot;GAC Fluid Bed Efficient, economical bioremediation of BTEX groundwater&quot; brochure by Envirex Inc., Dec. 1992. cited by other . | Cecchi, F., et al., &quot;Anaerobic Digestion of Municipal Solid Waste,&quot; BioCycle, Jun. 1990, pp. 42-43, vol. 31, No. 6, The JG Press, Inc. cited by other . | Chen, Guang-Hao, et al., &quot;Effect of Sludge Fasting/Feasting on Growth of Activated Sludge Cultures,&quot; Wat. Res., 2001, pp. 1029-1037, vol. 35, No. 4, Elsevier Science Ltd./Pergamon. cited by other . | &quot;Rex VLR/SCC System&quot; brochure by Envirex Inc., Bulletin No. 315-156, Oct. 1989. cited by other . | Yasui, H., and M. Shibata, &quot;An Innovative Approach to Reduce Excess Sludge Production in the Activated Sludge Process,&quot; Water Science and Technology, 1995, pp. 11-20, vol. 30, No. 9, IAWQ/Pergamon. cited by other . | Chen, G-H., et al., &quot;Minimization of activated sludge production by chemically stimulated energy spilling,&quot; Water Science and Technology, 2000, pp. 189-200, vol. 42, No. 12, IWA Publishing. cited by other . | Wentzel, M. C., et al., &quot;Processes and Modelling of Nitrification Denitrification Biological Excess Phosphorus Removal Systems--A Review,&quot; Water Science and Technology, 1992, pp. 59-82, vol. 25, No. 6, IAWPRC/Pergamon Press Ltd., Oxford. cited by other . | Adams, Michael W. W., and Robert M. Kelly, &quot;Enzymes from Microorganisms in Extreme Environments,&quot; Chemical &amp; Engineering News, Dec. 18, 1995, pp. 32-42, vol. 73, No. 51, American Chemical Society, Washington, D.C. cited by other . | Higgins, M. J., et al., &quot;Characterization of Exocellular Protein and Its Role in Bioflocculation,&quot; Journal of Environmental Engineering, 1997, vol. 123, pp. 479-485. cited by other . | Westgarth, W. C., et al., &quot;Anaerobiosis in the Activated-Sludge Process,&quot; (paper presentation and formal discussions) Department of Environmental Sciences and Engineering, School of Public Health, University of North Carolina, Chapel Hill, pp. 43-61 (neither publication information nor year provided). cited by other . | Klopping, et al., &quot;Activated Sludge Microbiology, Filamentous and Non-Filamentous Microbiological Problems and Biological Nutrient Removal,&quot; Water Environment Federation, Plant Operations Specialty Conference, Date Unknown. cited by other . | Holbrook, R. D., et al., &quot;A Comparison of Membrane Bioreactor and Conventional-Activated-Sludge Mixed Liquor and Biosolids Characteristics,&quot; Water Environment Research, 2005, vol. 77, No. 4, pp. 323-330. cited by other . | Valentis, G., and J. Lesavre, &quot;Wastewater Treatment by Attached-Growth Micro-Organisms on a Geotextile Support,&quot; Water Science and Technology, 1990, pp. 43-51, vol. 22, Nos. 1/2, IAWPRC. cited by other . | Kakii, K., et al., &quot;Effect of Calcium Ion on Sludge Characteristics,&quot; J. Ferment. Technol., 1985, vol. 63, No. 3, pp. 263-270. cited by other . | Charpentier, et al., &quot;ORP Regulation and Activated Sludge 15 years of Experience,&quot; 19th Biennial Conference/AWQ of Vancouver--Jun. 1998. cited by other . | Murthy, S. N., et al., &quot;Optimizing Dewatering of Biosolids from Autothermal Thermophilic Aerobic Digesters (ATAD) Using Inorganic Conditioners,&quot; Water Environment Research, 2000, vol. 72, No. 6, pp. 714-721. cited by other . | &quot;Efficient treatment of high strength industrial and municipal wastewater&quot; brochure by Envirex Inc., Jan. 1990. cited by other . | Marais, G. v. R., et al., &quot;Observations Supporting Phosphate Removal by Biological Excess Uptake--A Review,&quot; Water Science and Technology, 1983, pp. 15-41, vol. 15, IAWPRC/Pergamon Press. Ltd. cited by other .
+	</str>
+	<str name="Other References Count">
+		66
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US20050040103 | US4874519 | US6562237 | US5348655 | US5348653 | US6193889 | US5094752 | US6077430 | US3787316 | US5336290 | US6036862 | US3192155 | US5380438 | US20050045557 | US5658458 | US6783679 | US4132638 | US5254253 | US5342522 | US6787035 | US4915840 | US4705633 | US7105091 | USR32429 | US6863818 | US5151187 | US6706185 | US20040016698 | US4731185 | US5234595 | US4780198 | US5993503 | US5846424 | US5126049 | US5019266 | US5531896 | US5746919 | US5611927 | US5098567 | US6814868 | US5543051 | US6605220 | US6217768 | US3756946 | US5114587 | US4842732 | US5128040 | US5818412 | US4370233 | US6712970 | US3617540 | US6454949 | US4162153 | US3259566 | US5246585 | US4141822 | US4975197 | US4790939 | US4323367 | US5288405 | US5288406 | US4279753 | US2893957 | US4643830 | US5858222 | US4568462 | US20070000836 | US5811008 | US5725772 | US4568457 | US4160724 | US4284510 | US5773526 | US5482630 | US4374730 | US5651891 | US6383387 | US6113788 | US3544476 | US6066256 | US3964998 | US6039874 | US3907672 | US3047492 | US6805806 | US5316682 | US4999111 | US4818391 | US5304308 | US5356537 | US4056465 | US4173531 | US4956094 | US4271026 | US5919367 | US5505862 | US6352643 | US5389258 | US6884355 | US6585895 | US5853588 | US4675114 | US6660163 | US5582734 | US7208090 | US6893567 | US5601719 | US20010045390 | US20060113243 | US5022993 | US4522722 | US6054044 | US6630067 | US4351729 | US5989428 | US5376242 | US4849108 | US5626755 | US4537682 | US5650069 | US4961854 | US5182021 | US4599167 | US4797212 | US5137636 | US6833074 | US4867883 | US5514278 | US5543063 | US6416668 | US5514277 | US6592762 | US4042493 | US4491522 | US5733455 | US6555002 | US5733456 | US4407717 | US4632758 | US6613238 | US6015496 | US4891136 | US6117323 | US6004463 | US6047768 | US5624562 | US4277342 | US5624565 | US5051191 | US6527956 | US5824222 | US4527947 | US5480548 | US5833856 | US5013442 | JP1991174949 | JP1988302996 | WO1994024055 | JP1984052597 | GB2006743 | EP0408878 | JP199086P2000 | RU1596752 | DE4444335 | EP0440996 | WO1993015026 | JP1991042019 | JP1994091285 | JP2000210542 | EP1236686 | JP1988130197 | WO2003072512 | NL9301791 | DE4238708 | JP1985084199 | JP1986192389 | JP1984032999 | EP0106043 | JP1988138986
+	</str>
+	<str name="Cites Count">
+		179
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		46900906 | 71380405
+	</str>
+	<str name="Priority Date">
+		2006-08-31 | 2005-09-02
+	</str>
+	<str name="Assignee(s)">
+		SIEMENS WATER TECHNOLOGIES CORP.
+	</str>
+	<str name="1st Assignee">
+		SIEMENS WATER TECHNOLOGIES CORP.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Warrendale, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Warrendale, PA
+	</str>
+	<str name="Inventor(s)">
+		CURTIS, BETTY-ANN | ROEHL, MARC | DOYLE, MICHAEL | PETIT, PETER, J.
+	</str>
+	<str name="1st Inventor">
+		CURTIS, BETTY-ANN
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Mukwonago, WI
+	</str>
+	<str name="Inventor(s) Address">
+		Mukwonago, WI | Mukwonago, WI | Wauwatosa, WI | Pewaukee, WI
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

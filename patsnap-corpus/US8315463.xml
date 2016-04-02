@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8315463
+	</str>
+	<str name="Application Number">
+		US11/559544
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		User interface for face recognition
+	</str>
+	<str name="Abstract">
+		A method of organizing an image collection includes detecting faces in the image collection, extracting features from the detected faces, determining a set of unique faces by analyzing the extracted features, wherein each face in the set of unique faces is believed to be from a different person than the other faces in the set; and displaying the unique faces to a user.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2006-11-14
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-11
+	</str>
+	<str name="Publication Date">
+		2012-11-20
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-11
+	</str>
+	<str name="All IPC">
+		G06K9/46 | G06K9/00
+	</str>
+	<str name="IPC Primary">
+		G06K9/46
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/190
+	</str>
+	<str name="UPC Primary">
+		382/190
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Jcnes et al, Fast Multi-view Face Detection, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Jun. 2003. cited by other | Cootes et al, Constrained Active Appearance Models, 8th International Conf. on Computer Vision, vol. 1, pp. 748-754, IEEE Computer Society Press, Jul. 2001. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cites">
+		US5164831 | US5802208 | US6038333 | US6184926 | US6792135 | US7027619 | US7187786 | US7221780 | US7379568 | US7460707 | US7596247 | US20020039447 | US20030210808 | US20040264780 | US20040264810 | US20050013507 | US20050117173 | US20060161588 | US20060239515 | US20060280341 | US20080112621 | JP2006079457 | WO2006080755
+	</str>
+	<str name="Cites Count">
+		23
+	</str>
+	<str name="Assignee(s)">
+		EASTMAN KODAK COMPANY
+	</str>
+	<str name="1st Assignee">
+		EASTMAN KODAK COMPANY
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Rochester, NY
+	</str>
+	<str name="Assignee(s) Address">
+		Rochester, NY
+	</str>
+	<str name="Inventor(s)">
+		GALLAGHER, ANDREW, C. | LOUI, ALEXANDER, C. | CEROSALETTI, CATHLEEN, D. | HIBINO, STACIE, L. | DAS, MADIRAKSHI | STUBLER, PETER, O.
+	</str>
+	<str name="1st Inventor">
+		GALLAGHER, ANDREW, C.
+	</str>
+	<str name="Number of Inventors">
+		6
+	</str>
+	<str name="1st Inventor Address">
+		Pittsburgh, PA
+	</str>
+	<str name="Inventor(s) Address">
+		Pittsburgh, PA | Penfield, NY | Rochester, NY | San, Jose, CA | Rochester, NC | Rochester, NY
+	</str>
+	<str name="Agent/Attorney">
+		OWENS, RAYMOND L.
+	</str>
+	<str name="Primary Examiner">
+		ALAVI, AMIR
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

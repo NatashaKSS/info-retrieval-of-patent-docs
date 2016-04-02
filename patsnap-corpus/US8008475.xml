@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8008475
+	</str>
+	<str name="Application Number">
+		US09536736
+	</str>
+	<str name="Title">
+		Method for isolating and purifying nucleic acids on surfaces
+	</str>
+	<str name="Abstract">
+		The present invention involves a process for the isolation of nucleic acids on surfaces by means of at least the following steps: charging of a surface from a given direction with nucleic acids; immobilization of the nucleic acids on the surface; release of the immobilized nucleic acids from the surface; and removal of the released nucleic acids essentially in the direction of charging. Preferably the loading takes place from the top.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2000-03-28
+	</str>
+	<str name="Application Year">
+		2000
+	</str>
+	<str name="Application(Year/Month)">
+		2000-03
+	</str>
+	<str name="Publication Date">
+		2011-08-30
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-08
+	</str>
+	<str name="All IPC">
+		C07H21/00
+	</str>
+	<str name="IPC Primary">
+		C07H21/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C07
+	</str>
+	<str name="IPC Subclass">
+		C07H
+	</str>
+	<str name="IPC Group">
+		C07H21
+	</str>
+	<str name="All UPC">
+		210/650 | 536/25.4 | 210/679
+	</str>
+	<str name="UPC Primary">
+		210/650
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Marko et al., Analyt. Biochem., 121: 382-387 (1982). cited by other . | Vogelstein et al., Proc. Natl. Acad. Sci. USA, 76: 615-619 (1979). cited by other. | Colpan and Riesner, J. Chromatog., 296: 339-353 (1984). cited by other . | Bresters et al., J. Med. Virol., 43: 262-268 (1994). cited by other . | Millipore Catalog, 1995, available at URL: millipore.com/catalogue.nsf/docs/pf185 and C7485. cited by examiner . | Jakobi et al. Filter-supported preparation of Lmbda phage DNA. Anal. Biochem. vol. 175:196-201, 1988. cited by examiner . | Uyttendaele et al., J. Appl. Bacteriol., 77: 694-701 (1994). cited by other . | Kievits et al., J. Virol. Methods.,35: 273-286 (1991). cited by other . | Birnboim, Methods in Enzymology, 100: 243-255 (1983). cited by other . | Collins et al., Nucl. Acids Res., 25(15): 2979-2984 (1997). cited by other . | Holland et al., Proc. Natl. Acad. Sci. USA, 88: 7276-7280 (1991). cited by other . | Livak et al., PCR Methods Applic., 4: 357-362 (1995). cited by other . | Moreau et al., Analyt. Biochem., 166: 188-193 (1987). cited by other . | Pfister et al. (J. Biol. Chem. 1996; 271:1687-94. cited by examiner . | RNeasy Mini Handbook, Qiagen, 1999: 1-12. cited by examiner . | Holmes et al. Accumulation of DNA damages in aging paramecium tetraurelia. Mol. Gen. Genet. vol. 204:108-114, Jul. 1986. cited by examiner .
+	</str>
+	<str name="Other References Count">
+		16
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US6028186 | US5004543 | US5187083 | US6258531 | US5985572 | US5858700 | US5728531 | US5658548 | US5234824 | US5869073 | US5234809 | US6383393 | EP0587951 | WO1996041810 | WO1987006621 | WO1997008547 | DE19746874 | EP0431905 | EP0442026 | WO1995021849
+	</str>
+	<str name="Cites Count">
+		20
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		19746874
+	</str>
+	<str name="Priority Date">
+		1997-10-23
+	</str>
+	<str name="Assignee(s)">
+		QIAGEN GMBH
+	</str>
+	<str name="1st Assignee">
+		QIAGEN GMBH
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Hilden, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Hilden, DE
+	</str>
+	<str name="Inventor(s)">
+		BASTIAN, HELGE | GAUCH, SIMONE | OELMULLER, UWE | ULLMANN, SUSANNE
+	</str>
+	<str name="1st Inventor">
+		BASTIAN, HELGE
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Mettmann, DE
+	</str>
+	<str name="Inventor(s) Address">
+		Mettmann, DE | Pasadena, CA | Erkrath, DE | Erkrath, DE
+	</str>
+	<str name="Agent/Attorney">
+		FANELLI HAAG PLLC
+	</str>
+	<str name="Primary Examiner">
+		KETTER, JIM
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

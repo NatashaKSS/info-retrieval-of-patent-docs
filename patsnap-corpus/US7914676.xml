@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7914676
+	</str>
+	<str name="Application Number">
+		US12377229
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method for removing sulphate and heavy metals from waste water
+	</str>
+	<str name="Abstract">
+		In a method for removing sulphate and heavy metals from waste water: a) in a first treatment step (I) hydrogen sulphide is guided through the waste water, heavy metals that are present in the waste water are precipitated as sulphide, and are removed from the waste water, b) in a second treatment step (II), calcium sulphate is precipitated from the waste water by adding a precipitation auxiliary agent, c) the calcium sulphate is removed in the second treatment step (II) and one part thereof is guided to a third treatment step (III) in which sulphate is converted into hydrogen sulphide with the aid of sulphate-reducing bacteria, d) hydrogen sulphide formed in the third treatment step (III) is guided back to the first treatment step (I).
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2007-08-10
+	</str>
+	<str name="Application Year">
+		2007
+	</str>
+	<str name="Application(Year/Month)">
+		2007-08
+	</str>
+	<str name="Publication Date">
+		2011-03-29
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-03
+	</str>
+	<str name="All IPC">
+		C02F3/34 | C02F3/28
+	</str>
+	<str name="IPC Primary">
+		C02F3/34
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/631 | 210/912 | 210/603 | 210/259
+	</str>
+	<str name="UPC Primary">
+		210/631
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		International Search Report, PCT/EP2007/058294, 11 pages, Dec. 19, 2007. cited by other . | German Office Action, German application No. 10 2006 038 207.2-47, 5 pages, May 15, 2007. cited by other.
+	</str>
+	<str name="Other References Count">
+		2
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US7279103 | US5062956 | US5587079 | US4519912 | US6325923 | US4522723 | US5968359 | US6228263 | US6203700 | WO2005063632 | DE3041460
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		DE
+	</str>
+	<str name="Priority Number">
+		102006038207
+	</str>
+	<str name="Priority Date">
+		2006-08-16
+	</str>
+	<str name="Assignee(s)">
+		SIEMENS AKTIENGESELLSCHAFT
+	</str>
+	<str name="1st Assignee">
+		SIEMENS AKTIENGESELLSCHAFT
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Munich, DE
+	</str>
+	<str name="Assignee(s) Address">
+		Munich, DE
+	</str>
+	<str name="Inventor(s)">
+		RIEBENSAHM, MICHAEL
+	</str>
+	<str name="1st Inventor">
+		RIEBENSAHM, MICHAEL
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Santiago, CL
+	</str>
+	<str name="Inventor(s) Address">
+		Santiago, CL
+	</str>
+	<str name="Agent/Attorney">
+		KING &amp; SPALDING L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

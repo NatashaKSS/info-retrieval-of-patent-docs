@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120313897A1
+	</str>
+	<str name="Application Number">
+		US13/481149
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		DISPLAY CONTROL DEVICE, DISPLAY CONTROL METHOD, PROGRAM, AND RECORDING MEDIUM
+	</str>
+	<str name="Abstract">
+		A display control device according to an embodiment of the present technology obtains each image taken by several cameras, detects a particular object displayed in a certain image out of the obtained images, and performs control so as to set a mode to display an object in an image different from the certain image where the particular object is detected using the object in the certain image as a reference and to display the object in the different image on the same screen when the same object is detected in the different image in the obtained several images.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2012-05-25
+	</str>
+	<str name="Application Year">
+		2012
+	</str>
+	<str name="Application(Year/Month)">
+		2012-05
+	</str>
+	<str name="Publication Date">
+		2012-12-13
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-12
+	</str>
+	<str name="All IPC">
+		G06F3/42
+	</str>
+	<str name="IPC Primary">
+		G06F3/42
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06F
+	</str>
+	<str name="IPC Group">
+		G06F3
+	</str>
+	<str name="All UPC">
+		345/175
+	</str>
+	<str name="UPC Primary">
+		345/175
+	</str>
+	<str name="UPC Class">
+		345
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Priority Country">
+		JP
+	</str>
+	<str name="Priority Number">
+		2011-128100
+	</str>
+	<str name="Priority Date">
+		2011-06-08
+	</str>
+	<str name="Assignee(s)">
+		SONY CORPORATION
+	</str>
+	<str name="1st Assignee">
+		SONY CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		SASAKI, TAKEHIKO
+	</str>
+	<str name="1st Inventor">
+		SASAKI, TAKEHIKO
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Kanagawa, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Kanagawa, JP
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

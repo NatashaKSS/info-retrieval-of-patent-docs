@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US8280196
+	</str>
+	<str name="Application Number">
+		US12/764660
+	</str>
+	<str name="Title">
+		Image retrieval apparatus, control method for the same, and storage medium
+	</str>
+	<str name="Abstract">
+		An image retrieval apparatus configured so as to enable a global feature method and a local feature method to complement each other is provided. After obtaining a retrieval result candidate using the local feature method, the image retrieval apparatus further verifies global features already registered in a database, with regard to the retrieval result candidate image. A verification position of the global features is estimated using the local features.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2010-04-21
+	</str>
+	<str name="Application Year">
+		2010
+	</str>
+	<str name="Application(Year/Month)">
+		2010-04
+	</str>
+	<str name="Publication Date">
+		2012-10-02
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-10
+	</str>
+	<str name="All IPC">
+		G06K9/54 | G06K9/46
+	</str>
+	<str name="IPC Primary">
+		G06K9/54
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/305 | 382/195
+	</str>
+	<str name="UPC Primary">
+		382/305
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		US. Appl. No. 12/778,953, filed May 12, 2010, Applicants: Shiiyama, et al. cited by other | Schmid, et al., &quot;Local Grayvalue Invariants for Image Retrieval&quot;, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 19, No. 5., pp. 530-535 (May 1997). cited by other | Harris, et al., &quot;A Combined Corner and Edge Detector&quot;, pp. 147-152 (1988). cited by other | Koenderink, et al., &quot;Representation of Local Geometry in the Visual System&quot;, Biological Cybernetics, pp. 367-375 (1987). cited by other.
+	</str>
+	<str name="Other References Count">
+		4
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5905811 | US6400853 | US6804683 | US7400784 | US7418135 | US8121371 | JP1996249349 | JP1998260983
+	</str>
+	<str name="Cites Count">
+		8
+	</str>
+	<str name="Priority Country">
+		JP | JP
+	</str>
+	<str name="Priority Number">
+		2009-115917 | 2009-144641
+	</str>
+	<str name="Priority Date">
+		2009-05-12 | 2009-06-17
+	</str>
+	<str name="Assignee(s)">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="1st Assignee">
+		CANON KABUSHIKI KAISHA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Tokyo, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s)">
+		MAGAI, KOICHI | SHIIYAMA, HIROTAKA
+	</str>
+	<str name="1st Inventor">
+		MAGAI, KOICHI
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Yokohama, JP
+	</str>
+	<str name="Agent/Attorney">
+		FITZPATRICK, CELLA, HARPER &amp; SCINTO
+	</str>
+	<str name="Primary Examiner">
+		MARIAM, DANIEL
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

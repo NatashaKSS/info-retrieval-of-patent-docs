@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US20120251011A1
+	</str>
+	<str name="Application Number">
+		US13/079592
+	</str>
+	<str name="Kind Code">
+		A1
+	</str>
+	<str name="Title">
+		Event Determination From Photos
+	</str>
+	<str name="Abstract">
+		Events may be determined based on an image and context data associated with the image. An event type associated with the image may be determined based on a concept of the image. A list of events may be retrieved from an event database based on the context data. The retrieved list of events may then be ranked based on the determined event type and the context data. Through this event determination, a user may obtain information of one or more events happening at a specific location simply by capturing an image of that specific location, thereby saving the user from searching and browsing the Internet or brochure to locate the information of the one or more events at the specific location.
+	</str>
+	<str name="Document Types">
+		US | USA
+	</str>
+	<str name="Application Date">
+		2011-04-04
+	</str>
+	<str name="Application Year">
+		2011
+	</str>
+	<str name="Application(Year/Month)">
+		2011-04
+	</str>
+	<str name="Publication Date">
+		2012-10-04
+	</str>
+	<str name="Publication Year">
+		2012
+	</str>
+	<str name="Publication(Year/Month)">
+		2012-10
+	</str>
+	<str name="All IPC">
+		G06K9/62
+	</str>
+	<str name="IPC Primary">
+		G06K9/62
+	</str>
+	<str name="IPC Section">
+		G
+	</str>
+	<str name="IPC Class">
+		G06
+	</str>
+	<str name="IPC Subclass">
+		G06K
+	</str>
+	<str name="IPC Group">
+		G06K9
+	</str>
+	<str name="All UPC">
+		382/224
+	</str>
+	<str name="UPC Primary">
+		382/224
+	</str>
+	<str name="UPC Class">
+		382
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References Count">
+		0
+	</str>
+	<str name="Assignee(s)">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="1st Assignee">
+		MICROSOFT CORPORATION
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Redmond,WA,US
+	</str>
+	<str name="Assignee(s) Address">
+		Redmond,WA,US
+	</str>
+	<str name="Inventor(s)">
+		GAO MINGYAN | HUA XIAN-SHENG
+	</str>
+	<str name="1st Inventor">
+		GAO MINGYAN
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Irvine,CA,US
+	</str>
+	<str name="Inventor(s) Address">
+		Irvine,CA,US | Bellevue,WA,US
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

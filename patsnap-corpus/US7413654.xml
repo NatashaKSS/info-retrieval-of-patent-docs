@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7413654
+	</str>
+	<str name="Application Number">
+		US11302707
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Wastewater treatment control
+	</str>
+	<str name="Abstract">
+		A wastewater treatment method. The method includes establishing a setpoint value of oxidation-reduction potential of a mixed liquor, measuring a measured value of oxidation-reduction potential of the mixed liquor, comparing the measured value of oxidation-reduction potential and the setpoint value of oxidation-reduction potential, generating a control signal based at least in part on the step of comparing, controlling operation of an aeration device using the control signal, acquiring at least one value corresponding to the control signal and adjusting the setpoint value of oxidation-reduction potential using the at least one value. The value includes a frequency of operation of the aeration device.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2005-12-13
+	</str>
+	<str name="Application Year">
+		2005
+	</str>
+	<str name="Application(Year/Month)">
+		2005-12
+	</str>
+	<str name="Publication Date">
+		2008-08-19
+	</str>
+	<str name="Publication Year">
+		2008
+	</str>
+	<str name="Publication(Year/Month)">
+		2008-08
+	</str>
+	<str name="All IPC">
+		C02F3/30
+	</str>
+	<str name="IPC Primary">
+		C02F3/30
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/605 | 210/630 | 210/614
+	</str>
+	<str name="UPC Primary">
+		210/605
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US20050133443A1 | US20060113243A1 | US7413654 | US7208090
+	</str>
+	<str name="Family Member Count">
+		4
+	</str>
+	<str name="Family Members Cited By Count">
+		16
+	</str>
+	<str name="Other References">
+		Chudoba, et al, Pre-Denitrification Performance of a High-Loaded Anoxic Sludge, Degremont Research Center, France, 1999. cited by other . | Kim, et al., pH and Oxidation-Reduction Potential Control Strategy for Optimization of Nitrogen Removal in an Alternating Aerobic-Anoxic System, Water Environment Research, vol. 73, No. 1, 2001. cited by other. | Biological Nutrient Removal with an Internal Organic Carbon Source in Piggery Wastewater Treatment, Water Research, vol. 34 No. 3, pp. 965-973, 2000. cited by other . | Klopping et al., Activated Sludge Microbiology, Filamentous and Non-Filamentous Microbiological Problems and Biological Nutrient Removal; Water Environment Federation, Plant Operations Specialty Conference, date unknown. cited by other . | Charpentier, et al., ORP Regulation and Activated Sludge, 15 years of Experience, 19th Biennial Conference/AWQ of Vancouver--Jun. 1998. cited by other . | Caulet, et al., Modulated Aeration Management by Combined ORP and DO Control, Center of International Research for Water Environment, France, 1999. cited by other .
+	</str>
+	<str name="Other References Count">
+		6
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4370233 | US5733456 | US5989428 | US5348653 | US6454949 | US5376242 | US5582734 | US7208090 | US4975197 | US4548715 | US4961854 | US5482630 | US6036862 | US5288406 | US6093322 | US5624565 | US4277342 | US5051191 | US5098567 | US6783679 | US6527956 | US5114587 | US6066256 | US5818412 | JP1985084199 | JP199086P2000
+	</str>
+	<str name="Cites Count">
+		26
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		30270705 | 74544603
+	</str>
+	<str name="Priority Date">
+		2005-12-13 | 2003-12-23
+	</str>
+	<str name="Assignee(s)">
+		SIEMENS WATER TECHNOLOGIES HOLDING CORP.
+	</str>
+	<str name="1st Assignee">
+		SIEMENS WATER TECHNOLOGIES HOLDING CORP.
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Warrendale, PA
+	</str>
+	<str name="Assignee(s) Address">
+		Warrendale, PA
+	</str>
+	<str name="Inventor(s)">
+		APPLEGATE, CHARLES, STARK | DUBEY, DAVID, W.
+	</str>
+	<str name="1st Inventor">
+		APPLEGATE, CHARLES, STARK
+	</str>
+	<str name="Number of Inventors">
+		2
+	</str>
+	<str name="1st Inventor Address">
+		Brookfield, WI
+	</str>
+	<str name="Inventor(s) Address">
+		Brookfield, WI | Mukwonago, WI
+	</str>
+	<str name="Primary Examiner">
+		PRINCE, FRED
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

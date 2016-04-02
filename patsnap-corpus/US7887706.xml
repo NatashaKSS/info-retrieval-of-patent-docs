@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7887706
+	</str>
+	<str name="Application Number">
+		US12415166
+	</str>
+	<str name="Kind Code">
+		B2
+	</str>
+	<str name="Title">
+		Method of biofiltration of a liquid effluent
+	</str>
+	<str name="Abstract">
+		A method of biofiltration of a liquid effluent by simultaneous nitrification and denitrification uses the adding of an oxygen source at a predetermined rate and optionally the adding of a carbon source (such as whey) thus enabling the complete transformation of the nitrates (NO.sub.3) present in the effluent at the time of treatment through a biofilter. The specific operating conditions favoring the simultaneous nitrification and denitrification include the controlled injection of a slight quantity of air, adjustment of the level of nitrogen load (TKN+NO.sub.3) and the level of carbon load thereby making possible elimination for the most part of the release of unwanted nitrogen in the form of NO.sub.3 or NO.sub.2.
+	</str>
+	<str name="Document Types">
+		US | USB
+	</str>
+	<str name="Application Date">
+		2009-03-31
+	</str>
+	<str name="Application Year">
+		2009
+	</str>
+	<str name="Application(Year/Month)">
+		2009-03
+	</str>
+	<str name="Publication Date">
+		2011-02-15
+	</str>
+	<str name="Publication Year">
+		2011
+	</str>
+	<str name="Publication(Year/Month)">
+		2011-02
+	</str>
+	<str name="All IPC">
+		C02F3/00
+	</str>
+	<str name="IPC Primary">
+		C02F3/00
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F3
+	</str>
+	<str name="All UPC">
+		210/620 | 210/617
+	</str>
+	<str name="UPC Primary">
+		210/620
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Member Count">
+		0
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Alvarado-Lassman A. et al., 2006, &quot;Simultaneous removal of carbon and nitrogen in an anaerobic inverse fluidized bed reactor.&quot;, Water Science &amp; Technology, vol. 54, No. 2, pp. 111-117. cited by other . | Menoud P, et al., 2006, &quot;Simultaneous Nitrification and Denitrification using Siporax tm Packing.&quot;, Wat Sci. Tech., vol. 40, No. 4-5, pp. 153-160. cited by other . | Park K. Y. et al., 2000, &quot;Emission and Control of Nitrous Oxide from a Biological Wastewater Treatment System with Intermittent Aeration.&quot;, Journal of Bioscience and Bioengineering, vol. 90, No. 3, 247-252. cited by other . | Rodriguez L. et al., 2007, &quot;Use of agro-food wastewaters for optimization of the denitrification process.&quot;, Water Science &amp; Technology, vol. 55, No. 10, pp. 63-70. cited by other . | Beline F. et al., 2001, &quot;Application of the N technique to determine the contributions of nitrification and denitrification to the flux of nitrous oxide from aerated pig slurry.&quot;, Wat. Res., vol. 35, No. 11, pp. 2774-2778. cited by other . | Garzon-Zuniga M. A. et al., 2007, &quot;Aeration effect on the efficiency of swine manure treatment in a trickling filter packed with organic materials.&quot;, Water Science &amp; Technology, vol. 55, No. 10, pp. 135-143. cited by other. | Torsten W. 1998, &quot;Adsorption and Denitrification in Nitrifying Trickling Filters.&quot;, Wat. Res., vol. 33, No. 6, pp. 1500-1509. cited by other . | Aubry et al., &quot;Nitrogen Behavior in a Trickling Biofilter Treating Pig Manure.&quot;, Biofilm Systems Conference IV, Sep. 24-27, 2006, Aquatech, Amsterdam, Holland. cited by other . | Boiran B. et al., 1996, &quot;Nitrification and denitrification of liquid lagoon piggery waste in a biofilm infiltration-percolation aerated system (BIPAS) reactor.&quot;, Bioresource Technology, vol. 55, No. 1, 63-77. cited by other .
+	</str>
+	<str name="Other References Count">
+		9
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US4253966 | US7374683 | US5290451 | US5906746 | US6100081 | US4983299 | US5387344 | US6866779 | US20070221573 | US4696747 | US6936170
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		CA
+	</str>
+	<str name="Priority Number">
+		2626911
+	</str>
+	<str name="Priority Date">
+		2008-03-31
+	</str>
+	<str name="Inventor(s)">
+		BUELNA, GERARDO | LE, BIHAN, YANN | DUBE, RINO | LESSARD, PAUL
+	</str>
+	<str name="1st Inventor">
+		BUELNA, GERARDO
+	</str>
+	<str name="Number of Inventors">
+		4
+	</str>
+	<str name="1st Inventor Address">
+		Quebec, Quebec, CA
+	</str>
+	<str name="Inventor(s) Address">
+		Quebec, Quebec, CA | Quebec, (QQuebecCA | Quebec, (QueQuebec | Quebec, (QuebeQuebec, Dufour-L'Arrivee, Caroline, (Lac, Beauport, (Quebec
+	</str>
+	<str name="Agent/Attorney">
+		OGILVY RENAULT, LLP
+	</str>
+	<str name="Primary Examiner">
+		BARRY, CHESTER T
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

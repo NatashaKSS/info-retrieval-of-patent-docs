@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US7510660
+	</str>
+	<str name="Application Number">
+		US11363989
+	</str>
+	<str name="Kind Code">
+		B1
+	</str>
+	<str name="Title">
+		Contaminant removal method for a body of water
+	</str>
+	<str name="Abstract">
+		Pollutants, such as heavy metals, phosphorus, and pathogenic organisms, are removed from water by adding a chemical coagulant to water within an enclosure. With mixing, coagulation and flocculation occur, and a floc containing the pollutant settles to the enclosure bottom; so the treated water above the floc is free from at least some of the pollutant. Some of the treated water is removed from the enclosure, and new water is added. The new water and the settled floc are mixed to resuspend floc components. The process is repeated until the floc no longer exhibits contaminant-removal capability. In an alternate system, a matrix element is deployed within the enclosure, which captures a portion of the floc that settles within the water column. Pollutants in new water added to the enclosure encounter these suspended floc particles and are subsequently removed from the water.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		2006-02-28
+	</str>
+	<str name="Application Year">
+		2006
+	</str>
+	<str name="Application(Year/Month)">
+		2006-02
+	</str>
+	<str name="Publication Date">
+		2009-03-31
+	</str>
+	<str name="Publication Year">
+		2009
+	</str>
+	<str name="Publication(Year/Month)">
+		2009-03
+	</str>
+	<str name="All IPC">
+		C02F1/52
+	</str>
+	<str name="IPC Primary">
+		C02F1/52
+	</str>
+	<str name="IPC Section">
+		C
+	</str>
+	<str name="IPC Class">
+		C02
+	</str>
+	<str name="IPC Subclass">
+		C02F
+	</str>
+	<str name="IPC Group">
+		C02F1
+	</str>
+	<str name="All UPC">
+		210/912 | 210/747 | 210/727 | 210/714 | 210/724 | 210/711 | 210/906
+	</str>
+	<str name="UPC Primary">
+		210/912
+	</str>
+	<str name="UPC Class">
+		210
+	</str>
+	<str name="Family Members">
+		US7510660
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		DeBusk et al., &quot;Effectiveness of Mechanical Aeration in Floating Aquatic Macrophyte-Based Wastewater Treatment Systems,&quot; Journal of Environmental Quality, vol. 18, No. 3, pp. 349-354, Jul.-Sep. 1989. cited by other . | Wen, Li and Recknagel, Friedrich, &quot;In Situ Removal of Dissolved Phosphorus in Irrigation Drainage Water by Planted Floats: Preliminary Results from Growth Chamber Experiment,&quot; Agriculture, Ecosystems and Environment, vol. 90, pp. 9-15, Jun. 2002. cited by other . | Lake Apopka Water Hyacinth Demonstration Project, Second Semi-Annual Report prepared for St. Johns River Water Management District, prepared by Amasek, Inc., Apr. 4, 1991. cited by other . | Youngchul, Kim and Wan-Joong, Kim, &quot;Roles of Water Hyacinths and Their Roots for Reducing Algal Concentration in the Effluent from Waste Stabilization Ponds,&quot; Water Research, vol. 34, No. 13, pp. 3285-3294, Sep. 1, 2002. cited by other. | Clark, Mark, &quot;Biophysical Characterization of Floating Wetlands (Flotant) and Vegetative Succession of a Warm-Temperature Aquatic Ecosystem,&quot; Dissertation, University of Florida, 2000. cited by other .
+	</str>
+	<str name="Other References Count">
+		5
+	</str>
+	<str name="Cited By Count">
+		0
+	</str>
+	<str name="Cites">
+		US5993649 | US7014776 | US6692641 | US5733453 | US5766474 | US3579443 | US6251264 | US5456844 | US2352772 | US6413426 | US6837994
+	</str>
+	<str name="Cites Count">
+		11
+	</str>
+	<str name="Priority Country">
+		US | US
+	</str>
+	<str name="Priority Number">
+		36398906 | 65654503
+	</str>
+	<str name="Priority Date">
+		2006-02-28 | 2003-09-05
+	</str>
+	<str name="Inventor(s)">
+		DEBUSK, THOMAS, A.
+	</str>
+	<str name="1st Inventor">
+		DEBUSK, THOMAS, A.
+	</str>
+	<str name="Number of Inventors">
+		1
+	</str>
+	<str name="1st Inventor Address">
+		Cocoa, FL
+	</str>
+	<str name="Inventor(s) Address">
+		Cocoa, FL
+	</str>
+	<str name="Agent/Attorney">
+		HARTT, JACQUELINE E. LOWNDES, DROSDICK, DOSTER, KANTOR &amp; REED, P.A.
+	</str>
+	<str name="Primary Examiner">
+		HRUSKOCI, PETER A
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+

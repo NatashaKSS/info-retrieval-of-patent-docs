@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc>
+	<str name="Patent Number">
+		US5553294
+	</str>
+	<str name="Application Number">
+		US08072689
+	</str>
+	<str name="Kind Code">
+		A
+	</str>
+	<str name="Title">
+		Portable computer powered by rechargeable batteries
+	</str>
+	<str name="Abstract">
+		When a computer is not externally powered, it operates from installed first and second batteries. In top surface of the computer, LEDs are provided which indicates three states of each battery; need of charging, during charging, and completion of charging.
+	</str>
+	<str name="Document Types">
+		US | USB | DOCDB
+	</str>
+	<str name="Application Date">
+		1993-06-07
+	</str>
+	<str name="Application Year">
+		1993
+	</str>
+	<str name="Application(Year/Month)">
+		1993-06
+	</str>
+	<str name="Publication Date">
+		1996-09-03
+	</str>
+	<str name="Publication Year">
+		1996
+	</str>
+	<str name="Publication(Year/Month)">
+		1996-09
+	</str>
+	<str name="All IPC">
+		H02J9/06 | G06F1/00
+	</str>
+	<str name="IPC Primary">
+		H02J9/06
+	</str>
+	<str name="IPC Section">
+		H
+	</str>
+	<str name="IPC Class">
+		H02
+	</str>
+	<str name="IPC Subclass">
+		H02J
+	</str>
+	<str name="IPC Group">
+		H02J9
+	</str>
+	<str name="All UPC">
+		307/60 | 713/340 | 713/321 | 307/65 | 365/229 | 307/66 | 307/157 | 365/226
+	</str>
+	<str name="UPC Primary">
+		307/60
+	</str>
+	<str name="UPC Class">
+		307
+	</str>
+	<str name="Family Members">
+		US5553294
+	</str>
+	<str name="Family Member Count">
+		1
+	</str>
+	<str name="Family Members Cited By Count">
+		0
+	</str>
+	<str name="Other References">
+		Toshiba T1600 Portable Personal Computer User's Manual, (1988), first edition, pp. vi, vii, 4-27. | Chip Zeitschrift Fuer Mikrocomputer-Technik, No. 11, Nov. 1989, Wurzburg De, p. 29, Computer des jahres. | Toshiba T1600 Portable Personal Computer User's Manual, (1988), first edition, pp. 4-18 through 4-27.
+	</str>
+	<str name="Other References Count">
+		3
+	</str>
+	<str name="Cites">
+		US5239495 | US4621330 | US5148042 | US4809163 | US4698578 | US4611289 | US4851756 | US5270946 | US4365290 | US4782355 | US4984185 | US4315162 | US4768162 | JP1982199979 | EP0340794 | EP0335316 | EP0293664 | EP0273322 | GB2226715
+	</str>
+	<str name="Cites Count">
+		19
+	</str>
+	<str name="Priority Country">
+		JP | JP | JP | JP | JP
+	</str>
+	<str name="Priority Number">
+		2166205 | 2166206 | 2166207 | 2166211 | 2166212
+	</str>
+	<str name="Priority Date">
+		1990-06-25 | 1990-06-25 | 1990-06-25 | 1990-06-25 | 1990-06-25
+	</str>
+	<str name="Assignee(s)">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="1st Assignee">
+		KABUSHIKI KAISHA TOSHIBA
+	</str>
+	<str name="Number of Assignees">
+		1
+	</str>
+	<str name="1st Assignee Address">
+		Kawasaki, JP
+	</str>
+	<str name="Assignee(s) Address">
+		Kawasaki, JP
+	</str>
+	<str name="Inventor(s)">
+		NANNO, NOBUYUKI | AKASHI, KAZUO | ANDO, MAKOTO | TAKEGUCHI, K, OUICHIROU | YAMANAKA, YUJI | SAITO, TOSHIMITSU | OKA, MAYUMI | OOTAKE, ATSUHIRO | MASON, JAMES | SUZUKI, YOSHIAKI
+	</str>
+	<str name="1st Inventor">
+		NANNO, NOBUYUKI
+	</str>
+	<str name="Number of Inventors">
+		10
+	</str>
+	<str name="1st Inventor Address">
+		Tokyo, JP
+	</str>
+	<str name="Inventor(s) Address">
+		Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP | Tokyo, JP
+	</str>
+	<str name="Agent/Attorney">
+		FINNEGAN, HENDERSON, FARABOW, GARRETT &amp; DUNNER, L.L.P.
+	</str>
+	<str name="Primary Examiner">
+		DAVIS, GEORGE B.
+	</str>
+	<str name="cited by within 3 years">
+		0
+	</str>
+	<str name="cited by within 5 years">
+		0
+	</str>
+</doc>
+
