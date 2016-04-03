@@ -7,8 +7,8 @@ import getopt
 from os import listdir
 import pickle
 
-# Standard API for XML Parsing
-from xml.dom import minidom
+# Import modules for XML parsing
+from xml_parser import Document
 
 # Import NLTK modules needed
 import nltk
@@ -47,14 +47,18 @@ def construct_inverted_index() :
         # Checks for trailing slash in case
         if dir_of_docs.endswith("/"):
             file_dir = dir_of_docs + file_name
-            file_text = open(file_dir, "r").read();
+            file_text = open(file_dir, "r").read()
         else:
             file_dir = dir_of_docs + "/" + file_name
-            file_text = open(file_dir, "r").read();
+            file_text = open(file_dir, "r").read()
         
-        # XML parsing of docs
-        print file_dir
-        XML_doc = minidom.parse(file_dir);
+        # Test XML parsing of doc
+        xml_doc = Document(file_name, file_dir)
+        print xml_doc.get_title()
+        print xml_doc.get_abstract()
+        print xml_doc.get_IPC_subclass()
+        xml_doc.print_xml_format()
+        print "----------------------------------------"
         
         if file_name.endswith(".xml"):
             file_name = file_name[:-4]; # Remove ".xml" in file name
@@ -63,7 +67,7 @@ def construct_inverted_index() :
         normalize_tokens_list = normalize_tokens(words_list)
         term_list = set(normalize_tokens_list)
         
-        # add patent_docID, or rather to the current term_docID_map
+        # add patent_docID to the current term_docID_map
         term_freq_list = []
         for term in term_list:
             if not term_docID_map.has_key(term):
