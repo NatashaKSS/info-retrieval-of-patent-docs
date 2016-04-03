@@ -14,14 +14,50 @@ import xml.etree.ElementTree as elemTree
 #======================================================================#
 
 class Query:
-    def __init__(self, query_file_dir):
-        self.query_file_name = query_file_dir
+    """
+    Initializes a Query object by parsing the XML query found in query_file_dir. 
+    Every Query object has a attribute-text mapping, e.g. {"title" : "Some title"}
     
+    query_file_name    File name of the query, with or without trailing ".xml". Upon
+                       initialization, ".xml" will be removed if contained in file name
+    query_file_dir     String representation of the query file's directory on disk
+    """
+    def __init__(self, query_file_dir):
+        # File directory containing document
+        self.query_file_dir = query_file_dir
+        # Title attribute of a Query
+        self.title = None
+        # Description attribute of a Query
+        self.description = None
+        self.parse_query()
+    
+    """
+    Parses the query specified in self.query_file_dir and parses a query's "title" 
+    and "description" tag.
+    If the XML tag does not have any text/contents, its attribute will have a value of None
+    """
+    def parse_query(self):
+        XML_query = elemTree.parse(self.query_file_dir)
+        root = XML_query.getroot() # A tree of "<query>" and all its subdirectories
+        title = root.find("title").text
+        description = root.find("description").text
+        
+        if title is not None:
+            self.title = title.strip()
+        else:
+            self.title = None
+        
+        if description is not None:
+            list_of_stripped_lines = [line.strip() for line in description.splitlines()]
+            self.description = " ".join(list_of_stripped_lines).strip()
+        else:
+            self.description = None
+        
     def get_title(self):
-        print "Getting Query title..."
+        return self.title
         
     def get_description(self):
-        print "Getting description..."
+        return self.description
         
 #======================================================================#
 # Class Description:
@@ -36,7 +72,7 @@ class Document:
     Every Document object has a attribute-text mapping, e.g. {"Title" : "Some title"}
     
     doc_file_name    File name of the document, with or without trailing ".xml". Upon
-                     initialization, ".xml" will be removed if contained in file name.
+                     initialization, ".xml" will be removed if contained in file name
     doc_file_dir     String representation of the doc file's directory on disk
     """
     def __init__(self, doc_file_name , doc_file_dir):

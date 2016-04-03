@@ -7,6 +7,9 @@ import getopt
 import pickle
 import operator
 
+# Import modules for XML parsing
+from xml_parser import Query
+
 # Import NLTK modules needed
 import nltk
 from nltk import word_tokenize
@@ -24,26 +27,34 @@ from nltk.stem import PorterStemmer
 """
 Main execution point of program
 Executes the search operation on the given queries in file-of-queries
+
+query    Query object parsed at start of program.
 """
-def exec_search(list_of_queries):
+def exec_search(query):
     # Wipe the output file before processing all the queries to ensure previous
     # runs of this program do not merely append the results to the end of the file
     with open(output_file, "w"):
         pass
 
-    for query in list_of_queries:
-        # Normalize query list with case-folding and stemming
-        normalized_query_list = normalize_tokens(query)
-
-        # Term frequencies of query terms for processing    
-        query_term_freq_map = compute_query_term_freq_weights(normalized_query_list)
+    """
+    TODO
+    Only tries to work with the title of query...for now...
+    """
+    print "Title:", query.get_title()
+    print "Description:", query.get_description()
         
-        # Remove duplicate query terms to process each term
-        # TODO:
-        # * This heuristic might affect results * --> Should review this part
-        # Query evaluation heuristic
-        ranked_results = get_top_results(set(normalized_query_list), query_term_freq_map)
-        write_to_output_file(ranked_results)
+    # Normalize query list with case-folding and stemming
+    normalized_query_list = normalize_tokens(query.get_title())
+
+    # Term frequencies of query terms for processing    
+    query_term_freq_map = compute_query_term_freq_weights(normalized_query_list)
+    
+    # Remove duplicate query terms to process each term
+    # TODO:
+    # * This heuristic might affect results * --> Should review this part
+    # Query evaluation heuristic
+    ranked_results = get_top_results(set(normalized_query_list), query_term_freq_map)
+    write_to_output_file(ranked_results)
 
 """
 Searches for the top 10 ranking results for the specified queries.
@@ -168,9 +179,10 @@ def normalize_tokens(query_text):
    
 #=====================================================#
 # Pre-processing functions:
-# Loading the dictionary, loading the file-of-queries, loading a term's postings
+# Loading the file-of-queries, loading the dictionary, loading a term's postings
 # list and writing to output.
 #=====================================================#
+
 """
 Loads dictionary at startup from dictionary.txt.
 This also loads the universal set of docIDs to be used in computing boolean queries.
@@ -191,16 +203,6 @@ def load_dictionary():
     
     from_dict_file.close()
     return dictionary_loaded
-
-"""
-Loads all queries at startup from file-of-queries
-
-return    List of all queries contained in file-of-queries with each entry denoting
-          a single query.
-"""
-def load_queries():
-    with open(file_of_queries, "r") as from_query_file:
-        return [query.strip('\n')  for query in from_query_file.readlines()]
 
 """
 Writes a list of docIDs to the output file located on disk
@@ -243,9 +245,9 @@ Interprets arguments of this search program
 def usage():
     print "error1"
     print "usage: " + sys.argv[0] + "-d dictionary-file -p postings-file " \
-          "-q file_of_queries -o output-file-of-results"
+          "-q query_file_dir -o output-file-of-results"
     
-dict_file = postings_file = file_of_queries = output_file = None
+dict_file = postings_file = query_file_dir = output_file = None
 try:
     opts, args = getopt.getopt(sys.argv[1:], 'd:p:q:o:')
 except getopt.GetoptError, err:
@@ -258,12 +260,12 @@ for out, a in opts:
     elif out == '-p':
         postings_file = a
     elif out == '-q':
-        file_of_queries = a
+        query_file_dir = a
     elif out == '-o':
         output_file = a
     else:
         assert False, "unhandled option"
-if dict_file == None or postings_file == None or file_of_queries == None or output_file == None:
+if dict_file == None or postings_file == None or query_file_dir == None or output_file == None:
     print "error1"
     usage()
     sys.exit(2)
@@ -285,6 +287,7 @@ def test_query():
 """
 Load the dictionary before processing search queries
 """
+query = Query(query_file_dir) # Loads Query
 list_of_docIDs = []
 list_of_doc_lengths = []
 dictionary = load_dictionary()
@@ -292,5 +295,5 @@ dictionary = load_dictionary()
 """
 Main execution point after loading dictionary and queries from file-of-queries
 """
-exec_search(load_queries())
+exec_search(query)
 
