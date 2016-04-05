@@ -50,16 +50,16 @@ def construct_inverted_index() :
             file_dir = dir_of_docs + "/" + file_name
             file_text = open(file_dir, "r").read()
         
-        # Test XML parsing of doc
-        xml_doc = Document(file_name, file_dir)
-        print xml_doc.get_title()
-        print xml_doc.get_abstract()
-        print xml_doc.get_IPC_subclass()
-        xml_doc.print_xml_format()
-        print "----------------------------------------"
-        
         if file_name.endswith(".xml"):
             file_name = file_name[:-4]; # Remove ".xml" in file name
+        
+        # Test XML parsing of doc
+        xml_doc = Document(file_name, file_dir)
+        #print xml_doc.get_title()
+        #print xml_doc.get_abstract()
+        #print xml_doc.get_IPC_subclass()
+        #xml_doc.print_xml_format()
+        #print "----------------------------------------"
         
         words_list = word_tokenize(file_text)
         normalize_tokens_list = normalize_tokens(words_list)
@@ -118,27 +118,23 @@ def normalize_tokens(tokens_list):
     return normalized_token_list
    
 """
-Sets up dictionary and postings data structures to be written to the 
-respective files. Closes each file after writing operation.
+Sets up dictionary and postings data structures to be written to the respective 
+files.
 
-The dictionary will be stored in a hash map that maps to a list 
-representing the docFreq and pointer of a particular term.
+The dictionary will be stored in a hash map that maps to a list representing 
+the docFreq and pointer of a particular term in the below format.
 { term : [docFreq, value of pointer offset in postings file] }
 
 Also stores the universal set of docIDs and their docLengths for use in 
-search.py to dictionary.txt
+searching to dictionary.txt
 
-The postings will be stored as a list of docIDs in a part of the postings 
+The postings list will be stored as a list of docIDs in a part of the postings 
 file on disk specified by a pointer offset value.
 """
 def write_inverted_index_to_disk():
     to_dict_file = open(dict_file, "w")
     to_postings_file = open(postings_file, "w")
 
-    # A lexicographical sort of the keys in our inverted_index
-    # since the order of terms in the dictionary is not preserved
-    # sorted_term_set = sorted(term_docID_map.keys())
-    
     dictionary = {}
     dict_terms = term_docID_map.keys(); 
     for term in dict_terms:

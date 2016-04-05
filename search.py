@@ -9,6 +9,9 @@ import operator
 # Import modules for XML parsing
 from xml_parser import Query
 
+# Import modules for testing
+from test_driver import TestDriver
+
 # Import NLTK modules needed
 from nltk import word_tokenize
 from nltk.stem import PorterStemmer
@@ -51,6 +54,8 @@ def exec_search(query):
     # This first round of searching (using the user's input query) holds a weight of 0.75
     ranked_results = get_top_results(set(normalized_query_list), query_term_freq_map, 0.75)
     
+    my_test = TestDriver(ranked_results)
+    my_test.process_results()
     
     # NOTE:
     # Query Expansion HEREEEE
@@ -69,7 +74,7 @@ query_term_freq_map    A mapping of log term frequency weights for each query te
 weight                 A fractional weight of choice to give to this tf-idf score.
                        0 < weight <= 1.
 
-return    List of top 10 ranked docIDs. The scores are sorted in descending order.
+return    List of docIDs that relevant to this query, sorted in descending order.
 """
 def get_top_results(list_of_query_terms, query_term_freq_map, weight):
     global scores
@@ -104,7 +109,8 @@ def get_top_results(list_of_query_terms, query_term_freq_map, weight):
         scores[docID] = scores[docID] / norm_magnitude
     
     # Ranks the scores in descending order
-    ranked_scores = sorted(scores.items(), key = operator.itemgetter(1), reverse = True)
+    filtered_scores = {docID:tf_idf for docID,tf_idf in scores.items() if tf_idf != 0}
+    ranked_scores = sorted(filtered_scores.items(), key = operator.itemgetter(1), reverse = True)
     list_top_10_docIDs = ranked_scores[:10]
     
     return [score_pair[0] for score_pair in ranked_scores]
