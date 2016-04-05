@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # Import standard modules
-import re
 import sys
 import math
 import getopt
@@ -11,7 +10,6 @@ import operator
 from xml_parser import Query
 
 # Import NLTK modules needed
-import nltk
 from nltk import word_tokenize
 from nltk.stem import PorterStemmer
 
@@ -40,9 +38,9 @@ def exec_search(query):
     TODO
     Only tries to work with the title of query...for now...
     """
-    print "Title:", query.get_title()
-    print "Description:", query.get_description()
-        
+    #print "Title:", query.get_title()
+    #print "Description:", query.get_description()
+    
     # Normalize query list with case-folding and stemming
     normalized_query_list = normalize_tokens(query.get_title())
 
@@ -50,22 +48,32 @@ def exec_search(query):
     query_term_freq_map = compute_query_term_freq_weights(normalized_query_list)
     
     # Remove duplicate query terms to process each term
-    # TODO:
-    # * This heuristic might affect results * --> Should review this part
-    # Query evaluation heuristic
-    ranked_results = get_top_results(set(normalized_query_list), query_term_freq_map)
+    # This first round of searching (using the user's input query) holds a weight of 0.75
+    ranked_results = get_top_results(set(normalized_query_list), query_term_freq_map, 0.75)
+    
+    
+    # NOTE:
+    # Query Expansion HEREEEE
+    # You can use list_top_10_docIDs (a global variable) 
+    # which contains (docID, tf-idf weight) tuples of the top 10 relevant docs
+    
+    
     write_to_output_file(ranked_results)
 
 """
-Searches for the top 10 ranking results for the specified queries.
+Searches for results for the specified queries in ranked order.
+Also updates the list of top 10 documents that are assumed to be relevant.
 
 list_of_query_terms    List of query terms which are normalized and have no duplicates.
 query_term_freq_map    A mapping of log term frequency weights for each query term.
+weight                 A fractional weight of choice to give to this tf-idf score.
+                       0 < weight <= 1.
 
 return    List of top 10 ranked docIDs. The scores are sorted in descending order.
 """
-def get_top_results(list_of_query_terms, query_term_freq_map):
-    scores = {}
+def get_top_results(list_of_query_terms, query_term_freq_map, weight):
+    global scores
+    global list_top_10_docIDs
     list_of_query_idf = []
 
     for query_term in list_of_query_terms:
@@ -86,7 +94,7 @@ def get_top_results(list_of_query_terms, query_term_freq_map):
                 # Dot product of query and doc term weights
                 if not scores.has_key(curr_docID):
                     scores[curr_docID] = 0
-                scores[curr_docID] += query_term_weight * doc_term_weight
+                scores[curr_docID] += weight * query_term_weight * doc_term_weight
 
     # Normalization
     query_norm = get_query_unit_magnitude(list_of_query_idf)
@@ -96,7 +104,9 @@ def get_top_results(list_of_query_terms, query_term_freq_map):
         scores[docID] = scores[docID] / norm_magnitude
     
     # Ranks the scores in descending order
-    ranked_scores = sorted(scores.items(), key = operator.itemgetter(1), reverse = True)[:10]
+    ranked_scores = sorted(scores.items(), key = operator.itemgetter(1), reverse = True)
+    list_top_10_docIDs = ranked_scores[:10]
+    
     return [score_pair[0] for score_pair in ranked_scores]
 
 """
@@ -291,6 +301,12 @@ query = Query(query_file_dir) # Loads Query
 list_of_docIDs = []
 list_of_doc_lengths = []
 dictionary = load_dictionary()
+
+# Contains tf-idf weighting of query terms used in this search process
+scores = {}
+
+# Contains a list of (docID, tf-idf weight) tuples of the top 10 relevant docs
+list_top_10_docIDs = []
 
 """
 Main execution point after loading dictionary and queries from file-of-queries

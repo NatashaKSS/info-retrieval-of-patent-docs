@@ -110,7 +110,7 @@ class Document:
     def get_title(self):
         title_tag = "Title"
         return self.get_tag_text(title_tag)
-        
+
     def get_abstract(self):
         abstract_tag = "Abstract"
         return self.get_tag_text(abstract_tag)

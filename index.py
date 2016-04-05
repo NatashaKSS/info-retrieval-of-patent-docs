@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # Import standard modules
-import re
 import sys
 import math
 import getopt
@@ -11,7 +10,6 @@ import pickle
 from xml_parser import Document
 
 # Import NLTK modules needed
-import nltk
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 
