@@ -25,8 +25,8 @@ class TestDriver():
     """
     def process_results(self):
         self.print_pretty_header()
-        print "+ve: ", self.true_pos_results_list
-        print "-ve: ", self.true_neg_results_list, "\n"
+        print "+ve dir:", self.pos_query_dir
+        print "-ve dir:", self.neg_query_dir, "\n"
         
         # TODO: Tell Prof that docID EP1918442A2 is duplicated in +ve list so I removed 1 copy for this test
         print "Processed results: "

@@ -65,31 +65,55 @@ def construct_inverted_index() :
         normalize_tokens_list = normalize_tokens(words_list)
         term_list = set(normalize_tokens_list)
         
-        # add patent_docID to the current term_docID_map
-        term_freq_list = []
-        for term in term_list:
-            if not term_docID_map.has_key(term):
-                term_docID_map[term] = []
-            
-            # Term frequencies to be used in computation of doc length
-            term_freq = normalize_tokens_list.count(term)
-            term_freq_list.append(term_freq)
-            term_docID_map[term].append((file_name, term_freq))
-        
-        # add doc length to docLength_map for computation of weights in search.py
-        if not docLength_map.has_key(file_name):
-            docLength_map[file_name] = 0
-        docLength_map[file_name] = compute_doc_length(term_freq_list)
+        add_to_dictionary(file_name, normalize_tokens_list, term_list)
         
     # print term_docID_map # For debugging purposes
     write_inverted_index_to_disk()
+
+"""
+Adds each term in the term_list to the dictionary structure. Also updates each 
+term's term frequency for computing document length.
+
+file_name                docID
+normalize_tokens_list    list of normalized tokens of this document (contains 
+                         duplicate terms)
+term_list                list of normalized terms of this document (no duplicate
+                         terms)
+"""
+def add_to_dictionary(file_name, normalize_tokens_list, term_list):
+    # add patent_docID to the current term_docID_map
+    term_freq_list = []
+    for term in term_list:
+        if not term_docID_map.has_key(term):
+            term_docID_map[term] = []
+        
+        # Term frequencies to be used in computation of doc length
+        term_freq = normalize_tokens_list.count(term)
+        term_freq_list.append(term_freq)
+        
+        # Dictionary structure { term : [(docID, term_freq), ...]}
+        term_docID_map[term].append((file_name, term_freq))
+    
+    # Update doc length vector
+    add_to_doc_length_map(file_name, term_freq_list)
+    
+"""
+Add doc length to docLength_map for computation of weights in search.py.
+
+file_name         docID
+term_freq_list    list of term frequencies
+"""
+def add_to_doc_length_map(file_name, term_freq_list):
+    if not docLength_map.has_key(file_name):
+        docLength_map[file_name] = 0
+    docLength_map[file_name] = compute_doc_length(term_freq_list)
 
 """
 Computes the document vector's magnitude, or the document length.
 
 term_freq_list    List of term frequencies of a document
 
-return            Document length
+return            document length
 """
 def compute_doc_length(term_freq_list):
     result = 0
