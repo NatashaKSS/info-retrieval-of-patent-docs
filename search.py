@@ -37,23 +37,24 @@ def exec_search(query):
     with open(output_file, "w"):
         pass
 
-    """
-    TODO
-    Only tries to work with the title of query...for now...
-    """
-    #print "Title:", query.get_title()
-    #print "Description:", query.get_description()
+    # For debugging
+    # print "Title:", query.get_title()
+    # print "Description:", query.get_description()
     
     # Normalize query list with case-folding and stemming
-    normalized_query_list = normalize_tokens(query.get_title())
+    #
+    # TODO: Let's try by taking the query description only first and match with the abstract zone of doc
+    #
+    normalized_query_list = normalize_tokens(query.get_description(), "abstr")
 
     # Term frequencies of query terms for processing    
     query_term_freq_map = compute_query_term_freq_weights(normalized_query_list)
     
     # Remove duplicate query terms to process each term
     # This first round of searching (using the user's input query) holds a weight of 0.75
-    ranked_results = get_top_results(set(normalized_query_list), query_term_freq_map, 0.75)
+    ranked_results = get_relevant_results(set(normalized_query_list), query_term_freq_map, 0.75)
     
+    # Test Driver for debugging purposes
     my_test = TestDriver(ranked_results)
     my_test.process_results()
     
@@ -76,7 +77,7 @@ weight                 A fractional weight of choice to give to this tf-idf scor
 
 return    List of docIDs that relevant to this query, sorted in descending order.
 """
-def get_top_results(list_of_query_terms, query_term_freq_map, weight):
+def get_relevant_results(list_of_query_terms, query_term_freq_map, weight):
     global scores
     global list_top_10_docIDs
     list_of_query_idf = []
@@ -108,10 +109,12 @@ def get_top_results(list_of_query_terms, query_term_freq_map, weight):
         norm_magnitude = query_norm * list_of_doc_lengths[str(docID)]
         scores[docID] = scores[docID] / norm_magnitude
     
-    # Ranks the scores in descending order
+    # Ranks the scores in descending order and removes entries with score = 0
     filtered_scores = {docID:tf_idf for docID,tf_idf in scores.items() if tf_idf != 0}
     ranked_scores = sorted(filtered_scores.items(), key = operator.itemgetter(1), reverse = True)
     list_top_10_docIDs = ranked_scores[:10]
+    
+    print "Ranked scores: ", ranked_scores
     
     return [score_pair[0] for score_pair in ranked_scores]
 
@@ -183,14 +186,16 @@ query_text    Unnormalized query in String format
 
 return        List of normalized tokens
 """
-def normalize_tokens(query_text):
+def normalize_tokens(query_text, zone_type):
     stemmer = PorterStemmer()
     tokens_list = word_tokenize(query_text)
     normalized_token_list = []
     
     for token in tokens_list:
-        normalized_token_list.append(stemmer.stem(token.lower()))
+        stemmed_token = stemmer.stem(token.lower())
+        normalized_token_list.append(stemmed_token + "." + zone_type)
     
+    print normalized_token_list
     return normalized_token_list
    
 #=====================================================#
@@ -286,27 +291,18 @@ if dict_file == None or postings_file == None or query_file_dir == None or outpu
     usage()
     sys.exit(2)
 
-"""
-Test cases for the processQuery function
-A String of valid query inputs should be used
-The results of the test will be print to standard output on the console.
-
-It is recommended to only perform a few tests at a time to obtain 
-reasonably human-readable outputs.
-"""
-def test_query():
-    print "test_query"
-    
 #=====================================================#
 # Execution of Program
 #=====================================================#
-"""
-Load the dictionary before processing search queries
-"""
+# Load the dictionary before processing search queries
 query = Query(query_file_dir) # Loads Query
 list_of_docIDs = []
 list_of_doc_lengths = []
 dictionary = load_dictionary()
+
+# All element values should sum to 1.0
+# "tit" represents "title", "abs" represents "abstract"
+zone_weights = { "title" : 0.6, "abstr" : 0.4 }
 
 # Contains tf-idf weighting of query terms used in this search process
 scores = {}
@@ -314,8 +310,6 @@ scores = {}
 # Contains a list of (docID, tf-idf weight) tuples of the top 10 relevant docs
 list_top_10_docIDs = []
 
-"""
-Main execution point after loading dictionary and queries from file-of-queries
-"""
+# Main execution point after loading dictionary and queries from file-of-queries
 exec_search(query)
 

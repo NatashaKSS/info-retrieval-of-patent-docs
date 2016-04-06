@@ -53,19 +53,15 @@ def construct_inverted_index() :
         if file_name.endswith(".xml"):
             file_name = file_name[:-4]; # Remove ".xml" in file name
         
-        # Test XML parsing of doc
         xml_doc = Document(file_name, file_dir)
-        #print xml_doc.get_title()
-        #print xml_doc.get_abstract()
-        #print xml_doc.get_IPC_subclass()
-        #xml_doc.print_xml_format()
-        #print "----------------------------------------"
+        zones_to_parse = { "title" : xml_doc.get_title(), "abstr" : xml_doc.get_abstract() }
         
-        words_list = word_tokenize(file_text)
-        normalize_tokens_list = normalize_tokens(words_list)
-        term_list = set(normalize_tokens_list)
-        
-        add_to_dictionary(file_name, normalize_tokens_list, term_list)
+        for zone_type, zone_content in zones_to_parse.iteritems():
+            if zone_content is not None:
+                words_list = word_tokenize(zone_content)
+                normalize_tokens_list = normalize_tokens(words_list)
+                term_list = set(normalize_tokens_list)
+                add_to_dictionary(file_name, normalize_tokens_list, term_list, zone_type)
         
     # print term_docID_map # For debugging purposes
     write_inverted_index_to_disk()
@@ -79,21 +75,23 @@ normalize_tokens_list    list of normalized tokens of this document (contains
                          duplicate terms)
 term_list                list of normalized terms of this document (no duplicate
                          terms)
+zone_type                String representation of the type of zone currently being
+                         processed, either "title" or "abstract"
 """
-def add_to_dictionary(file_name, normalize_tokens_list, term_list):
-    # add patent_docID to the current term_docID_map
+def add_to_dictionary(file_name, normalize_tokens_list, term_list, zone_type):
     term_freq_list = []
     for term in term_list:
-        if not term_docID_map.has_key(term):
-            term_docID_map[term] = []
+        term_zone = term + "." + zone_type
+        if not term_docID_map.has_key(term_zone):
+            term_docID_map[term_zone] = []
         
         # Term frequencies to be used in computation of doc length
         term_freq = normalize_tokens_list.count(term)
         term_freq_list.append(term_freq)
         
-        # Dictionary structure { term : [(docID, term_freq), ...]}
-        term_docID_map[term].append((file_name, term_freq))
-    
+        # Dictionary structure { term_zone : [(docID, term_freq), ...]}
+        term_docID_map[term_zone].append((file_name, term_freq))
+
     # Update doc length vector
     add_to_doc_length_map(file_name, term_freq_list)
     
@@ -215,12 +213,8 @@ if dir_of_docs == None or dict_file == None or postings_file == None:
 #=====================================================#
 # Execution of Program
 #=====================================================#
-"""
-Get set of docIDs to process
-"""
+# Get set of docIDs to process
 list_of_files = listdir(dir_of_docs)
 
-""" 
-Point of indexing execution
-""" 
+# Point of indexing execution
 exec_indexing();
