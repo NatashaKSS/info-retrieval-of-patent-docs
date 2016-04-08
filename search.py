@@ -61,7 +61,7 @@ def exec_search(query):
     
     # NOTE:
     # Query Expansion HEREEEE
-    # You can use list_top_10_docIDs (a global variable) 
+    # You can use ranked_scores_top_10 (a global variable) 
     # which contains (docID, tf-idf weight) tuples of the top 10 relevant docs
     
     
@@ -79,9 +79,10 @@ weight                 A fractional weight of choice to give to this tf-idf scor
 return    List of docIDs that relevant to this query, sorted in descending order.
 """
 def get_relevant_results(list_of_query_terms, query_term_freq_map, weight):
-    global scores, list_top_10_docIDs
-    list_of_query_idf = []
+    global ranked_scores_top_10
+    scores = {}
     term_postings = {}
+    list_of_query_idf = []
     
     for query_term in list_of_query_terms:
         term_postings["title"] = load_postings_for_term(query_term + ".title")
@@ -92,63 +93,101 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map, weight):
         term_postings["all"] = list(term_postings["title"])
         term_postings["all"].extend(term_postings["abstr"])
         
-        query_term_freq_weight = query_term_freq_map[query_term]
         query_term_idf = get_idf(query_term, term_postings["all"])
+        query_term_weight = query_term_freq_map[query_term] * query_term_idf # tf * idf
         
         # Accumulate list of query idf values for computation of normalized query length
         list_of_query_idf.append(query_term_idf)
-        query_term_weight = query_term_freq_weight * query_term_idf # tf * idf
         
         # Scoring
-        compute_weighted_score("title", term_postings, query_term_weight)
-        compute_weighted_score("abstr", term_postings, query_term_weight)
+        scores = compute_weighted_score("title", term_postings, query_term_weight, scores)
+        scores = compute_weighted_score("abstr", term_postings, query_term_weight, scores)
 
-    # Normalization
-    query_norm = get_query_unit_magnitude(list_of_query_idf)
-    for docID in scores.keys():
-        # Doc length can be obtained from the pickle object loaded from disk from dictionary.txt.
-        norm_magnitude = query_norm * list_of_doc_lengths[str(docID)]
-        scores[docID] = (scores[docID] / norm_magnitude) * weight
+    # Normalization of docID results vectors
+    # TODO: Nat - Check if supposed to use query idf for query vector normalization?
+    scores = normalize_scores(scores, list_of_query_idf, weight)
     
     # Ranks the scores in descending order and removes entries with score = 0
-    filtered_scores = {docID : tf_idf for docID, tf_idf in scores.items() if tf_idf != 0}
-    ranked_scores = sorted(filtered_scores.items(), key = operator.itemgetter(1), reverse = True)
-    list_top_10_docIDs = ranked_scores[:10]
+    ranked_scores = get_ranked_scores(scores)
+    ranked_scores_top_10 = ranked_scores[:10]
+    ranked_docIDs = [score_pair[0] for score_pair in ranked_scores]
     
     print "Ranked scores and positions (position, score):"
     print [(ranked_scores.index(docID_score_pair) + 1, docID_score_pair) for docID_score_pair in ranked_scores]
     
-    return [score_pair[0] for score_pair in ranked_scores]
+    return ranked_docIDs
+
+def get_ranked_scores(scores):
+    filtered_scores = {docID : tf_idf for docID, tf_idf in scores.items() if tf_idf != 0}
+    ranked_scores = sorted(filtered_scores.items(), key = operator.itemgetter(1), reverse = True)
+    return ranked_scores
 
 """
-Computes the weighted score for a docID given in a specific postings list. The 
-postings list can be 
+Computes the idf of a query term.
+
+query_term           String representation of a query term
+term_postings_all    Query term's postings across all zone types
+
+return           Inverse doc frequency of a query term.
+"""
+def get_idf(query_term, term_postings_all):
+    doc_freq = 0
+    if term_postings_all is not None:
+        combined_term_postings = set([docID_termFreq_pair[0] \
+                                      for docID_termFreq_pair in term_postings_all])
+        doc_freq = len(combined_term_postings)
+    if doc_freq == 0:
+        # query term does not occur in ANY doc and should not have weight
+        return 0
+    else:
+        return math.log(float(len_list_of_docIDs) / doc_freq, 10)
+
+"""
+Computes the weighted tf-idf score for a docID given in a specific postings 
+list.
 
 zone_type            "title", "abstr" section specifiers for the document.
 term_postings        Postings list of a query term
 query_term_weight    Query term score
-
-# TODO We might not have search_weight here
-search_weight        Weight the current search iteration may use. If the current search 
-                     iteration is unweighted, specify weight = 1.0.
+scores               Mapping of { docID : current score }
+                     
+return    New updated mapping of scores for { docID : score }
 """
-def compute_weighted_score(zone_type, term_postings, query_term_weight):
-    global scores
-    
+def compute_weighted_score(zone_type, term_postings, query_term_weight, scores):
     # Term will be ignored if it does not exist in the dictionary in all zones (postings are empty)
     if term_postings[zone_type] is not None:
         for docID_termFreq_pair in term_postings[zone_type]:
             curr_docID = docID_termFreq_pair[0]
             term_freq = docID_termFreq_pair[1]
             
-            # Document score weighted against its zone types
+            # Document score weighted against its zone type
             doc_term_weight = get_log_term_freq_weighting(term_freq) * zone_weights[zone_type]
             
             # Dot product of query and doc term weights
             if not scores.has_key(curr_docID):
                 scores[curr_docID] = 0
             scores[curr_docID] += query_term_weight * doc_term_weight
+    return scores
 
+"""
+Computes the normalization of tf-idf scores for all result docIDs.
+
+scores               Mapping of { docID : score }
+list_of_query_idf    List of idf values for the query vectors
+weight               Weight the current search iteration may use. If the current search 
+                     iteration is unweighted, specify weight = 1.0.
+                     
+return    New updated mapping of { docID : score } normalized
+"""
+def normalize_scores(scores, list_of_query_idf, weight):
+    # Normalization
+    query_norm = get_query_unit_magnitude(list_of_query_idf)
+    for docID in scores.keys():
+        # Doc length can be obtained from the pickle object loaded from disk from dictionary.txt.
+        norm_magnitude = query_norm * list_of_doc_lengths[str(docID)]
+        scores[docID] = (scores[docID] / norm_magnitude) * weight
+    return scores
+       
 """
 Computes the magnitude of the query vector for normalization.
 
@@ -192,25 +231,6 @@ def get_log_term_freq_weighting(term_freq):
         return 0;
     else:
         return 1 + math.log(term_freq, 10)
-
-"""
-Computes the idf of a query term.
-
-query_term           String representation of a query term
-term_postings_all    Query term's postings across all zone types
-
-return           Inverse doc frequency of a query term.
-"""
-def get_idf(query_term, term_postings_all):
-    doc_freq = 0
-    if term_postings_all is not None:
-        combined_term_postings = set([docID_termFreq_pair[0] for docID_termFreq_pair in term_postings_all])
-        doc_freq = len(combined_term_postings)
-    if doc_freq == 0:
-        # query term does not occur in ANY document and should not be regarded as weight
-        return 0
-    else:
-        return math.log(float(len_list_of_docIDs) / doc_freq, 10)
 
 """
 Tokenizes and normalizes the query from a String format to a list of case-folded 
@@ -341,7 +361,7 @@ zone_weights = { "title" : 0.6, "abstr" : 0.4 }
 scores = {}
 
 # Contains a list of (docID, tf-idf weight) tuples of the top 10 relevant docs
-list_top_10_docIDs = []
+ranked_scores_top_10 = []
 
 # Main execution point after loading dictionary and queries from file-of-queries
 exec_search(query)
