@@ -79,8 +79,7 @@ weight                 A fractional weight of choice to give to this tf-idf scor
 return    List of docIDs that relevant to this query, sorted in descending order.
 """
 def get_relevant_results(list_of_query_terms, query_term_freq_map, weight):
-    global scores
-    global list_top_10_docIDs
+    global scores, list_top_10_docIDs
     list_of_query_idf = []
     term_postings = {}
     
@@ -111,14 +110,13 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map, weight):
         norm_magnitude = query_norm * list_of_doc_lengths[str(docID)]
         scores[docID] = (scores[docID] / norm_magnitude) * weight
     
-    print "scores", scores
-    
     # Ranks the scores in descending order and removes entries with score = 0
     filtered_scores = {docID : tf_idf for docID, tf_idf in scores.items() if tf_idf != 0}
     ranked_scores = sorted(filtered_scores.items(), key = operator.itemgetter(1), reverse = True)
     list_top_10_docIDs = ranked_scores[:10]
     
-    print "Ranked scores: ", ranked_scores
+    print "Ranked scores and positions (position, score):"
+    print [(ranked_scores.index(docID_score_pair) + 1, docID_score_pair) for docID_score_pair in ranked_scores]
     
     return [score_pair[0] for score_pair in ranked_scores]
 
