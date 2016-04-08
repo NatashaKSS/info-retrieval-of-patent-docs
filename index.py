@@ -6,8 +6,9 @@ import getopt
 from os import listdir
 import pickle
 
-# Import modules for XML parsing
+# Import modules for parsing
 from xml_parser import Document
+from Normalization import normalize_remove_stop_words
 
 # Import NLTK modules needed
 from nltk.tokenize import word_tokenize
@@ -135,7 +136,8 @@ def normalize_tokens(tokens_list):
     normalized_token_list = []
     
     for token in tokens_list:
-        normalized_token_list.append(stemmer.stem(token.lower()))
+        if not normalize_remove_stop_words(token) is None:
+            normalized_token_list.append(stemmer.stem(token.lower()))
     
     return normalized_token_list
    
