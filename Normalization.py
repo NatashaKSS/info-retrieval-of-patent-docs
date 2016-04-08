@@ -22,4 +22,4 @@ def normalize(word):
     if word in PUNCTUATION or (stop_words and word in stops):
         return None
 
-    return word
+    return word.lower()
