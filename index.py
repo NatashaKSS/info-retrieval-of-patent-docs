@@ -1,18 +1,19 @@
 #!/usr/bin/python
 # Import standard modules
 import sys
+import string
 import math
 import getopt
-from os import listdir
 import pickle
+from os import listdir
 
 # Import modules for parsing
 from xml_parser import Document
-from Normalization import normalize_remove_stop_words
 
 # Import NLTK modules needed
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
 
 #======================================================================#
 # Program Description:
@@ -136,11 +137,28 @@ def normalize_tokens(tokens_list):
     normalized_token_list = []
     
     for token in tokens_list:
-        if not normalize_remove_stop_words(token) is None:
-            normalized_token_list.append(stemmer.stem(token.lower()))
+        token = token.lower()
+        if not is_stop_word(token):
+            normalized_token_list.append(stemmer.stem(token))
     
     return normalized_token_list
-   
+
+"""
+Determines if a word is a stop word from the NLTK library.
+
+word      The word to test in String format. Does not matter if in capital letters or not.
+
+return    result of removing words (will return None if term is a stopword)
+"""
+# Some additional stop words specific to this corpus. The effect of stopping those words is still unclear.
+# ... add here ...?
+def is_stop_word(word):
+    word = word.lower()
+    stops = set(stopwords.words('english'))
+    punct = set(string.punctuation)
+    
+    return (word in punct) or (word in stops)
+
 """
 Sets up dictionary and postings data structures to be written to the respective 
 files.

@@ -38,7 +38,7 @@ def exec_search(query):
     with open(output_file, "w"):
         pass
 
-    # Normalize query list with case-folding and stemming
+    # Normalize query list with case-folding, stemming and stop word removal
     normalized_query_list = normalize_tokens(query.get_description())
 
     # Term frequencies of query terms for processing    
