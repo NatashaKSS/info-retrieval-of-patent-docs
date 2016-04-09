@@ -38,14 +38,7 @@ def exec_search(query):
     with open(output_file, "w"):
         pass
 
-    # For debugging
-    # print "Title:", query.get_title()
-    # print "Description:", query.get_description()
-    
     # Normalize query list with case-folding and stemming
-    #
-    # TODO: Let's try by taking the query description only first and match with the abstract zone of doc
-    #
     normalized_query_list = normalize_tokens(query.get_description())
 
     # Term frequencies of query terms for processing    
@@ -53,6 +46,7 @@ def exec_search(query):
     
     # Remove duplicate query terms to process each term
     # This first round of searching (using the user's input query) holds a weight of 0.75
+    # 2nd round of searching should use 0.25 weight
     ranked_results = get_relevant_results(set(normalized_query_list), query_term_freq_map, 0.75)
     
     # Test Driver for debugging purposes
@@ -63,7 +57,6 @@ def exec_search(query):
     # Query Expansion HEREEEE
     # You can use ranked_scores_top_10 (a global variable) 
     # which contains (docID, tf-idf weight) tuples of the top 10 relevant docs
-    
     
     write_to_output_file(ranked_results)
 
@@ -99,12 +92,12 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map, weight):
         # Accumulate list of query idf values for computation of normalized query length
         list_of_query_idf.append(query_term_idf)
         
-        # Scoring
+        # Weighted tf-idf scores (of the various zones, which each have differing weights)
         scores = compute_weighted_score("title", term_postings, query_term_weight, scores)
         scores = compute_weighted_score("abstr", term_postings, query_term_weight, scores)
 
     # Normalization of docID results vectors
-    # TODO: Nat - Check if supposed to use query idf for query vector normalization?
+    # TODO: Nat - Check if supposed to use query idf for query vector normalization? Does not affect current results
     scores = normalize_scores(scores, list_of_query_idf, weight)
     
     # Ranks the scores in descending order and removes entries with score = 0
