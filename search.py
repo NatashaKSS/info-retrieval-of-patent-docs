@@ -105,11 +105,17 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map, weight):
     ranked_scores_top_10 = ranked_scores[:10]
     ranked_docIDs = [score_pair[0] for score_pair in ranked_scores]
     
-    print "Ranked scores and positions (position, score):"
-    print [(ranked_scores.index(docID_score_pair) + 1, docID_score_pair) for docID_score_pair in ranked_scores]
+    print "TOP 50 Ranked scores and positions (position, score):"
+    print [(ranked_scores.index(docID_score_pair) + 1, docID_score_pair) for docID_score_pair in ranked_scores][:50]
+    print
     
     return ranked_docIDs
 
+"""
+Ranks the scores of every docID
+
+return    
+"""
 def get_ranked_scores(scores):
     filtered_scores = {docID : tf_idf for docID, tf_idf in scores.items() if tf_idf != 0}
     ranked_scores = sorted(filtered_scores.items(), key = operator.itemgetter(1), reverse = True)
