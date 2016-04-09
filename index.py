@@ -148,7 +148,7 @@ Determines if a word is a stop word from the NLTK library.
 
 word      The word to test in String format. Does not matter if in capital letters or not.
 
-return    result of removing words (will return None if term is a stopword)
+return    True if the word is a stop word, false otherwise.
 """
 # Some additional stop words specific to this corpus. The effect of stopping those words is still unclear.
 # ... add here ...?
@@ -183,19 +183,15 @@ def write_inverted_index_to_disk():
         docFreq = len(term_docID_map[term])
         curr_pointer = to_postings_file.tell()
         
-        # Dictionary map in the form of:
-        # { term : [docFreq, value of pointer offset in postings file] }
+        # Dictionary map in the form of { term : [docFreq, pointer in postings file] }
         dictionary[term] = [docFreq, curr_pointer]
         
-        # Postings objects of sorted terms written to postings.txt, individually
-        # for search phase retrieval
+        # Postings objects of terms written to postings.txt
         postings_docID_list = term_docID_map[term]
-        #print postings_docID_list
         pickle.dump(postings_docID_list, to_postings_file)
     pickle.dump(dictionary, to_dict_file)
     
-    # Allocate some dictionary memory to storing the universal set of docIDs
-    # for search.py
+    # Allocate some dictionary memory to storing the universal set of docIDs for search.py
     pickle.dump(list_of_files, to_dict_file)
     
     # Allocate some dictionary memory to storing the doc length of each doc
