@@ -82,11 +82,7 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map, weight):
         term_postings["abstr"] = load_postings_for_term(query_term + ".abstr")
         #term_postings["IPC"] = load_postings_for_term(query_term + ".IPC") # To be used for IPC subclass
         
-        # Make a big postings list joining each zone-specific postings for query idf computation
-        term_postings["all"] = list(term_postings["title"])
-        term_postings["all"].extend(term_postings["abstr"])
-        
-        query_term_idf = get_idf(query_term, term_postings["all"])
+        query_term_idf = get_idf(query_term, term_postings)
         query_term_weight = query_term_freq_map[query_term] * query_term_idf # tf * idf
         
         # Accumulate list of query idf values for computation of normalized query length
@@ -97,7 +93,7 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map, weight):
         scores = compute_weighted_score("abstr", term_postings, query_term_weight, scores)
 
     # Normalization of docID results vectors
-    # TODO: Nat - Check if supposed to use query idf for query vector normalization? Does not affect current results
+    # TODO: Nat - Check if supposed to use query idf for query vector normalization? Note: Does not affect current results
     scores = normalize_scores(scores, list_of_query_idf, weight)
     
     # Ranks the scores in descending order and removes entries with score = 0
@@ -151,13 +147,18 @@ def get_ranked_scores(scores):
 """
 Computes the idf of a query term.
 
-query_term           String representation of a query term
-term_postings_all    Query term's postings across all zone types
+query_term       Query term in String format
+term_postings    Query term's postings across all zone types
 
 return           Inverse doc frequency of a query term.
 """
-def get_idf(query_term, term_postings_all):
+def get_idf(query_term, term_postings):
     doc_freq = 0
+
+    # Make a big postings list joining each zone-specific postings for query idf computation
+    term_postings_all = list(term_postings["title"])
+    term_postings_all.extend(term_postings["abstr"])
+    
     if term_postings_all is not None:
         combined_term_postings = set([docID_termFreq_pair[0] \
                                       for docID_termFreq_pair in term_postings_all])
