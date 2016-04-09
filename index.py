@@ -27,9 +27,6 @@ from nltk.corpus import stopwords
 # search.py for normalization of the doc vectors.
 #======================================================================#
 
-term_docID_map = {}
-docLength_map = {}
-
 """
 Executes the program
 """
@@ -37,20 +34,15 @@ def exec_indexing():
     construct_inverted_index()
 
 """
-Constructs the (term, (docID, term frequency)) mapping and writes to disk
+Constructs the {term : (docID, term frequency), ...} mapping and writes to disk
 """
 def construct_inverted_index() :
-    # Iterates through a sorted list of all files, each file with a unique
-    # filename, i.e. docID. Ensures postings docIDs will also be in sorted
-    # order when appended to term-docID mapping.
     for file_name in list_of_files:
-        # Checks for trailing slash in case
+        # Checks for trailing slash in file name
         if dir_of_docs.endswith("/"):
             file_dir = dir_of_docs + file_name
-            file_text = open(file_dir, "r").read()
         else:
             file_dir = dir_of_docs + "/" + file_name
-            file_text = open(file_dir, "r").read()
         
         if file_name.endswith(".xml"):
             file_name = file_name[:-4]; # Remove ".xml" in file name
@@ -63,9 +55,8 @@ def construct_inverted_index() :
                 words_list = word_tokenize(zone_content)
                 normalize_tokens_list = normalize_tokens(words_list)
                 term_list = set(normalize_tokens_list)
-                add_to_dictionary(file_name, normalize_tokens_list, term_list, zone_type)
-        
-    # print term_docID_map # For debugging purposes
+                add_to_dictionary(file_name, normalize_tokens_list, term_list, zone_type, xml_doc)
+
     write_inverted_index_to_disk()
 
 """
@@ -80,7 +71,7 @@ term_list                list of normalized terms of this document (no duplicate
 zone_type                String representation of the type of zone currently being
                          processed, either "title" or "abstract"
 """
-def add_to_dictionary(file_name, normalize_tokens_list, term_list, zone_type):
+def add_to_dictionary(file_name, normalize_tokens_list, term_list, zone_type, xml_doc):
     term_freq_list = []
     for term in term_list:
         term_zone = term + "." + zone_type
@@ -93,20 +84,19 @@ def add_to_dictionary(file_name, normalize_tokens_list, term_list, zone_type):
         
         # Dictionary structure { term_zone : [(docID, term_freq), ...]}
         term_docID_map[term_zone].append((file_name, term_freq))
-
-    # Update doc length vector
-    add_to_doc_length_map(file_name, term_freq_list)
+    update_doc_length_IPC(file_name, term_freq_list, xml_doc)
     
 """
-Add doc length to docLength_map for computation of weights in search.py.
+Add doc length to docID_len_IPC_map for computation of weights in search.py.
 
 file_name         docID
 term_freq_list    list of term frequencies
 """
-def add_to_doc_length_map(file_name, term_freq_list):
-    if not docLength_map.has_key(file_name):
-        docLength_map[file_name] = 0
-    docLength_map[file_name] = compute_doc_length(term_freq_list)
+def update_doc_length_IPC(file_name, term_freq_list, xml_doc):
+    if not docID_len_IPC_map.has_key(file_name):
+        docID_len_IPC_map[file_name] = [0, ""]
+    docID_len_IPC_map[file_name][0] = compute_doc_length(term_freq_list)
+    docID_len_IPC_map[file_name][1] = xml_doc.get_IPC_subclass()
 
 """
 Computes the document vector's magnitude, or the document length.
@@ -191,11 +181,8 @@ def write_inverted_index_to_disk():
         pickle.dump(postings_docID_list, to_postings_file)
     pickle.dump(dictionary, to_dict_file)
     
-    # Allocate some dictionary memory to storing the universal set of docIDs for search.py
-    pickle.dump(list_of_files, to_dict_file)
-    
-    # Allocate some dictionary memory to storing the doc length of each doc
-    pickle.dump(docLength_map, to_dict_file)
+    # Allocate some dictionary memory to storing the doc length and IPC subclass of each doc
+    pickle.dump(docID_len_IPC_map, to_dict_file)
     
     to_dict_file.close()
     to_postings_file.close()
@@ -231,6 +218,9 @@ if dir_of_docs == None or dict_file == None or postings_file == None:
 #=====================================================#
 # Get set of docIDs to process
 list_of_files = listdir(dir_of_docs)
+
+term_docID_map = {}
+docID_len_IPC_map = {}
 
 # Point of indexing execution
 exec_indexing();

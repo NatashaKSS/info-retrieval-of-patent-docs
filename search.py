@@ -214,7 +214,7 @@ def normalize_scores(scores, list_of_query_idf, weight):
     query_norm = get_query_unit_magnitude(list_of_query_idf)
     for docID in scores.keys():
         # Doc length can be obtained from the pickle object loaded from disk from dictionary.txt.
-        norm_magnitude = query_norm * list_of_doc_lengths[str(docID)]
+        norm_magnitude = query_norm * get_docID_length(docID)
         scores[docID] = (scores[docID] / norm_magnitude) * weight
     return scores
      
@@ -266,12 +266,9 @@ def load_dictionary():
     from_dict_file= open(dict_file, "r")
     dictionary_loaded = pickle.load(from_dict_file)
     
-    # Loads the list of all docIDs used in our corpus, since it 
-    # was transported from index.txt.
-    global list_of_docIDs
-    global list_of_doc_lengths
-    list_of_docIDs = pickle.load(from_dict_file)
-    list_of_doc_lengths = pickle.load(from_dict_file)
+    # Also load the list of all docIDs, transported from index.txt
+    global list_doc_length_IPC
+    list_doc_length_IPC = pickle.load(from_dict_file)
     
     from_dict_file.close()
     return dictionary_loaded
@@ -284,8 +281,7 @@ def write_to_output_file(result_docIDs_list):
         for docID in result_docIDs_list:
             to_output_file.write(str(docID))
             if not docID == result_docIDs_list[-1]:
-                # No space will be written to the end of the query result line in 
-                # the output file
+                # No space at the end of the query result line in output file
                 to_output_file.write(" ")
         to_output_file.write("\n")
      
@@ -303,13 +299,17 @@ def load_postings_for_term(term):
     docID_list = []
     
     if term in dictionary.keys():
-        # A seek to the exact location of the pickle object representing 
-        # this term's list of docIDs
         from_postings_file.seek(dictionary[term][1], 0)
         docID_list = pickle.load(from_postings_file)
     
     from_postings_file.close()
     return docID_list
+
+def get_docID_length(docID):
+    return list_doc_length_IPC[docID][0]
+
+def get_docID_IPC(docID):
+    return list_doc_length_IPC[docID][1]
 
 """
 Interprets arguments of this search program
@@ -347,10 +347,9 @@ if dict_file == None or postings_file == None or query_file_dir == None or outpu
 #=====================================================#
 # Load the dictionary before processing search queries
 query = Query(query_file_dir) # Loads Query
-list_of_docIDs = []
-list_of_doc_lengths = []
+list_doc_length_IPC = {}
 dictionary = load_dictionary()
-len_list_of_docIDs = len(list_of_docIDs)
+len_list_of_docIDs = len(list_doc_length_IPC.keys())
 
 # All element values should sum to 1.0
 # "abstr" represents "abstract"
