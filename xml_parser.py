@@ -23,11 +23,8 @@ class Query:
     query_file_dir     String representation of the query file's directory on disk
     """
     def __init__(self, query_file_dir):
-        # File directory containing document
         self.query_file_dir = query_file_dir
-        # Title attribute of a Query
         self.title = None
-        # Description attribute of a Query
         self.description = None
         self.parse_query()
     
@@ -49,7 +46,9 @@ class Query:
         
         if description is not None:
             list_of_stripped_lines = [line.strip() for line in description.splitlines()]
-            self.description = " ".join(list_of_stripped_lines).strip()
+            
+            # Removes "Relevant documents will describe..."
+            self.description = " ".join(list_of_stripped_lines).strip().split(" ", 4)[4]
         else:
             self.description = None
         
@@ -81,8 +80,8 @@ class Document:
             self.doc_file_name = doc_file_name[:-4]; # Remove ".xml" in file name
         else:
             self.doc_file_name = doc_file_name
-        # File directory containing document
         self.doc_file_dir = doc_file_dir
+
         # Attribute-text mapping
         self.attrib_text_map = {}
         self.parse_doc()
