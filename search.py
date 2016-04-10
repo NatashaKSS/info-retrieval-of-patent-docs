@@ -1,5 +1,11 @@
 #!/usr/bin/python
 # Import standard modules
+
+"""
+NOTE NEED THESE MODULES TOGETHER WITH SUBMISSION:
+xml_parser.py, token_normalization.py, test_driver.py
+"""
+
 import sys
 import math
 import getopt
