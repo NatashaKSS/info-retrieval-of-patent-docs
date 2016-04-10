@@ -1,0 +1,61 @@
+Sun Apr 10 12:36:01 2016
+
+tf-idf weighted for "title" and "abstract" zones
+Removed stop words
+
+Position: 11/16
+
+# result.1.txt content: 
+Average F: 0.504935599941432
+Average Precision: 0.412500347955594
+Average Recall: 0.597783933518004
+Count: 1448
+Correct: 49
+Points Judged: 190
+# END result.1.txt content
+
+# result.2.txt content: 
+Average F: 0.56197988374908
+Average Precision: 0.503339613193852
+Average Recall: 0.645452328700317
+Count: 2018
+Correct: 440
+Points Judged: 1367
+# END result.2.txt content: 
+
+# result.3.txt content
+Average F: 0.404104960248517
+Average Precision: 0.249997880804951
+Average Recall: 0.565338115346793
+Count: 872
+Correct: 59
+Points Judged: 293
+# END result.3.txt content
+
+# result.4.txt content:
+Average F: 0.193171987057522
+Average Precision: 0.125914513651482
+Average Recall: 0.252631578947368
+Count: 1176
+Correct: 24
+Points Judged: 190
+# END result.4.txt content
+
+# result.5.txt content:
+Average F: 0
+Average Precision: 0
+Average Recall: 0
+Count: 1179
+Correct: 0
+Points Judged: 0
+# END result.5.txt content
+-----------------------------------------------------
+<Insert date here>
+
+tf-idf weighted for "title" and "abstract" zones
+Removed stop words
+...additional changes?
+
+Position: <current position> / <no. of teams>
+
+<Paste results here>
