@@ -5,17 +5,14 @@ import math
 import getopt
 import pickle
 import operator
-import itertools
 
-# Import modules for XML parsing
+# Import modules for xml parsing, token normalization and testing
+from token_normalization import normalize_tokens
 from xml_parser import Query
-
-# Import modules for testing
 from test_driver import TestDriver
 
 # Import NLTK modules needed
-from nltk import word_tokenize
-from nltk.stem import PorterStemmer
+from nltk.tokenize import word_tokenize
 
 #======================================================================#
 # Program Description:
@@ -39,8 +36,8 @@ def exec_search(query):
         pass
 
     # Normalize query list with case-folding, stemming and stop word removal
-    normalized_query_list = normalize_tokens(query.get_description())
-
+    normalized_query_list = normalize_tokens(word_tokenize(query.get_description()))
+    
     # Term frequencies of query terms for processing    
     query_term_freq_map = compute_query_term_freq_weights(normalized_query_list)
     
@@ -231,24 +228,6 @@ def get_log_term_freq_weighting(term_freq):
     else:
         return 1 + math.log(term_freq, 10)
 
-"""
-Tokenizes and normalizes the query from a String format to a list of case-folded 
-and stemmed query tokens.
-
-query_text    Unnormalized query in String format
-
-return        List of normalized tokens
-"""
-def normalize_tokens(query_text):
-    stemmer = PorterStemmer()
-    tokens_list = word_tokenize(query_text)
-    normalized_token_list = []
-    
-    for token in tokens_list:
-        normalized_token_list.append(stemmer.stem(token.lower()))
-    
-    return normalized_token_list
-   
 #=====================================================#
 # Pre-processing functions:
 # Loading the file-of-queries, loading the dictionary, loading a term's postings

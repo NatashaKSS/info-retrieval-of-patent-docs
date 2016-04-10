@@ -1,19 +1,17 @@
 #!/usr/bin/python
 # Import standard modules
 import sys
-import string
 import math
 import getopt
 import pickle
 from os import listdir
 
-# Import modules for parsing
+# Import modules for xml parsing and token normalization
 from xml_parser import Document
+from token_normalization import normalize_tokens
 
 # Import NLTK modules needed
 from nltk.tokenize import word_tokenize
-from nltk.stem import PorterStemmer
-from nltk.corpus import stopwords
 
 #======================================================================#
 # Program Description:
@@ -52,8 +50,7 @@ def construct_inverted_index() :
         
         for zone_type, zone_content in zones_to_parse.iteritems():
             if zone_content is not None:
-                words_list = word_tokenize(zone_content)
-                normalize_tokens_list = normalize_tokens(words_list)
+                normalize_tokens_list = normalize_tokens(word_tokenize(zone_content))
                 term_list = set(normalize_tokens_list)
                 add_to_dictionary(file_name, normalize_tokens_list, term_list, zone_type, xml_doc)
 
@@ -114,40 +111,6 @@ def compute_doc_length(term_freq_list):
             term_freq_log_weighting = 1 + math.log(term_freq, 10)
         result += math.pow(term_freq_log_weighting, 2)
     return math.sqrt(result)
-
-"""
-Normalizes tokens through case-folding and stemming using Porter's Stemmer.
-
-tokens_list    List of unnormalized tokens
-
-return         List of normalized tokens
-"""
-def normalize_tokens(tokens_list):
-    stemmer = PorterStemmer()
-    normalized_token_list = []
-    
-    for token in tokens_list:
-        token = token.lower()
-        if not is_stop_word(token):
-            normalized_token_list.append(stemmer.stem(token))
-    
-    return normalized_token_list
-
-"""
-Determines if a word is a stop word from the NLTK library.
-
-word      The word to test in String format. Does not matter if in capital letters or not.
-
-return    True if the word is a stop word, false otherwise.
-"""
-# Some additional stop words specific to this corpus. The effect of stopping those words is still unclear.
-# ... add here ...?
-def is_stop_word(word):
-    word = word.lower()
-    stops = set(stopwords.words('english'))
-    punct = set(string.punctuation)
-    
-    return (word in punct) or (word in stops)
 
 """
 Sets up dictionary and postings data structures to be written to the respective 
