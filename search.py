@@ -48,10 +48,12 @@ def exec_search(query):
     query_term_freq_map = compute_query_term_freq_weights(normalized_query_list, None)
     
     # Remove duplicate query terms to process each term and compute relevant docIDs
-    ranked_results = get_relevant_results(set(normalized_query_list), query_term_freq_map, 0.75)
+    ranked_results = get_relevant_results(set(normalized_query_list), query_term_freq_map)
     
     new_normalized_query_list = None # TODO: Add once Li Qi finishes the hash map
+    combined_query_list = combine_list(normalized_query_list, new_normalized_query_list)
     query_term_freq_map = compute_query_term_freq_weights(normalized_query_list, new_normalized_query_list)
+    ranked_results = get_relevant_results(set(combined_query_list), query_term_freq_map)
     
     # Test Driver for debugging purposes
     my_test = TestDriver(ranked_results)
@@ -156,8 +158,7 @@ def get_idf(query_term, term_postings):
     doc_freq = 0
 
     # Make a big postings list joining each zone-specific postings for query idf computation
-    term_postings_all = list(term_postings["title"])
-    term_postings_all.extend(term_postings["abstr"])
+    term_postings_all = combine_list(term_postings["title"], term_postings["abstr"])
     
     if term_postings_all is not None:
         combined_term_postings = set([docID_termFreq_pair[0] \
@@ -213,7 +214,7 @@ def compute_query_term_freq_weights(old_normalized_list, new_normalized_list):
     
     for query_term in old_normalized_list:
         if not query_term_freq_map.has_key(query_term): # Checks for duplicate keys
-            if query_term in new_normalized_list:
+            if not (new_normalized_list is None) and (query_term in new_normalized_list):
                 # If the term is also in the new query list, it is "more important"
                 weight = 1.5
             else:
@@ -255,7 +256,24 @@ def normalize_scores(scores, list_of_query_idf):
         norm_magnitude = query_norm * get_docID_length(docID)
         scores[docID] = (scores[docID] / norm_magnitude)
     return scores
-     
+    
+"""
+Combines a copy of the contents of a list and appends a copy of the contents 
+of the operand list to it.
+
+list1    Base
+list2    List to append to list1
+
+return    Combined list of list1 and list2
+""" 
+def combine_list(list1, list2):
+    if not list2 is None:
+        combined = list(list1)
+        combined.extend(list2)
+        return combined
+    else:
+        return list1
+
 #=====================================================#
 # Pre-processing functions:
 # Loading the file-of-queries, loading the dictionary, loading a term's postings
@@ -273,7 +291,7 @@ def load_dictionary():
     from_dict_file= open(dict_file, "r")
     dictionary_loaded = pickle.load(from_dict_file)
     
-    # Also load the list of all docIDs, transported from index.txt
+    # Also load { docID : [docLength, IPC code] }, transported from index.py
     global list_doc_length_IPC
     list_doc_length_IPC = pickle.load(from_dict_file)
     
