@@ -155,7 +155,7 @@ def write_inverted_index_to_disk():
     
     # Allocate some dict memory to storing String of directory of docs 
     # for pseudo-relevance query expansion
-    pickle.dump(dir_of_docs);
+    pickle.dump(dir_of_docs, to_dict_file);
     
     to_dict_file.close()
     to_postings_file.close()

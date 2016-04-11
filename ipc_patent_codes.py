@@ -40,7 +40,7 @@ class IPC_Patent:
         "A24F": "Smokers' requisites; Match boxes",
         "A41": "WEARINGAPPAREL",
         "A41B": "Shirts; Underwear; Baby linen; Handkerchiefs",
-        "A41C": "Corsets; Brassières",
+        "A41C": "Corsets; Brassieres",
         "A41D": "Outerwear; Protective garments; Accessories",
         "A41F": "Garment fastenings; Suspenders",
         "A41G": "Artificial flowers; Wigs; Masks; Feathers",
@@ -459,7 +459,7 @@ class IPC_Patent:
         "D21F": "Paper-making machines; Methods of producing paper thereon",
         "D21G": "Calenders; Accessories for paper-making machines",
         "D21H": "Pulp compositions; Preparation thereof not covered by subclasses D 21 C; D; Impregnating or coating of paper; Treatment of finished paper not covered by class B 31 or subclass D 21 G; Paper not otherwise provided for",
-        "D21J": "vFibreboard; Manufacture of articles from cellulosic fibrous suspensions or from papiermâché",
+        "D21J": "Fibreboard; Manufacture of articles from cellulosic fibrous suspensions or from papiermache",
         "E01": "CONSTRUCTION OF ROADS; RAILWAYS; OR BRIDGES",
         "E01B": "Permanent way; Permanent-way tools; Machines for making railways of all kinds",
         "E01C": "Construction of; or surfaces for; roads; sports grounds; or the like; Machines or auxiliary tools for construction or repair",
@@ -754,9 +754,14 @@ class IPC_Patent:
         "H05H": "Plasma technique; Production of accelerated electrically- charged particles or of neutrons; Production or acceleration of neutral molecular or atomic beams"
     }
     
-    def get_patent_content(self, patent_code):
+    """
+    Gets the description of the IPC subclass of this IPC patent code
+    
+    return    Sting representation of the description or None if the code does not match any.
+    """
+    def get_patent_description(self, patent_code):
         self.patent_code = patent_code
         if len(patent_code)== 0:
-            return False
+            return None
         else:
             return self.patents[patent_code]

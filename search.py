@@ -3,7 +3,10 @@
 
 """
 NOTE NEED THESE MODULES TOGETHER WITH SUBMISSION:
-xml_parser.py, token_normalization.py, test_driver.py
+xml_parser.py, token_normalization.py, ipc_patent_codes 
+
+BUT NOT (AND PLEASE COMMENT OUT ALL TEST STATEMENTS HERE)
+test_driver.py
 """
 
 import sys
@@ -14,9 +17,10 @@ import operator
 
 # Import modules for xml parsing, token normalization and testing
 from token_normalization import normalize_tokens
+from ipc_patent_codes import IPC_Patent
 from xml_parser import Query
 from xml_parser import Document
-from test_driver import TestDriver
+#from test_driver import TestDriver
 
 # Import NLTK modules needed
 from nltk.tokenize import word_tokenize
@@ -37,6 +41,7 @@ Executes the search operation on the given queries in file-of-queries
 query    Query object parsed at start of program.
 """
 def exec_search(query):
+    global scores, ranked_scores_top_10
     # Wipe the output file before processing all the queries to ensure previous
     # runs of this program do not merely append the results to the end of the file
     with open(output_file, "w"):
@@ -47,18 +52,23 @@ def exec_search(query):
     
     # Term frequencies of query terms for processing    
     query_term_freq_map = compute_query_term_freq_weights(normalized_query_list, None)
-    
+
     # Remove duplicate query terms to process each term and compute relevant docIDs
     ranked_results = get_relevant_results(set(normalized_query_list), query_term_freq_map)
     
-    new_normalized_query_list = None # TODO: Add once Li Qi finishes the hash map
+    # Query Expansion (Using IPC subclass description)
+    ipc_patents = IPC_Patent()
+    ipc_patent_description = ipc_patents.get_patent_description(get_best_IPC_class())
+    new_normalized_query_list = normalize_tokens(word_tokenize(ipc_patent_description))
     combined_query_list = combine_list(normalized_query_list, new_normalized_query_list)
     query_term_freq_map = compute_query_term_freq_weights(normalized_query_list, new_normalized_query_list)
+   
+    # Query expansion - Computing results
     ranked_results = get_relevant_results(set(combined_query_list), query_term_freq_map)
     
     # Test Driver for debugging purposes
-    my_test = TestDriver(ranked_results)
-    my_test.process_results()
+    # my_test = TestDriver(ranked_results)
+    # my_test.process_results()
     
     write_to_output_file(ranked_results)
 
@@ -101,9 +111,9 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map):
     ranked_scores_top_10 = ranked_scores[:10]
     ranked_docIDs = [score_pair[0] for score_pair in ranked_scores]
     
-    print "TOP 50 Ranked scores and positions (position, score):"
-    print [(ranked_scores.index(docID_score_pair) + 1, docID_score_pair) for docID_score_pair in ranked_scores][:50]
-    print
+    #print "TOP 50 Ranked scores and positions (position, score):"
+    #print [(ranked_scores.index(docID_score_pair) + 1, docID_score_pair) for docID_score_pair in ranked_scores][:50]
+    #print
     
     return ranked_docIDs
 
@@ -253,6 +263,25 @@ def normalize_scores(scores, list_of_query_idf):
         norm_magnitude = query_norm * get_docID_length(docID)
         scores[docID] = (scores[docID] / norm_magnitude)
     return scores
+
+"""
+IPC Query expansion: Finds the most frequently occurring IPC subclass
+
+return    Best IPC subclass that occurs most frequently in the top 10 docs
+"""
+def get_best_IPC_class():
+    IPC_class_list = {}
+    
+    for doc_ID, doc_score in ranked_scores_top_10:
+        ipc_class = get_docID_IPC(doc_ID)
+        
+        if ipc_class in IPC_class_list.keys():
+            IPC_class_list[ipc_class] += 1
+        else:
+            IPC_class_list[ipc_class] = 1
+    best_IPC_code = max(IPC_class_list.iteritems(), key = operator.itemgetter(1))[0]
+    
+    return best_IPC_code
     
 """
 Combines a copy of the contents of a list and appends a copy of the contents 
@@ -371,7 +400,7 @@ if dict_file == None or postings_file == None or query_file_dir == None or outpu
 # Execution of Program
 #=====================================================#
 # Load the dictionary before processing search queries
-query = Query(query_file_dir) # Loads Query
+query = Query(query_file_dir) # Loads Query XML
 dir_of_docs_from_index = ""
 list_doc_length_IPC = {}
 dictionary = load_dictionary()
