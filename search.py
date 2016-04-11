@@ -49,17 +49,11 @@ def exec_search(query):
     
     # Remove duplicate query terms to process each term
     # This first round of searching (using the user's input query) holds a weight of 0.75
-    # 2nd round of searching should use 0.25 weight
     ranked_results = get_relevant_results(set(normalized_query_list), query_term_freq_map, 0.75)
     
     # Test Driver for debugging purposes
     my_test = TestDriver(ranked_results)
     my_test.process_results()
-    
-    # NOTE:
-    # Query Expansion HEREEEE
-    # You can use ranked_scores_top_10 (a global variable) 
-    # which contains (docID, tf-idf weight) tuples of the top 10 relevant docs
     
     write_to_output_file(ranked_results)
 
@@ -69,12 +63,10 @@ Also updates the list of top 10 documents that are assumed to be relevant.
 
 list_of_query_terms    List of query terms which are normalized and have no duplicates.
 query_term_freq_map    A mapping of log term frequency weights for each query term.
-weight                 A fractional weight of choice to give to this tf-idf score.
-                       0 < weight <= 1.
 
 return    List of docIDs that relevant to this query, sorted in descending order.
 """
-def get_relevant_results(list_of_query_terms, query_term_freq_map, weight):
+def get_relevant_results(list_of_query_terms, query_term_freq_map):
     global ranked_scores_top_10
     scores = {}
     term_postings = {}
@@ -97,7 +89,7 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map, weight):
 
     # Normalization of docID results vectors
     # TODO: Nat - Check if supposed to use query idf for query vector normalization? Note: Does not affect current results
-    scores = normalize_scores(scores, list_of_query_idf, weight)
+    scores = normalize_scores(scores, list_of_query_idf)
     
     # Ranks the scores in descending order and removes entries with score = 0
     ranked_scores = get_ranked_scores(scores)
@@ -208,17 +200,15 @@ Computes the normalization of tf-idf scores for all result docIDs.
 
 scores               Mapping of { docID : score }
 list_of_query_idf    List of idf values for the query vectors
-weight               Weight the current search iteration may use. If the current search 
-                     iteration is unweighted, specify weight = 1.0.
                      
 return    New updated mapping of { docID : score } normalized
 """
-def normalize_scores(scores, list_of_query_idf, weight):
+def normalize_scores(scores, list_of_query_idf):
     query_norm = get_query_unit_magnitude(list_of_query_idf)
     for docID in scores.keys():
-        # Doc length can be obtained from the pickle object loaded from disk from dictionary.txt.
+        # Doc length can be obtained from the pickle object loaded from disk
         norm_magnitude = query_norm * get_docID_length(docID)
-        scores[docID] = (scores[docID] / norm_magnitude) * weight
+        scores[docID] = (scores[docID] / norm_magnitude)
     return scores
      
 """
