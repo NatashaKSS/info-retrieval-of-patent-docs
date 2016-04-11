@@ -61,12 +61,12 @@ def exec_search(query):
     # You can use ranked_scores_top_10 (a global variable) 
     # which contains (docID, tf-idf weight) tuples of the top 10 relevant docs
     
-    # Query Expansion using IPC
-    new_query_list = query_expansion_IPC(ranked_results, 120, normalized_query_list, patents)
+    # TODO: Query Expansion using IPC using top 10 results
+    new_query_list = query_expansion_IPC(ranked_results, 120, normalized_query_list)
 
     
     # Normalize new query list with case-folding, stemming and stop word removal
-    normalized_new_query_list = normalize_tokens(word_tokenize(new_query_list))
+    normalized_new_query_list = normalize_tokens(new_query_list)
     
     # Remove duplicate query terms to process each term
     # This is the actual final query
@@ -85,10 +85,10 @@ old_query				Original normalized query list in the first round of search
 
 Returns:				Weighted new query dictionary
 """
-def get_IPC_query(initial_results, num_terms, old_query_list, patents):
+def query_expansion_IPC(initial_results, num_terms, old_query_list):
 	 
-	# Get the most frequently occurring IPC_class
-	best_IPC_class = get_best_IPC_class(initial_results)
+	# TODO: Get the most frequently occurring IPC_class
+	best_IPC_class = get_best_IPC_class(initial_results)#use get top 10
 	
 	# Get the content for patent in best_IPC_class
 	patent_content = get_patent_content(best_IPC_class)
@@ -97,11 +97,11 @@ def get_IPC_query(initial_results, num_terms, old_query_list, patents):
 	weighted_new_query_terms = get_new_query_terms(patent_content, old_query_list, num_terms)
 	
 	# Assign different term frequencies to new and old query terms accordingly
-	weighted_query = get_term_frequency(new_query_terms, old_query_list)
+	weighted_query = get_term_frequency(weighted_new_query_terms, old_query_list)
 	
 	return weighted_query
 
-"""
+""" IMPT!!!
 Calculating the new combined query's weight by assigning different weights
 tf for the old and new query terms
 	
@@ -110,7 +110,7 @@ old_query				list of words from the old query
 
 Returns					list of tf of the old and new query terms
 """	
-def get_term_frequency(self, new_query_term, old_query_list):
+def get_term_frequency(new_query_term, old_query_list):
 		
 	count_old = Counter(old_query_list)
     new_weights = {}
@@ -122,29 +122,29 @@ def get_term_frequency(self, new_query_term, old_query_list):
         if term in new_query_term:
              new_weights[term] = cal_tf(count_old[term])*1.5
         else:
-             new_weights[term] = cal_tf(count_old[term])
+             new_weights[term] = cal_tf(count_old[term]) *1.0 
     
     return new_weights
 	
 
 """
-Using the words from the 1st round of retrieved documents, compute the tf of each 
+Using the patent words from the 1st round of search operation, compute the tf of each 
 word in the query list
 	
-document_content		list of words from the document
+patent_content			list of words from the patent description
 old_query				list of words from the old query
 terms_num				number of new query terms to be generated
 	
 Returns					list of words from the patent_content with highest weights
 """	
-def get_new_query_terms(self, document_content, old_query, terms_num):
-	count = Counter(document_content)
-	highest_score_terms = self.get_highest_scores(count, terms_num)
+def get_new_query_terms(patent_content, old_query, terms_num):
+	count = Counter(patent_content)
+	highest_score_terms = get_highest_scores(count, terms_num)
 		
 	return highest_score_terms
 	
 	
-"""
+""" soso
 Compute the weights of the words
 	
 count				dictionary of the new query list words with their 
@@ -153,12 +153,12 @@ terms_num			number of new query terms to be generated
 		
 Returns				list of terms with the highest weights
 """
-def get_highest_scores(count, terms_num):
+def get_highest_scores(count):
 	weights = {}
 	for term, num in count.items():
 		weight = get_term_weight(PorterStemmer.stem(term), num)
 		weights[term] = weight
-	highest_scores = [i[0] for i in sorted(weights.items(), key=operator.itemgetter(1), reverse=True)][:terms_num]
+	highest_scores = [i[0] for i in sorted(weights.items(), key=operator.itemgetter(1), reverse=True)]
 	return highest_scores
 
 	
@@ -180,7 +180,7 @@ def get_term_weight(term, num):
 	else:
 		return 0	
 
-"""
+""" IMPT!!!
 IPC Query expansion: Finds the most frequently occurring IPC subclass
 
 initial_results		Original results after first round of search
@@ -190,7 +190,7 @@ Returns				Best IPC subclass that occurs most frequently in the top 10 docs
 def get_best_IPC_class(initial_results):
 	IPC_class_list = {}
 	
-	for doc_ID, score in first_results:
+	for doc_ID, score in initial_results:
 		ipc_class = get_docID_IPC(doc_ID)	#Q1: is this for getting the ipc class of the documents?
 		
 		if ipc_class in IPC_class_list.keys():
