@@ -1,0 +1,43 @@
+Query
+Title: Washers that clean laundry with bubbles
+Description: washing technologies that clean or induce using bubbles, foam, by means of vacuuming, swirling, inducing flow or other mechanisms.
+
+
+//------------------
+POSITIVE DOCUMENTS
+Worst positive documents
+-------------------//
+US20120097752A1
+Title: GENERATING METHOD AND GENERATOR FOR GENERATING MIST OR FINE-BUBBLE BY USING SURFACE ACOUSTIC WAVE
+In a generating method and a generator of mist or fine-bubble, with a simple and small configuration, application into a wide range kind of liquid is enabled, and generating stably the mist or the fine-bubbles or both is enabled. The generator is provided with a piezoelectric substrate which equips two or more comb-like electrodes on a surface and arranged so that the surface may intersect the mutual interface of the gas and the liquid and a part of piezoelectric substrate is put in a liquid, and a surface acoustic wave excited on the surface with the electrode is made to propagate along the surface so that may exist in the upper and lower sides of an interface. The surface acoustic wave generates mist in the gas side which is above the interface, and generates fine-bubbles in the liquid side which is below the interface. Since the mist and the fine-bubbles are generated with the surface acoustic wave, without being based on mechanical operation for generating a turning stream, the mist and the fine-bubbles can be stably generated in the simple and small configuration.
+
+//------------------
+NEGATIVE DOCUMENTS
+Best negative documents
+-------------------//
+
+US20120118023A1
+Title: PUMP-TYPE LAUNDRY WASHING MACHINE
+This invention is a vertical machine for washing and wringing clothes by mean of a closed pumping circuit which supplies the washing or centrifuging system. The washing system uses a special eductor which produces a cavitation effect above the clothes, combined with a rotary washing system which produces the paused circulation of the clothes; the rotation of the washing system is produced by the same water flow. The centrifuging is made in the inner tub impelling its rotation by means of a turbine, thus the tub rotates over the virtual axis which passes through the center of gravity thereof and the clothes for being wringed, furthermore is used a special annular chamber for auto-balancing. The rotation of the tub over the virtual axis is achieved making float the inner tub by means of the special supports which combine the speed components of any point of the tub. The basic ideas of the above concepts are applied in different practical versions, as well as with modifications to a horizontal axial axis or front-loading washing machine or an industrial washing machine.
+
+
+EP2402494A1
+Title: IMPROVEMENTS TO A PUMP-TYPE LAUNDRY WASHING MACHINE
+This invention is a vertical machine for washing and wringing clothes by mean of a closed pumping circuit which supplies the washing or centrifuging system. T washing system uses a special exhaust which produces a cavitation effect above the clothes, combined with a rotary washing system which produces the paused circulation of the clothes; the rotation of the washing system is produced by the same water flow. The centrifuging is made in the inner tub impelling its rotation by means of a turbine, thus the tub rotates over the virtual axis which passes through the center of gravity thereof and the clothes for being wringed, furthermore is used a special annular chamber for auto-balancing. The rotation of the tub over the virtual axis is achieved making float the inner tub by means of the special supports which combine the speed components of any point of the tub. The basic ideas of the above concepts are applied in different practical versions, as well as with modifications to a horizontal axial axis or front-loading washing machine or an industrial washing machine.
+
+
+WO2011104633A3
+Title: MICROBUBBLE CLEANING SYSTEM FOR A LARGE PRODUCT SUCH AS A VEHICLE
+A microbubble cleaning system ( 1 ) includes a tank ( 2 ) in which a solution ( 20 ) into which a product is immersed to clean the product is stored; supplying means ( 4 ) for putting microbubbles into the solution and supplying the solution that includes the microbubbles into the tank; oil separating apparatus ( 3 ) that collects bubbles that have risen to a surface of the solution stored in the tank as a result of cleaning the product, as well as a portion of the solution that is near the surface of the solution, in order to separate oil from the solution; generating means ( 5 ) for generating a surface flow of the solution near the surface of the solution in order to remove the bubbles that have risen to the surface of the solution in the tank; and removing means ( 6 ) for removing carbon dioxide from air that is used to generate the microbubbles by the supplying means.
+
+
+US20020033550A1
+Title: Method for recycling used-up plastic products and washing process of crushed plastic and apparatus therefor
+
+An object of the invention is to provide a method and an apparatus for recycling plastics which is improved with respect to operation efficiency, operation environment, lowering degradation of plastics, recycling cost and environment load including saving energy. The recycling is made as follows: coarse-crushing used-up plastic products, separating plastic materials from other foreign matters by air blow separation, fine-crushing the separated plastics, washing the fine-crushed plastics by the process using a circulation flow including a spiral flow in which interaction between crushed plastics helps themselves clean without washing agents, dewatering the washed plastics, drying them, removing metallic matters by using metal detector, then feeding them directly without pelletizing to an injection molding machine of which nozzle part is equipped with filter and flow-switching mechanism for cleaning the filter by backwash reverse filtration.
+
+
+US20050189439A1
+Title: Apparatus for preparing a consumable beverage with a fine-bubbled foam layer
+
+The invention relates to an apparatus for preparing a consumable beverage with a fine-bubbled foam layer. The invention comprises a beverage unit for dispensing the beverage under pressure and at least one nozzle which is in fluid communication with the beverage unit for supplying the beverage to the nozzle for generating a jet of the beverage by means of the nozzle. The apparatus further comprises a collecting unit into which the jet spouts to obtain the beverage with the fine-bubbled foam layer. The collecting unit comprises a chamber with at least one outflow opening for dispensing the beverage with the fine-bubbled foam layer and a jet impact element included in the chamber with a top which is clear of an inner wall of the chamber. The nozzle and the jet impact element are oriented relative to each other such that the jet spouts against a part of the top of the jet impact element so that the jet, after impact on the jet impact element, forms a mist of the beverage which flows against and/or along the inner wall of the chamber and then leaves the chamber via the at least one outflow opening as the beverage with the fine-bubbled foam layer.
