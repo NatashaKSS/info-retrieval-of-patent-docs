@@ -50,12 +50,55 @@ Correct: 0
 Points Judged: 0
 # END result.5.txt content
 -----------------------------------------------------
-<Insert date here>
+Mon Apr 11 22:36:01 2016
 
 tf-idf weighted for "title" and "abstract" zones
 Removed stop words
-...additional changes?
+Query expansion with IPC subclass
 
-Position: <current position> / <no. of teams>
+Position: 11 / 17
 
-<Paste results here>
+# result.1.txt content: 
+Average F: 0.492879892545879
+Average Precision: 0.398490744778904
+Average Recall: 0.587397813906492
+Count: 1438
+Correct: 49
+Points Judged: 191
+# END result.1.txt content: 
+
+# result.2.txt content: 
+Average F: 0.569799157247215
+Average Precision: 0.509978097833453
+Average Recall: 0.65469045688024
+Count: 2008
+Correct: 443
+Points Judged: 1370
+# END result.2.txt content: 
+
+# result.3.txt content: 
+Average F: 0.411297420104859
+Average Precision: 0.257502650287931
+Average Recall: 0.572684676346387
+Count: 1480
+Correct: 59
+Points Judged: 293
+# END result.3.txt content: 
+
+# result.4.txt content: 
+Average F: 0.228670844488891
+Average Precision: 0.125673260114797
+Average Recall: 0.333647906657516
+Count: 1568
+Correct: 34
+Points Judged: 248
+# END result.4.txt content: 
+
+# result.5.txt content: 
+Average F: 0
+Average Precision: 0
+Average Recall: 0
+Count: 1495
+Correct: 0
+Points Judged: 0
+# END result.5.txt content: 
