@@ -15,6 +15,7 @@ import operator
 # Import modules for xml parsing, token normalization and testing
 from token_normalization import normalize_tokens
 from xml_parser import Query
+from xml_parser import Document
 from test_driver import TestDriver
 
 # Import NLTK modules needed
@@ -107,8 +108,7 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map):
     return ranked_docIDs
 
 """
-Computes the weighted tf-idf score for a docID given in a specific postings 
-list.
+Computes the weighted tf-idf score for a docID given in a specific postings list.
 
 zone_type            "title", "abstr" section specifiers for the document.
 term_postings        Postings list of a query term
@@ -224,9 +224,6 @@ def compute_query_term_freq_weights(old_normalized_list, new_normalized_list):
                 get_log_tf_weight(combined_list.count(query_term)) * weight
     
     return query_term_freq_map
-        
-        
-        
 
 """
 Computes the logarithmic frequency weight of a term.
@@ -294,6 +291,9 @@ def load_dictionary():
     # Also load { docID : [docLength, IPC code] }, transported from index.py
     global list_doc_length_IPC
     list_doc_length_IPC = pickle.load(from_dict_file)
+    
+    global dir_of_docs_from_index
+    dir_of_docs_from_index = pickle.load(from_dict_file)
     
     from_dict_file.close()
     return dictionary_loaded
@@ -372,6 +372,7 @@ if dict_file == None or postings_file == None or query_file_dir == None or outpu
 #=====================================================#
 # Load the dictionary before processing search queries
 query = Query(query_file_dir) # Loads Query
+dir_of_docs_from_index = ""
 list_doc_length_IPC = {}
 dictionary = load_dictionary()
 len_list_of_docIDs = len(list_doc_length_IPC.keys())

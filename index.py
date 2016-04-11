@@ -150,8 +150,12 @@ def write_inverted_index_to_disk():
         pickle.dump(postings_docID_list, to_postings_file)
     pickle.dump(dictionary, to_dict_file)
     
-    # Allocate some dictionary memory to storing the doc length and IPC subclass of each doc
+    # Allocate some dict memory to storing doc length and IPC code of each doc
     pickle.dump(docID_len_IPC_map, to_dict_file)
+    
+    # Allocate some dict memory to storing String of directory of docs 
+    # for pseudo-relevance query expansion
+    pickle.dump(dir_of_docs);
     
     to_dict_file.close()
     to_postings_file.close()
