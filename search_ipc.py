@@ -183,22 +183,21 @@ def get_term_weight(term, num):
 """ IMPT!!!
 IPC Query expansion: Finds the most frequently occurring IPC subclass
 
-initial_results		Original results after first round of search
-
-Returns				Best IPC subclass that occurs most frequently in the top 10 docs
+return    Best IPC subclass that occurs most frequently in the top 10 docs
 """
-def get_best_IPC_class(initial_results):
+def get_best_IPC_class():
 	IPC_class_list = {}
 	
-	for doc_ID, score in initial_results:
-		ipc_class = get_docID_IPC(doc_ID)	#Q1: is this for getting the ipc class of the documents?
+	for doc_ID in ranked_scores_top_10:
+		ipc_class = get_docID_IPC(doc_ID)
 		
 		if ipc_class in IPC_class_list.keys():
 			IPC_class_list[ipc_class] += 1
 		else:
 			IPC_class_list[ipc_class] = 1
+	best_IPC_code = max(IPC_class_list.iteritems(), key = operator.itemgetter(1))[0]
 	
-	return max(IPC_class_list.iteritems(), key = operator.itemgetter(1))[0]	
+	return best_IPC_code
 	
 
 """

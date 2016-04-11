@@ -45,11 +45,13 @@ def exec_search(query):
     normalized_query_list = normalize_tokens(word_tokenize(query.get_description()))
     
     # Term frequencies of query terms for processing    
-    query_term_freq_map = compute_query_term_freq_weights(normalized_query_list)
+    query_term_freq_map = compute_query_term_freq_weights(normalized_query_list, None)
     
-    # Remove duplicate query terms to process each term
-    # This first round of searching (using the user's input query) holds a weight of 0.75
+    # Remove duplicate query terms to process each term and compute relevant docIDs
     ranked_results = get_relevant_results(set(normalized_query_list), query_term_freq_map, 0.75)
+    
+    new_normalized_query_list = None # TODO: Add once Li Qi finishes the hash map
+    query_term_freq_map = compute_query_term_freq_weights(normalized_query_list, new_normalized_query_list)
     
     # Test Driver for debugging purposes
     my_test = TestDriver(ranked_results)
@@ -114,6 +116,9 @@ scores               Mapping of { docID : current score }
 return    New updated mapping of scores for { docID : score }
 """
 def compute_weighted_score(zone_type, term_postings, query_term_weight, scores):
+    # All element values should sum to 1.0 ("abstr" represents "abstract")
+    zone_weights = { "title" : 0.6, "abstr" : 0.4 }
+
     # Term will be ignored if it does not exist in the dictionary in all zones (postings are empty)
     if term_postings[zone_type] is not None:
         for docID_termFreq_pair in term_postings[zone_type]:
@@ -121,7 +126,7 @@ def compute_weighted_score(zone_type, term_postings, query_term_weight, scores):
             term_freq = docID_termFreq_pair[1]
             
             # Document score weighted against its zone type
-            doc_term_weight = get_log_term_freq_weighting(term_freq) * zone_weights[zone_type]
+            doc_term_weight = get_log_tf_weight(term_freq) * zone_weights[zone_type]
             
             # Dot product of query and doc term weights
             if not scores.has_key(curr_docID):
@@ -180,20 +185,60 @@ def get_query_unit_magnitude(list_of_query_idf):
 
 """
 Computes the term frequency log weights of each query term in the input.
-Will compute duplicated query terms only once.
+Will compute for duplicated query terms only once.
 
-normalized_query_list    List of query terms which have been stemmed and case-
-                         folded. Duplicate query terms are not filtered.
+Precondition: 
+All query terms passed in must be already be normalized.
+Duplicate query terms must not be filtered from the list of query terms.
+
+Arguments:
+old_normalized_list    List of query terms performed at the first search operation
+new_normalized_list    List of query terms performed at the query expansion
+                       Specify None if only doing the first search operation
 
 return    A mapping of term frequencies for each query term
 """
-def compute_query_term_freq_weights(normalized_query_list):
+def compute_query_term_freq_weights(old_normalized_list, new_normalized_list):
     query_term_freq_map = {}
-    for query_term in normalized_query_list:
-        if not query_term_freq_map.has_key(query_term):
+    combined_list = list(old_normalized_list)
+    
+    if not new_normalized_list is None: # Checks if we are doing query expansion now
+        combined_list.extend(new_normalized_list)
+        for query_term in new_normalized_list:
+            if not query_term in old_normalized_list:
+                # This is a completely new query term due to Query Expansion
+                if not query_term_freq_map.has_key(query_term): # Checks for duplicate keys
+                    query_term_freq_map[query_term] = \
+                        get_log_tf_weight(combined_list.count(query_term)) * 0.5
+    
+    for query_term in old_normalized_list:
+        if not query_term_freq_map.has_key(query_term): # Checks for duplicate keys
+            if query_term in new_normalized_list:
+                # If the term is also in the new query list, it is "more important"
+                weight = 1.5
+            else:
+                # If the term was in the original old query list and is not new
+                weight = 1.0
             query_term_freq_map[query_term] = \
-                get_log_term_freq_weighting(normalized_query_list.count(query_term))
+                get_log_tf_weight(combined_list.count(query_term)) * weight
+    
     return query_term_freq_map
+        
+        
+        
+
+"""
+Computes the logarithmic frequency weight of a term.
+
+term_freq    Term frequency in a document.
+
+return       Log term frequency weight.
+"""
+def get_log_tf_weight(term_freq):
+    if term_freq == 0:
+        return 0;
+    else:
+        return 1 + math.log(term_freq, 10)
 
 """
 Computes the normalization of tf-idf scores for all result docIDs.
@@ -211,19 +256,6 @@ def normalize_scores(scores, list_of_query_idf):
         scores[docID] = (scores[docID] / norm_magnitude)
     return scores
      
-"""
-Computes the logarithmic frequency weight of a term
-
-term_freq    Term frequency in a document.
-
-return       Log term frequency weight.
-"""
-def get_log_term_freq_weighting(term_freq):
-    if term_freq == 0:
-        return 0;
-    else:
-        return 1 + math.log(term_freq, 10)
-
 #=====================================================#
 # Pre-processing functions:
 # Loading the file-of-queries, loading the dictionary, loading a term's postings
@@ -325,10 +357,6 @@ query = Query(query_file_dir) # Loads Query
 list_doc_length_IPC = {}
 dictionary = load_dictionary()
 len_list_of_docIDs = len(list_doc_length_IPC.keys())
-
-# All element values should sum to 1.0
-# "abstr" represents "abstract"
-zone_weights = { "title" : 0.6, "abstr" : 0.4 }
 
 # Contains tf-idf weighting of query terms used in this search process
 scores = {}
