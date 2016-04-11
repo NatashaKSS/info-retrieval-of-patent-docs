@@ -16,11 +16,11 @@ import pickle
 import operator
 
 # Import modules for xml parsing, token normalization and testing
-from token_normalization import normalize_tokens
+from token_normalization import Normalizer
 from ipc_patent_codes import IPC_Patent
 from xml_parser import Query
 from xml_parser import Document
-#from test_driver import TestDriver
+from test_driver import TestDriver
 
 # Import NLTK modules needed
 from nltk.tokenize import word_tokenize
@@ -47,8 +47,10 @@ def exec_search(query):
     with open(output_file, "w"):
         pass
 
+    norm = Normalizer()
+
     # Normalize query list with case-folding, stemming and stop word removal
-    normalized_query_list = normalize_tokens(word_tokenize(query.get_description()))
+    normalized_query_list = norm.normalize_tokens(word_tokenize(query.get_description()))
     
     # Term frequencies of query terms for processing    
     query_term_freq_map = compute_query_term_freq_weights(normalized_query_list, None)
@@ -58,8 +60,9 @@ def exec_search(query):
     
     # Query Expansion (Using IPC subclass description)
     ipc_patents = IPC_Patent()
-    ipc_patent_description = ipc_patents.get_patent_description(get_best_IPC_class())
-    new_normalized_query_list = normalize_tokens(word_tokenize(ipc_patent_description))
+    ipc_patent_description = ipc_patents.get_patent_description(get_best_IPC_class(1))
+    #ipc_patent_description += " " + ipc_patents.get_patent_description(get_best_IPC_class(2))
+    new_normalized_query_list = norm.normalize_tokens(word_tokenize(ipc_patent_description))
     combined_query_list = combine_list(normalized_query_list, new_normalized_query_list)
     query_term_freq_map = compute_query_term_freq_weights(normalized_query_list, new_normalized_query_list)
    
@@ -67,8 +70,8 @@ def exec_search(query):
     ranked_results = get_relevant_results(set(combined_query_list), query_term_freq_map)
     
     # Test Driver for debugging purposes
-    # my_test = TestDriver(ranked_results)
-    # my_test.process_results()
+    my_test = TestDriver(ranked_results)
+    my_test.process_results()
     
     write_to_output_file(ranked_results)
 
@@ -226,7 +229,7 @@ def compute_query_term_freq_weights(old_normalized_list, new_normalized_list):
         if not query_term_freq_map.has_key(query_term): # Checks for duplicate keys
             if not (new_normalized_list is None) and (query_term in new_normalized_list):
                 # If the term is also in the new query list, it is "more important"
-                weight = 1.5
+                weight = 2.0
             else:
                 # If the term was in the original old query list and is not new
                 weight = 1.0
@@ -260,16 +263,19 @@ def normalize_scores(scores, list_of_query_idf):
     query_norm = get_query_unit_magnitude(list_of_query_idf)
     for docID in scores.keys():
         # Doc length can be obtained from the pickle object loaded from disk
-        norm_magnitude = query_norm * get_docID_length(docID)
-        scores[docID] = (scores[docID] / norm_magnitude)
+        if not (get_docID_length(docID) == 0):
+            norm_magnitude = query_norm * get_docID_length(docID)
+            scores[docID] = (scores[docID] / norm_magnitude)
     return scores
 
 """
 IPC Query expansion: Finds the most frequently occurring IPC subclass
 
+pos       Position of the IPC code to be retrieved from the ranked list
+
 return    Best IPC subclass that occurs most frequently in the top 10 docs
 """
-def get_best_IPC_class():
+def get_best_IPC_class(pos):
     IPC_class_list = {}
     
     for doc_ID, doc_score in ranked_scores_top_10:
@@ -279,7 +285,8 @@ def get_best_IPC_class():
             IPC_class_list[ipc_class] += 1
         else:
             IPC_class_list[ipc_class] = 1
-    best_IPC_code = max(IPC_class_list.iteritems(), key = operator.itemgetter(1))[0]
+    # best_IPC_code = max(IPC_class_list.iteritems(), key = operator.itemgetter(1))[0]
+    best_IPC_code = sorted(IPC_class_list.items(), key = operator.itemgetter(1), reverse = True)[pos - 1][0]
     
     return best_IPC_code
     

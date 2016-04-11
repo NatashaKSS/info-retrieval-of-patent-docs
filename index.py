@@ -10,11 +10,12 @@ import sys
 import math
 import getopt
 import pickle
+import operator
 from os import listdir
 
 # Import modules for xml parsing and token normalization
 from xml_parser import Document
-from token_normalization import normalize_tokens
+from token_normalization import Normalizer
 
 # Import NLTK modules needed
 from nltk.tokenize import word_tokenize
@@ -51,12 +52,13 @@ def construct_inverted_index() :
         if file_name.endswith(".xml"):
             file_name = file_name[:-4]; # Remove ".xml" in file name
         
+        norm = Normalizer()
         xml_doc = Document(file_name, file_dir)
         zones_to_parse = { "title" : xml_doc.get_title(), "abstr" : xml_doc.get_abstract() }
         
         for zone_type, zone_content in zones_to_parse.iteritems():
             if zone_content is not None:
-                normalize_tokens_list = normalize_tokens(word_tokenize(zone_content))
+                normalize_tokens_list = norm.normalize_tokens(word_tokenize(zone_content))
                 term_list = set(normalize_tokens_list)
                 add_to_dictionary(file_name, normalize_tokens_list, term_list, zone_type, xml_doc)
 
