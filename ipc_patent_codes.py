@@ -750,8 +750,8 @@ class IPC_Patent:
         "H05B": "Electric heating; Electric lighting not otherwise provided for",
         "H05C": "Electric circuits or apparatus specially designed for use in equipment for killing; stunning; enclosing or guiding living beings",
         "H05F": "Static electricity; Naturally-occurring electricity",
-        "H05G":    "X-ray technique",
-        "H05H":"Plasma technique; Production of accelerated electrically- charged particles or of neutrons; Production or acceleration of neutral molecular or atomic beams"
+        "H05G": "X-ray technique",
+        "H05H": "Plasma technique; Production of accelerated electrically- charged particles or of neutrons; Production or acceleration of neutral molecular or atomic beams"
     }
     
     def get_patent_content(self, patent_code):
