@@ -33,10 +33,19 @@ class Normalizer():
     "water" (May be too semantically meaningless)
     "apparatu" and "mechan" and "system"...(Requires further tests)
     """
+    
+    """ 
+    # This is a larger set of words we think are redundant
     censored_words = ["method", "includ", "use", "provid", "one", "compris", \
                       "invent", "contain", "apparatu", "also", "treat", \
                       "present", "first", "relat", "may", "second", "wherein", "allow", \
                       "perform", "therebi", "caus", "herein", "mechan"]
+    """
+    # Note: A smaller set from the words in the above list
+    censored_words = ["includ", "use", "provid", "compris", \
+                      "invent", "apparatu", "also", "treat", \
+                      "present", "relat", "may", "wherein", "allow", \
+                      "perform", "therebi", "caus", "herein"]
     
     def __init__(self):
         self.stop_words_NLTK_default = map(self.stemmer.stem, stopwords.words('english'))
