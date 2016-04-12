@@ -54,9 +54,12 @@ def exec_search(query):
     ranked_results = get_relevant_results(set(normalized_query_list), query_term_freq_map)
     
     # Query Expansion (Using IPC subclass description)
-    new_normalized_query_list = get_IPC_query_list(norm)
-    combined_query_list = s_compute.combine_list(normalized_query_list, new_normalized_query_list)
-    query_term_freq_map = s_compute.compute_query_tf_weight(normalized_query_list, new_normalized_query_list)
+    new_normalized_query_list = \
+        s_compute.combine_list(get_IPC_query_list(norm), get_doc_abstract_query_List(norm))
+    combined_query_list = \
+        s_compute.combine_list(normalized_query_list, new_normalized_query_list)
+    query_term_freq_map = \
+        s_compute.compute_query_tf_weight(normalized_query_list, new_normalized_query_list)
     
     # Query expansion - Computing results
     ranked_results = get_relevant_results(set(combined_query_list), query_term_freq_map)
@@ -66,8 +69,6 @@ def exec_search(query):
     my_test.process_results()
     
     write_to_output_file(ranked_results)
-
-
 
 """
 Searches for results for the specified queries in ranked order.
@@ -125,6 +126,11 @@ def get_ranked_scores(scores):
     ranked_scores = sorted(filtered_scores.items(), key = operator.itemgetter(1), reverse = True)
     return ranked_scores
 
+#=====================================================#
+# Query Expansion functions:
+# Using IPC subclass and Top 10 document titles/abstracts
+#=====================================================#
+
 """
 IPC Query expansion: Finds the most frequently occurring IPC subclass
 
@@ -144,7 +150,8 @@ def get_best_IPC_code(pos):
             IPC_class_list[ipc_class] = 1
     # This only gets the IPC class in the first position
     # best_IPC_code = max(IPC_class_list.iteritems(), key = operator.itemgetter(1))[0]
-    best_IPC_code = sorted(IPC_class_list.items(), key = operator.itemgetter(1), reverse = True)[pos - 1][0]
+    best_IPC_code = sorted(IPC_class_list.items(), \
+                           key = operator.itemgetter(1), reverse = True)[pos - 1][0]
     
     return best_IPC_code
 
@@ -163,6 +170,35 @@ def get_IPC_query_list(norm):
     normalized = norm.normalize_tokens(word_tokenize(ipc_patent_description))
 
     return set(normalized)
+
+"""
+Obtains the abstract of the top 10 documents and gels them to form a new query list.
+Parses the XML document of the top 10 documents from disk.
+
+return    List of document abstract terms that have been normalized
+"""
+def get_doc_abstract_query_List(norm):
+    ranked_top_10_doc_list = map(operator.itemgetter(0), ranked_scores_top_10)
+    result_query = ""
+    count  = 0
+    
+    for docID in ranked_top_10_doc_list:
+        if dir_of_docs.endswith("/"):
+            docID_file_dir = dir_of_docs + docID + ".xml"
+        else:
+            docID_file_dir = dir_of_docs + "/" + docID + ".xml"
+            
+        xml_doc = Document(docID, docID_file_dir)
+        result_query += xml_doc.get_title() + " "
+        """
+        if count == 1: # Only get abstract from top 3 documents
+            result_query += xml_doc.get_abstract() + " "
+            print result_query
+        count += 1
+        """
+    normalized = norm.normalize_tokens(word_tokenize(result_query))
+
+    return normalized
 
 #=====================================================#
 # Pre-processing functions:
@@ -185,8 +221,8 @@ def load_dictionary():
     global list_doc_length_IPC
     list_doc_length_IPC = pickle.load(from_dict_file)
     
-    global dir_of_docs_from_index
-    dir_of_docs_from_index = pickle.load(from_dict_file)
+    global dir_of_docs
+    dir_of_docs = pickle.load(from_dict_file)
     
     from_dict_file.close()
     return dictionary_loaded
@@ -265,7 +301,7 @@ if dict_file == None or postings_file == None or query_file_dir == None or outpu
 #=====================================================#
 # Load the dictionary before processing search queries
 query = Query(query_file_dir) # Loads Query XML
-dir_of_docs_from_index = "" # Directory of corpus documents for access
+dir_of_docs = "" # Directory of corpus documents for access
 list_doc_length_IPC = {} # { docID : [doc_length, IPC code] } mapping
 dictionary = load_dictionary()
 len_docIDs = len(list_doc_length_IPC.keys())
