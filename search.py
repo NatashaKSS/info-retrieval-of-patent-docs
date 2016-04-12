@@ -19,7 +19,7 @@ from token_normalization import Normalizer
 from ipc_patent_codes import IPC_Patent
 from xml_parser import Query
 from xml_parser import Document
-from test_driver import TestDriver
+#from test_driver import TestDriver
 
 # Import NLTK modules needed
 from nltk.tokenize import word_tokenize
@@ -61,12 +61,14 @@ def exec_search(query):
     query_term_freq_map = \
         s_compute.compute_query_tf_weight(normalized_query_list, new_normalized_query_list)
     
+    
+    
     # Query expansion - Computing results
     ranked_results = get_relevant_results(set(combined_query_list), query_term_freq_map)
     
     # Test Driver for debugging purposes
-    my_test = TestDriver(ranked_results)
-    my_test.process_results()
+    #my_test = TestDriver(ranked_results)
+    #my_test.process_results()
     
     write_to_output_file(ranked_results)
 
@@ -107,7 +109,7 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map):
     
     # Ranks the scores in descending order and removes entries with score = 0
     ranked_scores = get_ranked_scores(scores)
-    ranked_scores_top_10 = ranked_scores[:10]
+    ranked_scores_top_10 = ranked_scores[:30]
     ranked_docIDs = [score_pair[0] for score_pair in ranked_scores]
     
     #print "TOP 50 Ranked scores and positions (position, score):"
@@ -166,7 +168,7 @@ def get_IPC_query_list(norm):
     ipc_patents = IPC_Patent()
     ipc_patent_description = ipc_patents.get_patent_description(get_best_IPC_code(1))
     ipc_patent_description += " " + ipc_patents.get_patent_description(get_best_IPC_code(2))
-
+    
     normalized = norm.normalize_tokens(word_tokenize(ipc_patent_description))
 
     return set(normalized)

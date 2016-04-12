@@ -757,11 +757,12 @@ class IPC_Patent:
     """
     Gets the description of the IPC subclass of this IPC patent code
     
-    return    Sting representation of the description or None if the code does not match any.
+    return    Sting representation of the description or an empty string 
+              if the code does not match any.
     """
     def get_patent_description(self, patent_code):
         self.patent_code = patent_code
-        if len(patent_code)== 0:
-            return None
+        if len(patent_code)== 0 or not (patent_code in self.patents.keys()):
+            return ""
         else:
             return self.patents[patent_code]
