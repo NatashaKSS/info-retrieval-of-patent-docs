@@ -25,30 +25,36 @@ class Search_Compute:
     #==================================================================#
     # Computation methods
     #==================================================================#
+    
+    """
+    Computes the weighted tf-idf score for a docID given in a specific postings list.
+    
+    zone_type            "title", "abstr" section specifiers for the document.
+    term_postings        Postings list of a query term
+    query_term_weight    Query term score
+    scores               Mapping of { docID : current score }
+                         
+    return    New updated mapping of scores for { docID : score }
+    """
+    def compute_weighted_score(self, zone_type, term_postings, query_term_weight, scores):
+        # All element values should sum to 1.0 ("abstr" represents "abstract")
+        zone_weights = { "title" : 0.7, "abstr" : 0.3 }
+    
+        # Term will be ignored if it does not exist in the dictionary in all zones (postings are empty)
+        if term_postings[zone_type] is not None:
+            for docID_termFreq_pair in term_postings[zone_type]:
+                curr_docID = docID_termFreq_pair[0]
+                term_freq = docID_termFreq_pair[1]
+                
+                # Document score weighted against its zone type
+                doc_term_weight = self.get_log_tf_weight(term_freq) * zone_weights[zone_type]
+                
+                # Dot product of query and doc term weights
+                if not scores.has_key(curr_docID):
+                    scores[curr_docID] = 0
+                scores[curr_docID] += query_term_weight * doc_term_weight
+        return scores
 
-    """
-    Computes the idf of a query term.
-    
-    query_term       Query term in String format
-    term_postings    Query term's postings across all zone types
-    
-    return           Inverse doc frequency of a query term.
-    """
-    def get_idf(self, query_term, term_postings):
-        doc_freq = 0
-    
-        # Make a big postings list joining each zone-specific postings for query idf computation
-        term_postings_all = self.combine_list(term_postings["title"], term_postings["abstr"])
-        
-        if term_postings_all is not None:
-            combined_term_postings = set([docID_termFreq_pair[0] \
-                                          for docID_termFreq_pair in term_postings_all])
-            doc_freq = len(combined_term_postings)
-        if doc_freq == 0:
-            # query term does not occur in ANY doc and should not have weight
-            return 0
-        else:
-            return math.log(float(self.len_docIDs) / doc_freq, 10)
     
     """
     Computes the term frequency log weights of each query term in the input.
@@ -90,6 +96,30 @@ class Search_Compute:
                     self.get_log_tf_weight(combined_list.count(query_term)) * weight
         
         return query_term_freq_map
+    
+    """
+    Computes the idf of a query term.
+    
+    query_term       Query term in String format
+    term_postings    Query term's postings across all zone types
+    
+    return           Inverse doc frequency of a query term.
+    """
+    def get_idf(self, query_term, term_postings):
+        doc_freq = 0
+    
+        # Make a big postings list joining each zone-specific postings for query idf computation
+        term_postings_all = self.combine_list(term_postings["title"], term_postings["abstr"])
+        
+        if term_postings_all is not None:
+            combined_term_postings = \
+                set([docID_termFreq_pair[0] for docID_termFreq_pair in term_postings_all])
+            doc_freq = len(combined_term_postings)
+        if doc_freq == 0:
+            # query term does not occur in ANY doc and should not have weight
+            return 0
+        else:
+            return math.log(float(self.len_docIDs) / doc_freq, 10)
     
     """
     Computes the logarithmic frequency weight of a term.
@@ -155,4 +185,3 @@ class Search_Compute:
             return combined
         else:
             return list1
-

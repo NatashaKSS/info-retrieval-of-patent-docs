@@ -93,8 +93,10 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map):
         list_of_query_idf.append(query_term_idf)
         
         # Weighted tf-idf scores (of the various zones, which each have differing weights)
-        scores = compute_weighted_score("title", term_postings, query_term_weight, scores)
-        scores = compute_weighted_score("abstr", term_postings, query_term_weight, scores)
+        scores = s_compute.compute_weighted_score("title", term_postings, \
+                                                  query_term_weight, scores)
+        scores = s_compute.compute_weighted_score("abstr", term_postings, \
+                                                  query_term_weight, scores)
 
     # Normalization of docID results vectors
     # TODO: Nat - Check if supposed to use query idf for query vector normalization? Note: Does not affect current results
@@ -110,35 +112,6 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map):
     #print
     
     return ranked_docIDs
-
-"""
-Computes the weighted tf-idf score for a docID given in a specific postings list.
-
-zone_type            "title", "abstr" section specifiers for the document.
-term_postings        Postings list of a query term
-query_term_weight    Query term score
-scores               Mapping of { docID : current score }
-                     
-return    New updated mapping of scores for { docID : score }
-"""
-def compute_weighted_score(zone_type, term_postings, query_term_weight, scores):
-    # All element values should sum to 1.0 ("abstr" represents "abstract")
-    zone_weights = { "title" : 0.7, "abstr" : 0.3 }
-
-    # Term will be ignored if it does not exist in the dictionary in all zones (postings are empty)
-    if term_postings[zone_type] is not None:
-        for docID_termFreq_pair in term_postings[zone_type]:
-            curr_docID = docID_termFreq_pair[0]
-            term_freq = docID_termFreq_pair[1]
-            
-            # Document score weighted against its zone type
-            doc_term_weight = s_compute.get_log_tf_weight(term_freq) * zone_weights[zone_type]
-            
-            # Dot product of query and doc term weights
-            if not scores.has_key(curr_docID):
-                scores[curr_docID] = 0
-            scores[curr_docID] += query_term_weight * doc_term_weight
-    return scores
 
 """
 Ranks the scores of all documents
