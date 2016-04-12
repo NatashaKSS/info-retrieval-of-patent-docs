@@ -24,7 +24,7 @@ class Normalizer():
             a significant amount of 'judgement' on its relevance
     
     Not included: 
-    Didn't agree with "treatment", "flow", "separ", "system", "remove", "gener", "device", "process", "batteri"...etc
+    Didn't agree with "treatment", "flow", "separ", "system", "remove", "gener", "device", "batteri"...etc
     Initial F2 = 
     When these were included...F2 = 0.399234888437083
     
@@ -42,7 +42,7 @@ class Normalizer():
                       "perform", "therebi", "caus", "herein", "mechan"]
     """
     # Note: A smaller set from the words in the above list
-    censored_words = ["includ", "use", "provid", "compris", \
+    censored_words = ["method", "process", "includ", "use", "provid", "compris", \
                       "invent", "apparatu", "also", "treat", \
                       "present", "relat", "may", "wherein", "allow", \
                       "perform", "therebi", "caus", "herein"]
