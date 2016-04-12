@@ -24,17 +24,19 @@ class Normalizer():
             a significant amount of 'judgement' on its relevance
     
     Not included: 
-    Didn't agree with "treatment", "flow", "separ", "batteri"...etc
+    Didn't agree with "treatment", "flow", "separ", "system", "remove", "gener", "device", "process", "batteri"...etc
+    Initial F2 = 
+    When these were included...F2 = 0.399234888437083
     
     Up for debate:
     "wash" (Note: this word does not emcompass terms like "washer", "backwash", "dishwash", etc.)
     "water" (May be too semantically meaningless)
+    "apparatu" and "mechan" and "system"...(Requires further tests)
     """
-    censored_words = ["method", "includ", "use", "provid", "system", "one", "compris", \
-                      "process", "invent", "contain", "remov", "least", "form", "system", "devic", \
-                      "apparatu", "also", "gener", "treat", "present", "liquid", "first", "relat" \
-                      "may", "materi", "organ", "second", "wherein", "allow", "perform", "therebi"\
-                      "remove", "caus", "herein", "mechan"]
+    censored_words = ["method", "includ", "use", "provid", "one", "compris", \
+                      "invent", "contain", "apparatu", "also", "treat", \
+                      "present", "first", "relat", "may", "second", "wherein", "allow", \
+                      "perform", "therebi", "caus", "herein", "mechan"]
     
     def __init__(self):
         self.stop_words_NLTK_default = map(self.stemmer.stem, stopwords.words('english'))

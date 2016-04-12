@@ -20,7 +20,7 @@ from token_normalization import Normalizer
 from ipc_patent_codes import IPC_Patent
 from xml_parser import Query
 from xml_parser import Document
-from test_driver import TestDriver
+#from test_driver import TestDriver
 
 # Import NLTK modules needed
 from nltk.tokenize import word_tokenize
@@ -61,7 +61,7 @@ def exec_search(query):
     # Query Expansion (Using IPC subclass description)
     ipc_patents = IPC_Patent()
     ipc_patent_description = ipc_patents.get_patent_description(get_best_IPC_class(1))
-    #ipc_patent_description += " " + ipc_patents.get_patent_description(get_best_IPC_class(2))
+    ipc_patent_description += " " + ipc_patents.get_patent_description(get_best_IPC_class(2))
     new_normalized_query_list = norm.normalize_tokens(word_tokenize(ipc_patent_description))
     combined_query_list = combine_list(normalized_query_list, new_normalized_query_list)
     query_term_freq_map = compute_query_term_freq_weights(normalized_query_list, new_normalized_query_list)
@@ -70,8 +70,8 @@ def exec_search(query):
     ranked_results = get_relevant_results(set(combined_query_list), query_term_freq_map)
     
     # Test Driver for debugging purposes
-    my_test = TestDriver(ranked_results)
-    my_test.process_results()
+    #my_test = TestDriver(ranked_results)
+    #my_test.process_results()
     
     write_to_output_file(ranked_results)
 
