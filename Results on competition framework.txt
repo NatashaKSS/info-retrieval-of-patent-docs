@@ -102,3 +102,14 @@ Count: 1495
 Correct: 0
 Points Judged: 0
 # END result.5.txt content: 
+
+-----------------------------------------------------
+Tues Apr 12 14:36:01 2016
+
+tf-idf weighted for "title" and "abstract" zones
+Removed stop words (Made the set of redundant words smaller) 
+Query expansion with IPC subclass (1st and 2nd place)
+
+Position: 10 / 17
+MAF2 = 0.419764300249686
+
