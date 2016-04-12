@@ -67,6 +67,8 @@ def exec_search(query):
     
     write_to_output_file(ranked_results)
 
+
+
 """
 Searches for results for the specified queries in ranked order.
 Also updates the list of top 10 documents that are assumed to be relevant.
@@ -263,8 +265,8 @@ if dict_file == None or postings_file == None or query_file_dir == None or outpu
 #=====================================================#
 # Load the dictionary before processing search queries
 query = Query(query_file_dir) # Loads Query XML
-dir_of_docs_from_index = ""
-list_doc_length_IPC = {}
+dir_of_docs_from_index = "" # Directory of corpus documents for access
+list_doc_length_IPC = {} # { docID : [doc_length, IPC code] } mapping
 dictionary = load_dictionary()
 len_docIDs = len(list_doc_length_IPC.keys())
 
