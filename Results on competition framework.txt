@@ -113,3 +113,124 @@ Query expansion with IPC subclass (1st and 2nd place)
 Position: 10 / 17
 MAF2 = 0.419764300249686
 
+-----------------------------------------------------
+Tues Apr 12 14:36:01 2016
+
+tf-idf weighted for "title" and "abstract" zones
+Removed stop words (Made the set of redundant words smaller) 
+Query expansion with IPC subclass (1st and 2nd place)
+Pseudorelevance (Top 10 titles)
+
+Position: 10 / 17
+MAF2 = 0.419764300249686
+
+-----------------------------------------------------
+Wed Apr 12 00:36:01 2016
+
+tf-idf weighted for "title" and "abstract" zones
+Removed stop words (Made the set of redundant words smaller) 
+Query expansion with IPC subclass (1st and 2nd place)
+Pseudorelevance (Top 10 titles)
+
+Position: 4 / 17
+MAF2 = 0.488643199998982
+
+# result.1.txt content: 
+Average F: 0.561622028509659
+Average Precision: 0.465474653494442
+Average Recall: 0.667192982456139
+Count: 1874
+Correct: 51
+Points Judged: 200
+# END result.1.txt content: 
+
+# result.2.txt content: 
+Average F: 0.566197576331303
+Average Precision: 0.518004444417578
+Average Recall: 0.645990666653642
+Count: 1669
+Correct: 442
+Points Judged: 1338
+# END result.2.txt content: 
+
+# result.3.txt content: 
+Average F: 0.435959783419885
+Average Precision: 0.259365074508909
+Average Recall: 0.606525134494128
+Count: 1711
+Correct: 59
+Points Judged: 293
+# END result.3.txt content: 
+
+# result.4.txt content: 
+Average F: 0.390682254897261
+Average Precision: 0.192957229069981
+Average Recall: 0.613094388119376
+Count: 1735
+Correct: 47
+Points Judged: 298
+# END result.4.txt content:
+ 
+# result.5.txt content: 
+Average F: 0
+Average Precision: 0
+Average Recall: 0
+Count: 1606
+Correct: 0
+Points Judged: 0
+# END result.5.txt content: 
+
+-----------------------------------------------------
+Wed Apr 12 18:36:01 2016
+
+tf-idf weighted for "title" and "abstract" zones
+Removed stop words (Made the set of redundant words smaller) 
+Query expansion with IPC subclass (1st and 2nd place)
+Pseudorelevance (Top 10 titles) (Synonyms for top 5 doc)
+
+Position: 4 / 20
+MAF2 = 0.488583097576477
+
+# result.1.txt content: 
+Average F: 0.554920939945225
+Average Precision: 0.454978611725997
+Average Recall: 0.661778825172382
+Count: 1991
+Correct: 51
+Points Judged: 201
+# END result.1.txt content: 
+
+# result.2.txt content: 
+Average F: 0.571168397761071
+Average Precision: 0.518045968422136
+Average Recall: 0.653406928971541
+Count: 1717
+Correct: 442
+Points Judged: 1357
+# END result.2.txt content: 
+
+# result.3.txt content: 
+Average F: 0.440316709663801
+Average Precision: 0.264052930078749
+Average Recall: 0.611557818013535
+Count: 1722
+Correct: 59
+Points Judged: 293
+# END result.3.txt content: 
+
+# result.4.txt content: 
+Average F: 0.387926342935811
+Average Precision: 0.193020564765292
+Average Recall: 0.609620721554115
+Count: 1882
+Correct: 47
+Points Judged: 299
+# END result.4.txt content: 
+
+-----------------------------------------------------
+Wed Apr 12 18:36:01 2016
+
+tf-idf weighted for "title" and "abstract" zones
+Removed stop words (Made the set of redundant words smaller) 
+Query expansion with IPC subclass (1st and 2nd place)
+Pseudorelevance (Top 10 titles) (Abstract of 1st doc) (Synonyms for top 5 doc)

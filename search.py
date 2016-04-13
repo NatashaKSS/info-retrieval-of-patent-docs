@@ -60,9 +60,7 @@ def exec_search(query):
         s_compute.combine_list(normalized_query_list, new_normalized_query_list)
     query_term_freq_map = \
         s_compute.compute_query_tf_weight(normalized_query_list, new_normalized_query_list)
-    
-    
-    
+
     # Query expansion - Computing results
     ranked_results = get_relevant_results(set(combined_query_list), query_term_freq_map)
     
@@ -109,7 +107,7 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map):
     
     # Ranks the scores in descending order and removes entries with score = 0
     ranked_scores = get_ranked_scores(scores)
-    ranked_scores_top_10 = ranked_scores[:30]
+    ranked_scores_top_10 = ranked_scores[:10]
     ranked_docIDs = [score_pair[0] for score_pair in ranked_scores]
     
     #print "TOP 50 Ranked scores and positions (position, score):"
@@ -171,7 +169,7 @@ def get_IPC_query_list(norm):
     
     normalized = norm.normalize_tokens(word_tokenize(ipc_patent_description))
 
-    return set(normalized)
+    return normalized
 
 """
 Obtains the abstract of the top 10 documents and gels them to form a new query list.
@@ -182,7 +180,8 @@ return    List of document abstract terms that have been normalized
 def get_doc_abstract_query_List(norm):
     ranked_top_10_doc_list = map(operator.itemgetter(0), ranked_scores_top_10)
     result_query = ""
-    count  = 0
+    count  = 0 
+    synonym_words_list = []
     
     for docID in ranked_top_10_doc_list:
         if dir_of_docs.endswith("/"):
@@ -191,15 +190,23 @@ def get_doc_abstract_query_List(norm):
             docID_file_dir = dir_of_docs + "/" + docID + ".xml"
             
         xml_doc = Document(docID, docID_file_dir)
-        result_query += xml_doc.get_title() + " "
-        """
-        if count == 1: # Only get abstract from top 3 documents
-            result_query += xml_doc.get_abstract() + " "
-            print result_query
+        title = xml_doc.get_title()
+        result_query +=  title + " "
+        
+        # Adds synonyms for the top ranked document's title to new query
+        if count < 5:
+            title_words = word_tokenize(title)
+            for w in title_words:
+                synonym_words_list = norm.combine_list(synonym_words_list, norm.get_synonym_list(w))
+        
+        #if count == 0: # Only get abstract from top document(s)
+        #    result_query += xml_doc.get_abstract() + " "
+        
         count += 1
-        """
-    normalized = norm.normalize_tokens(word_tokenize(result_query))
-
+        
+    result_query_list = word_tokenize(result_query)
+    result_query_list = norm.combine_list(result_query_list, synonym_words_list)
+    normalized = norm.normalize_tokens(result_query_list)
     return normalized
 
 #=====================================================#
