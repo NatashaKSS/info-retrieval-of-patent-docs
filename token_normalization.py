@@ -6,18 +6,18 @@ import string
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
 from nltk.corpus import wordnet
-#from nltk.tag.perceptron import PerceptronTagger
+from nltk.tag.perceptron import PerceptronTagger
 
 #======================================================================#
 # Program Description:
 # Normalizes a list of tokens.
 # Applies stemming, case-folding and removal of stop words (specified 
-# by NLTK library).
+# by NLTK library). Can also retrieve a word's synonyms.
 #======================================================================#
 
 class Normalizer():
     stemmer = PorterStemmer()
-    #tagger = PerceptronTagger() # For part-of-speech tagging
+    tagger = PerceptronTagger() # For part-of-speech tagging
     
     """
     Some additional words we deem to be redundant which are specific to this corpus.
@@ -27,26 +27,11 @@ class Normalizer():
             a significant amount of 'judgement' on its relevance
     
     Not included: 
-    Didn't agree with "treatment", "flow", "separ", "system", "remove", "gener", "device", "batteri"...etc
-    Initial F2 = 
-    When these were included...F2 = 0.399234888437083
-    
-    Up for debate:
-    "wash" (Note: this word does not emcompass terms like "washer", "backwash", "dishwash", etc.)
-    "water" (May be too semantically meaningless)
-    "apparatu" and "mechan" and "system"...(Requires further tests)
-    """
-    
-    """ 
-    # This is a larger set of words we think are redundant
-    censored_words = ["method", "includ", "use", "provid", "one", "compris", \
-                      "invent", "contain", "apparatu", "also", "treat", \
-                      "present", "first", "relat", "may", "second", "wherein", "allow", \
-                      "perform", "therebi", "caus", "herein", "mechan"]
+    Didn't agree with "treatment", "flow", "separ", "system", "remove", "gener", "batteri"...etc
     """
     # Note: A smaller set from the words in the above list
-    censored_words = ["method", "process", "includ", "use", "provid", "compris", \
-                      "apparatu", "also", "treat", \
+    censored_words = ["method", "process", "includ", "use", "provid", "compris", "device", \
+                      "apparatu", "mechan", "also", "treat", \
                       "relat", "may", "wherein", "allow", \
                       "therebi", "caus", "herein"]
     
@@ -58,7 +43,6 @@ class Normalizer():
     Normalizes tokens through case-folding and stemming using Porter's Stemmer.
     
     tokens_list    List of unnormalized tokens
-    
     return         List of normalized tokens
     """
     def normalize_tokens(self, tokens_list):
@@ -73,7 +57,7 @@ class Normalizer():
                     if not self.is_redundant_word(tok):
                         normalized_token_list.append(self.stemmer.stem(tok))
             else:
-                if not self.is_redundant_word(token):
+                if not self.is_redundant_word(token) and self.is_noun(token):
                     normalized_token_list.append(self.stemmer.stem(token))
         return normalized_token_list
     
@@ -110,20 +94,18 @@ class Normalizer():
         return synonym_list
     
     """
+    [DEPRECATED] PERFORMANCE ISSUES and LACK OF SIGNIFICANT RESULTS
     Determines if a word is a noun.
     
     word      Word to check
     return    True if this word is a noun, False otherwise 
     """
-    """
     def is_noun(self, word):
-        word = self.stemmer.stem(word.lower())
-        if (word == "") or (word is None) or (not str.isalpha(str(word))):
+        if (word == "") or (word is None):
             return False
         else:
             POS_symbol = self.tagger.tag([word])[0]
             return POS_symbol[1] == "NN"
-    """
     
     #======================================================================#
     # Auxillary helper functions:

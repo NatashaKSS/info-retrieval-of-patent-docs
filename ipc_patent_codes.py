@@ -762,7 +762,7 @@ class IPC_Patent:
     """
     def get_patent_description(self, patent_code):
         self.patent_code = patent_code
-        if len(patent_code)== 0 or not (patent_code in self.patents.keys()):
+        if not (patent_code is None) or len(patent_code)== 0 or not (patent_code in self.patents.keys()):
             return ""
         else:
             return self.patents[patent_code]
