@@ -6,7 +6,8 @@ import string
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
 from nltk.corpus import wordnet
-from nltk.tag.perceptron import PerceptronTagger
+from perceptron import PerceptronTagger
+#from nltk.tag.perceptron import PerceptronTagger
 
 #======================================================================#
 # Program Description:
@@ -47,18 +48,20 @@ class Normalizer():
     """
     def normalize_tokens(self, tokens_list):
         normalized_token_list = []
-
-        for token in tokens_list:
+        tokens_list_POS = self.tagger.tag(tokens_list)
+        
+        for token, part_of_speech in tokens_list_POS:
             token = token.lower()
-            if "-"in token:
-                # We treat hyphenated tokens as separate tokens
-                token_pair = token.split("-")
-                for tok in token_pair:
-                    if not self.is_redundant_word(tok):
-                        normalized_token_list.append(self.stemmer.stem(tok))
-            else:
-                if not self.is_redundant_word(token) and self.is_noun(token):
-                    normalized_token_list.append(self.stemmer.stem(token))
+            if part_of_speech == "NN": # Only nouns will be processed
+                if "-"in token:
+                    # We treat hyphenated tokens as separate tokens
+                    token_pair = token.split("-")
+                    for tok in token_pair:
+                        if not self.is_redundant_word(tok):
+                            normalized_token_list.append(self.stemmer.stem(tok))
+                else:
+                    if not self.is_redundant_word(token):
+                        normalized_token_list.append(self.stemmer.stem(token))
         return normalized_token_list
     
     """
@@ -100,13 +103,15 @@ class Normalizer():
     word      Word to check
     return    True if this word is a noun, False otherwise 
     """
+    """
     def is_noun(self, word):
         if (word == "") or (word is None):
             return False
         else:
             POS_symbol = self.tagger.tag([word])[0]
             return POS_symbol[1] == "NN"
-    
+    """
+        
     #======================================================================#
     # Auxillary helper functions:
     #======================================================================#

@@ -3,9 +3,9 @@
 
 """
 NOTE NEED THESE MODULES TOGETHER WITH SUBMISSION:
-xml_parser.py, token_normalization.py, ipc_patent_codes 
+search_computation.py, xml_parser.py, token_normalization.py, ipc_patent_codes 
 
-BUT NOT (AND PLEASE COMMENT OUT ALL TEST STATEMENTS HERE)
+BUT NOT (AND PLEASE COMMENT OUT ALL TEST STATEMENTS)
 test_driver.py
 """
 import sys
@@ -19,7 +19,7 @@ from token_normalization import Normalizer
 from ipc_patent_codes import IPC_Patent
 from xml_parser import Query
 from xml_parser import Document
-#from test_driver import TestDriver
+from test_driver import TestDriver
 
 # Import NLTK modules needed
 from nltk.tokenize import word_tokenize
@@ -27,7 +27,9 @@ from nltk.tokenize import word_tokenize
 #======================================================================#
 # Program Description:
 # Searches for all relevant PatSnap patents with reference to an XML 
-# formatted search query.
+# formatted search query. Query Expansion (using IPC subclass description, 
+# pseudorelevance expansion with top 10 ranked document titles and synonyms) 
+# is performed as well.
 # 
 # The result of the query will be written to the specified output file, 
 # containing all relevant document IDs.
@@ -63,10 +65,10 @@ def exec_search(query):
 
     # Query expansion - Computing results
     ranked_results = get_relevant_results(set(combined_query_list), query_term_freq_map)
-    
+
     # Test Driver for debugging purposes
-    #my_test = TestDriver(ranked_results)
-    #my_test.process_results()
+    my_test = TestDriver(ranked_results)
+    my_test.process_results()
     
     write_to_output_file(ranked_results)
 
@@ -101,8 +103,6 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map):
         scores = s_compute.compute_weighted_score("abstr", term_postings, \
                                                   query_term_weight, scores)
 
-    # Normalization of docID results vectors
-    # TODO: Nat - Check if supposed to use query idf for query vector normalization? Note: Does not affect current results
     scores = s_compute.normalize_scores(scores, list_of_query_idf)
     
     # Ranks the scores in descending order and removes entries with score = 0
@@ -110,6 +110,7 @@ def get_relevant_results(list_of_query_terms, query_term_freq_map):
     ranked_scores_top_10 = ranked_scores[:10]
     ranked_docIDs = [score_pair[0] for score_pair in ranked_scores]
     
+    # For debugging
     #print "TOP 50 Ranked scores and positions (position, score):"
     #print [(ranked_scores.index(docID_score_pair) + 1, docID_score_pair) for docID_score_pair in ranked_scores][:50]
     #print
@@ -135,31 +136,32 @@ def get_ranked_scores(scores):
 IPC Query expansion: Finds the most frequently occurring IPC subclass
 
 pos       Position of the IPC code to be retrieved from the ranked list
-
-return    Best IPC subclass that occurs most frequently in the top 10 docs
+return    Best IPC subclass at a specified position that occurs most 
+          frequently in the top 10 docs. Returns empty string if the IPC code 
+          at the position does not exist.
 """
 def get_best_IPC_code(pos):
     IPC_class_list = {}
     
     for doc_ID, doc_score in ranked_scores_top_10:
         ipc_class = get_docID_IPC(doc_ID)
-        
         if ipc_class in IPC_class_list.keys():
             IPC_class_list[ipc_class] += 1
         else:
             IPC_class_list[ipc_class] = 1
-    # This only gets the IPC class in the first position
-    # best_IPC_code = max(IPC_class_list.iteritems(), key = operator.itemgetter(1))[0]
-    best_IPC_code = sorted(IPC_class_list.items(), \
-                           key = operator.itemgetter(1), reverse = True)[pos - 1][0]
-    
-    return best_IPC_code
+
+    IPC_code_list = sorted(IPC_class_list.items(), key = operator.itemgetter(1), reverse = True)
+    if pos <= len(IPC_code_list):
+        best_IPC_code = IPC_code_list[pos - 1][0]
+        return best_IPC_code
+    else: 
+        # IPC code at pos does not exist
+        return ""
 
 """
 Gets the normalized list of query tems from the Top 2 IPC descriptions
 
 norm       Normalizer object
-
 return     List of IPC description terms that have been normalized
 """
 def get_IPC_query_list(norm):
@@ -168,12 +170,12 @@ def get_IPC_query_list(norm):
     ipc_patent_description += " " + ipc_patents.get_patent_description(get_best_IPC_code(2))
     
     normalized = norm.normalize_tokens(word_tokenize(ipc_patent_description))
-
     return normalized
 
 """
 Obtains the abstract of the top 10 documents and gels them to form a new query list.
 Parses the XML document of the top 10 documents from disk.
+Also adds synonyms for the top ranked document(s)' title to the query.
 
 return    List of document abstract terms that have been normalized
 """
@@ -193,15 +195,16 @@ def get_doc_abstract_query_List(norm):
         title = xml_doc.get_title()
         result_query +=  title + " "
         
+        """
+        if count < 1: # Only get abstract from top document(s)
+            result_query += xml_doc.get_abstract() + " "
+        """
+    
         # Adds synonyms for the top ranked document's title to new query
-        if count < 5:
+        if count <= 10:
             title_words = word_tokenize(title)
             for w in title_words:
                 synonym_words_list = norm.combine_list(synonym_words_list, norm.get_synonym_list(w))
-        
-        #if count == 0: # Only get abstract from top document(s)
-        #    result_query += xml_doc.get_abstract() + " "
-        
         count += 1
         
     result_query_list = word_tokenize(result_query)
