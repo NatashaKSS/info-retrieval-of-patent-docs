@@ -1,4 +1,4 @@
-# BeefDumplings
+# Information Retrieval - Patent Documents
 > CS3245 Information Retrieval Assignment Collaboration
 
 Search engine that indexes and retrieves relevant XML documents from patents in the PatSnap corpus.
